@@ -16,7 +16,7 @@ search: false
 
 ### Cyno Normal Attack ICDs
 
-**By:** Bobrokrot\#0111
+**By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno spear Normal attacks have standard ICD, spear Charged attacks have no ICD.
@@ -30,7 +30,7 @@ search: false
 
 ### Cyno E Gauge Outside Burst
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno Elemental Skill outside of Elemental Burst Gauge is 1U.
@@ -42,7 +42,7 @@ search: false
 
 ### Cyno E ICD Outside Burst
 
-**By:** Bobrokrot\#0111
+**By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno E outside of burst has no ICD.
@@ -54,7 +54,7 @@ search: false
 
 ### Cyno E Snapshotting Outside  Burst
 
-**By:** Bobrokrot\#0111
+**By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno E outside of Burst does not snapshot.
@@ -66,7 +66,7 @@ search: false
 
 ### Cyno E Particle Generation Outside Burst
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno Elemental Skill outside of Elemental Burst produces 3 particles.
@@ -80,7 +80,7 @@ search: false
 
 ### Cyno Burst NA Gauge
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno Elemental Burst NA Gauge is 1U.
@@ -92,7 +92,7 @@ search: false
 
 ### Cyno Burst NA ICD
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno Burst NA has standard ICD.
@@ -104,7 +104,7 @@ search: false
 
 ### Cyno Burst N5 Steering
 
-**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno's converted N5 can be manually steered mid-animation using direction keys, even when locked on to a target.
@@ -116,7 +116,7 @@ search: false
 
 ### Cyno Burst N3 and N5 Are Blunt
 
-**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno's converted N5 can be manually steered mid-animation using direction keys, even when locked on to a target.
@@ -129,7 +129,7 @@ search: false
 
 ### Cyno Burst Skill Gauge
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno Elemental Skill inside of Elemental Burst Gauge is 1U.
@@ -141,7 +141,7 @@ search: false
 
 ### Cyno Burst Skill Particle Generation
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno Elemental Skill inside of Elemental Burst produces 1-2 particles.
@@ -153,7 +153,7 @@ search: false
 
 ### Cyno Burst NA and Skill Have Separate ICD
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno Q NA and E have separate ICD.
@@ -165,7 +165,7 @@ search: false
 
 ### Cyno Burst Activation Snapshotting
 
-**By:** Bobrokrot\#0111
+**By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Burst activation does not snapshot (Properties of individual attacks during Burst not tested).
@@ -179,7 +179,7 @@ search: false
 
 ### Cyno A1 Gauge and ICD
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Duskstalker Bolt (A1) Gauge is 1U and Elemental Skill and Bolts have Separate ICD.
@@ -191,7 +191,7 @@ search: false
 
 ### Cyno A1 DMG Buff Interaction With Duskstaler Bolts
 
-**By:** Bobrokrot\#0111
+**By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno A1 does not buff Duststalker Bolts.
@@ -203,7 +203,7 @@ search: false
 
 ### Cyno A1 Gauge and ICD
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Duskstalker Bolt (A1) Gauge is 1U and Elemental Skill and Bolts have Separate ICD.
@@ -215,7 +215,7 @@ search: false
 
 ### Cyno A1 DMG Buff Interaction With Duskstaler Bolts
 
-**By:** Bobrokrot\#0111
+**By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno A1 does not buff Duststalker Bolts.
@@ -225,7 +225,7 @@ search: false
 
 **Significance:** None.### Cyno A1 Gauge and ICD
 
-**By:** Akane\#0926
+**By:** Akane\#0926  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Duskstalker Bolt (A1) Gauge is 1U and Elemental Skill and Bolts have Separate ICD.
@@ -237,7 +237,7 @@ search: false
 
 ### Cyno A1 DMG Buff Interaction With Duskstaler Bolts
 
-**By:** Bobrokrot\#0111
+**By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno A1 does not buff Duststalker Bolts.
@@ -253,7 +253,7 @@ search: false
 
 ### Interaction Between Cyno and Beidou While In Burst
 
-**By:** Magnus Artifex\#8719
+**By:** Magnus Artifex\#8719  
 **Added:** <Version date="2022-11-08" /> 
 
 **Findings:** Cyno can trigger Stormbreaker procs during his burst.
