@@ -39,7 +39,9 @@ search: false
 ### Cyno Burst N5 Steering
 
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
-**Added:** <Version date="2022-11-08" /> 
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cyno-basic-mechanics)  
 
 **Findings:** Cyno's converted N5 can be manually steered mid-animation using direction keys, even when locked on to a target.
 
@@ -51,13 +53,15 @@ search: false
 ### Cyno Burst N3 and N5 Are Blunt
 
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
-**Added:** <Version date="2022-11-08" /> 
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cyno-basic-mechanics)  
 
 **Findings:** Cyno's N3 and N5 are blunt.
 
 **Evidence:**  
-[Shatter on N3 and N5](https://imgur.com/a/vpBE3b0)
-[Mining](https://imgur.com/a/c4zLC1r)
+[Shatter on N3 and N5](https://imgur.com/a/vpBE3b0)  
+[Mining](https://imgur.com/a/c4zLC1r)  
 
 **Significance:** Cyno can mine for 80 energy. Jokes aside it's decent against geo shields
 
@@ -68,7 +72,9 @@ search: false
 #### Cyno A1 DMG Buff Interaction With Duskstaler Bolts
 
 **By:** Bobrokrot\#0111  
-**Added:** <Version date="2022-11-08" /> 
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-09-28" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cyno-basic-mechanics)  
 
 **Findings:** Cyno A1 does not buff Duststalker Bolts.
 
@@ -84,7 +90,9 @@ search: false
 ### Interaction Between Cyno and Beidou While In Burst
 
 **By:** Magnus Artifex\#8719  
-**Added:** <Version date="2022-11-08" /> 
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-09-28" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cyno-basic-mechanics)  
 
 **Findings:** Cyno can trigger Stormbreaker procs during his burst.
 
