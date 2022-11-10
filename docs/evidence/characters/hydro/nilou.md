@@ -8,7 +8,8 @@ search: false
 
 <Card item={require('../../../characters/hydro/nilou.md')} />
 
-## Basic Mechanics
+## Basic Mechanics  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1z0v3NT1o1iNrVppT_S0C542YDo6jhdKShLcPsnavfO8/edit?usp=sharing) - Kolibri\#7675
 * Gauges
@@ -31,7 +32,9 @@ Additionally, Sword Dance attacks from ending the skill combo with NA do not gen
 ### Nilou Entering Both Skill Stances
 
 **By:** Maes\#6425  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 * Nilou can enter both stances at the same time using Sacrificial Sword.
@@ -45,7 +48,9 @@ Additionally, Sword Dance attacks from ending the skill combo with NA do not gen
 ### Nilou Skill CD and Infusion CD
 
 **By:** Dianoia\#2640  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-18" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 Nilou's E cooldown starts on initial cast, but the infusion duration does not start until the 3rd slash.
@@ -62,7 +67,9 @@ Smoother vape Nilou rotations.
 ### Nilou Tranquility Aura Counts as 0 DMG Hit
 
 **By:** Alpha Flyte\#2031  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 Nilou Tranquility Aura counts as a 0-dmg hit.
@@ -76,7 +83,9 @@ May trigger certain on-hit effects.
 ### Nilou NA Combo Reset
 
 **By:** Trosalio\#0420  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-17" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 While under the Pirouette or Lunar Prayer effects, Nilou's Normal Attack combo will not be reset.
@@ -89,7 +98,9 @@ While under the Pirouette or Lunar Prayer effects, Nilou's Normal Attack combo w
 ### Nilou Skill N3 Dash Cancel
 
 **By:** Dianoia\#2640  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-18" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 Nilou's N3 can be dash cancelled very early. Well-timed dash cancels does not cause her to lose infusion slashes, thus making her an extremely mobile on-fielder.
@@ -103,7 +114,9 @@ On-field driver potential, QoL vs. mobile enemies.
 ### Nilou Skill N3 Counts as Ranged Attack
 
 **By:** Alpha Flyte\#2031  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 Nilou Luminous Illusion (Sword Dance 3rd Hit) is considered a ranged attack.
@@ -117,7 +130,9 @@ Nilou is not effective as a miner nor a Geo shield breaker, certain effects that
 ### Nilou Prefunneling With Skill
 
 **By:** Dianoia\#2640  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-18" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 E N2 Q N1 allows particle pre-funneling.
@@ -132,10 +147,14 @@ Opening rotation particle efficiency, allows C4 energy refund to be used on the 
 
 ## Ascension Mechanics
 
-### Nilou A4 Bloom Bonus DMG% Type
+### A4: Dreamy Dance of Aeons
+
+#### Nilou A4 Bloom Bonus DMG% Type
 
 **By:** Kibokari\#8307  
 **Added:** <Version date="2022-11-08" />
+**Last Tested:** <Version date="2022-10-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 Confirmation to Nilou's A4 being additive to the Bloom Reaction Bonus from EM.
@@ -154,7 +173,9 @@ Confirmation to Nilou's A4 being additive to the Bloom Reaction Bonus from EM.
 #### Nilou C4 Trick to Buff Q DMG
 
 **By:** Dianoia\#2640  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-18" />   
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 Nilou's c4 buffs the 2nd Q tick with the combo: E N2 Q N1.
@@ -170,7 +191,9 @@ Vape Nilou opening combo.
 ### Nilou Skill NAs Triggering Beidou, Xingqiu
 
 **By:** Bobrokrot\#0111  
-**Added:** <Version date="2022-11-08" />
+**Added:** <Version date="2022-11-08" />  
+**Last Tested:** <Version date="2022-10-17" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
 Similarly to Raiden, Nilou's normal attacks during her elemental skill do not trigger effects such as Beidou's burst but do trigger effects such as XQ's burst.
