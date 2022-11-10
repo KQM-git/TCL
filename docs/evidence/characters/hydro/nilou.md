@@ -11,42 +11,22 @@ search: false
 ## Basic Mechanics
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1z0v3NT1o1iNrVppT_S0C542YDo6jhdKShLcPsnavfO8/edit?usp=sharing) - Kolibri\#7675
+* Gauges
+  * Skill Initial: 1A - [kxmndz#4700](https://youtu.be/ZR15KAix-kg)
+  * Skill Pirouette: 1A - [kxmndz#4700](https://youtu.be/XBOk6cE5B5A)
+  * Skill Sword Dance: 1A - [kxmndz#4700](https://youtu.be/se3VJP0jVG8)
+  * Burst 1st Hit: 1A - [kxmndz#4700](https://youtu.be/kAlX3Lz5lYY)
+  * Burst 2nd Hit: 1A - [kxmndz#4700](https://youtu.be/5T03ECdN2fc)
+* ICD
+  * Skill Tranquility Aura - [Trosalio#0420](https://www.youtube.com/watch?v=DzMtLDZI4OM)
+* Snapshotting
+  * Burst has Dynamic Snapshotting - [Bobrokrot#0111](https://youtu.be/6biX2sOt1aY)
 
 ## Attack Mechanics
 
 ## Skill Mechanics
-
-### Nilou Skill Gauges
-
-**By:**kxmndz\#4700  
-**Added:** <Version date="2022-11-08" />
-
-**Finding:** 
-* Initial cast: 1A
-* Pirouette hits: 1A
-* Sword Dance: 1A
-
-**Evidence:**
-[Skill Initial - Youtube](https://youtu.be/ZR15KAix-kg)
-[Skill Pirouette - Youtube](https://youtu.be/XBOk6cE5B5A)
-[Skill Sword Dance - Youtube](https://youtu.be/se3VJP0jVG8)
-
-**Significance:**
-
-### Nilou Skill Particle Generation
-
-**By:** Alpha Flyte\#2031  
-**Added:** <Version date="2022-11-08" />
-
-**Finding:** 
-Nilou generates particles on all 4 hits of her skill combo, initiating skill may give 1-2, rest give 1, for a total of 4-5 particles per skill.
-Additionally, Sword Dance attacks from ending the skill combo with NA do not generate particles, neither does Tranquility Aura making enemies Wet.
-
-**Evidence:**
-[Youtube](https://youtu.be/LMMrcmpUBg8)
-
-**Significance:** 
-Can calculate ER reqs for Nilou and Hydro teammates more effectively, among others.
+* Nilou Skill generates particles on all 4 hits of her skill combo, initiating skill may give 1-2, rest give 1, for a total of 4-5 particles per skill.
+Additionally, Sword Dance attacks from ending the skill combo with NA do not generate particles, neither does Tranquility Aura making enemies Wet - [Alpha Flyte#2031](https://youtu.be/LMMrcmpUBg8)
 
 ### Nilou Entering Both Skill Stances
 
@@ -78,19 +58,6 @@ Smoother vape Nilou rotations.
 1. Q can be used before the 3rd slash so that it does not eat into E infusion uptime.
 2. Since the first 3 hits (E n2) are technically not part of her infusion duration, Key can be fully stacked by slowing down the opening n2 to account for Key's 0.3s stack CD, allowing for maximum Q vape damage.
 3. Using the E n2 Q n1 combo, Nilou's c4 buffs the 2nd Q hit without taking away from infusion uptime.
-
-### Nilou Tranquility Aura ICD
-
-**By:** Trosalio\#0420  
-**Added:** <Version date="2022-11-08" />
-
-**Finding:** 
-Nilou's Tranquility Aura applies Wet roughly every 2 seconds (Varies between 119 - 120 Frames).
-
-**Evidence:**
-[Youtube](https://www.youtube.com/watch?v=DzMtLDZI4OM)
-
-**Significance:** 
 
 ### Nilou Tranquility Aura Counts as 0 DMG Hit
 
@@ -163,34 +130,6 @@ Opening rotation particle efficiency, allows C4 energy refund to be used on the 
 
 ## Burst Mechanics
 
-### Nilou Burst Gauges
-
-**By:**kxmndz\#4700  
-**Added:** <Version date="2022-11-08" />
-
-**Finding:** 
-* 1st Hit: 1A
-* 2nd Hit: 1A
-
-**Evidence:**
-[Burst 1st Hit - Youtube](https://youtu.be/kAlX3Lz5lYY)
-[Burst 2nd Hit - Youtube](https://youtu.be/5T03ECdN2fc)
-
-**Significance:**
-
-### Nilou Burst Dynamic Snapshotting
-
-**By:** Bobrokrot\#0111  
-**Added:** <Version date="2022-11-08" />
-
-**Finding:** 
-Nilou's Burst first hit is practically dynamic, the last his snapshots at the first hit.
-
-**Evidence:**
-[Youtube](https://youtu.be/6biX2sOt1aY)
-
-**Significance:** 
-
 ## Ascension Mechanics
 
 ### Nilou A4 Bloom Bonus DMG% Type
@@ -210,7 +149,9 @@ Confirmation to Nilou's A4 being additive to the Bloom Reaction Bonus from EM.
 
 ## Constellation Mechanics
 
-### Nilou C4 Trick to Buff Q DMG
+### C4: Fricative Pulse
+
+#### Nilou C4 Trick to Buff Q DMG
 
 **By:** Dianoia\#2640  
 **Added:** <Version date="2022-11-08" />
