@@ -36,6 +36,8 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 <Weapon weapon="Key of Khaj-Nisut" weapons={swords}>
 
 * Key of Khaj-Nisut's EM buff does not affect Kazuha's A4 buff. [CrystalOfSugar\#8624](../../evidence/equipment/weapons.md#key-of-khaj-nisut)
+* Stacks remain even after switching out, and they share their duration, meaning they expire at the same time when the timer of the last stack gained expires.
+* Stacks cannot be gained when the user is off-field, and the duration of the stacks continues counting down even when the user is off-field.
 
 </Weapon>
 
@@ -190,8 +192,11 @@ import SacSeries from './\_common/sac_series.md';
 <Weapon weapon="Xiphos' Moonlight" weapons={swords}>
 
 * Xiphos does not affect Raiden's Ascension 4 Passive, nor does it affect Emblem of Severed Fate's Burst DMG% Bonus. [Casdela\#5121](../../evidence/equipment/weapons.md#xiphos-moonlight)
+* Xiphos buff begins 64 frames after it's equipped, all timers are reset when removed or when enter/exit domains \(including challenge again, abyss try again, etc.\), allowing the buff to reapply 64 frames after re-equipping or enter/exit domains regardless of the previous timer.
+* Xiphos buff snapshots.
 
 </Weapon>
+
 ## 3 Stars
 
 ### Cool Steel
