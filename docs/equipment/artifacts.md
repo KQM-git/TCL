@@ -356,6 +356,12 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="The Exile">
 
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
+* Energy regeneration doesn't start immediately, but after 2s, and ticks every 2s for 3 times.
+* While the 2nd and 3rd Energy regeneration ticks occur with intervals of 2.02s ± 0.03s, the first tick occurs 0.08s \(5 frames\) slower \(statistically significant\) at 2.09s ± 0.06s for unknown reasons.
+  * These timings aren't affected by different characters' different Burst animations times.  
+* The Energy regeneration ticks are subject to hitlag.  
+* Characters that have longer Energy consumption frames may not receive the first Energy regeneration tick.
+* Rotations can affect the number of received Energy regeneration ticks.
 
 </Artifact>
 
