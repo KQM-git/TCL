@@ -32,20 +32,20 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type  |
-| :----- | :--------------- | :----- | :-------- | :----------- | :------------ |
-| 1-Hit  | 90.5%            | 16     | 339.38%/s | 45.82        | 3             |
-| 2-Hit  | 88.04%           | 30     | 176.08%/s | 44.58        | 3             |
-| 3-Hit  | 53.84% \+ 53.84% | 32     | 201.90%/s | 27.26 ×2     | 2 \+ 3        |
-| 4-Hit  | 139.43%          | 65     | 128.70%/s | 70.60        | 3             |
+| String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 90.5%            | 16     | 339.38%/s | 45.82        | 3            |
+| 2-Hit  | 88.04%           | 30     | 176.08%/s | 44.58        | 3            |
+| 3-Hit  | 53.84% \+ 53.84% | 32     | 201.90%/s | 27.26 ×2     | 2 \+ 3       |
+| 4-Hit  | 139.43%          | 65     | 128.70%/s | 70.60        | 3            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 224.83%          | 24     | 201.34%/s | 120          | 5            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| CA     | 224.83%   | 24     | 201.34%/s | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -66,19 +66,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute                 | Skill       | Mortuary Rite |
-| :-----------------------  | :---------- | :------------ |
-| DMG \(T9%\)               | 221.68%     | 266.56%       |
-| Particles                 | 2~3 \(1:1\) | 1~2 \(1:2\)   |
-| GU                        | 1A          | 1A            |
-| ICD                       | 0.2s        | None          |
-| Snapshot                  |             |               |
-| Damage Element            | Electro     | Electro       |
-| Damage Type               | Skill       | Skill         |
-| Duration                  | 4s          | 4s            |
-| CD                        | 7.5s        | 3s            |
-| Poise Damage              | 50          | 75            |
-| Impulse Type              | 3           | 3             |
+| Attribute      | Skill    | Mortuary Rite |
+| :------------- | :------- | :------------ |
+| DMG \(T9%\)    | 221.68%  | 266.56%       |
+| Particles      | 3 \(\-\) | 1~2 \(1:2\)   |
+| GU             | 1A       | 1A            |
+| ICD            | 0.2s     | None          |
+| Snapshot       | Dynamic  | Dynamic       |
+| Damage Element | Electro  | Electro       |
+| Damage Type    | Skill    | Skill         |
+| Duration       | 4s       | 4s            |
+| CD             | 7.5s     | 3s            |
+| Poise Damage   | 50       | 75            |
+| Impulse Type   | 3        | 3             |
 
 </div>
 
@@ -89,39 +89,45 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute         | Burst           |
-| :---------------- | :-------------- |
-| GU                | 1A              |
-| ICD               | 3 hit / 2.5s    |
-| Snapshot          | Dynamic         |
-| Damage Element    | Electro         |
-| Damage Type       |                 |
-| Energy Cost       | 80              |
-| Duration          | 10s             |
-| Cooldown          | 20s             |
-| Poise Damage      | 400             |
-| Impulse Type      | Heavy, 600, 0   |
-| EM Bonus          | 100             |
+| Attribute      | Burst         |
+| :------------- | :------------ |
+| GU             | 1A            |
+| ICD            | 3 hit / 2.5s  |
+| Snapshot       | Dynamic       |
+| Damage Element | Electro       |
+| Damage Type    | Burst         |
+| Energy Cost    | 80            |
+| Duration       | 10s           |
+| Cooldown       | 20s           |
+| Poise Damage   | 400           |
+| Impulse Type   | Heavy, 600, 0 |
+| EM Bonus       | 100           |
 
 </div>
 
-| String     | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type  |
-| :--------- | :-------- | :----- | :-------- | :----------- | :------------ |
-| 1-Hit      | 143.82%   | 17     | 507.6%/s  | 46.98        | 3             |
-| 2-Hit      | 151.51%   | 32     | 284.08%/s | 49.91        | 3             |
-| 3-Hit      | 178.85%   | 43     | 268.23%/s | 64.02        | Heavy, 550, 0 |
-| 4-Hit      | 94.97% x2 | 30     | 379.88%/s | 32.50 x2     | 2 \+ 3        |
-| 5-Hit      | 240.39%   | 69     | 240.39%/s | 77.70        | 5             |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type  |
+| :----- | :-------- | :----- | :-------- | :----------- | :------------ |
+| 1-Hit  | 143.82%   | 17     | 507.6%/s  | 46.98        | 3             |
+| 2-Hit  | 151.51%   | 32     | 284.08%/s | 49.91        | 3             |
+| 3-Hit  | 178.85%   | 43     | 268.23%/s | 64.02        | Heavy, 550, 0 |
+| 4-Hit  | 94.97% x2 | 30     | 379.88%/s | 32.50 x2     | 2 \+ 3        |
+| 5-Hit  | 240.39%   | 69     | 240.39%/s | 77.70        | 5             |
 
-| String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 185.65%          | 69     | 161.43%/s | 120          | 6            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| CA     | 185.65%   | 69     | 161.43%/s | 120          | 6            |
 
 | Damage Type     | Talent 9% |
 | :-------------- | :-------- |
 | Plunge DMG      | 117.46%   |
 | Low Plunge DMG  | 234.86%   |
 | High Plunge DMG | 293.36%   |
+
+**Notes:**  
+
+* N5 can be manually steered mid-animation using direction keys, even when locked on to a target.
+* N3 and N5 are blunt.
+* Cyno can trigger [Stormbreaker](beidou.md#attacks) with his converted attacks.
 
 </TabItem>
 </Tabs>
@@ -144,6 +150,11 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+
+**Notes:**  
+
+* The buff does not apply to Duststalker Bolts.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
