@@ -73,6 +73,7 @@ import Skill from '@site/src/components/char/Skill'
 * Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.
 * **Kindling Arrows** are affected by [Amos' Bow](../../equipment/weapons/bows.md#amos-bow)'s passive and reach max stacks at low range.
 * When hitting a weakspot with **Kindling Arrows**, Yoimiya can activate the [Prototype Crescent](../../equipment/weapons/bows.md#prototype-crescent) passive but not always crit.
+* How Yoimiya's N1 hits trigger [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering) differs depending on range.
 
 </TabItem>
 
