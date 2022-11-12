@@ -12,7 +12,7 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/cyno-basic-mechanics)
 
-* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1BxBymOtw3To2lE7OfNiM5xQO-nkY_IKwvfTSCOFbqC0/edit?usp=sharing) - Kolibri\#7675
+* Frame data - [Kolibri\#7675](https://docs.google.com/spreadsheets/d/1BxBymOtw3To2lE7OfNiM5xQO-nkY_IKwvfTSCOFbqC0/edit?usp=sharing)
 * Gauges
   * NAs Inside Burst: 1U - [Akane#0926](https://youtu.be/5Ja9trxNudc)
   * Skill Outside Burst: 1U - [Akane#0926](https://youtu.be/ZYitBIi4DLk)
