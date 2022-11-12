@@ -1775,7 +1775,7 @@ The Xiphos buff, that snapshot Elegy's 12.667s EM buff, lasts for at least 18.73
   
 **Significance:**  
 Confirms that the Tulaytullah Weapon Series gives buff that re-snapshots every 10s.
-On paper it sounds good, but it's unreliable to snapshot any buffs that lasts less than 10s, because there is absolutely no indication whatsoever of when the buff re-snapshots.
+On paper it sounds good, but it's unreliable to snapshot any buff that lasts less than 10s, because there is absolutely no indication whatsoever of when the buff re-snapshots.
 
 ---
 
