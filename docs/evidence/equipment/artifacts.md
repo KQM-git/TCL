@@ -382,7 +382,7 @@ Echoes uses total ATK (as expected) including buffs from Bennett, 4pc Noblesse, 
 
 **Evidence:** 
 * Bennett + Echo Hu Tao: [YouTube](https://youtu.be/z7z64VLHLkI)
-* Staff of Homa + Echo Hu Tao: [Youtube](https://youtu.be/giX6K8wMDow)
+* Staff of Homa + Echo Hu Tao: [YouTube](https://youtu.be/giX6K8wMDow)
 * Homa (<50% HP) + Echo Hu Tao: [Youtube](https://youtu.be/9gOWwzUQt2s)
 [Math: docs.google.com](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)
 
