@@ -165,7 +165,8 @@ Confirmation to Nilou's A4 being additive to the Bloom Reaction Bonus from EM.
 [Approximation - Imgur](https://imgur.com/L8ZoITh)
 Damage In-Game: [Imgur](https://imgur.com/Pj9yE8u)  
 
-**Significance:** Nilou's A4 is a decent boost rather than a very powerful one.
+**Significance:**  
+Nilou's A4 is a decent boost rather than a very powerful one.
 
 ## Constellation Mechanics
 
