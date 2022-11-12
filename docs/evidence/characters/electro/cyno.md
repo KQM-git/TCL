@@ -85,7 +85,8 @@ Cyno A1 does not buff Duststalker Bolts.
 **Evidence:**  
 [YouTube](https://youtu.be/i7T4EkLDRe4)
 
-**Significance:** None.
+**Significance:**  
+Further understanding of Cyno's A1.  
 
 ## Constellation Mechanics
 
