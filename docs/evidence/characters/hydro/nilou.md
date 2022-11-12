@@ -142,7 +142,7 @@ E N2 Q N1 allows particle pre-funneling.
 [YouTube](https://youtu.be/LUo5HcADJVw)
 
 **Significance:** 
-Opening rotation particle efficiency, allows C4 energy refund to be used on the opening rotation.
+Opening rotation particle efficiency, allows C4 Energy refund to be used on the opening rotation.
 
 ## Burst Mechanics
 
