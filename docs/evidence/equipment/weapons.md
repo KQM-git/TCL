@@ -1077,7 +1077,7 @@ Key of Khaj-Nisut stacks remain even after switching out, and they share their d
 [YouTube](https://youtu.be/P49pDWYUJIU)  
   
 **Significance:**  
-No real demerit to switching out the Key user once stacks have been gained.
+No real demerit to switching out the Key user once stacks have been gained.  
 Key user must periodically refresh stacks to maintain uptime of the buff, since the buff once maxed is either 100% up or 100% down, meaning all 3 stacks must be gained again.  
 
 #### Key of Khaj-Nisut Stacks Cannot be Gained while Off-Field
