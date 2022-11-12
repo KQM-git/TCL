@@ -123,7 +123,7 @@ On-field driver potential, QoL vs. mobile enemies.
 Nilou Luminous Illusion (Sword Dance 3rd Hit) is considered a ranged attack.
 
 **Evidence:**
-[Youtube](https://youtu.be/5NJMVINdq04)
+[YouTube](https://youtu.be/5NJMVINdq04)
 
 **Significance:** 
 Nilou is not effective as a miner nor a Geo shield breaker, certain effects that rely on ranged attacks may function with the slash.
