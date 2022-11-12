@@ -182,7 +182,7 @@ Damage In-Game: [Imgur](https://imgur.com/Pj9yE8u)
 Nilou's c4 buffs the 2nd Q tick with the combo: E N2 Q N1.
 
 **Evidence:**
-[Youtube](https://youtu.be/GHqLiVlxDbY)
+[YouTube](https://youtu.be/GHqLiVlxDbY)
 
 **Significance:** 
 Vape Nilou opening combo.
