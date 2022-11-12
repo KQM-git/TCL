@@ -65,7 +65,8 @@ Cyno's N3 and N5 are blunt.
 [Shatter on N3 and N5](https://imgur.com/a/vpBE3b0)  
 [Mining](https://imgur.com/a/c4zLC1r)  
 
-**Significance:** Cyno can mine for 80 energy. Jokes aside it's decent against geo shields
+**Significance:**  
+Cyno can mine for 80 Energy. Jokes aside it's decent against Geo shields.  
 
 ## Ascension Mechanics
 
