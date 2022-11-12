@@ -1668,7 +1668,7 @@ Changes Abyss team slotting and potentially optimal team rotation when using The
 **Added:** <Version date="2022-11-09" />  
 
 **Finding:**  
-Xiphos and Evenstar gives buff 64 frames after equipped, all timers are reset when removed or when enter/exit domains (including challenge again, abyss try again), allowing the buff to reapply 64 frames after re-equipping or enter/exit domains regardless of the previous timer.
+Xiphos and Evenstar give their respective buffs 64 frames after being equipped, all timers are reset when removed or when entering/exiting domains (including challenge again, abyss try again), allowing the buff to re-apply 64 frames after re-equipping or entering/exiting domains regardless of the previous timer.
   
 **Evidence:**  
 [YouTube](https://youtu.be/Jjo54rCDZ-w)
