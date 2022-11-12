@@ -2104,7 +2104,7 @@ Deaths by the environment are inevitable in the overworld and can be taken advan
 1. Tri Lakshana creatures in the Normal and Activated states have Dendro auras and can be applied with Hydro to create Bloom cores.  
   * This does not apply to the Scorched state  
   * Starshrooms in the Chasm Underground are not Tri Lakshana creatures.  
-2. Bubble attacks of Hydro Floating Fungi/Hydro Slime can be attacked with Dendro to break it and also produce a Bloom core  
+2. Bubble attacks of Hydro Floating Fungi/Hydro Slime can be attacked with Dendro to break it and also produce a Bloom core.  
 3. In addition to Electro Crystals being capable of holding Cryo and Hydro auras, they can also hold Dendro auras and be used to produce Blooms.  
 4. Baron Bunny can create Blooms in overworld water.  
 Bonus: Bloom Cores sink in water. Sometimes this looks weird.  
