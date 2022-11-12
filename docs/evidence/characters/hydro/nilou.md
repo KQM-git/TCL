@@ -92,7 +92,7 @@ May trigger certain on-hit effects.
 While under the Pirouette or Lunar Prayer effects, Nilou's Normal Attack combo will not be reset.
 
 **Evidence:**
-[Youtube](https://www.youtube.com/watch?v=eXktMCQSYG4)
+[YouTube](https://www.youtube.com/watch?v=eXktMCQSYG4)
 
 **Significance:** 
 
