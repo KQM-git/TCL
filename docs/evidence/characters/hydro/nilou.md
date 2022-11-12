@@ -180,7 +180,7 @@ Nilou's A4 is a decent boost rather than a very powerful one.
 [Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
-Nilou's c4 buffs the 2nd Q tick with the combo: E N2 Q N1.
+Nilou's C4 buffs the 2nd Q tick with the combo: E N2 Q N1.
 
 **Evidence:**
 [YouTube](https://youtu.be/GHqLiVlxDbY)
