@@ -83,7 +83,7 @@ Cyno can mine for 80 Energy. Jokes aside it's decent against Geo shields.
 Cyno A1 does not buff Duststalker Bolts.
 
 **Evidence:**  
-[Youtube](https://youtu.be/i7T4EkLDRe4)
+[YouTube](https://youtu.be/i7T4EkLDRe4)
 
 **Significance:** None.
 
