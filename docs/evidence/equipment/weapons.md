@@ -1765,7 +1765,7 @@ This info has no practical application other than to test buff timings.
 **Added:** <Version date="2022-11-09" />  
 
 **Finding:**  
-Xiphos buff snapshots, and it snapshots every 10s.
+Xiphos buff snapshots once every 10s.
 
 **Evidence:**  
 [YouTube](https://youtu.be/bEWKhbj3wX4)  
