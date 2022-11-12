@@ -105,5 +105,5 @@ Cyno can trigger [Stormbreaker](../../../characters/electro/beidou.md#attacks) d
 **Evidence:**  
 [Imgur](https://imgur.com/a/FBa8W7E)
 
-**Significance:**
+**Significance:**  
 Cyno-Beidou synergy is real.
