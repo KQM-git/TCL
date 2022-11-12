@@ -359,6 +359,7 @@ The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persi
 ### Echoes Basic Mechanics
 
 #### Echoes Flat DMG Not Limited to Single Target  
+
 **By:** ItzSomebody\#0029  
 **Added:** <Version date="2022-11-09" />  
 **Last tested:** <VersionHl date="2022-04-04" />  
