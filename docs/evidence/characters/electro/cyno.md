@@ -48,7 +48,8 @@ Cyno's converted N5 can be manually steered mid-animation using direction keys, 
 **Evidence:**  
 [Imgur](https://imgur.com/a/4ZWFZFP)
 
-**Significance:** None.
+**Significance:**  
+More control over N5.  
 
 ### Cyno Burst N3 and N5 Are Blunt
 
