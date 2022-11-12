@@ -107,7 +107,7 @@ While under the Pirouette or Lunar Prayer effects, Nilou's Normal Attack combo w
 Nilou's N3 can be dash cancelled very early. Well-timed dash cancels does not cause her to lose infusion slashes, thus making her an extremely mobile on-fielder.
 
 **Evidence:**
-[Youtube](https://youtu.be/sScJ3K44T6s)
+[YouTube](https://youtu.be/sScJ3K44T6s)
 
 **Significance:** 
 On-field driver potential, QoL vs. mobile enemies.
