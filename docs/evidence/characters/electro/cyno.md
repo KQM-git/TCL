@@ -99,7 +99,8 @@ Further understanding of Cyno's A1.
 **Last Tested:** <Version date="2022-09-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/cyno-basic-mechanics)  
 
-**Findings:** Cyno can trigger Stormbreaker procs during his burst.
+**Finding:**  
+Cyno can trigger [Stormbreaker](../../../characters/electro/beidou.md#attacks) during his Burst.
 
 **Evidence:**  
 [Imgur](https://imgur.com/a/FBa8W7E)
