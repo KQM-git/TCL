@@ -1082,7 +1082,7 @@ Key user must periodically refresh stacks to maintain uptime of the buff, since 
 
 #### Key of Khaj-Nisut Stacks Cannot be Gained while Off-Field
 
-**By:** Alpha Flyte\#2031
+**By:** Alpha Flyte\#2031  
 **Added:** <Version date="2022-11-04" />  
 **Last Tested:** <VersionHl date="2022-11-04" />
 
