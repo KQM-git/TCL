@@ -162,7 +162,7 @@ Confirmation to Nilou's A4 being additive to the Bloom Reaction Bonus from EM.
 
 **Evidence:**
 Calculation Formula: [Imgur](https://imgur.com/pCNJHAA)  
-[Approximation - Imgur](https://imgur.com/L8ZoITh)
+Approximation: [Imgur](https://imgur.com/L8ZoITh)  
 Damage In-Game: [Imgur](https://imgur.com/Pj9yE8u)  
 
 **Significance:**  
