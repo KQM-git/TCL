@@ -26,7 +26,7 @@ search: false
   * Burst Skill and A1 Duskbreaker Bolts Have Separate ICD - [Akane#0926](https://youtu.be/bM_nrvamPVc)
 * Snapshotting
   * Skill Outside Burst Doesn't Snapshot - [Bobrokrot#0111](https://youtu.be/BgGCVxYDlLY)
-  * Burst - [Bobrokrot#0111](https://youtu.be/BgGCVxYDlLY)
+  * NAs Inside Burst Don't Snapshot - [Bobrokrot#0111](https://youtu.be/BgGCVxYDlLY)
 
 ## Attack Mechanics
 
