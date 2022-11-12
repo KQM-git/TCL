@@ -372,6 +372,7 @@ Echoes Flat DMG is not limited to single-target (works in AoE).
 * Math: [Google Sheets](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)
 
 #### Echoes Uses Total ATK After Buffs  
+
 **By:** ItzSomebody\#0029  
 **Added:** <Version date="2022-11-09" />  
 **Last tested:** <VersionHl date="2022-04-04" />  
