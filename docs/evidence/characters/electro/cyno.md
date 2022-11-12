@@ -42,7 +42,8 @@ search: false
 **Last Tested:** <Version date="2022-10-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/cyno-basic-mechanics)  
 
-**Findings:** Cyno's converted N5 can be manually steered mid-animation using direction keys, even when locked on to a target.
+**Finding:**  
+Cyno's converted N5 can be manually steered mid-animation using direction keys, even when locked on to a target.
 
 **Evidence:**  
 [Imgur](https://imgur.com/a/4ZWFZFP)
