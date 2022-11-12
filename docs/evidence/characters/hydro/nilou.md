@@ -43,7 +43,8 @@ Additionally, Sword Dance attacks from ending the skill combo with NA do not gen
 **Evidence:**
 [Youtube](https://youtu.be/sSvvg-SaEz0)
 
-**Significance:** 
+**Significance:**  
+Further understanding of Nilou's Skill.  
 
 ### Nilou Skill CD and Infusion CD
 
