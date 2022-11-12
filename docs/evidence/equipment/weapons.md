@@ -1768,7 +1768,7 @@ This info has no practical application other than to test buff timings.
 Xiphos buff snapshots, and it snapshots every 10s.
 
 **Evidence:**  
-[YouTube](https://youtu.be/bEWKhbj3wX4)
+[YouTube](https://youtu.be/bEWKhbj3wX4)  
 9.667s after Xiphos buff first starts, the buff doesn't update to match the new EM value, meaning Xiphos buff is not dynamic, but is snapshots instead.
 Elegy buff starts 530f (8.833s) after Xiphos buff is first applied, lasts for 746f (12.667s), and ends 612f (11.5s) after Xiphos snapshots Elegy bonus. Which means Xiphos can snapshot Elegy twice if it has a 10s snapshot interval.  
 The Xiphos buff, that snapshot Elegy's 12.667s EM buff, lasts for at least 18.733s, but no more than 1124f+120f=1244f=20.733s. Which matches the expected time frame of the 10s snapshot interval.
