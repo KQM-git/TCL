@@ -12,136 +12,59 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/dori-basic-mechanics)  
 
-* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1F7mZ269IdPtu0JogHnnUdewG11g2rq3-2KWj5m2BbBY/edit?usp=sharing) - Kolibri\#7675
+* Gauges  
+  * E  
+    * Cast: 1A  
+    * After-Sales Service Round: 1A  
+  * Q  
+    * Self-application: 1A - [Video](https://imgur.com/a/D2u05xG) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+    * Connector: 1A  
+  * C2: 1A  
+* ICDs  
+  * E - mina\#4448  
+    * Cast: 3-hit/2.5s (shared with After-Sales Service Rounds) - [Video 1](https://youtu.be/ME_gbRu36zc), [Video 2](https://youtu.be/MfBSVHkc4Jk) 
+    * After-Sales Service Round: 3-hit/2.5s (shared with cast) - [Video 1](https://youtu.be/ME_gbRu36zc), [Video 2](https://youtu.be/MfBSVHkc4Jk)  
+  * Q  
+    * Self-application: 3s - [Imgur](https://imgur.com/a/9Fg9Vdm) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+    * Connector: 3s - [Video](https://youtu.be/90eJ9s2GJh4) - milk tea romance#9022  
+  * C2: 3-hit/2.5s  
+* Snapshotting:  
+  * E: Unknown  
+  * Q: Snapshot - [Gallery](https://imgur.com/a/FN0PV8C) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1F7mZ269IdPtu0JogHnnUdewG11g2rq3-2KWj5m2BbBY/edit?usp=sharing) - Kolibri\#7675  
 
 ## Attack Mechanics
 
 ## Skill Mechanics
-
-### Skill ICD
-
-**By:**: mina\#4448  
-**Added:** <Version date="2022-09-24" />  
-**Last Tested:**  <VersionHl date="2022-09-24" />
-
-**Findings:**
-- Dori's E Troubleshooter Shot and the After-Sales Service Rounds (including the additional round from C1) share ICD.
-- Contrary to her Skill talent description, Dori's E Troubleshooter Shot does not have to hit an enemy to trigger the After-Sales Service Rounds.
-
-**Evidence:**
-- [Video](https://youtu.be/ME_gbRu36zc) (initial shot and 3rd after-sales service round trigger aggravate)
-- [Video](https://youtu.be/MfBSVHkc4Jk) (initial shot misses, and only the 1st after-sales service round triggers aggravate)
+* Dori's E Troubleshooter Shot and the After-Sales Service Rounds (including the additional round from C1) share ICD. - mina\#4448  
+  - [Video](https://youtu.be/ME_gbRu36zc) (initial shot and 3rd after-sales service round trigger aggravate)  
+  - [Video](https://youtu.be/MfBSVHkc4Jk) (initial shot misses, and only the 1st after-sales service round triggers aggravate)  
+* Contrary to her Skill talent description, Dori's E Troubleshooter Shot does not have to hit an enemy to trigger the After-Sales Service Rounds. - mina\#4448  
+  - [Video](https://youtu.be/MfBSVHkc4Jk)  
 
 ## Burst Mechanics
-
-### Burst ICD
-
-**Added:** <Version date="2022-09-09" />  
-**Last Tested:**  <VersionHl date="2022-09-09" />
-
-**Findings:**
-- Dori's self electro application has a 3 seconds ICD - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
-- Dori's Connector has 3s / no hit ICD - milk tea romance#9022
-
-**Evidence:**
-- https://imgur.com/a/9Fg9Vdm - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
-- In [this video](https://www.youtube.com/watch?v=90eJ9s2GJh4), Dori harasses a plant that is innocently burning. Your eyeballs can bear witness to the Overloaded procs at 4s, 7s, 10s, and 13s. - milk tea romance#9022
-
-### Burst Gauge
-**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
-**Added:** <Version date="2022-09-09" />  
-**Last Tested:**  <VersionHl date="2022-09-09" />
-
-**Finding:**  
-Dori's self electro application gauge is 1A
-
-**Evidence:**  
-https://youtu.be/unCIWxypvno
-
-**Significance:**  
-Dori's self application is unlike any other we've had before. Other characters' self applications have always been self auras that don't have aura tax and have a set duration, but Dori's is a legit elemental attack, which means it has aura tax and uses standard decay rate. It also applies the electro aura visual effect around the character which doesn't happen with other self auras.
-
-### Burst Snapshot
-
-**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
-**Added:** <Version date="2022-09-11" />  
-**Last Tested:**  <VersionHl date="2022-09-11" />
-
-**Finding:**  
-Dori Q snapshots.
-
-**Evidence:**  
-https://imgur.com/a/FN0PV8C
-
-
-### Burst Tethers In Multiplayer
-
-**By:** Lefthandtaco\#6453  
-**Added:** <Version date="2022-10-13" />  
-**Last Tested:**  <VersionHl date="2022-10-13" />
-
-**Finding:**  
-Dori's burst tether connects to and applies to all nearby players in multiplayer
-
-**Evidence:**  
-https://youtu.be/unCIWxypvno
+* Dori's self application is unlike any other we've had before. Other characters' self applications have always been self auras that don't have aura tax and have a set duration, but Dori's is a legit elemental attack, which means it has aura tax and uses standard decay rate. It also applies the electro aura visual effect around the character which doesn't happen with other self auras. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+  - [Video](https://youtu.be/unCIWxypvno)
+* Dori's burst tether connects to and applies to all nearby players in multiplayer - Lefthandtaco\#6453
+  - [Video](https://youtu.be/unCIWxypvno)
 
 ## Ascension Mechanics
 
 ### A4: Compound Interest
-
-**By:** milk tea romance\#9022  
-**Added:** <Version date="2022-09-10" />  
-**Last Tested:** <VersionHl date="2022-09-10" />
-
-**Finding:**  
-Dori's A4 counts every point of Energy Recharge, not just increments of 100%.
-
-**Evidence:**
-- [Gallery](https://imgur.com/a/6MD1ZYr)
-- [100% ER, before collecting particles](https://imgur.com/Cd3Y4c7)
-- [192% ER, before collecting particles](https://imgur.com/kgtoTYU)
+* Dori's A4 counts every point of Energy Recharge, not just increments of 100%. - milk tea romance\#9022  
+  - [Imgur](https://imgur.com/a/6MD1ZYr)  
+  - [100% ER, before collecting particles](https://imgur.com/Cd3Y4c7)  
+  - [192% ER, before collecting particles](https://imgur.com/kgtoTYU)  
 
 ## Constellation Mechanics
 
 ### C2: Special Franchise
-
-#### C2 ICD
-
-**By:** BlueBery\#9054
-**Added:** <Version date="2022-10-09" />  
-**Last Tested:**  <VersionHl date="2022-10-09" />
-
-**Finding:**  
-Dori's C2 ICD is every 2 heal ticks. This will add 3 more reactions to a burst duration, potentially more when there are multiple enemies. Doesn't share ICD with burst.
-
-**Evidence:**  
-https://imgur.com/ox13neD
-
-
-#### C2 Damage Type
-
-**By:** Padilla\#0310  
-**Added:** <Version date="2022-09-11" />  
-**Last Tested:**  <VersionHl date="2022-09-11" />
-
-**Finding:**  
-Dori's C2 is not burst damage.
-
-**Evidence:**
-- [Video with Raiden](https://youtu.be/quFw_jShu1I)
-- [Video without Raiden](https://youtu.be/4fUxEFPbxOk)
+* Dori's C2 ICD is every 2 heal ticks. This will add 3 more reactions to a burst duration, potentially more when there are multiple enemies. Doesn't share ICD with burst. - BlueBery\#9054  
+  - [Imgur](https://imgur.com/ox13neD)  
+* Dori's C2 is not burst damage. - Padilla\#0310  
+  - [Video with Raiden](https://youtu.be/quFw_jShu1I)  
+  - [Video without Raiden](https://youtu.be/4fUxEFPbxOk)  
 
 ## Synergies/Interactions
-
-### Burst Interactions With On-Hit Effects
-
-**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
-**Added:** <Version date="2022-09-18" />  
-**Last Tested:**  <VersionHl date="2022-09-18" />
-
-**Finding:**  
-Dori's Q self electro application can proc Thoma C1, Diluc C2 and Beidou C4. This is once again due to her self application being special.
-
-**Evidence:**  
-https://imgur.com/a/7QZQmp6  
+* Dori's Q self electro application can proc Thoma C1, Diluc C2 and Beidou C4. This is once again due to her self application being special. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
+  - [Imgur](https://imgur.com/a/7QZQmp6)  
