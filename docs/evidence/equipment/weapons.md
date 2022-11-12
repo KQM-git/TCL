@@ -1066,7 +1066,7 @@ Elemental Mastery provided by Key of Khaj-Nisut (self-buff and party-buff both) 
 
 #### Key of Khaj-Nisut Stacks Remains After Switching Out
 
-**By:** Alpha Flyte\#2031
+**By:** Alpha Flyte\#2031  
 **Added:** <Version date="2022-11-04" />  
 **Last Tested:** <VersionHl date="2022-11-04" />
 
