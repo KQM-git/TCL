@@ -381,7 +381,7 @@ Echoes Flat DMG is not limited to single-target (works in AoE).
 Echoes uses total ATK (as expected) including buffs from Bennett, 4pc Noblesse, and ATK from weapon passives.  
 
 **Evidence:** 
-* Bennett + Echo Hu Tao: [Youtube](https://youtu.be/z7z64VLHLkI)
+* Bennett + Echo Hu Tao: [YouTube](https://youtu.be/z7z64VLHLkI)
 * Staff of Homa + Echo Hu Tao: [Youtube](https://youtu.be/giX6K8wMDow)
 * Homa (<50% HP) + Echo Hu Tao: [Youtube](https://youtu.be/9gOWwzUQt2s)
 [Math: docs.google.com](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)
