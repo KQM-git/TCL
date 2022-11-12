@@ -203,5 +203,5 @@ Similarly to Raiden, Nilou's Normal Attacks during her Elemental Skill do not tr
 **Evidence:**
 [YouTube](https://youtu.be/3w3XzKXqRPM)
 
-**Significance:** 
+**Significance:**  
 This is a known mechanic, but just in case you need a video evidence to show people who argue with you. 
