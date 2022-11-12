@@ -76,7 +76,7 @@ Smoother Vape Nilou rotations.
 Nilou Tranquility Aura counts as a 0-dmg hit.
 
 **Evidence:**
-[Youtube](https://youtu.be/w18kzxLmQ-A)
+[YouTube](https://youtu.be/w18kzxLmQ-A)
 
 **Significance:** 
 May trigger certain on-hit effects.
