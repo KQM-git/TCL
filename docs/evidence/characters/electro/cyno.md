@@ -58,7 +58,8 @@ More control over N5.
 **Last Tested:** <Version date="2022-10-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/cyno-basic-mechanics)  
 
-**Findings:** Cyno's N3 and N5 are blunt.
+**Finding:**  
+Cyno's N3 and N5 are blunt.
 
 **Evidence:**  
 [Shatter on N3 and N5](https://imgur.com/a/vpBE3b0)  
