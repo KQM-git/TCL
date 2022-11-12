@@ -1671,7 +1671,7 @@ Changes Abyss team slotting and potentially optimal team rotation when using The
 Xiphos and Evenstar give their respective buffs 64 frames after being equipped, all timers are reset when removed or when entering/exiting domains (including challenge again, abyss try again), allowing the buff to re-apply 64 frames after re-equipping or entering/exiting domains regardless of the previous timer.
   
 **Evidence:**  
-[YouTube](https://youtu.be/Jjo54rCDZ-w)
+* Buff is applied 64 frames after the weapon is equipped: [YouTube](https://youtu.be/Jjo54rCDZ-w)
 Open and check Sucrose's stats after 63 frames (1.05s) shows that the buff wasn't applied.
 After 64 frames (1.067s) checking Sucrose stats shows that the buff was applied.
 [YouTube](https://youtu.be/4xPdTdM_TH8)  
