@@ -669,7 +669,7 @@ However, I could not get the second N1 hit to proc without the first proccing, w
 **Evidence:**  
 Two videos show my Yoimiya doing N1 versus a Ruin Guard, one at range and one as close as possible. When at range, each N1 hits proc independently: they can both proc, neither proc, or either one can proc. When as close as possible to the Ruin Guard, the N1 hits become linked: they either proc together or not at all.  
 
-Close Range: [Youtube](https://youtu.be/2Fe58lDrjL8)
+Close Range: [YouTube](https://youtu.be/2Fe58lDrjL8)
 Long Range: [Youtube](https://youtu.be/67Ta1R5ZSbo)
 
 #### Kazuha NA Interaction with Echoes
