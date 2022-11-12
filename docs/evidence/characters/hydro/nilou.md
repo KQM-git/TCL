@@ -11,7 +11,7 @@ search: false
 ## Basic Mechanics  
 [Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
-* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1z0v3NT1o1iNrVppT_S0C542YDo6jhdKShLcPsnavfO8/edit?usp=sharing) - Kolibri\#7675
+* Frame data - [Kolibri\#7675](https://docs.google.com/spreadsheets/d/1z0v3NT1o1iNrVppT_S0C542YDo6jhdKShLcPsnavfO8/edit?usp=sharing)
 * Gauges
   * Skill Initial: 1A - [kxmndz#4700](https://youtu.be/ZR15KAix-kg)
   * Skill Pirouette: 1A - [kxmndz#4700](https://youtu.be/XBOk6cE5B5A)
