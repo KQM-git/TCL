@@ -28,7 +28,6 @@ search: false
   * Skill Outside Burst Doesn't Snapshot - [Bobrokrot#0111](https://youtu.be/BgGCVxYDlLY)
   * NAs Inside Burst Don't Snapshot - [Bobrokrot#0111](https://youtu.be/BgGCVxYDlLY)
 
-## Attack Mechanics
 
 ## Skill Mechanics
 * Cyno's Elemental Skill generates 3 particles outside Burst - [Akane#0926](https://youtu.be/q3ziYPhWNig)
