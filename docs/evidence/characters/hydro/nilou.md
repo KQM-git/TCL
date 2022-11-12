@@ -198,7 +198,7 @@ Vape Nilou opening combo.
 [Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
-Similarly to Raiden, Nilou's normal attacks during her elemental skill do not trigger effects such as Beidou's burst but do trigger effects such as XQ's burst.
+Similarly to Raiden, Nilou's Normal Attacks during her Elemental Skill do not trigger effects such as Beidou's Burst but do trigger effects such as Xingqiu's Burst.  
 
 **Evidence:**
 [YouTube](https://youtu.be/3w3XzKXqRPM)
