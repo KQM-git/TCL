@@ -139,7 +139,7 @@ Nilou is not effective as a miner nor a Geo shield breaker, certain effects that
 E N2 Q N1 allows particle pre-funneling.
 
 **Evidence:**
-[Youtube](https://youtu.be/LUo5HcADJVw)
+[YouTube](https://youtu.be/LUo5HcADJVw)
 
 **Significance:** 
 Opening rotation particle efficiency, allows C4 energy refund to be used on the opening rotation.
