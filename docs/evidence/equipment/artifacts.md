@@ -691,7 +691,7 @@ N5:
 N3:
 * Every combination has been observed multiple times (NN, NP, PN, PP)
 [docs.google.com](https://docs.google.com/spreadsheets/d/1_ZFiEDXpQFTtjHBgjyOXdG-PQW1j8zy8w7w3GK9iaIs/edit?usp=sharing)
-[Youtube](https://www.youtube.com/watch?v=UdntmwQl2rk)
+[YouTube](https://www.youtube.com/watch?v=UdntmwQl2rk)  
 [Youtube](https://www.youtube.com/watch?v=62pGzyDR67U)
 
 ## Emblem of Severed Fate
