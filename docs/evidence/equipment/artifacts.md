@@ -368,7 +368,7 @@ The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persi
 Echoes Flat DMG is not limited to single-target (works in AoE).  
 
 **Evidence:**  
-[Youtube](https://youtu.be/LaPF7dqCwhM)
+* Video: [YouTube](https://youtu.be/LaPF7dqCwhM)  
 [Math: docs.google.com](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)
 
 #### Echoes Uses Total ATK After Buffs  
