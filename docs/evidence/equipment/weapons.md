@@ -1673,7 +1673,7 @@ Xiphos and Evenstar give their respective buffs 64 frames after being equipped, 
 **Evidence:**  
 * Buff is applied 64 frames after the weapon is equipped: [YouTube](https://youtu.be/Jjo54rCDZ-w)
   * Open and check Sucrose's stats after 63 frames (1.05s) shows that the buff wasn't applied.
-After 64 frames (1.067s) checking Sucrose stats shows that the buff was applied.
+  * After 64 frames (1.067s) checking Sucrose stats shows that the buff was applied.
 [YouTube](https://youtu.be/4xPdTdM_TH8)  
 
 **Significance:**  
