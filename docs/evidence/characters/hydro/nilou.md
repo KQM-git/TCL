@@ -19,7 +19,7 @@ search: false
   * Burst 1st Hit: 1A - [kxmndz#4700](https://youtu.be/kAlX3Lz5lYY)
   * Burst 2nd Hit: 1A - [kxmndz#4700](https://youtu.be/5T03ECdN2fc)
 * ICD
-  * Skill Tranquility Aura - [Trosalio#0420](https://www.youtube.com/watch?v=DzMtLDZI4OM)
+  * Skill Tranquility Aura: 4-hit/1.9s - [Trosalio#0420](https://www.youtube.com/watch?v=DzMtLDZI4OM)
 * Snapshotting
   * Burst has Dynamic Snapshotting - [Bobrokrot#0111](https://youtu.be/6biX2sOt1aY)
 
