@@ -2111,13 +2111,15 @@ Bonus: Bloom Cores sink in water. Sometimes this looks weird.
   
 **Evidence:**  
 Tri Lakshana Creatures in Sumeru applied with Hydro create Blooms.  
-[YouTube](https://youtu.be/4Q4M-srko7w)  
-[YouTube](https://youtu.be/0CkvpMjmFu8)  
-[YouTube](https://youtu.be/FE5ni47KY5A)  
-[YouTube](https://youtu.be/h8EWSySp0_Q)  
-[YouTube](https://youtu.be/U2ZpPp0pmjo)  
-[YouTube](https://youtu.be/n8afVHgeTMQ)  
-[YouTube](https://youtu.be/uEap7U0aKGM)  
+
+* [YouTube](https://youtu.be/4Q4M-srko7w)  
+* [YouTube](https://youtu.be/0CkvpMjmFu8)  
+* [YouTube](https://youtu.be/FE5ni47KY5A)  
+* [YouTube](https://youtu.be/h8EWSySp0_Q)  
+* [YouTube](https://youtu.be/U2ZpPp0pmjo)  
+* [YouTube](https://youtu.be/n8afVHgeTMQ)  
+* [YouTube](https://youtu.be/uEap7U0aKGM)  
+
 
 Electro Crystals can create blooms when Dendro and Hydro is applied to them. They can also proc Hyperbloom.  
 [YouTube](https://youtu.be/1-WHKn5wRJo)  
