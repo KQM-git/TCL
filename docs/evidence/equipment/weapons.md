@@ -1677,7 +1677,7 @@ Xiphos and Evenstar give their respective buffs 64 frames after being equipped, 
 * Buff timer resets when entering a domain: [YouTube](https://youtu.be/4xPdTdM_TH8)  
 
 **Significance:**  
-Mostly fluff, just to confirm that the Tulaytullah Weapon Series that Xiphos and Evenstar belongs in have 100% buff up-time regardless of the situations, except for the 1.067s delay at the start.
+Mostly fluff, just to confirm that the Tulaytullah Weapon Series (which Xiphos and Evenstar belong in) have 100% buff up-time regardless of the situation, except for the 1.067s delay at the start.
 This info has no practical application other than to test buff timings.
 
 ---
