@@ -1064,6 +1064,37 @@ Key of Khaj-Nisut + Kazuha A4 interaction
 **Significance:**  
 Elemental Mastery provided by Key of Khaj-Nisut (self-buff and party-buff both) is not used in abilities which use Elemental Mastery for providing other stats, like Kazuha A4.  
 
+#### Key of Khaj-Nisut Stacks Remains After Switching Out
+
+**By:** Alpha Flyte\#2031  
+**Added:** <Version date="2022-11-04" />  
+**Last Tested:** <VersionHl date="2022-11-04" />
+
+**Finding:**  
+Key of Khaj-Nisut stacks remain even after switching out, and they share their duration, meaning they expire at the same time when the timer of the last stack gained expires.
+  
+**Evidence:**  
+[YouTube](https://youtu.be/P49pDWYUJIU)  
+  
+**Significance:**  
+No real demerit to switching out the Key user once stacks have been gained.  
+Key user must periodically refresh stacks to maintain uptime of the buff, since the buff once maxed is either 100% up or 100% down, meaning all 3 stacks must be gained again.  
+
+#### Key of Khaj-Nisut Stacks Cannot be Gained while Off-Field
+
+**By:** Alpha Flyte\#2031  
+**Added:** <Version date="2022-11-04" />  
+**Last Tested:** <VersionHl date="2022-11-04" />
+
+**Finding:**  
+Key of Khaj-Nisut stacks cannot be gained when the user is off-field, and the duration of the stacks continues counting down even when the user is off-field
+  
+**Evidence:**  
+[YouTube](https://youtu.be/Rq7X9SANk0I)  
+  
+**Significance:**  
+Key users must have some dedicated field time to refresh the stacks of the buff, affecting who may effectively proc the Key's passive, thus affecting rotations and rotation times.  
+
 ---
 
 ### Kitain Cross Spear
@@ -1629,6 +1660,28 @@ Changes Abyss team slotting and potentially optimal team rotation when using The
 
 ---
 
+### Wandering Evenstar
+
+#### Evenstar Buff Duration and CD Reset
+
+**By:** Casdela\#5121  
+**Added:** <Version date="2022-11-09" />  
+
+**Finding:**  
+Xiphos and Evenstar give their respective buffs 64 frames after being equipped, all timers are reset when removed or when entering/exiting domains (including challenge again, abyss try again), allowing the buff to re-apply 64 frames after re-equipping or entering/exiting domains regardless of the previous timer.
+  
+**Evidence:**  
+* Buff is applied 64 frames after the weapon is equipped: [YouTube](https://youtu.be/Jjo54rCDZ-w)
+  * Open and check Sucrose's stats after 63 frames (1.05s) shows that the buff wasn't applied.
+  * After 64 frames (1.067s) checking Sucrose stats shows that the buff was applied.
+* Buff timer resets when entering a domain: [YouTube](https://youtu.be/4xPdTdM_TH8)  
+
+**Significance:**  
+Mostly fluff, just to confirm that the Tulaytullah Weapon Series (which Xiphos and Evenstar belong in) have 100% buff up-time regardless of the situation, except for the 1.067s delay at the start.
+This info has no practical application other than to test buff timings.
+
+---
+
 ### Wolf's Gravestone
 
 #### Wolf's Gravestone Procs Don't Stack
@@ -1684,6 +1737,45 @@ The final hit of Raiden's 5-hit string is 2240 in both videos, meaning Emblem's 
   
 **Significance:**  
 Expected results.
+
+#### Xiphos Buff Duration and CD Reset
+
+**By:** Casdela\#5121  
+**Added:** <Version date="2022-11-09" />  
+
+**Finding:**  
+Xiphos and Evenstar gives buff 64 frames after equipped, all timers are reset when removed or when enter/exit domains (including challenge again, abyss try again), allowing the buff to reapply 64 frames after re-equipping or enter/exit domains regardless of the previous timer.
+  
+**Evidence:**  
+[YouTube](https://youtu.be/2bGZheyHrHg)
+Open and check Kazuha's stats after 56 frames (0.933s) shows that the buff wasn't applied.
+However on 3rd attempt after 64 frames (1.067s) checking Kazuha stats shows that the buff was applied.  
+
+[YouTube](https://youtu.be/j6-HC--0M6I)  
+  
+Using Noblesse as control test, enter/exit domain removes all effects but doesn't reset burst and skill cooldown. However, Xiphos timer reset after removed so it reapplies almost instantly.
+  
+**Significance:**  
+Mostly fluff, just to confirm that the Tulaytullah Weapon Series that Xiphos and Evenstar belongs in have 100% buff up-time regardless of the situations, except for the 1.067s delay at the start.
+This info has no practical application other than to test buff timings.
+
+#### Xiphos Buff Snapshotting
+
+**By:** Casdela\#5121  
+**Added:** <Version date="2022-11-09" />  
+
+**Finding:**  
+Xiphos buff snapshots once every 10s.
+
+**Evidence:**  
+[YouTube](https://youtu.be/bEWKhbj3wX4)  
+9.667s after Xiphos buff first starts, the buff doesn't update to match the new EM value, meaning Xiphos buff is not dynamic, but is snapshots instead.
+Elegy buff starts 530f (8.833s) after Xiphos buff is first applied, lasts for 746f (12.667s), and ends 612f (11.5s) after Xiphos snapshots Elegy bonus. Which means Xiphos can snapshot Elegy twice if it has a 10s snapshot interval.  
+The Xiphos buff, that snapshot Elegy's 12.667s EM buff, lasts for at least 18.733s, but no more than 1124f+120f=1244f=20.733s. Which matches the expected time frame of the 10s snapshot interval.
+  
+**Significance:**  
+Confirms that the Tulaytullah Weapon Series buff re-snapshots every 10s.  
+On paper it sounds good, but it's unreliable to snapshot any buff that lasts less than 10s, because there is absolutely no indication whatsoever of when the buff re-snapshots.
 
 ---
 
