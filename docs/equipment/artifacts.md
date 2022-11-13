@@ -68,7 +68,30 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Echoes of an Offering
 
-<Artifact artifact="Echoes of an Offering" />
+<Artifact artifact="Echoes of an Offering">
+
+* The Flat DMG is not limited to single-target \(works in AoE\).
+* It uses total ATK \(as expected\) including buffs from Bennett, 4pc Noblesse, and ATK from weapon passives.
+* Hit registration occurs before evidence of it in the animation.
+* The effect can be shared with subsequent attacks as long as they fit in the 0.05 second interval.
+* Echoes will stack even when holder's Normal Attacks deal 0 damage.
+* The 4-piece effect triggers around 50.2% of the time *in theory assuming the set works exactly as written*.
+* Trigger rate appears to fall off a little bit after 100-110 ping.  
+* Further data that could point to the set working as intended but be subject to ping/possibly low FPS/character multi-hits quick enough to take advantage of the lag between server and client \(like Zhongli, or indicates that his spearkick is simply working differently compared to other multi-hits\).
+* It can trigger the buff off-field, but does not gain stacks off-field.
+* Ayato's second slash and first C6 strike seem to be linked. If the second slash is buffed by Echoes, the first C6 strike is also buffed. In turn, if the second slash is not buffed, the first strike will not be buffed either.
+* Kazuha's 2-hit N3 is "not linked" but his 3-hit N5 is "linked". For more information see this [Vault Entry](../evidence/equipment/artifacts.md#kazuha-na-interaction-with-echoes).
+* The set works weirdly with Tartaglia, for more information see this [Vault Entry](../evidence/equipment/artifacts.md#echoes-triggering-is-weird-and-inconsistent-for-tartaglia).
+* How Tartaglia's N1 and N2 hits trigger Echoes differs depending on the tester. For more information see this [Vault Entry](../evidence/equipment/artifacts.md#tartaglias-n1-or-n2-procing-echoes-is-tester-dependent).
+* How Yoimiya's N1 hits trigger Echoes differs depending on range.
+* How Zhongli's spearkick hits trigger Echoes differs depending on the tester. For more information see this [Vault Entry](../evidence/equipment/artifacts.md#echoes-proc-on-zhongli-spearkick-attack-differs-between-tester).
+* Zhongli's spearkick combos can fail to proc Echoes after 7, 8, or even 9 hits.
+* For more testing results with Zhongli, see the following Vault Entries:
+  * [Potade\#9775](../evidence/equipment/artifacts.md#more-zhongli-testing-data)
+  * [Xreejan\#1180](../evidence/equipment/artifacts.md#more-zhongli-testing-data-at-160-ping)
+  * [Latiwings\#3308](../evidence/equipment/artifacts.md#even-more-data-on-zhonglis-string-with-echoes)
+
+</Artifact>
 
 ### Emblem of Severed Fate
 
@@ -333,6 +356,12 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="The Exile">
 
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
+* Energy regeneration doesn't start immediately, but after 2s, and ticks every 2s for 3 times.
+* While the 2nd and 3rd Energy regeneration ticks occur with intervals of 2.02s ± 0.03s, the first tick occurs 0.08s \(5 frames\) slower \(statistically significant\) at 2.09s ± 0.06s for unknown reasons.
+  * These timings aren't affected by different characters' different Burst animations times.  
+* The Energy regeneration ticks are subject to hitlag.  
+* Characters that have longer Energy consumption frames may not receive the first Energy regeneration tick.
+* Rotations can affect the number of received Energy regeneration ticks.
 
 </Artifact>
 

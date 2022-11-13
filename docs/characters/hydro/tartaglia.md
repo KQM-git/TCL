@@ -74,6 +74,8 @@ import Skill from '@site/src/components/char/Skill'
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 * Both **Riptide Flash** and **Riptide Burst** do not snapshot.
+* [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering) works weirdly with Tartaglia, for more information see this [Vault Entry](../../evidence/equipment/artifacts.md#echoes-triggering-is-weird-and-inconsistent-for-tartaglia).
+* How Tartaglia's N1 and N2 hits trigger [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering) differs depending on the tester. For more information see this [Vault Entry](../../evidence/equipment/artifacts.md#tartaglias-n1-or-n2-procing-echoes-is-tester-dependent).
 
 </TabItem>
 

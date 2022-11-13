@@ -69,6 +69,12 @@ import Skill from '@site/src/components/char/Skill'
 
 * Zhongli's string has no hit lag on the spear kick \(N5\).
 * Zhongli's attack string does not always interact with C6 Fischl on his first attack.
+* How Zhongli's spearkick hits trigger [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering) differs depending on the tester. For more information see this [Vault Entry](../../evidence/equipment/artifacts.md#echoes-proc-on-zhongli-spearkick-attack-differs-between-tester).
+* Zhongli's spearkick combos can fail to proc Echoes after 7, 8, or even 9 hits.
+* For more testing results with Zhongli, see the following Vault Entries:
+  * [Potade\#9775](../../evidence/equipment/artifacts.md#more-zhongli-testing-data)
+  * [Xreejan\#1180](../../evidence/equipment/artifacts.md#more-zhongli-testing-data-at-160-ping)
+  * [Latiwings\#3308](../../evidence/equipment/artifacts.md#even-more-data-on-zhonglis-string-with-echoes)
 
 </TabItem>
 
