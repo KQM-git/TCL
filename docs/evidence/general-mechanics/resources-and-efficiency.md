@@ -43,6 +43,24 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **Significance:** These findings identify that the most efficient use of Stardust \(outside of buying the 10 Fates, if the Traveler wishes to pay for them\) is to clear the limited amount of Mora, then the Magic Crystal Ores, then the Adventurer's Experience. Additionally, it is more Resin-efficient to be farming more Blue leylines than Gold ones.
 
+### 120 Original Resin Cap
+
+**By:** NZPIEFACE\#8439  
+**Added:** <Version date="2022-11-08" />  
+**Last tested:** <VersionHl date="2022-11-08" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/120-resin-cap)
+
+**Finding:**  
+120 Original Resin cap still exists for accounts that last logged in before the cap was updated to 160. It only updates after you log in.  
+  
+**Evidence:**  
+* Image proof: [Imgur](https://imgur.com/88BUAhR)
+* Record of Original Resin usage: [Imgur](https://imgur.com/bGGPsHq)  
+* Video proof: [YouTube](https://youtu.be/srnP21yZLac)
+
+**Significance:**  
+More information on the Original Resin Cap change.
+
 ## Artifacts
 
 ### Artifact EXP from Vendors Vs Domains

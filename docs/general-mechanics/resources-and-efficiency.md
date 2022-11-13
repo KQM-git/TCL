@@ -176,6 +176,8 @@ These are the consequences of having capped (9999) Mystic Enhancement Ores:
 
 Original Resin can go past the cap of 160, up to a cap of around 2000 Resin.
 
+The previous Original Resin Cap of 120 still exists for accounts that last logged in before the cap was changed. It only updates on logging in.
+
 ### Crafted Food Item Limit
 
 Crafted food items have a limit of 2000 per unique item.
