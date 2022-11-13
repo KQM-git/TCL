@@ -1195,6 +1195,32 @@ Buff activates at 11s ish (18s left in the vid), I open menu between 12s - 17s a
 **Significance:**  
 Stacking 4 ToM on 2 characters on the same team has consequences.
 
+## The Exile
+
+### The Exile Mechanics
+
+**By:** Tibo\#4309, Mr. Pillow\#0065  
+**Added:** <Version date="2022-11-08" />  
+**Last tested:** <VersionHl date="2022-10-30" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/the-exile-mechanics)
+
+**Finding:**  
+The Exile mechanics.  
+  
+**Evidence:**  
+A compilation of mechanics regarding The Exile's 4-piece effect.  
+1. Energy regeneration doesn't start immediately, but after 2s, and ticks every 2s for 3 times. All Energy is regenerated earliest after 6s. This timing is similar to that of Prototype Amber's passive.  
+2. While the 2nd and 3rd Energy regeneration ticks occur with intervals of 2.02s ± 0.03s, the first tick occurs 0.08s (5 frames) slower (statistically significant) at 2.09s ± 0.06s for unknown reasons. These timings aren't affected by different characters' different Burst animations times.  
+3. The Energy regeneration ticks are subject to hit-lag.  
+4. Characters that have longer Energy consumption frames may not receive the first Energy regeneration tick. For example, if Gorou is holding The Exile, doing "Gorou Q > Venti Q" will let Venti receive only 2 out of the 3 ticks (assuming Venti's Energy was already full at the time of casting Gorou Q). Generally, this happens for characters with ~60 and more Energy consumption frames.  
+ 5. Similar to the above, rotations can affect the number of received Energy regeneration ticks. For example, while "Gorou Q > Itto Q" will always let Itto receive all Energy restoration ticks, changing the rotation to "Gorou EQ > Albedo E > Itto N1 Q" will instead let Itto consistently receive 2 out of 3 the Energy restoration ticks (assuming Itto's Energy was already full at the time of casting Gorou Q).  
+  
+Evidence for 1, 2 & 3: [Google Sheets](https://docs.google.com/spreadsheets/d/1NMJJHC3o4T2VulVCuGJ4IKgZjl7L1KG74KCrKyVbbDM/edit?usp=sharing.)  
+Evidence for 4 & 5: [Google Sheets](https://docs.google.com/document/d/1tgOqAyEyyncgeDkODC1NiF4A5q0Fr9qZDdbLMTfKsUo/edit?usp=sharing.)  
+  
+**Significance:**  
+Better understanding of The Exile. It's important for accurate ER calculations to be aware of how many Energy regeneration ticks The Exile actually gives, since this can vary.
+
 ## Shimenawa's Reminiscence
 
 ### The buff gained and energy drain can not reoccur if effect has been activated.
