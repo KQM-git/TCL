@@ -33,13 +33,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String              | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------------ | :------------------ | :----- | :-------- | :----------- | :----------- |
-| 1-Hit DMG           | 82.63%              | 22     | 225.35%/s | 47.7         | 3            |
-| 2-Hit DMG           | 83.11%              | 26     | 191.79%/s | 47.34        | 3            |
-| 3-Hit DMG           | 47.4% + 56.88%      | 41     | 152.60%/s | 29.7 x2      | 3 x2         |
-| 4-Hit DMG           | 111.55%             | 46     | 145.50%/s | 63.54        | 3            |
-| 5-Hit DMG           | 46.61% x3 (139.83%) | 80     | 104.87%/s | 26.55 x3     | 2 + 2 + 5    |
+| String    | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :------------------ | :----- | :-------- | :----------- | :----------- |
+| 1-Hit DMG | 82.63%              | 22     | 225.35%/s | 47.7         | 3            |
+| 2-Hit DMG | 83.11%              | 26     | 191.79%/s | 47.34        | 3            |
+| 3-Hit DMG | 47.4% + 56.88%      | 41     | 152.60%/s | 29.7 x2      | 3 x2         |
+| 4-Hit DMG | 111.55%             | 46     | 145.50%/s | 63.54        | 3            |
+| 5-Hit DMG | 46.61% x3 (139.83%) | 80     | 104.87%/s | 26.55 x3     | 2 + 2 + 5    |
 
 </div>
 <div class='talent-columns'>
@@ -104,7 +104,7 @@ import Skill from '@site/src/components/char/Skill'
 | Plunge Poise Damage          | 25                |
 | Plunge Impulse Type          | 1                 |
 | Low/High Plunge Poise Damage | 100 / 150         |
-| Low/High Impulse Type        | 7                 |
+| Low/High Impulse Type        | 4 / 7             |
 
 </div>
 
