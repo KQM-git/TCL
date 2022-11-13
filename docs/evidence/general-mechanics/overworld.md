@@ -2092,3 +2092,45 @@ Therefore if fall damage and drowning counts as "defeating an opponent", the wie
   
 **Significance:**  
 Deaths by the environment are inevitable in the overworld and can be taken advantage of by characters like Jean. However, those "kills" will not count towards on kill effects and could lead to lower passive uptime.
+
+### Overworld Blooms
+
+**By:** juko\#9385  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-11-01" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/overworld-blooms)
+  
+**Finding:**  
+1. Tri Lakshana creatures in the Normal and Activated states have Dendro auras and can be applied with Hydro to create Bloom cores.  
+  * This does not apply to the Scorched state  
+  * Starshrooms in the Chasm Underground are not Tri Lakshana creatures.  
+2. Bubble attacks of Hydro Floating Fungi/Hydro Slime can be attacked with Dendro to break it and also produce a Bloom core.  
+3. In addition to Electro Crystals being capable of holding Cryo and Hydro auras, they can also hold Dendro auras and be used to produce Blooms.  
+4. Baron Bunny can create Blooms in overworld water.  
+Bonus: Bloom Cores sink in water. Sometimes this looks weird.  
+  
+**Evidence:**  
+Tri Lakshana Creatures in Sumeru applied with Hydro create Blooms.  
+
+* [YouTube](https://youtu.be/4Q4M-srko7w)  
+* [YouTube](https://youtu.be/0CkvpMjmFu8)  
+* [YouTube](https://youtu.be/FE5ni47KY5A)  
+* [YouTube](https://youtu.be/h8EWSySp0_Q)  
+* [YouTube](https://youtu.be/U2ZpPp0pmjo)  
+* [YouTube](https://youtu.be/n8afVHgeTMQ)  
+* [YouTube](https://youtu.be/uEap7U0aKGM)  
+
+
+Electro Crystals can create blooms when Dendro and Hydro is applied to them. They can also proc Hyperbloom.  
+[YouTube](https://youtu.be/1-WHKn5wRJo)  
+
+Dendro applied to Baron Bunny in overworld water creates Blooms.  
+
+Chasm Starshrooms are not Tri Lakshana creatures (they also look different to Sumeru Starshrooms but y'know, nice to have confirmation).  
+[YouTube](https://youtu.be/K3YIsoNXhbQ)  
+
+Hydro Fungus Bubble can create Blooms.  
+[YouTube](https://youtu.be/yzXJR5K-QXs)
+
+**Significance:**  
+Better understanding of Dendro aura and Bloom creation mechanics.  
