@@ -9,10 +9,8 @@ search: false
 ## Shield and I-frame Interactions.
 
 **By:** Trosalio\#0420, VanIna#2859  
-
 **Added:** <Version date="2021-06-03" />  
 **Last tested:** <VersionHl date="2022-11-02" />  
-
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_848458542024622090_849942582167470090_transcript-shield-and-iframe-interactions.html)  
 [Update](https://tickets.deeznuts.moe/transcripts/update-for-shield-and-i-frame-interaction)
 
