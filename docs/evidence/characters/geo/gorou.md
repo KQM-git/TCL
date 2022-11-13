@@ -84,8 +84,8 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 ### Gorou Buff Activation And Tickrate
 
 **By:** Kolibri\#7675, Aftermath\#7658  
-**Added:** <Version date="2022-09-08" \>  
-**Last tested:** <Version date="2022-09-08" \>  
+**Added:** <Version date="2022-09-08" />  
+**Last tested:** <Version date="2022-09-08" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/gorou-buff-activation-and-tickrate)
 
 **Finding:**  
