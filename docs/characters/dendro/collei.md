@@ -134,10 +134,10 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
-  
+
 **Notes**
-  
-* A1 does 2 instances of damage, only the first applies dendro.
+
+* A1 does 2 instances of damage, only the first applies Dendro.
 * Collei's E can trigger her own A1 if it triggers a reaction.
 * Triggering A1 again resets the previous A1.
 

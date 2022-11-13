@@ -98,6 +98,20 @@ When riding an elevator up and jumping just at the right moment before it stops,
 
 Items are not affected by gravity and will float in mid-air if the surface they were on is lowered.
 
+## Time
+
+There's a maximum of around ~98ms of time being ticked per frame when limiting the game's FPS. Timers can only start at 0 on ticks, and do not carry over lateness.
+
+There are multiple ways the game keeps track of time, currently the following are known:  
+
+1. Real time does not look at FPS/lag/pausing/the game being open.
+2. Cursed time almost follows real time \(disregarding max time per frame cap\), but does pause while game is paused/in menu and can run while you are logging in into the game.
+    * It can get out of sync when pause spamming.
+3. Game time is the time that passes in-universe, it get paused by menus when not in Co-Op and has a max time that can get processed per frame. But it also does not get affected by hitlag. This can alternatively be explained as *Entity Time* on an entity that doesn't get hitlagged.
+    * It can get out of sync when pause spamming.
+4. Entity time is the time that passes for an entity/the player, gets paused by menus when not in Co-Op, has a max time that can get processed per frame, and it also gets affected by hitlag that gets applied to said entity. \(Not global, unique per enemy/the player\)
+    * It depends on the player who is ticking said enemy, which might not always be the same player as the world host.
+
 ## Evidence Vault
 
 <Card item={require('../evidence/general-mechanics/movement-and-physics.md')} />

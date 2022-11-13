@@ -68,7 +68,7 @@ import Skill from '@site/src/components/char/Skill'
 | Grass Ring of Sanctification DMG \(T9%\)     | 42.91%            |
 | Tick Rate                                    | 1.5s              |
 | Activation Cost                              | 30% Current HP    |
-| Particles                                    | 0~1 \(55\:45\)    |
+| Particles                                    | 0~1 \(55:45\)     |
 | GU                                           | 1A                |
 | ICD                                          | 3 hit / 2.5s      |
 | Snapshot                                     | Dynamic           |
@@ -110,7 +110,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Hits 7 times when above 50% HP and 11-13 times when below 50% HP.
-* Number of hits depend on FPS but not on ping.
+* The number of hits depends on FPS but not on ping.
 
 </TabItem>
 </Tabs>

@@ -354,6 +354,358 @@ The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persi
 * Pyro supports can hold 4 set crimson witch and be quickly swapped in and out to drop their persistent pyro abilities without losing the bonus damage to overload.
 * 4CW set effect applies even if the holder is not the active character. However, the holder must provide the triggering element.
 
+## Echoes of an Offering
+
+### Echoes Basic Mechanics
+
+#### Echoes Flat DMG Not Limited to Single Target  
+
+**By:** ItzSomebody\#0029  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)  
+
+**Finding:**  
+Echoes Flat DMG is not limited to single-target (works in AoE).  
+
+**Evidence:**  
+* Video: [YouTube](https://youtu.be/LaPF7dqCwhM)  
+* Math: [Google Sheets](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)
+
+#### Echoes Uses Total ATK After Buffs  
+
+**By:** ItzSomebody\#0029  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)  
+
+**Finding:**  
+Echoes uses total ATK (as expected) including buffs from Bennett, 4pc Noblesse, and ATK from weapon passives.  
+
+**Evidence:** 
+* Bennett + Echo Hu Tao: [YouTube](https://youtu.be/z7z64VLHLkI)
+* Staff of Homa + Echo Hu Tao: [YouTube](https://youtu.be/giX6K8wMDow)
+* Homa (<50% HP) + Echo Hu Tao: [YouTube](https://youtu.be/9gOWwzUQt2s)
+Math: [Google Sheets](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)
+
+#### Echoes' Hit Registration Procs Before Animation
+
+**Finding:**  
+Hit registration occurs before evidence of it in the animation.  
+
+**Evidence:** 
+In the following video, I got hit out of Kazuha's 2-hit N3 before any visual indication that I'd hit the first attack (before the hitflash) - the hitflash occurs afterward and there's an instance of damage.  
+[YouTube](https://youtu.be/wlm5yPNYQ1g)
+
+**Significance:**  
+Despite not being specifically Echoes related, I do think the question of exactly when damage is registered is important for how Echoes works for characters with fast and/or multihit attacks.  
+Kazuha's N3 visually has only 10 frames between 3-1 and 3-2, and yet the two hits are independent of each other Echoes Proc-wise which runs contrary to how Echoes should work (within the 12 frame CD time). If 3-1 registers damage a few frames before the hitflash, this may fall in line with Echoes.  
+
+#### Echoes Buff Tied to Frame Data
+
+**By:** ItzSomebody\#0029  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)  
+
+**Finding:**  
+Echoes effect can be shared with subsequent attacks as long as they fit in the 0.05 second interval.  
+
+**Evidence:** 
+Video: [YouTube](https://youtu.be/JGRxO2f-4Ks)  
+Math: [Google Sheets](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)  
+
+#### Echoes Stacks Even When NAs Deal No Damage
+
+**By:** ItzSomebody\#0029  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)  
+
+**Finding:**  
+Echoes will stack even when holder's Normal Attacks deal 0 damage.  
+
+**Evidence:**  
+Testing by first hitting a Mitachurl's shield for 0 damage and then the Mitachurl to deal NA damage results in a sampled Echoes Flat DMG bonus average trigger chance that is abnormally high if the set did not stack on 0-damage Normal Attacks.  
+Video: [YouTube](https://youtu.be/x_B1wD1tSNM)  
+Math: [Google Sheets](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)  
+
+#### Echoes Average Trigger Chance
+
+**By:** Risuke\#6743  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-30" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)  
+
+**Theory:**  
+4-piece effect of the artifact set Echoes of an Offering triggers around 50.2% of the time *in theory assuming the set works exactly as written*.  
+  
+**Evidence:**  
+Based on Markov chains theory, described in the images.  
+
+Page 1: [Imgur](https://imgur.com/ky1s9oT)  
+Page 2: [Imgur](https://imgur.com/3lE03R6)  
+  
+**Significance:**  
+The set doesn't actually work as described in-game.
+
+#### Echoes Trigger Affected by Ping and FPS
+
+**By:** Mystathi\#9705 and valorha\#6262  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-08-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)
+
+**Finding:**  
+Further data that could point to the set working as intended but be subject to ping/possibly low fps/character multihits quick enough to take advantage of the lag between server and client (like Zhongli, or indicates that his spearkick is simply working differently compared to other multihits).  
+  
+**Evidence:**  
+- A typical N5D of Zhongli results in a higher proc rate than a full Ayato E sequence at 200+ ms, because of the spearkick all proccing together, while Ayato has no multihits (1500 hits Zhongli has 47% proc rate vs 1573 hits Ayato has ~34% proc rate)  
+- Spacing hits seems to result in higher proc rate (around the theoretical one): ~50% by doing N1J vs 47% for N5D with Zhongli  (777 hits)  
+- Less data so just to observe a pattern: doing full combos with Ayato NAs results in a possibly higher proc rate than with E thanks to 2-hits on N4 --> need more data and to compare it with other characters to see if multihits with higher ping usually link and therefore results in a higher proc rate  
+- More data from different testers on Zhongli that support the theory that the lower the ping, the lower the proc rate and vice versa (more ping = more spearkick hits linking, though we haven't found the higher cap where it becomes less)  
+  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1k1rPyayo-JLpRw2j5EYrJw3vREI0jKPu2LU9ZSpIZ1Q/edit?usp=sharing)
+
+#### Echoes Procs Off-Field, but Doesn't Gains Stacks Off-Field
+
+**By:** Chaiyune\#7349  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-05-15" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)  
+
+**Finding:**  
+Turns out, Echoes does proc the buff off-field, but still does not gain stacks off-field.  
+  
+**Evidence:**  
+Video 1: [YouTube](https://youtu.be/GrJWJz4EPOA) - Reference of Echoes proc/nonproc damage in the proceeding evidence.  
+* Noncrit without Echoes Proc - 693  
+* Noncrit with Echoes Proc - 1321  
+* Crit without Echoes Proc - 1223  
+* Crit with Echoes Proc - 2331  
+Video 2: [YouTube](https://youtu.be/FngwQux_BkY) - Echoes proccing the buff off-field on the first hit. (Proof that the buff procs off-field)  
+Video 3: [YouTube](https://youtu.be/p7JdplFz6og) - Echoes not proccing the buff off-field after five consecutive off-field hits. (Proof that the buff does not gain stacks off-field)  
+  
+  
+### Echoes Testing On Ayato
+
+#### Echoes Proc Rate Falls Off After 100+ Ping
+
+**By:** mementomori\#0001  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-17" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)  
+  
+**Finding:**  
+EoO proc rate appears to fall off a little bit after 100-110 ping.  
+  
+**Evidence:**  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1OJDpktn0sk9K3Bw7o13alZRqan5AZUkmrXWQ3RdPuhs/edit?pli=1#gid=0)  
+  
+**Notes:**  
+Please do not use the individual proc rates at any specific ping level as an indicator for the general proc rate. i.e. there's one entry of a proc rate of 47% at very low ping, due to personal variability, this only indicates that the avg proc rate is within error range of the expected avg of 50.2%.  
+  
+#### Ayato's 2nd and C6 Seems to be Linked
+**By:** 『 ЯΞИ 』\#0001  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)  
+**Finding:**  
+Ayato's second slash and first C6 strike seem to be linked. If the second slash is buffed by echos, the first c6 strike is also buffed. In turn, if the second slash is not buffed, the first strike will not be buffed as well. The second strike seems to have its own proc and trigger towards echos.  
+  
+**Evidence:**  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1c1KO48Aj9ED1VeQqKDIbIB6uwOroQXQ65gTIoLxqFgU/edit?usp=drivesdk)    
+[YouTube](https://youtube.com/playlist?list=PL48qQ9xM-_LM7JurvKvoQLgfKCw2Dz8ri)  
+
+### Echoes Testing on Tartaglia
+
+#### Echoes Triggering is Weird and Inconsistent For Tartaglia
+
+**By:** Mystathi\#9705 and valorha\#6262  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)
+
+**Finding:**  
+Something weird is going on. We aren't confident as to what is.  
+  
+**Evidence:**  
+In the following youtube video, at 14s in, Childe attempts a string of N4 Jump. The N3 of this string triggers Echos. The N4 of this string does not trigger Echos. For the next three strings of N4 Jump, Childe does not trigger Echos, totally in 13 hits between Echos procs.  
+  
+The video does not show Childe's artifacts, but this video does have Echos procs, and the spreadsheet provided has a DMG table and counts of which hits proc Echos (1 being proc, 0 being no proc). Provided on the spreadsheet is framecounts for Childe's N4.  
+  
+Others in CM are reporting similar things, and I have more footage I have partially gone through that have similar issues. I do have more footage I haven't gone through, and it's in a Google Drive linked on the spreadsheet. If necessary it can be posted to YouTube.  
+  
+We also are further looking into more strings and potential causes.  
+  
+Video: [YouTube](https://youtu.be/VDEnbWo4GBI)  
+Spreadsheet: [Google Sheets](https://docs.google.com/spreadsheets/d/1deBV5unvhWWbNgLBUSUI4sriiAdYZkNXEHIBTSnaKlg/edit?usp=sharing)  
+  
+**Significance:**  
+Not only can Childe not crit, he also can't proc Echos!  
+All joking aside, there is something wrong witht the Echos proc chance here. This could change the way Echos is looked at, as it messes with how well the set works on Childe, and other characters may have similar issues. I know ZLM have reported weird stuff too.
+
+#### Tartaglia's N1 or N2 Procing Echoes is Tester Dependent
+
+**By:** Mystathi\#9705, The Golden Man\#7947 and valorha\#6262  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)
+
+**Finding:** 
+How Childe's N1 and N2 hits proc Echoes differs depending on the tester. Cause unknown, but it is likely that whatever explains the difference here also explains the similar difference observed between testers for Zhongli's spearkicks (above). The only obvious possible explanation that me and valorha could come up with for Zhongli is ping.  
+
+**Evidence:** 
+I recorded a video of my Childe doing NA combos, and Myst recorded some videos of his Childe doing NA combos. In my video, Childe's N1 and N2 procced exclusively: either one could proc or neither could proc, but both could not proc in the same combo. In Myst's videos, Childe's N1 and N2 were linked: either they both procced together or not at all.  
+
+My Video: [YouTube](https://youtu.be/EckC4Lzoxyg)  
+Myst's Videos: [Google Drive](https://drive.google.com/drive/folders/1CBTwHI1wBcQH5mlV_oF1YgTwKufSZR3U?usp=sharing)  
+Myst's Spreadsheet [Google Sheets](https://docs.google.com/spreadsheets/d/1deBV5unvhWWbNgLBUSUI4sriiAdYZkNXEHIBTSnaKlg/edit?usp=sharing)  
+
+### Echoes Testing On Zhongli
+
+#### Echoes Proc on Zhongli Spearkick Attack Differs Between Tester
+
+**By:** The Golden Man\#7947 and valorha\#6262  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-19" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)
+
+**Finding:**  
+How Zhongli's spearkick hits proc Echoes differs depending on the tester. Cause unknown, but the only obvious possible explanation that me and valorha could come up with is ping. I have about 50-60 ms on average, while valorha has 200+ ms on average.  
+  
+**Evidence:**  
+I analyzed 106 Zhongli combos versus a Ruin Guard outside Mondstadt. In all of my combos, the first and second spearkick hits were linked: they either procced Echoes together or not at all. When the first two procced together, the third hit sometimes procced, but the fourth hit never procced. When the first two did not proc, the third and fourth hit were both able to proc and seemed to do so independently.  
+  
+valorha over on Zhongli mains similarly tested 136 Zhongli combos versus a Ruin Guard and the Childe weekly boss. For valorha, all of the spearkick hits were linked: all four either procced Echoes together or not at all. There was one exception at combo 91, where the first three spearkick hits procced but the last did not.  
+  
+My Video: [YouTube](https://youtu.be/mo7YwzUcvc8)  
+My Spreadsheet (with help from Zerodyme): [Google Sheets](https://docs.google.com/spreadsheets/d/1wIGJeNZZqUBb7HZcp6vh4Wad1fIOkGTA5vemBJDKRTI/edit?usp=sharing)  
+[valorha's Video #1: YouTube](https://www.youtube.com/watch?v=dE-1SAl1E-g)  
+[valorha's Video #2: YouTube](https://youtu.be/gkC8XjL0fmM)  
+valorha's Spreadsheet: [Google Sheets](https://docs.google.com/spreadsheets/d/10yMcbn1AkAHiyaPcwqddvX3Int-atCX5wJVtROjuvDs/edit?usp=sharing)  
+
+**Finding:**  
+In continuation to the finding above, lower framerate *might* have an effect on the behavior of the set on Zhongli, particularly the spearkick, possibly lowering the proc rate.  
+  
+**Evidence:**  
+I recorded 2 encounters with the same enemy, with the same set pieces and weapon, but on 1st encounter I had 60 fps, and on second 30 fps, totaling 36 combos for the 1st encounter and 33 for the 2nd.  
+In 60 fps, 17/18 times, the 4 hits of the spearkick procced together.  
+However, in 30 fps, at most only 3 hits of the spearkick did so.  
+  
+Spreadsheet (2nd tab): [Google Sheets](https://docs.google.com/spreadsheets/d/10yMcbn1AkAHiyaPcwqddvX3Int-atCX5wJVtROjuvDs/edit?usp=sharing)  
+Video: [YouTube](https://youtu.be/jxNZBW_-pTc)  
+
+#### Echoes can Fail to Proc Even After 7-9 Hits On Zhongli
+
+**By:** The Golden Man\#7947  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)
+
+**Finding:**  
+Zhongli's spearkick combos can fail to proc Echoes after 7, 8, or even 9 hits. If this differs between testers, it is likely that whatever explains the difference between spearkick proc patterns (above) also explains this differs between testers.  
+  
+**Evidence:**  
+I analyzed 106 Zhongli combos versus a Ruin Guard. There are 7 recorded hits which fail to proc in a row between combo 81 (beginning at 4:48 in my video) and 82.  
+  
+valorha analyzed over 136 combos versus a Ruin Guard and the Childe weekly boss, and got 8 recorded hits versus the Ruin Guard which fail to proc in a row between combo 58 (beginning at 2:27 of their first video) and 59. There were 9 recorded hits versus Childe which fail to proc in a row between combo 88 (beginning at 3:59 of their first video) and 89.  
+  
+My Video: [YouTube](https://youtu.be/mo7YwzUcvc8)  
+My Spreadsheet (with help from Zerodyme): [Google Sheets](https://docs.google.com/spreadsheets/d/1wIGJeNZZqUBb7HZcp6vh4Wad1fIOkGTA5vemBJDKRTI/edit?usp=sharing)  
+valorha's Video #1: [YouTube](https://www.youtube.com/watch?v=dE-1SAl1E-g)  
+valorha's Video #2: [YouTube](https://youtu.be/gkC8XjL0fmM)  
+valorha's Spreadsheet: [Google Sheets](https://docs.google.com/spreadsheets/d/10yMcbn1AkAHiyaPcwqddvX3Int-atCX5wJVtROjuvDs/edit?usp=sharing)  
+
+#### More Zhongli Testing Data
+
+**By:** Potade\#9775  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-08" />  
+
+**Finding:**  
+Additional data about Zhongli's spear kick, performed at 140-150ms ping  
+  
+**Evidence:**  
+160 full combos (plus some partial ones because I can't click properly) against ruin guard. First three hits of n5 were linked, except for once instance where only the first two were linked.  
+  
+[Spreadsheet (includes links to videos): docs.google.com](https://docs.google.com/spreadsheets/d/1sPWn7gCcHv3s30gEitw1WG7AWsuGx-nXe5PNdBSaFo0/edit?usp=sharing)  
+  
+#### More Zhongli Testing Data at 160+ Ping
+
+**By:** Xreejan\#1180  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-08" />  
+
+**Finding:**  
+Additional data about Zhongli's with the Echoes Set, performed at 165-170+ ping (fluctuated a lot more)  
+  
+**Evidence:**  
+35 Full N5D combos vs a Ruin Guard  
+First 3 hits of the spear kick were mostly linked  
+  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1iWXdiUqkWMOlinDUm5yRGrhJA02i-cv1/edit?usp=sharing&ouid=105974977777829459167&rtpof=true&sd=true)    
+[YouTube](https://www.youtube.com/watch?v=6l2tIOwWBHQ)  
+
+#### Even More Data on Zhongli's String with Echoes
+
+**By:** Latiwings\#3308  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-10" />  
+  
+**Disclaimer:** Because I was dumb and didn't notice, my N3 non proc crit and proc non crit is the same value. Logically, due to my 5% crit rate it should count as a proc but I've chosen to disregard all N3 data instead, just in case.  
+  
+**Finding:**  
+More data on Zhongli's string for Echoes. (80 ish ms ping) I'm getting a consistent amount of 3 links in the spear kick.  
+  
+**Bonus:** I had a point in my testing where I disconnected entirely. It resulted in a 4 linked spear kick + N6 proc. Since it only happened once, I can't say it as hard evidence but it's a good chance it can contribute to the timer/ping theory. Included in the sheet at the bottom with vid, the disconnect happened around 00:10 (as you can tell by the ping meter and the sudden appearance of numbers as I reconnect). For as far as I have, this is my only occurrence of a 4 linked spear kick and technically 5 procs in a row.  
+  
+**Evidence:**  
+37 full NA strings + 1 vid where I disconnected out of pure luck.  
+  
+**Spreadsheet: **  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1_HVfqu5x1tf5xifNFtqyxM5acPC2e4h0hF5ZObkj0Ug/edit?usp=sharing)  
+
+### Echoes Testing on Other Characters
+
+#### Yoimiya's N1 Procing Echoes Depends on Range
+
+**By:** The Golden Man\#7947  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+  
+**Finding:**  
+How Yoimiya's N1 hits proc Echoes differs depending on range. Cause unknown, but the most obvious explanation is that getting closer causes the second hit to happen within the 0.05 buff procced by the first.  
+However, I could not get the second N1 hit to proc without the first proccing, which should theoretically be possible if the first N1 does not proc the buff given the above explanation.  
+  
+**Evidence:**  
+Two videos show my Yoimiya doing N1 versus a Ruin Guard, one at range and one as close as possible. When at range, each N1 hits proc independently: they can both proc, neither proc, or either one can proc. When as close as possible to the Ruin Guard, the N1 hits become linked: they either proc together or not at all.  
+
+Close Range: [YouTube](https://youtu.be/2Fe58lDrjL8)
+Long Range: [YouTube](https://youtu.be/67Ta1R5ZSbo)
+
+#### Kazuha NA Interaction with Echoes
+
+**By:** WeirdFool\#5729  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
+  
+**Finding:**  
+Kazuha's 3-hit n5 is "linked"  
+Kaz's 2-hit n3 is not "linked"  
+  
+**Evidence:**  
+I analysed 107 full N5 strings against a downed ruin guard over 2 sessions  
+N5:
+* The first 2 hits display the same proc (i.e NN or PP) in 105/107 trials
+* The 3rd hit only procced in 6/107 trials, and those 6 were all NNP overall for n5. If you assume even the minimum 36% proc chance for n5-3, the chance to get only 6 procs in 107 trials is in the region of 6x10-14
+
+N3:
+* Every combination has been observed multiple times (NN, NP, PN, PP)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1_ZFiEDXpQFTtjHBgjyOXdG-PQW1j8zy8w7w3GK9iaIs/edit?usp=sharing)
+[YouTube](https://www.youtube.com/watch?v=UdntmwQl2rk)  
+[YouTube](https://www.youtube.com/watch?v=62pGzyDR67U)
+
 ## Emblem of Severed Fate
 
 ### 4ESF takes into account both base ER and ER from ascension
@@ -842,6 +1194,32 @@ Buff activates at 11s ish (18s left in the vid), I open menu between 12s - 17s a
 
 **Significance:**  
 Stacking 4 ToM on 2 characters on the same team has consequences.
+
+## The Exile
+
+### The Exile Mechanics
+
+**By:** Tibo\#4309, Mr. Pillow\#0065  
+**Added:** <Version date="2022-11-08" />  
+**Last tested:** <VersionHl date="2022-10-30" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/the-exile-mechanics)
+
+**Finding:**  
+The Exile mechanics.  
+  
+**Evidence:**  
+A compilation of mechanics regarding The Exile's 4-piece effect.  
+1. Energy regeneration doesn't start immediately, but after 2s, and ticks every 2s for 3 times. All Energy is regenerated earliest after 6s. This timing is similar to that of Prototype Amber's passive.  
+2. While the 2nd and 3rd Energy regeneration ticks occur with intervals of 2.02s ± 0.03s, the first tick occurs 0.08s (5 frames) slower (statistically significant) at 2.09s ± 0.06s for unknown reasons. These timings aren't affected by different characters' different Burst animations times.  
+3. The Energy regeneration ticks are subject to hit-lag.  
+4. Characters that have longer Energy consumption frames may not receive the first Energy regeneration tick. For example, if Gorou is holding The Exile, doing "Gorou Q > Venti Q" will let Venti receive only 2 out of the 3 ticks (assuming Venti's Energy was already full at the time of casting Gorou Q). Generally, this happens for characters with ~60 and more Energy consumption frames.  
+ 5. Similar to the above, rotations can affect the number of received Energy regeneration ticks. For example, while "Gorou Q > Itto Q" will always let Itto receive all Energy restoration ticks, changing the rotation to "Gorou EQ > Albedo E > Itto N1 Q" will instead let Itto consistently receive 2 out of 3 the Energy restoration ticks (assuming Itto's Energy was already full at the time of casting Gorou Q).  
+  
+Evidence for 1, 2 & 3: [Google Sheets](https://docs.google.com/spreadsheets/d/1NMJJHC3o4T2VulVCuGJ4IKgZjl7L1KG74KCrKyVbbDM/edit?usp=sharing.)  
+Evidence for 4 & 5: [Google Sheets](https://docs.google.com/document/d/1tgOqAyEyyncgeDkODC1NiF4A5q0Fr9qZDdbLMTfKsUo/edit?usp=sharing.)  
+  
+**Significance:**  
+Better understanding of The Exile. It's important for accurate ER calculations to be aware of how many Energy regeneration ticks The Exile actually gives, since this can vary.
 
 ## Shimenawa's Reminiscence
 

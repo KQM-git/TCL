@@ -103,20 +103,23 @@ import LumineCA from '../_common/lumine_ca.md'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute      | Skill        |
-| :------------- | :----------- |
-| DMG \(T9%\)    | 391.68%      |
-| Particles      | 2~3 \(1:1\)  |
-| GU             | 1A           |
-| ICD            | None         |
-| Snapshot       | -            |
-| Damage Element | Dendro       |
-| Damage Type    | Skill        |
-| CD             | 8s           |
-| Poise Damage   | 120          |
-| Impulse Type   | 4            |
+| Attribute      | Skill       |
+| :------------- | :---------- |
+| DMG \(T9%\)    | 391.68%     |
+| Particles      | 2~3 \(1:1\) |
+| GU             | 1A          |
+| ICD            | None        |
+| Damage Element | Dendro      |
+| Damage Type    | Skill       |
+| CD             | 8s          |
+| Poise Damage   | 120         |
+| Impulse Type   | 4           |
 
 </div>
+
+**Notes:**  
+
+* It can hit a Ruin Guard's Weakspot.
 
 </TabItem>
 
@@ -125,22 +128,39 @@ import LumineCA from '../_common/lumine_ca.md'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute      | Default      | Hydro        | Electro      | Pyro         |
-| :------------- | :----------- | :----------- | :----------- | :----------- |
-| DMG \(T9%\)    | 136.27%      | 136.27%      | 136.27%      | 681.36%      |
-| Tick Rate      | 1.5s         | 1.5s         | 0.9s         | -            |
-| GU             | 1A           | 1A           | 1A           | 2B           |
-| ICD            | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s | None         |
-| Snapshot       | Snapshot     | Snapshot     | Snapshot     | Snapshot     |
-| Damage Element | Dendro       | Dendro       | Dendro       | Dendro       |
-| Damage Type    | Burst        | Burst        | Burst        | Burst        |
-| Energy Cost    | 80           | -            | -            | -            |
-| Duration       | 12s          | -            | -            | -            |
-| Cooldown       | 20s          | -            | -            | -            |
-| Poise Damage   | 30           | 50           | 30           | 200          |
-| Impulse Type   | 1            | 1            | 1            | 1            |
+| Attribute      | Default              | Hydro                | Electro              | Pyro                              |
+| :------------- | :------------------- | :------------------- | :------------------- | :-------------------------------- |
+| DMG \(T9%\)    | 136.27%              | 136.27%              | 136.27%              | 681.36%                           |
+| Tick Rate      | 1.5s                 | 1.5s                 | 0.9s                 | -                                 |
+| Total Ticks    | C0: 9<br />C2: 11    | C0: 9<br />C2: 11    | C0: 15<br />C2: 17   | -                                 |
+| GU             | 1A                   | 1A                   | 1A                   | 2B                                |
+| ICD            | 3 hit / 2.5s         | 3 hit / 2.5s         | 3 hit / 2.5s         | None                              |
+| Snapshot       | Snapshot             | Snapshot             | Snapshot             | Snapshot                          |
+| Damage Element | Dendro               | Dendro               | Dendro               | Dendro                            |
+| Damage Type    | Burst                | Burst                | Burst                | Burst                             |
+| Energy Cost    | 80                   | -                    | -                    | -                                 |
+| Duration       | C0: 12s<br />C2: 15s | C0: 12s<br />C2: 15s | C0: 12s<br />C2: 15s | Depends on when it's transfigured |
+| Cooldown       | 20s                  | -                    | -                    | -                                 |
+| Poise Damage   | 30                   | 50                   | 30                   | 200                               |
+| Impulse Type   | 1                    | 1                    | 1                    | 1                                 |
 
 </div>
+
+**Notes:**  
+
+* AdditiveReactionDamage \(flat number added to multiplier\) is calculated dynamically with respect to DMC's A1.
+  * The Spread's total damage is calculated with the snapshotted A4 DMG Bonus% for that Lamp tick.
+* **Lotuslight Transfiguration** can't be triggered by auras on characters or enemies \(except the AoE spreading part of Burning auras on enemies\), it can only be triggered by Elemental attacks from characters and enemies.
+* Zero damage attacks can trigger **Lotuslight Transfiguration**, but zero gauge attacks can't.
+* With the correct timing, the **Lea Lotus Lamp** will do an extra tick right after **Lotuslight Transfiguration** is triggered.
+  * Hydro: within 0.15s before or 0.37s after any tick.
+  * Electro: within 0.87s after the 1st tick or between 1.15s and 1.75s after the 1st tick.
+* The **Lea Lotus Lamp** spawns ~1m directly in front of DMC in whatever direction they're facing.
+* The range is ~3 abyss tiles without Hydro Transfiguration and a bit over 5 with Hydro Transfiguration.
+* The **Lea Lotus Lamp** can hold a Cryo aura before it's transfigured and can't be transfigured until the aura is gone.
+  * It can also hold a Frozen aura and be Shattered.
+* Summons such as Oz and Guoba will target an untransfigured Lamp when there are no enemies nearby, but will target the enemies otherwise.
+* DMC snapshots 2 Mistsplitter Reforged stacks on Burst cast.
 
 </TabItem>
 </Tabs>
@@ -168,10 +188,22 @@ import Passive from '@site/src/components/char/Passive'
 <Tabs>
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+
+**Notes:**  
+
+* A1 timer starts when the Burst is casted, not when the first tick hits, so 1 stack is applied to the first tick.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
+
+**Notes:**  
+
+* A4 is calculated as DMG Bonus%.
+* A4 doesn't get DMG Bonus% from Sucrose's A4 EM sharing.
+* A4 snapshots the EM that DMC has when they go off-field and updates it when they come back on-field.
+
 </TabItem>
 </Tabs>
 
@@ -182,6 +214,11 @@ import Constellation from '@site/src/components/char/Constellation'
 <Tabs>
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
+
+**Notes:**  
+
+* C1 generates 3.5 Energy regardless of the number of enemies hit.
+
 </TabItem>
 
 <TabItem value='c2' label='C2'>
@@ -194,6 +231,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
+
+**Notes:**  
+
+* The 5 stacks from C4 are applied to the 2nd tick even if the Lamp is transfigured before the 1st tick, and its timing is independent from regular A1 stacks \(which stays 1 per second\).
+
 </TabItem>
 
 <TabItem value='c5' label='C5'>
@@ -202,6 +244,12 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
+
+**Notes:**  
+
+* Dendro DMG Bonus starts when the Lamp is placed down and ends when it disappears, but it does not apply to DMC's Burst since it snapshots slightly before C6 starts.
+* Hydro/Electro/Pyro DMG Bonus starts as soon as the Lamp is transfigured and ends when it disappears \(in the case of Pyro it's about 2 seconds in total\).
+
 </TabItem>
 </Tabs>
 
