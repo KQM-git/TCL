@@ -59,7 +59,7 @@ A team consists of Kazuha and Xingqiu may have marginally less survivability tha
 The shattering of Xingqiu's rain swords on his Elemental Skill has a cooldown of 1.5 seconds before another rain sword can be shattered.
 
 **Evidence:**  
-[Youtube](https://youtu.be/R2MxrChRovk)
+[YouTube](https://youtu.be/R2MxrChRovk)
 
 **Significance:**  
 The 4 swords cannot shatter simultaneously, so you can have a very small window of safety after one sword is shattered.
@@ -285,7 +285,7 @@ All Testing was done on 2.6 at 60 fps. Did on both high ping and low ping and se
 
 * Yae Low Ping - [Imgur](https://imgur.com/w26BRRB)
 * Yae High Ping - [YouTube](https://youtu.be/wZYb8-j8iMY)
-* Shenhe N3 and N5 - [Youtube](https://youtu.be/3e3_tKOwsg0)
+* Shenhe N3 and N5 - [YouTube](https://youtu.be/3e3_tKOwsg0)
 * Eula - [YouTube](https://www.youtube.com/watch?v=TC36SnaANUc)
 * Albedo - [YouTube](https://www.youtube.com/watch?v=MqG6k9aqlcw)
 * Fischl - [YouTube](https://www.youtube.com/watch?v=3VNqzUzLzaQ)

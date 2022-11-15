@@ -18,7 +18,7 @@ search: false
   * NA - [YouTube](https://youtu.be/LX0cAoBaqEM)
   * CA (Physical) - [YouTube](https://youtu.be/GhIAYWSY-a8)
   * CA (Elemental) - [YouTube](https://youtu.be/xo5rOjbZ4Cs)
-  * Skill - [Youtube](https://youtu.be/XihbafGI-Ak)
+  * Skill - [YouTube](https://youtu.be/XihbafGI-Ak)
 * Gauges
   * Elemental Skill: [1GU](https://youtu.be/DJ3uSEKgkW4) - Cryo aura 8.25s. Kaeya E applies 1.6B cryo; Gorou E removes 0.5 GU, leaving 1.1B Cryo 1.1B Cryo lasts 8.25s (edited) - Neptunya\#8291
   * Elemental Burst: Initial Hit [1GU](https://youtu.be/qkBwZtagqKo), Crystal Collapse 1GU
@@ -33,8 +33,8 @@ search: false
 ## Attack Mechanics
 
 * Gorou can do the following aim tech - BowTae\#0141
-  * Instant RR (enter and exit aim mode in 1 frame): [Youtube](https://youtu.be/mXEXYo7BGUA)
-  * Hold M1 Double CA: [Youtube](https://youtu.be/c2cWS7KNOeI)
+  * Instant RR (enter and exit aim mode in 1 frame): [YouTube](https://youtu.be/mXEXYo7BGUA)
+  * Hold M1 Double CA: [YouTube](https://youtu.be/c2cWS7KNOeI)
 * Unlike most characters, Gorou does not keep one eye closed after ARCC (Yoimiya also does not). - [BowTae\#0141](https://youtu.be/_yuZ4lKpdKY)
 
 ### Gorou Instant N1  

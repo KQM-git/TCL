@@ -46,7 +46,7 @@ Ningguang produces star jades from her Normal Attack talent and sixth Constellat
 However, immediately targeting an enemy by attacking them can make the star jades swerve or take sharp turns to hit the targeted enemy. This only seems to be possible for regular star jades, as star jades generated from c6 do not seem to be able to swerve after targeting an enemy.
 
 **Evidence:**  
-[Youtube](https://youtu.be/Ngjj83gc3J4)  
+[YouTube](https://youtu.be/Ngjj83gc3J4)  
 [Imgur](https://imgur.com/wXLy7ZC) (mobile footage from Lit#1924)  
 [Imgur](https://imgur.com/MWKPuhy) (c6 star jades not swerving)
 

@@ -60,8 +60,8 @@ For updated stats and calculation purposes.
 
 **Evidence:**
 
-* EMC picking up Amulets: [Youtube](https://youtu.be/3p7X-gxnEXM)
-* A different character picking up Amulets: [Youtube](https://youtu.be/UxEWK_2MYO0)
+* EMC picking up Amulets: [YouTube](https://youtu.be/3p7X-gxnEXM)
+* A different character picking up Amulets: [YouTube](https://youtu.be/UxEWK_2MYO0)
 
 **Significance:** Knowing that there is some range to picking up Amulets, this makes it easier for EMC to be a battery, since there is no need to actively avoid the Amulets after using E. You can walk towards the Amulets (and enemies) while switching to another character and not worry about EMC picking them up.
 
@@ -76,8 +76,8 @@ For updated stats and calculation purposes.
 
 **Evidence:**
 
-* Raiden [Youtube](https://youtu.be/gdrs4idpkes)
-* Mona: [Youtube](https://youtu.be/V_1qeKfhLAs)
+* Raiden [YouTube](https://youtu.be/gdrs4idpkes)
+* Mona: [YouTube](https://youtu.be/V_1qeKfhLAs)
 
 **Significance:** Should be taken into consideration while doing calcs.
 

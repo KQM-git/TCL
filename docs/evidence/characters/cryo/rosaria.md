@@ -123,7 +123,7 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 
 **Finding:** 2 stacks of the Pale Flame 4 piece set effect cannot be achieved by 1 use of Rosaria's skill despite the skill being 2 hits \(probably because the 2 hits are within 0.3s\), and requires back to back usage to achieve the full 4 piece effect.
 
-**Evidence:** [Youtube](https://www.youtube.com/watch?v=GPQqnZv0qLk)  
+**Evidence:** [YouTube](https://www.youtube.com/watch?v=GPQqnZv0qLk)  
 Also hitlag on Mitachurl shields [wooden](https://www.youtube.com/watch?v=8Jd4QWFFavY) and [geo](https://www.youtube.com/watch?v=klxD_F9Widg) still only grants you one stack per skill use.
 
 **Significance:** This makes 4 piece Pale Flame stacks somewhat difficult to maintain for carry Rosaria with, since her skill CD is 6s and Pale Flame stacks last for 7s.

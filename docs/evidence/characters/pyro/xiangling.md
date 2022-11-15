@@ -123,7 +123,7 @@ Damage calculations for Xiangling.
 Xianglings C2 does not snapshot.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=C1pjlzS56eI)
+[YouTube](https://www.youtube.com/watch?v=C1pjlzS56eI)
 
 **Significance:**  
 DMG calculation.
@@ -145,7 +145,7 @@ The 3rd hit of the initial swings & Guoba, however, does benefit from her C6.
 Using iwintolose's damage calculator, Pyronado ticks were expected to do 248 damage to a level 85 Ruin Guard after C6 buffs are applied (unbuffed Pyronado ticks are at 228).  
 [Imgur](https://imgur.com/a/Dvo4D9T) (some rounding errors, but should be close enough)  
 Looking at in-game numbers however, we see that Pyronado ticks deal the same amount of damage even after C6 buffs are applied.  
-[Youtube](https://youtu.be/7ikm7JC2ueY)
+[YouTube](https://youtu.be/7ikm7JC2ueY)
 
 **Significance:**  
 Guoba > Pyronado
@@ -196,7 +196,7 @@ Can be used to calculate Hu Tao/Xiangling dual pyro teams and their efficacy com
 Guoba snapshots the CW stack on cast.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=emvJpSTU7ZU)
+[YouTube](https://www.youtube.com/watch?v=emvJpSTU7ZU)
 
 **Significance:**  
 DMG calculation.

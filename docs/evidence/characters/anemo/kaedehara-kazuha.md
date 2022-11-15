@@ -102,7 +102,7 @@ This feature is most likely unintended, but not a bug due to the janky nature of
 By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=Biw0_7STVK0)  
+[YouTube](https://www.youtube.com/watch?v=Biw0_7STVK0)  
 This video shows the tech first and a normal fall second. Note the elemental skill CD when kazuha's feet touches the ground, 4.8 without the tech and 5.1 with the tech, which means it may save around ~0.3 seconds.
 
 **Significance:**  

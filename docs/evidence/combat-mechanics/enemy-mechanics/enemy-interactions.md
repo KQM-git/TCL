@@ -303,7 +303,7 @@ If you dread Andrius phase 2 and you have the ability to skip it, now you can do
 Azhdaha's Tail Form has Two Independent Hitboxes
 
 **Evidence:**  
-[Youtube](https://youtu.be/6_NpOfDYfIo)  
+[YouTube](https://youtu.be/6_NpOfDYfIo)  
 C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during his Tail Phase, the Tail and, presumably, his Body underground, causing multiple damage values due to Lisa C4 allowing multiple entities to be tagged.
 
 **Significance:**  
@@ -497,7 +497,7 @@ Cool way to dodge the attack.
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/iXnr9uPu6ZU)
+* [YouTube](https://youtu.be/iXnr9uPu6ZU)
   * 0:00 Chongyun E
   * 0:25 Kaeya E
   * 0:30 Aloy Q
@@ -505,7 +505,7 @@ Cool way to dodge the attack.
   * 0:45 Chongyun Q
   * 0:54 Less than 2U Cryo application not working.
   * 1:19 Bennett, Diona and Raiden E not working.
-* [Youtube](https://youtu.be/I0NNtBSx-z0)  
+* [YouTube](https://youtu.be/I0NNtBSx-z0)  
   2 Baron Bunnies have enough Pyro app. to wipe the Hydro and start the Swirl conundrum.
 
 **Significance:** Free damage on the cube.
@@ -549,7 +549,7 @@ Genshin spaghetti at its finest.
 Placing a boulder underneath the geo hypostasis at the start of the battle will cause the middle pillar to break. This then has a chance to cause the hypostasis to do a hammer attack on the player.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=DJdk_zOrl-Q&ab_channel=TarZBlammo)
+[YouTube](https://www.youtube.com/watch?v=DJdk_zOrl-Q&ab_channel=TarZBlammo)
 
 **Significance:**  
 This speeds up the fight by making the Geo Hypostasis vulnerable, without having to spend extra effort to break the pillars. Keep in mind though that the vulnerability windows derived from using this method is shorter.
@@ -567,7 +567,7 @@ This speeds up the fight by making the Geo Hypostasis vulnerable, without having
 Rifthounds skulls need 3 Geo GU to be charged. They also can be charged with other elements, but it requires 38 attacks to be charged and does not depend on GU at all. Physical dmg is useless.
 
 **Evidence:**  
-38 sucrose attacks: [Youtube](https://youtu.be/Fq0zpru1Ej4)
+38 sucrose attacks: [YouTube](https://youtu.be/Fq0zpru1Ej4)
 
 **Significance:**  
 For those that enjoy suffering.
@@ -622,7 +622,7 @@ TCL currently says the 2nd phase threshold is likely exactly 70%. At WL8 lv93 ma
 
 In this [video](https://youtu.be/ABsLY93CJ6c), raiden and venti did a total of `34951+9658+12259+6446+4376+12259+6446+9658+12259+14228+9658+12259+126+126+275+325+162+162+190+190+275+325+162+126+126+275+488+162+243+314+126+126+275+325+162+162+126+126+275+325+162+162+314+126+126+275+325+243`=**152270** damage to trigger the p2 transition, which is just a little bit past the 71% threshold, but not nearly enough to reach the 70% threshold, proving that maguu kenki p2 starts at 71% HP, not 70%.
 
-Another in-game eviden by Tibo#4309: [Youtube](https://youtu.be/1ipWH_bbkzs).  
+Another in-game eviden by Tibo#4309: [YouTube](https://youtu.be/1ipWH_bbkzs).  
 `6729+6925+19512+6729+2099+19512+6729+6925+5914+6729+6925+19512+2808+6729+2099+2039+1942+3810+744+3810+572+1942+1887+1887+1887+1887+1887+572+1887`=**152641** damage.
 
 This finding is also supported by [datamine](https://imgur.com/mAbrUvb).
@@ -644,8 +644,8 @@ Polearm users with Charged Attacks that have bullet-like animations (including Z
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/QDjHgd9vwBU)
-* [Youtube](https://youtu.be/NZNyHO8G0Oc)
+* [YouTube](https://youtu.be/QDjHgd9vwBU)
+* [YouTube](https://youtu.be/NZNyHO8G0Oc)
 
 This is likely due to collision which pushes the character below the hitbox, thus missing the attack. This can be seen as there are visual indicators of the camera shifting down in the videos.
 
@@ -855,22 +855,22 @@ Rifthounds (big ones, not the whelps) can be forced into a state where they are 
 **Evidence:**
 
 * Jean CA  
-   [Youtube](https://www.youtube.com/watch?v=fp-zPYJBDBk)
+   [YouTube](https://www.youtube.com/watch?v=fp-zPYJBDBk)
 
 * Jean Hold E (Credits to Kolibri\#7675)  
    _Note: Need to aim skill upwards._  
-   [Youtube](https://youtu.be/4UxuWv0AzGs)
+   [YouTube](https://youtu.be/4UxuWv0AzGs)
 
 * Klee CA (Credits to pai\#3602)  
-   [Youtube](https://youtu.be/Zu83De-4sV4)
+   [YouTube](https://youtu.be/Zu83De-4sV4)
 
 * Bennett Skill (Level 2-Hold)  
    _Note: Hold E Level 1 will not work. (Shown in Video)_  
-   [Youtube](https://youtu.be/u1EDD74pHs8)
+   [YouTube](https://youtu.be/u1EDD74pHs8)
 
 * Diluc Burst (Credits to Kolibri#7675)  
    _Note: Only the final hit will work._  
-   [Youtube](https://youtu.be/cT1HZcx5TW0)
+   [YouTube](https://youtu.be/cT1HZcx5TW0)
 
 **Significance:**  
 Better understanding of enemy interactions.
@@ -1190,7 +1190,7 @@ God forbid, a ruin hunter in the abyss but with this mechanic learned he's the e
 Mobs internal countdown can be used to activate weak spot on Ruin Hunter (same theory as Vegabond Event) in Spiral Abyss.
 
 **Evidence:**  
-[Youtube](https://youtu.be/Q3yzdJpC9S8): Mobs internal countdown will trigger time gated effects like Ruin Hunter: Bombardment mode and Primo Geovishap: Primordial Shower (works from Vegabond event). Such effect can be triggered if you have a long fight (ex. Ruin Hunter) in overworld.
+[YouTube](https://youtu.be/Q3yzdJpC9S8): Mobs internal countdown will trigger time gated effects like Ruin Hunter: Bombardment mode and Primo Geovishap: Primordial Shower (works from Vegabond event). Such effect can be triggered if you have a long fight (ex. Ruin Hunter) in overworld.
 
 **Significance:**  
 Might be useful for people who can't follow up Ruin Hunter agile attack pattern in Spiral Abyss.
@@ -1247,9 +1247,9 @@ Hydro slimes will apply hydro to both enemies and allies in their surroundings w
 
 **Evidence:**
 
-* Hydro application from bounces: [Youtube](https://youtu.be/nckb-u6WBu8), [Youtube](https://youtu.be/1JNVta6C2GY)
-* Hydro application upon hit: [Imgur](https://imgur.com/a/1kkpMhr), [Imgur](https://imgur.com/a/0VciMcu), [Youtube](https://youtu.be/q-avodAKeEs), [Youtube](https://youtu.be/LpnIyFNejBw)
-* Hydro application upon unfreeze: [Youtube](https://youtu.be/nRTK21ZQSSU), [Youtube](https://youtu.be/iOYamVjMRhU)
+* Hydro application from bounces: [YouTube](https://youtu.be/nckb-u6WBu8), [YouTube](https://youtu.be/1JNVta6C2GY)
+* Hydro application upon hit: [Imgur](https://imgur.com/a/1kkpMhr), [Imgur](https://imgur.com/a/0VciMcu), [YouTube](https://youtu.be/q-avodAKeEs), [YouTube](https://youtu.be/LpnIyFNejBw)
+* Hydro application upon unfreeze: [YouTube](https://youtu.be/nRTK21ZQSSU), [YouTube](https://youtu.be/iOYamVjMRhU)
 * No hydro application when frozen: [Imgur](https://imgur.com/a/YDww90R)
 * No trigger on damaging reactions: [Imgur](https://imgur.com/a/Isc993K)
 
@@ -1267,12 +1267,12 @@ Better understanding of enemy and character aura management in combat with hydro
 Slime Balloons from commissions can only receive a cryo aura similar to Amber’s Baron Bunny. Cryo swirl, superconduct, freeze, forward melt, shatter, and crystallize reactions can be triggered on them. However, superconduct does not reduce physical resistance, cryo swirl with 4pc VV does not reduce cryo resistance, and freeze does not actually stop the Slime Balloon from moving.
 
 **Evidence:**  
-[Youtube](https://youtu.be/ohQrwzEiTUE) - Kazuha’s skill cannot infuse pyro, hydro, or electro off of the Slime Balloon:
+[YouTube](https://youtu.be/ohQrwzEiTUE) - Kazuha’s skill cannot infuse pyro, hydro, or electro off of the Slime Balloon:
 
-Reactions: [Youtube](https://youtu.be/2W-3D2muB9c), [Youtube](https://youtu.be/Yj0XMOYfNCI)
+Reactions: [YouTube](https://youtu.be/2W-3D2muB9c), [YouTube](https://youtu.be/Yj0XMOYfNCI)
 
-Kaeya’s skill (noncrit) does 1339 damage both before and after cryo is swirled with Kazuha. His N1 does not deal increased damage after superconduct is triggered: [Youtube](https://youtu.be/fbWZhi2WRLE).  
-Zhongli's universal res shred also has no effect (tested Barbara's N1 and Kaeya's skill): [Youtube](https://youtu.be/8p57ILh8YVg)
+Kaeya’s skill (noncrit) does 1339 damage both before and after cryo is swirled with Kazuha. His N1 does not deal increased damage after superconduct is triggered: [YouTube](https://youtu.be/fbWZhi2WRLE).  
+Zhongli's universal res shred also has no effect (tested Barbara's N1 and Kaeya's skill): [YouTube](https://youtu.be/8p57ILh8YVg)
 
 **Significance:**  
 With this knowledge you can finish your commissions 2 seconds faster.

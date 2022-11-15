@@ -80,7 +80,7 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 Different sources of interrupt resistance can stack.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=dF7szUj3AWo)  
+[YouTube](https://www.youtube.com/watch?v=dF7szUj3AWo)  
 No interrupt resistance: Staggered on hit 1  
 Guide to Afterlife: Staggered on hit 3  
 Raincutter: Staggered on hit 4  

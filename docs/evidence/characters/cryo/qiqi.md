@@ -51,8 +51,8 @@ Shows how Qiqi's talisman interacts with sources of damage.
 Qiqi healing from applying talisman is dynamically based on current atk, and cannot snapshot atk buffs
 
 **Evidence:**  
-Qiqi baseline healing: [Youtube](https://www.youtube.com/watch?v=gIx8FpS2BIM)  
-Qiqi buffed healing amount (Sara feather): [Youtube](https://www.youtube.com/watch?v=dzanV9B5Xjs)
+Qiqi baseline healing: [YouTube](https://www.youtube.com/watch?v=gIx8FpS2BIM)  
+Qiqi buffed healing amount (Sara feather): [YouTube](https://www.youtube.com/watch?v=dzanV9B5Xjs)
 
 Unbuffed: 2598 hp healed  
 Buffed by Sara: 3365 hp healed  
@@ -80,8 +80,8 @@ This behavior is different compared to Albedo E and Raiden E (both of them have 
 3. Jean Q self hydro swirls: [Imgur](https://imgur.com/vS8ueTt)
 4. Mona Q cast: [Imgur](https://imgur.com/3Qzy2My)
 5. Xingqiu Q activation: [Imgur](https://imgur.com/6FlHxOk)
-6. Hutao E activation: [Youtube](https://youtu.be/NHXlZiXdHhg) (credit to ItzSomebody#0029)
-7. Yoimiya E activation: [Youtube](https://youtu.be/O23CJGQtlCU) (credit to ItzSomebody#0029)
+6. Hutao E activation: [YouTube](https://youtu.be/NHXlZiXdHhg) (credit to ItzSomebody#0029)
+7. Yoimiya E activation: [YouTube](https://youtu.be/O23CJGQtlCU) (credit to ItzSomebody#0029)
 
 **Significance:**
 Additional insight on how game consider to be "taking damage" (which is not consistent between characters)

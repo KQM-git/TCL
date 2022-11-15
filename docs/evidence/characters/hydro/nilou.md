@@ -41,7 +41,7 @@ Additionally, Sword Dance attacks from ending the skill combo with NA do not gen
 * Initial Skill hit, Whirling Steps, Sword Dance, and Sword Dance hits outside Pirouette state can all proc Sacrificial Sword's passive.
 
 **Evidence:**
-[Youtube](https://youtu.be/sSvvg-SaEz0)
+[YouTube](https://youtu.be/sSvvg-SaEz0)
 
 **Significance:**  
 Further understanding of Nilou's Skill.  
@@ -57,7 +57,7 @@ Further understanding of Nilou's Skill.
 Nilou's E cooldown starts on initial cast, but the infusion duration does not start until the 3rd slash.
 
 **Evidence:**
-[Youtube](https://youtu.be/1wWaDfDkano)
+[YouTube](https://youtu.be/1wWaDfDkano)
 
 **Significance:** 
 Smoother Vape Nilou rotations.

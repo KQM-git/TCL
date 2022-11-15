@@ -84,7 +84,7 @@ You can switch fishing baits in mid-air.
 Note that bait cannot be switched once the bobber enters the water.
 
 **Evidence:**  
-[Youtube](https://youtu.be/S5MWl6yO5V8): Skip to 1:50 for a somewhat practical demonstration
+[YouTube](https://youtu.be/S5MWl6yO5V8): Skip to 1:50 for a somewhat practical demonstration
 
 **Significance:**  
 Unnecessarily advanced fishing technique for those trying to catch multiple species of fish.
@@ -112,9 +112,9 @@ Unnecessarily advanced fishing technique for those trying to catch multiple spec
 * Regional Rods do only work in their own region
 
 **Evidence:**  
-[Youtube](https://youtu.be/3tolOoUnucg): Liyue fishing  
-[Youtube](https://youtu.be/fK7lkgrhuME): Inazuma fishing  
-[Youtube](https://youtu.be/69O5BJGHmXU): Pufferfish fishing  
+[YouTube](https://youtu.be/3tolOoUnucg): Liyue fishing  
+[YouTube](https://youtu.be/fK7lkgrhuME): Inazuma fishing  
+[YouTube](https://youtu.be/69O5BJGHmXU): Pufferfish fishing  
 [Imgur](https://imgur.com/a/9Xca0HA): Calculations  
 [Imgur](https://imgur.com/a/oceZzZi): Calculations 2
 
@@ -133,9 +133,9 @@ Pixel count plots:
 **HQ Videos and Frames**  
 HQ Videos:  
 Pufferfish with different rods (render res 1.0, AA off, OBS lossless, reencoded for youtube):  
-Wilderness: [Youtube](https://youtu.be/cgnRslB3kXQ)  
-Regional: [Youtube](https://youtu.be/5VDzmitRINU)  
-Event: [Youtube](https://youtu.be/n3uCYM33SU0)
+Wilderness: [YouTube](https://youtu.be/cgnRslB3kXQ)  
+Regional: [YouTube](https://youtu.be/5VDzmitRINU)  
+Event: [YouTube](https://youtu.be/n3uCYM33SU0)
 
 Frames used:
 wilderness: [Video](https://drive.google.com/file/d/10TwxUKf5YRbUQL_Tgmf_MSNRUO77UDez/view?usp=sharing)  

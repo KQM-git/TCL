@@ -361,7 +361,7 @@ Damage calculations for Geo Traveler
 Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide (A4).
 
 **Evidence:**  
-[Youtube](https://youtu.be/YzFQnlViilI): Geo Traveler starts with 12% Geo Damage Bonus, and after procing A4, goes up to 20% Geo Damage Bonus.
+[YouTube](https://youtu.be/YzFQnlViilI): Geo Traveler starts with 12% Geo Damage Bonus, and after procing A4, goes up to 20% Geo Damage Bonus.
 
 ## Synergies/Interactions
 

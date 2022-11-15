@@ -151,7 +151,7 @@ As such, anything outside of 2.6 units from the center (so approx. half way) is 
 
 **Evidence:**
 
-* [Youtube Playlist](https://www.youtube.com/playlist?list=PL9PTktXgK_B9Rb_4JWwXgQ-EBeR26QFpe)
+* [YouTube Playlist](https://www.youtube.com/playlist?list=PL9PTktXgK_B9Rb_4JWwXgQ-EBeR26QFpe)
 * [Spreadsheet Data](https://docs.google.com/spreadsheets/d/18JB0rZ8TA4nFt-vpwcmFbNFitqpM2XyLgo7WGGvrNmE/edit#gid=0)
 * [G-Drive with full clips](https://drive.google.com/drive/folders/1z9HYWda7DiBQngmjjxRronPbccrdkybe?usp=sharing)
 

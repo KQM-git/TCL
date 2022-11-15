@@ -84,7 +84,7 @@ Better understanding of Raiden's elemental skill.
 Raiden's E coordinated attack CD starts with the triggering move's damage, _not_ with the coordinated attack's.
 
 **Evidence:**  
-[Youtube](https://youtu.be/CfIZRJLvjNc)  
+[YouTube](https://youtu.be/CfIZRJLvjNc)  
 Frames tracked using kdenlive, recorded in 60 fps with game setting at 60 fps.
 
 * Initial setup: Raiden E beforehand, Zhongli shield to avoid staggers and such.

@@ -25,12 +25,12 @@ search: false
 
 **Evidence:**
 
-* Torch: [Youtube](https://youtu.be/URAVSQvPUCs)
-* Ruin Guard: [Youtube](https://youtu.be/ZzQ-FhWjO3w)
-* Haybales and Cooking Pot: [Youtube](https://youtu.be/KHEDUlbdGvQ)
+* Torch: [YouTube](https://youtu.be/URAVSQvPUCs)
+* Ruin Guard: [YouTube](https://youtu.be/ZzQ-FhWjO3w)
+* Haybales and Cooking Pot: [YouTube](https://youtu.be/KHEDUlbdGvQ)
 * Parametric Transformer (activated and not activated):
-  * [Youtube](https://youtu.be/nK5wto4WbVA)
-  * [Youtube](https://youtu.be/pknsfrRqW_o)
+  * [YouTube](https://youtu.be/nK5wto4WbVA)
+  * [YouTube](https://youtu.be/pknsfrRqW_o)
 
 **Significance:** Fluff.
 

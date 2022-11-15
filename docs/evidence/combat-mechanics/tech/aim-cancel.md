@@ -36,7 +36,7 @@ Fluff: Some characters will stay winking after ARCC
 
 **Evidence:**  
 Basic ARCC demonstration: [Imgur](https://imgur.com/BvuqB5g)  
-Yoimiya (failed) ARCC: [Youtube](https://youtu.be/YDub_dO1rKw)  
+Yoimiya (failed) ARCC: [YouTube](https://youtu.be/YDub_dO1rKw)  
 Winking: [Imgur](https://imgur.com/TPvTNjU)
 
 **Significance:**  
@@ -86,12 +86,12 @@ Consistently possible at 30fps, very difficult at 60fps.
 **Evidence:**  
 Diona at 60 fps: [Imgur](https://imgur.com/itkCyVm)  
 Venti (credit to GottaGoFast#7876): [Imgur](https://imgur.com/a/DCdea1n)  
-Tartaglia (credit to Sayline#5959): [Youtube](https://youtu.be/Z6WmXS8mo_o)  
-Yoimiya: [Youtube](https://youtu.be/0Q4jsgySdqU)
+Tartaglia (credit to Sayline#5959): [YouTube](https://youtu.be/Z6WmXS8mo_o)  
+Yoimiya: [YouTube](https://youtu.be/0Q4jsgySdqU)
 
 Proof that second shot is ARCC:  
 Has same targetting as ARCC: [Imgur](https://imgur.com/6XgzeiX)  
-Second shot has CA damage: [Youtube](https://youtu.be/WDjgMb6D6Ck)
+Second shot has CA damage: [YouTube](https://youtu.be/WDjgMb6D6Ck)
 
 **Significance:**  
 Straight DPS increase for bow attack strings that use hold M1 CAs (assuming it is one of the characters that can do this), as the extra shot theoretically does not add any more frames to the attack string.

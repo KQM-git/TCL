@@ -21,7 +21,7 @@ interacting with each other in specific ways that yield the appearance of a hier
 
 **Evidence:**
 
-* [Youtube infusion tests](https://youtu.be/rJKYkrvlnxg)
+* [YouTube infusion tests](https://youtu.be/rJKYkrvlnxg)
 * [Infusion Tests GIF](https://imgur.com/a/wAchZUi)
 * [Diluc/Chongyun Infusion](https://imgur.com/a/mbixEuJ)
 

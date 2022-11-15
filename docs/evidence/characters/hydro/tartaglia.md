@@ -151,7 +151,7 @@ Childe's Skill cooldown duration appears discrete. If Childe is swapped off with
 
 **Evidence:**  
 6s cooldown on fast swap - [YouTube](https://youtu.be/x7z6cIrNfjM)  
-7s cooldown after 1.3s and 1.5s - [Youtube](https://youtu.be/-_YDfE3XYB8) and [YouTube](https://youtu.be/YaCT5owns_w)
+7s cooldown after 1.3s and 1.5s - [YouTube](https://youtu.be/-_YDfE3XYB8) and [YouTube](https://youtu.be/YaCT5owns_w)
 
 **Significance:**  
 Understanding cooldowns can allow more acurate theorycrafting and rotation building.  
@@ -283,10 +283,10 @@ Beidou Q: Stormbreaker, will proc on Childe's riptide flash, and riptide burst a
 
 **Evidence:**  
 In this clip here, we can see instances of chain lightning proccing when c4 is activated every 4 seconds.  
-[Youtube](https://youtu.be/3LJruKBFLuM)
+[YouTube](https://youtu.be/3LJruKBFLuM)
 
 In the second clip here, chain lightning is also proccing on enemy death, due to how riptide burst is counted as an instance of normal attack damage as well.  
-[Youtube](https://youtu.be/CZnZV9Blov4)
+[YouTube](https://youtu.be/CZnZV9Blov4)
 
 **Significance:**  
 Further cements the fact that Childe is one of the, if not the best partners to pair with Beidou to get the maximum amount of lightning procs off Beidou Q.

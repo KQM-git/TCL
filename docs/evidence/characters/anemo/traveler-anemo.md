@@ -62,7 +62,7 @@ There will always be those who dare to brave Anemo MC's blender of numbers.
 The Additional Elemental DMG on AMC Hold E ticks between 5 and 6 times, while the Skill itself can tick up to 7 times.
 
 **Evidence:**  
-[Youtube](https://youtu.be/QC0ZXCX2CeA) - There are 2 attempts in the video, the first one shows 5 ticks and the second one shows 6, but it's never 7.
+[YouTube](https://youtu.be/QC0ZXCX2CeA) - There are 2 attempts in the video, the first one shows 5 ticks and the second one shows 6, but it's never 7.
 
 **Significance:**  
 The Additional Elemental DMG seems to randomly start with the second Initial Cutting DMG or with the first Max Cutting DMG.
@@ -79,11 +79,11 @@ AMC Hold E is dynamic and Q snapshots, for both the Anemo and the Additional Ele
 
 **Evidence:**
 
-* Hold E: [Youtube](https://youtu.be/XbZFc77QXQE)  
+* Hold E: [YouTube](https://youtu.be/XbZFc77QXQE)  
   Unbuffed Max Cutting DMG (0 stacks, no crit): 171 Anemo, 42 Electro  
   Buffed Max Cutting DMG (2 stacks, no crit): 199 Anemo, 49 Electro
 
-* Q: [Youtube](https://youtu.be/lnia3ynnn0Y)  
+* Q: [YouTube](https://youtu.be/lnia3ynnn0Y)  
   Tornado DMG (no C6): 824 Anemo, 253 Electro  
   Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
 
@@ -185,7 +185,7 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 The Additional Elemental DMG has less AoE than the Tornado DMG.
 
 **Evidence:**  
-[Youtube](https://youtu.be/JZfWZiAeMsc) - In the video there were all 9 instances of Tornado DMG but only 1 instance of Additional Elemental DMG because the Ruin Guard wasn't right next to the pillar and the Tornado was stuck on the pillar.
+[YouTube](https://youtu.be/JZfWZiAeMsc) - In the video there were all 9 instances of Tornado DMG but only 1 instance of Additional Elemental DMG because the Ruin Guard wasn't right next to the pillar and the Tornado was stuck on the pillar.
 
 **Significance:**  
 The Additional Elemental DMG basically only happens when the Tornado goes right through an enemy.
@@ -205,7 +205,7 @@ The Additional Elemental DMG basically only happens when the Tornado goes right 
 Anemo Traveler can trigger Mistsplitter NA Stack with Slitting Wind.
 
 **Evidence:**  
-[Youtube](https://youtu.be/6LpsILZWm9E): Mistsplitter Reforged is seen with zero stacks (no glow) at the beginning, with full burst. After anemo windblade hits, a glow is seen, showing that a stack of Mistsplitter has been produced.
+[YouTube](https://youtu.be/6LpsILZWm9E): Mistsplitter Reforged is seen with zero stacks (no glow) at the beginning, with full burst. After anemo windblade hits, a glow is seen, showing that a stack of Mistsplitter has been produced.
 
 **Significance:**  
 AMC can reliably trigger 2 stacks of Mistsplitter Reforged, thereby making them able to utilize it for an anemo damage boost in cases of teams where they are a dps with their E.

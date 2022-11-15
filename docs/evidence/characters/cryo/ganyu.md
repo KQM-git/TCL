@@ -479,7 +479,7 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 
 **Finding:** Ganyu's ultimate cannot be duplicated or have 2 on the field at the same time
 
-**Evidence:** [Youtube](https://youtu.be/DhojXoaJfLU)
+**Evidence:** [YouTube](https://youtu.be/DhojXoaJfLU)
 
 1. Slap on massive CDR via Chong's C2, Anemo Resonance, and a -20% CDR abyss card
 2. Ult repeatedly off cooldown

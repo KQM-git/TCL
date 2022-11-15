@@ -41,7 +41,7 @@ search: false
 Kokomi N2 sometimes gets a delay when doing N2 walk cancels.
 
 **Evidence:**  
-[Youtube](https://youtu.be/CBZYh9Grsl4)  
+[YouTube](https://youtu.be/CBZYh9Grsl4)  
 Frame counts: [Google Doc](https://docs.google.com/spreadsheets/d/1JLYelWNm7y7rjnzbsNdQ-NaGG7mbZ9qWEocMGaiSqI4/edit#gid=0)
 
 **Significance:**  
@@ -77,7 +77,7 @@ Could be detrimental to her role as a Beidou driver and make her lose procs. Das
 While Kokomi's E does not normally snapshot the damage bonus from her Q, it is possible to snapshot it by casting E, being in Q, and swapping off before the first tick of the E. Using a simple application of this, it is possible to maintain 100% uptime on the Q bonus for E just by timing your rotations.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=K-yy-ghu9IA)
+[YouTube](https://www.youtube.com/watch?v=K-yy-ghu9IA)
 
 **Significance:**  
 Who doesn't love some obscure Kokomi tech.

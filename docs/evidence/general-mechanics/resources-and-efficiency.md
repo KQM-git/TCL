@@ -678,7 +678,7 @@ Even after farming one tree type to the cap, it will still register in the 11 tr
 
 **Evidence:**
 
-[Youtube](https://youtu.be/IQjXqPlfX5M)
+[YouTube](https://youtu.be/IQjXqPlfX5M)
 
 In the video, thoma hits 4 birch trees that do not drop wood, this is either caused by a.) being in memory as a tree 1-11 or b.) the daily wood cap was hit for birch specifically. Next, 5 fir trees and 2 cuihua trees were cut, all dropping wood. Going back to the birch trees resulted no new wood drops, and since those are 11 trees hit in total it is impossible for all of the birch trees to be "in memory", so the only reason they wouldn't drop wood is that birch daily limit has been reached. 2 additional fir trees were cut and dropped wood, so capped wood types do count in the tree chopping memory mechanics.
 

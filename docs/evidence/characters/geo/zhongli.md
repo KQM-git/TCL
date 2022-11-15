@@ -56,7 +56,7 @@ In other words having two pillars from c1 will double the damage from resonance.
 Zhongli's shield RES shred lingers for a bit after it breaks/ends.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=FwohwAKylSo) (credits: Kolibri\#7675)
+[YouTube](https://www.youtube.com/watch?v=FwohwAKylSo) (credits: Kolibri\#7675)
 
 **Significance:**  
 Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fischl, etc. if it breaks/ends early

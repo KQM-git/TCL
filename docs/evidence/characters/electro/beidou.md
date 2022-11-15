@@ -135,7 +135,7 @@ However, since the trigger for a discharge is on a normal attack damage instance
 The closer to 60 frames between each attack, the more likely ping inconsistencies will cause you to miss a Q discharge.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=sd66g9D_s6k)  
+[YouTube](https://www.youtube.com/watch?v=sd66g9D_s6k)  
 In this video, there are two cases analyzed.
 
 * First case: 00:30
@@ -189,8 +189,8 @@ Beidou's Elemental Burst, Skill DMG and Lightning DMG, snapshot at different tim
 **Evidence:**  
 Test timings of Beidou's Burst inside Bennett ultimate, both intentionally waiting for the Bennett ATK Buff and casting Burst, and intentionally quick swapping to not snapshot the Bennett ATK Buff and casting burst.
 
-* [Youtube](https://www.youtube.com/watch?v=g14YmgMUzv0): Snapshot, Skill DMG 16921, Lightning DMG 13359
-* [Youtube](https://www.youtube.com/watch?v=2DPqbdoxX8I): No snapshot, Skill DMG 16444, Lightning DMG 8906  
+* [YouTube](https://www.youtube.com/watch?v=g14YmgMUzv0): Snapshot, Skill DMG 16921, Lightning DMG 13359
+* [YouTube](https://www.youtube.com/watch?v=2DPqbdoxX8I): No snapshot, Skill DMG 16444, Lightning DMG 8906  
   (The difference of the Skill DMG is due to losing 1 stack of Serpent Spine.)
 
 In both clips, the Skill DMG snapshots Beidou's stats when it hits, when she has the Bennett ATK Buff. However in the no snapshot clip, as Beidou's Lightning DMG snapshots instantly on cast, and thus, the no snapshot clip has less Lightning DMG.
@@ -209,9 +209,9 @@ In the dire circumstance that you cast Beidou's Elemental Burst too fast to snap
 Lightning discharge from Beidou's burst can only be triggered within limited range, it starts from the character. It is not affected by travel time of the attack. The distance is counted when the attack hit enemy not when it is released. The owner of the attack has to be on field when the attack hit to trigger lightning discharge.
 
 **Evidence:**  
-[Youtube](https://youtu.be/w7pUpdAXx88)  
-[Youtube](https://youtu.be/5zIllx8ouYc)  
-[Youtube](https://youtu.be/wgEdpYtL03c)
+[YouTube](https://youtu.be/w7pUpdAXx88)  
+[YouTube](https://youtu.be/5zIllx8ouYc)  
+[YouTube](https://youtu.be/wgEdpYtL03c)
 
 **Significance:**  
 Better understanding of Beidou burst.
@@ -274,7 +274,7 @@ Beidou’s C4 is mistranslated:
 **Evidence:**
 
 * [C4 Effects](https://puu.sh/GSOeX/499a6b1506.png)
-* [Youtube](https://youtu.be/0LfX9j2nAd8)
+* [YouTube](https://youtu.be/0LfX9j2nAd8)
 
 **Significance:**  
 C4 is not anti-synergistic with all her charged attack bonuses, as one would assume from the description.
@@ -290,7 +290,7 @@ C4 is not anti-synergistic with all her charged attack bonuses, as one would ass
 Beidou's C4 applies 1A of Electro.
 
 **Evidence:**  
-[Youtube](https://youtu.be/nBGPVp0160I)
+[YouTube](https://youtu.be/nBGPVp0160I)
 
 #### Beidou C4 damage
 
@@ -323,8 +323,8 @@ Beidou's C4 is actually on hit, not damage. It does activate when you get hit bu
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/_C0Xp0gROk0): Here Beidou blocks rockets with her parry, C4 is activated.
-* [Youtube](https://youtu.be/VrRdG2NUv4Q): It applies not just to Beidou's shield but presumably all shields. In this instance it does work with Noelle's shield.
+* [YouTube](https://youtu.be/_C0Xp0gROk0): Here Beidou blocks rockets with her parry, C4 is activated.
+* [YouTube](https://youtu.be/VrRdG2NUv4Q): It applies not just to Beidou's shield but presumably all shields. In this instance it does work with Noelle's shield.
 
 **Significance:**  
 C4 pretty good

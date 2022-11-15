@@ -828,7 +828,7 @@ Fading Twilight doesn't snapshot
 
 **Evidence:**  
 Excuse the scuffed clip but you can see my Fischl's crits doing 2008 first, then 2072, then 1944.  
-[Youtube](https://youtu.be/KrQCFiQNgNw)
+[YouTube](https://youtu.be/KrQCFiQNgNw)
 
 **Significance:**  
 Can't keep the buff for the whole duration of a snapshottable skill.
@@ -958,7 +958,7 @@ Assuming kazuhas level does not approach infinity while the enemy level and/or d
 * Additionally, Stacks of Kagura Dance are gained and start their 16s timer at the moment an Elemental Skill is used/inputted, to Skills with a Hold Variant, the passive is gained at the initial start-up of whatever the Hold Skill may be.
 
 **Evidence:**  
-[Youtube](https://youtu.be/EE_rWVNsGlo)
+[YouTube](https://youtu.be/EE_rWVNsGlo)
 
 * Press E, wait ~10s, Press E, wait ~9s, Press E, wait ~17s, Press E
 * Press E #1 was increased by 1 Stack of Kagura Dance
@@ -1243,10 +1243,10 @@ A Mistsplitter's Emblem stack that a character obtains when Normal Attack deals 
 
 **Evidence:**
 
-* Gaining NA stack using Ayaka's CA: [Youtube](https://www.youtube.com/watch?v=fKpQGsUUYI8)
+* Gaining NA stack using Ayaka's CA: [YouTube](https://www.youtube.com/watch?v=fKpQGsUUYI8)
   * CA dmg with 0 stacks: 458 \* 3
   * CA dmg with 1 stack: 491 \* 3
-* Gaining NA stack using Keqing's CA: [Youtube](https://www.youtube.com/watch?v=DULX7uB-4D0)
+* Gaining NA stack using Keqing's CA: [YouTube](https://www.youtube.com/watch?v=DULX7uB-4D0)
   * CA dmg with 0 stacks: 641 + 718
   * CA dmg with 1 stack: 686 + 769
 
@@ -1297,8 +1297,8 @@ Polar Star has no ICD for gaining independent stacks.
 
 **Evidence:**
 
-* [Youtube](https://www.youtube.com/watch?v=R3lTNnsC4aY&ab_channel=Cenpi) - This was the evidence to prove that Polar Star won't acquire stacks if the NA and CAs are too close together resulting in a loss of 20% ATK which is 1 stack of Polar Star. However on closer inspection it can be observed at 0:02 \[[Imgur](https://imgur.com/a/uV8YYzZ)\] that Childe did NOT receive the buff from Bennett's Noblesse Oblige, which is also exactly 20% ATK.
-* [Youtube](https://www.youtube.com/watch?v=ZmXHyNbn9B0&ab_channel=Cenpi) - In this video evidence, contrary to the above, Childe did receive the Noblesse Oblige buff, as seen at 0:05 \[[Imgur](https://imgur.com/a/qv0hgJg)\].
+* [YouTube](https://www.youtube.com/watch?v=R3lTNnsC4aY&ab_channel=Cenpi) - This was the evidence to prove that Polar Star won't acquire stacks if the NA and CAs are too close together resulting in a loss of 20% ATK which is 1 stack of Polar Star. However on closer inspection it can be observed at 0:02 \[[Imgur](https://imgur.com/a/uV8YYzZ)\] that Childe did NOT receive the buff from Bennett's Noblesse Oblige, which is also exactly 20% ATK.
+* [YouTube](https://www.youtube.com/watch?v=ZmXHyNbn9B0&ab_channel=Cenpi) - In this video evidence, contrary to the above, Childe did receive the Noblesse Oblige buff, as seen at 0:05 \[[Imgur](https://imgur.com/a/qv0hgJg)\].
 
 In other words, in both video evidences Polar Star had acquired max stacks regardless of attack spacing.
 
@@ -1598,8 +1598,8 @@ Eula A4 (by ZyronX#2720): [Imgur](https://imgur.com/NGaENqc)
 Eula off field (by ZyronX#2720): [Imgur](https://imgur.com/o9pwCEU)  
 Sayu on field (by ZyronX#2720): [Imgur](https://imgur.com/eWbY6Oo)  
 Sayu off field (by ZyronX#2720): [Imgur](https://imgur.com/wSb0g3M)  
-AOE finding part 1: [Youtube](https://youtu.be/oNb9mnl2aXA)  
-AOE finding part 2: [Youtube](https://youtu.be/GH2EAS-rcus)
+AOE finding part 1: [YouTube](https://youtu.be/oNb9mnl2aXA)  
+AOE finding part 2: [YouTube](https://youtu.be/GH2EAS-rcus)
 
 **Significance:**  
 The passive procs as intended similar to the other mentioned previously. However, ZyronX has confirmed that the passive has an aoe that can affect multiple targets with a single proc. It should be easier to do this if an anemo cc such as venti burst was used.

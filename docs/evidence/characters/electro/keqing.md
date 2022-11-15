@@ -340,7 +340,7 @@ Calculating Keqing energy needs with C2 in mind is hard to do with its inconsist
 
 **Finding:** Keqing triggering the second hit of her E with a charged attack will add a stack for Pale Flame's set bonus.
 
-**Evidence:** [Youtube](https://youtu.be/Nlp4amqkOSM)
+**Evidence:** [YouTube](https://youtu.be/Nlp4amqkOSM)
 
 **Significance:** Pale Flame BiS for phys Keqing, 2BSC 2Glad dead. Also, pale flame stacks are gained when elemental skill damage is dealt.
 

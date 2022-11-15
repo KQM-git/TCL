@@ -54,7 +54,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **Evidence:** In the first 5 seconds of the clip, I start the Abyss floor and immediately switch to Xingqiu, a character with long CDs, in order to activate vaporize with Diluc. Xingqiu is equipped with an R1 Sacrificial Sword. In order to achieve the "perfect run", I restart the floor to try to activate Sacrificial Sword's passive. Upon restarting the floor, both Xingqiu's E and Q are off cooldown, causing me to restart the floor again.
 
-[Youtube](https://youtu.be/3_QlBz5P5B8)
+[YouTube](https://youtu.be/3_QlBz5P5B8)
 
 **Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much energy recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on elemental skills or bursts.
 
@@ -100,8 +100,8 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 
 **Evidence:**
 
-1. [Youtube](https://www.youtube.com/watch?v=J9vlL5l5MYw)
-2. [Youtube](https://www.youtube.com/watch?v=H27u5YRshiE)
+1. [YouTube](https://www.youtube.com/watch?v=J9vlL5l5MYw)
+2. [YouTube](https://www.youtube.com/watch?v=H27u5YRshiE)
 
 **Significance:** This behavior is not unique to Spiral Abyss and applies to all domains.
 
@@ -179,7 +179,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **Bug:** Unlimited respawning bushes when using Hu Tao infused with Pyro sets them on fire and then they respawn.
 
-**Evidence:** [Youtube](https://youtu.be/R5D-seBcdnU)
+**Evidence:** [YouTube](https://youtu.be/R5D-seBcdnU)
 
 **Significance:** Time to farm your eggs and lizards guys
 
@@ -372,7 +372,7 @@ Clipping a Fruit Stand into landmasses allows your character to climb and stand 
 [The Origins](https://clips.twitch.tv/BlatantFastWormHoneyBadger-MrSq60fPLHNl1MtP)  
 [Guide to Spaghetti Impact](https://clips.twitch.tv/BoringFancySeahorseDeIlluminati-hy_WFgh9GZqZXFJL)
 
-[Youtube Playlist](https://www.youtube.com/playlist?list=PL4o3wWS22uTwgJjwS9OUC4BEGBaq7Wk5w)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL4o3wWS22uTwgJjwS9OUC4BEGBaq7Wk5w)
 
 [The sacrifices made to get this far](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/bugs.md/discord/attachments_847367901518626846_847872555397677127_Genshin_Impact_2021.05.28_-_23.14.52.17.mp4)
 
@@ -528,7 +528,7 @@ Performing any action such as jump, attacks, dash, aim, swap, and entering a men
 **Evidence:**  
 [Imgur](https://imgur.com/tMgbyfv)
 
-Breaking free compilation: [Youtube](https://youtu.be/mtybszRN0gk)
+Breaking free compilation: [YouTube](https://youtu.be/mtybszRN0gk)
 
 Gadgets that can be used while sprinting will not cause the character to break free: [Imgur](https://imgur.com/Gup9gEv)  
 Spinning while in this state will cause the character to sink into the ground: [Imgur](https://imgur.com/Urf2h2T)  
@@ -566,7 +566,7 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 
 **Bug:** Venti's Hold Elemental Skill will always lift you vertically up
 
-**Evidence:** [Youtube](https://www.youtube.com/watch?v=N-4qXvyX75A)
+**Evidence:** [YouTube](https://www.youtube.com/watch?v=N-4qXvyX75A)
 
 Step 1. Use Venti's Hold E on a flat surface, see what direction you go  
 Step 2. Repeat but have Venti on an incline  

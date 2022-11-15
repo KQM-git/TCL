@@ -233,7 +233,7 @@ Some enemies can possess more than one state. For example. Abyss Lector and Hera
 **Evidence:**  
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1AENU1fu_pChwc8b0nDPmsCo2qvfi4MXycme4JqjmstA/edit?usp=sharing): The Stagger immunity spreadsheet by Myuwi#0001 from Mona Mains. A list of all enemy states that causes the extension to Mona's omen duration.
 
-[Youtube](https://youtu.be/QhRptxHANm8): Video from LACola. Explains the enemy categories that influence Omen Extension
+[YouTube](https://youtu.be/QhRptxHANm8): Video from LACola. Explains the enemy categories that influence Omen Extension
 
 [Doc](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4) Shield Damage in Genshin Impact by vibechecker#5502
 
@@ -313,8 +313,8 @@ Alternative dash and typical dash have very similar if not exact same i-frame me
 
 **Evidence:**
 
-* [Youtube](https://www.youtube.com/watch?v=mDLhUM-ACGE)
-* See 0:00 to 0:09 of this [Youtube Video](https://youtu.be/DeBpnKDYUQo) for the methodology.
+* [YouTube](https://www.youtube.com/watch?v=mDLhUM-ACGE)
+* See 0:00 to 0:09 of this [YouTube Video](https://youtu.be/DeBpnKDYUQo) for the methodology.
 
 **Significance:**  
 Alt and typical sprint i-frame mechanics are extremely similar, many people likely thought that alt dash i-frames were shorter than before due to alt dash animation changes in 2.0
@@ -351,7 +351,7 @@ While I sincerely doubt that 4 ToM Mona will become a viable build path for her,
 Mona's A4 Passive is not shown on the stats page when she's inactive.
 
 **Evidence:**  
-[Youtube](https://youtu.be/8pLM8X_-kYI) - Removing Mona from the team removes her A4 passive on the stats page.
+[YouTube](https://youtu.be/8pLM8X_-kYI) - Removing Mona from the team removes her A4 passive on the stats page.
 
 **Significance:**  
 Don't freak out if checking out Mona's stats when she isn't in your party

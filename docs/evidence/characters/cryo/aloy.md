@@ -93,7 +93,7 @@ The wording in the Aloy Section of the Theorycrafting Library was incorrect, if 
 1. Original evidence from the 'Sacrificial bow Interactions' section by Vherax\#5321  
    [Imgur](https://imgur.com/1NGlqTp)
 2. The author's own testing to corroborate Vherax's original footage  
-   [Youtube](https://youtu.be/G8GhOOIwIXQ)
+   [YouTube](https://youtu.be/G8GhOOIwIXQ)
 
 **Significance:**  
 The bombs explode rather than disappear, and Aloy can still recieve Coil stacks from the previous round of bombs exploding upon skill recast.

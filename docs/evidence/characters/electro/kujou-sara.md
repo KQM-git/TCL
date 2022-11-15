@@ -127,7 +127,7 @@ Sara's ambush is the first 0 damage hit in the game for the purpose of triggerin
 **Evidence:**  
 Does trigger:
 
-* Diluc C2 and Beidou C4 even with shield on. Diluc vids: [Youtube](https://youtu.be/Xgh6EvQGX_k), Beidou vids: [Imgur](https://imgur.com/a/VwD3jNS)
+* Diluc C2 and Beidou C4 even with shield on. Diluc vids: [YouTube](https://youtu.be/Xgh6EvQGX_k), Beidou vids: [Imgur](https://imgur.com/a/VwD3jNS)
 * Zhongli A1 talent: [Imgur](https://imgur.com/a/VwD3jNS)
 
 Doesn't trigger:
@@ -137,7 +137,7 @@ Doesn't trigger:
 * Aquila: [Imgur](https://imgur.com/yAJWPC2)
 * The Bell: [Imgur](https://imgur.com/JtILNvC)
 * XQ rainswords: [Imgur](https://imgur.com/a/I64v06w)
-* Noelle A1: [Youtube](https://youtu.be/BgT_gpg288o)
+* Noelle A1: [YouTube](https://youtu.be/BgT_gpg288o)
 
 Unknown:  
 Alley flash
@@ -267,7 +267,7 @@ It's possible to buff 2 different characters, with one Crowfeather from C2 and a
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/614ud7vKz4Q)
+* [YouTube](https://youtu.be/614ud7vKz4Q)
 * [Imgur 30 fps](https://imgur.com/lDx2hSL)
 * [Imgur 60 fps](https://imgur.com/BjHFzqv)
 
@@ -316,7 +316,7 @@ It may be easier to pull off double snapshots with C2, or at C0/C1 with a rotati
 **Finding:**  
 Tengu Stormcall only buffs the on-field characters the frame before the Crowfeather Explosion.
 
-**Evidence:** [Youtube](https://youtu.be/YjWPpL-4TKw)
+**Evidence:** [YouTube](https://youtu.be/YjWPpL-4TKw)
 
 **Significance:**  
 Exact timing of the Crowfeather buff.

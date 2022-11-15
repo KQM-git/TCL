@@ -91,9 +91,9 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 
 **Evidence:**
 
-1. first bounce test = chongyun only melts 2 swords [Youtube](https://www.youtube.com/watch?v=wY-0DKfV3sw)
-2. second bounce test = chongyun only melts 2 swords [Youtube](https://youtu.be/ielZ3K7EiDQ)
-3. final bounce = grass sets on fire [Youtube](https://www.youtube.com/watch?v=iulXOvubb4A)
+1. first bounce test = chongyun only melts 2 swords [YouTube](https://www.youtube.com/watch?v=wY-0DKfV3sw)
+2. second bounce test = chongyun only melts 2 swords [YouTube](https://youtu.be/ielZ3K7EiDQ)
+3. final bounce = grass sets on fire [YouTube](https://www.youtube.com/watch?v=iulXOvubb4A)
 
 **Significance:** Updated tcl
 
@@ -214,12 +214,12 @@ Regarding the Explosive Spark from Klee's A1:
 
 **Evidence:**
 
-1. Duration: [Youtube](https://youtu.be/Og-cb7utLMo?)
-2. Swapping: [Youtube](https://youtu.be/d6GUMJqBD_A)
+1. Duration: [YouTube](https://youtu.be/Og-cb7utLMo?)
+2. Swapping: [YouTube](https://youtu.be/d6GUMJqBD_A)
 3. Things it procs on: [Google Sheets](https://docs.google.com/spreadsheets/d/1SGzT-9WBGOD_ChPivYN6PKNklpMx6JS6eO_dRhXlmNU/edit#gid=0)
-4. "Normal" trees: [Youtube](https://youtu.be/-JGDWOO3cgU)
-5. Cuihua trees: [Youtube](https://youtu.be/puI67mUbuFA)
-6. Aralia trees: [Youtube](https://youtu.be/RNIHZ1IaKxc)
+4. "Normal" trees: [YouTube](https://youtu.be/-JGDWOO3cgU)
+5. Cuihua trees: [YouTube](https://youtu.be/puI67mUbuFA)
+6. Aralia trees: [YouTube](https://youtu.be/RNIHZ1IaKxc)
 
 **Significance:**  
 Klee is good at destroying stuff without consuming stamina.

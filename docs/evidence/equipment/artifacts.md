@@ -177,8 +177,8 @@ Blizzard Strayer does not gain full crit rate bonus against frozen aura
    [Imgur](https://imgur.com/iWVdbrC)
 
 **Testing:**  
-Frostarm Lawachurl : [Youtube](https://youtu.be/8wz8pq8T2hc)  
-Cryo Hypostasis : [Youtube](https://youtu.be/6zyHjbnft4Y)
+Frostarm Lawachurl : [YouTube](https://youtu.be/8wz8pq8T2hc)  
+Cryo Hypostasis : [YouTube](https://youtu.be/6zyHjbnft4Y)
 
 Against both target:
 
@@ -947,7 +947,7 @@ Whether you should run 4NO.
 * 4pc OHC doesn't proc from Bennett's Burst after HP reaches 70%. - [Chalotte#5673](https://youtu.be/nWslJYFtyPY)
 * OHC counts initial heal as part of the clamage - [JonahFarc#7056](https://i.imgur.com/9q5tj44.mp4)
 * OHC AOE range is 5.5m radius and it can hit multiple target at once. - r.rei\#2844
-  * Evidence: [Abyss tile distance 1](https://i.imgur.com/PVudoeF.mp4) | [2](https://i.imgur.com/T7uKEgM.mp4) | [Hitting Multiple targets](https://youtu.be/GxC6ERBSYHY) | [Abyss tile distance (Youtube)](https://youtu.be/H9Zf-T2eDtU)
+  * Evidence: [Abyss tile distance 1](https://i.imgur.com/PVudoeF.mp4) | [2](https://i.imgur.com/T7uKEgM.mp4) | [Hitting Multiple targets](https://youtu.be/GxC6ERBSYHY) | [Abyss tile distance (YouTube)](https://youtu.be/H9Zf-T2eDtU)
 * Revives such as Barbara C6 and Qiqi C6 count for clamage healing. - JonahFarc\#7056
   * Evidence: [Album](https://imgur.com/a/sM2tosa) | [Barbara Res Video](https://i.imgur.com/fkbMS5f.mp4) | [Qiqi Res Video](https://i.imgur.com/EX8jBKH.mp4)
 * Heals (and Overheals) from Black Sword will activate Ocean-Hued Clam. - [kraaashed\#5300](https://youtu.be/1LYosI8KoZA)
@@ -971,7 +971,7 @@ Number of E Procs = 1
 
 * [Clip showed the bubble deal 729 damage](https://youtu.be/K0FlJWzhG8w)  
   `((20175 * 0.062) + 671) * 1.4 * 0.9 * 0.3 = 726.4593`
-* [Youtube](https://youtu.be/82ueCZNlclk)
+* [YouTube](https://youtu.be/82ueCZNlclk)
   * The first clip with SC showed the bubble deal 1687 damage  
     Superconduct = -40% physical resistance  
     `((20175 * 0.062) + 671) * 1.4 * 0.9 * 0.7 = 1695.0717 `
@@ -991,7 +991,7 @@ All healing coming from the set wielder gets calculated for the Bubble Damage in
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/AhZUJOWCfJs)
+* [YouTube](https://youtu.be/AhZUJOWCfJs)
 * [Imgur](https://imgur.com/a/b55vjk4)  
   HP = 20175  
   Healing Bonus = 40%  
@@ -1010,7 +1010,7 @@ bubble dealt 642 damage
 Incoming Healing Bonus for all party members = +30%  
 `4* ((20175 * 0.0113) + 122) * 1.7) * 0.9 * 0.3 = 642.55869`
 
-[Youtube](https://youtu.be/vn94KW950kI)
+[YouTube](https://youtu.be/vn94KW950kI)
 Number of E Procs = 1  
 Video shows that the bubble damage remained constant regardless of the hp that was restored
 
@@ -1024,7 +1024,7 @@ This means that all healing from the set wielder, whether the set wielder is on 
 [Basic Mechanics Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912804514208317501_923003367758917662_transcript-husk-ohc-mechanics.html)
 
 **Evidence:**  
-[Youtube](https://youtu.be/FQOF4aTiEVw) | [Imgur](https://imgur.com/a/UQmjlPc)
+[YouTube](https://youtu.be/FQOF4aTiEVw) | [Imgur](https://imgur.com/a/UQmjlPc)
 
 The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on the field even when there are 2 units that have the full set. However, the set description also states that only one bubble can form every 3.5s which implies that the bubble formation ICD is also shared, which isn't the case as shown by the clip from 0:18 - 0:26. The imgur link shows a frame by frame analysis where the bubble formed from Qiqi E popping animation started until the point where the bubble formed from Kokomi E is already visible enough happened all within 6 frames, which is way below the implied 0.5s/30f downtime of the bubble formation for a single full Ocean set per team scenario. This does not say anything about coop interactions and mechanics of the set however and may be worth testing idk
 
@@ -1058,35 +1058,35 @@ OHC procs on a lot on non-conventional types of healing, this ticket aims to doc
 **Evidence:**  
 _Characters:_
 
-* Anemo Traveler A4 (Yes) [Youtube](https://youtu.be/qUz3jGMDnMg)
+* Anemo Traveler A4 (Yes) [YouTube](https://youtu.be/qUz3jGMDnMg)
 * Barabara/Qiqi C6 (Yes, already in KQM Library)
-* Fischl C4 (yes) [Youtube](https://youtu.be/4BbOQWwomlM)
-* Gorou C4 (yes) [Youtube](https://youtu.be/kw1XzqhTbp4)
-* Sayu A1 (yes) [Youtube](https://youtu.be/eIDW_s0xDHc)
-* Kaeya A1 (yes) [Youtube](https://youtu.be/nj1gyOOqepQ)
+* Fischl C4 (yes) [YouTube](https://youtu.be/4BbOQWwomlM)
+* Gorou C4 (yes) [YouTube](https://youtu.be/kw1XzqhTbp4)
+* Sayu A1 (yes) [YouTube](https://youtu.be/eIDW_s0xDHc)
+* Kaeya A1 (yes) [YouTube](https://youtu.be/nj1gyOOqepQ)
 * Zhongli C6 (yes) [Imgur](https://imgur.com/ZK61uFe)
-* Hu Tao burst (yes) [Youtube](https://youtu.be/wFNEZxB1oxo)
+* Hu Tao burst (yes) [YouTube](https://youtu.be/wFNEZxB1oxo)
 
 _Weapons:_
 
 * Prototype Amber Passive (Yes, already in KQM Library)
 * Black Sword (Yes, already in KQM Library)
-* Aquila Favonia (yes) [Youtube](https://youtu.be/nwAhcnTTHsA)
-* White Iron Greatsword (yes) [Youtube](https://youtu.be/sMikNDe6rmk)
-* Traveler's Handy Sword (yes) [Youtube](https://youtu.be/8UiLNQAys-w)
-* Otherworldly Story (yes) [Youtube](https://youtu.be/7EvXhTE1W48)
-* Recurve Bow (yes) [Youtube](https://youtu.be/x9b1GQXBra4)
+* Aquila Favonia (yes) [YouTube](https://youtu.be/nwAhcnTTHsA)
+* White Iron Greatsword (yes) [YouTube](https://youtu.be/sMikNDe6rmk)
+* Traveler's Handy Sword (yes) [YouTube](https://youtu.be/8UiLNQAys-w)
+* Otherworldly Story (yes) [YouTube](https://youtu.be/7EvXhTE1W48)
+* Recurve Bow (yes) [YouTube](https://youtu.be/x9b1GQXBra4)
 
 _Other:_
 
 * Statue of the Seven (no)
 * Food, esp DoT healing food (no)
-* Revival after party wipe in overworld (no) [Youtube](https://youtu.be/6qWjH1yHe44)
-* Co-op Domains - leaving after death (no)[Youtube](https://youtu.be/H6tJAO82Hy4)
-* Co-op Domains - restart after team wipe (no) [Youtube](https://youtu.be/uxvrq822cpQ)
-* Abyss cards - HP regen on killing enemies (no) [Youtube](https://youtu.be/LESZ6FhGcs8)
-* Abyss cards - Instant 25% HP (no) [Youtube](https://www.youtube.com/watch?v=Pzz7r-AjQto)
-* Windtrace Healing (yes) [Youtube](https://www.youtube.com/watch?v=2ExXP7PcAGo)
+* Revival after party wipe in overworld (no) [YouTube](https://youtu.be/6qWjH1yHe44)
+* Co-op Domains - leaving after death (no)[YouTube](https://youtu.be/H6tJAO82Hy4)
+* Co-op Domains - restart after team wipe (no) [YouTube](https://youtu.be/uxvrq822cpQ)
+* Abyss cards - HP regen on killing enemies (no) [YouTube](https://youtu.be/LESZ6FhGcs8)
+* Abyss cards - Instant 25% HP (no) [YouTube](https://www.youtube.com/watch?v=Pzz7r-AjQto)
+* Windtrace Healing (yes) [YouTube](https://www.youtube.com/watch?v=2ExXP7PcAGo)
 
 **Significance:**
 Better understanding of OHC and what it benefits from.
@@ -1240,9 +1240,9 @@ Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
 Shimenawa Set energy drain also do not happen immediately. There is about a 7-frame delay (can be more depend on latency) from the moment your character elemental skill is used to when you character actually lose energy.
 
 **Evidence:**  
-Frame count (from beginning till 2:00): [Youtube](https://www.youtube.com/watch?v=3esuFmKuwo0)
+Frame count (from beginning till 2:00): [YouTube](https://www.youtube.com/watch?v=3esuFmKuwo0)
 
-Extra Razor, lisa, sayu, chongyun framecount: [Youtube](https://www.youtube.com/watch?v=BSztCPB5leY)
+Extra Razor, lisa, sayu, chongyun framecount: [YouTube](https://www.youtube.com/watch?v=BSztCPB5leY)
 
 [Imgur](https://imgur.com/a/pmYsziS) - Childe using Shimenawa, still able to cast E into Q while getting the auto attack damage buff. I attack at the beginning to showcase the dmg difference after the buff.
 
@@ -1250,7 +1250,7 @@ Extra Razor, lisa, sayu, chongyun framecount: [Youtube](https://www.youtube.com/
 
 [Imgur](https://imgur.com/a/S3F6onZ) - Example of Ning using SR and doing E into Q at high ping (thanks to SilverHawk#5880)
 
-[Youtube](https://www.youtube.com/watch?v=V9HhHNffa7c) - Example of Keqing at high ping (thanks to ProfHugo#6478)
+[YouTube](https://www.youtube.com/watch?v=V9HhHNffa7c) - Example of Keqing at high ping (thanks to ProfHugo#6478)
 
 **Significance:**  
 If a character can cast their elemental skill and then burst in about less than 7 frame, they can spend the energy before being drained, bypassing the large cost of using Shimenawa set. Childe walking E (thanks to Amadurim#8925) is currently the only skill found to be fast enough for this tech to work, so this remains largely impractical in gameplay, but maybe future character can benefit more from Shimenawa with this finding. Also, with high ping (400-600ms) it is possible to extend the energy drain delay long enough so other character can burst before the drain.
@@ -1646,40 +1646,40 @@ List of tests:
 
 AMC\(Q\):
 
-* Normal 4p vv proc: [Youtube](https://www.youtube.com/watch?v=-etSCIUmf9E&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=1)
-* Offield so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=D7T0P8XTJyg&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=2)
-* Onfield so 4p vv procs: [Youtube](https://www.youtube.com/watch?v=QdaWU4A955I&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=3)
-* Offield DURING a swirl so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=0_q_DZMG-KA&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=4)
+* Normal 4p vv proc: [YouTube](https://www.youtube.com/watch?v=-etSCIUmf9E&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=1)
+* Offield so 4p vv doesnt proc: [YouTube](https://www.youtube.com/watch?v=D7T0P8XTJyg&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=2)
+* Onfield so 4p vv procs: [YouTube](https://www.youtube.com/watch?v=QdaWU4A955I&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=3)
+* Offield DURING a swirl so 4p vv doesnt proc: [YouTube](https://www.youtube.com/watch?v=0_q_DZMG-KA&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=4)
 
 Jean\(Q\):
 
-* Normal 4p vv proc: [Youtube](https://www.youtube.com/watch?v=Hi4x1IMPFl4&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=5)
-* Offield so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=SUP434omYzI&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=6)
-* Onfield so 4p vv procs: [Youtube](https://www.youtube.com/watch?v=rMrRLdu6DsY&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=7)
+* Normal 4p vv proc: [YouTube](https://www.youtube.com/watch?v=Hi4x1IMPFl4&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=5)
+* Offield so 4p vv doesnt proc: [YouTube](https://www.youtube.com/watch?v=SUP434omYzI&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=6)
+* Onfield so 4p vv procs: [YouTube](https://www.youtube.com/watch?v=rMrRLdu6DsY&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=7)
 
 Sucrose\(Q\):
 
-* Normal 4p vv proc dmg : [Youtube](https://www.youtube.com/watch?v=Kxh8kD6JFp8&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=16)
-* Offield when swirl happens so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=-QwzOzdUO20&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=14)
-* Onfield so 4p vv procs: [Youtube](https://www.youtube.com/watch?v=E4WG0wjG8Ig&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=15)
+* Normal 4p vv proc dmg : [YouTube](https://www.youtube.com/watch?v=Kxh8kD6JFp8&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=16)
+* Offield when swirl happens so 4p vv doesnt proc: [YouTube](https://www.youtube.com/watch?v=-QwzOzdUO20&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=14)
+* Onfield so 4p vv procs: [YouTube](https://www.youtube.com/watch?v=E4WG0wjG8Ig&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=15)
 
 Anemo and non-Anemo wearers that dont trigger the swirl but is onfield during a swirl:  
 Tests showed 4p vv not shredding at all.
 
 List of tests:
 
-* Stat page for testing if non-anemo characters that have 4p vv and are onfield during a swirl can shred: [Youtube](https://www.youtube.com/watch?v=2aVvXneoUdo&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=8)
-* Non-anemo characters that have 4p vv and are onfield during a swirl they dont trigger CANNOT shred: [Youtube](https://www.youtube.com/watch?v=w4GP55tOPX4&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=9)
-* Stat page for testing if anemo characters that have 4p vv and are onfield during a swirl can shred: [Youtube](https://www.youtube.com/watch?v=ro1E3-FvydM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=10)
-* Anemo characters that have 4p vv and are onfield during a swirl they dont trigger CANNOT shred: [Youtube](https://www.youtube.com/watch?v=6cGhQPbbdns&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=11)
+* Stat page for testing if non-anemo characters that have 4p vv and are onfield during a swirl can shred: [YouTube](https://www.youtube.com/watch?v=2aVvXneoUdo&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=8)
+* Non-anemo characters that have 4p vv and are onfield during a swirl they dont trigger CANNOT shred: [YouTube](https://www.youtube.com/watch?v=w4GP55tOPX4&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=9)
+* Stat page for testing if anemo characters that have 4p vv and are onfield during a swirl can shred: [YouTube](https://www.youtube.com/watch?v=ro1E3-FvydM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=10)
+* Anemo characters that have 4p vv and are onfield during a swirl they dont trigger CANNOT shred: [YouTube](https://www.youtube.com/watch?v=6cGhQPbbdns&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=11)
 
 Non-Anemo wearers that are onfield and trigger the swirl:  
 Tests showed that they can shred with 4p vv as long as they trigger the swirl with any element which is not geo/anemo \(which is only possible against enemies with an innate Anemo aura like the Anemo hypostasis\)
 
 List of tests:
 
-* Stat page for "Pyro as trigger element for swirl with 4p vv, WILL IT SHRED": [Youtube](https://www.youtube.com/watch?v=IXaYPqGqzOw&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=12)
-* With Pyro as Trigger for swirl, 4p vv procs the shred \(vs anemo hypo\): [Youtube](https://www.youtube.com/watch?v=OOjnH_y59dM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=13)
+* Stat page for "Pyro as trigger element for swirl with 4p vv, WILL IT SHRED": [YouTube](https://www.youtube.com/watch?v=IXaYPqGqzOw&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=12)
+* With Pyro as Trigger for swirl, 4p vv procs the shred \(vs anemo hypo\): [YouTube](https://www.youtube.com/watch?v=OOjnH_y59dM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=13)
 
 **Conclusion:** 4p vv wearers can only shred if they fulfil the 2 requirements of being the trigger of the swirl and being onfield during the swirl. Other elements like pyro/cryo can also shred with 4p vv with the same 2 requirements.
 

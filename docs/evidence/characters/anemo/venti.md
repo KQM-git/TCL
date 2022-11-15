@@ -90,7 +90,7 @@ In more serious terms, this has little practical use for the majority of Venti u
 
 **Finding:** Venti's Burst elemental infusion application follows the standard ICD rules of elemental application every 3rd hit.
 
-**Evidence:** [Youtube](https://youtu.be/nlxEcKJUfKA)
+**Evidence:** [YouTube](https://youtu.be/nlxEcKJUfKA)
 
 **Significance**: Once the GUs of Venti ult's absorbed element has been determined, this can aid us in calculating his single target elemental application rate
 
@@ -140,7 +140,7 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 Venti ult anemo gauge is 1U.
 
 **Evidence:**  
-[Youtube](https://youtu.be/Arq_x6nFs6s)
+[YouTube](https://youtu.be/Arq_x6nFs6s)
 
 [Imgur](https://imgur.com/a/QK1y6oa): From this screenshot, we see that the shield has taken about 10 or 11 pixels of damage, out of a total 111 pixel shield.  
 Lector shields have need 72 anemo units worth of guage to break.  
@@ -162,27 +162,27 @@ Venti ult anemo gauge is 1U.
 **Evidence:**  
 15 ticks | 60 fps
 
-* CC#5588 - [Youtube](https://youtu.be/q2HtOuYvDUM)
-* Sabrenn#8965 - [Youtube](https://youtu.be/Cd6IiIBUYuI)
-* CrazyWeke123#9720 - [Youtube](https://youtu.be/vTQXvxLGn_0)
+* CC#5588 - [YouTube](https://youtu.be/q2HtOuYvDUM)
+* Sabrenn#8965 - [YouTube](https://youtu.be/Cd6IiIBUYuI)
+* CrazyWeke123#9720 - [YouTube](https://youtu.be/vTQXvxLGn_0)
 
 14 ticks | 60 fps
 
-* Sabrenn#8965 - [Youtube](https://youtu.be/AipBkL-HXUA)
-* CrazyWeke123#9720 - [Youtube](https://youtu.be/QhQYU3_tcA0)
+* Sabrenn#8965 - [YouTube](https://youtu.be/AipBkL-HXUA)
+* CrazyWeke123#9720 - [YouTube](https://youtu.be/QhQYU3_tcA0)
 
 14 ticks | 120 fps
 
-* Asaki#9139 - [Youtube](https://youtu.be/pVmPlsXPylc)(1) | [Youtube](https://youtu.be/FDpUR3uzf6o)(2)
+* Asaki#9139 - [YouTube](https://youtu.be/pVmPlsXPylc)(1) | [YouTube](https://youtu.be/FDpUR3uzf6o)(2)
 
 14 ticks | 30 fps
 
-* CC#5588 - [Youtube](https://youtu.be/T_JDrnxGFh0)
+* CC#5588 - [YouTube](https://youtu.be/T_JDrnxGFh0)
 
 13 ticks | 30 fps mode
 
-* Puffin#9920 - [Youtube](https://youtu.be/v4PM5NY-fYA)
-* CC#5588 - [Youtube](https://youtu.be/eRl7PuVLPiU)
+* Puffin#9920 - [YouTube](https://youtu.be/v4PM5NY-fYA)
+* CC#5588 - [YouTube](https://youtu.be/eRl7PuVLPiU)
 
 **Significance:** Better Accuracy for Calcs Involving Venti.
 
@@ -222,7 +222,7 @@ Venti's late infusion bug still exists in 1.5.
 
 **Evidence:**
 
-Anemo Res Reduction: [Youtube](https://www.youtube.com/watch?v=KvEPod0i_P0)  
+Anemo Res Reduction: [YouTube](https://www.youtube.com/watch?v=KvEPod0i_P0)  
 Res reduction lasts 10s from last anemo dmg tick.
 
 * Sucrose without res reduction deals: 91, 83, 104, 130
@@ -230,7 +230,7 @@ Res reduction lasts 10s from last anemo dmg tick.
 * Last tick of anemo dmg at 0:18
 * Sucrose stopped dealing increased damage at 0:28.
 
-Elemental Res Reduction \(ft. Venti late infusion bug\): [Youtube](https://www.youtube.com/watch?v=JAVanCKpxIo)  
+Elemental Res Reduction \(ft. Venti late infusion bug\): [YouTube](https://www.youtube.com/watch?v=JAVanCKpxIo)  
 Res reduction lasts 10s from last hydro DOT tick.
 
 * Barbara without res reduction deals: 76, 71, 83, 111
@@ -239,7 +239,7 @@ Res reduction lasts 10s from last hydro DOT tick.
 * Last tick of hydro DOT at 0:14
 * Barbara stopped dealing increased damage at 0:24.
 
-Anemo Res Reduction \(ft. Venti late infusion bug\): [Youtube](https://www.youtube.com/watch?v=Ix85zbuwves/)  
+Anemo Res Reduction \(ft. Venti late infusion bug\): [YouTube](https://www.youtube.com/watch?v=Ix85zbuwves/)  
 Anemo res reduction lasts 10s from last anemo dmg tick, not influenced by infusion ticks.
 
 * Sucrose without res reduction deals: 25, 23, 29, 36
@@ -248,7 +248,7 @@ Anemo res reduction lasts 10s from last anemo dmg tick, not influenced by infusi
 * Last tick of hydro DOT at 0:14
 * Sucrose stopped dealing increased damage at 0:20
 
-Venti's late infusion bug still exists in 1.5: [Youtube](https://www.youtube.com/watch?v=QIUdiR6p5TQ)
+Venti's late infusion bug still exists in 1.5: [YouTube](https://www.youtube.com/watch?v=QIUdiR6p5TQ)
 
 **Significance:** Here is how long C6 venti debuff lasts since miHoYo didn't bother to list it.
 

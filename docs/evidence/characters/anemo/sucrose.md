@@ -133,8 +133,8 @@ Control Cases: Enemies have no Frozen/Petrify Status
 * [Sucrose E vs Light Enemies \(UNFROZEN\)](https://youtu.be/cN5TVdnnXOg)
 * [Sucrose E vs Heavier Enemy \(UNFROZEN\)](https://youtu.be/S9ss_zFlYzg)
 * Sucrose E vs Light/Heavy Enemies (UNFROZEN AND UNPETRIFIED) will break Mona's Omen - ShampooBrain\#9583
-  * [Youtube](https://www.youtube.com/watch?v=9YvY2nHvsmU)
-  * [Youtube](https://www.youtube.com/watch?v=sa40LaiWpBM)
+  * [YouTube](https://www.youtube.com/watch?v=9YvY2nHvsmU)
+  * [YouTube](https://www.youtube.com/watch?v=sa40LaiWpBM)
 
 As one can see from the above clips, Sucrose knocks up all the enemies that she can.
 
@@ -143,8 +143,8 @@ Comparison Cases: Enemies are Frozen/Petrified
 * [Sucrose E vs Light Enemies \(FROZEN\)](https://youtu.be/B_2EHRz5hY8)
 * [Sucrose E vs Heavier Enemy \(FROZEN\)](https://youtu.be/nyl3cxWFXVQ)
 * Sucrose E vs Light/Heavy Enemies (PETRIFIED) - ShampooBrain\#9583
-  * [Youtube](https://www.youtube.com/watch?v=osfBvPTESbE)
-  * [Youtube](https://www.youtube.com/watch?v=zKCiUsM6J9o)
+  * [YouTube](https://www.youtube.com/watch?v=osfBvPTESbE)
+  * [YouTube](https://www.youtube.com/watch?v=zKCiUsM6J9o)
 * [Sucrose E vs Enemies in Mona's Omen \(FROZEN\)](https://imgur.com/zZffQyq) - EatYourVeggies\#7493  
   _Note: Notice how the first Skill Usage did not knock up, but the 2nd one did._
 * [Sucrose E vs Enemies in Mona's Omen \(PETRIFIED\)](https://youtu.be/kla0exFH-6I)  
@@ -167,13 +167,13 @@ _credits to fragile💤#7777 for finding and documenting the first instance of t
 **Evidence:**
 
 * Bug messing up Xiao pre-funnel.  
-  [Youtube](https://www.youtube.com/watch?v=Zv376ZCWvcw)
+  [YouTube](https://www.youtube.com/watch?v=Zv376ZCWvcw)
 
 * Bug clearly displayed.  
-  [Youtube](https://www.youtube.com/watch?v=_lwhREwT3aE)
+  [YouTube](https://www.youtube.com/watch?v=_lwhREwT3aE)
 
 * Bug clearly displayed 2: in the abyss!.  
-  [Youtube](https://www.youtube.com/watch?v=g-0pGGYHTgo)
+  [YouTube](https://www.youtube.com/watch?v=g-0pGGYHTgo)
 
 **Significance:**  
 For those who still want the particles while doing Sucrose E dash cancel (this is mostly for pre-funnelling Xiao, but could be useful in other situations), have skill issue and stay on Sucrose a bit longer before switching characters.  
@@ -190,7 +190,7 @@ This might also be a bug on other characters when they dash cancel their skills.
 Doing Sucrose E > dash > E very fast only produces 1 skill's worth of elemental orbs
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=pheoEgyYIlg)
+[YouTube](https://www.youtube.com/watch?v=pheoEgyYIlg)
 
 **Significance:**  
 Making frame-perfect dash cancels isn't always a good thing. When doing E dash E, it is better to delay the 2nd E a bit more so that a total of 8 orbs are produced.
@@ -283,7 +283,7 @@ More flexible rotations and Sucrose does not need to be buffed before using her 
 **Findings:**  
 Sucrose's A1 passive, A4 passive, and C6 effect can be triggered even when she is off-field.
 
-**Evidence:** [Youtube](https://youtu.be/Fl3j9rp0N90)
+**Evidence:** [YouTube](https://youtu.be/Fl3j9rp0N90)
 
 **Significance:**  
 More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*element you want to buff*] and continue with the rest of your rotations without having to imbue element first before Sucrose moves.

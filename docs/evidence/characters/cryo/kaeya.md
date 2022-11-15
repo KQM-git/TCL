@@ -64,9 +64,9 @@ These data sheds light onto Glacial Waltz mechanics and how to maximize their bu
 
 **Evidence:**
 
-* 1 enemy frozen by Kaeya's E: [Youtube](https://youtu.be/1BB04ufgR6o)  
+* 1 enemy frozen by Kaeya's E: [YouTube](https://youtu.be/1BB04ufgR6o)  
   3-4 particles were generated in total.
-* 2 enemies frozen by Kaeya's E: [Youtube](https://youtu.be/nRTbBIqvinY)  
+* 2 enemies frozen by Kaeya's E: [YouTube](https://youtu.be/nRTbBIqvinY)  
   4-5 particles were generated in total.
 
 **Significance:**

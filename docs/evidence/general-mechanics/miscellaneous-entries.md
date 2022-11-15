@@ -23,31 +23,31 @@ Certain characters have a finite vertical range for the buffs and/or infusions f
 
 * Bennett has either infinite or a very long range on his Burst healing pyro infusion from c6, pyro dmg bonus from c6. etc.
 
-  * [Youtube](https://youtu.be/5EEAXYn3cn0)
+  * [YouTube](https://youtu.be/5EEAXYn3cn0)
 
 * Chongyun has either infinite or a very long range on Skill infusion, atk speed etc.
 
-  * [Youtube](https://youtu.be/BcmzgqkkW9w)
+  * [YouTube](https://youtu.be/BcmzgqkkW9w)
 
 * Jean has either infinite or a very long range on her Burst. (Video courtesy of Rathalos\#2875)
 
-  * [Youtube](https://youtu.be/DznbN-htm94)
+  * [YouTube](https://youtu.be/DznbN-htm94)
 
 * Gorou's Skill vertical range is a little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of Aevean Leeow\#1362)
 
-  * [Youtube](https://youtu.be/KHCucwYJ8ZM)
+  * [YouTube](https://youtu.be/KHCucwYJ8ZM)
 
 * Ganyu's A4 passive's vertical range is a little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of pai\#3602)
 
-  * [Youtube](https://youtu.be/EI2UEyRpj10)
+  * [YouTube](https://youtu.be/EI2UEyRpj10)
 
 * Shenhe's A1 passive's vertical range is little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of pai\#3602)
 
-  * [Youtube](https://youtu.be/86IUV8uvqPI)
+  * [YouTube](https://youtu.be/86IUV8uvqPI)
 
 * Diona's C6 and healing has vertical range which is shorter than Zhongli's stone stele and longer than GMC's meteorite.
-  * [Zhongli Stele (Youtube)](https://youtu.be/v-ia7IWYd8w)
-  * [GMC Skill (Youtube)](https://youtu.be/pl9MGU93bFI)
+  * [Zhongli Stele (YouTube)](https://youtu.be/v-ia7IWYd8w)
+  * [GMC Skill (YouTube)](https://youtu.be/pl9MGU93bFI)
 
 **Significance:**  
 Better understanding of vertical range mechanics for certain characters.
@@ -76,10 +76,10 @@ Better understanding of vertical range mechanics for certain characters.
 
 **Evidence:**
 
-healing works through pause menus - [Youtube](https://youtu.be/oVJpWywNZF0)  
-a normal statue, for comparison - [Youtube](https://youtu.be/LJC25iiMVtY)  
-automatic healing statues - [Youtube](https://youtu.be/BsmLe-LQ1P8)  
-healing works through pause menus + automatic healing - [Youtube](https://youtu.be/7JCbKl8mQSU)
+healing works through pause menus - [YouTube](https://youtu.be/oVJpWywNZF0)  
+a normal statue, for comparison - [YouTube](https://youtu.be/LJC25iiMVtY)  
+automatic healing statues - [YouTube](https://youtu.be/BsmLe-LQ1P8)  
+healing works through pause menus + automatic healing - [YouTube](https://youtu.be/7JCbKl8mQSU)
 
 **Significance:**  
 Combining the above findings, a player can save some clicks and time when healing using a statue of the seven.
@@ -98,29 +98,29 @@ Some can also be affected by In-game fps.
 
 * Jean E - 14
 * kazuha Hold/Tap E 14
-  * [Youtube](https://youtu.be/poifmkFWvN0)
+  * [YouTube](https://youtu.be/poifmkFWvN0)
 * Jean E 13(30fps)
-  * [Youtube](https://www.youtube.com/watch?v=IqnzPtPOFM0)
+  * [YouTube](https://www.youtube.com/watch?v=IqnzPtPOFM0)
 * Kazuha Midare Ranzan 13 (60fps)
-  * [Youtube](https://www.youtube.com/watch?v=jBcpIRqI4r8)
+  * [YouTube](https://www.youtube.com/watch?v=jBcpIRqI4r8)
 * Kazuha Midare Ranzan 13 (30fps)
-  * [Youtube](https://www.youtube.com/watch?v=WvsdmEmsPv4)
+  * [YouTube](https://www.youtube.com/watch?v=WvsdmEmsPv4)
 * Sucrose E/Q 13
 * Venti Q 14
-  * [Youtube](https://youtu.be/JC3UCbq284A)
+  * [YouTube](https://youtu.be/JC3UCbq284A)
 * Surose E/Q 13(30fps)
-  * [Youtube](https://www.youtube.com/watch?v=YiBTs-Xi4g4)
-  * [Youtube](https://www.youtube.com/watch?v=OLUmEzO9eOg)
+  * [YouTube](https://www.youtube.com/watch?v=YiBTs-Xi4g4)
+  * [YouTube](https://www.youtube.com/watch?v=OLUmEzO9eOg)
 * Venti Q 14 (30fps)
-  * [Youtube](https://youtu.be/TPXP2Ia4JWY)
+  * [YouTube](https://youtu.be/TPXP2Ia4JWY)
 * Qiqi idle 13
-  * [Youtube](https://youtu.be/odJe6bl0kQw)
+  * [YouTube](https://youtu.be/odJe6bl0kQw)
 * AMC E 13
 * AMC Q picked up 15 and dropped 2 along the way
-  * [Youtube](https://youtu.be/6-FecUBYeGE)
+  * [YouTube](https://youtu.be/6-FecUBYeGE)
 * AMC E 13 Q 14 (30fps)
   Evidence:
-  * [Youtube](https://youtu.be/TPXP2Ia4JWY)
+  * [YouTube](https://youtu.be/TPXP2Ia4JWY)
 
 **Significance:** Documentation of the existence and specifics of certain characters suck/pull limit.
 
@@ -138,7 +138,7 @@ At least two of the birds \(one near Azhdaha and one in Guyun\) die very often o
 
 **Evidence:**
 
-* [Youtube Playlist](https://youtube.com/playlist?list=PLPByPR2TubV5m7ZW71wwTovzkpvBqQA5T)
+* [YouTube Playlist](https://youtube.com/playlist?list=PLPByPR2TubV5m7ZW71wwTovzkpvBqQA5T)
 * [Best Example](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/miscellaneous-entries.md/discord/attachments_846170693783912448_850855100107718746_2021-06-05_22-53-14.mp4)
 
 **Significance:**  
@@ -188,51 +188,51 @@ Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Li
 
 1:
 
-* Keqing Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/aXvSw0adFc8)
-* Venti Q [Youtube](https://youtu.be/4qrBXRNzrXM)
-* Multiple Stacked Abilities [Youtube](https://youtu.be/b4gwL7yFUNg)
-* Lisa Q [Youtube](https://youtu.be/CiTvni0GBv8)
-* Jean Q [Youtube](https://youtu.be/xEt2Pnvizh0)
-* Ganyu Q [Youtube](https://youtu.be/LKMPpNhwFzo)
-* Fischl E 0:18 (The summoning sound replays [Sound Warning]) [Youtube](https://youtu.be/3g6TFsY1X_8)
-* Aloy E [Youtube](https://youtu.be/7CKi8H6ejg8)
-* Mona E (Credit to phillip#0150) [Youtube](https://youtu.be/4QsQ25XGgMo)
-* Ganyu E (Credit to daibangden2460\#8410) [Youtube](https://www.youtube.com/watch?v=-q1-tREIMVs)
-* Keqing E (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/lAA1Iy_2Y2g)
-* Shenhe Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/rOXv6huqib8)
-* Ayaka Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/ygUlWHykY3g)
-* Kokomi E (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/QHXYQwIKrd8)
+* Keqing Q (Credit to daibangden2460\#8410) [YouTube](https://youtu.be/aXvSw0adFc8)
+* Venti Q [YouTube](https://youtu.be/4qrBXRNzrXM)
+* Multiple Stacked Abilities [YouTube](https://youtu.be/b4gwL7yFUNg)
+* Lisa Q [YouTube](https://youtu.be/CiTvni0GBv8)
+* Jean Q [YouTube](https://youtu.be/xEt2Pnvizh0)
+* Ganyu Q [YouTube](https://youtu.be/LKMPpNhwFzo)
+* Fischl E 0:18 (The summoning sound replays [Sound Warning]) [YouTube](https://youtu.be/3g6TFsY1X_8)
+* Aloy E [YouTube](https://youtu.be/7CKi8H6ejg8)
+* Mona E (Credit to phillip#0150) [YouTube](https://youtu.be/4QsQ25XGgMo)
+* Ganyu E (Credit to daibangden2460\#8410) [YouTube](https://www.youtube.com/watch?v=-q1-tREIMVs)
+* Keqing E (Credit to daibangden2460\#8410) [YouTube](https://youtu.be/lAA1Iy_2Y2g)
+* Shenhe Q (Credit to daibangden2460\#8410) [YouTube](https://youtu.be/rOXv6huqib8)
+* Ayaka Q (Credit to daibangden2460\#8410) [YouTube](https://youtu.be/ygUlWHykY3g)
+* Kokomi E (Credit to daibangden2460\#8410) [YouTube](https://youtu.be/QHXYQwIKrd8)
 
 1a:
 
-* Venti Q absorbing pyro ( you can actually see a new one being created after the absorbption that is still non absorbed) [Youtube](https://youtu.be/ilBeQAzMvdA)
+* Venti Q absorbing pyro ( you can actually see a new one being created after the absorbption that is still non absorbed) [YouTube](https://youtu.be/ilBeQAzMvdA)
 
 1b:
 
-* Venti Q restarts at 0:09 [Youtube](https://www.youtube.com/watch?v=4qrBXRNzrXM)
-* AMC Q and Guoba respawn [Youtube](https://youtu.be/W-uYRI6HpUQ)
+* Venti Q restarts at 0:09 [YouTube](https://www.youtube.com/watch?v=4qrBXRNzrXM)
+* AMC Q and Guoba respawn [YouTube](https://youtu.be/W-uYRI6HpUQ)
 
 1c:
 
-* Inside Door [Youtube](https://youtu.be/5XIUsWJMewo)
-* Outside Door (Credit to ShampooBrain\#9583) [Youtube](https://youtu.be/vBN7CEfjSm8)
+* Inside Door [YouTube](https://youtu.be/5XIUsWJMewo)
+* Outside Door (Credit to ShampooBrain\#9583) [YouTube](https://youtu.be/vBN7CEfjSm8)
 
 1d:
 
-* Guoba just stops shooting fire after going through the door a couple times [Youtube](https://youtu.be/zw9hyv39_IM)
+* Guoba just stops shooting fire after going through the door a couple times [YouTube](https://youtu.be/zw9hyv39_IM)
 
 1e:
 
-* Ganyu A4 does not stack in multiple Ganyu Q's (Credit to Homura\#9806) [Youtube](https://youtu.be/lf_-JHBSgXM)
+* Ganyu A4 does not stack in multiple Ganyu Q's (Credit to Homura\#9806) [YouTube](https://youtu.be/lf_-JHBSgXM)
 
 2:
 
-* Coop partner loading in and out (Credit to Homura\#9806) [Youtube](https://youtu.be/rvNNOgK5IJU)
-* Coop partner not loading in until you get close to the door (Credit to Homura\#9806) [Youtube](https://youtu.be/f6dYuQ4tiss)
+* Coop partner loading in and out (Credit to Homura\#9806) [YouTube](https://youtu.be/rvNNOgK5IJU)
+* Coop partner not loading in until you get close to the door (Credit to Homura\#9806) [YouTube](https://youtu.be/f6dYuQ4tiss)
 
 3:
 
-* Construct replacement order is different at the end than at the beginning (Credit to Homura#9806) [Youtube](https://youtu.be/wfnWoOoj4h0)
+* Construct replacement order is different at the end than at the beginning (Credit to Homura#9806) [YouTube](https://youtu.be/wfnWoOoj4h0)
 
 **Significance:**
 _VERY_ fluff, unless miHoYo decides to put Jeans Office in abyss this serves little to no purpose, it is quite cool though.
@@ -538,9 +538,9 @@ To do this, you have to take a picture at the moment where you get hit/leap off 
 
 **Evidence:**
 
-* Ledge dash cancel: [Youtube](https://www.youtube.com/watch?v=aLx8utxbcrk)
-* Knockback cancel: [Youtube](https://www.youtube.com/watch?v=-2l4DQ1DyJ4)
-* Bennett charge level 2 cancel: [Youtube](https://www.youtube.com/watch?v=pR-DhOPOqhk)
+* Ledge dash cancel: [YouTube](https://www.youtube.com/watch?v=aLx8utxbcrk)
+* Knockback cancel: [YouTube](https://www.youtube.com/watch?v=-2l4DQ1DyJ4)
+* Bennett charge level 2 cancel: [YouTube](https://www.youtube.com/watch?v=pR-DhOPOqhk)
 
 **Significance:**  
 Knockback cancel/Fluff/investigating the influence pausing the game has on certain actions.
@@ -557,7 +557,7 @@ Does Traveler have a hidden Friendship meter and gain Friendship?
 
 **Evidence:**  
 When Traveler is compared (i.e. sorted) with other characters with 0 Friendship, Traveler does not show up at the bottom. This might indicate that Traveler has more Friendship points. However, if Traveler (presumably) gains 20 friendship points from a commission and a character with 0 Friendship gains 10 friendship points from an event, Traveler will sort below the other character. This proves that Traveler has less then 10 friendship and thus never gained the 20 friendship points from the commission.
-[Youtube](https://youtu.be/LKc7ZP6P6TY)
+[YouTube](https://youtu.be/LKc7ZP6P6TY)
 
 **Conclusion:**  
 Traveler does not accumulate friendship points, but does sort higher than other characters with zero friendship.
@@ -612,7 +612,7 @@ For travelers who would like to have specific lighting on The Crux for photo con
 To enter this area, teleport to the northwestern TP of Liyue Harbor, head northwest and head towards the water. Follow the video in evidence for further instructions. You should be able to go to the corner, jump-climb up, and jump-climb left. Note that if you infinite plunge, you will be stuck. You may also be viewed from below when in the fall area.
 
 **Evidence:**  
-[Youtube](https://youtu.be/X52VPlJzNVw)\
+[YouTube](https://youtu.be/X52VPlJzNVw)\
 Provided by Aluminum\#5462
 
 **Significance:**  

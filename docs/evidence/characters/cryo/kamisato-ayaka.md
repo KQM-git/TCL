@@ -98,7 +98,7 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/0KrA4O_esPo)  
+* [YouTube](https://youtu.be/0KrA4O_esPo)  
   There are timestamps in the comment if you want to skip quicker or instantly replay but the whole video was an attempt at recording this.
 
 * It’s important to note that only the subsequent slashes have this property. If the initial hit does not register onto an enemy, the following slashes will simply appear at around the same vertical height Ayaka used to be right before the animation of the subsequent slashes start. As seen here (provided by Nass008#8577) when she falls down, a few of the secondary slashes hit:  

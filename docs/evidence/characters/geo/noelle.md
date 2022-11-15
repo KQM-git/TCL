@@ -319,13 +319,13 @@ This confirms what was already common knowledge: only use spin if you need to he
 **Finding:**  
 What I have found is that you need to have either frame perfect DS timing, or you need a 10%+ speed bonus from either Diona ascension, Jean C2, or 2 player anemo unit synergy to reach consistent DS. I have also found that the instance of a shield break from C4 Noelle can also elongate the amount of time you have to do a proper DS. This is exceptionally difficult to pull off.
 
-Standard Dragon Strike: [Youtube](https://youtu.be/3Xi0SwmyrO8)  
+Standard Dragon Strike: [YouTube](https://youtu.be/3Xi0SwmyrO8)  
 What this shows is how DS is able to be consistent with a speed bonus. In my case I happened to use my C2 jean to DS. But this is not needed for DS.
 
 **Evidence:**  
 Outside of this however, I found that it is not necessarily movement speed. While it allows for much easier and consistent DS performance, and considering this interaction I also realized something further.
 
-Weird Dragon Strike: [Youtube](https://youtu.be/uJs2IgQzv_k)
+Weird Dragon Strike: [YouTube](https://youtu.be/uJs2IgQzv_k)
 
 What I had found is that the hitstun of the shield breaking \(Noelle c4\) can allow something that would normally be frame perfect to perform a DS\(without a speed bonus of any kind\), Even when it is not frame perfect. The timing for this was from finding that when you E on Noelle she gets a shield on a 24 seconds CD. I waited for her to reach roughly 15.8 to 15.4 on the CD when I start the combo \(end on the 4th hit with a jump DS\). This is incredibly specific and hard to pull off consistently. \(varies between users\)
 
@@ -360,8 +360,8 @@ Damage calculations for Noelle.
 Noelle can extend her burst duration at C6 to maximum by being off field at the time it is supposed to expire
 
 **Evidence:**  
-Video by manome: [Youtube](https://youtu.be/-Ueq1Wcf7w8)  
-Further video evidence by the author: [Youtube](https://youtu.be/ysQiAfYYa34)
+Video by manome: [YouTube](https://youtu.be/-Ueq1Wcf7w8)  
+Further video evidence by the author: [YouTube](https://youtu.be/ysQiAfYYa34)
 
 **Significance:**  
 Noelle can maximize her burst duration without getting a kill, reducing her battery needs and allowing her to maximize burst with significantly less effort.

@@ -136,7 +136,7 @@ Time stamps available in spreadsheet + video descriptions
 **Significance:**
 The fastest movement technique for a short distance is to chain dashes together with equal spacing between them with an adult male as they have the biggest strides. This will ensure your dash has more uptime than simply dash spamming. For long-distance you will do the same, dash chaining with maximum dash uptime on an adult male then switching to a teen male for the last dash of your stamina charge and chaining b-hops from thereon.
 
-Demonstration: [Youtube](https://youtu.be/H950uTOSTQs)
+Demonstration: [YouTube](https://youtu.be/H950uTOSTQs)
 
 A 10% movement speed buff does not cause b-hopping with other model types to be faster than a teen male with the same buff. However, I am still yet to test 20%/20% effects although not expected to change either.
 
@@ -374,12 +374,12 @@ There is a limit to how much movement speed decreases one can do onto a mob. The
 
 **Evidence:**  
 The first 5 are mainly visuals with numbers made through previous attempts to make a formula:  
-[Youtube](https://www.youtube.com/watch?v=cvrF9JW4mlE) - (Two Tower; “90%” reduction)  
-[Youtube](https://www.youtube.com/watch?v=z4Nw2NBjpiY) - (Three Tower: “150%” reduction)  
-[Youtube](https://www.youtube.com/watch?v=FcT9RVHOnas) - (Combinations tested)  
-[Youtube](https://www.youtube.com/watch?v=Spa1vVxpqpI) - (Comparison of 70% and 90%)  
-[Youtube](https://www.youtube.com/watch?v=XBRMR6vwT-8) - (Most likely multiplicative when multiple mov. decrease are stacked with each other)  
-[Youtube](https://www.youtube.com/watch?v=eFHZTdne2UQ) - (Frame counted and placed as SPM (Steps Per Minute.) The sheets below shows the overall data.)
+[YouTube](https://www.youtube.com/watch?v=cvrF9JW4mlE) - (Two Tower; “90%” reduction)  
+[YouTube](https://www.youtube.com/watch?v=z4Nw2NBjpiY) - (Three Tower: “150%” reduction)  
+[YouTube](https://www.youtube.com/watch?v=FcT9RVHOnas) - (Combinations tested)  
+[YouTube](https://www.youtube.com/watch?v=Spa1vVxpqpI) - (Comparison of 70% and 90%)  
+[YouTube](https://www.youtube.com/watch?v=XBRMR6vwT-8) - (Most likely multiplicative when multiple mov. decrease are stacked with each other)  
+[YouTube](https://www.youtube.com/watch?v=eFHZTdne2UQ) - (Frame counted and placed as SPM (Steps Per Minute.) The sheets below shows the overall data.)
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/12B-EM7xgonfF5xRLMpZCMW1s6jI3rPJXhd1hOjZGeZ8/edit?usp=sharing) - Sheets with contradictions for any specific formula for movement speed decrease on mobs and slightly conflicting information for certain movement speed decrease towers. Also contains graphs of best fit.
 
@@ -410,7 +410,7 @@ The ranking from fastest to slowest is:
 10. CW Child Female
 
 **Evidence:**  
-Video displaying side by side comparison of all body types: [Youtube](https://youtu.be/Z8ROXAgikn8)
+Video displaying side by side comparison of all body types: [YouTube](https://youtu.be/Z8ROXAgikn8)
 
 **Significance:**  
 Allows players to pick up best way to move while regenerating stamina.
@@ -427,7 +427,7 @@ Model skeleton height differences do not matter in movement (at least in walking
 Currently tested for adult male model.
 
 **Evidence:**  
-[Youtube](https://youtu.be/jdHZWQ5Pbd8)
+[YouTube](https://youtu.be/jdHZWQ5Pbd8)
 
 **Significance:**  
 Picking a taller character of the same skeleton model will not increase the velocity or distance covered. Be aware that height DOES matter in walk to swim transition and vice versa.

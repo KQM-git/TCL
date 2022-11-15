@@ -192,43 +192,43 @@ Other Interactions:
 * can switch party near it, even when being hit by the orbs.
 
 **Evidence:**  
-Playlist of all recordings: [Youtube](https://www.youtube.com/playlist?list=PLubNP2Z7jM8r68CvkaN8p33dvxTnCQO02)  
+Playlist of all recordings: [YouTube](https://www.youtube.com/playlist?list=PLubNP2Z7jM8r68CvkaN8p33dvxTnCQO02)  
 Auras:  
-Cryo - Yes [Youtube](https://youtu.be/3Tslenj0ud4)  
-Electro - No [Youtube](https://youtu.be/cu99D1W9UEs)  
-Hydro - No [Youtube](https://youtu.be/0UstmWsWPdM)  
-Pyro - No [Youtube](https://youtu.be/P6rO8Myw8VU)
+Cryo - Yes [YouTube](https://youtu.be/3Tslenj0ud4)  
+Electro - No [YouTube](https://youtu.be/cu99D1W9UEs)  
+Hydro - No [YouTube](https://youtu.be/0UstmWsWPdM)  
+Pyro - No [YouTube](https://youtu.be/P6rO8Myw8VU)
 
 Reactions:  
-Melt - [Youtube](https://youtu.be/2c1trIXniYo)  
-Freeze - [Youtube](https://youtu.be/ma6wwKUbjeg)  
-Shatter - [Youtube](https://youtu.be/4AQVtXEc9So)  
-Superconduct - [Youtube](https://youtu.be/DoNMnGbbjw8)  
-Swirl - [Youtube](https://youtu.be/MsBpQEjGouk)  
-Crystallize - [Youtube](https://youtu.be/1W_aoGPThbQ)
+Melt - [YouTube](https://youtu.be/2c1trIXniYo)  
+Freeze - [YouTube](https://youtu.be/ma6wwKUbjeg)  
+Shatter - [YouTube](https://youtu.be/4AQVtXEc9So)  
+Superconduct - [YouTube](https://youtu.be/DoNMnGbbjw8)  
+Swirl - [YouTube](https://youtu.be/MsBpQEjGouk)  
+Crystallize - [YouTube](https://youtu.be/1W_aoGPThbQ)
 
 Marks failing:  
-Hu Tao - [Youtube](https://youtu.be/jDJi9W-LifQ)  
-Qiqi - [Youtube](https://youtu.be/vI61dpw8NOw)
+Hu Tao - [YouTube](https://youtu.be/jDJi9W-LifQ)  
+Qiqi - [YouTube](https://youtu.be/vI61dpw8NOw)
 
 Statuses failing:  
-Tartaglia - [Youtube](https://youtu.be/L2MwDpEnwMo)  
-Mona - [Youtube](https://youtu.be/9yvDtYqFDic)  
-Xiangling - [Youtube](https://youtu.be/dTgPQvczfMA)  
-Lisa - [Youtube](https://youtu.be/Dkc5WH8VBp4)
+Tartaglia - [YouTube](https://youtu.be/L2MwDpEnwMo)  
+Mona - [YouTube](https://youtu.be/9yvDtYqFDic)  
+Xiangling - [YouTube](https://youtu.be/dTgPQvczfMA)  
+Lisa - [YouTube](https://youtu.be/Dkc5WH8VBp4)
 
 Resistance shred failing:  
-Hu Tao Non-shred Damage - [Youtube](https://youtu.be/v06b6zFdPiE)  
-Shred Damage - [Youtube](https://youtu.be/HYFKQeJTQRY)  
-Diona and VV Test - [Youtube](https://youtu.be/X_8o9O82D2w)
+Hu Tao Non-shred Damage - [YouTube](https://youtu.be/v06b6zFdPiE)  
+Shred Damage - [YouTube](https://youtu.be/HYFKQeJTQRY)  
+Diona and VV Test - [YouTube](https://youtu.be/X_8o9O82D2w)
 
 Orbs:
-Damage - [Youtube](https://youtu.be/adRDUnxhV_g)  
-Interval - [Youtube](https://youtu.be/5qejYZM7TKs)
+Damage - [YouTube](https://youtu.be/adRDUnxhV_g)  
+Interval - [YouTube](https://youtu.be/5qejYZM7TKs)
 
-No Multiplayer: [Youtube](https://youtu.be/dWmbCw7KWfs)
+No Multiplayer: [YouTube](https://youtu.be/dWmbCw7KWfs)
 
-Full Fight: [Youtube](https://youtu.be/7vTQOEpsx6I)  
+Full Fight: [YouTube](https://youtu.be/7vTQOEpsx6I)  
 Shows HP thresholds for attacks.
 
 **Significance:**  

@@ -126,7 +126,7 @@ Also melt comps might have an even higher ceiling than expected, as afaik melt% 
 
 **Finding:** Mona Q can be popped by Hutao E cast animation even if this doesn’t deal any damage
 
-**Evidence:** See vid below, Hutao E have a knockback upon cast this might be the reason for the bubble pop. [Youtube](https://youtu.be/tbSi0AzP0ew)
+**Evidence:** See vid below, Hutao E have a knockback upon cast this might be the reason for the bubble pop. [YouTube](https://youtu.be/tbSi0AzP0ew)
 
 **Significance:** if you're using a Vape comp with Mona + Hutao, you can squeeze more Omen debuff duration if you can try to not pop the Omen with Hutao E cast assuming you'll use Q after E since Q duration takes 130 frames = 2.1 sec = ~40%-50% Omen duratio.
 

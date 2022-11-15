@@ -24,7 +24,7 @@ search: false
 Just like Mona, Lisa can have two different normal animations depending on the distance from the target.
 
 **Evidence:**  
-[Youtube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the ruin guard, second normal string has her teleporting backward.
+[YouTube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the ruin guard, second normal string has her teleporting backward.
 
 **Significance:**  
 Combat positioning for Lisa
@@ -207,9 +207,9 @@ The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/
 
 **Evidence:**
 
-* Example of Lightning Rose connecting against a mob that is clearly above Lisa: [Youtube](https://youtu.be/PGObWVhwaWE)
-* Example of Lightning Rose connecting against a mob that is clearly below Lisa: [Youtube](https://youtu.be/_WG-Pc-9K2k)
-* Example of Lightning Rose connecting against a mob that is clearly out of Lisa's direct Line of Sight: [Youtube](https://youtu.be/-Mj_hx2sjOk)
+* Example of Lightning Rose connecting against a mob that is clearly above Lisa: [YouTube](https://youtu.be/PGObWVhwaWE)
+* Example of Lightning Rose connecting against a mob that is clearly below Lisa: [YouTube](https://youtu.be/_WG-Pc-9K2k)
+* Example of Lightning Rose connecting against a mob that is clearly out of Lisa's direct Line of Sight: [YouTube](https://youtu.be/-Mj_hx2sjOk)
 
 **Significance:** No obvious and major significance in Spiral Abyss, but its extreme capabilities are nice to know.
 
@@ -282,7 +282,7 @@ For Lisa specifically, knowing this is more useful than not as she would be able
 * This area is defined as either a flat circular plane or a small cylinder which shares the radius of Lightning Rose (7m).
 * The Summon DMG cannot deal damage to enemies whose hurtboxes are below or above near the suspended plane of which Lightning Rose was casted on, which is deceptive given its visual appears to give verticality.
 
-**Evidence:** (Youtube)
+**Evidence:** (YouTube)
 
 * [The VFX in Question](https://youtu.be/vc9sATF99JY)
 
