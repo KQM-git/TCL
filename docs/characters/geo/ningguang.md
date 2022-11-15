@@ -94,7 +94,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* **Jade Screen** has a 6s cooldown on generating particles, not affected by Elemental Skill cooldown reset or reduction.
+* **Jade Screen** has a 6s cooldown on generating Particles, not affected by Elemental Skill cooldown reset or reduction.
 * **Jade Screen** has no ICD for the detection of aura-checks.
 
 | Attribute | Construct (Talent 9%) |

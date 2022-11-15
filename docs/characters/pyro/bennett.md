@@ -131,12 +131,12 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
+* Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK Bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK Bonus.
   * Additionally, **Inspiration Field**'s buff lingers for a bit after the visual of the circle fades away.
 * **Inspiration Field's** ATK Bonus and **C6: Fire Ventures With Me** Pyro DMG Bonus will apply on its own damage calculation.
-* The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
+* The bonus ATK from **Inspiration Field** ONLY scales with Bennett's Base ATK.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
-  * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
+  * This means that even when two Bennett Bursts overlap, the attack buff that was applied first will remain.
 
 </TabItem>
 </Tabs>

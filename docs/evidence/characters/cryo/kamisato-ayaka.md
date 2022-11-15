@@ -51,8 +51,8 @@ search: false
 * [Clips showing Ayaka's CA having a hitbox without gadget](https://www.youtube.com/watch?v=D08yx7p1iHo)
 
 **Significance:**  
-Significance: Knowing how Ayaka's Charge Attack works can help players come up with strats for specific situtaions to maximize damage output.  
-For example, the gadget is smaller than Geovishap's large collision box which means that even though they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are frozen while clipped inside one another they can both be hit.
+Significance: Knowing how Ayaka's Charged Attack works can help players come up with strats for specific situtaions to maximize damage output.  
+For example, the gadget is smaller than Geovishap's large collision box which means that even though they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are Frozen while clipped inside one another they can both be hit.
 
 ### Ayaka CA Conclusion
 
@@ -81,7 +81,7 @@ Ayaka's charged attacks are the first to work in a special way, as follows: When
 * Fourth: A cut with a hitbox will be spawned for each enemy in range of the hitscans. This cut has a hitbox that can hit multiple enemies, but there is an ICD between each cut doing damage to the same enemy. If an enemy leaves the gadget's range while it is still performing the hitscans, the enemy will not be affected by the remaining hitscans. Conversely, the remaining hitscans will affect any enemy that enters the gadget's range even after it has started.
 
 Knowing how Ayaka's Charged Attack works can help players come up with strategies for specific situations to maximize damage output.
-For example, the gadget is smaller than the Geovishap's large collision box which means that even if they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are frozen while clipped inside one another they can both be hit.
+For example, the gadget is smaller than the Geovishap's large collision box which means that even if they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are Frozen while clipped inside one another they can both be hit.
 
 Because the gadget stops following the enemy when it begins its hitscans, it may also be worth waiting for enemies to finish being pulled in by characters such as Venti before using her charged attack. This helps to prevent damage loss by ensuring the hitscans start inside the vortex and not on an enemy that's still being pulled in.
 
@@ -114,18 +114,18 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 
 ## Skill Mechanics
 
-* Energy Generation: 4~5 (1:1) particles per E - [Daybreak#0584](https://youtu.be/oXHoYUs6d6U) and Steph#3614
+* Energy Generation: 4~5 (1:1) Particles per E - [Daybreak#0584](https://youtu.be/oXHoYUs6d6U) and Steph#3614
 * Ayaka's E has a vertical hitbox that can reach a Ruin Guard's weakpoint. - [2ri#0945](https://imgur.com/a/yB126Ja)
 
 ## Burst Mechanics
 
-* Ayaka's burst is 20 ticks of damage - [Sitri#9504](https://youtu.be/viS7Nim4yMM)
+* Ayaka's Burst is 20 ticks of damage - [Sitri#9504](https://youtu.be/viS7Nim4yMM)
   * 19 ticks of Cutting DMG
     * which follow standard ICD rules - [Sitri#9504](https://youtu.be/0zRg5PCF7dw)
     * which apply 1A Cryo - [Sitri#9504](https://youtu.be/obmfOaYGjis)
   * And 1 tick of Bloom DMG at the end
-* Ayaka's burst snapshots. - [JenjenJL#6582](https://youtu.be/maB6T_h8Rnc)
-* Ayaka's burst stays in place against...
+* Ayaka's Burst snapshots. - [JenjenJL#6582](https://youtu.be/maB6T_h8Rnc)
+* Ayaka's Burst stays in place against...
   * Large enemies - [2ri#0945](https://imgur.com/a/yB126Ja)
   * Frozen enemies
     * Hydro Slime - [2ri#0945](https://imgur.com/ea0mhSl)
@@ -151,7 +151,7 @@ Two additional notes about the pushing effect:
 [Video](https://www.youtube.com/watch?v=oFTAa9vMehw)
 
 **Significance:**  
-Better understanding of Ayaka Q's mechanics to land more hits from her burst.
+Better understanding of Ayaka Q's mechanics to land more hits from her Burst.
 
 ## Constellation Mechanics
 
@@ -171,7 +171,7 @@ Better understanding of Ayaka Q's mechanics to land more hits from her burst.
 **By:** aui#3690  
 **Added:** <Version date="2021-09-17" />  
 **Last tested:** <VersionHl date="2021-09-17" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885753886823055421_888239660407599134_transcript-alt-vs-dash-iframe.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885753886823055421_888239660407599134_transcript-alt-vs-dash-i-frame.html)
 
 **Finding:**  
 Alternative dash and typical dash have very similar if not exact same i-frame mechanics.

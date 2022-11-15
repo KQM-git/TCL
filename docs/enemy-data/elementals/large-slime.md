@@ -14,13 +14,13 @@ No weakspot.
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 66% HP       | 1 particle | Own element |
-| 33% HP       | 1 particle | Own element |
-| Death        | 1 orb      | Own element |
+| 66% HP       | 1 Particle | Own Element |
+| 33% HP       | 1 Particle | Own Element |
+| Death        | 1 Orb      | Own Element |
 
 ## Resistance Table
 
-All slimes are immune to their respective element.
+All slimes are immune to their respective Element.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |
@@ -79,7 +79,7 @@ Competitors once spread malicious rumors that the Dawn Winery used Cryo Slimes t
 
 ## Attacks
 
-* Cryo slimes have a cryo armor protecting them. While protected, it will either:
+* Cryo slimes have a Cryo armor protecting them. While protected, it will either:
   * Attack the player with a ranged ice shard attack, launching 3 ice shards towards them at once, dealing Cryo damage.
   * Jump high into the air and falls on the player's position after a short delay, stomping on the landing zone.
     After the shield is destroyed it will try to retreat, slowly hopping away, and use the ice mist attack against the player, dealing Cryo damage over time. After it creates the mist cloud, it will retreat into the middle of it, waiting for the armor to regenerate.
@@ -93,11 +93,11 @@ Competitors once spread malicious rumors that the Dawn Winery used Cryo Slimes t
 
 ![](/img/enemy/elemental/Enemy_Large_Dendro_Slime_Icon.webp)
 
-It has also taken on the weaknesses of the Dendro element, and will burn intensely the moment it meets a bright flame.
+It has also taken on the weaknesses of the Dendro Element, and will burn intensely the moment it meets a bright flame.
 
 ## Attacks
 
-* Similarly to the small Dendro Slime, the large variant will hide underground, but is much easier to spot than it's smaller variant due to the large flower on its' head. They will remain hidden until the player turns their back and walks away, in which case it'll follow up with a jump attack, or if they are either forcefully pulled out of the earth, or burnt with a pyro attack. The Dendro Slime will be ignited for large amounts of damage when entering contact with pyro aura, and will eventually have its' flower hat destroyed.  
+* Similarly to the small Dendro Slime, the large variant will hide underground, but is much easier to spot than it's smaller variant due to the large flower on its' head. They will remain hidden until the player turns their back and walks away, in which case it'll follow up with a jump attack, or if they are either forcefully pulled out of the earth, or burnt with a Pyro attack. The Dendro Slime will be ignited for large amounts of damage when entering contact with Pyro aura, and will eventually have its' flower hat destroyed.  
   After being forced outside the ground, it will attack in one of the following ways:
 * If the player is in melee range, it will use an AoE poison field around itself which will deal Dendro damage over time, but will not affect the player with Dendro (this is possibly a bug).
 * If the player is outside melee range, it will use a ranged attack, shooting seeds at the player which will pop into lingering toxic clouds, dealing Dendro damage over time and inflicting the target with Dendro. If the inflicted target comes in contact with Pyro shortly after exposure, it will cause an explosion.
@@ -121,7 +121,7 @@ Electro Slimes can undergo mutations to become bright yellow. Due to the abundan
 
 ## Attacks
 
-* Bump into the target, dealing electro damage.
+* Bump into the target, dealing Electro damage.
 * Jump high into the air, then land at the player's location after a short delay, stomping on the landing spot.
 * Creates a small field of electricity around the player.
 
@@ -133,11 +133,11 @@ Electro Slimes can undergo mutations to become bright yellow. Due to the abundan
 
 ![](/img/enemy/elemental/Enemy_Large_Geo_Slime_Icon.webp)
 
-Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling.
+Generally speaking, the crust of the earth is filled with Geo Energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling.
 
 ## Attacks
 
-* Geo slimes have a geo armor protecting them. While protected, it will either:
+* Geo slimes have a Geo armor protecting them. While protected, it will either:
 
 * Spew a rock at the player.
 * Jump high into the air, then land at the player's location after a short delay, stomping on the landing spot.

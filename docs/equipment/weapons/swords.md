@@ -22,7 +22,7 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <MillennialMovementSeries/>
 
-* The self swirl interaction of "[Sunfire](../../evidence/characters/anemo/jean.md#anemo-aura)" does not count as a reaction for Freedom Sworn passive stacks.
+* The self Swirl interaction of "[Sunfire](../../evidence/characters/anemo/jean.md#anemo-aura)" does not count as a reaction for Freedom Sworn passive stacks.
 * Stacks can't be gained from infusing the weapon with 2 different Elements.
 
 </Weapon>
@@ -183,7 +183,7 @@ import SacSeries from './\_common/sac_series.md';
 
 <Weapon weapon="The Flute" weapons={swords}>
 
-* Flute's AOE can crit - [Crome\#2644](../../evidence/equipment/weapons.md#the-flute)
+* Flute's AOE can CRIT - [Crome\#2644](../../evidence/equipment/weapons.md#the-flute)
 
 </Weapon>
 

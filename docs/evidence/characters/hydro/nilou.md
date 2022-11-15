@@ -19,15 +19,15 @@ search: false
   * Burst 1st Hit: 1A - [kxmndz#4700](https://youtu.be/kAlX3Lz5lYY)
   * Burst 2nd Hit: 1A - [kxmndz#4700](https://youtu.be/5T03ECdN2fc)
 * ICD
-  * Skill Tranquility Aura: 4-hit/1.9s - [Trosalio#0420](https://www.youtube.com/watch?v=DzMtLDZI4OM)
+  * Skill Tranquility aura: 4-hit/1.9s - [Trosalio#0420](https://www.youtube.com/watch?v=DzMtLDZI4OM)
 * Snapshotting
   * Burst has Dynamic Snapshotting - [Bobrokrot#0111](https://youtu.be/6biX2sOt1aY)
 
 ## Attack Mechanics
 
 ## Skill Mechanics
-* Nilou Skill generates particles on all 4 hits of her skill combo, initiating skill may give 1-2, rest give 1, for a total of 4-5 particles per skill.
-Additionally, Sword Dance attacks from ending the skill combo with NA do not generate particles, neither does Tranquility Aura making enemies Wet - [Alpha Flyte#2031](https://youtu.be/LMMrcmpUBg8)
+* Nilou Skill generates Particles on all 4 hits of her skill combo, initiating skill may give 1-2, rest give 1, for a total of 4-5 Particles per skill.
+Additionally, Sword Dance attacks from ending the skill combo with NA do not generate Particles, neither does Tranquility aura making enemies Wet - [Alpha Flyte#2031](https://youtu.be/LMMrcmpUBg8)
 
 ### Nilou Entering Both Skill Stances
 
@@ -65,7 +65,7 @@ Smoother Vape Nilou rotations.
 2. Since the first 3 hits (E n2) are technically not part of her infusion duration, Key can be fully stacked by slowing down the opening n2 to account for Key's 0.3s stack CD, allowing for maximum Q vape damage.
 3. Using the E n2 Q n1 combo, Nilou's c4 buffs the 2nd Q hit without taking away from infusion uptime.
 
-### Nilou Tranquility Aura Counts as 0 DMG Hit
+### Nilou Tranquility aura Counts as 0 DMG Hit
 
 **By:** Alpha Flyte\#2031  
 **Added:** <Version date="2022-11-08" />  
@@ -73,7 +73,7 @@ Smoother Vape Nilou rotations.
 [Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
-Nilou Tranquility Aura counts as a 0-DMG hit.
+Nilou Tranquility aura counts as a 0-DMG hit.
 
 **Evidence:**
 [YouTube](https://youtu.be/w18kzxLmQ-A)
@@ -136,13 +136,13 @@ Nilou is not effective as a miner nor a Geo shield breaker, certain effects that
 [Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
-E N2 Q N1 allows particle pre-funneling.
+E N2 Q N1 allows Particle pre-funneling.
 
 **Evidence:**
 [YouTube](https://youtu.be/LUo5HcADJVw)
 
 **Significance:** 
-Opening rotation particle efficiency, allows C4 Energy refund to be used on the opening rotation.
+Opening rotation Particle efficiency, allows C4 Energy refund to be used on the opening rotation.
 
 ## Burst Mechanics
 

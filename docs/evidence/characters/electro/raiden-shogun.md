@@ -15,8 +15,8 @@ search: false
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1ayeS2Yp32dbdVR-xqSyIeSk7CUDuIFSO6A8XrRCRNgY/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
 * Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * The Raiden Shogun is unable to cook. - [2ri#0945](https://imgur.com/a/OSfIIXH)
-* Raiden's A4 passive bonuses only show on stat page if she's in an active party. -[2ri#0945](https://imgur.com/a/iVYesXI)
-* Raiden can dragonstrike without movement speed buffs on her single hit attacks, both in normal and burst state, though this might be dependent on the hitlag: - BowTae#0141
+* Raiden's A4 Passive bonuses only show on stat page if she's in an active party. -[2ri#0945](https://imgur.com/a/iVYesXI)
+* Raiden can dragonstrike without movement speed buffs on her single hit attacks, both in normal and Burst state, though this might be dependent on the hitlag: - BowTae#0141
 
   * [Normal state single-hit attacks](https://imgur.com/rsgjW8t)
   * [Burst state single-hit attacks](https://imgur.com/dB6r4Ny)
@@ -29,7 +29,7 @@ search: false
   * Q Attacks [1A](https://youtu.be/0gtPwtBK_WU) - CC#5588
 
 * ICDs:
-  * Raiden's polearm charge attacks have an ICD independent of normals, and its ICD is short enough that N1C spam causes a reacted charge attack consistently. - [Phana#0420](https://i.imgur.com/fevoAd5.mp4)
+  * Raiden's polearm Charged Attacks have an ICD independent of normals, and its ICD is short enough that N1C spam causes a reacted Charged Attack consistently. - [Phana#0420](https://i.imgur.com/fevoAd5.mp4)
   * Raiden's E cast has separate ICD from it's following triggers. - [Monochrom9#8058](https://imgur.com/a/A0KvnRX)
   * Raiden's attacks during Elemental Burst use standard 3 hit/2.5s ICD. - [Nass008#8577](https://imgur.com/5u6gEPV)
   * Raiden's normal attacks and chaged attacks during Elemental Burst share ICD. - [Nass008#8577](https://imgur.com/V7isJR3)
@@ -48,7 +48,7 @@ search: false
   * Pyro Swirl - [Nass008#8577](https://imgur.com/HooDf8l)
 * Raiden's Elemental Skill cannot be triggered by:
   * Electro-charged
-  * Hydro swirls
+  * Hydro Swirls
 
 ### Raiden E Transformative Interactions
 
@@ -62,13 +62,13 @@ Raiden's elemental skill will trigger on transformative reactions if 2 condition
 
 1. Inflicting damage to an enemy.
 2. The damaging reaction has AOE.  
-   This means that only superconduct, overload, and all AOE swirls except for hydro will activate it, while electro-charged, shatter, single target and hydro swirl won't.
+   This means that only superconduct, overload, and all AOE Swirls except for Hydro will activate it, while Electro-charged, shatter, single-target and Hydro Swirl won't.
 
 **Evidence:**  
 Working:  
-[superconduct](https://imgur.com/l8HTpLS), [overload](https://imgur.com/BFp3mF7), [pyro swirl](https://imgur.com/HooDf8l), [cyro swirl](https://imgur.com/3KwFiLr), [electro swirl](https://imgur.com/ElVwEd6), [multi-target swirls](https://imgur.com/ocEzBjq)  
+[superconduct](https://imgur.com/l8HTpLS), [overload](https://imgur.com/BFp3mF7), [pyro Swirl](https://imgur.com/HooDf8l), [cyro Swirl](https://imgur.com/3KwFiLr), [electro Swirl](https://imgur.com/ElVwEd6), [multi-target Swirls](https://imgur.com/ocEzBjq)  
 Not Working:  
-[hydro swirl](https://imgur.com/Bqk9QQB), [single target swirl](https://imgur.com/IIXvCca), [aoe hydro swirl](https://imgur.com/Fa9YZgL), [shatter](https://imgur.com/vExbdig), [electro-charged](https://imgur.com/qnuieNX)
+[hydro Swirl](https://imgur.com/Bqk9QQB), [single-target Swirl](https://imgur.com/IIXvCca), [aoe Hydro Swirl](https://imgur.com/Fa9YZgL), [shatter](https://imgur.com/vExbdig), [Electro-Charged](https://imgur.com/qnuieNX)
 
 **Significance:**  
 Better understanding of Raiden's elemental skill.
@@ -96,12 +96,12 @@ Frames tracked using kdenlive, recorded in 60 fps with game setting at 60 fps.
 There are only 48 frames between the damage of the first Raiden coordinated attack and the next triggering move's damage, and 59 frames between the damage of the two triggering moves. If the cooldown started with the coordinated attack's damage, the next triggering move would have to do damage at earliest frame 838+54=892, which is a fair bit after the damage of the N3.
 
 **Significance:**  
-This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks starts with the triggering move's damage, not the coordinated attack's. When making team calcs/simulations based on frame counts, the cooldown should begin with the triggering move's damage. Raiden's coordinated attacks could trigger several more times per rotation than if the CD was assumed from coordinated attack's damage, adding extra damage and applying electro at different timings.
+This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks starts with the triggering move's damage, not the coordinated attack's. When making team calcs/simulations based on frame counts, the cooldown should begin with the triggering move's damage. Raiden's coordinated attacks could trigger several more times per rotation than if the CD was assumed from coordinated attack's damage, adding extra damage and applying Electro at different timings.
 
 ## Burst Mechanics
 
-* Raiden's Elemental Burst restores flat energy to herself. - [CC\#5588](https://youtu.be/__PPdiQqMx4)
-* Raiden's attacks during Elemental Burst can trigger XQ's rainswords. - [KDK#1322](https://www.youtube.com/watch?v=b7ER4BwAzHY)
+* Raiden's Elemental Burst restores flat Energy to herself. - [CC\#5588](https://youtu.be/__PPdiQqMx4)
+* Raiden's attacks during Elemental Burst can trigger XQ's Rain Swords. - [KDK#1322](https://www.youtube.com/watch?v=b7ER4BwAzHY)
 * Raiden's attacks duing Elemental Burst can trigger Fichl C6. - [Nass008#8577](https://youtu.be/gzDB8TpAtrQ)
 * Raiden's attacks during Elemental Burst can't trigger EMC's Q. - Sylenwolf#5802 (Link lost through time)
 * Raiden's attacks during Elemental Burst can't trigger Beidou's Q. - [Peekays#2722](https://youtu.be/J-52Fr4WA3A)
@@ -109,7 +109,7 @@ This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks
 * Raiden's CA during Elemental Burst work as a hitscan similar to Ayaka's. - [LittleFox#0906](https://youtu.be/yVQKrJq1VNI)
 * Raiden's interruption resistance during Musou Isshin is crazy high, her poise is practically unbreakable since she's also immune to Electro-charged. The only stun should be Freeze. - [Artesians#0002](https://imgur.com/3RzTN2a)
 * Raiden's attacks during Elemental Burst, except for N5 can hit within Venti's vortex. - [LittleFox#0906](https://youtu.be/hQaK8AjIq7k) & [Sayline#5959](https://youtu.be/byDltFQ2X2I)
-* Raiden's Resolve Stacks apply to each damage instance of her multi strings during Elemental burst (N4 & CA) - Reens#9389 & Greyhound#7836 [1](https://i.imgur.com/L4Ysc1f.png) [2](https://imgur.com/6bXq47R) [3](https://imgur.com/l9mGtEj) [4](https://imgur.com/0ADt5yQ)
+* Raiden's Resolve Stacks apply to each damage instance of her multi strings during Elemental Burst (N4 & CA) - Reens#9389 & Greyhound#7836 [1](https://i.imgur.com/L4Ysc1f.png) [2](https://imgur.com/6bXq47R) [3](https://imgur.com/l9mGtEj) [4](https://imgur.com/0ADt5yQ)
 
 ### Raiden Energy Generation Against Shielded and Immune Enemies
 
@@ -145,13 +145,13 @@ Using Raiden's Burst against those enemies is not a total waste because you stil
 **By:** Charisma\#5567  
 **Added:** <Version date="2022-04-10" />  
 **Last tested:** <VersionHl date="2022-04-10" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962722091747123210_transcript-raiden-normals-and-burst-do-not-share-icd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962722091747123210_transcript-raiden-normals-and-Burst-do-not-share-icd.html)
 
 **Finding:**  
-Raiden's tachi attacks during Elemental Burst do _not_ share ICD with her out-of-burst polearm attacks.
+Raiden's tachi attacks during Elemental Burst do _not_ share ICD with her out-of-Burst polearm attacks.
 
 **Evidence:**  
-Near the end of the video, Raiden's Burst N1 applied Electro Aura to the enemy and the N1 after also applied Cryo for Superconduct. - [YouTube](https://youtu.be/36nspMTqRIE)
+Near the end of the video, Raiden's Burst N1 applied Electro aura to the enemy and the N1 after also applied Cryo for Superconduct. - [YouTube](https://youtu.be/36nspMTqRIE)
 
 **Significance:**  
 More documented knowledge about the mechanics of Raiden's kit.
@@ -174,7 +174,7 @@ ATK * (1 + DMG%) * (1-RES) * ((Char LVL + 100)/((1-DEF Shred) * (1-DEF Ignore) *
 = 381 * (1 + .155) * (1 - .1) * ((90 + 100) / ((1 - 0) * (1 - .6) * (85 + 100) + 90 + 100)
 = 285.035625
 
-Burst cost * Resolve per energy * C1 Bonus
+Burst cost * Resolve per Energy * C1 Bonus
 = 90 * .19 * 1.8
 = 30.78
 
@@ -199,7 +199,7 @@ Damage shown in video is 2521
 [Discussion](https://tickets.deeznuts.moe/transcripts/raiden-c2-applies-to-physical-damage)
 
 **Finding:**  
-Raiden's C2 applies to physical damage.  
+Raiden's C2 applies to Physical damage.  
 
 **Evidence:**  
 
@@ -207,12 +207,12 @@ Raiden's C2 applies to physical damage.
 * [YouTube](https://youtu.be/tWVGjXyRFP8) 
 * [YouTube](https://youtu.be/IAOLuuLMN_U)  
 
-Tested using a Dragonspine Spear, bursting right after a normal attack so that the icicle falls during the burst window. As can be seen through the videos, a non burst icicle crit hits for 448, whereas a bursted icicle crit lands for 644 damage.
+Tested using a Dragonspine Spear, Bursting right after a normal attack so that the icicle falls during the Burst window. As can be seen through the videos, a non Burst icicle CRIT hits for 448, whereas a Bursted icicle CRIT lands for 644 damage.
 This makes sense mathematically as per the defence formula `190/(190+195x(0.4)) = 0.709` and `190 / (190+195) = 0.4935`.
 Finding the ratio between these two, we reach a 43.66% dmg increase, and `448 x 1.4366 = 644`, rounded up.  
 
 **Significance:**  
-It proves without a doubt that any and all damage during Raiden's burst with C2 will ignore DEF by 60%. Including physical damage. Outside of this one interaction there is no way to do normal/charged/weapon proc attacks on Raiden during her burst, so this will serve as confirmation in the future if this becomes possible, that all damage done by Raiden herself during her burst will undergo the defence ignore, and not just skills/burst/electro damage.
+It proves without a doubt that any and all damage during Raiden's Burst with C2 will ignore DEF by 60%. Including Physical damage. Outside of this one interaction there is no way to do normal/charged/weapon proc attacks on Raiden during her Burst, so this will serve as confirmation in the future if this becomes possible, that all damage done by Raiden herself during her Burst will undergo the defence ignore, and not just skills/Burst/electro damage.
 
 #### C2 defense ignore is multiplicative
 
@@ -222,20 +222,20 @@ It proves without a doubt that any and all damage during Raiden's burst with C2 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882822147012198440_886299222633250816_transcript-raiden-c2-stacking.html)
 
 **Finding:**  
-Raiden's DEF ignore effect does not stack additively with other sources of DEF shred. Rather, they are multiplied. For example, if Klee shreds 23% DEF, then Raiden will ignore 60% of the shredded target's DEF, or `(1-60%) * (1-23%)`, or `0.4 * 0.77 = 0.308` for 69.2% DEF Shred, not 83% DEF Shred.
+Raiden's DEF ignore effect does not stack additively with other sources of DEF Shred. Rather, they are multiplied. For example, if Klee shreds 23% DEF, then Raiden will ignore 60% of the shredded target's DEF, or `(1-60%) * (1-23%)`, or `0.4 * 0.77 = 0.308` for 69.2% DEF Shred, not 83% DEF Shred.
 
 **Evidence:**
 
-[Video](https://imgur.com/5mfhG33). Raiden 0 Resolve plus C2, deals 24070 on a crit, about matching up with the calculated value of 24086 (Genshin has rounding that cause damage diffs from calcs)
+[Video](https://imgur.com/5mfhG33). Raiden 0 Resolve plus C2, deals 24070 on a CRIT, about matching up with the calculated value of 24086 (Genshin has rounding that cause damage diffs from calcs)
 
-[Video](https://imgur.com/a/KKcAHJb). Raiden 2 Resolve stacks (from Klee) deals 10320 damage on a non-crit. If the two sources stacked additively, we would expect her to deal `1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.17)) * 5.01 = 11475 damage`, which doesn't occur. However, multiplying the two sources of DEF shred, we would get `1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.308)) * (5.01+0.0486 * 2) = 10315 damage`, which about matches up with the in-game value.
+[Video](https://imgur.com/a/KKcAHJb). Raiden 2 Resolve stacks (from Klee) deals 10320 damage on a non-CRIT. If the two sources stacked additively, we would expect her to deal `1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.17)) * 5.01 = 11475 damage`, which doesn't occur. However, multiplying the two sources of DEF Shred, we would get `1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.308)) * (5.01+0.0486 * 2) = 10315 damage`, which about matches up with the in-game value.
 
 **Significance:**  
 Better understanding of Raiden C2, less gain from stacking defense shred.
 
 ## Energy findings:
 
-### Raiden self energy recharge formula
+### Raiden self Energy recharge formula
 
 **By:** Sir_pick_the_prick#2209  
 **Added:** <Version date="2021-09-28" />  
@@ -243,15 +243,15 @@ Better understanding of Raiden C2, less gain from stacking defense shred.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883997943387029504_892422852458983474_transcript-raiden-minimum-er-formula.html)
 
 **Finding:**  
-Formula that describes minimum ER% for Raiden to use elemental burst off cooldown.
+Formula that describes minimum ER% for Raiden to use elemental Burst off cooldown.
 
 **Evidence:**  
 Y = Raiden's total ER%  
-Z = Flat energy gained (NOT INCLUDING RAIDEN'S Q ENERGY)  
+Z = Flat Energy gained (NOT INCLUDING RAIDEN'S Q ENERGY)  
 W = talent level (THE NUMBER NOT VALUE, ex. 1-13)  
 X = energy gained (before ER calculations)  
 Formula:  
 Y = (87-0.2W-Z)/(X+4.5+0.3W)
 
 **Significance:**  
-Calculating Raiden's self energy requirements.
+Calculating Raiden's self Energy requirements.

@@ -18,13 +18,13 @@ Currently, there are two main types of shields that players should be aware of, 
 
 ![](/img/enemy-shields-armor/zhongli_vs_mage.png)
 
-To deal with Elemental Shields, you'll need to apply a different **Elemental Aura**. For example, The fastest way to take down a **Cryo Shield** is by applying a total of **6U** **Pyro Aura**. However, **Pyro Aura** is not the only **Aura** that can take down a **Cryo Shield.**
+To deal with Elemental Shields, you'll need to apply a different **Elemental aura**. For example, The fastest way to take down a **Cryo Shield** is by applying a total of **6U** **Pyro aura**. However, **Pyro aura** is not the only **aura** that can take down a **Cryo Shield.**
 
 Due to the nature of how ICD works, it is recommended to use different character rotations as opposed to spamming a certain attack, like **Infused Normals**. That being said, **Bow Users** can spam their **Charged Attack** to apply an **aura** over and over because the assumption is that the charge time is longer than the ICD.
 
 Before we get into how to deal with different types of shields, some types \(**whether its Elemental Shield or Armor**\) can be damaged through **Heavy Attacks** and **Light Attacks**. These types of attacks **deal bonus damage** due to their property of being Heavy or Light \(and some attacks are neither Heavy nor Light\). However, Light Attacks do insignificant damage, and it's advisable to avoid using **Light Attacks** to break **Shields**.
 
-Abyss mage shields, unlike other types of shields, take any damage directly. Any type of attack reduces Abyss mage shields HP by the amount of damage it deals **in addition** to bonus damage due to Elemental Aura application. However, Abyss mage shields have very large HP pools and it is not advisable to rely on direct damage compared to elemental damage.
+Abyss mage shields, unlike other types of shields, take any damage directly. Any type of attack reduces Abyss mage shields HP by the amount of damage it deals **in addition** to bonus damage due to Elemental aura application. However, Abyss mage shields have very large HP pools and it is not advisable to rely on direct damage compared to elemental damage.
 
 To add to that, **Geo Attacks** are considered **Heavy Attacks** and also can cause **Crystallize**. Meaning the **GU** required to break **Shields** that are susceptible to both **Geo and Heavy Attacks** is much less in practice.
 
@@ -266,7 +266,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 ### Regisvines
 
-**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
+**IMPORTANT:** These values are for **aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each Element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
 
 <Tabs>
 <TabItem value="pyro" label="Pyro Regisvine">
@@ -301,10 +301,10 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 <Tabs>
 <TabItem value="wood" label="Wooden Mitachurl">
 
-**Wooden Mitachurl's** shields can be taken down by applying **Pyro Aura**. However, when you apply **Pyro** to the **Wooden Mitachurl's** Shield, he will attempt to extinguish it. There are two ways to deal with that:
+**Wooden Mitachurl's** shields can be taken down by applying **Pyro aura**. However, when you apply **Pyro** to the **Wooden Mitachurl's** Shield, he will attempt to extinguish it. There are two ways to deal with that:
 
-* Keep attacking him while the **Pyro Aura** is burning his shield so he is forced to guard.
-* Apply another **Pyro Aura** as soon as he extinguishes the first one and the shield will burn.
+* Keep attacking him while the **Pyro aura** is burning his shield so he is forced to guard.
+* Apply another **Pyro aura** as soon as he extinguishes the first one and the shield will burn.
 
 </TabItem>
 
@@ -315,7 +315,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 * ~18 Claymore N1
 * ~15 Overload reactions
 * 16 Ningguang N1
-* Applying **Cryo** **Aura** then causing **Crystallize** with **Geo Element** is very effective in taking down the **Rockshield Mitachurl's** shield.
+* Applying **Cryo** **aura** then causing **Crystallize** with **Geo Element** is very effective in taking down the **Rockshield Mitachurl's** shield.
 
 </TabItem>
 
@@ -323,7 +323,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 * 6GU Pyro
 * ~3 Overload Reactions
-* While **Claymore Attacks** can damage the **Iceshield Mitachurl's Shield,** the shield has a regenerate mechanic which makes it hard for **Claymore Attacks** to outpace the **Shield Regeneration.** Therefore, its best to take down the shield using **Pyro Aura.**
+* While **Claymore Attacks** can damage the **Iceshield Mitachurl's Shield,** the shield has a regenerate mechanic which makes it hard for **Claymore Attacks** to outpace the **Shield Regeneration.** Therefore, its best to take down the shield using **Pyro aura.**
 
 </TabItem>
 </Tabs>

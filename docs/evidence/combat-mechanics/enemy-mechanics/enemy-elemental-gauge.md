@@ -8,7 +8,7 @@ search: false
 
 <Card item={require('../../../combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md')} />
 
-## Elemental Aura Application and Gauge Values of Enemies
+## Elemental aura Application and Gauge Values of Enemies
 
 **By:** BowlSoldier\#3528  
 **Added:** <Version date="2021-02-04" />  
@@ -38,12 +38,12 @@ Enemy skills follow the same reaction reductions we do. In this example, I use H
 
 [https://youtu.be/qjTTqPpujiM](https://youtu.be/qjTTqPpujiM)
 
-In addition, the reduction of 7.5s is a precise frame count. This is the "taxless" value, compared to the "taxed" value of 6s. This allows us to calculate the exact value of the so-called "Aura Tax": 6/7.5 = 0.8. This confirms our theory that the Tax is roughly 80%, that is exactly correct.
+In addition, the reduction of 7.5s is a precise frame count. This is the "taxless" value, compared to the "taxed" value of 6s. This allows us to calculate the exact value of the so-called "aura Tax": 6/7.5 = 0.8. This confirms our theory that the Tax is roughly 80%, that is exactly correct.
 
 **Significance:**  
 This allows us to more precisely measure frames on reactions due to the way friendly auras appear clearer than enemy auras. Since enemies can have 1 or 2 unit attacks, it's possible some enemies have 4 unit attacks for Elements we have previously not been able to test with 4 units. There may even be 3-unit enemies. This opens up more possible reactions we can test.
 
-## Geo Aura Investigation
+## Geo aura Investigation
 
 **By:** Mr. Pillow\#0065, ShampooBrain\#9583  
 **Added:** <Version date="2022-08-24" />  

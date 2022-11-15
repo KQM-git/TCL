@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 66% HP       | 2 particles | geo     |
-| 33% HP       | 2 particles | geo     |
-| Death        | 2 particles | geo     |
+| 66% HP       | 2 Particles | geo     |
+| 33% HP       | 2 Particles | geo     |
+| Death        | 2 Particles | geo     |
 
 ## Resistance Table
 
@@ -49,7 +49,7 @@ All resistances +100% additive increase while armored.
 
 ## Attacks
 
-* Infues itself with a geo armor, gaining great resistance and gaining new attacks. The armor will have its' resistance against most elements increased, but has a great weakness to blunt attacks and geo elemental application.
+* Infues itself with a Geo armor, gaining great resistance and gaining new attacks. The armor will have its' resistance against most elements increased, but has a great weakness to blunt attacks and Geo elemental application.
 * Shoots a projectile at the player
   * While armored: Shoots 2 additional projectiles in a wide angle to the left and right of the main one.
 * Only while armored: Kneels down, sticking its' staff into the ground, summoning a great forcefield that will stop all projectiles from outside to strike itself and allies inside.

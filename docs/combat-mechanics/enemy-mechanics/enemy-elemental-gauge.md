@@ -1,6 +1,6 @@
 # Enemy Elemental Gauge
 
-Enemies apply Elemental Auras that use the same system as Elemental Gauge Theory for units. Enemy aura application is significantly more accurate due to the delay on aura icon when testing on enemies. In addition, auras on units will disappear immediately rather than flickering, and confirm the hypothesis that there is an 80% aura "tax."
+Enemies apply Elemental auras that use the same system as Elemental Gauge Theory for units. Enemy aura application is significantly more accurate due to the delay on aura icon when testing on enemies. In addition, auras on units will disappear immediately rather than flickering, and confirm the hypothesis that there is an 80% aura "tax."
 
 | Enemy                            | Attack Gauge                          |
 | :------------------------------- | :------------------------------------ |

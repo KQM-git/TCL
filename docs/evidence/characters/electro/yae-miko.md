@@ -41,7 +41,7 @@ search: false
   * Each Sesshou Sakura hits 5 times, each with independent timing.
   * The first hit occurs 1.5s after E is casted.
   * The following hits occur every 2.9s.
-  * When there is more than 1 Sesshou Sakura on-field, particles are generated only from the first one that was placed.
+  * When there is more than 1 Sesshou Sakura on-field, Particles are generated only from the first one that was placed.
 * Sesshou Sakura hits shield even from behind the enemy. - [Video](https://imgur.com/zDEETHu) - Vess\#7650
 * Casting E three times in a straight line does not allow the outside two turrets to become level 3; only the middle turret will become level 3. - [Video](https://youtu.be/CZF2wjkZlp8) - Ayzel\#7399
 * Sesshou Sakura has a small AoE and can only hit multiple enemies when they are tightly grouped up. - [Video](https://youtu.be/agLxIAtHiuw) - Abyssight\#1393

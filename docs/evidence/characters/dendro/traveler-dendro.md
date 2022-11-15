@@ -37,7 +37,7 @@ search: false
 **By:** Clear_Storm\#9388, Khezu\#4363  
 **Added:** <Version date="2022-09-04" />  
 **Last tested:** <Version date="2022-09-04" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-atk-buff)
+[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-ATK-buff)
 
 **Finding:**  
 After a certain quest chain in Chapter III: Act I of the Sumeru Archon Quest, the Traveler obtains a Base ATK buff of exactly 3 Base ATK. This buff persists on every Element and is permanent.  
@@ -76,12 +76,12 @@ For updated stats and calculation purposes.
 * AoE:
   * DMC Q spawns ~1m directly in front of MC in whatever direction they're facing, and its range is ~3 abyss tiles or 7.65 meters \(untransfigured, give or take bc of the scalloped edges of the circle\). - [Puffin#9920](https://youtu.be/YhOEblGPr-o)
   * Hydro-Transfigured DMC Q has a range of 5 and a bit abyss tiles \(12.75-13 meters; again, rough estimates because of uneven scalloped edges\). - [Puffin#9920](https://youtu.be/0RdoS61-GHM)
-* Auras:
+* auras:
   * The Lamp can hold a Cryo aura before it's transfigured. - [graphten#1867](https://youtu.be/fG1czKbuWF8)
   * The Lamp can't hold a Cryo aura after it's transfigured. - [graphten#1867](https://youtu.be/etMTztnsvus)
   * While the Lamp has a Cryo aura, it will not transfigure until the aura has been removed/decays. - [graphten#1867](https://youtu.be/kqDvO4p041o)
   * The Lamp can hold Frozen aura. It can also Shatter from this. - [NZPIEFACE#8439](https://youtu.be/OPiJYAu33Rw)
-  * Triggering a Superconduct reaction with DMC's Lamp doesn't count as a reaction for Electro Resonance or 4pc Instructor. - [Luna#0188](https://youtu.be/0QpAC7OS0f8)
+  * Triggering a Superconduct reaction with DMC's Lamp doesn't count as a reaction for Electro Resonance or 4-Piece Instructor. - [Luna#0188](https://youtu.be/0QpAC7OS0f8)
 * Damage of the Spreads triggered by DMC's Burst ticks. - [mina#4448](https://youtu.be/yBj6R-wJGxs)
   * AdditiveReactionDamage \(flat number added to multiplier\) is calculated dynamically with respect to DMC's A1.
   * The Spread's total damage is calculated with the snapshotted A4 DMG Bonus% for that Lamp tick.

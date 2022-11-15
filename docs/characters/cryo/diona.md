@@ -102,7 +102,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Applies a 1A Cryo Aura for a short duration upon formation and upon swap to a different active character.
+* Applies a 1A Cryo aura for a short duration upon formation and upon swap to a different active character.
 * In specific circumstances, Diona's shield will apply 2U of Cryo on swap.
   * For more details see the [full entry](../../evidence/characters/cryo/diona.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault.
 * Icy Paws will not generate a shield if they do not hit something. They will also despawn after a certain amount of time.

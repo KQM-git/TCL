@@ -20,14 +20,14 @@ search: false
   * CA (Elemental) - [YouTube](https://youtu.be/xo5rOjbZ4Cs)
   * Skill - [YouTube](https://youtu.be/XihbafGI-Ak)
 * Gauges
-  * Elemental Skill: [1GU](https://youtu.be/DJ3uSEKgkW4) - Cryo aura 8.25s. Kaeya E applies 1.6B cryo; Gorou E removes 0.5 GU, leaving 1.1B Cryo 1.1B Cryo lasts 8.25s (edited) - Neptunya\#8291
+  * Elemental Skill: [1GU](https://youtu.be/DJ3uSEKgkW4) - Cryo aura 8.25s. Kaeya E applies 1.6B Cryo; Gorou E removes 0.5 GU, leaving 1.1B Cryo 1.1B Cryo lasts 8.25s (edited) - Neptunya\#8291
   * Elemental Burst: Initial Hit [1GU](https://youtu.be/qkBwZtagqKo), Crystal Collapse 1GU
 * ICDs - Nass008\#8577
   * CA: Gorou fully-charged CA has no ICD/the ICD is shorter than fastest possible CA shots - [BowTae\#0141](https://youtu.be/NFpvCqMJiBM)
   * Skill: 1s. - [EE less than 1s apart](https://youtu.be/rBKZPjxivzM) / [EE more than 1s apart](https://youtu.be/Gj8RIKWs-Vk) - Bobrokrot\#0111
   * Burst: 1. initial hit and crystal collapse have separate ICD. Crystal Collapse follows normal ICD (2.5s) - [Nass008\#8577](https://youtu.be/oOMcBCHDC-Q)
 * Particles
-  * Elemental Skill: Gorou produces 2 geo particles on Elemental Skill cast. (I hope 7 tests is enough, ping pong me if it isn't and/or you get something other than 2 particles. - [Neptunya\#8291](https://youtu.be/QHq1Y_-asIw)
+  * Elemental Skill: Gorou produces 2 Geo Particles on Elemental Skill cast. (I hope 7 tests is enough, ping pong me if it isn't and/or you get something other than 2 Particles. - [Neptunya\#8291](https://youtu.be/QHq1Y_-asIw)
 * Unlike most characters, Gorou does not keep one eye closed after ARCC. - [BowTae\#0141](https://youtu.be/_yuZ4lKpdKY)
 
 ## Attack Mechanics
@@ -59,7 +59,7 @@ Other sources include this video from SystksjSonic: [Twitter](https://twitter.co
 * [Aim](https://youtu.be/ZeI8K-hnWw8)
 
 **Significance:**  
-This tech is superior to ARCC in almost every way, as it doesn't require frame perfect inputs, can be done very fast without macros, and will also trigger abilities such as Fischl C6 and Yelan Burst. This tech makes Gorou potentially the strongest physical bow character. The downside is that it only works on Gorou.  
+This tech is superior to ARCC in almost every way, as it doesn't require frame perfect inputs, can be done very fast without macros, and will also trigger abilities such as Fischl C6 and Yelan Burst. This tech makes Gorou potentially the strongest Physical bow character. The downside is that it only works on Gorou.  
 
 ### Aimed Shot Damage Dropoff
 
@@ -121,7 +121,7 @@ Better understanding of Gorou's buff application to snapshot the full DEF bonus 
 ### C1: Rushing Hound: Swift as the Wind
 
 * Gorou's C1 CD eventually desyncs from his E CD, meaning you cannot proc it on every E cast. [Steno\#0119](https://imgur.com/a/yXHcZnm)
-* Gorou's C1 can snapshot/Gorou's E and Q zone buff is delayed like Bennett's Q buff. To trigger C1 the character must deal geo damage while in the field, for characters with off-field abilities it just means they need to enter the zone and use the ability before going off-field.
+* Gorou's C1 can snapshot/Gorou's E and Q zone buff is delayed like Bennett's Q buff. To trigger C1 the character must deal Geo damage while in the field, for characters with off-field abilities it just means they need to enter the zone and use the ability before going off-field.
   In the second half of the video Albedo/Zhongli's E were used before they received the buff, meaning they weren't considered to be in gorou's E at the time of casting. - [Frost--Flame\#2563](https://youtu.be/O-HGSNkj478)
 
 ### C4: Lapping Hound: Warm as Water

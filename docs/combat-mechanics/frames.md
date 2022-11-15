@@ -16,7 +16,7 @@ For image previews, see [here](https://imgur.com/a/mpCSS4U).
 
 **Animation cancel:** Performing an action to reduce the recovery frames of an attack.  
 **Grayout:** When an icon turns gray indicating that the button can't be pressed.  
-**Hitlag:** Character getting "frozen" while the enemies and environment continue moving.  
+**Hitlag:** Character getting "Frozen" while the enemies and environment continue moving.  
 **Hitmark:** When a "splash" appears at the point of contact between the weapon and the enemy.  
 **Multi-hit:** An attack that consists of 2 or more hits that cannot be performed separately.  
 **MV:** Also known as Motion Value, synonym of Talent Multiplier.  
@@ -62,7 +62,7 @@ For consistency, most data on the TCL uses ~20ms ping
 
 ## Hitlag
 
-Hitlag occurs when some melee attacks hit a target, the animation speed gets reduced to 1% \(in some cases 5%\) to make it appear as if the character and weapon are "frozen" in time to give players a sense of "weight" to the attack.  
+Hitlag occurs when some melee attacks hit a target, the animation speed gets reduced to 1% \(in some cases 5%\) to make it appear as if the character and weapon are "Frozen" in time to give players a sense of "weight" to the attack.  
 
 The amount of hitlag behind each hit is specific to that hit, and every hit in a multi-hit attack can have a different amount of hitlag. The table below summarizes hitlag that are the same across *most* characters of each weapon type.  
 

@@ -25,7 +25,7 @@ search: false
   * Prophecies of Dawn: 2B - [BowlSoldier#3528](https://youtu.be/pHSSun_Ec5w)
 * ICD
   * Chillwater Bomblets
-    * Shared ICD on cryo application. - [BowlSoldier#3528](https://youtu.be/dR5p0D6-pp8)
+    * Shared ICD on Cryo application. - [BowlSoldier#3528](https://youtu.be/dR5p0D6-pp8)
     * Follow standard ICD (3 hits/2.5s) - [BowlSoldier#3528](https://youtu.be/mMh8_9bejIA)
   * Infused Normals follow standard ICD (3 hits/2.5s) - [Nass008#8577](https://imgur.com/J1CPb47)
 
@@ -42,7 +42,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 ### Skill Mechanics
 
 * Aloy can gain Coil Stacks while off-field - [anonpuffs#2537](https://youtu.be/3Cfa3apPBgM)
-* Aloy's skill generates 5 particles on Freeze Bomb hit. - [Nass008#8577](https://youtu.be/SaZyf_svcis)
+* Aloy's skill generates 5 Particles on Freeze Bomb hit. - [Nass008#8577](https://youtu.be/SaZyf_svcis)
 * Interaction between Aloy Chillwater Bomblets and Anemo Characters - Nass008#8577
   * [Chillwater Bomblets can be moved by](https://youtu.be/KgzF-ullDno):
     * Jean: Tap E, Hold E

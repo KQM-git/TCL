@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 orb      | Pyro    |
-| 33% HP       | 1 orb      | Pyro    |
-| Death        | 1 particle | Pyro    |
+| 66% HP       | 1 Orb      | Pyro    |
+| 33% HP       | 1 Orb      | Pyro    |
+| Death        | 1 Particle | Pyro    |
 
 ## Shield
 
@@ -77,8 +77,8 @@ Head.
 * Conjures a large fireball which it throws at the player, dealing AoE Pyro DMG.
 * Summons 5 small flares above itself before shooting them at the player, dealing Pyro DMG.
 * When a character strays near to the Abyss Lector, it will release a powerful infernal wave around itself, dealing AoE Pyro DMG.
-* Summons 3 bursts of flame to flare up from the ground, dealing AoE Pyro DMG applying Brand of the Abyssal Flame to players who take DMG from this attack. This attack is used twice in a row when the Lector is shielded.
+* Summons 3 Bursts of flame to flare up from the ground, dealing AoE Pyro DMG applying Brand of the Abyssal Flame to players who take DMG from this attack. This attack is used twice in a row when the Lector is shielded.
 * After its health falls below a certain threshold, the Abyss Lector: Fathomless Flames will imbue itself with a powerful Pyro shield, providing it immunity to all DMG until its shield is broken. The shield is weakest to Hydro. Upon the shield's activation, deals AoE Pyro DMG in a large area around itself and causing heavy knockback. The Abyss Lector also gains new/upgraded attacks when shielded.
   * The Lector will immediately be defeated after its shield has been destroyed, even though it still has HP remaining.
 * Darkfire Meteor: Summons a meteor to crash into the ground, dealing AoE Pyro DMG and leaving behind a Darkfire Furnace. Destroying the Darkfire Furnace before it expires will partly deplete the Lector's shield. This attack is only used when in the Hellfire Haven state.
-  * The Fathomless Flames: Summons many bursts of flame to flare up form the ground for the entire duration of the Darkfire Furnace, dealing AoE Pyro DMG and applying the Brand of the Abyssal Flame to players who take DMG from this attack. This attack is used always and only immediately after casting Darkfire Meteor.
+  * The Fathomless Flames: Summons many Bursts of flame to flare up form the ground for the entire duration of the Darkfire Furnace, dealing AoE Pyro DMG and applying the Brand of the Abyssal Flame to players who take DMG from this attack. This attack is used always and only immediately after casting Darkfire Meteor.

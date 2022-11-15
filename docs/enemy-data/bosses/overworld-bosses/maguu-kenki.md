@@ -16,10 +16,10 @@ Face.
 
 | HP Threshold | Type               | Element |
 | :----------- | :----------------- | :------ |
-| 75% HP       | 1 orb              | common  |
-| 50% HP       | 1 orb              | common  |
-| 25% HP       | 1 orb              | common  |
-| Death        | 1 orb + 1 particle | common  |
+| 75% HP       | 1 Orb              | common  |
+| 50% HP       | 1 Orb              | common  |
+| 25% HP       | 1 Orb              | common  |
+| Death        | 1 Orb + 1 Particle | common  |
 
 ## Resistance Table
 
@@ -53,7 +53,7 @@ Face.
 * Maguu Kenki uses several oni masks in battle.
 * Protective Mask: Summons an oni mask to protect it from ranged attacks if it is not performing one of its other attacks.
 * Pushing Mask: Summons a large oni mask in front of it before pushing it forward to deal damage.
-* Exploding Mask: Summons a large oni mask at the player's position that swirls uncontrollably before exploding.
+* Exploding Mask: Summons a large oni mask at the player's position that Swirls uncontrollably before exploding.
 * Performs a dash creating afterimage behind.
 * Slashes at the player three times.
 * Enters a stance and rushes toward the player while drawing its sword.

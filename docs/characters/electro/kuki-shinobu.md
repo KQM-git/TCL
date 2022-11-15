@@ -81,7 +81,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* 45% chance to generate 1 particle on hit.
+* 45% chance to generate 1 Particle on hit.
 * Hitbox extends slightly above the visual effect.
 * Initial cast and tick damage share the same ICD
 
@@ -170,8 +170,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 * Skill and C4 have different ICD.
 * C4 damage scales with Elemental Skill Damage %.
-* C4 can generate particles.
-* No cooldown for particle generation between Skill and C4.
+* C4 can generate Particles.
+* No cooldown for Particle generation between Skill and C4.
 
 </TabItem>
 

@@ -39,9 +39,9 @@ search: false
   * [Imgur](https://imgur.com/a/gW7sxZH)
 * Candace's counter has no startup, it is active as soon as the UI greys out. However, there is a variable delay between key press and activation dependent on input delay.- Aftermath#7658
   * [Imgur](https://imgur.com/Xpn2eVs)
-* Tap E creates 2 particles each time it hits an enemy. - Puffin\#9920
-  * 16 trials, no case where 2 particles are not produced - [Video](https://youtu.be/8HMzZfMOZOc)
-* Hold E creates 3 particles each time it hits an enemy. - Puffin\#9920
+* Tap E creates 2 Particles each time it hits an enemy. - Puffin\#9920
+  * 16 trials, no case where 2 Particles are not produced - [Video](https://youtu.be/8HMzZfMOZOc)
+* Hold E creates 3 Particles each time it hits an enemy. - Puffin\#9920
   * 5 minutes' worth of trials, should be enough - [Video](https://youtu.be/VUZTlHKVq64)
 
 ## Burst Mechanics
@@ -63,13 +63,13 @@ search: false
 
 * Candace's infusion overrides C6 Bennett. - [Video](https://www.youtube.com/watch?v=xXE9ZbcmfIo) - Sew\#2409
 * Candace can't overwrite Chongyuns infusion. - [Video](https://www.youtube.com/watch?v=QjD49OckiVc) - Sew\#2409
-* Candace + Chongyun infusion = frozen weapon (that does Cryo dmg) - [Video](https://youtu.be/N-ThOhYi6X8) - Mystathi#9705
-  * Significance: Chongyun doesn’t quite override Candace. What may happen is that the weapon infusions trigger freeze on the weapon, which depletes both elements and leaves a frozen aura. This frozen aura is what deals Cryo dmg. This is more information on weapon infusions and can lead to questions like can a weapon do Cryo and Hydro dmg if there is enough Hydro on it (like how swirl can swirl Cryo and Hydro on a frozen enemy).
+* Candace + Chongyun infusion = Frozen weapon (that does Cryo dmg) - [Video](https://youtu.be/N-ThOhYi6X8) - Mystathi#9705
+  * Significance: Chongyun doesn’t quite override Candace. What may happen is that the weapon infusions trigger Freezee on the weapon, which depletes both elements and leaves a Frozen aura. This Frozen aura is what deals Cryo dmg. This is more information on weapon infusions and can lead to questions like can a weapon do Cryo and Hydro dmg if there is enough Hydro on it (like how Swirl can Swirl Cryo and Hydro on a Frozen enemy).
 * Interaction between Candace and Keqing infusion results in weapon being Electro-Charged but deals Hydro dmg. - Nass008\#8577
   * After Keqing casts her skill, her weapon gains Electro aura as usual but she still has visual effect of Candace's Hydro infusion.
 When using elemental sight, her weapon visually appears as Electro-infused. - [Video](https://imgur.com/W0LdtNj)
-  * Even though her weapon has appearance of Electro infusion, Keqing normal attacks under Candace burst deals Hydro damage. - [Video](https://imgur.com/WTnZFQY)
-  * When applying infusions in order of “Candace burst -> Keqing skill -> Chongyun skill”. Superconduct is triggered. Indicating Electro gauge is physically present (not just as a visual effect) even though it does not seem to affect damage type of attacks. - [Video](https://imgur.com/hjHzlpY)
+  * Even though her weapon has appearance of Electro infusion, Keqing normal attacks under Candace Burst deals Hydro damage. - [Video](https://imgur.com/WTnZFQY)
+  * When applying infusions in order of “Candace Burst -> Keqing skill -> Chongyun skill”. Superconduct is triggered. Indicating Electro gauge is physically present (not just as a visual effect) even though it does not seem to affect damage type of attacks. - [Video](https://imgur.com/hjHzlpY)
 * Candace N4 string is able to get 12 procs of Beidou's Q pretty easily. Her Q and E timings allow for multiple variations. These combos do require a small amount of timing after the N4, since mashing LMB or dashing into an N1 will make you hit slightly too fast. - [Video](https://youtu.be/sGAyBp8IA5k)
   * First combo: N1Q N3 E N4W N4 E N4
 The start of this should work well for Candace's setup if swapping to another character. The E should be done slightly before the N3-2 connects to space out for the following N1.

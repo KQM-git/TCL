@@ -14,8 +14,8 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 60% HP       | 1 particle | common  |
-| Death        | 1 particle | common  |
+| 60% HP       | 1 Particle | common  |
+| Death        | 1 Particle | common  |
 
 ## Resistance Table
 
@@ -55,7 +55,7 @@ Hilichurl warriors who have wooden shields. These shields are not only sturdy de
 
 ## Attacks
 
-* Uses a dendro hand Shield&Club. Both can be burnt using pyro, losing them in the process. The wooden shield can also be destroyed by dealing enough damage.
+* Uses a Dendro hand Shield&Club. Both can be burnt using Pyro, losing them in the process. The wooden shield can also be destroyed by dealing enough damage.
 * Swings its' club at the player. If the club is burnt, it will swing using its' claws instead.
 * Blocks attacks in the way of its' shields. Attacks from the side and back can still go through. If the shield is burnt, it will be unable to perform this attack.
 
@@ -69,7 +69,7 @@ Hardy hilichurls who have congregated in a region where Geo energies are abundan
 
 ## Attacks
 
-* Uses a geo hand Shield&Club. The shield can be destroyed using geo or blunt attacks, or dealing enough damage to it.
+* Uses a Geo hand Shield&Club. The shield can be destroyed using Geo or blunt attacks, or dealing enough damage to it.
 * Swings its' club at the player.
 * Blocks attacks in the way of its' shields. Attacks from the side and back can still go through. If the shield is destroyed, it will be unable to perform this attack.
 
@@ -83,7 +83,7 @@ Hilichurls display a strong sense of adaptability to their surroundings. In icy 
 
 ## Attacks
 
-* Uses a cryo hand Shield&Club. The shield can be destroyed using pyro or blunt attacks, or dealing enough damage to it.
+* Uses a Cryo hand Shield&Club. The shield can be destroyed using Pyro or blunt attacks, or dealing enough damage to it.
 * Swings its' club at the player.
 * Blocks attacks in the way of its' shields. Attacks from the side and back can still go through. If the shield is destroyed, it will be unable to perform this attack.
 

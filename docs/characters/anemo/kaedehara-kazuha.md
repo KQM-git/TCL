@@ -112,7 +112,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
-* By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them).
+* By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some Frozen enemies but you don't want to shatter them).
 * Some forms of interruption after casting **Chihayaburu** may cause the ability to cast **Midare Ranzan** to persist up to 10s without remaining airborne.
 * Plunging immediately after a tap E guarantees a high plunge while waiting might give low plunge damage.
 * Absorption priority: Pyro > Hydro > Electro > Cryo
@@ -178,7 +178,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl.
+* The elemental damage is applied before Midare Ranzan, allowing it to Swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no Swirl.
 * Absorption priority: Pyro > Hydro > Electro > Cryo
 
 </TabItem>
@@ -188,9 +188,9 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
+* Kazuha's 4th ascension passive works off-field and only gives bonus damage on Swirled elements.
 * Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
-* Kazuha's 4th ascension passive overrides previous instances on every swirl of the same element, using his current Elemental Mastery.
+* Kazuha's 4th ascension passive overrides previous instances on every Swirl of the same Element, using his current Elemental Mastery.
 
 </TabItem>
 </Tabs>
@@ -222,7 +222,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The energy gained while gliding is not affected by energy recharge.
+* The Energy gained while gliding is not affected by Energy recharge.
 
 </TabItem>
 

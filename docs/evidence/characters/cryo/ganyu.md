@@ -36,7 +36,7 @@ With Ganyu’s C1, the 15% cryo shred is applied to the FFB of the first shot so
 
 **Evidence:**
 
-Tested with Ganyu, no artifact, R1 Amos, c6 and level 8 talent. consistent 889 dmg with 2090 bloom in the first video. After the initial charged shot, the resulting bloom dmg did not change at close range meaning that the cryo shred was applied to the first bloom. by running maths, we found out that the bloom has 0.3 travel time. \(204.8% x 1.12 x 0.9\)/\(348.16% x \(1.12 + 0.24\) x 1.025\) = 889/2090.
+Tested with Ganyu, no artifact, R1 Amos, c6 and level 8 talent. consistent 889 dmg with 2090 bloom in the first video. After the initial charged shot, the resulting bloom dmg did not change at close range meaning that the Cryo shred was applied to the first bloom. by running maths, we found out that the bloom has 0.3 travel time. \(204.8% x 1.12 x 0.9\)/\(348.16% x \(1.12 + 0.24\) x 1.025\) = 889/2090.
 
 [Video 1](https://youtu.be/j1wfYTOYkDQ); [Video 2](https://youtu.be/JdyEOE2zECI)
 
@@ -52,7 +52,7 @@ Ganyu synergises well with Amos’ Bow. C1 is slightly better due to the finding
 
 **Finding:**
 
-Regardless of whether both the initial and the bloom of Ganyu’s charge attack hit the enemy, Viridescent Hunt’s passive has been found to be activatable by both instances. Additionally, because both the arrow and the charge attack can trigger Viridescent Hunt’s passive, the 50% chance of activation is rolled twice if both the arrow and the bloom hit the enemy.
+Regardless of whether both the initial and the bloom of Ganyu’s Charged Attack hit the enemy, Viridescent Hunt’s passive has been found to be activatable by both instances. Additionally, because both the arrow and the Charged Attack can trigger Viridescent Hunt’s passive, the 50% chance of activation is rolled twice if both the arrow and the bloom hit the enemy.
 
 **Evidence:**
 
@@ -72,7 +72,7 @@ Due to the fact that Viridescent Hunt can trigger on both the bloom or the arrow
 
 **Finding:**
 
-The distance required in order to get an individual stack of the Amos’ passive buff of 8% dmg bonus per 0.1 seconds of travel time is approximately 5 in game meters per stack with the first stack applying at a distance of 3 in game meters. For reference, to get maximum stacks with the Amos bow, the distance is approximately half of Ganyu’s elemental burst in length.
+The distance required in order to get an individual stack of the Amos’ passive buff of 8% dmg bonus per 0.1 seconds of travel time is approximately 5 in game meters per stack with the first stack applying at a distance of 3 in game meters. For reference, to get maximum stacks with the Amos bow, the distance is approximately half of Ganyu’s elemental Burst in length.
 
 **Evidence:**
 
@@ -108,17 +108,17 @@ These distance calculations will allow for players to have a better understandin
 
 **Finding:**
 
-The bloom damage from Ganyu’s frost flake arrow is considered to be a charge attack along with the initial arrow itself, meaning that both the bloom and the arrow are affected by charge attack multipliers such as the ones received from 4pc Wanderers Troupe, Bolide, and Heart of Depth.
+The bloom damage from Ganyu’s frost flake arrow is considered to be a Charged Attack along with the initial arrow itself, meaning that both the bloom and the arrow are affected by Charged Attack multipliers such as the ones received from 4-Piece Wanderers Troupe, Bolide, and Heart of Depth.
 
 **Evidence:**
 
-User Poyo tested Ganyu’s frost flake arrow with the 4p Wanderers Troupe set, then swapped out a piece of the set with similar sub stats to test if there would be a significant damage difference in bloom damage between having the 35% charge attack bonus, and not. The following findings show that there is indeed a significant damage difference when equipping the 4p Wanderer’s Troupe set, implying that the bloom is considered a charge attack, and is in turn affected by charge attack multipliers.
+User Poyo tested Ganyu’s frost flake arrow with the 4-Piece Wanderers Troupe set, then swapped out a piece of the set with similar sub stats to test if there would be a significant damage difference in bloom damage between having the 35% charge ATK Bonus, and not. The following findings show that there is indeed a significant damage difference when equipping the 4-Piece Wanderer’s Troupe set, implying that the bloom is considered a Charged Attack, and is in turn affected by Charged Attack multipliers.
 
 [Wanderer Troupe Bloom damage test](https://youtu.be/b2F6swCa4pI)
 
 **Significance:**
 
-This finding means that set bonuses that improve charge attacks such as Wanderers Troupe, Bolide, and Heart of Depth, will have a significant boost to Ganyu’s bloom damage, implying that Ganyu will have significantly more potential options for viable sets then we initially thought.
+This finding means that set bonuses that improve Charged Attacks such as Wanderers Troupe, Bolide, and Heart of Depth, will have a significant boost to Ganyu’s bloom damage, implying that Ganyu will have significantly more potential options for viable sets then we initially thought.
 
 ### Ganyu Cannot Perform the ARCC Tech That All Other Bow Users Can Perform With Her Frostflake Arrow \(with the exception of C6\)
 
@@ -247,7 +247,7 @@ It is possible to spawn multiple Ice Lotuses without C2 Ganyu.
 Ganyu E does not have ICD.
 
 **Evidence:**  
-[YouTube](https://youtu.be/NTwGHl6XA8I) - Ganyu equipped with Sacrificial Bow. Applied 2U of pyro to the Fatui Agent using Bennett's skill. Used Ganyu skill twice using Sac Bow passive, both hits melted. First damage instance appears at frame 455, second at frame 530 => 1.25 seconds between damage, which is less than the standard 2.5 seconds.
+[YouTube](https://youtu.be/NTwGHl6XA8I) - Ganyu equipped with Sacrificial Bow. Applied 2U of Pyro to the Fatui Agent using Bennett's skill. Used Ganyu skill twice using Sac Bow passive, both hits Melted. First damage instance appears at frame 455, second at frame 530 => 1.25 seconds between damage, which is less than the standard 2.5 seconds.
 
 **Significance:**  
 Provides evidence for "ICD: None" on TCL for Ganyu's skill.
@@ -270,7 +270,7 @@ User Tiago thoroughly tested Ganyu’s Trail of Qilin by going to each individua
 
 **Significance:**
 
-As Ganyu’s Trail of Qilin is capable of properly taunting just about every single enemy in the game it will prove to be a highly valuable asset in crowd control for Ganyu players, especially in melt comps due to it attracting enemies near Xiangling’s Guoba, along with being a major asset for abyss 11-2.
+As Ganyu’s Trail of Qilin is capable of properly taunting just about every single enemy in the game it will prove to be a highly valuable asset in crowd control for Ganyu players, especially in Melt comps due to it attracting enemies near Xiangling’s Guoba, along with being a major asset for abyss 11-2.
 
 ### Ganyu Construct Height Placement Shenanigans
 
@@ -347,7 +347,7 @@ Difficult to count the icicles initially, but 4 icicles are dropped on the groun
 
 **Significance:**
 
-Ganyu's Q is really bad against single target enemies for cryo application. Her cryo application really shines when you can abuse the fact that the icicles have separate cryo applications on enemies that are grouped.
+Ganyu's Q is really bad against single-target enemies for Cryo application. Her Cryo application really shines when you can abuse the fact that the icicles have separate Cryo applications on enemies that are grouped.
 
 ### Ganyu’s Ascension 4 and Constellation 4 Effects Carry Over on Consecutive Casts of Ganyu’s Elemental Burst
 
@@ -357,17 +357,17 @@ Ganyu's Q is really bad against single target enemies for cryo application. Her 
 
 **Finding:**
 
-On subsequent casts of Ganyu’s Celestial Shower, if done in quick succession \(immediately after the cooldown generally\), Ganyu’s ascension 4 will actually trigger for the elemental burst unlike in the initial cast, and furthermore; Ganyu’s constellation 4 debuff will carry over to any enemy that is currently in the elemental bursts aura.
+On subsequent casts of Ganyu’s Celestial Shower, if done in quick succession \(immediately after the cooldown generally\), Ganyu’s ascension 4 will actually trigger for the elemental Burst unlike in the initial cast, and furthermore; Ganyu’s constellation 4 debuff will carry over to any enemy that is currently in the elemental Bursts aura.
 
 **Evidence:**
 
-Users SavageCabbage and Tiago did some testing of Ganyu’s elemental burst by casting the burst in succession against a cryo regislive, and a group of slimes respectively in order to test for both C4 and non C4 interactions. The result of which showed that after initial casting, both ascension 4 and constellation 4 were able to carry over providing additional damage for Ganyu.
+Users SavageCabbage and Tiago did some testing of Ganyu’s elemental Burst by casting the Burst in succession against a Cryo regislive, and a group of slimes respectively in order to test for both C4 and non C4 interactions. The result of which showed that after initial casting, both ascension 4 and constellation 4 were able to carry over providing additional damage for Ganyu.
 
 [Video 1](https://youtu.be/_QN_X8ptbTw); [Video 2](https://youtu.be/ao8XpqoNGx8); [Video 3](https://youtu.be/qxrIiqGlRI4)
 
 **Significance:**
 
-This finding implies that Ganyu’s overall elemental burst damage spikes significantly if done off-cooldown due to A4 being able to go into effect if the elemental burst is cast in quick succession. This in turn greatly improves the value of constellation 1, minorly improves the value of constellation 4, and makes Ganyu’s ascension 4 talent even better than it already is.
+This finding implies that Ganyu’s overall elemental Burst damage spikes significantly if done off-cooldown due to A4 being able to go into effect if the elemental Burst is cast in quick succession. This in turn greatly improves the value of constellation 1, minorly improves the value of constellation 4, and makes Ganyu’s ascension 4 talent even better than it already is.
 
 ## Ascension Mechanics
 
@@ -381,17 +381,17 @@ This finding implies that Ganyu’s overall elemental burst damage spikes signif
 
 **Finding:**
 
-Ganyu’s A1 passive does not apply to itself. Meaning the bloom from the first frostflake arrow shown within 5 seconds will not have an increased critical rate
+Ganyu’s A1 Passive does not apply to itself. Meaning the bloom from the first frostflake arrow shown within 5 seconds will not have an increased CRITical rate
 
 **Evidence:**
 
-Tests were run by user SavageCabbage with Ganyu at 80% critical rate on their artifacts. Due to this, if Ganyu’s A1 passive applies to itself they would never experience a non-critical bloom during testing, which was not the case.
+Tests were run by user SavageCabbage with Ganyu at 80% CRITical rate on their artifacts. Due to this, if Ganyu’s A1 Passive applies to itself they would never experience a non-CRITical bloom during testing, which was not the case.
 
 [Ascension 1 passive test](https://youtu.be/FHx_KToeyWU)
 
 **Significance:**
 
-This knowledge allows for a clearer understanding of her talents, and implies that for shorter fights Ganyu will be marginally weaker at the start of the fight due to her first shot not having the A1 passive.
+This knowledge allows for a clearer understanding of her talents, and implies that for shorter fights Ganyu will be marginally weaker at the start of the fight due to her first shot not having the A1 Passive.
 
 #### Ganyu’s A1 Passive Persists After Swap
 
@@ -401,25 +401,25 @@ This knowledge allows for a clearer understanding of her talents, and implies th
 
 **Finding:**
 
-Ganyu’s A1 passive persists after swapping characters, meaning that it is possible to maintain the 20% crit rate from A1 while swapping to supports to activate their abilities and elemental bursts as long as the swap time is within the 5 second period. \(Note: the crit rate increase does not apply to others\).
+Ganyu’s A1 Passive persists after swapping characters, meaning that it is possible to maintain the 20% CRIT Rate from A1 while swapping to supports to activate their abilities and elemental Bursts as long as the swap time is within the 5 second period. \(Note: the CRIT Rate increase does not apply to others\).
 
 Additionally, Buffs applied to the character after an arrow has been released are not added to the fired arrow. The arrow's damage is “snapshot” from the state of the character when released.
 
-With these two things in mind, as long as the FrostFlakeArrow is fired within 5 seconds of the previous arrow regardless of what you do during this timeframe the 20% additional crit buff is maintained.
+With these two things in mind, as long as the FrostFlakeArrow is fired within 5 seconds of the previous arrow regardless of what you do during this timeframe the 20% additional CRIT buff is maintained.
 
 **Evidence:**
 
-The activation of the A1 passive is visible after Ganyu shoots a frost flake arrow \(as can be seen from the yellow visual effect around Ganyu\) and the effect persists after swap:
+The activation of the A1 Passive is visible after Ganyu shoots a frost flake arrow \(as can be seen from the yellow visual effect around Ganyu\) and the effect persists after swap:
 
-[A1 passive swap test](https://youtu.be/G_4Jn1xxwG0)
+[A1 Passive swap test](https://youtu.be/G_4Jn1xxwG0)
 
-After shooting an arrow, moving inside/outside Bennett’s burst does not change the damage dealt by arrows previously released, therefore arrows do not dynamically update buffs, they keep the same state after being fired:
+After shooting an arrow, moving inside/outside Bennett’s Burst does not change the damage dealt by arrows previously released, therefore arrows do not dynamically update buffs, they keep the same state after being fired:
 
 [Arrow snapshot test](https://youtu.be/moPAMaH9LMo)
 
 **Significance:**
 
-This proves that it is possible to use other character’s elemental bursts and/or skills while maintaining Ganyu’s 20% critical rate buff which both improves her viability by making her significantly less of a selfish carry, and allows for potential usage \(although overall probably not optimal\) in swap comps with Ganyu.
+This proves that it is possible to use other character’s elemental Bursts and/or skills while maintaining Ganyu’s 20% CRITical rate buff which both improves her viability by making her significantly less of a selfish carry, and allows for potential usage \(although overall probably not optimal\) in swap comps with Ganyu.
 
 ### A4: Harmony Between Heaven and Earth
 
@@ -431,21 +431,21 @@ This proves that it is possible to use other character’s elemental bursts and/
 
 **Finding:**
 
-Ganyu’s elemental burst will not apply the 20% bonus cryo damage from its initial cast to itself, regardless of if the user stands inside or outside of the elemental burst post casting, implying that Ganyu’s elemental burst is snapcast in nature.
+Ganyu’s elemental Burst will not apply the 20% bonus Cryo damage from its initial cast to itself, regardless of if the user stands inside or outside of the elemental Burst post casting, implying that Ganyu’s elemental Burst is snapcast in nature.
 
 **Evidence:**
 
-User SavageCabbage tested out using Ganyu’s elemental burst on a group of enemies and recorded the damage values he received. After this, he took said recorded values and inputted them into the damage formula to determine if the values he observed matched the values he would theoretically be receiving with the 20% damage buff.
+User SavageCabbage tested out using Ganyu’s elemental Burst on a group of enemies and recorded the damage values he received. After this, he took said recorded values and inputted them into the damage formula to determine if the values he observed matched the values he would theoretically be receiving with the 20% damage buff.
 
-[\[Video\] A4 test on elemental burst](https://youtu.be/YGa-IZl0rFI)
+[\[Video\] A4 test on elemental Burst](https://youtu.be/YGa-IZl0rFI)
 
 [Image](https://imgur.com/a/qsPadc6)
 
 **Significance:**
 
-These findings are important for Ganyu players to know as their elemental bursts will deal less damage then they might assume on paper due to the common misconception that Ganyu’s ultimate is not snapcast in nature. Along with this due to the fact that the 20% bonus cryo damage will apply if you burst off of cooldown further incentivises players to do so.
+These findings are important for Ganyu players to know as their elemental Bursts will deal less damage then they might assume on paper due to the common misconception that Ganyu’s ultimate is not snapcast in nature. Along with this due to the fact that the 20% bonus Cryo damage will apply if you Burst off of cooldown further incentivises players to do so.
 
-### Ganyu elemental burst and charge shots snapshot
+### Ganyu elemental Burst and charge shots snapshot
 
 **By:** Karzak\#7126 Nello\#1928 Neptunya\#8291  
 **Added:** <Version date="2021-01-28" />  
@@ -453,23 +453,23 @@ These findings are important for Ganyu players to know as their elemental bursts
 
 **Finding:**
 
-Both Ganyu’s frost flake arrow \(on release\) as well as Ganyu’s elemental burst \(on initial cast\) are snapshot in nature, meaning that any buffs or effects applied to the character will only affect them if they are on Ganyu during the initial release, and cast respectively
+Both Ganyu’s frost flake arrow \(on release\) as well as Ganyu’s elemental Burst \(on initial cast\) are snapshot in nature, meaning that any buffs or effects applied to the character will only affect them if they are on Ganyu during the initial release, and cast respectively
 
 **Evidence:**
 
-User Neptunya tested Ganyu’s elemental burst by casting it along with a Bennett ult, varying between being inside the Bennett ult during cast, walking into the Bennett ult after cast, and not being in the Bennett ult whatsoever in order to determine if Ganyu’s elemental burst was snapshot in nature, which she found to be true. Similarly, user Nello tested Ganyu’s charge shot by shooting a hilichurl at extreme distances in order to give them enough time to walk in and outside of a Bennett ult mid shot. Through this they similarly discovered that Ganyu’s Frost Flake arrow is also snapshot in nature.
+User Neptunya tested Ganyu’s elemental Burst by casting it along with a Bennett ult, varying between being inside the Bennett ult during cast, walking into the Bennett ult after cast, and not being in the Bennett ult whatsoever in order to determine if Ganyu’s elemental Burst was snapshot in nature, which she found to be true. Similarly, user Nello tested Ganyu’s charge shot by shooting a hilichurl at extreme distances in order to give them enough time to walk in and outside of a Bennett ult mid shot. Through this they similarly discovered that Ganyu’s Frost Flake arrow is also snapshot in nature.
 
 [Ganyu charge shot snapshotting](https://youtu.be/moPAMaH9LMo)
 
-[Ganyu burst alone](https://youtu.be/1xaxk0roVIc)
+[Ganyu Burst alone](https://youtu.be/1xaxk0roVIc)
 
-[Ganyu burst outside of Bennett buff](https://youtu.be/XHrFKkFXjAc)
+[Ganyu Burst outside of Bennett buff](https://youtu.be/XHrFKkFXjAc)
 
-[Ganyu burst inside of Bennett buff](https://youtu.be/ryO1Umsa6po)
+[Ganyu Burst inside of Bennett buff](https://youtu.be/ryO1Umsa6po)
 
 **Significance:**
 
-By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, we now have a better understanding of how Bennet’s elemental burst interacts with Ganyu’s abilities, which in particular is very important to know for melt comp, and even to an extent can be decently important for a Ganyu freeze comp if they decide to run Bennett for the extra damage.
+By the fact that both Ganyu’s CA and elemental Burst are snapshot in nature, we now have a better understanding of how Bennet’s elemental Burst interacts with Ganyu’s abilities, which in particular is very important to know for Melt comp, and even to an extent can be decently important for a Ganyu Freezee comp if they decide to run Bennett for the extra damage.
 
 ### Ganyu Burst does not Overlap
 
@@ -487,7 +487,7 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 4. Test whether casting outside of her ultimate field, but have the 2nd one overlap the ultimate, allows it to coexist
 5. Test whether casting completely outside her ultimate field allows it to coexist
 
-**Significance:** In a scenario where Ganyu has lots of cooldown reduction to the point where you can cast her ultimate before it ends, it is advised to wait until it has ended to cast her burst again.
+**Significance:** In a scenario where Ganyu has lots of cooldown reduction to the point where you can cast her ultimate before it ends, it is advised to wait until it has ended to cast her Burst again.
 
 ### Ganyu Burst Frequency
 
@@ -543,17 +543,17 @@ The 15% cryo resistance shredding from Ganyu’s constellation 1 is slightly bet
 
 **Finding:**
 
-Ganyu can regenerate energy through her C1 passive ability even when shooting immune enemies.
+Ganyu can regenerate Energy through her C1 passive ability even when shooting immune enemies.
 
 **Evidence:**
 
-Slimes are immune to cryo and therefore take no damage. Despite taking no damage, it can be seen in the video below that C1’s passive is functioning:
+Slimes are immune to Cryo and therefore take no damage. Despite taking no damage, it can be seen in the video below that C1’s passive is functioning:
 
 [Video](https://youtu.be/8uAy2OJtZEw)
 
 **Significance:**
 
-It can be useful to know that even in the event of immunity or resistance you can still generate energy from a FFA/B.
+It can be useful to know that even in the event of immunity or resistance you can still generate Energy from a FFA/B.
 
 ### C6: The Clement
 
@@ -585,7 +585,7 @@ Allows for quick execution of charged shot -&gt; e -&gt; charged shot -&gt; e -&
 
 **Finding:**
 
-Ganyu’s Trail of Qilin is classified as a construct similar to Amber’s bunny, and all of the geo character’s constructs. As such, her Trail of Qilin can function as a trigger for smaller pressure plates which can help in exploration
+Ganyu’s Trail of Qilin is classified as a construct similar to Amber’s bunny, and all of the Geo character’s constructs. As such, her Trail of Qilin can function as a trigger for smaller pressure plates which can help in exploration
 
 **Evidence:**
 
@@ -671,7 +671,7 @@ When C1 Sucrose has both stacks of E down, a sacrificial fragments proc will res
 
 **Evidence:**  
 _Streamable Video lost to the sands of time_  
-I cast one Sucrose E, waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s (minus 10% due to anemo resonance in video). So, whatever timer is currently showing is the one which will be reset.
+I cast one Sucrose E, waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s (minus 10% due to Anemo resonance in video). So, whatever timer is currently showing is the one which will be reset.
 
 **Significance:**  
 Unlike Sacrificial-type-weapon users with single-cast skills, any serial-cooldown, multi-cast skill user may waste cooldown resets by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first skill cast out of the stack, and that skill is the one which is reset (not the longer, still waiting cooldowns), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.

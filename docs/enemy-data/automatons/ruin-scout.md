@@ -10,9 +10,9 @@ Core inside the head. For unknown reasons this core counts as a weakspot but wil
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 particle | Common  |
-| 33% HP       | 1 particle | Common  |
-| Death        | 1 particle | Common  |
+| 66% HP       | 1 Particle | Common  |
+| 33% HP       | 1 Particle | Common  |
+| Death        | 1 Particle | Common  |
 
 ## Resistance Table
 
@@ -47,8 +47,8 @@ Core inside the head. For unknown reasons this core counts as a weakspot but wil
 
 * The Scout spins its' 4 tentacles around. Its' core is protected during this attack.
 
-* The Scout quickly charges an energized orb and sets it right below itself. The orb deals Damage to anyone who touches it and bursts after some time has passed, dealing Damage in a small AoE. The orb will also burst if the player walks into it. When two or more orbs are on the field, the orbs will create an energized beam that connects them. The beam deals Damage. If one of the orbs burst, the beam will disappear. During this whole attack its' core is protected.
+* The Scout quickly charges an energized Orb and sets it right below itself. The Orb deals Damage to anyone who touches it and Bursts after some time has passed, dealing Damage in a small AoE. The Orb will also Burst if the player walks into it. When two or more orbs are on the field, the orbs will create an energized beam that connects them. The beam deals Damage. If one of the orbs Burst, the beam will disappear. During this whole attack its' core is protected.
 
-* Planting itself, the Scout charges up before discharging energy in a medium AoE around itself. Its' core is protected during the charging and firing of this attack.
+* Planting itself, the Scout charges up before discharging Energy in a medium AoE around itself. Its' core is protected during the charging and firing of this attack.
 
 * After having its' weak spot hit twice while exposed, it will fall to the ground and deactivate. During this short time the Scout will not attack.

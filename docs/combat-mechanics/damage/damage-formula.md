@@ -9,7 +9,7 @@ description: An explanation as to how outgoing damage is calculated.
 $$
 \text{Damage} = ((\text{BaseDamage} \times \text{SpecialMultiplier}) + \text{FlatDamage}) \\
 \times (1 + \text{DamageBonus} - \text{DamageReduction}) \\
-\times \text{Crit}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \times \text{AmplifyingReaction} \\
+\times \text{CRIT}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \times \text{AmplifyingReaction} \\
 + \text{TransformativeReaction} + \text{Proc}
 $$
 
@@ -43,8 +43,8 @@ $$
 | **Talent %**          | The scaling percentage of the Talent.                                                                                                                                                        |
 | **AttackCharacter**   | Character's Base ATK.                                                                                                                                                                     |
 | **AttackWeapon**      | Weapon's Base ATK.                                                                                                                                                                        |
-| **AttackBonus**       | Sum of all percentage-based attack bonuses from weapons, artifacts and other sources.                                                                                                        |
-| **FlatAttack**        | Sum of all non-percentage-based attack bonuses from artifacts and other sources.                                                                                                             |
+| **AttackBonus**       | Sum of all percentage-based ATK Bonuses from weapons, artifacts and other sources.                                                                                                        |
+| **FlatAttack**        | Sum of all non-percentage-based ATK Bonuses from artifacts and other sources.                                                                                                             |
 | **DefenseCharacter**  | Character's Base DEF.                                                                                                                                                                    |
 | **DefenseBonus**      | Sum of all percentage-based defense bonuses from artifacts, weapons and other sources.                                                                                                       |
 | **HealthCharacter**   | Character's Base HP.                                                                                                                                                                     |
@@ -92,23 +92,23 @@ $$
 
 </details>
 
-## Critical Hits
+## CRITical Hits
 
 $$
-\text{Crit} = \begin{cases}
-  1 + \text{CritDamage} & \text{if, crit} \\
+\text{CRIT} = \begin{cases}
+  1 + \text{CRITDamage} & \text{if, CRIT} \\
   1 & \text{otherwise}
 \end{cases}
 $$
 
 $$
-\text{AverageCrit} = 1 + \text{clamp}\{0\%, \text{CritRate}, 100\% \} \times \text{CritDamage}
+\text{AverageCrit} = 1 + \text{clamp}\{0\%, \text{CRITRate}, 100\% \} \times \text{CRITDamage}
 $$
 
 | Formula Variable | Explanation                                                                                |
 | ---------------- | ------------------------------------------------------------------------------------------ |
-| **CritRate**     | The total CRIT Rate, including the 5% base CRIT Rate and bonuses from artifacts, etc.      |
-| **CritDamage**   | The total CRIT DMG, including the 50% base CRIT DMG and bonuses from artifacts, etc. |
+| **CRITRate**     | The total CRIT Rate, including the 5% base CRIT Rate and bonuses from artifacts, etc.      |
+| **CRITDamage**   | The total CRIT DMG, including the 50% base CRIT DMG and bonuses from artifacts, etc. |
 
 ## Enemy Defense
 
@@ -206,7 +206,7 @@ import AdditiveReaction from '../\_formulas/additive.md'
 
 The damage dealt by weapon and ability procs when they trigger, such as Prototype Archaic or Xiangling's constellation 2. This is dealt as a separate instance of damage from the attack that triggered it.
 
-To calculate this damage, substitute the proc percentage (e.g. 240% for Prototype Archaic R1) for Talent in the damage formula. Note that weapon proc effects always deal physical damage, and are therefore affected by physical damage bonuses and physical resistance, even if an elemental attack is used to trigger them.
+To calculate this damage, substitute the proc percentage (e.g. 240% for Prototype Archaic R1) for Talent in the damage formula. Note that weapon proc effects always deal Physical damage, and are therefore affected by Physical damage bonuses and Physical resistance, even if an elemental attack is used to trigger them.
 
 ### Proc Damage Sources
 
