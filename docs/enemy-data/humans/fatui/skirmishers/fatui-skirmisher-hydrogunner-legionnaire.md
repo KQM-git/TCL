@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 66% HP       | 2 Particles | hydro   |
-| 33% HP       | 2 Particles | hydro   |
-| Death        | 2 Particles | hydro   |
+| 66% HP       | 2 particles | hydro   |
+| 33% HP       | 2 particles | hydro   |
+| Death        | 2 particles | hydro   |
 
 ## Resistance Table
 
@@ -49,8 +49,8 @@ All resistances +100% additive increase while armored.
 
 ## Attacks
 
-* Infues itself with a Hydro armor, gaining great resistance and empowering certain attacks. The armor will have its' resistance against most elements increased, but has a great weakness to Electro elemental application.
+* Infues itself with a hydro armor, gaining great resistance and empowering certain attacks. The armor will have its' resistance against most elements increased, but has a great weakness to electro elemental application.
 * Charges up for a brief moment, then shoots a single bubble bullet at the player.
   * While armored: the bubble bullet is much faster.
-* Throws a Hydro bubble at its' ally, healing it.
+* Throws a hydro bubble at its' ally, healing it.
   * While armored: heals for more.

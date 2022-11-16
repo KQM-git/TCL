@@ -25,9 +25,9 @@ All Trial Characters in Story Quests and Hangouts do not contribute to or benefi
 
 ## Swirl Chain Reactions Can Trigger Electro Resonance
 
-Swirling Hydro, Pyro, or Cryo onto an enemy affected by Electro or vice versa will trigger **High Voltage**. This shares the Particle generation cooldown with when you trigger it normally.
+Swirling Hydro, Pyro, or Cryo onto an enemy affected by Electro or vice versa will trigger **High Voltage**. This shares the particle generation cooldown with when you trigger it normally.
 
-## Cryo Resonance Applies CRIT Rate For Cryo Before Reactions
+## Cryo Resonance Applies Crit Rate For Cryo Before Reactions
 
 Cryo resonance determines if an enemy has Cryo for its buff before reactions remove auras.
 

@@ -48,7 +48,7 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Skyward Atlas" weapons={catalysts}>
 
-* Skyward Atlas's passive can CRIT.
+* Skyward Atlas's passive can crit.
 
 </Weapon>
 
@@ -95,7 +95,7 @@ import FavSeries from './\_common/fav_series.md';
 <Weapon weapon="Hakushin Ring" weapons={catalysts}>
 
 * Buff applies to the holder - [jas\#8888](../../evidence/equipment/weapons.md#hakushin-ring-can-buff-the-holder)
-* Crytallize, Swirl and Swirl chain reactions work for the effect - [ProfHugo\#6478](../../evidence/equipment/weapons.md#crystalize-Swirl-and-Swirl-chain-reactions-work-for-the-effect)
+* Crytallize, Swirl and Swirl chain reactions work for the effect - [ProfHugo\#6478](../../evidence/equipment/weapons.md#crystalize-swirl-and-swirl-chain-reactions-work-for-the-effect)
 * Buff does not get refreshed - [ProfHugo\#6478](../../evidence/equipment/weapons.md#gaining-a-new-buff-does-not-refresh-duration)
 * Buff does not trigger when the character equipped with **Hakushin Ring** is off-field - [Greyhound\#7836 and Terrapin\#8603](../../evidence/equipment/weapons.md#hakushin-ring-doesnt-trigger-off-field)
 

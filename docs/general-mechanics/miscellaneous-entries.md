@@ -10,7 +10,7 @@ description: For entries that have little practical use.
 * You can juggle fruits that are freshly harvested from trees. Unfortunately, once they have been on the ground for a certain amount of time, nothing will affect it anymore.
 * At least two of the birds (one near Azhdaha and one in Guyun) die very often of drowning, usually before the player even sees them, though their death is also occasionally observed, and they may even sometimes survive.
   * You can use this to get free fowl.
-* Without using any elemental skills/Bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
+* Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 * The Kamuijima Cannons in Inazuma can cause friendly damage to yourself, as well as other players in Co-op.
 * Average party level warning/zone level/enemy level color warning is a lie, only highest level character is accounted for.
 * Every character model is capable of rolling in place.
@@ -37,26 +37,26 @@ description: For entries that have little practical use.
   1. Must have an interact prompt to pass through.
   2. Don't reload the whole area around the player when entering/exiting
   3. Are not sliding doors \(Inazuma sliding doors do not work\).
-* The CRIT Rate and damage of the Bokuso Box scale off of the stats of the character that is on-field when it is used.
+* The Crit Rate and damage of the Bokuso Box scale off of the stats of the character that is on-field when it is used.
 * Some Passives have a distance limit, meaning they can't be triggered when the player is too far away from the enemies. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#passive-activation-distance) for more information.
 * By following [these steps](../evidence/general-mechanics/miscellaneous-entries.md#stoves-of-babel), using stoves and Geo Constructs, players can potentially ascend indefinitely until they run out of stoves. This can be done in Singleplayer and Multiplayer.
 * Using a non\-canceled 5\* Elemental Burst or opening a UI menu on PC will reset walking mode to running mode, but not on mobile. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#certain-actions-reset-walking-mode) for more information.
 * Specialty dish rates are affected by dish rarity and quality. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#specialty-dish-rates) for more information.
-* Slimes that are in barrels or Frozen can blink.
+* Slimes that are in barrels or frozen can blink.
 * Certain characters buffs and/or infusions are limited by a finite vertical range, while others showcase near unlimited vertical range. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#vertical-ranges-of-certain-abilities) for more information.
 * The birds inside the cages of The Chasm underground camps have some weird behavior. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#chasm-glitchy-bird) for more information.
 * Anemo units' Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.
 
 ## Canceling
 
-* For some characters, if they use an Elemental Skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the Skill will not activate (and as such the Skill cooldown will not start), the game will still "treat" the Skill as if it had activated, which causes effects like Crimson Witch 4-Piece to stack.
+* For some characters, if they use an Elemental Skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the Skill will not activate (and as such the Skill cooldown will not start), the game will still "treat" the Skill as if it had activated, which causes effects like Crimson Witch 4-piece to stack.
   * This can also be performed by interacting with an NPC or a poster instead of a chair.
-* Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, this doesn't work for Charged Attacks.
+* Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, this doesn't work for charge attacks.
 * Kamera Gadget can cancel knockback.
   * Both the Kamera gadget as well as the Special Kamera gadget can be used to "cancel" knockback (instead of flying through the air, the character slides backwards). It can also be used to cancel a dash off of a ledge or the bounce of Bennetts charge level 2 (which seems to behave identical to receiving knockback).
   * To do this, you have to take a picture at the moment where you get hit/leap off a ledge. The method used is to take photos in rapid succession, by pressing "esc" and "y" quickly after one another. This makes timing the photo easier.
-* By swapping characters at the right time when you are about to be Frozen, it's possible to cancel it. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#self-Freezee-can-be-canceled-by-swapping) for a video demonstration.
-* Some characters can keep their weapons if you change them mid sheathing animation, but only when the golden Particles start appearing.
+* By swapping characters at the right time when you are about to be Frozen, it's possible to cancel it. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#self-freeze-can-be-canceled-by-swapping) for a video demonstration.
+* Some characters can keep their weapons if you change them mid sheathing animation, but only when the golden particles start appearing.
 
 ## Tanking
 
@@ -65,7 +65,7 @@ description: For entries that have little practical use.
 
 ## Animals Interaction
 
-* Sacrificial Weapons' passives and the 4-Piece Gambler effect can trigger on Wildlife that drop items (birds and beasts), but does not trigger on Wildlife that act as an interactable item pick-up (material sources).
+* Sacrificial Weapons' passives and the 4pc Gambler effect can trigger on Wildlife that drop items (birds and beasts), but does not trigger on Wildlife that act as an interactable item pick-up (material sources).
 * Some debuffs will affect animals such as dogs, cats, and foxes. See this [Vault Entry](/evidence/general-mechanics/miscellaneous-entries.md#animals-can-be-debuffed) for details.
 * Some skills and passives (like Kazuha's A4 and Freedom-Sworn's) can affect certain species of fowl (Ducks & Cranes), but not on pigeons.
 
@@ -85,7 +85,7 @@ description: For entries that have little practical use.
 
 ## A Study In Potions
 
-* The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, Burst skills and character constellations are fully reset as well as HP and Energy.
+* The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
 
 ## Portable Waypoints
 

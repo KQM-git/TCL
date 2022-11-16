@@ -214,7 +214,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Note that this bonus does not apply to the Burst damage UNLESS it is cast within a prior **Wake of Earth**.
+* Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**.
 * The buff stays even when the walls are destroyed by enemies or invisible from teleporting away.
 * The buff is not applied immediately when switching characters, instead it ticks once every ~1s and lingers for ~2s.
 * The buff has a vertical limit. When characters like Xiao jump from a construct such as Albedo's Solar Isotoma, they will no longer recieve the buff. See this [Vault Entry](../../evidence/characters/geo/traveler-geo.md#gmc-wake-of-earth-interactions) for visuals and further explanation.

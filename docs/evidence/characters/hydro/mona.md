@@ -73,7 +73,7 @@ Not much as DPS Mona's optimal Attack string combo is 2AA + CA + JC. However, in
 
 **Finding:**
 
-Mona's E gens 3 or 4 Hydro Particles on explosion, seemingly weighted towards 3 Particles per cast.
+Mona's E gens 3 or 4 Hydro particles on explosion, seemingly weighted towards 3 particles per cast.
 
 **Evidence:**
 
@@ -81,17 +81,17 @@ Mona's E gens 3 or 4 Hydro Particles on explosion, seemingly weighted towards 3 
 
 **Significance:**
 
-The fact that Mona's Particle gen is seemingly random means there's an RNG aspect to getting her ult up consistently too. May warrant further testing on other characters to see if other fluctuations in Particle gen exists. May need to test whether the Particle generation is truly random or if there is a pattern.
+The fact that Mona's particle gen is seemingly random means there's an RNG aspect to getting her ult up consistently too. May warrant further testing on other characters to see if other fluctuations in particle gen exists. May need to test whether the particle generation is truly random or if there is a pattern.
 
-### Mona Hold E has i-frames
+### Mona Hold E has iframes
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-09-25" />  
 **Last tested:** <VersionHl date="2021-09-25" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890797348635156531_891163963356758086_transcript-mona-hold-e-i-frame.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890797348635156531_891163963356758086_transcript-mona-hold-e-iframe.html)
 
 **Finding:**  
-Mona hold E has i-frames.
+Mona hold E has iframes.
 
 **Evidence:**  
 [Imgur](https://i.imgur.com/3oln5zw.mp4)
@@ -112,19 +112,19 @@ Utilizing for dodging.
 **Last tested:** <VersionHl date="2020-12-05" />
 
 **Finding:**  
-Mona’s Bubble Burst damage is determined at the time the bubble is actually triggered, rather than ‘snapshotting’ on the immediate cast.
+Mona’s Bubble burst damage is determined at the time the bubble is actually triggered, rather than ‘snapshotting’ on the immediate cast.
 
 **Evidence:**  
 [https://www.youtube.com/watch?v=KikCv6_ooSI](https://www.youtube.com/watch?v=KikCv6_ooSI)
 
 **Significance:**
 
-This will affect how you maximize Mona ult damage and means that you should remain on Mona after casting her Elemental Burst until the last moment where you switch to the Pyro character to Burst the bubble.
+This will affect how you maximize Mona ult damage and means that you should remain on Mona after casting her Elemental Burst until the last moment where you switch to the pyro character to burst the bubble.
 
 For example, in the perfect combo, the ATK buff provided by Bennett’s Elemental Burst \(Q\) lasts for ~1-2 seconds after Mona is removed from the field \(switched out\)
 
-During this time, you can Burst the bubble knowing that it will do more damage based on the extra ATK from Bennett's ult.  
-However, if you switch out for too long, Mona will lose the ATK buff and the bubble Burst will not benefit from the ATK buff.
+During this time, you can burst the bubble knowing that it will do more damage based on the extra ATK from Bennett's ult.  
+However, if you switch out for too long, Mona will lose the ATK buff and the bubble burst will not benefit from the ATK buff.
 
 ### Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?
 
@@ -170,7 +170,7 @@ Illusory Bubble can be extended to its maximum duration in specific scenarios wi
 * [Shielded Geochanter](https://www.youtube.com/watch?v=zfj2fvJQtho)
 
 **Significance:**  
-Allows for longer use of Omen's buff to said enemies in team comps outside of Freezee.
+Allows for longer use of Omen's buff to said enemies in team comps outside of freeze.
 
 ### Mona Q cannot pop on hyper armor
 
@@ -183,7 +183,7 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of Fr
 
 * It's impossible to pop Mona's Q bubble on enemies that are completely stagger resistant (aka gained hyper armor).
 
-* Certain skill/Burst cannot trigger the bubble. (Klee Q, Zhongli E).
+* Certain skill/burst cannot trigger the bubble. (Klee Q, Zhongli E).
 
 * Additionally, enemies that are "lift-able" by Jean's elemental skill by default, then it will also get trapped in Mona's Q stasis. But your Mona needs to be no more than 20-level lower than your enemy for this to work.
 
@@ -209,7 +209,7 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of Fr
   [Video](https://www.youtube.com/watch?v=au5KIJsij1A)
 
 **Significance:**  
-Better understanding and utilizing of Mona Burst.
+Better understanding and utilizing of Mona burst.
 
 ### Mona Omen Extension extended
 
@@ -219,7 +219,7 @@ Better understanding and utilizing of Mona Burst.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880972206451064842_883492803945041920_transcript-omen-extension-mechanics-video.html)
 
 **Finding:**  
-Mona's Omen damage bonus can be extended due to a certain enemy's state(s). These states are divided into three categories. Stagger/poise resistant, Elemental shields and Elemental/Hyper armor. These enemy states are what influence Mona's omen extension outside of Freezee.
+Mona's Omen damage bonus can be extended due to a certain enemy's state(s). These states are divided into three categories. Stagger/poise resistant, Elemental shields and Elemental/Hyper armor. These enemy states are what influence Mona's omen extension outside of freeze.
 
 **Stagger resistant** - During a certain enemy's animation(s) state, the enemy is completely immune to stagger/poise damage. (Object shield enemies have a block animation state which is associated with stagger resistance.)  
 For example, a Crackling axe Mitachurl has a stagger resistance animation window that extends for about 4 seconds. During this window, Mona's Illusory bubble will not pop. Once the animation ends, the enemy returns into an idle state, this then allows the enemy to take poise damage. Resulting in Mona's Illusory bubble also open to taking poise damage.
@@ -271,7 +271,7 @@ ZL's ability to extend omen with petrify is more conditional than previously tho
 **Last tested:** <VersionHl date="2021-04-09" />
 
 **Finding:**  
-Rosaria's Passive affects Mona's alternate sprint and stacks on top of Anemo resonance.
+Rosaria's Passive affects Mona's alternate sprint and stacks on top of anemo resonance.
 
 **Evidence:**
 
@@ -301,12 +301,12 @@ If you cast Mona's skill, but then hit the dash key before Mona's taunt is out, 
 **Signifiance:**  
 Mona shouldn't dash until her skill is finished casting. This skill cancellation may also occur in the future for future characters with Mona-style alternate sprints.
 
-### Mona dash i-frame
+### Mona dash iframe
 
 **By:** aui#3690  
 **Added:** <Version date="2021-09-17" />  
 **Last tested:** <VersionHl date="2021-09-17" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885753886823055421_888239660407599134_transcript-alt-vs-dash-i-frame.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885753886823055421_888239660407599134_transcript-alt-vs-dash-iframe.html)
 
 **Finding:**  
 Alternative dash and typical dash have very similar if not exact same i-frame mechanics
@@ -336,11 +336,11 @@ Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piec
 [https://youtu.be/8ArWy-739TQ](https://youtu.be/8ArWy-739TQ)
 
 **Significance:**  
-While I sincerely doubt that 4 TotM Mona will become a viable build path for her, knowing that her A1 can help proc skill based effects is potentially very useful information for future weapons or artifact sets; while also being just funny for memey setups with 4ToM.
+While I sincerely doubt that 4 ToM Mona will become a viable build path for her, knowing that her A1 can help proc skill based effects is potentially very useful information for future weapons or artifact sets; while also being just funny for memey setups with 4ToM.
 
 ### A4: Waterborne Destiny
 
-#### Mona A4 Passive only shows when she's active
+#### Mona A4 passive only shows when she's active
 
 **By:** 2ri#0945  
 **Added:** <Version date="2021-08-31" />  
@@ -351,7 +351,7 @@ While I sincerely doubt that 4 TotM Mona will become a viable build path for her
 Mona's A4 Passive is not shown on the stats page when she's inactive.
 
 **Evidence:**  
-[YouTube](https://youtu.be/8pLM8X_-kYI) - Removing Mona from the team removes her A4 Passive on the stats page.
+[YouTube](https://youtu.be/8pLM8X_-kYI) - Removing Mona from the team removes her A4 passive on the stats page.
 
 **Significance:**  
 Don't freak out if checking out Mona's stats when she isn't in your party
@@ -367,21 +367,21 @@ Don't freak out if checking out Mona's stats when she isn't in your party
 **Last tested:** <VersionHl date="2022-10-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897587228799287327_912236506880557076_transcript-mona-c1-snapshot.html)
 
-**Finding:** Mona C1's Vaporize is snapshottable but not Swirl/Electro-Charged while Frozen doesn't seem to work.
+**Finding:** Mona C1's Vaporize is snapshottable but not Swirl/EC while Frozen doesn't seem to work.
 
 **Evidence:**
 
 Vape Evidence: (Xiangling Ult)
 
 * [Video](https://youtu.be/zJPZ2ZnuFQA?t=37) - Stats at start of video.
-* Still doing 1509 non CRIT vapes at end of ult (at 58.1s, C1 animation ended at around 55.8s).
+* Still doing 1509 non crit vapes at end of ult (at 58.1s, C1 animation ended at around 55.8s).
 * [Calc](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1r0202aenemyLevel295dvaporize_dmg_21566801K0018TheCatchsJ0) -
   For reference, later in video tested without mona ult - 1333 vapes which matches calcs.
 
 Swirl Evidence: (Kazuha Slash)
 
 * [Video 1](https://youtu.be/bfC4LfiMSeQ) - Swapping with Kazuha
-* While Kazuha is onfield, Swirl deals 1176 - while he's offield 1088.
+* While Kazuha is onfield, swirl deals 1176 - while he's offield 1088.
 * Swapping back causes it to deal 1176 again, swapping back, again 1088.
 
 Staying on Kazuha
@@ -389,24 +389,24 @@ Staying on Kazuha
 * [Video 2](https://youtu.be/A3V0Vp3Jt08) - Doesn't snapshot, damage buff disappears (at 25s).
 * [Calc/stats](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1y00231a1t142115hydro51c1y5sheet6talent1q2115hydro1aswirl_dmg_2157880aM001gSacrificialSwordzO0)
 
-Electro-Charged Evidence: (Fischl's Oz)
+EC Evidence: (Fischl's Oz)
 
 * [Video](https://youtu.be/WvJBUaJzBKg)
-* Summon Oz at 11s, does 1338 Electro-Charged damage, Mona C1 disappears at 17s. Does 1163 Electro-Charged at 20s.
+* Summon Oz at 11s, does 1338 EC damage, Mona C1 disappears at 17s. Does 1163 EC at 20s.
 * Repeated test with Q Oz - same 1338 during C1/1163 after.
 * At 1 minute mark, switching on/off Fischl shows 1338 while on-field, 1163 while off-field.
 * [Calc/stats](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1810006960aQ001eFavoniusWarbow9Ra)
 
 Frozen
 
-* Mona's C1 passive does not seem to work for Freezee reactions. - [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=762498999&range=B111:S112)
+* Mona's C1 passive does not seem to work for freeze reactions. - [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=762498999&range=B111:S112)
 * All videos are linked in the sheet. An overview of the results is in another sheet tab here: [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=747486603&range=B10:S33)
 * Still broken as of 3.1 - [YouTube retest](https://youtu.be/zGOJHnhN9Ts)
 
 **Significance:**
 
 * Mona C1's "Vaporize DMG Bonus" gets snapshotted on Xiangling's ult
-* Kazuha and Oz don't snapshot hydroswirl/Electro-Charged, also requires to be onfield
+* Kazuha and Oz don't snapshot hydroswirl/EC, also requires to be onfield
 * Frozen doesn't seem to even work
 
 #### Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?
@@ -438,9 +438,9 @@ This has been confirmed due to math being done to break down how Mona's Q Burst 
 Omen damage % bonus is additive with other damage % bonuses and the C1 bonus is additive with EM reaction bonuses
 
 **Evidence:**  
-Using the damage formula the expected damage of attacks under certain conditions was calculated for both scenarios, if Omen DMG% was multiplicative or additive: [Google sheets](https://docs.google.com/spreadsheets/d/1FqKRAeS7TJbLSwYAXGGuKSlJ2-Piece2GWJ-uX2QOWR22dU/edit#gid=420155067)  
-These values were tested in game versus a Ruin Guard with and without omen to prove the formula was correctly used. All damage numbers found were in line with the omen DMG% being additive and not multiplicative. [Video](https://www.youtube.com/watch?v=oucLYZk31m4&ab_channel=SteveBob)  
-Similarly, the value of Vaporize reactions were calculated assuming the reaction bonus from Mona C1 is additive with EM reaction bonuses and tested with and without C1 active and EM to show C1 is additive with EM reaction bonuses  
+Using the damage formula the expected damage of attacks under certain conditions was calculated for both scenarios, if Omen DMG% was multiplicative or additive: [Google sheets](https://docs.google.com/spreadsheets/d/1FqKRAeS7TJbLSwYAXGGuKSlJ2pc2GWJ-uX2QOWR22dU/edit#gid=420155067)  
+These values were tested in game versus a ruin guard with and without omen to prove the formula was correctly used. All damage numbers found were in line with the omen DMG% being additive and not multiplicative. [Video](https://www.youtube.com/watch?v=oucLYZk31m4&ab_channel=SteveBob)  
+Similarly, the value of vaporize reactions were calculated assuming the reaction bonus from Mona C1 is additive with EM reaction bonuses and tested with and without C1 active and EM to show C1 is additive with EM reaction bonuses  
 [Video](https://www.youtube.com/watch?v=9k3kdQy7Lb8&ab_channel=SteveBob) Testing with C1  
 [Video](https://www.youtube.com/watch?v=xfs7ik9GnXg&ab_channel=SteveBob) Testing without C1 active
 
@@ -468,7 +468,7 @@ Mona's C1 does not work party-wide in co-op.
 
 ### C2: Lunar Chain
 
-#### Can Mona’s 2nd Constellation allow you to trigger Vaporize on a Pyro inflicted target twice?
+#### Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?
 
 **By:** Kimmu\#0007  
 **Added:** <Version date="2020-12-05" />  
@@ -476,7 +476,7 @@ Mona's C1 does not work party-wide in co-op.
 
 **Finding:**
 
-Although **C2 Lunar Chain** reads that the Charged Attack will automatically follow the Normal Attack, the Charged Attack is too slow in proccing damage and so by the time the damage registers, the Hydro Normal Attack already removes \(and Vaporizes\) the Pyro status on the enemy.
+Although **C2 Lunar Chain** reads that the Charged Attack will automatically follow the Normal Attack, the Charged Attack is too slow in proccing damage and so by the time the damage registers, the Hydro Normal Attack already removes \(and vaporizes\) the pyro status on the enemy.
 
 **Evidence:**
 
@@ -484,9 +484,9 @@ Although **C2 Lunar Chain** reads that the Charged Attack will automatically fol
 
 **Significance:**
 
-C2 is not as good as it could be, because the automatic Charged ATK cannot benefit from Vaporize unless Pyro is inflicted in the short period in between the Normal Attack and automatic Charged Attack animation.
+C2 is not as good as it could be, because the automatic Charged ATK cannot benefit from Vaporize unless pyro is inflicted in the short period in between the Normal Attack and automatic Charged Attack animation.
 
-#### C2 Mona aura for Xiangling
+#### C2 Mona Aura for Xiangling
 
 **By:** Raf\#7220  
 **Added:** <Version date="2021-06-07" />  
@@ -494,13 +494,13 @@ C2 is not as good as it could be, because the automatic Charged ATK cannot benef
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844650193613094912_851360892595732510_transcript-mona-c2-aura-for-xl.html)
 
 **Finding:**  
-A C2 Mona using N2C applies enough Hydro to overtake the Pyro application of Xiangling's Pyronado, even if Pyro starts out as the aura.
+A C2 Mona using N2C applies enough hydro to overtake the pyro application of Xiangling's Pyronado, even if pyro starts out as the aura.
 
 **Evidence:**  
 [https://youtu.be/UbqCR6t4fow](https://youtu.be/UbqCR6t4fow)
 
 **Significance**:  
-Xiangling Q applies too much Pyro for Mona to successfully be the aura most of the time, although when the C2 proc goes off it DOES allow Xiangling to pryo vape.
+Xiangling Q applies too much pyro for Mona to successfully be the aura most of the time, although when the C2 proc goes off it DOES allow Xiangling to pryo vape.
 
 ### C4: Prophecy of Oblivion
 
@@ -520,7 +520,7 @@ C4 Mona bonus (+15% CRIT Rate) applies only to targets affected by the Omen.
 1. Showcase, 87.8% CRIT Rate Mona, display of activated C4.
 2. Picked a Spiral Abyss floor with seperated enemies.
 3. Start the chamber, apply Q to one enemy and hit it in order to activate the Omen and hit it once again to "activate" the C4 bonus.
-4. Start hitting the unaffected enemy with Normal Attacks until a non-CRITical hit (1092) appears while the Omen is still visible on the first enemy.
+4. Start hitting the unaffected enemy with Normal Attacks until a non-critical hit (1092) appears while the Omen is still visible on the first enemy.
 
 **Significance:**  
 This information is not displayed in the C4 or the Q description in-game.

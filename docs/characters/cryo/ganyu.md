@@ -102,7 +102,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * The taunt applies to all enemies in the game that are not considered bosses.
-* **Ice Lotus** will generate Particles on cast and when it expires or is destroyed.
+* **Ice Lotus** will generate particles on cast and when it expires or is destroyed.
 * Multiple **Ice Lotuses** can be spawned without C2 Ganyu when using cooldown reduction effects.
 * **Ice Lotus** will be placed mid-air when Ganyu is standing on a high platform.
 
@@ -139,7 +139,7 @@ import Skill from '@site/src/components/char/Skill'
 * Ganyu's icicles follow standard ICD (3-hit/2.5s).
 * Ganyu's icicles are more likely to hit targets that are larger in size.
 * If **Celestial Shower** is cast before the previous one ends through the use of cooldown reduction, the existing field will end prematurely.
-* Ganyu's Burst has 141 [idle i-frames](../../combat-mechanics/frames.md#Burst-idle-i-frames) \(2.4s\).
+* Ganyu's Burst has 141 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(2.4s\).
 
 </TabItem>
 </Tabs>
@@ -174,7 +174,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent Bursts off cooldown within the radius of the prior Burst. This buff can be snapshotted.
+* **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent bursts off cooldown within the radius of the prior burst. This buff can be snapshotted.
 
 </TabItem>
 </Tabs>

@@ -31,7 +31,7 @@ Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 **Last tested:** <VersionHl date="2021-05-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834085780611137607_845831330662187028_transcript-venti-autoattack-after-skill-faster-switching.html)
 
-**Finding:** Doing an Normal Attack as soon as possible after using Venti's e allows the user to swap to a different character faster.
+**Finding:** Doing an auto attack as soon as possible after using Venti's e allows the user to swap to a different character faster.
 
 **Evidence:** [Video](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/venti.md/discord/attachments_834085780611137607_842113118805295134_Venti-E-N-Swap.mp4)
 
@@ -77,7 +77,7 @@ This can be done with both hold M1 shots and Aim toggle shots.
 
 **Significance:**  
 Crescent Venti stonks. Allows Phys Venti to cast Skill without interrupting the CAs: [YouTube](https://youtu.be/UK556Tz22PA)  
-Can also let Venti do 4-Piece Shimenawa tax evasion at low ping.  
+Can also let Venti do 4pc Shimenawa tax evasion at low ping.  
 In more serious terms, this has little practical use for the majority of Venti usage since it requires a CA.
 
 ## Burst Mechanics
@@ -92,17 +92,17 @@ In more serious terms, this has little practical use for the majority of Venti u
 
 **Evidence:** [YouTube](https://youtu.be/nlxEcKJUfKA)
 
-**Significance**: Once the GUs of Venti ult's absorbed Element has been determined, this can aid us in calculating his single-target elemental application rate
+**Significance**: Once the GUs of Venti ult's absorbed element has been determined, this can aid us in calculating his single target elemental application rate
 
 ### Venti Q Late Absorption Bug
 
 **By:** soup420\#1634  
 **Added:** <Version date="2021-04-23" />  
 **Last tested:** <VersionHl date="2021-04-23" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-Burst-absorption-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
-Venti Burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
+Venti burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
 
 **Evidence:**  
 [Video](https://www.youtube.com/watch?v=Jpxf7bD47ZY)
@@ -112,22 +112,22 @@ Clips 1 and 2 show that even when absorption happens late, the elemental infusio
 Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
 
 **Significance:**  
-When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on Swirl damage if there's no Element to be Swirled.
+When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on swirl damage if there's no element to be swirled.
 
 ### Venti Burst Infusion Elemental Gauge Units
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-05-02" />  
 **Last tested:** <VersionHl date="2021-05-02" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837853360023011378_838536559040790608_transcript-venti-Burst-1u-infusion.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837853360023011378_838536559040790608_transcript-venti-burst-1u-infusion.html)
 
-**Finding:** Venti's infusion elemental damage on his Burst applies 1U of the Element it absorbs.
+**Finding:** Venti's infusion elemental damage on his burst applies 1U of the element it absorbs.
 
 **Evidence:** [https://youtu.be/HcfgBlMjlLA](https://youtu.be/HcfgBlMjlLA)
 
-The last tick of the Hydro damage caused by Venti's Burst elemental infusion is at about 18 seconds. The Hydro aura fully disappears at about 27 seconds, which means that the damage caused is 1U.
+The last tick of the hydro damage caused by Venti's burst elemental infusion is at about 18 seconds. The hydro aura fully disappears at about 27 seconds, which means that the damage caused is 1U.
 
-**Significance:** Can help calculate the elemental application rate of Venti's Burst, along with determining how reactions should work against enemies caught in an infused Venti Burst.
+**Significance:** Can help calculate the elemental application rate of Venti's burst, along with determining how reactions should work against enemies caught in an infused Venti burst.
 
 ### Venti Burst Anemo Gauge Units
 
@@ -137,18 +137,18 @@ The last tick of the Hydro damage caused by Venti's Burst elemental infusion is 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887526029508354099_888246550936043610_transcript-venti-ult-anemo-gauge.html)
 
 **Finding:**  
-Venti ult Anemo gauge is 1U.
+Venti ult anemo gauge is 1U.
 
 **Evidence:**  
 [YouTube](https://youtu.be/Arq_x6nFs6s)
 
 [Imgur](https://imgur.com/a/QK1y6oa): From this screenshot, we see that the shield has taken about 10 or 11 pixels of damage, out of a total 111 pixel shield.  
-Lector shields have need 72 Anemo units worth of guage to break.  
-So we conclude that around 7 Anemo units were applied from the 7 Swirls/applications from Venti's ult.  
+Lector shields have need 72 anemo units worth of guage to break.  
+So we conclude that around 7 anemo units were applied from the 7 swirls/applications from Venti's ult.  
 Thus each application is 1U.
 
 **Significance:**  
-Venti ult Anemo gauge is 1U.
+Venti ult anemo gauge is 1U.
 
 ### Venti Elemental Absorption Proc Count Correction
 
@@ -217,35 +217,35 @@ Damage calculations for Venti.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837587957828419594_838584790323298355_transcript-c6-venti-res-down-duration.html)
 
 **Finding:**  
-The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by Anemo dmg ticks, while the infused Element's res reduction duration is refreshed by that Element's DOT ticks.  
+The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by anemo dmg ticks, while the infused element's res reduction duration is refreshed by that element's DOT ticks.  
 Venti's late infusion bug still exists in 1.5.
 
 **Evidence:**
 
 Anemo Res Reduction: [YouTube](https://www.youtube.com/watch?v=KvEPod0i_P0)  
-Res reduction lasts 10s from last Anemo dmg tick.
+Res reduction lasts 10s from last anemo dmg tick.
 
 * Sucrose without res reduction deals: 91, 83, 104, 130
 * Sucrose with res reduction deals: 106, 97, 122, 152
-* Last tick of Anemo dmg at 0:18
+* Last tick of anemo dmg at 0:18
 * Sucrose stopped dealing increased damage at 0:28.
 
 Elemental Res Reduction \(ft. Venti late infusion bug\): [YouTube](https://www.youtube.com/watch?v=JAVanCKpxIo)  
-Res reduction lasts 10s from last Hydro DOT tick.
+Res reduction lasts 10s from last hydro DOT tick.
 
 * Barbara without res reduction deals: 76, 71, 83, 111
 * Barbara with res reduction deals: 89, 83, 97, 130
-* Last tick of Anemo dmg at 0:12
-* Last tick of Hydro DOT at 0:14
+* Last tick of anemo dmg at 0:12
+* Last tick of hydro DOT at 0:14
 * Barbara stopped dealing increased damage at 0:24.
 
 Anemo Res Reduction \(ft. Venti late infusion bug\): [YouTube](https://www.youtube.com/watch?v=Ix85zbuwves/)  
-Anemo res reduction lasts 10s from last Anemo dmg tick, not influenced by infusion ticks.
+Anemo res reduction lasts 10s from last anemo dmg tick, not influenced by infusion ticks.
 
 * Sucrose without res reduction deals: 25, 23, 29, 36
 * Sucrose with res reduction deals: 42, 38, 48, 60
-* Last tick of Anemo dmg at 0:10
-* Last tick of Hydro DOT at 0:14
+* Last tick of anemo dmg at 0:10
+* Last tick of hydro DOT at 0:14
 * Sucrose stopped dealing increased damage at 0:20
 
 Venti's late infusion bug still exists in 1.5: [YouTube](https://www.youtube.com/watch?v=QIUdiR6p5TQ)

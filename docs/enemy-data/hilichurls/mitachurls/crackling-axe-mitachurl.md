@@ -14,10 +14,10 @@ Face.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 75% HP       | 1 Particle | common  |
-| 50% HP       | 1 Particle | common  |
-| 25% HP       | 1 Particle | common  |
-| Death        | 1 Orb      | common  |
+| 75% HP       | 1 particle | common  |
+| 50% HP       | 1 particle | common  |
+| 25% HP       | 1 particle | common  |
+| Death        | 1 orb      | common  |
 
 ## Resistance Table
 
@@ -49,7 +49,7 @@ Face.
 ## Attacks
 
 * Slowly charges up a swing of its' axe, followed up by a second slowly charged swing.
-* If the player can't be reached by other attacks, digs in the ground for a Electro slime to throw at the player.
+* If the player can't be reached by other attacks, digs in the ground for a electro slime to throw at the player.
 * Spins with the axe wildly, dealing rapid damage. If the axe is electrified it will deal Electro damage.
 * Performs a two-move dance with its' axe to deal Electro damage on impact.
 * Raises its' axe to summon a powerful lightning that will struck down the player. The lightning is so tremendous that it will shock the Mitachurl to the ground, stunning it briefly.

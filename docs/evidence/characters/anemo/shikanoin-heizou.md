@@ -31,7 +31,7 @@ search: false
 
 * The gauge for 4 stacks at C0 was 1U \(bugged\), but it's been patched and any amount of stacks applies 2U Anemo. - [Video](https://imgur.com/a/Nk0w5Yv) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
 * Heizou's Declension stacks persist upon swap. - [Video](https://youtu.be/iSs1i16M0pY) - Latiwings\#3308
-* Heizou keeps the Declension stacks obtained from holding Heartstopper Strike (Skill) even if he's interrupted while casting. This applies to getting knockbacked, Frozen or bubbled. - [Video](https://youtu.be/mz-GWcFCfh8) - Rathalos\#2875
+* Heizou keeps the Declension stacks obtained from holding Heartstopper Strike (Skill) even if he's interrupted while casting. This applies to getting knockbacked, frozen or bubbled. - [Video](https://youtu.be/mz-GWcFCfh8) - Rathalos\#2875
 * Heizou can get Declension stacks easily without Swirling by doing the following - [Video](https://imgur.com/a/dfNlRnW) - Kabuki\#5539
   1. Hold his E, wait until it reaches 4 stacks
   2. Immediately open the map before he casts his E, and teleport somewhere
@@ -39,7 +39,7 @@ search: false
 
 ## Burst Mechanics
 
-* Heizou's auracheck is independent for each target hit, so there is no priority unless a single-target has 2 auras. - [Video](https://imgur.com/a/Nk0w5Yv) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
+* Heizou's auracheck is independent for each target hit, so there is no priority unless a single target has 2 auras. - [Video](https://imgur.com/a/Nk0w5Yv) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
   * On Electro-Charged targets: Hydro > Electro
   * On Frozen targets: Hydro > Cryo
 * There is no damage cap for Iris Explosions. - [Video](https://imgur.com/a/bl1nqiJ) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920

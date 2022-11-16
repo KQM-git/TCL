@@ -13,12 +13,12 @@ Face.
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 60% HP       | 1 Particle | Own Element |
-| Death        | 1 Orb      | Own Element |
+| 60% HP       | 1 particle | Own element |
+| Death        | 1 orb      | Own element |
 
 # Resistance Table
 
-All samachurls have +40% (50% total) resistance to their own Element.
+All samachurls have +40% (50% total) resistance to their own element.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |
@@ -71,7 +71,7 @@ A wizened, mumbling hilichurl, one that calls upon the bite of Cryo.
 ## Attacks
 
 * If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
-* Creates one or more pillars under itself and its' allies. The pillar may be broken by Pyro or blunt attacks.
+* Creates one or more pillars under itself and its' allies. The pillar may be broken by pyro or blunt attacks.
 * Summons a stalagmite at the player's feet multiple times in a row. This attack has a slight delay with an indicator to help dodge it.
 
 </TabItem>
@@ -85,8 +85,8 @@ A wizened, mumbling hilichurl, one that awakens the might of Dendro.
 ## Attacks
 
 * If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
-* Summons multiple barricades of vines, composed of Dendro, which may be destroyed from burning via Pyro.
-* Creates a ground field that will continuously infuse the player inside it with Dendro.
+* Summons multiple barricades of vines, composed of dendro, which may be destroyed from burning via pyro.
+* Creates a ground field that will continuously infuse the player inside it with dendro.
 
 </TabItem>
 
@@ -113,7 +113,7 @@ A wizened, mumbling hilichurl, one that listens to the strength of Geo.
 ## Attacks
 
 * If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
-* Creates one or more pillars under itself and its' allies. The pillar may be broken by Geo or blunt attacks.
+* Creates one or more pillars under itself and its' allies. The pillar may be broken by geo or blunt attacks.
 * Summons a stalagmite at the player's feet multiple times in a row. This attack has a slight delay with an indicator to help dodge it.
 * While there are pillars on field, it will cause them to pulse in a cicle around themselves.
 

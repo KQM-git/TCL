@@ -45,7 +45,7 @@ None.
 ## Attacks
 
 * Starts airborne with a unique health shield that has to be broken. Once the shield is broken, Dvalin will fall on the same platform as the player, and the camera angle will change. During this time the player can climb on Dvalin's back and strike the crystal on the back of his head to deal damage until Dvalin gets back up.
-  * The crystal is self infused with Electro that can't be overriden or Electro-charged.
+  * The crystal is self infused with electro that can't be overriden or electro-charged.
 * Disappears from view, then swoops through the center of the platform, dealing heavy damage.
 * Lands on the player's side of the platform and unleashes a powerful breath onto a part of the platform.
 * Swipes his head towards the area the player is standing on.
@@ -55,7 +55,7 @@ None.
   * Dvalin can do this 3 times, after which all platforms will be affected.
   * The camera will be locked onto Dvalin, preventing the player from moving while Dvalin performs this attack.
 * Dives down and appears to the other end of the arena, then begins charging an attack. He then unleashes a gigantic pulse bomb towards the platform.
-* Periodically, there will be circular indicators on the ground showing where the Energy pulse will strike. He Swirls around in the air for a period of time and causes a permanent condition on every part of the arena.
+* Periodically, there will be circular indicators on the ground showing where the energy pulse will strike. He swirls around in the air for a period of time and causes a permanent condition on every part of the arena.
   * Dvalin uses this attack if the player takes too long to kill him. This attack persists for the rest of the fight.
 
 ## Interactions

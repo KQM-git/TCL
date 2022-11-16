@@ -44,7 +44,7 @@ Steps to Reproduce
 **By:** Poro\#4695  
 **Added:** <Version date="2022-02-02" />  
 **Last tested:** <VersionHl date="2022-02-02" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936984762726363136_938452706647998495_transcript-barbara-e-cancel-can-procstack-4-Piece-sets.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936984762726363136_938452706647998495_transcript-barbara-e-cancel-can-procstack-4pc-sets.html)
 
 **Finding:**  
 Barbara has a small time window during her initial Elemental Skill cast that allows her to dash and cancel the Elemental Skill, while avoiding the cooldown and triggering 4-Piece set bonuses from artifacts.

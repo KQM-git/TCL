@@ -54,10 +54,10 @@ All res -30% while stunned.
   * The mark will persist even if you switch characters.
 * Creates a Hydro shield that blocks a certain amount of damage.
   * If the player attacks Tartaglia enough while his shield is up, he will attack the player with a quick counter attack slash.
-* Shoots out a huge Hydro Energy blast in front of him that deals very high damage.
+* Shoots out a huge Hydro energy blast in front of him that deals very high damage.
   * This triggers if Childe gets hit by any Hydro attacks while his Hydro Shield is up.
 * Performs one charged slash attack forward.
-* Unleashes Energy deep within, creating a domain of Hydro Energy that deals a moderate amount of Hydro DMG around him.
+* Unleashes energy deep within, creating a domain of Hydro energy that deals a moderate amount of Hydro DMG around him.
 * Performs a spinning slash, dealing Hydro DMG around him.
 * Performs up to 6 consecutive shots with a bow while aiming at the player.
   * Tartaglia becomes vulnerable after performing this skill.

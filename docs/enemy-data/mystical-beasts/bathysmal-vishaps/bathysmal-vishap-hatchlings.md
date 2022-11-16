@@ -6,8 +6,8 @@ Rimebiter Bathysmal Vishap Hatchlings are immature Rimebiter Bathysmal Vishaps. 
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 60% HP       | 1 Particle | Own Element |
-| Death        | 1 Particle | Own Element |
+| 60% HP       | 1 particle | Own Element |
+| Death        | 1 particle | Own Element |
 
 ## Resistance Table
 

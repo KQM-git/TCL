@@ -1,5 +1,5 @@
 ---
-description: They are able to harness elemental Energy from the Ley Lines of Teyvat and use that power towards their group's goal of overthrowing the world ruled by the archons.
+description: They are able to harness elemental energy from the Ley Lines of Teyvat and use that power towards their group's goal of overthrowing the world ruled by the archons.
 ---
 
 # Abyss Mages
@@ -12,10 +12,10 @@ All abyss mages share the same weakspot on their **Head**, note that this weaksp
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 75% HP       | 1 Particle | Own Element |
-| 50% HP       | 1 Particle | Own Element |
-| 25% HP       | 1 Particle | Own Element |
-| Death        | 1 Orb      | Own Element |
+| 75% HP       | 1 particle | Own element |
+| 50% HP       | 1 particle | Own element |
+| 25% HP       | 1 particle | Own element |
+| Death        | 1 orb      | Own element |
 
 ## Resistance Table
 
@@ -53,7 +53,7 @@ All abyss mages share the same weakspot on their **Head**, note that this weaksp
 
 ![](/img/enemy/abyss/Enemy_Cryo_Abyss_Mage_Icon.webp)
 
-Though they dabble with great power and can even create icicles by condensing and Freezeing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves. Once their protective barrier has been broken, they are at your mercy.
+Though they dabble with great power and can even create icicles by condensing and freezing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves. Once their protective barrier has been broken, they are at your mercy.
 
 ## Shields
 
@@ -98,7 +98,7 @@ While studying at the Akademiya, researcher Alva Nicolai once conducted a system
 
 * Hurls an electric sphere towards the player.
 * Teleports closer to the player, the teleport can hurt the player if close enough.
-* Creates an Energy field around it's self.
+* Creates an energy field around it's self.
 * Starts dancing while continously summoning waves of 4 orbs that will fly outwards, alternating between an X and cross shape, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
 
 </TabItem>

@@ -35,7 +35,7 @@ For calculations, bow charge time averaged at 100 frames to accommodate for huma
 
 Aimed shot gap-fill for C0 players is somewhat viable during E downtime, at least for single-target DPS.
 
-**Editor’s note \(JimminyJon\#5698\):** Disparity between the aimed shot and melee will grow with higher CRIT Rate, as the relative increase to average CRIT bonus becomes smaller between weak-spot hits and melee normals. Also, weapons like Rust will suffer from -CA DMG. Due to being single-target, Aimed shot will also lose out with grouping effects like VH/Venti.
+**Editor’s note \(JimminyJon\#5698\):** Disparity between the aimed shot and melee will grow with higher crit rate, as the relative increase to average crit bonus becomes smaller between weak-spot hits and melee normals. Also, weapons like Rust will suffer from -CA DMG. Due to being single target, Aimed shot will also lose out with grouping effects like VH/Venti.
 
 ### Aimed Shot Damage Dropoff
 
@@ -50,7 +50,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 **By:** Bioautomaton\#5054
 
 **Finding:**  
-Childe's stance switch from ranged to melee triggers shatter on Frozen targets and de-Freezees enemies**.**
+Childe's stance switch from ranged to melee triggers shatter on frozen targets and de-freezes enemies**.**
 
 **Evidence:** [https://youtu.be/-JP-hYcHons](https://youtu.be/-JP-hYcHons)
 
@@ -89,7 +89,7 @@ Better understanding of how melee combos work.
 
 **Evidence:**  
  In the [video](https://www.youtube.com/watch?v=ZadmS_K-h9c), Childe goes into melee stance, jumps off a cliff and dies. I wait a little at the beginning to make sure that Childe doesn't automatically revert back to ranged stance. When Childe revives, he can reenter melee stance without a cooldown. 3 extra test subjects to show that it's Childe specific: [1](https://www.youtube.com/watch?v=lBgYFEKhQVc) [2](https://www.youtube.com/watch?v=Ngde38rIITY) [3](https://www.youtube.com/watch?v=lSwEidnwimU).  
- [And one more to show that its only skill, not Burst.](https://www.youtube.com/watch?v=qr2DRNzU2-o)
+ [And one more to show that its only skill, not burst.](https://www.youtube.com/watch?v=qr2DRNzU2-o)
 
 **Significance:** You could die, and extend melee duration. probably not that useful tho.
 
@@ -124,19 +124,19 @@ Skill and Attack on the Same Frame \(I will call this \[EN1\]\):
 Skill and Burst on the Same Frame \(I will call this \[EQ\]\):
 1\. Starting in Ranged Stance, \[EQ\] puts Childe in Melee Stance while casting Ranged Burst: [YouTube](https://youtu.be/wwCpati1azQ)
 
-* The Burst camera angle is messed up.
+* The burst camera angle is messed up.
 * C6 does NOT trigger upon returning to ranged stance: [YouTube](https://youtu.be/rPKLcXQN7Oc) - Mystathi\#9705
-* Doing this with 4-Piece Shimenawa's allows Childe to activate the 4-Piece effect while avoiding the Energy tax: [YouTube](https://youtu.be/3fHjMaCtjz0)  
+* Doing this with 4pc Shimenawa's allows Childe to activate the 4pc effect while avoiding the energy tax: [YouTube](https://youtu.be/3fHjMaCtjz0)  
   2\. Starting in Melee Stance, \[EQ\] puts Childe in Ranged Stance while casting Melee Burst: [YouTube](https://youtu.be/Qgcjw5w1e2E)
-* The Burst camera angle is messed up.
+* The burst camera angle is messed up.
 * C6 does NOT trigger on the inital return to ranged stance: [YouTube](https://youtu.be/_NR07r1MZT0) - Mystathi\#9705
 * However, the next time that Childe uses skill and then returns to ranged, C6 DOES trigger: [YouTube](https://youtu.be/7rY5yFc3LLQ) - Mystathi\#9705
-* Doing this with 4-Piece Shimenawa's allows Childe to activate the 4-Piece effect while avoiding the Energy tax: [YouTube](https://youtu.be/lAM1Z2QLilE) - yolitme0\#0579
+* Doing this with 4pc Shimenawa's allows Childe to activate the 4pc effect while avoiding the energy tax: [YouTube](https://youtu.be/lAM1Z2QLilE) - yolitme0\#0579
 
 **Significance:**
 
 * \[EN1\] is mostly fluff right now, can enable some cool looking attack strings.
-* \[ErQ\] can potentially improve 4-Piece Shime Childe usability. Let's you tax evade with Ranged Burst which also refunds Energy, puts you into melee stance, and doesn't rely on high ping.
+* \[ErQ\] can potentially improve 4pc Shime Childe usability. Let's you tax evade with Ranged Burst which also refunds Energy, puts you into melee stance, and doesn't rely on high ping.
 * \[EmQ\] activates C6 on second skill rotation, which can allow for new potential setups.
 
 ### Childe E Cooldown is 6 Seconds When Immediately Swapped
@@ -167,7 +167,7 @@ Swapping off of Childe as soon as possible will minimize his cooldown if you mad
 
 **Riptide Burst** \(Enemy Kill\) can be triggered by other units.
 
-* **Riptide Burst:** Defeating an opponent affected by riptide creates a Hydro Burst that inflicts the Riptide status on nearby opponents hit.
+* **Riptide Burst:** Defeating an opponent affected by riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
 
 We expected it to behave such that the riptide effects can only be triggered by Childe, but for **Riptide Burst**, it can be triggered by another unit.
 
@@ -186,7 +186,7 @@ Childe can provide additional damage even without C4 when he's off-field.
 **Last tested:** <VersionHl date="2021-03-19" />
 
 **Finding:**  
-As multiple players had pointed out, Childe seems to have a fixed 3-second ICD on his Particle generation on Riptide Slash. This disproved my previous claim of it generating a Particle every proc.
+As multiple players had pointed out, Childe seems to have a fixed 3-second ICD on his particle generation on Riptide Slash. This disproved my previous claim of it generating a particle every proc.
 
 **Evidence:**
 
@@ -194,7 +194,7 @@ As multiple players had pointed out, Childe seems to have a fixed 3-second ICD o
 The link above is a video of Childe doing Melee N1 cancels on a marked Ruin Guard. It shows how both Riptide ICD and Particle Gen ICD interacts with one another.
 
 **Significance:**  
-Just a clarification on how his Particle generation works.
+Just a clarification on how his particle generation works.
 
 ### Riptide does not snapshot
 
@@ -279,13 +279,13 @@ No matter where Childe is entering his Melee Stance, if he's staying inside of C
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883202269938610226_883489841524924456_transcript-beidou-q-on-childe-riptides.html)
 
 **Finding:**  
-Beidou Q: Stormbreaker, will proc on Childe's riptide flash, and riptide Burst as those are counted as instances of "normal attack" damage.
+Beidou Q: Stormbreaker, will proc on Childe's riptide flash, and riptide burst as those are counted as instances of "normal attack" damage.
 
 **Evidence:**  
 In this clip here, we can see instances of chain lightning proccing when c4 is activated every 4 seconds.  
 [YouTube](https://youtu.be/3LJruKBFLuM)
 
-In the second clip here, chain lightning is also proccing on enemy death, due to how riptide Burst is counted as an instance of normal attack damage as well.  
+In the second clip here, chain lightning is also proccing on enemy death, due to how riptide burst is counted as an instance of normal attack damage as well.  
 [YouTube](https://youtu.be/CZnZV9Blov4)
 
 **Significance:**  
@@ -320,7 +320,7 @@ Refrain from attacking slimes in your melee form. An obvious fact, but not obvio
 Childe's elemental skill, Foul Legacy: Raging Tides' Charge attacks can proc prototype crescent's passive on Geovishap's weakspots.
 
 **Evidence:**  
-Prototype Crescent's passive, Unreturning, will activate when a charged attack hits enemies' weakpoints. Since the descriptions never specify it must be a bow Charged Attack, any charged attacks theoretically can trigger the passive as long as it hits the weakspot of the enemy. Since Geovishaps doesn't get knocked back like other smaller enemies, and their head is luckily, ground level unlike Lectors and Heralds, it is possible to hit the Vishap's head and trigger the passive with Childe's melee cross slash. Evidence and testing is shown on the video below.  
+Prototype Crescent's passive, Unreturning, will activate when a charged attack hits enemies' weakpoints. Since the descriptions never specify it must be a bow charge attack, any charged attacks theoretically can trigger the passive as long as it hits the weakspot of the enemy. Since Geovishaps doesn't get knocked back like other smaller enemies, and their head is luckily, ground level unlike Lectors and Heralds, it is possible to hit the Vishap's head and trigger the passive with Childe's melee cross slash. Evidence and testing is shown on the video below.  
 [Video 1](https://youtu.be/oOfeu5pW0oE)  
 [Video 2](https://youtu.be/nUIqqcqjOcI)
 
@@ -332,16 +332,16 @@ Hopefully, by knowing this, people can start twiddling around this and find much
 **By:** tenten#1010  
 **Added:** <Version date="2021-06-20" />  
 **Last tested:** <VersionHl date="2021-06-20" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846872744032469012_856371265799716864_transcript-childe-4-Piecef.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846872744032469012_856371265799716864_transcript-childe-4pf.html)
 
 **Finding:**  
-Childe can trigger 4 the 4-Piece Pale Flame passive with his riptide in melee form he and keeps buff when he switches back to ranged form since riptide is counted as elemental skill.
+Childe can trigger 4 the 4-piece Pale Flame passive with his riptide in melee form he and keeps buff when he switches back to ranged form since riptide is counted as elemental skill.
 
 **Evidence:**  
 [Video](https://www.bilibili.com/video/BV1Ry4y1g7Xv?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1621945518&unique_k=seCHWV)
 
 **Signficance:**  
-Childe can stack the 4-Piece Pale Flame passive in his melee form with riptides.
+Childe can stack the 4-piece Pale Flame passive in his melee form with riptides.
 
 ### Childe Melee Charged Attack Misses Stunned Ruin Guard
 
@@ -356,15 +356,15 @@ Childe's Melee charged attack will not register on a stunned Ruin Guard when aim
 **Evidence:**  
 [Video](https://www.youtube.com/watch?v=fjSYfPqKtPg&feature=youtu.be)
 
-Step 1. Remove all CRIT from Childe so Riptide is not applied, so Riptide Slash does not ruin damage tests  
+Step 1. Remove all crit from Childe so Riptide is not applied, so Riptide Slash does not ruin damage tests  
 Step 2. Stun Ruin Guard  
 Step 3. Melee CA in front of it's feet, and compare the amount of damage numbers \(should be 3 since N1CA has 3 parts\)  
 Step 4. Melee CA at the side and compare the amount of damage numbers \(should also be 3\)
 
-From what @itskhoi\#0013 found for spear users who have the "dive" CA, Childe suffers from the opposite problem where his CA pushes him back, so he cannot hit the hitbox anymore. Thus, my assumption is that the spear users's "dive" CA hitbox is actually far behind them, thus they cannot hit the Ruin Guard. This would also explain why the 1st hit of Childe's melee CA hits, but he is pushed back too far by the time the 2nd hit can connect.
+From what @itskhoi\#0013 found for spear users who have the "dive" CA, Childe suffers from the opposite problem where his CA pushes him back, so he cannot hit the hitbox anymore. Thus, my assumption is that the spear users's "dive" CA hitbox is actually far behind them, thus they cannot hit the ruin guard. This would also explain why the 1st hit of Childe's melee CA hits, but he is pushed back too far by the time the 2nd hit can connect.
 
 **Significance:**  
-When using Childe's melee CA against stunned Ruin Guards, go to the side to reliably hit them. In addition, this could mean that the spear "dive" hitbox is actually far behind them, which is why both Childe's 2nd melee CA and spear users with "dive" CA cannot hit Ruin Guards.
+When using Childe's melee CA against stunned ruin guards, go to the side to reliably hit them. In addition, this could mean that the spear "dive" hitbox is actually far behind them, which is why both Childe's 2nd melee CA and spear users with "dive" CA cannot hit ruin guards.
 
 ### Childe Consistent Normal Attack Forward Vape
 
@@ -378,15 +378,15 @@ Childe can vape his normal attacks consistently if there are no riptide procs an
 
 Steps:
 
-1. Remove all CRIT Rate from Childe
-2. Apply Pyro on enemy. XL can reapply Pyro fast enough for Childe to vape consistently if he never CRITs and proc riptide
-3. Normal attack with childe and hope it doesn't CRIT and apply riptide
+1. Remove all Crit rate from Childe
+2. Apply pyro on enemy. XL can reapply pyro fast enough for Childe to vape consistently if he never crits and proc riptide
+3. Normal attack with childe and hope it doesn't crit and apply riptide
 
 **Evidence:**  
 [Video](https://youtu.be/1Z85uLvJn4A) (thx to Silvershine for helping me record it)
 
 **Significance:**  
-Just a fun little finding. Can be made into meme builds for a full ATK% childe (since shatter Childe is already becoming a meme build, so why not consistent vape Childe too)
+Just a fun little finding. Can be made into meme builds for a full atk% childe (since shatter Childe is already becoming a meme build, so why not consistent vape Childe too)
 
 ### Childe Double Forward Vape
 
@@ -396,7 +396,7 @@ Just a fun little finding. Can be made into meme builds for a full ATK% childe (
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_859464550046367764_862447773059252224_transcript-childe-double-forward-vape.html)
 
 **Finding:**  
-Childe can forward Vaporize both his melee Burst, and Riptide Blast given enough Pyro support. This Pyro support can come in the form of as little as Xiangling Burst + Gouba, although due to Gouba’s lack of range, lack of braincells and ability to be knocked away, another Pyro support is recommended (such as Pyro-infused Sucrose).
+Childe can forward vaporize both his melee burst, and Riptide Blast given enough pyro support. This pyro support can come in the form of as little as Xiangling burst + Gouba, although due to Gouba’s lack of range, lack of braincells and ability to be knocked away, another pyro support is recommended (such as pyro-infused Sucrose).
 
 **Evidence:**  
 [Childe Double Forward Vape](https://youtu.be/ppJPhrbm4vg)  
@@ -405,4 +405,4 @@ Childe can forward Vaporize both his melee Burst, and Riptide Blast given enough
 [Childe DFV XL only](https://youtu.be/bDTOttJq0k8)
 
 **Significance:**  
-Riptide Blast accounts for roughly ¼ of Childe’s Burst damage, scaling quadratically with the number of targets in range. Being able to achieve this double Vaporize could increase his damage dramatically.
+Riptide Blast accounts for roughly ¼ of Childe’s burst damage, scaling quadratically with the number of targets in range. Being able to achieve this double vaporize could increase his damage dramatically.

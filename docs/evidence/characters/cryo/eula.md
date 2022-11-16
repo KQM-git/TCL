@@ -35,7 +35,7 @@ search: false
 ### Burst Mechanics
 
 * Q does not snapshot.
-  * [Greyhound\#7836](https://youtu.be/ZjMlW6LugdI): Notice how the 4-Piece pale flame buff that expires midway does not effect the end damage.
+  * [Greyhound\#7836](https://youtu.be/ZjMlW6LugdI): Notice how the 4pc pale flame buff that expires midway does not effect the end damage.
   * ColaSenami\#6861
     * [Control Test](https://www.youtube.com/watch?v=RoQ6NOXlmY4)
     * [Eula Q cast inside Bennett Burst and then allowed the buffs to expire on Eula](https://www.youtube.com/watch?v=1PVpcn5ZqIU)
@@ -43,7 +43,7 @@ search: false
 * 2 Noblesse Oblige affects the Lightfall Sword damage of Glacial Illumination - denmax\#9293
   * [With NO](https://www.youtube.com/watch?v=Rb-Wx-RoUww)
   * [Without NO](https://www.youtube.com/watch?v=rvT1xzI_nDI)
-* Eula's Q CD and Energy resets at the Burst's hitmark.
+* Eula's Q CD and energy resets at the Burst's hitmark.
   * [Artesians\#0002](https://clips.twitch.tv/SmoggyConcernedBibimbapTBTacoRight-c88YbIbyjUHozu7a)
   * [Zeitraffer\#1074](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844511791622127616_Eula_Ult_Timings.mp4)
 * The duration of Glacial Illumination is not effected by hitlag. - [Artesians\#0002](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_798969666881323018_844275942045515830_lightfallsword.mp4)
@@ -56,9 +56,9 @@ search: false
 
 * Lightfall stacks are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy. - [Faranight\#0001](https://youtu.be/PbZMPM23hk8)
 * The initial hit of Eula's Q does not grant a lightfall stack. - ColaSenami\#6861
-  * [Eula Q in front of Geovishap](https://www.youtube.com/watch?v=RoQ6NOXlmY4) - hit initial dmg & force lightfall Burst early
-  * [Eula Q away from Geovishap](https://www.youtube.com/watch?v=Ug5RHliBnBg) - initial dmg not hitting the geovishap & force lightfall Burst early
-* Charged attacks don't grant lightfall stacks. - [Some Missionary\#8340](https://youtu.be/R3PActt3bqc)
+  * [Eula Q in front of Geovishap](https://www.youtube.com/watch?v=RoQ6NOXlmY4) - hit initial dmg & force lightfall burst early
+  * [Eula Q away from Geovishap](https://www.youtube.com/watch?v=Ug5RHliBnBg) - initial dmg not hitting the geovishap & force lightfall burst early
+* Charged attacks don't grant lightfall stacks. - [Some Missionary\#8340](https://youtu.be/r3PActt3bqc)
 * Confirmation that lightfall stacks cannot be gained when hitting [abyss mage](https://youtu.be/RwXRC9ayx9I), [wooden](https://youtu.be/xyfB2P00tUA), and [geo](https://youtu.be/4gbZ9v2OlCQ) shields, because stacks are only gained on damage. - nat\#4502
 * Lightfall stacks are not gained when the Lightfall Sword lights up and is about to explode. - Eko\#6090
   * [Base Damage Check](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_844317292208848937_845032011386060820_Genshin_Impact_2021.05.20_-_15.56.24.02.DVR.mp4)
@@ -112,17 +112,17 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845173856271597578_854016900095016960_transcript-eula-swap-buff.html)
 
 **Finding:**  
-Eulas Burst does not snapshot even after she is swapped offield, allowing for the opportunity to apply team buffs after Eulas ult is used but before it hits (23 frame window) , thus increasing Eulas ult damage. This applies to 4no, rosarias CRIT buff and certain users of 4tom
+Eulas burst does not snapshot even after she is swapped offield, allowing for the opportunity to apply team buffs after Eulas ult is used but before it hits (23 frame window) , thus increasing Eulas ult damage. This applies to 4no, rosarias crit buff and certain users of 4tom
 
 **Evidence:**
 
-* <https://youtu.be/oWJQOgDSJDk> and <https://youtu.be/6ThAiLjeSfA> for 4-Piece Noblesse Oblige proof
-* <https://youtu.be/1tor1JeT-Hg> for Rosaria CRIT share buff
+* <https://youtu.be/oWJQOgDSJDk> and <https://youtu.be/6ThAiLjeSfA> for 4pc Noblesse Oblige proof
+* <https://youtu.be/1tor1JeT-Hg> for Rosaria crit share buff
 * <https://youtu.be/p_cr_tGKXV8> for Diona swap buff
 * <https://youtu.be/Efp8593Wrmk> for Xinyan buff
 
 **Signficance:**  
-Allows for better Burst cycles.
+Allows for better burst cycles.
 
 ### Eula Burst Buffs Catalog
 
@@ -152,7 +152,7 @@ Cataloging Eula's buffs will be helpful for TC'ing possible one-shot rotations.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851120552323055636_861598862111932416_transcript-15-stacks-on-c0-eula.html)
 
 **Bug:**  
-At high ping Eula's elemental Burst does not properly lock stacks in on time, allowing for 15 stacks to be possible at C0.
+At high ping Eula's elemental burst does not properly lock stacks in on time, allowing for 15 stacks to be possible at C0.
 
 **Evidence:**  
 [Video 1 15 stacks](https://www.youtube.com/watch?v=bJGGQLNIuGA) 15 stack [Math](https://imgur.com/a/aeDNvXZ)  
@@ -167,7 +167,7 @@ Eula is stronger under high ping.
 **By:** TWICE\#9958  
 **Added:** <Version date="2022-04-24" />  
 **Last tested:** <VersionHl date="2022-04-24" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967821800463556658_transcript-eula-Burst-animation-cancel.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967821800463556658_transcript-eula-burst-animation-cancel.html)
 
 **Original Credit:**  
 Concept by [frenchtutor\_ on YouTube](https://www.youtube.com/watch?v=bcIuwY4mC34).
@@ -196,10 +196,10 @@ The sweatiest of gamers can save up to ~4 frames of Eula's initial Burst animati
 **By:** TWICE\#9958  
 **Added:** <Version date="2021-01-10" />  
 **Last tested:** <VersionHl date="2021-01-10" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_925652715894358046_930016341086335027_transcript-rosaria-a4-eula-Burst-inconsistencies.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_925652715894358046_930016341086335027_transcript-rosaria-a4-eula-burst-inconsistencies.html)
 
 **Finding:**  
-The duration of Rosaria's A4 buff does not consistently last to the end of Eula's Burst \(Lightfall explosion\).
+The duration of Rosaria's A4 buff does not consistently last to the end of Eula's burst \(Lightfall explosion\).
 
 **Evidence:**
 
@@ -210,7 +210,7 @@ The duration of Rosaria's A4 buff does not consistently last to the end of Eula'
 
 Game setting at 60 fps, recorded in 60 fps.
 
-In each of the videos, the rotation is Rosaria Q > Eula Q N4 hold E N4 (pop). Alt-swap is used for Eula's Burst. In the first two videos, we see that Rosaria's A4 Burst does not last through Eula's Lightfall sword popping while using Rainslasher. However in the TCL, there is evidence that Rosaria's A4 Burst can last through the pop. Both the currently-submitted videos and TCL video have a stable ping of roughly 50 ms. When tested using R1 Song of Broken Pines (which has an attack speed buff), A4 lasted through the pop.
+In each of the videos, the rotation is Rosaria Q > Eula Q N4 hold E N4 (pop). Alt-swap is used for Eula's burst. In the first two videos, we see that Rosaria's A4 burst does not last through Eula's Lightfall sword popping while using Rainslasher. However in the TCL, there is evidence that Rosaria's A4 burst can last through the pop. Both the currently-submitted videos and TCL video have a stable ping of roughly 50 ms. When tested using R1 Song of Broken Pines (which has an attack speed buff), A4 lasted through the pop.
 
 **Significance:**  
-Rosaria's A4 on Eula's Burst is inconsistent at best, and should generally **not** be assumed to apply when calculating team rotations. This changes with attack speed buffs (e.g. Song of Broken Pines, Jean C2), as Eula also has ample time to swap "early" after the second N4 to trigger the explosion while the A4 buff is still active
+Rosaria's A4 on Eula's burst is inconsistent at best, and should generally **not** be assumed to apply when calculating team rotations. This changes with attack speed buffs (e.g. Song of Broken Pines, Jean C2), as Eula also has ample time to swap "early" after the second N4 to trigger the explosion while the A4 buff is still active

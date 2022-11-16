@@ -65,9 +65,9 @@ What miHoYo calls the “Minor” reactions, which consists of: Electro-Charged,
 What miHoYo calls the “Major” reactions, which consists of: Vaporize and Melt.
 
 **SC:**
-Superconduct, a Transformative Reaction that deals AoE Cryo DMG and reduces the Physical resistance of all enemies in the AoE by 40% for 12 seconds.
+Superconduct, a Transformative Reaction that deals AoE Cryo DMG and reduces the physical resistance of all enemies in the AoE by 40% for 12 seconds.
 
-**Electro-Charged:**
+**EC:**
 Electro-Charged.
 
 **OL:**
@@ -99,11 +99,11 @@ When a weapon is infused with an Element, it will deal Elemental DMG of that Ele
 Similar to Elemental Infusion, except a Conversion can not be overridden.
 
 **Elemental Absorption:**
-When an Anemo Elemental Skill/Burst comes into contact with Pyro/Hydro/Electro/Cryo and deals additional damage of that Element. Refer to this as Absorption instead of Infusion for clarity.
+When an Anemo Elemental Skill/Burst comes into contact with Pyro/Hydro/Electro/Cryo and deals additional damage of that element. Refer to this as Absorption instead of Infusion for clarity.
 E.g. Kazuha's Elemental Burst can have “Pyro Absorption", not "Pyro Infusion”.
 
 **Elemental Absorption Priority:**
-When more than one Element is present, Anemo Elemental Skills/Bursts will absorb an Element in the following order:
+When more than one element is present, Anemo Elemental Skills/Bursts will absorb an element in the following order:
 
 * Cryo > Pyro > Hydro > Electro: only Anemo Traveler
 * Pyro > Hydro > Electro > Cryo: all other Anemo characters
@@ -112,7 +112,7 @@ When more than one Element is present, Anemo Elemental Skills/Bursts will absorb
 A reaction caused by another reaction.
 
 **Hitlag:**
-Whenever a character/enemy hits a target, frames get Frozen to give the player a sense of "weight" behind each attack, in turn making certain abilities, buffs, debuffs and auras last longer. This is referred to as Hitlag. Refer to Hitlag Extension for more details.
+Whenever a character/enemy hits a target, frames get frozen to give the player a sense of "weight" behind each attack, in turn making certain abilities, buffs, debuffs and auras last longer. This is referred to as Hitlag. Refer to Hitlag Extension for more details.
 
 **Collision:**
 When doing a Plunge Attack, the character will do AoE DMG, referred to as “Low/High Plunge” in-game. Collision DMG requires the character to plunge from directly above an enemy’s hitbox, referred to as “Plunge DMG” in-game.
@@ -132,19 +132,19 @@ Short for Energy Recharge.
 Short for Elemental Mastery.
 
 **CD:**
-Short for CRITical Damage.
+Short for Critical Damage.
 
 **CR:**
-Short for CRITical Rate.
+Short for Critical Rate.
 
 **CV:**
-CV = (2 × CR) + CD, it refers to the total amount of CRIT an artifact/character has. It's an indirect method of measuring a character's investment.
+CV = (2 × CR) + CD, it refers to the total amount of crit an artifact/character has. It's an indirect method of measuring a character's investment.
 
 **ADC:**
-Refers to main stat builds using ATK% on the Sands, Dmg Bonus% on the Goblet, CRIT% on the Circlet.
+Refers to main stat builds using ATK% on the Sands, Dmg Bonus% on the Goblet, Crit% on the Circlet.
 
 **EDC:**
-Refers to main stat builds using EM on the Sands, Dmg Bonus% on the Goblet, CRIT% on the Circlet.
+Refers to main stat builds using EM on the Sands, Dmg Bonus% on the Goblet, Crit% on the Circlet.
 
 ## Weapons and Artifacts
 
@@ -164,7 +164,7 @@ Thrilling Tales of Dragon Slayers. A 3-Star Catalyst that grants a large ATK% bu
 Heart of Depth, an artifact set for Hydro characters or Harbinger of Dawn, one of the better 3-Star swords.
 
 **NO:**
-Noblesse Oblige, an artifact set that provides a universal +20% ATK Bonus.
+Noblesse Oblige, an artifact set that provides a universal +20% ATK bonus.
 
 **VV:**
 Viridescent Venerer, an artifact set that buffs Anemo and Swirl DMG; or Vortex Vanquisher, a 5-Star Polearm that only appeared once on the Weapon Banner.
@@ -173,7 +173,7 @@ Viridescent Venerer, an artifact set that buffs Anemo and Swirl DMG; or Vortex V
 Emblem of Severed Fate, an artifact set which is known for its strength and the domain’s overall resin efficiency.
 
 **CWF:**
-Crimson Witch of Flames, an artifact set that increases Pyro DMG Bonus by 15% for the 2-Piece; It also increases Vaporize, Melt, Burning and Overloaded reaction damage as it’s 4-Piece bonus, using an Elemental Skill increases the 2-Piece Bonus by 50% of its starting value for 10s up to 3 stacks.
+Crimson Witch of Flames, an artifact set that increases Pyro Damage Bonus by 15% for the 2-Piece; It also increases Vaporize, Melt, Burning and Overloaded reaction damage as it’s 4-Piece bonus, using an Elemental Skill increases the 2-Piece Bonus by 50% of its starting value for 10s up to 3 stacks.
 
 ## Combat Notation
 
@@ -226,27 +226,27 @@ Many attacks in Genshin Impact can be cancelled by inputting a movement command,
 
 ## Team Composition Terms
 
-**Battery:** A character that generates Energy to fund another character’s Burst. Typically you battery using a character with the same Element for increased efficiency, and swap off the battery unit immediately after using their elemental skill.
+**Battery:** A character that generates energy to fund another character’s burst. Typically you battery using a character with the same element for increased efficiency, and swap off the battery unit immediately after using their elemental skill.
 
-**Burst Support** = A character that swaps onto the field to deal large damage with their Burst.
+**Burst Support** = A character that swaps onto the field to deal large damage with their burst.
 
 **Hypercarry/Selfish Carry:** A team is focused entirely around maximizing the damage dealt by a single character \(the selfish carry\) during their period of time where they deal the most damage, but are unable to swap off.
 
 **On-field** = The character who spends the most time on the field, usually spending more time on-field than all the other characters combined.
 
-**Permafreeze** = A team centered around permanently Freezeing enemies to capitalize on the 4-pc. Blizzard Strayer bonus.
+**Permafreeze** = A team centered around permanently freezing enemies to capitalize on the 4-pc. Blizzard Strayer bonus.
 
 **PP \(Pure Pyro\)** = A team centered around maximizing Pyro uptime on enemies to capitalize on the 4-pc. Lavawalker's bonus.
 
-**Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. These teams deal damage through the use of swapping between characters to use lower cooldown elemental skills and Bursts.
+**Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. These teams deal damage through the use of swapping between characters to use lower cooldown elemental skills and bursts.
 
-**Sub-DPS** = Characters outside of the main carry that deal damage, usually through their skills/Burst
+**Sub-DPS** = Characters outside of the main carry that deal damage, usually through their skills/burst
 
-**Enabler** = A character that deploys a skill or Burst that works even when the character is off-field. Usually, they apply elements to "enable" reactions.
+**Enabler** = A character that deploys a skill or burst that works even when the character is off-field. Usually, they apply elements to "enable" reactions.
 
 **Support** = Characters whose value to the team isn’t to deal damage, but to provide utility.
 
-* **Cleanser** = A character that has a skill/Burst that applies an Element onto themselves to cleanse off leyline disorders.
+* **Cleanser** = A character that has a skill/burst that applies an element onto themselves to cleanse off leyline disorders.
 * **Healers/Shielders** = As the name states, characters that increase the survivability of your other characters by providing healing or shields
 * **VV** = An Anemo character with 4 set Viridescent Venerer on to reduce the elemental res of the enemy
 
@@ -254,13 +254,13 @@ Many attacks in Genshin Impact can be cancelled by inputting a movement command,
 
 For a more in-depth look at reactions, there is a whole [section](./combat-mechanics/elemental-effects) dedicated to them in the TCL.
 
-**Amplified\(Amped\)** = A category for reactions, which Melt and Vaporize fall into. Amped reactions multiply the trigger by a specific multiplier, for more details go to General Reaction Mechanics .
+**Amplified\(Amped\)** = A category for reactions, which melt and vaporize fall into. Amped reactions multiply the trigger by a specific multiplier, for more details go to General Reaction Mechanics .
 
-**aura** = If a targetable entity is currently not affected by any Element, the next elemental source will apply an aura.
+**Aura** = If a targetable entity is currently not affected by any element, the next elemental source will apply an aura.
 
-**aura Tax** = The aura tax reduces the gauge application from elemental sources by a multiplier of 0.8.
+**Aura Tax** = The aura tax reduces the gauge application from elemental sources by a multiplier of 0.8.
 
-**Coexisting/Underlying aura** = In certain situations (e.g. Electro-Charged) multiple auras of different elements may exist on the same entity.
+**Coexisting/Underlying Aura** = In certain situations (e.g. Electro-Charged) multiple auras of different elements may exist on the same entity.
 
 **Elemental Decay** = An aura will persist a certain duration depending on the type of elemental source. Think of the duration as a gauge that can decay or be reduced in 2 ways:
 
@@ -273,17 +273,17 @@ For a more in-depth look at reactions, there is a whole [section](./combat-mecha
 
 * See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) to see each source’s U value
 
-**Elemental Source** = An Element-imbued attack or skill that will apply an Element on the enemy. All elemental sources should have the decay and GU appended.
+**Elemental Source** = An element-imbued attack or skill that will apply an element on the enemy. All elemental sources should have the decay and GU appended.
 
 **Internal Cooldown \(ICD\)** = A hidden timer that occurs when an elemental source applies an aura or trigger to an enemy. For more details, see our page on [ICDs](combat-mechanics/internal-cooldown).
 
 * During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger
 
-**Reverse \[Melt/Vaporize\]** = A Vaporize or Melt reaction where the trigger gets a 1.5x modifier.
+**Reverse \[Melt/Vaporize\]** = A vaporize or melt reaction where the trigger gets a 1.5x modifier.
 
 * Is also referred to as Cryo Melt, Pyro Vaporize, Weak Melt/Vaporize
 
-**Swirled aura** = An aura that's applied through the use of Swirl spreading the aura of one enemy to a different enemy.
+**Swirled Aura** = An aura that's applied through the use of swirl spreading the aura of one enemy to a different enemy.
 
 **Transformative** = A category for reactions, which Overload, Electro-Charged, Superconduct, Freeze, Shatter, Swirl, and Crystallize fall into.
 
@@ -305,9 +305,9 @@ As the theorycrafting library is being migrated, many of these terms do not have
 
 * Variants: Walk Cancel, Dash Cancel, Jump Cancel
 
-**Cleanse** = A method of cleaning auras off of characters by self-applying an Element from certain skills/Bursts of characters. For more information see our page on cleanses
+**Cleanse** = A method of cleaning auras off of characters by self-applying an element from certain skills/bursts of characters. For more information see our page on cleanses
 
-**Hitlag** = Whenever a character hits a target, frames get Frozen to give the player a sense of "weight" behind each attack.
+**Hitlag** = Whenever a character hits a target, frames get frozen to give the player a sense of "weight" behind each attack.
 
 * The amount of hitlag depends on the target hit
 * Range characters and skills aren't affected by hitlag

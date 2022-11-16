@@ -20,7 +20,7 @@ Properties of 0 damage attacks:
 * They hit.
 * They can deal poise damage.
 * They don't do damage.
-* They can't CRIT. (Maybe?)
+* They can't crit. (Maybe?)
 * They generally don't have talent tags.
 
 What are 0 damage attacks:
@@ -37,7 +37,7 @@ How do normal attacks turn into 0 damage attacks:
 What do these attacks still retain:
 
 * Attacks that are turned into 0 damage attacks retain their talent tags.
-* They can still CRIT.
+* They can still crit.
 
 **Evidence:**  
 Immune:
@@ -53,7 +53,7 @@ They don't damage - JonahFarc\#7056:
 
 * [Alt-dash with Royal](https://youtu.be/jCDT6Srrk7Q)
 
-Alt-dashes don't CRIT:
+Alt-dashes don't crit:
 
 * [Favonius](https://youtu.be/Dd30tLsroV8)
 
@@ -70,7 +70,7 @@ Talent tags - BowTae\#0141:
 * [Xingqiu Q activation](https://youtu.be/Z5nbPX1dMDE)
 * [Converted attacks retain tags](https://youtu.be/eLiyC9brA0Q)
 
-Converted attacks CRITting:
+Converted attacks critting:
 
 * [YouTube Playlist](https://youtube.com/playlist?list=PLENtasv0WJZdFCLw5YrLyrvj0dgGO1wl1)
 * [Klee A4](https://youtu.be/WRDvOfUysRs) - CQLQRS\#7853

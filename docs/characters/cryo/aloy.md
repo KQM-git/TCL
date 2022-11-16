@@ -129,7 +129,7 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes:**  
-* Aloy's Burst has 211 [idle i-frames](../../combat-mechanics/frames.md#Burst-idle-i-frames) \(3.5s\).
+* Aloy's Burst has 211 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(3.5s\).
 
 </TabItem>
 </Tabs>

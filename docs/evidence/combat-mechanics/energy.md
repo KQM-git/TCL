@@ -21,15 +21,15 @@ sidebar_position: 3000
 **Last tested:** <VersionHl date="2020-12-07" />  
 **Updated:** 2021-04-03
 
-**Finding:** Energy recharge gained through Normal Attacking only applies to the character on field
+**Finding:** Energy recharge gained through auto attacking only applies to the character on field
 
 **Evidence:** The original author didn't provide video evidence, but it was approved due to being easily replicated**.** Special thanks go to Pinupski\#9999 for validating this entry with video evidence.
 
-1. Enemy's health was depleted to ~5% and let to reset to full HP, removing the variable of HP Particles
-2. [Autoattacking](https://youtu.be/yMstsGRLy5s): Used all Bursts to reset the Burst meter, then Normal Attacked with Zhongli until Burst was charged
-3. [Conclusion](https://youtu.be/3W_Gjd5LfDM): Characters other than Zhongli still had 0 Energy.
+1. Enemy's health was depleted to ~5% and let to reset to full HP, removing the variable of HP particles
+2. [Autoattacking](https://youtu.be/yMstsGRLy5s): Used all bursts to reset the burst meter, then auto attacked with Zhongli until burst was charged
+3. [Conclusion](https://youtu.be/3W_Gjd5LfDM): Characters other than Zhongli still had 0 energy.
 
-**Significance:** Off-field characters cannot gain Energy via Normal Attacks from the active character .
+**Significance:** Off-field characters cannot gain energy via auto attacks from the active character .
 
 ## Energy Recharge Does NOT Have a Softcap \(at least up to 300 ER\)
 
@@ -40,14 +40,14 @@ sidebar_position: 3000
 **Evidence:**
 
 1. Bennett was given 300.1% ER
-2. Funneled non-pyro elemental Particles to Bennett while off-field
-3. [Took 33 Particles](https://youtu.be/8WRgwQf-zh0), which is almost exactly what was expected
+2. Funneled non-pyro elemental particles to Bennett while off-field
+3. [Took 33 particles](https://youtu.be/8WRgwQf-zh0), which is almost exactly what was expected
 
 ```python
-0.6 Energy per Particle * 3.001 ER * 33 Particles = 59.420
+0.6 energy per particle * 3.001 ER * 33 particles = 59.420
 ```
 
-**Significance:** Helpful when figuring out how much Energy recharge is needed to build on a character in a specific team.
+**Significance:** Helpful when figuring out how much energy recharge is needed to build on a character in a specific team.
 
 ## Auto Attack Energy Mechanics
 
@@ -57,13 +57,13 @@ sidebar_position: 3000
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839361536900595732_840061797561139211_transcript-auto-attack-energy-mechanics.html)
 
 **Finding:**  
-Normal attacks have a chance on hit to give the on field character about 1 Energy. It can be seen when the on field character's vision flashes. It is not effected by ER% and can work with charged attacks. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives Energy regardless if the user can get Particles or not, such as in Xiao's Bane of All Evil.
+Normal attacks have a chance on hit to give the on field character about 1 energy. It can be seen when the on field character's vision flashes. It is not effected by ER% and can work with charged attacks. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives energy regardless if the user can get particles or not, such as in Xiao's Bane of All Evil.
 
 **Evidence:** [Google sheets link](https://docs.google.com/spreadsheets/d/1A72e6GlV8tuzHlOUygokWtQYSc3hB7qsyKOqPUhyjj8/edit?usp=sharing)  
 Spreadsheet includes videos of ER% testing, multi-hit attack testing, on hit testing, and Xiao's Bane of All Evil Testing. It also includes graphs illustrating the data spread of the tests. From the graphs and averages, multi-hit/projectile attacks on average proc the effect more often \(N Spam KQ vs N1C KQ and N Spam Diona vs N Spam Amber C1\)
 
 **Significance:**  
-Attacking enemies with normal/charged attacks can give extra Energy. Although in small amounts, being able to cast a Burst because of the mechanic may make or break an abyss run. Ideally, this would be done when waiting for Particles, waiting for cooldowns, and/or when outside of rotations.
+Attacking enemies with normal/charged attacks can give extra energy. Although in small amounts, being able to cast a burst because of the mechanic may make or break an abyss run. Ideally, this would be done when waiting for particles, waiting for cooldowns, and/or when outside of rotations.
 
 ## Energy Generation Update
 
@@ -72,15 +72,15 @@ Attacking enemies with normal/charged attacks can give extra Energy. Although in
 **Last tested:** <VersionHl date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845560562221056001_850107809877196870_transcript-energy-gen-numbers.html)
 
-**Finding:** Several Particle production number/ratio were wrong on the elemental Particle production sheet.
+**Finding:** Several particle production number/ratio were wrong on the elemental particle production sheet.
 
 **Evidence:** Tests on various character were recorded to ensure that the data were right.
 
 Elemental skills that has a fixed production value will be cast for at least 50 times, while elemental skills that has a chance based production value will be cast for at least 200 times until the average stabilize to double confirm the ratio.
 
-In addition, several new conditions to trigger Particle generation had been added to specific character notes.
+In addition, several new conditions to trigger particle generation had been added to specific character notes.
 
-Elemental Particle production sheet here: [https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit\#gid=0](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0)
+Elemental particle production sheet here: [https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit\#gid=0](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0)
 
 **Conclusion:** Changes made to the sheet were as follow
 
@@ -88,13 +88,13 @@ Elemental Particle production sheet here: [https://docs.google.com/spreadsheets/
 * Anemo MC Hold E: 2~4 \(1:9:1\) -&gt; 3~4 \(2:1\)
 * Geo MC: 2~4 \(1:2:1\) -&gt; 3~4 \(2:1\)
 * Chongyun: 3~4 \(1:1\) -&gt; 4 \(-\)
-* Diona: 1 per paw -&gt; 0~1 \(1:4\) check per paw \(5 -&gt; 4 Particle average per hold, 2 -&gt; 1.6 Particle average per tap\)
+* Diona: 1 per paw -&gt; 0~1 \(1:4\) check per paw \(5 -&gt; 4 particle average per hold, 2 -&gt; 1.6 particle average per tap\)
 * Jean: 2~3 \(1:1\) -&gt; 2~3 \(1:2\)
 * Kaeya: 2~3 \(1:1\)/4~5 \(1:1\) -&gt; 2~3 \(1:2\)/4~5 \(1:2\)
-* Keqing: 2~3 \(9:1\) -&gt; 2~3 \(1:1\), included extra note "Produce Particle on leap connect or Thunderclap Slash connect. Both produce same amount of Particle."
+* Keqing: 2~3 \(9:1\) -&gt; 2~3 \(1:1\), included extra note "Produce particle on leap connect or Thunderclap Slash connect. Both produce same amount of particle."
 * Klee: 3~4 \(1:9\) -&gt; 4 \(-\)
 * Lisa: 3~5 \(1:1:1\) -&gt; 5 \(-\)
-* Mona: 3~4 \(1:1\) -&gt; 3~4 \(2:1\), included extra note "only produce Particle when final explosion connects"
+* Mona: 3~4 \(1:1\) -&gt; 3~4 \(2:1\), included extra note "only produce particle when final explosion connects"
 * Ningguang: 3~4 \(1:9\) -&gt; 3~4 \(3:2\)
 * Razor Tap E: 2~3 \(1:9\) -&gt; 3 \(-\)
 * Razor Hold E: 3~4 \(1:9\) -&gt; 4 \(-\)

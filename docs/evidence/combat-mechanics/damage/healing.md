@@ -19,7 +19,7 @@ search: false
 Outgoing and incoming healing bonuses are additive.
 
 **Evidence:**  
-[Video](https://youtu.be/yJMPaWKCCbA) Barbara with 9419 health, level 7 skill, 4-Piece maidens, and Hydro resonance. Assuming outgoing and incoming are additive, Barbara would heal for `((9419 * 0.06) + 664) * (1 + 0.15 + 0.20 + 0.30) = 2028.081` which video confirms.
+[Video](https://youtu.be/yJMPaWKCCbA) Barbara with 9419 health, level 7 skill, 4pc maidens, and hydro resonance. Assuming outgoing and incoming are additive, Barbara would heal for `((9419 * 0.06) + 664) * (1 + 0.15 + 0.20 + 0.30) = 2028.081` which video confirms.
 
 **Significance:**  
 The two are additive.

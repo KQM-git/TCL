@@ -34,9 +34,9 @@ From what I can tell \(complaints about it on Hoyolab\), this has been in the ga
 
 **By:** Cola\#6861
 
-I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are Anemo which will Swirl the Electro debuff on the enemy.
+I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are anemo which will swirl the electro debuff on the enemy.
 
-Upon testing, as expected: it works, and yes Lightning Smite also CRITs!
+Upon testing, as expected: it works, and yes Lightning Smite also crits!
 
 **Evidence:**
 
@@ -107,7 +107,7 @@ N1 bug is real and very annoying, however there are consistent ways to work arou
 **Added:** <Version date="2021-12-13" />  
 **Last tested:** <VersionHl date="2021-12-13" />
 
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918183951598759957_919808593459560488_transcript-sucrose-Particle-tech.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918183951598759957_919808593459560488_transcript-sucrose-particle-tech.html)
 
 **Findings:** Particles of Sucrose's Elemental Skill are created where Sucrose is facing (instead of the enemy location) if you dash cancel her E animation.
 
@@ -122,7 +122,7 @@ N1 bug is real and very annoying, however there are consistent ways to work arou
 **By:** Charisma\#5567  
 **Added:** <Version date="2022-01-16" />  
 **Last tested:** <VersionHl date="2022-01-16" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930539967854305331_932074343796715571_transcript-sucrose-skill-and-Freezee-petrify-omen-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930539967854305331_932074343796715571_transcript-sucrose-skill-and-freeze-petrify-omen-interaction.html)
 
 **Finding:**  
 Sucrose Elemental Skill, _Astable Anemohypostasis Creation - 6308_, does not knock up Frozen and Petrified enemies. Light Suction will occur instead, much like how her Burst currently works with Frozen and Petrified Enemies.
@@ -151,17 +151,17 @@ Comparison Cases: Enemies are Frozen/Petrified
   _Note: Unachievable in single player unless one has Zhongli C4._
 
 **Significance:**  
-Sucrose skill can be used with Freezee/petrify and the enemies will not be knocked up or away. Sucrose skill can also possibly be used in conjunction with effects that rely on enemy's poise not being broken, namely Mona's Omen-- provided that the enemy remains Frozen/petrified.
+Sucrose skill can be used with freeze/petrify and the enemies will not be knocked up or away. Sucrose skill can also possibly be used in conjunction with effects that rely on enemy's poise not being broken, namely Mona's Omen-- provided that the enemy remains frozen/petrified.
 
 ### Sucrose E No Particles Bug
 
 **By:** Charisma#5567  
 **Added:** <Version date="2022-01-27" />  
 **Last tested:** <VersionHl date="2022-01-27" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933112665587462214_936237943331373086_transcript-sucrose-e-no-Particles-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933112665587462214_936237943331373086_transcript-sucrose-e-no-particles-bug.html)
 
 **Finding:**  
-If you dash cancel Sucrose E and switch characters too fast, no Particles will be generated.  
+If you dash cancel Sucrose E and switch characters too fast, no particles will be generated.  
 _credits to fragile💤#7777 for finding and documenting the first instance of this bug._
 
 **Evidence:**
@@ -176,7 +176,7 @@ _credits to fragile💤#7777 for finding and documenting the first instance of t
   [YouTube](https://www.youtube.com/watch?v=g-0pGGYHTgo)
 
 **Significance:**  
-For those who still want the Particles while doing Sucrose E dash cancel (this is mostly for pre-funnelling Xiao, but could be useful in other situations), have skill issue and stay on Sucrose a bit longer before switching characters.  
+For those who still want the particles while doing Sucrose E dash cancel (this is mostly for pre-funnelling Xiao, but could be useful in other situations), have skill issue and stay on Sucrose a bit longer before switching characters.  
 This might also be a bug on other characters when they dash cancel their skills...
 
 ### Sucrose E Dash E Bug
@@ -204,7 +204,7 @@ Making frame-perfect dash cancels isn't always a good thing. When doing E dash E
 **Last tested:** <VersionHl date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904089904416436264_920907095434473512_transcript-sucrose-absorbed-damage-simultaneous-or-sequential.html)
 
-**Finding:** The damage from Anemo and the absorbed Element in Sucrose's Burst ticks happen simultaneously.
+**Finding:** The damage from Anemo and the absorbed element in Sucrose's Burst ticks happen simultaneously.
 
 **Evidence:**  
 VV/Swirl testing: [Video](https://youtu.be/88FnnTmL2Hg),
@@ -213,13 +213,13 @@ An enemy was applied Pyro. Sucrose Burst was set up so it would absorb Pyro befo
 
 * The first tick of the Burst Swirled the enemy with the Pyro aura and dealth Anemo and Pyro damage to both.
 * The enemy with a Pyro aura was dealt 108 Pyro, 1031 Anemo, with 2262 Pyro Swirl.
-* The other enemy was dealth 241 Pyro (CRIT), 1031 Anemo, with 1770 Pyro Swirl. The non-CRIT DMG would be 84 Pyro damage.  
-  This shows that the VV shred from the Swirl damage of Swirl reactions was applied after all the talent damage from the Burst. The VV shred from the Swirl reaction itself is still applied to the single-target before the talent damage.
+* The other enemy was dealth 241 Pyro (crit), 1031 Anemo, with 1770 Pyro Swirl. The non-crit damage would be 84 Pyro damage.  
+  This shows that the VV shred from the Swirl damage of Swirl reactions was applied after all the talent damage from the Burst. The VV shred from the Swirl reaction itself is still applied to the single target before the talent damage.
 
 This was inconclusive, and there were two theories:
 
-* Anemo and the absorbed Element are simultaneous, and AoE Swirl damage comes after the rest of damage is dealt.(Meaning it is also after when debuffs from reactions are applied).
-* Anemo and the absorbed Element are sequential instances of damage, but AoE Swirls creates new instances of damage that are calculated after all instances of talent damage are finished calculating(and reacting).
+* Anemo and the absorbed element are simultaneous, and AoE Swirl damage comes after the rest of damage is dealt.(Meaning it is also after when debuffs from reactions are applied).
+* Anemo and the absorbed element are sequential instances of damage, but AoE Swirls creates new instances of damage that are calculated after all instances of talent damage are finished calculating(and reacting).
 
 Raining Anemo Hypostasis Testing
 
@@ -229,7 +229,7 @@ Raining Anemo Hypostasis Testing
 * Sucrose's Burst that has absorbed Hydro causes a single Swirl reaction on the Anemo Hypostasis while it is raining.
   [Some Proselytizer\#8340](https://youtu.be/AGLqrDXaD0A)
 
-As there was only a single reaction, unlike the expected two Swirls if Sucrose's Burst was sequential, there is a strong argument to say that the damage from the Anemo and the absorbed Element in her Burst are simultaneous.
+As there was only a single reaction, unlike the expected two Swirls if Sucrose's Burst was sequential, there is a strong argument to say that the damage from the Anemo and the absorbed element in her Burst are simultaneous.
 
 **Significance:** We better understand Sucrose's kit and how attacks in general work.
 
@@ -237,12 +237,12 @@ As there was only a single reaction, unlike the expected two Swirls if Sucrose's
 
 ### A1: Catalyst Conversion
 
-#### Sucrose's A1 talent does not proc on Swirling environmental objects and Gouba
+#### Sucrose's A1 talent does not proc on swirling environmental objects and guoba
 
 **By:** Katsune\#4691  
 **Added:** <Version date="2021-10-17" />  
 **Last tested:** <VersionHl date="2021-10-17" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898471465438027806_898489236662132756_transcript-sucrose-a1-doesnt-proc-on-Swirling-Goubaenvironmental-objects.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898471465438027806_898489236662132756_transcript-sucrose-a1-doesnt-proc-on-swirling-guobaenvironmental-objects.html)
 
 **Findings:**  
 Sucrose's A1 talent, Catalyst Conversion, does not proc on Swirling Guoba or environmental objects.
@@ -253,7 +253,7 @@ Sucrose's A1 talent, Catalyst Conversion, does not proc on Swirling Guoba or env
 * [Swirling off Cooking Pot](https://youtu.be/RWBMCpfH47E)
 
 **Significance:**  
-For double Swirl setups involving Guoba (Sucrose/Bennett/XL/XQ or Sucrose/Bennett/XL/Childe), Sucrose's A1 talent will not benefit Xiangling unless you Swirl Pyro off of the enemy.
+For double swirl setups involving Guoba (Sucrose/Bennett/XL/XQ or Sucrose/Bennett/XL/Childe), Sucrose's A1 talent will not benefit Xiangling unless you swirl pyro off of the enemy.
 
 #### Sucrose's EM share on multiswirl is dynamic
 
@@ -263,10 +263,10 @@ For double Swirl setups involving Guoba (Sucrose/Bennett/XL/XQ or Sucrose/Bennet
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894468808285225000_898898697084108830_transcript-sucrose-em-share-on-multiswirl-is-dynamic.html)
 
 **Findings:**  
-The amount of EM shared by Sucrose's A4 Talent, Mollis Favonius in multiple Swirl scenarios is dynamic.
+The amount of EM shared by Sucrose's A4 Talent, Mollis Favonius in multiple swirl scenarios is dynamic.
 
 **Evidence:**  
-In the video, Yanfei has 0 EM while Sucrose has 706 EM. If Sucrose's EM share is snapshotted based on the amount of EM she had on Q cast, then Yanfei should have 141+120=261 EM. However, Yanfei had 141+120+24=285 EM instead, whereby the extra 24 EM was derived from 20% of the Instructor 4-Piece bonus. [Instructor 4-Piece](https://youtu.be/QX2_CBysbU8)
+In the video, Yanfei has 0 EM while Sucrose has 706 EM. If Sucrose's EM share is snapshotted based on the amount of EM she had on Q cast, then Yanfei should have 141+120=261 EM. However, Yanfei had 141+120+24=285 EM instead, whereby the extra 24 EM was derived from 20% of the Instructor 4-piece bonus. [Instructor 4-Piece](https://youtu.be/QX2_CBysbU8)
 
 In the video, Yanfei has 0 EM while Sucrose has 525 EM. If Sucrose's EM share is snapshotted, Yanfei will have 105+50=155 EM. However, Yanfei had 105+50+48=203 EM instead, whereby the extra 48 EM was derived from 20% of the 240 EM Widsth Buff. [Widsth R1 Buff](https://youtu.be/LwzfGdJHICs)
 
@@ -281,12 +281,12 @@ More flexible rotations and Sucrose does not need to be buffed before using her 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_879730262802575390_881737206165823498_transcript-off-field-sucrose-triggers-passives.html)
 
 **Findings:**  
-Sucrose's A1 Passive, A4 Passive, and C6 effect can be triggered even when she is off-field.
+Sucrose's A1 passive, A4 passive, and C6 effect can be triggered even when she is off-field.
 
 **Evidence:** [YouTube](https://youtu.be/Fl3j9rp0N90)
 
 **Significance:**  
-More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*element you want to buff*] and continue with the rest of your rotations without having to imbue Element first before Sucrose moves.
+More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*element you want to buff*] and continue with the rest of your rotations without having to imbue element first before Sucrose moves.
 
 #### A1 Triggers on Chain Reaction Swirls
 
@@ -339,7 +339,7 @@ Sucrose can utilize her A1 buff even when Swirling off of objects, as long as th
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917957994048782336_919114773902290964_transcript-sucrose-a1-trigger-mechanics.html)
 
 **Finding:**  
-Swirls caused by the absorbed Element in Sucrose's Burst can trigger her A1.
+Swirls caused by the absorbed element in Sucrose's Burst can trigger her A1.
 
 **Evidence:**  
 Infusing Sucrose Burst with Beidou hold Skill vs Anemo Cube: [YouTube](https://youtu.be/iwmDccAyoVA)
@@ -367,7 +367,7 @@ When will we get more Anemo auras on enemies...
 [Instructor buff post](https://www.youtube.com/watch?v=msWr5X0Rrvw)
 
 * Using Sucrose A4 gives 16 EM to other party members. This is expected.
-* Causing a Swirl reaction further gives party members 170 EM (120 from instructor, 50 from A2) and 120 to Sucrose.
+* Causing a swirl reaction further gives party members 170 EM (120 from instructor, 50 from A2) and 120 to Sucrose.
 * If A4 did not snapshot, total EM on party members would be 210 instead of 186.
 
 [Instructor buff pre](https://www.youtube.com/watch?v=xXH_wWKpZg4)
@@ -443,11 +443,11 @@ This very slightly makes on field enabler Sucrose comps better, as swapping on S
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840099295344197632_840821871901540362_transcript-sucrose-c6-buff-timer.html)
 
 **Finding:**  
-The buff provided by Sucrose's Constellation 6 \(granting party members a 20% Elemental DMG Bonus based on which Element is absorbed by Sucrose's Burst\) lasts for 10 seconds.
+The buff provided by Sucrose's Constellation 6 \(granting party members a 20% Elemental DMG Bonus based on which element is absorbed by Sucrose's burst\) lasts for 10 seconds.
 
 **Evidence:** [https://www.youtube.com/watch?v=VNVnsEdh29c](https://www.youtube.com/watch?v=VNVnsEdh29c)
 
-The first test in the video establishes that the Sucrose in question has her Constellation 6 active, and that the buff arrows on Sucrose correspond to a 20% Pyro DMG Bonus from her Burst absorbing Pyro from Guoba.
+The first test in the video establishes that the Sucrose in question has her Constellation 6 active, and that the buff arrows on Sucrose correspond to a 20% Pyro DMG Bonus from her burst absorbing Pyro from Guoba.
 
 The second test shows that, as soon as Sucrose's Elemental Burst absorbs Pyro, Sucrose gets buffed, which lasts for 10 seconds.
 
@@ -458,7 +458,7 @@ Teams with C6 Sucrose can plan their absorption time around when they want to ut
 
 ## Synergies/Interactions
 
-### Gambler's 4-Piece effect can stack with sacrificial weapons to refresh two of sucrose's skill charges simultaneously
+### Gambler's 4pc effect can stack with sacrificial weapons to refresh two of sucrose's skill charges simultaneously
 
 **By:** Faranight\#0001
 
@@ -517,19 +517,19 @@ As we can see from the images, Albedo's A4 must be active when Sucrose triggers 
 
 [**https://imgur.com/a/2ljFQHq**](https://imgur.com/a/2ljFQHq) **\(A1+A4 while in Diona's Burst, Sucrose on field\)**
 
-**Significance:** This means if you pair Diona into your team, you can either stack even more Elemental Mastery towards your team as Sub-DPS, or you can allocate your Sucrose stats to DPS while not losing too much EM into the team. This only works inside Diona's Burst range, get out of it and the buff is gone. Also the other characters can get the additional 200EM increase if you switch on top of the stack buff.  
-So in essence, Diona's em stacks twice. Same theorem works for Albedo's Burst as well and adding both of them altogether works too but as above, use Albedo first.  
+**Significance:** This means if you pair Diona into your team, you can either stack even more Elemental Mastery towards your team as Sub-DPS, or you can allocate your Sucrose stats to DPS while not losing too much EM into the team. This only works inside Diona's burst range, get out of it and the buff is gone. Also the other characters can get the additional 200EM increase if you switch on top of the stack buff.  
+So in essence, Diona's em stacks twice. Same theorem works for Albedo's burst as well and adding both of them altogether works too but as above, use Albedo first.  
 The above suggests the formula for final EM for a buffed party member after Sucrose’s A1 and A4 is  
 50 + \[\(&lt;sucrose em&gt; + &lt;additional party em buffs&gt;\)×0.2\] + &lt;additional em buffs&gt;.
 
-### Sucrose Freezee and petrify Burst interaction
+### Sucrose freeze and petrify burst interaction
 
 **By:** hz\#4084  
 **Added:** <Version date="2021-05-23" />  
 **Last tested:** <VersionHl date="2021-05-23" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839639101825089556_845824358214795324_transcript-sucrose-q-cc-and-Freezee-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839639101825089556_845824358214795324_transcript-sucrose-q-cc-and-freeze-interaction.html)
 
-**Findings:** Sucrose's Burst normally pulls smaller enemies towards the center, and knocks back all enemies with each pulse. Freeze and petrify prevents the knockback but does not prevent the SUCC on smaller enemies.
+**Findings:** Sucrose's burst normally pulls smaller enemies towards the center, and knocks back all enemies with each pulse. Freeze and petrify prevents the knockback but does not prevent the SUCC on smaller enemies.
 
 **Evidence:**
 
@@ -537,7 +537,7 @@ The above suggests the formula for final EM for a buffed party member after Sucr
 * Example on larger enemy: [Link](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/sucrose.md/discord/attachments_839639101825089556_839639679774883840_Genshin_Impact_2021.05.06_-_00.59.11.06.mp4)
 * Petrify: [Link](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/sucrose.md/discord/attachments_839639101825089556_839650961516527658_Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
 
-**Significance:** Sucrose's Burst can be used in conjunction with Freezee or petrify to group enemies very tightly together without knocking them away from the center.
+**Significance:** Sucrose's Burst can be used in conjunction with freeze or petrify to group enemies very tightly together without knocking them away from the center.
 
 ### Kazuha And Sucrose Interaction
 

@@ -6,7 +6,7 @@ search: false
 
 <Card item={require('../../combat-mechanics/spiral-domains/ley-line-disorders.md')} />
 
-## Ley Line aura Duration
+## Ley Line Aura Duration
 
 **By:** Monochrom9\#8058, Carrier5by5\#8394, Zeitraffer\#1074, muakasan\#2792, Asaki\#9139, Pitty Pat\#0286, Kimaen\#3382  
 **Added:** <Version date="2021-06-03" />  
@@ -14,7 +14,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804180847497314334_850175158378561556_transcript-leyline-auraduration.html)
 
 **Findings:**  
-Leylines auras and duration documentation have been compiled in the video demos below. Additionally, a bug with the Smoldering Flames leyline has a current bug that applies Pyro gauges to the active character unintentionally.
+Leylines auras and duration documentation have been compiled in the video demos below. Additionally, a bug with the Smoldering Flames leyline has a current bug that applies pyro gauges to the active character unintentionally.
 
 **Evidence:**
 

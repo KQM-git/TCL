@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 66% HP       | 1 Particle  | common  |
-| 33% HP       | 1 Particle  | common  |
-| Death        | 2 Particles | common  |
+| 66% HP       | 1 particle  | common  |
+| 33% HP       | 1 particle  | common  |
+| Death        | 2 particles | common  |
 
 ## Resistance Table
 

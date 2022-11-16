@@ -16,21 +16,21 @@ search: false
 
 **By:** Neptunya\#8291
 
-**Finding:** The shield C2 Xinyan creates on Burst can proc Sac GS's passive.
+**Finding:** The shield C2 Xinyan creates on burst can proc Sac GS's passive.
 
 **Evidence:** [https://youtu.be/Q_5qqGYf8DI](https://youtu.be/Q_5qqGYf8DI)
 
-**Significance:** More chances for sacrificial procs never hurts. Also, there's less worry if you want to pop skill when sac GS is on CD or if the passive doesn't proc at all, because Burst can also proc sac GS if your Xinyan is C2.
+**Significance:** More chances for sacrificial procs never hurts. Also, there's less worry if you want to pop skill when sac GS is on CD or if the passive doesn't proc at all, because burst can also proc sac GS if your Xinyan is C2.
 
 ## Xinyan C6 affects her Skill and Burst
 
 **By:** Nass008\#8577  
 **Added:** <Version date="2021-10-31" />  
 **Last tested:** <VersionHl date="2021-10-31" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903997513890136085_904063136171167795_transcript-xinyan-c6-affects-skill-and-Burst.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903997513890136085_904063136171167795_transcript-xinyan-c6-affects-skill-and-burst.html)
 
 **Finding:**  
-Xinyan C6 affects her Skill and Burst. The un-game description for Xinyan's C6 states that “Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.” However, the buff is simply added to the stats page as flat attack. Since Xinyan’s elemental skill and Burst are dynamic, C6 buff can increase their damage.
+Xinyan C6 affects her Skill and Burst. The un-game description for Xinyan's C6 states that “Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.” However, the buff is simply added to the stats page as flat attack. Since Xinyan’s elemental skill and burst are dynamic, C6 buff can increase their damage.
 
 **Evidence:**
 
@@ -57,9 +57,9 @@ At 60 FPS, with prior Lv1/2 shield, it has extra pulses: [YouTube](https://www.y
 At 60 FPS, with prior Lv3 shield, it has extra pulses: [YouTube](https://www.youtube.com/watch?v=ZnjFrjQcct4)  
 At 60 FPS, it pulses 3 times during her Burst: [YouTube](https://www.youtube.com/watch?v=tZcOfUPlFxo)  
 At 30 FPS, it pulses once during her Burst: [YouTube](https://www.youtube.com/watch?v=dFddHesfwZQ)  
-At 30 FPS, it may pulse twice during her Burst: [YouTube](https://youtu.be/RfAgpS-mD2U)  
+At 30 FPS, it may pulse twice during her burst: [YouTube](https://youtu.be/RfAgpS-mD2U)  
 Further evidence showing FPS is not the only deciding factor (15 FPS, usually pulses once, rarely pulses twice): [YouTube](https://www.youtube.com/watch?v=F1oQq3SZfDg)  
-Further evidence showing one pulse causing one Cryo shield Melt at 30fps: [YouTube](https://www.youtube.com/watch?v=dUnJg6940ws)  
-Further evidence showing three pulses causing three Cryo shield Melts at 60fps: [YouTube](https://www.youtube.com/watch?v=cYc0MLsZh-Y)
+Further evidence showing one pulse causing one cryo shield melt at 30fps: [YouTube](https://www.youtube.com/watch?v=dUnJg6940ws)  
+Further evidence showing three pulses causing three cryo shield melts at 60fps: [YouTube](https://www.youtube.com/watch?v=cYc0MLsZh-Y)
 
 **Significance:** This causes Xinyan's Q to deal a tiny bit more damage than expected at C2, and thanks to her shield pulses not having an ICD, may allow players that are able to play at a higher frame-rate to overtake other elemental auras more easily. For calculations, 2 pulses should be assumed as that is the most common. Additionally, this shows that differences in frame rate can have an effect on individual skills, which may warrant further investigation.

@@ -18,7 +18,7 @@ search: false
 
 ## Attack Mechanics
 
-### Keqing N4 has no i-frame
+### Keqing N4 has no iframe
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
@@ -31,7 +31,7 @@ Keqing's N4 doesn't actually give i-frames or makes her invulnerable when she's 
 **Evidence:**  
 [YouTube](https://youtu.be/dgldXSK-BuI): Classic Ruin Guard dodge  
 [YouTube](https://youtu.be/4uHvhFUbsa4): Keq taking damage during N4  
-[YouTube](https://youtu.be/Bkf8ta97Ffo): Keq Freezeing while invisible  
+[YouTube](https://youtu.be/Bkf8ta97Ffo): Keq freezing while invisible  
 [YouTube](https://youtu.be/vzIA-7M_EJA): Keq N4 ft. Seelie, shadow, shield, buffs
 
 **Significance:**  
@@ -55,7 +55,7 @@ It is possible for Keqing to perform a Dragonstrike from her second cast of her 
 **Significance:**  
 Not particularly significant, but it is an interesting tech that can lead to satisfying combos if executed right.
 
-### Hurling the Stiletto does not generate Particles
+### Hurling the Stiletto does not generate particles
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
@@ -63,20 +63,20 @@ Not particularly significant, but it is an interesting tech that can lead to sat
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
-Keqing's Elemental Skill is comprised of the hurling a Lightning Stiletto and the accompanying action she does (if any) after hurling it. The act of hurling the Stiletto places a Mark on the spot hit, but does not generate any Particle.
+Keqing's Elemental Skill is comprised of the hurling a Lightning Stiletto and the accompanying action she does (if any) after hurling it. The act of hurling the Stiletto places a Mark on the spot hit, but does not generate any particle.
 
-Keqing can generate Particles from her Elemental Skill if she uses:
+Keqing can generate particles from her Elemental Skill if she uses:
 
 1. Stellar Restoration (E) again, therefore teleporting to the location of the Mark and performing a slash attack
 2. Or a Charged Attack (CA) to ignite a series of thundering cuts at the Mark's location.
 
-Both of these actions produce Particles at Keqing's location, rather than the target location.
+Both of these actions produce particles at Keqing's location, rather than the target location.
 
 **Evidence:**  
 [YouTube](https://youtu.be/pLs4xDU8dEc): Just Keqing spamming E.
 
 **Significance:**  
-Her Particle generation is locked behind the second parts of her Skill. Either action can produce Particles. If she fails to use E or CA before the Mark expires, she will not generate any Particle from her Skill.
+Her particle generation is locked behind the second parts of her Skill. Either action can produce particles. If she fails to use E or CA before the Mark expires, she will not generate any particle from her Skill.
 
 ### Aiming and releasing E too fast can transform it into a Press E effect
 
@@ -208,7 +208,7 @@ Some technical stuff. Kinda poggers.
 
 ## Burst Mechanics
 
-### Starward Sword can be Burst-cancelled
+### Starward Sword can be burst-cancelled
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
@@ -216,7 +216,7 @@ Some technical stuff. Kinda poggers.
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
-Keqing's Q, Starward Sword, can be Burst-cancelled. This means that it is possible to interrupt Keqing before the Burst can actually go through, and doing so can trigger special effects associated with Burst activation, such as her Ascension 4 Passive that gives CRIT Rate and ER.
+Keqing's Q, Starward Sword, can be burst-cancelled. This means that it is possible to interrupt Keqing before the Burst can actually go through, and doing so can trigger special effects associated with Burst activation, such as her Ascension 4 Passive that gives Crit Rate and ER.
 
 Burst cancelling Keqing like this does not actually use up her Energy, put the Burst on cooldown, nor does it deal damage. However, it can potentially lock Keqing in place momentarily, where attempted movement can result to rapid spinning.
 
@@ -230,15 +230,15 @@ Very poggers. Free Burst!
 
 ### A4: Aristocratic Dignity
 
-#### A4 CRIT Rate and ER Buff Duration
+#### A4 Crit Rate and ER Buff Duration
 
 **By:** r.rei\#2844  
 **Added:** <Version date="2021-11-10" />  
 **Last tested:** <VersionHl date="2021-11-10" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_907135831649685504_907902798795014194_transcript-keqing-CRIT-buff-duration.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_907135831649685504_907902798795014194_transcript-keqing-crit-buff-duration.html)
 
 **Finding:**  
-Keqing's CRIT Rate and ER buff duration from A4 includes Burst animation time.
+Keqing's Crit Rate and ER buff duration from A4 includes burst animation time.
 
 **Evidence:**  
 [Stats page on Burst cast, and 8 seconds after cast](https://youtu.be/5nZrQLy9QDk)
@@ -246,7 +246,7 @@ Keqing's CRIT Rate and ER buff duration from A4 includes Burst animation time.
 * Buff duration ends around 5 seconds after Burst animation.
 
 **Significance:**  
-Keqing's A4 is often misunderstood because the buff duration starts at the beginning of her Burst animation, and therefore only lasts 5 seconds after as her Burst animation is 3 seconds long.
+Keqing's A4 is often misunderstood because the buff duration starts at the beginning of her burst animation, and therefore only lasts 5 seconds after as her burst animation is 3 seconds long.
 
 ## Constellation Mechanics
 
@@ -303,7 +303,7 @@ E1 - C1start - C1terminus - E2
 [YouTube](https://youtu.be/XTXQ30QguLA): Check the last hilichurl. There's also a final clip in the video that can be paused to check which damage numbers pop up.
 
 **Significance:**  
-This means that it is possible for Keqing to hit up to 3 times before hitting E2, which is relevant because it is E2 that generates Energy. If a target dies before E2, then no Energy is generated. The ordering can potentially affect calcs or something similar, maybe even for future characters that only buff certain amount of hits.
+This means that it is possible for Keqing to hit up to 3 times before hitting E2, which is relevant because it is E2 that generates energy. If a target dies before E2, then no energy is generated. The ordering can potentially affect calcs or something similar, maybe even for future characters that only buff certain amount of hits.
 
 ### C2: Keen Extraction
 
@@ -324,10 +324,10 @@ Table showing when C2 procs were observed: [Imgur](https://imgur.com/a/paATz9q)
 
 Hypothesis on how C2 currently works by Isu#6867:
 
-* Even when Keqing's C2 has generated a Particle within the last 5 seconds, any subsequent NA/CA hit on an Electro-aura enemy has a 50% chance to reset the cooldown back to 5 seconds by reapplying the same modifier that was used to generate the Particle.
+* Even when Keqing's C2 has generated a particle within the last 5 seconds, any subsequent NA/CA hit on an electro-aura enemy has a 50% chance to reset the cooldown back to 5 seconds by reapplying the same modifier that was used to generate the particle.
 
 **Significance:**  
-Calculating Keqing Energy needs with C2 in mind is hard to do with its inconsistent nature.
+Calculating Keqing energy needs with C2 in mind is hard to do with its inconsistent nature.
 
 ## Interactions/Synergies
 
@@ -418,13 +418,13 @@ PS:
 
 **Finding:**
 
-「Starward Sword」is always a DPS gain for Electro Keqing as it matches her strongest string \(N1C\). For Physical Keqing however, versus a single-target it may depend, however versus multiple it's definitely worth doing.
+「Starward Sword」is always a DPS gain for Electro Keqing as it matches her strongest string \(N1C\). For Physical Keqing however, versus a single target it may depend, however versus multiple it's definitely worth doing.
 
 Blinking with 「Stellar Restoration」does less damage than doing an E-&gt;N1C, so the only time you might consider it for Physical Keqing is as a gap closer however the DPS loss of no longer getting Phys bonuses may not be worth it. For Electro Keqing as it enables Normal and Charge attacks to be converted to Electro this is a no brainer.
 
 **Evidence and Methodology:**
 
-By use of the graying of the character bench, elemental skill, and elemental Burst as keyframes, total frames and MV/s are calculated.
+By use of the graying of the character bench, elemental skill, and elemental burst as keyframes, total frames and MV/s are calculated.
 
 All Talent % Taken at T6
 
@@ -458,7 +458,7 @@ All Talent % Taken at T6
 * When comparing 4N1C to Q, 4N1C has superior DPS against a singular opponent, whereas Q has superior DPS against multiple opponents. The reason why these 2 combos are compared is because they take up nearly the same number of frames.
 * Therefore, AutoKeq should level Q and autoattacks \(Yunlai Swordsmanship\) together and leave E at level 6.
   * The above state comparing 4N1C to Q should apply even if Q does not get the physdmg% bonuses that 4N1C does.
-    * In exchange, Q gives i-frame, stamina regen time, 15% CRIT Rate, a slightly higher MV/s than 4N1C, and AoE damage
+    * In exchange, Q gives i-frame, stamina regen time, 15% crit rate, a slightly higher MV/s than 4N1C, and AoE damage
 * Therefore, ElectroQueen should level Q and autoattacks together and leave E at level 6
   * As you can see, even when C1 extra damage instances to Stellar Restoration Blink is accounted for, the MV/s is similar to 4N1C and actually worse if you only get 1 out of 2 instances \(this happens quite often due to bugged hitboxes\).
   * E motion values do not scale well even with C1. Leave it at level 6
