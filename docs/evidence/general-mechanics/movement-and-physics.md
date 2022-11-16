@@ -240,19 +240,19 @@ f = (a, b) => Math.sqrt((a.x - b.x) ** 2 + (a.z - b.z) ** 2);
 sp = { x: 2556.41943359375, y: 226.09994506835938, z: 99.05547332763672 };
 // no bonus end
 ap = { x: 2447.570068359375, y: 226.08108520507812, z: 59.62977981567383 };
-// Anemo end
+// anemo end
 bp = { x: 2438.5205078125, y: 226.08163452148438, z: 56.352020263671875 };
 // c6 amber
 cp = { x: 2433.970947265625, y: 226.0803680419922, z: 54.70412063598633 };
-// Anemo + c2 jean
+// anemo + c2 jean
 dp = { x: 2422.114013671875, y: 226.08883666992188, z: 50.40952682495117 };
-// Anemo + rosaria + c2 jean
+// anemo + rosaria + c2 jean
 ep = { x: 2411.67822265625, y: 226.0984649658203, z: 46.56678771972656 };
-// Anemo + rosaria + c6 amber
+// anemo + rosaria + c6 amber
 fp = { x: 2413.02001953125, y: 226.0989227294922, z: 47.11567687988281 };
-// Anemo + rosaria + c2 jean + c6 amber - ~1s downtime due to c6 amber
+// anemo + rosaria + c2 jean + c6 amber - ~1s downtime due to c6 amber
 gp = { x: 2407.254638671875, y: 226.0986328125, z: 45.02743911743164 };
-// Anemo + rosaria
+// anemo + rosaria
 HP = { x: 2427.69140625, y: 226.08416748046875, z: 52.35829162597656 };
 
 qd = f(sp, ap);

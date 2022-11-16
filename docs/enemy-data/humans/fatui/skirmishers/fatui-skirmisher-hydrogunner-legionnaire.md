@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 66% HP       | 2 particles | Hydro   |
-| 33% HP       | 2 particles | Hydro   |
-| Death        | 2 particles | Hydro   |
+| 66% HP       | 2 particles | hydro   |
+| 33% HP       | 2 particles | hydro   |
+| Death        | 2 particles | hydro   |
 
 ## Resistance Table
 

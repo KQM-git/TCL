@@ -444,7 +444,7 @@ Likely to be a bug.
 Link [here](https://docs.google.com/spreadsheets/d/1O9SeEyS2uOnjYLEJ0d5E6TUxabp7fgyc6MGlSMJBsw0/edit)
 
 * All ICDs are enemy-specific.
-  * For example, Oz normally has a shared ICD between his 1-7th hits. If he hits a different target for each hit, Electro aura will be applied each time.
+  * For example, Oz normally has a shared ICD between his 1-7th hits. If he hits a different target for each hit, electro aura will be applied each time.
 
 ## All Characters Elemental Gauge Unit Database
 

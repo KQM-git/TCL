@@ -966,17 +966,17 @@ Bubble Damage is considered as Physical Damage and can be boosted by Superconduc
 HP = 20175  
 Healing Bonus = 40%  
 T6 E = 6.2% HP + 671  
-Ruin Guard = 70% Physical resistance  
+Ruin Guard = 70% physical resistance  
 Number of E Procs = 1
 
 * [Clip showed the bubble deal 729 damage](https://youtu.be/K0FlJWzhG8w)  
   `((20175 * 0.062) + 671) * 1.4 * 0.9 * 0.3 = 726.4593`
 * [Youtube](https://youtu.be/82ueCZNlclk)
   * The first clip with SC showed the bubble deal 1687 damage  
-    Superconduct = -40% Physical resistance  
+    Superconduct = -40% physical resistance  
     `((20175 * 0.062) + 671) * 1.4 * 0.9 * 0.7 = 1695.0717 `
   * The second clip with Zhongli Shred showed the bubble deal 1205 damage
-    Zhongli Shred = -20% Physical resistance  
+    Zhongli Shred = -20% physical resistance  
     `((20175 * 0.062) + 671) * 1.4 * 0.9 * 0.5 = 1210.7655`
 
 ### All Healing by Set Wielder Affects Bubble Damage Including Overflow
@@ -996,7 +996,7 @@ All healing coming from the set wielder gets calculated for the Bubble Damage in
   HP = 20175  
   Healing Bonus = 40%  
   T6 Q = 1.13% HP + 122  
-  Ruin Guard = 70% Physical resistance  
+  Ruin Guard = 70% physical resistance  
   Number of NA Hits while Q is activated = 1
 
 Clip #1 - Solo Kokomi  
@@ -1398,7 +1398,7 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to K
 * There are only 2 conditions for KQ to trigger E CDR in the context of  Electro-Charged.
   * 4TF must not be on CD \(0.8s ICD\)
   * KQ must apply an Electro elemental source to an enemy with existing Hydro aura.
-* Therefore, 4TF is actually not hampered by  Electro-Charged’s 1 second ICD. As long as you can keep constant Hydro aura on the enemy you can switch between different elemental sources \(E1, E2, Electro-imbued autoattacks, and Q\) to obtain E CDR.
+* Therefore, 4TF is actually not hampered by  Electro-Charged’s 1 second ICD. As long as you can keep constant Hydro aura on the enemy you can switch between different elemental sources \(E1, E2, electro-imbued autoattacks, and Q\) to obtain E CDR.
 
 ### 4TF Passive Triggered can be Triggered on Non-Damaging Elemental Applications
 
@@ -1473,7 +1473,7 @@ Test 2 - Tiara on, both set slots filled, tiara buff not showing - Pyro debuff l
 
 Test 3 - Tiara on, buff showing - Pyro debuff lasts 25 seconds
 
-Test 4 - Tiara on, buff showing, Hydro resonance up - Pyro debuff lasts for only 8 seconds.
+Test 4 - Tiara on, buff showing, hydro resonance up - Pyro debuff lasts for only 8 seconds.
 
 **Conclusion:** the Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
 
@@ -1611,7 +1611,7 @@ In this video, Barbara's normals deal 34 damage when buffed by her C2 but not bu
 
 In this video, Jean does 98 Cryo damage \(infused by Chongyun\) on her normals with the VV buff, and Barbara does 41 damage with her normals with both VV and Xingqiu's C2 buff. When a Frozen target is swirled, Jean does 98 damage and Barbara does 41 damage to the target, meaning that the target received both a Hydro resistance down and Cryo resistance down debuff from a single Anemo attack.
 
-**Signifiance:** Improves rotations; Anemo characters don't need to be swapped in for each individual elemental debuff.
+**Signifiance:** Improves rotations; anemo characters don't need to be swapped in for each individual elemental debuff.
 
 ### 4-Piece Viridescent Venerer Explained
 
@@ -1798,7 +1798,7 @@ For transformative reactions, +80 EM is better than the reaction damage bonus fr
 Desmos sheet for visualization/calculations: [Desmos Link](https://www.desmos.com/calculator/7igtgtirot)
 
 **Significance:**  
-For characters building around triggering transformative reactions, if they do not utilize any other parts of the 4-Piece set bonus provided by 4CW (vape/melt boost, Pyro% increase) or 4TF (cool down reduction, elec% increase), then 2-Piece Instructor and/or 2-Piece WT may provide a larger boost to damage than the former two.
+For characters building around triggering transformative reactions, if they do not utilize any other parts of the 4-Piece set bonus provided by 4CW (vape/melt boost, pyro% increase) or 4TF (cool down reduction, elec% increase), then 2-Piece Instructor and/or 2-Piece WT may provide a larger boost to damage than the former two.
 
 ### Breakpoints for 2WT2Ins Set Bonus vs. 4VV Set Bonus
 

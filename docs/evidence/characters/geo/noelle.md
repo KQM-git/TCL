@@ -283,7 +283,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 **Enemy stats:**
 
 * Level 83
-* 70% Physical res
+* 70% physical res
 * \(90 + 100\) / \(90 + 83 + 200\) = 0.509 defense multiplier
 
 </TabItem>

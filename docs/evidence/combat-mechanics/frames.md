@@ -81,7 +81,7 @@ Q circle lasted 12s
 * 00:21:43 - CD on Chongyun's Skill hits 2.7s \(when the infusion effect _should_ end\)
 * 00:21:59 - Infused Weapon effect ends
 
-E circle lasted ~10s; Cryo infusion lasted 0.16 seconds longer than expected
+E circle lasted ~10s; cryo infusion lasted 0.16 seconds longer than expected
 
 _**Xiangling Hitlag Extension**_
 

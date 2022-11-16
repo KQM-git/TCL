@@ -101,7 +101,7 @@ Kokomi can trigger artifact effects, such as 4-Piece Heart of Depth, Shimenawa's
 4-Piece Shimenawa's Reminiscence: [Imgur](https://imgur.com/KHHgd7s)
 
 * Unbuffed N1 damage is 243.
-* After casting E and getting interrupted, buff arrows appear, Energy is consumed, and N1 does 312.
+* After casting E and getting interrupted, buff arrows appear, energy is consumed, and N1 does 312.
 
 4-Piece Crimson Witch of Flames: [Imgur](https://imgur.com/IJW2aBQ)
 

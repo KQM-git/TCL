@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 66% HP       | 2 particles | Pyro    |
-| 33% HP       | 2 particles | Pyro    |
-| Death        | 2 particles | Pyro    |
+| 66% HP       | 2 particles | pyro    |
+| 33% HP       | 2 particles | pyro    |
+| Death        | 2 particles | pyro    |
 
 ## Resistance Table
 

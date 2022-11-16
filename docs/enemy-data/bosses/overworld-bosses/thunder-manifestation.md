@@ -16,10 +16,10 @@ Eye.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 75% HP       | 1 Orb      | Electro |
-| 50% HP       | 1 Orb      | Electro |
-| 25% HP       | 1 Orb      | Electro |
-| Death        | 1 Particle | Electro |
+| 75% HP       | 1 Orb      | electro |
+| 50% HP       | 1 Orb      | electro |
+| 25% HP       | 1 Orb      | electro |
+| Death        | 1 Particle | electro |
 
 ## Resistance Table
 

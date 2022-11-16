@@ -76,7 +76,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 ### Turbo
 
-When Oz triggers Overload or Superconduct with his **Normal Attack**, he generates a Particle for each enemy hit by the reaction. This is called "**turbo**" Energy generation. By using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts. This in turn reduces the Energy recharge investment for units, which allows for more investment into damage.
+When Oz triggers Overload or Superconduct with his **Normal Attack**, he generates a Particle for each enemy hit by the reaction. This is called "**turbo**" energy generation. By using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts. This in turn reduces the Energy recharge investment for units, which allows for more investment into damage.
 
 | Number of Enemies | C0-C5 Particles | C6 Particles |
 | :---------------- | :-------------- | :----------- |

@@ -49,7 +49,7 @@ Any serial-cooldown, multi-cast Skill user may waste sacrificial procs by causin
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877833812992725043_884454377094537227_transcript-cd-reduction-double-burst.html)
 
 **Finding:**  
-With sufficient CD reduction (Chongyun's ice field, Anemo resonance, and 20% elemental Burst CD reduction from a spiral abyss card), some characters with deployable bursts can have two bursts on field simultaneously.
+With sufficient CD reduction (Chongyun's ice field, anemo resonance, and 20% elemental Burst CD reduction from a spiral abyss card), some characters with deployable bursts can have two bursts on field simultaneously.
 
 **Evidence:**  
 Video evidence and additional comments consolidated [here](https://docs.google.com/spreadsheets/d/1wNcQ_nnxpG7fD3uTlUcQw8fEWnptp_TE1MGsJDKHzKw/edit?usp=sharing) (unsuccessful characters not included)

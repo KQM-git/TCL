@@ -69,7 +69,7 @@ Conclusion: AI gets skewered under high ping
 * Special cases:
   * Hutao HP <50% bonus:
     * Hutao number check: [Video](https://youtu.be/mS5Vh9-7XnU)
-  * No 33% Pyro dmg bonus: [Video](https://youtu.be/z5IKX7LrwQQ)
+  * No 33% pyro dmg bonus: [Video](https://youtu.be/z5IKX7LrwQQ)
 
 Conclusion: DMG%, ATK%, EM buffs are updated live unless they are linked to stats that arent updated on client ie: HP thresholds
 

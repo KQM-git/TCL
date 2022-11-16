@@ -235,7 +235,7 @@ Fischl's a4 proc rate appears to be less than 1 second, and instead seems to be 
 
 [\[Video\] Appears to be about 0.5s-0.6s cooldown](https://www.youtube.com/watch?v=48Dg_i8PcYY) \(0.5s if judging from the first frame of each damage number appearing, 0.6s if judging from the first frame of the lightning bolt animation\)
 
-[\[\Video\] Using Swirl + Electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQ) \(judging from the first frame of the lightning bolt animation\)
+[\[\Video\] Using Swirl + electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQ) \(judging from the first frame of the lightning bolt animation\)
 
 **Significance:**
 

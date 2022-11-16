@@ -387,7 +387,7 @@ We now know what is the exact percentage for the cap.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904754824304787466_906425965872291860_transcript-the-dmg-increase-dvalins-dot-does-will-eventually-stop-increasing.html)
 
 **Finding:**  
-Stormterror's DoT floor attack has a damage cap. The damage is not based on the active character's HP. However, it does take into account the active character's DEF, Anemo RES, and any Damage Reduction buffs.
+Stormterror's DoT floor attack has a damage cap. The damage is not based on the active character's HP. However, it does take into account the active character's DEF, anemo RES, and any Damage Reduction buffs.
 
 **Evidence:**  
 [25121 Max HP and 789 DEF](https://youtu.be/YZV5Zr4DR5U)  
@@ -1264,10 +1264,10 @@ Better understanding of enemy and character aura management in combat with Hydro
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881262532914974720_882077997841133618_transcript-slime-balloon-mechanics.html)
 
 **Finding:**  
-Slime Balloons from commissions can only receive a Cryo aura similar to Amber’s Baron Bunny. Cryo Swirl, superconduct, freeze, forward Melt, shatter, and crystallize reactions can be triggered on them. However, superconduct does not reduce Physical resistance, Cryo Swirl with 4-Piece VV does not reduce Cryo resistance, and Freeze does not actually stop the Slime Balloon from moving.
+Slime Balloons from commissions can only receive a Cryo aura similar to Amber’s Baron Bunny. Cryo Swirl, superconduct, freeze, forward Melt, shatter, and crystallize reactions can be triggered on them. However, superconduct does not reduce Physical resistance, cryo Swirl with 4-Piece VV does not reduce Cryo resistance, and Freeze does not actually stop the Slime Balloon from moving.
 
 **Evidence:**  
-[Youtube](https://youtu.be/ohQrwzEiTUE) - Kazuha’s Skill cannot infuse Pyro, Hydro, or Electro off of the Slime Balloon:
+[Youtube](https://youtu.be/ohQrwzEiTUE) - Kazuha’s Skill cannot infuse Pyro, hydro, or Electro off of the Slime Balloon:
 
 Reactions: [Youtube](https://youtu.be/2W-3D2muB9c), [Youtube](https://youtu.be/Yj0XMOYfNCI)
 

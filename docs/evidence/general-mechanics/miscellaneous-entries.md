@@ -21,7 +21,7 @@ Certain characters have a finite vertical range for the buffs and/or infusions f
 
 **Evidence:**
 
-* Bennett has either infinite or a very long range on his Burst healing Pyro infusion from c6, Pyro dmg bonus from c6. etc.
+* Bennett has either infinite or a very long range on his Burst healing Pyro infusion from c6, pyro dmg bonus from c6. etc.
 
   * [Youtube](https://youtu.be/5EEAXYn3cn0)
 
@@ -1103,7 +1103,7 @@ Fluff.
 Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some odd properties.
 
 1. Unlike usual sources of overworld Pyro damage, like torches or burning grass or other campfires, this campfire only deals 4 damage per tick. Like other campfires, it is 1U transformative Pyro damage.
-2. The campfire has similar properties to other campfires \(hold Cryo gauge, pops Ayato E, and gets targetted by Oz if Fischl procs A1\) but does not light up under elemental sight, unlike regular campfires. This applies whether it holds Pyro, Cryo, or no Element at all.
+2. The campfire has similar properties to other campfires \(hold Cryo gauge, pops Ayato E, and gets targetted by Oz if Fischl procs A1\) but does not light up under elemental sight, unlike regular campfires. This applies whether it holds Pyro, cryo, or no Element at all.
 3. Player constructs may be placed on top of the melons, but construct placements that would intersect with the melon hitboxes are invalid. Note that the hitbox is strange and somewhat unintuitive, and does not entirely match its appearance.
 4. The melons are "slippery" in the sense that while the player may stand on them, approaching the melons with more than an arbitrary small amount of speed will cause them to slip off. For example, one may drop down onto the melons via climbing a construct, but performing a directionless jump straight up will cause the character to fall off. Character attacks, as usual, will not lead to them falling off the melons either, and neither will swapping characters.  
    This is a very strange result. First, roasted melons would not be slippery, as any surface moisture would be evaporated due to the heat of the campfire. Second, sticks usually used to skewer fruit would not be sturdy enough to support someone's weight.
@@ -1114,7 +1114,7 @@ Kuki Shinobu's melons, and the campfire she uses to roast them in particular, ha
 
 1. [4 Pyro transformative dmg \(1U\)](https://youtu.be/TbdxoFm5Wvo)
 
-2. [Elemental sight, Cryo application, 1U Pyro](https://youtu.be/7q_j4ddv2WA)
+2. [Elemental sight, cryo application, 1U Pyro](https://youtu.be/7q_j4ddv2WA)
 
 * [Fischl A1 target](https://youtu.be/qCXdsBCMADU)
 * [Ayato E pop](https://youtu.be/EcZDtToVtdc)
