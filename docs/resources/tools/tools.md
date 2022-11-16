@@ -88,3 +88,13 @@ A calculator that determines the average amount of resin needed to upgrade chara
 Calculates the effective trigger probabilities \(ETP\) and lowest CRIT Rate for desired ETP for Favonius weapons.  
 
 [Link](https://docs.google.com/spreadsheets/d/1YOTy4wxYOEIA9SEWJP8imDZYaVlSEI6IwcBk9VKvZgM/edit?usp=sharing)
+
+### Kusanali TKP Proc Calculator
+
+**By:** jas\#8888  
+**Added:** <Version date="2022-11-15" />  
+**Last updated:** <VersionHl date="2022-11-15" />  
+
+A calculator that can estimate the number of TKP procs Kusanali will get in a single rotation. It should be useful for figuring out rotations, doing damage calculations, and estimating Dendro application, among other things. The sheet contains explanations and instructions. 
+
+[Link](https://docs.google.com/spreadsheets/d/1qlgBoDvhHIJykfXjs_rO1szvNPCo49azU2FwBi3lRuA/edit?usp=sharing)
