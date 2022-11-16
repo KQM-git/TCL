@@ -1175,3 +1175,21 @@ Some characters can keep their weapons if you change them mid sheathing animatio
   
 **Significance:**  
 weapons have are in a constant state of seizure pain or pleasure.
+
+### Visual Effect That Only Shows Up When Holding Sprint
+
+**By:** aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\#3860  
+**Added:** <Version date="2022-11-08" />  
+**Last tested:** <VersionHl date="2022-10-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/visual-effect-that-only-shows-up-when-holding-sprint)  
+
+**Finding:**  
+hold sprint button while running/walking  
+gets 💨, no hold sprint no 💨 visual thing effect shows up around character  
+
+**Evidence:**  
+A 💨 visual effect shows up when i hold sprint while walking/running, and no 💨 when I don't hold sprint while holding walking/running button. formula: hold "walk" + hold "sprint" = 💨, tap "sprint" = ❌💨, hold "walk" + tap "sprint" = ❌💨  
+[YouTube](https://youtu.be/N2hLGHqSdlw)  
+
+**Significance:**  
+know how to make the cool effect show up, can make character 💨 fart...
