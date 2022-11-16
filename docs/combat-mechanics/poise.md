@@ -48,17 +48,17 @@ You can stack Poise and allow your characters to further avoid being staggered.
 
 #### Different attacks/skills have different poise damage.
 
-> Zhongli's elemental Skill does more poise damage than his N1.
+> Zhongli's elemental skill does more poise damage than his N1.
 
 #### Poise damage can change depending on the character's status.
 
-> The poise damage of Xiao's plunges increases after activating his Burst.
+> The poise damage of Xiao's plunges increases after activating his burst.
 
 #### Large level differences can reduce poise damage.
 
 > A low-level Kaeya can't knock back a level 89 Cicin Mage with his E, but a level 50 Kaeya can.
 
-#### Poise damage can stack when petrified by Zhongli’s Burst, but not when Frozen.
+#### Poise damage can stack when petrified by Zhongli’s burst, but not when frozen.
 
 ## The Vulnerable Status
 
@@ -81,7 +81,7 @@ If an attack has enough force, the attack can both set the target’s status to 
 During the stagger animation, an enemy is **still considered vulnerable**. Meaning, you can attack an enemy in the stagger animation to **override** the previous **Stagger Level**.
 :::
 
-> C4 Bennett uses a fully-charged level 1 elemental Skill, causing a Stonehide Lawachurl to be staggered at **Stagger Level 4**. Bennett then performs an additional attack, causing the **Level 4 Stagger** animation to turn into a **Level 2 Stagger**.
+> C4 Bennett uses a fully-charged level 1 elemental skill, causing a Stonehide Lawachurl to be staggered at **Stagger Level 4**. Bennett then performs an additional attack, causing the **Level 4 Stagger** animation to turn into a **Level 2 Stagger**.
 
 ## Impulse Types
 
@@ -116,12 +116,12 @@ When a target is in the **vulnerable** status, the next attack received may stag
 
 * **Mass**
 
-> After using Venti’s elemental Skill, a hilichurl is thrown into the air and falls slowly, while an Anemoboxer falls quickly.  
-> After using Kaeya’s elemental Skill, a hilichurl is knocked back a large distance, while a Cryogunner is only knocked back a small step.
+> After using Venti’s elemental skill, a hilichurl is thrown into the air and falls slowly, while an Anemoboxer falls quickly.  
+> After using Kaeya’s elemental skill, a hilichurl is knocked back a large distance, while a Cryogunner is only knocked back a small step.
 
 * **Drag Force**
 
-> Chongyun’s N1 can stagger a Mitachurl at **Level 4** in the center of Venti’s Burst, but can’t when a Mitachurl is standing on the ground. This indicates that the ground exerts a drag force.  
+> Chongyun’s N1 can stagger a Mitachurl at **Level 4** in the center of Venti’s burst, but can’t when a Mitachurl is standing on the ground. This indicates that the ground exerts a drag force.  
 > Ningguang’s charged attack with 2 star jades can only cause a **Level 2 Stagger** on an Anemoboxer standing on the ground, but can cause a **Level 3 Stagger** on an Anemoboxer standing on the edge of a meteorite cast by Geo Traveler.
 
 ## Credits

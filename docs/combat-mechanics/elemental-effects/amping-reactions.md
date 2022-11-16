@@ -9,7 +9,7 @@ import AmplifyingReaction from '../\_formulas/amplifying.md'
 
 <AmplifyingReaction />
 
-Amping reactions scale on EM, reaction bonuses, and the damage of the attack triggering the reaction. Since they scale off of base damage, Amping reactions can make use of CRIT/ATK stats of a character as opposed to just their EM and level. There are also reaction bonuses to further amplify this, which currently only exist in the form of the 4 Crimson Witch set and Mona's C1.
+Amping reactions scale on EM, reaction bonuses, and the damage of the attack triggering the reaction. Since they scale off of base damage, Amping reactions can make use of Crit/ATK stats of a character as opposed to just their EM and level. There are also reaction bonuses to further amplify this, which currently only exist in the form of the 4 Crimson Witch set and Mona's C1.
 
 ## Melt
 

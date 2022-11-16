@@ -93,8 +93,8 @@ import Skill from '@site/src/components/char/Skill'
 * When hitting an enemy generates one **Electro Sigil**, you can have three **Sigils** at once and each **Sigil** increases Razor's ER by 20%.
 * The duration of the sigils is 18s and is refreshed every time you press **Claw and Thunder**.
 * **Claw and Thunder**'s animation is different and slightly slower during **Lightning Fang**.
-* During **Claw and Thunder** (Hold), any active **Sigils** will be absorbed by Razor granting him 5 Energy for each sigil.
-  * This Energy is not affected by ER.
+* During **Claw and Thunder** (Hold), any active **Sigils** will be absorbed by Razor granting him 5 energy for each sigil.
+  * This energy is not affected by ER.
 * **Claw and Thunder** (Hold) causes a small self-knockback when used.
 * The **Electro Sigils** are not immediately consumed when dashing after Hold E.
 * With the tap version Razor can generate particles by hitting animals, both in overworld and teapot.
@@ -127,12 +127,12 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Any active **Sigils** will be absorbed by Razor granting him 5 Energy for each **Sigil**.
+* Any active **Sigils** will be absorbed by Razor granting him 5 energy for each **Sigil**.
 * Razor’s hold E does not cause a minor self-knockback unlike outside of **Lightning Fang**.
-* While the effects of **Elemental Burst: Lightning Fang** are active, the Energy Particle generation of **Elemental Skill: Claw and Thunder** is disabled.
+* While the effects of **Elemental Burst: Lightning Fang** are active, the energy particle generation of **Elemental Skill: Claw and Thunder** is disabled.
 * The duration of **Lightning Fang** can be extended by hitlag
 * Superconduct triggered by enemy Cryo attacks while Razor's **Lightning Fang** is active will affect nearby enemies as well as Razor.
-* Bennett’s **Fantastic Voyage** self Pyro application can react with Razor’s self Electro application to proc overload on yourself.
+* Bennett’s **Fantastic Voyage** self pyro application can react with Razor’s self electro application to proc overload on yourself.
   * This effect does not harm you, but it deals two ticks of damage and knocks small mobs back.
 
 </TabItem>

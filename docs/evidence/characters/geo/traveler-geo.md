@@ -20,7 +20,7 @@ search: false
 **By:** Clear_Storm\#9388, Khezu\#4363  
 **Added:** <Version date="2022-09-04" />  
 **Last tested:** <Version date="2022-09-04" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-ATK-buff)
+[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-atk-buff)
 
 **Finding:**  
 After a certain quest chain in Chapter III: Act I of the Sumeru Archon Quest, the Traveler obtains a Base ATK buff of exactly 3 Base ATK. This buff persists on every Element and is permanent.  
@@ -142,17 +142,17 @@ Another possible significance is that this might be a clue to how the Travelers 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845028522325573702_856407372993527828_transcript-geo-mc-c1-does-not-apply-to-burst.html)
 
 **Finding:**
-Geo MC C1 10% CRIT Rate buff becomes active after stone wall is created and does not affect the Burst itself upon activation
+Geo MC C1 10% Crit rate buff becomes active after stone wall is created and does not affect the burst itself upon activation
 
 **Evidence:**
 [https://youtu.be/DBMJEKuABes](https://youtu.be/DBMJEKuABes)  
-Video shows Geo MC with c6 and >90% CRIT Rate not CRITting on 3rd hit of his Q.
-If the CRIT bonus applied to Burst damage, it would be impossible to not CRIT.
+Video shows geo MC with c6 and >90% crit rate not critting on 3rd hit of his Q.
+If the crit bonus applied to burst damage, it would be impossible to not crit.
 
 **Significance**
 
-* Geo MC's Burst does not apply C1 buff to its own damage (unless a ring from previous Burst still exists)
-* With C6 the duration of ring is 20s (with 15s cooldown), so it should be possible to maintain the buff on subsequent Burst activations. However, as proven, the first elemental Burst used will remain unaffected by C1 CRIT Rate buff.
+* Geo MC's burst does not apply C1 buff to its own damage (unless a ring from previous burst still exists)
+* With C6 the duration of ring is 20s (with 15s cooldown), so it should be possible to maintain the buff on subsequent burst activations. However, as proven, the first elemental burst used will remain unaffected by C1 crit rate buff.
 
 ---
 
@@ -164,7 +164,7 @@ If the CRIT bonus applied to Burst damage, it would be impossible to not CRIT.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955987323579957338_transcript-gmc-wake-of-earth-interactions.html)
 
 **Theory:**  
-The visuals \(as in the Geo spikes, will henceforth be called stone walls as per game nomenclature\) do not actually match the hitbox of the stone walls. The hitbox can exist without the visuals, and it behaves in a way that does not match the visuals.
+The visuals \(as in the geo spikes, will henceforth be called stone walls as per game nomenclature\) do not actually match the hitbox of the stone walls. The hitbox can exist without the visuals, and it behaves in a way that does not match the visuals.
 
 Visual Illustration of the Stonewall Buff's AoE:  
 ![](https://i.imgur.com/tAS7OAQ.png)
@@ -179,15 +179,15 @@ Legend:
 ---
 
 **Finding 1:**  
-Wake of Earth has some weird properties. Wake of Earth can go invisible if you teleport away. The actual hitbox of the stone walls and the CRIT Rate buff from Invincible Stonewall \(C1\) still persist.
+Wake of Earth has some weird properties. Wake of Earth can go invisible if you teleport away. The actual hitbox of the stone walls and the crit rate buff from Invincible Stonewall \(C1\) still persist.
 
 **Evidence:**  
-\[CRIT Rate without buff is 34.6% | with buff is 44.6%\]  
+\[Crit rate without buff is 34.6% | with buff is 44.6%\]  
 [Video 1](https://imgur.com/eEDB3uq)  
 [Video 2](https://imgur.com/MsDWZ3s)
 
 **Significance:**  
-There's probably more things we don't understand about Geo construct behavior, and this might help us understand why the stone walls from Wake of Earth do not count for the Geo construct limit.
+There's probably more things we don't understand about geo construct behavior, and this might help us understand why the stone walls from Wake of Earth do not count for the geo construct limit.
 
 ---
 
@@ -202,18 +202,18 @@ The displacement is affected by enemy moves that can apply sufficient enough kno
 [Video 2](https://imgur.com/lmpbsPK)
 
 **Significance:**  
-Helps us better understand how the stone walls work. Playing around GMC Q means trying to prevent enemies from hitting the walls by staying quite a bit of distance from the stone walls so the mobs stay grouped inside the Burst.
+Helps us better understand how the stone walls work. Playing around GMC Q means trying to prevent enemies from hitting the walls by staying quite a bit of distance from the stone walls so the mobs stay grouped inside the burst.
 
 ---
 
 **Finding 3:**  
-GMC's first constellation, Invincible Stonewall, provides a CRIT Rate and resistance to interruption buff within the radius of Wake of Earth \(Q\). It is assumed that the resistance to interruption buff comes with the CRIT Rate buff. Henceforth, the combined buff will be referred to as Stonewall buff, but will be tested by observing the CRIT Rate of the characters.
+GMC's first constellation, Invincible Stonewall, provides a crit rate and resistance to interruption buff within the radius of Wake of Earth \(Q\). It is assumed that the resistance to interruption buff comes with the crit rate buff. Henceforth, the combined buff will be referred to as Stonewall buff, but will be tested by observing the crit rate of the characters.
 
 Here are the associated findings:  
 Stonewall buff doesn't immediately apply to characters on switch. It refreshes every tick (estimated to about 1 second). The buff also lingers for about two seconds.
 
 **Evidence:**  
-Unbuffed CRIT Rate of the following:  
+Unbuffed crit rate of the following:  
 GMC: 34.6%  
 Zhongli: 14.3%  
 Kazuha: 68.2%  
@@ -239,38 +239,38 @@ The buff area is independent from the stability of the stone walls. Just stay in
 ---
 
 **Finding 5a:**  
-Stonewall buff has a vertical limit around the cast area of Wake of Earth \(Q\). Going downwards away from the cast point means losing the CRIT buff. The depth of the buff seems to be a little less than the length of Zhongli's Stone Stele.
+Stonewall buff has a vertical limit around the cast area of Wake of Earth \(Q\). Going downwards away from the cast point means losing the crit buff. The depth of the buff seems to be a little less than the length of Zhongli's Stone Stele.
 
 **Evidence:**  
-\[CRIT Rate without CRIT buff is 85.1% | with CRIT buff is 95.1%\]  
+\[Crit rate without crit buff is 85.1% | with crit buff is 95.1%\]  
 [Video 1](https://imgur.com/wl4rFEr)  
 [Video 2](https://imgur.com/J9KqEbN)
 
 **Finding 5b:**  
 Stonewall buff has an upward vertical limit around the cast area of Wake of Earth \(Q\). The height of the buff seems to be a little less than the length of Zhongli's Stone Stele.
 
-It is possible for Xiao to not get the CRIT buff if he:
+It is possible for Xiao to not get the crit buff if he:
 
 * Jumps way too high \(such as through collision\).
 * Dash-jumps then lingers on the air slightly .
-* Takes off from Geo constructs such as Albedo's Solar Isotoma or Zhongli's Stone Stele, and potentially GMC's Meteorite if they linger on the air too long.
+* Takes off from geo constructs such as Albedo's Solar Isotoma or Zhongli's Stone Stele, and potentially GMC's Meteorite if they linger on the air too long.
 
-However, the CRIT buff reapplies itself when you get close to the ground.
+However, the crit buff reapplies itself when you get close to the ground.
 
 **Evidence:**  
-\[CRIT Rate without CRIT buff is 85.1% | with CRIT buff is 95.1%\]  
+\[Crit rate without crit buff is 85.1% | with crit buff is 95.1%\]  
 [Jumping from Solar Isotoma](https://imgur.com/m6wJm0n)
 
-\[CRIT Rate without CRIT buff is 77.1% | with CRIT buff is 87.1%\]  
+\[Crit rate without crit buff is 77.1% | with crit buff is 87.1%\]  
 [With some mob collision](https://imgur.com/cnaZJrs)  
 [Height](https://imgur.com/vkZZZLe)
 
-Note: For the following tests, Xiao has 90% CRIT Rate to observe the 10% CRIT Rate bonus from the Stonewall buff. The tests are looking for scenarios where the CRIT bonus does not apply \(as in the hits don't CRIT\).
+Note: For the following tests, Xiao has 90% crit rate to observe the 10% crit rate bonus from the Stonewall buff. The tests are looking for scenarios where the crit bonus does not apply \(as in the hits don't crit\).
 
 [Stats](https://imgur.com/a/uj5Pqqr)  
-[Regular Xiao gameplay](https://imgur.com/uYBZ7jC) demonstrating 100% CRIT Rate which reflects most of my tests playing normally
+[Regular Xiao gameplay](https://imgur.com/uYBZ7jC) demonstrating 100% crit rate which reflects most of my tests playing normally
 
-Scenarios where the CRIT Rate can expire:
+Scenarios where the crit rate can expire:
 
 * [Taking off from Zhongli's Stone Stele](https://imgur.com/HcWxYeJ)
 * [Taking off from Albedo's Solar Isotoma](https://imgur.com/O1CRVtx)
@@ -282,7 +282,7 @@ More understanding of how the buff works. Can't make use of the buff if the char
 ---
 
 **Finding 6:**  
-Stonewall buff is based on the position of the initial cast point, not the final position of the walls. You cannot expand the buff area by using Burst on an uneven location. It is also possible to obtain and lose the CRIT buff repeatedly by vertically entering and leaving the buff area.
+Stonewall buff is based on the position of the initial cast point, not the final position of the walls. You cannot expand the buff area by using burst on an uneven location. It is also possible to obtain and lose the crit buff repeatedly by vertically entering and leaving the buff area.
 
 **Evidence:**  
 [Video 1](https://imgur.com/C5dlvq2)  
@@ -297,7 +297,7 @@ Further understanding. Supporting the overall concept of the interaction.
 Character height does not seem to affect whether or not a unit gets buffed, seemingly based on a unit's foot/standing level instead. However, character height affects a character's jump height so it can determine whether or not they receive the buff if their jump reaches the threshold.
 
 **Evidence:**  
-Unbuffed CRIT Rate of the following:  
+Unbuffed crit rate of the following:  
 GMC: 34.6%  
 Zhongli: 14.3%  
 Kazuha: 68.2%  
@@ -308,10 +308,10 @@ Sayu: 12%
 ---
 
 **Finding 8:**  
-Standing on the meteorite does not remove the Stonewall buff. However, standing on taller Geo constructs such as Zhongli's Stone Stele means losing the CRIT buff as it is already out of range.
+Standing on the meteorite does not remove the Stonewall buff. However, standing on taller geo constructs such as Zhongli's Stone Stele means losing the crit buff as it is already out of range.
 
 **Evidence:**  
-CRIT Rate: 11.2% \-\> 21.2%  
+Crit rate: 11.2% \-\> 21.2%  
 [Video](https://imgur.com/C4Bn6CZ)
 
 **Significance:**  
@@ -329,7 +329,7 @@ Rockstep and other combos that bring a character on top of the meteorite does no
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
-Geo traveler’s C2 damage instance is considered Skill damage.
+Geo traveler’s C2 damage instance is considered skill damage.
 
 **Evidence:**  
 Testing done by cartercr#4207  
@@ -361,7 +361,7 @@ Damage calculations for Geo Traveler
 Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide (A4).
 
 **Evidence:**  
-[YouTube](https://youtu.be/YzFQnlViilI): Geo Traveler starts with 12% Geo DMG Bonus, and after procing A4, goes up to 20% Geo DMG Bonus.
+[YouTube](https://youtu.be/YzFQnlViilI): Geo Traveler starts with 12% Geo Damage Bonus, and after procing A4, goes up to 20% Geo Damage Bonus.
 
 ## Synergies/Interactions
 
@@ -386,7 +386,7 @@ It is possible for Geo Traveler to jump directly from the ground to the top of t
 * Other variations follow the same principle of using the meteorite to obtain vertical advantage:
   * [Rockstep: Reverse Plunge](https://imgur.com/pOLMBYd)
   * [Rockstep: Calculated](https://imgur.com/zpTl4aE)
-* Another variation follows up after using the rock as a shield from enemy attacks (such as Ruin Guard missiles). Do note that character height affects this one; the taller a character, the easier it is to perform.
+* Another variation follows up after using the rock as a shield from enemy attacks (such as ruin guard missiles). Do note that character height affects this one; the taller a character, the easier it is to perform.
   * [Rockstep: Phantom](https://imgur.com/uchHBjw)
   * [Extended demo](https://imgur.com/MY1epe1)
 * It can have some fun applications too!

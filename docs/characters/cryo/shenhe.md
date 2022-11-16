@@ -99,7 +99,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Spring Spirit Summoning** \(Press\) does not have hitlag.
 * **Spring Spirit Summoning** \(Press\) is capable of escaping Mirror Maiden's cage. **Spring Spirit Summoning** \(Hold\) however, is not.
 * **Icy Quill** stacks are used up even if no damage is dealt to an enemy (when they have a shield).
-* **Icy Quill** stacks increase the damage dealt to shields \(excluding Cryo\) by ~15 to 20% .
+* **Icy Quill** stacks increase the damage dealt to shields \(excluding cryo\) by ~15 to 20% .
 * **Spring Spirit Summoning** \(Hold\) makes Shenhe immune to all staggers and knockbacks for its animation duration.
 * **Icy Quill** stacks are not consumed when used on Slime balloons.
 
@@ -134,9 +134,9 @@ import Skill from '@site/src/components/char/Skill'
 * Cooldown Starts on press.
 * Duration timer starts after the animation.
 * Energy Consumption is on press.
-* DoT snapshots ATK Buffs and 2-Piece Noblesse but not Shenhe's **Deific Embrace** \(A1\).
+* DoT snapshots ATK Buffs and 2pc Noblesse but not Shenhe's **Deific Embrace** \(A1\).
 * RES Shred persists 2 seconds after **Divine Maiden's Deliverance** ends.
-* **Divine Maiden's Deliverance** does not have enough i-frames for explosive barrel immunity.
+* **Divine Maiden's Deliverance** does not have enough iframes for explosive barrel immunity.
 
 </TabItem>
 </Tabs>

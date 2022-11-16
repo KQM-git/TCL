@@ -30,7 +30,7 @@ search: false
 
 * Kazuha's normal attacks cannot strike enemies lifted by Venti's Elemental Burst. - [RayXD\#7790](https://imgur.com/a/mHxRQjF)
 * N5 persists after Kazuha cancels his animation or leaves the field. - [GottaGoFast\#7876](https://www.youtube.com/watch?v=Mmcma8d4z6o)
-* While under the influence of Chihayaburu, plunge attacks will always deal Anemo damage despite infusion. - [GottaGoFast\#7876](https://www.youtube.com/watch?v=U8rDXpz4gTo)
+* While under the influence of Chihayaburu, plunge attacks will always deal anemo damage despite infusion. - [GottaGoFast\#7876](https://www.youtube.com/watch?v=U8rDXpz4gTo)
 * NA and CA share ICD. - [xTuki\#4893](https://imgur.com/qsD7hgT)
 
 ### Dragonstrike of N5
@@ -51,18 +51,18 @@ Potential for some interesting combos. Cool stuff. Very fun.
 
 ## Skill Mechanics
 
-* Tap E Particle count is fixed [3 Anemo orbs](https://i.imgur.com/KDeL4wp.png). Hold E Particle count is fixed [4 Anemo orbs](https://i.imgur.com/0oulfFW.png). - Steph\#3614
+* Tap E particle count is fixed [3 anemo orbs](https://i.imgur.com/KDeL4wp.png). Hold E particle count is fixed [4 anemo orbs](https://i.imgur.com/0oulfFW.png). - Steph\#3614
   * Chihayaburu will only generate particles when the initial vacuum hits enemies. Video confirmation. - [EdisonsMathsClub\#6469](https://www.youtube.com/watch?v=FdyWE2T66VE)
 * E tap/hold initial cast&plunge can pull Klee's bombs. - [Zozer\#1782](https://youtu.be/O-sjqUAtirA)
 * E can be used mid air to regain stamina while climbing. - [GottaGoFast\#7876](https://youtu.be/hUfGxLDsHTw)
 * E can be used mid air to regain stamina when gliding after starting to fall. - [GottaGoFast\#7876](https://youtu.be/iboABc_eh60)
 * Kazuha's interruption resistance is greatly increased when mid-air. - [Bubba\#4619](https://imgur.com/a/BWEjMxq)
 * Skill can be slightly held for a minimal suction increase while keeping tap E's cooldown. - [helba\#0777](https://imgur.com/a/55baYSz)
-* Kazuha's elemental Skill is an incredible tool for gathering loot in the overworld. - [Greyhound\#7836](https://www.youtube.com/watch?v=7ELY1kTC7AI)
+* Kazuha's elemental skill is an incredible tool for gathering loot in the overworld. - [Greyhound\#7836](https://www.youtube.com/watch?v=7ELY1kTC7AI)
 * Kazuha's hold E can jump over primo vishap's breath attack. - [jstern25\#1399](https://imgur.com/a/QSvOkph)
-* Kazuha's E jump does not have i-frames. - [jstern25\#1399](https://imgur.com/a/4X56XWS)
+* Kazuha's E jump does not have iframes. - [jstern25\#1399](https://imgur.com/a/4X56XWS)
 * Kazuha's E vertical reach is strangely long. - [Phana\#0420](https://imgur.com/1Sio3TA)
-* Chihayaburu's infused Element can be seen as a small circle around kazuha. - [Mcpie\#8672](https://youtu.be/rHSRe-IRrv8)
+* Chihayaburu's infused element can be seen as a small circle around kazuha. - [Mcpie\#8672](https://youtu.be/rHSRe-IRrv8)
 * Kazuha can perform a 180 very quickly mid air. - [Mcpie\#8672](https://youtu.be/kfneyG6r4yA)
 
 ### Kazuha Hold E can cause fall DMG
@@ -73,15 +73,15 @@ Potential for some interesting combos. Cool stuff. Very fun.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885544421637120030_891166004669984848_transcript-kazuha-e-causes-fall-damage.html)
 
 **Finding:**  
-Kazuha's e Skill causes certain types of enemies to take fall damage.
+Kazuha's e skill causes certain types of enemies to take fall damage.
 
-The Skill only works on enemies that can be lifted by kazuha's Skill, specifically enemies of weight ranges of anything lighter than and up to 80 arbitrary units used by the game. However, with that being said, some enemies suffer kazuha's fall damage easier than others.
+The skill only works on enemies that can be lifted by kazuha's skill, specifically enemies of weight ranges of anything lighter than and up to 80 arbitrary units used by the game. However, with that being said, some enemies suffer kazuha's fall damage easier than others.
 
 As per testing, fall damage has been proven to be caused to fatui cicin mages, the fatui agents and light treasure hoarders including the marksman rather consistently, with the type of floor not being a variable as it can be caused in both domains and the overworld.
 
-The cause of the fall damage seems to be an unnatural acceleration towards the floor after being sucked into the vortex caused by kazuha's Skill. The enemies that can suffer fall damage will be pulled away from the vacuum forcefully in the direction of the floor, causing them to gain enough velocity to suffer fall damage. Lighter enemies are less likely to take any damage this way.
+The cause of the fall damage seems to be an unnatural acceleration towards the floor after being sucked into the vortex caused by kazuha's skill. The enemies that can suffer fall damage will be pulled away from the vacuum forcefully in the direction of the floor, causing them to gain enough velocity to suffer fall damage. Lighter enemies are less likely to take any damage this way.
 
-It is not complicated to trigger this as it activates by just simply tapping/holding kazuha's e Skill without having to do any other action e.g charged attacks/glide in the air. It is also not platform specific (not sure for PS) as I have managed to proc it on both PC and mobile. One thing to take note is that the chance of fall damage has something to do with packet loss, poor frame rates and lag issues as I am unable to proc it when connection is unstable
+It is not complicated to trigger this as it activates by just simply tapping/holding kazuha's e skill without having to do any other action e.g charged attacks/glide in the air. It is also not platform specific (not sure for PS) as I have managed to proc it on both PC and mobile. One thing to take note is that the chance of fall damage has something to do with packet loss, poor frame rates and lag issues as I am unable to proc it when connection is unstable
 
 **Evidence:**  
 [Imgur](http://imgur.com/a/bNoe7Gq)  
@@ -89,7 +89,7 @@ It is not complicated to trigger this as it activates by just simply tapping/hol
 [Imgur](https://imgur.com/tPsC2kf)
 
 **Significance:**  
-This feature is most likely unintended, but not a bug due to the janky nature of fall damage. Unlike jean and sucrose who can consistently cause fall damage due to the stronger downward pull and yeet function on their kits, kazuha's Skill only has a weak vortex that causes the accelerated pull in specific situations. Hence he is unable to proc fall damage as consistent and as well as the 2 other characters mentioned.
+This feature is most likely unintended, but not a bug due to the janky nature of fall damage. Unlike jean and sucrose who can consistently cause fall damage due to the stronger downward pull and yeet function on their kits, kazuha's skill only has a weak vortex that causes the accelerated pull in specific situations. Hence he is unable to proc fall damage as consistent and as well as the 2 other characters mentioned.
 
 ### Kazuha Tap E Air Time Can Be Shortened
 
@@ -99,14 +99,14 @@ This feature is most likely unintended, but not a bug due to the janky nature of
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933053726711754882_934052086797172777_transcript-kazuha-tap-e-air-time-can-be-shortened.html)
 
 **Finding:**  
-By double tapping your glider as soon as you've tapped your Skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge.
+By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge.
 
 **Evidence:**  
 [YouTube](https://www.youtube.com/watch?v=Biw0_7STVK0)  
-This video shows the tech first and a normal fall second. Note the elemental Skill CD when kazuha's feet touches the ground, 4.8 without the tech and 5.1 with the tech, which means it may save around ~0.3 seconds.
+This video shows the tech first and a normal fall second. Note the elemental skill CD when kazuha's feet touches the ground, 4.8 without the tech and 5.1 with the tech, which means it may save around ~0.3 seconds.
 
 **Significance:**  
-This tech is useful if you only want to tap E with Kazuha without initiating a plunge attack. For example if you want to reapply VV shred to some Frozen enemies but you don't want to shatter them.
+This tech is useful if you only want to tap E with Kazuha without initiating a plunge attack. For example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them.
 
 ### Kazuha Land Cancel
 
@@ -144,7 +144,7 @@ _credits to fragile💤#7777 for discovering the bug first_
 
 **How to reproduce this bug easily**:
 
-1. get a self aura infused onto Kazuha (Bennett Burst is the most common method)
+1. get a self aura infused onto Kazuha (Bennett burst is the most common method)
 2. hold forward
 3. input dash + jump then e immediately. You have to press dash + jump at the same time.
 
@@ -165,7 +165,7 @@ _Nothing Absorbed_:
 * [Imgur _(by Yume\#2875)_](https://imgur.com/a/RHLsjtj)
 
 **Significance:**  
-Kazuha's E aura check seems to be able to even ignore his own aura. Given that some rotations are tuned to Kazuha's E absorbing the expected Element, one may want to avoid dashing+jumping before inputting his E. However, one might also be able to use this bug to intentionally avoid absorbing self auras onto his E.
+Kazuha's E aura check seems to be able to even ignore his own aura. Given that some rotations are tuned to Kazuha's E absorbing the expected element, one may want to avoid dashing+jumping before inputting his E. However, one might also be able to use this bug to intentionally avoid absorbing self auras onto his E.
 
 As for an explanation to why this bug occurs, it's probably due to funky aura check mechanics in Kazuha's E. Perhaps the dash jump makes it so he can't detect his own aura due to the invincibility frames during the dash, with the jump allowing for E to be input while the invincibility frames are happening, although this is all just speculation.
 
@@ -177,7 +177,7 @@ As for an explanation to why this bug occurs, it's probably due to funky aura ch
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_986310266688012378_transcript-kazuha-keeps-midare-ranzan.html)
 
 **Finding:**  
-Kazuha can keep his special plunge/Midare Ranzan either by getting Frozen while ascending or getting hit by a bubble from a Hydro Abyss Mage on the way up. It lasts for about 10s, just like the original effect.
+Kazuha can keep his special plunge/Midare Ranzan either by getting frozen while ascending or getting hit by a bubble from a Hydro Abyss Mage on the way up. It lasts for about 10s, just like the original effect.
 
 **Evidence:**  
 Bubble interrupt - [Imgur](https://imgur.com/ZvSleVZ)  
@@ -213,18 +213,18 @@ Understanding how Kazuha normally works. Plunging immediately after a tap E guar
 [Discussion](https://tickets.deeznuts.moe/transcripts/can-kazuha-infuse-element-during-plunge-from-benny-c6-and-chongers)
 
 **Finding:**  
-Kazuha's E > plunge Anemo infusion/conversion is not overtaken by weapon infuson from the likes of bennett or chongyun.
+Kazuha's E > plunge anemo infusion/conversion is not overtaken by weapon infuson from the likes of bennett or chongyun.
 
 **Evidence:**
 
-1. In the first [video](https://imgur.com/a/LLKsoO5), we can see kazuha doing ONLY ANEMO DMG on his plunge, even though his sword is infused with Cryo before going up. We can vaguely visualize his sword getting Anemo infused during plunge.
+1. In the first [video](https://imgur.com/a/LLKsoO5), we can see kazuha doing ONLY ANEMO DMG on his plunge, even though his sword is infused with cryo before going up. We can vaguely visualize his sword getting anemo infused during plunge.
 
-2. In the second [video](https://imgur.com/a/hR36v3W), we get a better view of the Cryo infusion while going up which is then OVERRIDEN BY KAZUHA'S ANEMO INFUSION.
+2. In the second [video](https://imgur.com/a/hR36v3W), we get a better view of the cryo infusion while going up which is then OVERRIDEN BY KAZUHA'S ANEMO INFUSION.
 
-3. The 3rd [video](https://imgur.com/a/8G0At6h) shows a similar scenario with c6 bennett. The video is slowed down to better visualize the Pyro infusion on ascending which is overriden by Kazuha's Anemo infusion.
+3. The 3rd [video](https://imgur.com/a/8G0At6h) shows a similar scenario with c6 bennett. The video is slowed down to better visualize the pyro infusion on ascending which is overriden by Kazuha's anemo infusion.
 
 **Significance:**  
-Kazuha's E > plunge can be considered as an Anemo infusion which cannot be overrided by weapon infusion as seen in the likes of keqing or ayaka or chongyun.
+Kazuha's E > plunge can be considered as an anemo infusion which cannot be overrided by weapon infusion as seen in the likes of keqing or ayaka or chongyun.
 
 ## Burst Mechanics
 
@@ -256,12 +256,12 @@ Timing Burst on certain cases.
 
 ### A1: Soumon Swordsmanship
 
-* Kazuha's 1st ascension passive applies aura before the plunge damage, allowing kazuha to Swirl off of no aura on enemies, but also adding the risk of not swirling if the applied aura reacts with an existing aura and removing. - [Vherax\#5321](https://i.imgur.com/7n0rlWE.mp4)
+* Kazuha's 1st ascension passive applies aura before the plunge damage, allowing kazuha to swirl off of no aura on enemies, but also adding the risk of not swirling if the applied aura reacts with an existing aura and removing. - [Vherax\#5321](https://i.imgur.com/7n0rlWE.mp4)
 
 ### A4: Poetics of Fuubutsu
 
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements. - [kingjohn23\#8694](https://youtu.be/3ryW4jG38y0)
-* Kazuha's 4th ascension passive overrides and refreshes buff each Swirl of the same Element. - [kol\#1593](https://youtu.be/-D8IMtMAt48)
+* Kazuha's 4th ascension passive overrides and refreshes buff each swirl of the same element. - [kol\#1593](https://youtu.be/-D8IMtMAt48)
 
 ### Kazuha's Dynamically Changing Buff
 
@@ -271,14 +271,14 @@ Timing Burst on certain cases.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962496151704182834_transcript-kazuhas-dynamically-changing-buff.html)
 
 **Finding:**  
-Further evidence that Kazuha's A4 Passive buff dynamically changes it's value every new Swirl depending on how much EM Kazuha has when the Swirl happened.
+Further evidence that Kazuha's A4 Passive buff dynamically changes it's value every new swirl depending on how much EM Kazuha has when the swirl happened.
 
 **Evidence:**  
-Diona's C6 increases Kazuha's EM by 200 when he's standing on it, giving him stronger buffs and this persists the entire time the buff is up (as you can see, Ganyu's Cryo DMG Bonus is still 83.6% even when Ganyu steps out of Diona's Burst) - [YouTube](https://youtu.be/hgQJzMLG8_w)  
-Again, Diona's C6 increases Kazuha's buff the first time he swirls, giving Ganyu 83.6% Cryo DMG bonus. But, when a new Swirl happens the buff gets lower, back to the same value when Diona is not buffing Kazuha beforehand. - [YouTube](https://youtu.be/slRfL9ynIuA)
+Diona's C6 increases Kazuha's EM by 200 when he's standing on it, giving him stronger buffs and this persists the entire time the buff is up (as you can see, Ganyu's Cryo DMG Bonus is still 83.6% even when Ganyu steps out of Diona's burst) - [YouTube](https://youtu.be/hgQJzMLG8_w)  
+Again, Diona's C6 increases Kazuha's buff the first time he swirls, giving Ganyu 83.6% Cryo DMG bonus. But, when a new swirl happens the buff gets lower, back to the same value when Diona is not buffing Kazuha beforehand. - [YouTube](https://youtu.be/slRfL9ynIuA)
 
 **Significance:**  
-This finding can potentially impact rotation planning. When using teams involving Diona and Kazuha, it is maybe in some cases a good idea to only use his Skill when standing on Diona's Burst and not trigger his Burst at all. This can also include other EM-increasing characters like Albedo for example. The key is to only Swirl once every time the EM increase is on Kazuha. Still, Kazuha's damage from his Burst can easily make up for the loss of the extra Passive buff.
+This finding can potentially impact rotation planning. When using teams involving Diona and Kazuha, it is maybe in some cases a good idea to only use his skill when standing on Diona's burst and not trigger his burst at all. This can also include other EM-increasing characters like Albedo for example. The key is to only swirl once every time the EM increase is on Kazuha. Still, Kazuha's damage from his burst can easily make up for the loss of the extra Passive buff.
 
 ## Constellation Mechanics
 
@@ -288,13 +288,13 @@ This finding can potentially impact rotation planning. When using teams involvin
 
 ### C4: Oozora Genpou
 
-* The Energy gained from C4 while gliding is not affected by Energy recharge, it takes 23 ticks to cap after using a Burst. - [Jilanow\#9252](https://youtu.be/V0o_-DF0DiA)
-* Kazuha can gain his Energy back through gliding before abyss chamber. - [xTuki\#4893](https://imgur.com/EFeCgB2)
+* The energy gained from C4 while gliding is not affected by energy recharge, it takes 23 ticks to cap after using a burst. - [Jilanow\#9252](https://youtu.be/V0o_-DF0DiA)
+* Kazuha can gain his energy back through gliding before abyss chamber. - [xTuki\#4893](https://imgur.com/EFeCgB2)
 
 ### C6: Crimson Momiji
 
 * Kazuha's Anemo Infusion can be overriden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)
-* The Anemo infusion from C6 can react with infusion field triggering a Swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)
+* The anemo infusion from C6 can react with infusion field triggering a swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)
 * Damage bonus works regardless of infusion overlap, but only during infusion duration. - [xTuki\#4893](https://imgur.com/eJJc5K6)
 
 ## Synergies/Interactions

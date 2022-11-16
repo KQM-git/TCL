@@ -36,7 +36,7 @@ Unknown. Appears at lvl 88
 
 * Cant hold marks or statuses.
 
-* can only have a Cryo and Frozen aura. reactions with those work as normal.
+* can only have a cryo and frozen aura. reactions with those work as normal.
 
 * Resistances can not be lowered.
 

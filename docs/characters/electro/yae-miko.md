@@ -92,7 +92,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Each Sesshou Sakura hits up to 5 times, but only the first one generates particles \(1 Particle on each hit and none on cast\).
+* Each Sesshou Sakura hits up to 5 times, but only the first one generates particles \(1 particle on each hit and none on cast\).
 * When casting E three times in a straight line only the one in the middle will be level 3.
 * It has a small AoE.
 * The dash does not have i-frames.

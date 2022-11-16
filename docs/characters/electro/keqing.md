@@ -73,7 +73,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Keqing's N1C is her highest damage combo but is stamina hungry.
   * N4C is a comparable damage combo that is less stamina intensive.
-* Keqing's N4 does not give i-frame.
+* Keqing's N4 does not give iframe.
 
 </TabItem>
 
@@ -103,7 +103,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * When blinking to a **Stiletto Mark** that was thrown from a Holding cast, Keqing can move across obstructions and glide or initiate a plunge attack.
 * Keqing's second **Stellar Restoration** cast is buffered during her dash.
-* Keqing can gain 2 stacks of 4-Piece Pale Flame in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a Charged Attack.
+* Keqing can gain 2 stacks of 4pc Pale Flame in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a charge attack.
 * It is possible for Keqing to perform a Dragonstrike from the second cast of her E, **Stellar Restoration**.
 * Aiming and releasing **Lightning Stiletto** too fast can ignore your targeting and transform it into a **Press** effect instead.
 * **Stellar Restoration** has different snapshot mechanics based on usage.
@@ -138,10 +138,10 @@ import Skill from '@site/src/components/char/Skill'
 
 * Keqing exits her **Starward Sword** before the last slash and can swap or attack.
 * It is possible to interrupt **Starward Sword** before the Burst can actually go through.
-  * Doing so can still trigger the Burst's effects, such as her Ascension 4 Passive that gives CRIT Rate and ER.
+  * Doing so can still trigger the Burst's effects, such as her Ascension 4 Passive that gives Crit Rate and ER.
   * Burst cancelling like this does not actually use up her Energy, or put the Burst on cooldown, nor does it deal damage.
   * However, it can potentially lock Keqing in place momentarily, where attempted movement can result in rapid spinning.
-* Keqing's Burst has 222 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-i-frames) \(3.7s\).
+* Keqing's Burst has 222 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(3.7s\).
 
 </TabItem>
 </Tabs>

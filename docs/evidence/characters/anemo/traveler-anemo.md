@@ -20,7 +20,7 @@ search: false
 **By:** Clear_Storm\#9388, Khezu\#4363  
 **Added:** <Version date="2022-09-04" />  
 **Last tested:** <Version date="2022-09-04" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-ATK-buff)
+[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-atk-buff)
 
 **Finding:**  
 After a certain quest chain in Chapter III: Act I of the Sumeru Archon Quest, the Traveler obtains a Base ATK buff of exactly 3 Base ATK. This buff persists on every Element and is permanent.  
@@ -42,8 +42,8 @@ For updated stats and calculation purposes.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883277582366277652_906334012480561162_transcript-amc-e-additional-elemental-dmg.html)
 
 **Finding:**  
-Anemo MC's Skill is missing talent values for the additional elemental damage that happens when elemental absorption occurs.  
-The additional elemental damage dealt is 0.25x that of the Anemo damage dealt.
+Anemo MC's skill is missing talent values for the additional elemental damage that happens when elemental absorption occurs.  
+The additional elemental damage dealt is 0.25x that of the anemo damage dealt.
 
 **Evidence:**  
 [Google Doc showing the additional elemental damage dealt](https://docs.google.com/spreadsheets/d/1uTBPUMtR4bQ_T7QeQc6_JRXQvcYxz1muZXiiSEF-Ze8/edit#gid=0)
@@ -80,12 +80,12 @@ AMC Hold E is dynamic and Q snapshots, for both the Anemo and the Additional Ele
 **Evidence:**
 
 * Hold E: [YouTube](https://youtu.be/XbZFc77QXQE)  
-  Unbuffed Max Cutting DMG (0 stacks, no CRIT): 171 Anemo, 42 Electro  
-  Buffed Max Cutting DMG (2 stacks, no CRIT): 199 Anemo, 49 Electro
+  Unbuffed Max Cutting DMG (0 stacks, no crit): 171 Anemo, 42 Electro  
+  Buffed Max Cutting DMG (2 stacks, no crit): 199 Anemo, 49 Electro
 
 * Q: [YouTube](https://youtu.be/lnia3ynnn0Y)  
   Tornado DMG (no C6): 824 Anemo, 253 Electro  
-  Tornado DMG (C6 RES Shred): 962 Anemo, 295 Electro
+  Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
 
 ### \[Deprecated\] AMC E Frames Update
 
@@ -118,11 +118,11 @@ Hold: 60~145
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955984471470010428_transcript-frozen-amc-with-e-active.html)
 
 **Finding:**  
-When AMC is Frozen right before their E starts doing damage, Palm Vortex will still activate. It has different properties from the typical Palm Vortex, differences are as follow:
+When AMC is frozen right before their E starts doing damage, Palm Vortex will still activate. It has different properties from the typical Palm Vortex, differences are as follow:
 
 * There is no Initial Storm Damage after 2 hits, nor is there Max Storm Damage to end the sequence of Anemo DMG.
 * It won't generate Anemo Particles for party members to collect.
-* The duration of Palm Vortex is now directly tied to how long AMC is Frozen for.
+* The duration of Palm Vortex is now directly tied to how long AMC is frozen for.
 * AMC's Elemental Absorption Priority is Cryo \> Pyro \> Hydro \> Electro, which means AMC's Palm Vortex will always self-absorb Cryo.
 
 It will deal Anemo DMG, and Anemo application still occurs with a normal ICD of 3 hits/2.5 seconds.
@@ -148,15 +148,15 @@ Fluff.
 
 **Evidence:**
 
-* With delayed absorption, the last absorption Element application matches expected aura duration for 2B absorption with 1U Anemo:
+* With delayed absorption, the last absorption element application matches expected aura duration for 2B absorption with 1U anemo:
   * [2B Absorption](https://youtu.be/yh4dH0WbA6A)
-* With 1A type decay transfer and immediate absorption, the last absorption Element application matches expected aura duration for 2U absorption:
+* With 1A type decay transfer and immediate absorption, the last absorption element application matches expected aura duration for 2U absorption:
   * [2B Absorption with 1A Decay](https://youtu.be/2MtlaOVx904)
 
 **Significance:** The increased absorption gauge may be useful for:
 
-* Shield breaking when able to absorb a counter Element.
-* Increased Freeze duration otherwise unavailable due to the rarity of 2B Hydro applicators (only Tartaglia and Kokomi as of patch 2.3)
+* Shield breaking when able to absorb a counter element.
+* Increased freeze duration otherwise unavailable due to the rarity of 2B hydro applicators (only Tartaglia and Kokomi as of patch 2.3)
 
 ### Anemo MC's Q ability to "pick up" enemies is dependent on level difference
 
@@ -205,10 +205,10 @@ The Additional Elemental DMG basically only happens when the Tornado goes right 
 Anemo Traveler can trigger Mistsplitter NA Stack with Slitting Wind.
 
 **Evidence:**  
-[YouTube](https://youtu.be/6LpsILZWm9E): Mistsplitter Reforged is seen with zero stacks (no glow) at the beginning, with full Burst. After Anemo windblade hits, a glow is seen, showing that a stack of Mistsplitter has been produced.
+[YouTube](https://youtu.be/6LpsILZWm9E): Mistsplitter Reforged is seen with zero stacks (no glow) at the beginning, with full burst. After anemo windblade hits, a glow is seen, showing that a stack of Mistsplitter has been produced.
 
 **Significance:**  
-AMC can reliably trigger 2 stacks of Mistsplitter Reforged, thereby making them able to utilize it for an Anemo damage boost in cases of teams where they are a dps with their E.
+AMC can reliably trigger 2 stacks of Mistsplitter Reforged, thereby making them able to utilize it for an anemo damage boost in cases of teams where they are a dps with their E.
 
 #### Anemo Traveler A1 counts as Normal Attack
 

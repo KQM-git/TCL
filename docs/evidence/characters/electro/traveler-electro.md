@@ -24,7 +24,7 @@ search: false
 **By:** Clear_Storm\#9388, Khezu\#4363  
 **Added:** <Version date="2022-09-04" />  
 **Last tested:** <Version date="2022-09-04" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-ATK-buff)
+[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-atk-buff)
 
 **Finding:**  
 After a certain quest chain in Chapter III: Act I of the Sumeru Archon Quest, the Traveler obtains a Base ATK buff of exactly 3 Base ATK. This buff persists on every Element and is permanent.  
@@ -38,12 +38,12 @@ For updated stats and calculation purposes.
 
 ### Skill Mechanics
 
-* Generates 1 Particle per Skill cast - [jamberry#7142](https://youtu.be/25EaCFvB4r8)
-* The Energy gained from amulets is classified as flat Energy. - [ceeeleste#3568](https://imgur.com/a/s1NMEN7)
+* Generates 1 particle per skill cast - [jamberry#7142](https://youtu.be/25EaCFvB4r8)
+* The energy gained from amulets is classified as flat energy. - [ceeeleste#3568](https://imgur.com/a/s1NMEN7)
 * Different characters can each pick up an amulet generated from one cast. - [ceeeleste#3568](https://imgur.com/uvqLztm)
-* The ER granted does not affect 4-Piece Emblem of Severed Fate. - [ye olde dong slot#4986](https://www.youtube.com/watch?v=_ny12y2rL0w)
+* The ER granted does not affect 4p Emblem of Severed Fate. - [ye olde dong slot#4986](https://www.youtube.com/watch?v=_ny12y2rL0w)
 * Characters don't have to be on top of an Amulet to pick it up. - [Vivy#5802](https://imgur.com/gallery/bG4poKB)
-* Amulets still generate even if Skill hits a shield. - [Vivy#5802](https://imgur.com/gallery/dJTvXaI)
+* Amulets still generate even if skill hits a shield. - [Vivy#5802](https://imgur.com/gallery/dJTvXaI)
 * The number of Amulets generated depends on the number of Lightning Blades AND the number of enemies hit.
   * [1 Blade Hit = 1 Amulet](https://imgur.com/ZMaCnWK)
   * 1 Blade Hit vs 2 Enemies = 2 Amulets - [ye olde dong slot#4986](https://www.youtube.com/watch?v=qaBPV3JdC0c)
@@ -101,9 +101,9 @@ More reasons to not use EMC with Raiden. May affect calcs that incorrectly assum
 
 ### Burst Mechanics
 
-* The Energy gained from Burst is classified as flat Energy. - [ceeeleste#3568](https://imgur.com/BFu0hT2)
+* The energy gained from burst is classified as flat energy. - [ceeeleste#3568](https://imgur.com/BFu0hT2)
 * Burst follows standard ICD. - [Steph#3614](https://imgur.com/VmDEl0O)
-* Falling thunder only procs on-hit (like Beidou's Burst), and not on-attack (like Xingqiu's Burst). - [ye olde dong slot#4986](https://www.youtube.com/watch?v=VGlnMd6yhqU)
+* Falling thunder only procs on-hit (like Beidou's burst), and not on-attack (like Xingqiu's burst). - [ye olde dong slot#4986](https://www.youtube.com/watch?v=VGlnMd6yhqU)
 * EMC Burst snapshots. - Gabby#7486
   * [EMC Burst before Bennett](https://youtu.be/_MbDjDyEGvA)
   * [EMC Burst after Bennett](https://youtu.be/HUeorVAdEL8)
@@ -127,21 +127,21 @@ More reasons to not use EMC with Raiden. May affect calcs that incorrectly assum
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917962903783612428_919799543904751666_transcript-emc-c4.html)
 
-**Findings:** If an Amulet made by EMC's Elemental Skill is absorbed while the active character is below 35% Burst Charge, EMC's C4 (which doubles the flat Energy given by an Amulet) will apply regardless of if the final Energy gained exceeds said threshold.
+**Findings:** If an Amulet made by EMC's Elemental Skill is absorbed while the active character is below 35% Burst Charge, EMC's C4 (which doubles the flat energy given by an Amulet) will apply regardless of if the final energy gained exceeds said threshold.
 
-* Assuming a T7 Elemental Skill which gives 4 flat Energy at base:
-  * For 40-cost Bursts: 40 \* 0.35/8=1.75 which rounds up to 2 Amulets, meaning two out of three Amulets is absorbed before the 35% threshold, resulting in 20 Energy restored.
-  * For 60-cost Bursts: 60 \* 0.35/8=2.625 which rounds up to 3 Amulets, so all three Amulets are absorbed before the 35% threshold, resulting in 24 Energy restored.
+* Assuming a T7 Elemental Skill which gives 4 flat energy at base:
+  * For 40-cost Bursts: 40 \* 0.35/8=1.75 which rounds up to 2 Amulets, meaning two out of three Amulets is absorbed before the 35% threshold, resulting in 20 energy restored.
+  * For 60-cost Bursts: 60 \* 0.35/8=2.625 which rounds up to 3 Amulets, so all three Amulets are absorbed before the 35% threshold, resulting in 24 energy restored.
 
-**Evidence:** The white box marks the edges of the Burst Icon, the scale (shown in purple) was made by catching 4 non-matching Elemental Particles, each line recording how much Energy was gained. The blue line marks the 35% threshold of the Burst.
+**Evidence:** The white box marks the edges of the Burst Icon, the scale (shown in purple) was made by catching 4 non-matching Elemental Particles, each line recording how much energy was gained. The blue line marks the 35% threshold of the Burst.
 
-The final amount of Energy the characters have is from 3 Amulets and 1 off-field non-matching Elemental Particle in a 2 character team. It shows the 40-cost Burst has between 20 and 24 Energy (20 from Amulets and 0.8 from the additional Particle) and the 60-cost Burst has between 24 and 28 Energy (24+0.8=24.8), which proves the theory to be correct.
+The final amount of energy the characters have is from 3 Amulets and 1 off-field non-matching Elemental Particle in a 2 character team. It shows the 40-cost Burst has between 20 and 24 Energy (20 from Amulets and 0.8 from the additional particle) and the 60-cost Burst has between 24 and 28 energy (24+0.8=24.8), which proves the theory to be correct.
 
 * [Video that has all the frames used](https://youtu.be/YQvcag6h2og)
 * [40-cost Burst](https://imgur.com/a/fWT0tNl)
 * [60-cost Burst](https://imgur.com/a/Va2TFyf)
 
-**Significance:** To better understand how Energy works in EMC's kit, which is essential for Energy calcs.
+**Significance:** To better understand how energy works in EMC's kit, which is essential for energy calcs.
 
 #### C6: World-Shaker
 

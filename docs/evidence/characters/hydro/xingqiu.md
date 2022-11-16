@@ -21,7 +21,7 @@ search: false
 
 **Finding:**
 
-How to Vaporize both of Xingqiu’s E slashes with either Gouba or Amber
+How to vaporize both of Xingqiu’s E slashes with either Gouba or Amber
 
 **Evidence:** [Video](https://www.youtube.com/watch?v=-03MNwss9UI)
 
@@ -78,13 +78,13 @@ Tested with C2 Barbara and compared the received damage with and without the Hyd
 
 **Significance:**
 
-While Xingqiu's Burst Hydro Swords are dynamic, the damage reduction from the Rain Swords is snapshot \(both E and Q\).
+While Xingqiu's burst Hydro Swords are dynamic, the damage reduction from the Rain Swords is snapshot \(both E and Q\).
 
 **Editor’s Note:**
 
 Verified. Also, a similar instance occurs when using Streaming Essential Oil \(25% Hydro DMG% increase potion\), so we know it's not limited to just Barbara.
 
-### Xingqiu Damage Reduction is Affected By Omni DMG Bonus
+### Xingqiu Damage Reduction is Affected By Omni Damage Bonus
 
 **By:** Balakin1\#7545  
 **Added:** <Version date="2022-05-05" />  
@@ -104,7 +104,7 @@ Xingqiu's damage reduction is affected by omni-damage bonus effects such as the 
 **Explanation/Math:**  
 For the "DR in theory" values, it was 26% + .2 \* (81.6% + x), with x being 12% and (12 + 16)% being added for MSR0 and MSR2 respectively, otherwise 0  
 For the "DR in practice" values, it was 1-(largest number)/(No E's largest number)  
-Note: there are 3 damage numbers because I finished gathering clips vs a lawachurl before someone suggested using an Electro crystal  
+Note: there are 3 damage numbers because I finished gathering clips vs a lawachurl before someone suggested using an electro crystal  
 TL7, 81.6% Damage bonus w/o weapon
 
 No E: 771, 1543, 3086 (0% DR)  
@@ -157,12 +157,12 @@ Better knowledge for teambuilding and rotations.
 
 **By:** Isetfire\#0428  
 **Added:** 2022-10-14  
-[Discussion](https://tickets.deeznuts.moe/transcripts/introverted-Rain Swords)
+[Discussion](https://tickets.deeznuts.moe/transcripts/introverted-rainswords)
 
 **Finding:**  
 Burst Cancelling by using a special interaction on Xingqiu creates 2 **bugs:**  
-1) Xingqiu's Burst Rainswords will not proc when you use his Burst and activate a special interaction at the same time, but the Burst Orbitals will remain.  
-2) Xingqiu's Skill will no longer create Skill Rainsword Orbitals after Burst cancel until the next normal Burst.  
+1) Xingqiu's Burst Rainswords will not proc when you use his burst and activate a special interaction at the same time, but the Burst Orbitals will remain.  
+2) Xingqiu's Skill will no longer create Skill Rainsword Orbitals after burst cancel until the next normal burst.  
   
 **Evidence:**  
 
@@ -194,10 +194,10 @@ XQ ult is dynamic and not a snapshot.
 
 XQ ult is cast and used against an enemy to determine a baseline.
 
-* NingGuang holding 4 petra creates a Hydro crystal and picks it up, granting the team 35% hydro damage.
+* NingGuang holding 4 petra creates a hydro crystal and picks it up, granting the team 35% hydro damage.
 * Hydro sword damage then observed to increase.
 
-Note: Crystal is picked up after the 2nd wave of swords so Hydro res shred from C2 already accounted for.
+Note: Crystal is picked up after the 2nd wave of swords so hydro res shred from C2 already accounted for.
 
 **Significance:**
 
@@ -231,14 +231,14 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 **Last tested:** <VersionHl date="2021-04-05" />
 
 **Finding:**  
-After Xingqiu's Burst ends, there is a period where you can still imbue a Hydro aura even if the orbitals visually disappeared. Upon further investigation, XQ's orbitals don't disappear completely, rather, they degenerate into particles of Hydro that still appear around XQ for a set duration of time \(about 47 frames from the moment the swords blink before exploding until the last bits of Hydro particles disappear\).
+After Xingqiu's burst ends, there is a period where you can still imbue a hydro aura even if the orbitals visually disappeared. Upon further investigation, XQ's orbitals don't disappear completely, rather, they degenerate into particles of hydro that still appear around XQ for a set duration of time \(about 47 frames from the moment the swords blink before exploding until the last bits of hydro particles disappear\).
 
 **Evidence:**
 
-* [Vid 1](https://youtu.be/3UBplhXNPdc): I used XQ's Burst here. Video was left to play a bit longer to show elemental aura gauge unit for "invisible" hydro aura \(it is 1A\).
-* [Vid 2](https://youtu.be/sxnnMq8ljKE): I used XQ's Skill here. Same "invisible" hydro aura is observed as with his Burst.
-* [GIF 1](https://imgur.com/8EDEVxu): Portion of Vid 2 where XQ orbitals break, magnified. Using this clip, I counted 47 frames for Hydro Particle persistence, starting from the moment the swords blink prior to shattering, and ending at the few frames when XQ imbues Hydro on the Ruin Guard.
-* [GIF 2](https://imgur.com/cmsVCV9): Slowed down version of GIF 1. Here, the Hydro particles are easier to observe.
+* [Vid 1](https://youtu.be/3UBplhXNPdc): I used XQ's burst here. Video was left to play a bit longer to show elemental aura gauge unit for "invisible" hydro aura \(it is 1A\).
+* [Vid 2](https://youtu.be/sxnnMq8ljKE): I used XQ's skill here. Same "invisible" hydro aura is observed as with his burst.
+* [GIF 1](https://imgur.com/8EDEVxu): Portion of Vid 2 where XQ orbitals break, magnified. Using this clip, I counted 47 frames for hydro particle persistence, starting from the moment the swords blink prior to shattering, and ending at the few frames when XQ imbues hydro on the ruin guard.
+* [GIF 2](https://imgur.com/cmsVCV9): Slowed down version of GIF 1. Here, the hydro particles are easier to observe.
 
 **Significance:**  
 Limit testing of XQ.
@@ -302,16 +302,16 @@ Documenting how on-normal-animation effects can actually trigger multiple times 
 [Discussion](https://tickets.deeznuts.moe/transcripts/each-wave-of-xingqius-burst-snapshots-when-summoned)
 
 **Finding:**  
-Each wave of sword rain attacks from Xingqiu's Burst snapshots buffs when summoned.
+Each wave of sword rain attacks from Xingqiu's burst snapshots buffs when summoned.
 
 **Evidence:**
 
-* Without TTDS, Xingqiu's ATK was 1181 and one hit from his Burst did 432 damage on a CRIT: [YouTube](https://youtu.be/JuMcWCxYwow)
-* With TTDS, Xingqiu's ATK was 1485 and one hit from his Burst did 544 damage on a CRIT: [YouTube](https://youtu.be/kbSCkUKflSE)
-* In [this video](https://youtu.be/8Pd2IY0f4wQ), I applied the TTDS buff to Xingqiu (ATK became 1485) and then summoned a wave of Xingqiu's sword rain attacks just before the TTDS buff ran out. The result was that the sword rain attacks did 544 damage on a CRIT (the damage of a hit buffed by TTDS). We know TTDS expired before the enemy was hit since Xingqiu's ATK was 1181 on the character screen just before the attack hit.
+* Without TTDS, Xingqiu's ATK was 1181 and one hit from his burst did 432 damage on a crit: [YouTube](https://youtu.be/JuMcWCxYwow)
+* With TTDS, Xingqiu's ATK was 1485 and one hit from his burst did 544 damage on a crit: [YouTube](https://youtu.be/kbSCkUKflSE)
+* In [this video](https://youtu.be/8Pd2IY0f4wQ), I applied the TTDS buff to Xingqiu (ATK became 1485) and then summoned a wave of Xingqiu's sword rain attacks just before the TTDS buff ran out. The result was that the sword rain attacks did 544 damage on a crit (the damage of a hit buffed by TTDS). We know TTDS expired before the enemy was hit since Xingqiu's ATK was 1181 on the character screen just before the attack hit.
 
 **Significance:**  
-Better understanding of Xingqiu's Burst and snapshotting. Although in practice, Xingqiu's Burst uses buffs dynamically, once a wave of sword rain attacks is summoned, that wave has snapshotted Xingqiu's stats and is NOT dynamic anymore.
+Better understanding of Xingqiu's burst and snapshotting. Although in practice, Xingqiu's burst uses buffs dynamically, once a wave of sword rain attacks is summoned, that wave has snapshotted Xingqiu's stats and is NOT dynamic anymore.
 
 ## Constellation Mechanics
 
@@ -327,7 +327,7 @@ Better understanding of Xingqiu's Burst and snapshotting. Although in practice, 
 
 [Video](https://www.youtube.com/watch?v=Mgbi6X0TTxM)
 
-**Significance:** For vape comps with C6 XQ, every 3rd sword wave basically guarantees Hydro aura. For Electro-Charged comps, it makes it more likely for the Electro to be the trigger. Generally speaking, it gives XQ greater Hydro aura potential.
+**Significance:** For vape comps with C6 XQ, every 3rd sword wave basically guarantees hydro aura. For EC comps, it makes it more likely for the electro to be the trigger. Generally speaking, it gives XQ greater hydro aura potential.
 
 ## Miscellaneous
 
@@ -346,7 +346,7 @@ This is because when performing EQE, his E CD is not ticking down during Q cast,
 Additional notes:
 
 * QEE has the highest damage from C4.
-* EEQ has the highest Energy potential for Xingqiu due to him catching particles from both Es.
+* EEQ has the highest energy potential for Xingqiu due to him catching particles from both Es.
 * EQE is the easiest combo to perform since it does not require dash cancels. In terms of animation time, the three combos are close enough that human error renders the differences minimal.
 
 **Evidence:**  

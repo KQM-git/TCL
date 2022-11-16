@@ -18,32 +18,32 @@ sidebar_position: 1000
 
 **Evidence:** [https://paimon.moe/wish/tally](https://paimon.moe/wish/tally), [https://paimon.moe/wish/tally/300012](https://paimon.moe/wish/tally/300012) and [https://paimon.moe/wish/tally/400011](https://paimon.moe/wish/tally/400011)
 
-The second link shows that the probability of rolling a 5-Star massively increased on the 74th roll, as opposed to the 75th, and the third link shows that the probability for rolling a featured weapon on the weapon banner massively increased on the 63rd roll, not the 65th.
+The second link shows that the probability of rolling a 5 star massively increased on the 74th roll, as opposed to the 75th, and the third link shows that the probability for rolling a featured weapon on the weapon banner massively increased on the 63rd roll, not the 65th.
 
 **Significance:** fixing misconceptions that soft pity is 75/65, allowing players to save their primogems more effectively
 
-## Estimated 5-Star pulls for weapons/characters
+## Estimated 5 star pulls for weapons/characters
 
 **By:** KBphan\#0001  
 **Added:** <Version date="2021-04-19" />  
 **Last tested:** <VersionHl date="2021-04-19" />
 
-**Finding:** It takes approximately 12.5 5-Star pulls to R5 a specific weapon
+**Finding:** It takes approximately 12.5 5 star pulls to R5 a specific weapon
 
-Average 5-Stars pulled for specific rate up 5-Star weapon:
+Average 5 stars pulled for specific rate up 5 star weapon:
 
-* R1 weapon \(no pity\) - 2.5
-* R1 weapon \(with pity\) - 2.25
-* R5 weapon \(not starting with pity\) - 12.5
-* R5 weapon \(starting with pity\) - 12.25
+* r1 weapon \(no pity\) - 2.5
+* r1 weapon \(with pity\) - 2.25
+* r5 weapon \(not starting with pity\) - 12.5
+* r5 weapon \(starting with pity\) - 12.25
 
-Average 5-Stars pulled for rate up 5-Star character
+Average 5 stars pulled for rate up 5 star character
 
 * c0 character \(no pity\) - 1.5
 * c6 character \(not starting with pity\) - 10.5
 * c6 character \(starting with pity\) - 10
 
-**Evidence:** [I made a program to brute force 10,000,000 trials](https://imgur.com/a/HastXBQ) of attempting to R5 a specific rate up 5-Star using the pity rules for the weapon banner. On average it will take a player 12.5 5-Star pulls to R5 their desired weapon if they only want one of the rate up 5-Star weapons. This leads to an average rate of 40% for a specific 5-Star weapon on the rate up banner.
+**Evidence:** [I made a program to brute force 10,000,000 trials](https://imgur.com/a/HastXBQ) of attempting to R5 a specific rate up 5-star using the pity rules for the weapon banner. On average it will take a player 12.5 5-star pulls to R5 their desired weapon if they only want one of the rate up 5 star weapons. This leads to an average rate of 40% for a specific 5-star weapon on the rate up banner.
 
 **Significance:** This information can be useful for whales to figure out around how many pulls they will need to get a specific R5 on average.
 
@@ -86,13 +86,13 @@ Monte-carlo verification: [Pastebin](https://pastebin.com/d9Mg1i4n)
 **Significance:**  
 Expected 5\* weapon rolls to desired 5\* using epi path without pity at start: 1.984375  
 Expected 5\* weapon rolls to desired 5\* using epi path with pity at start: 1.8125  
-R5, epi path, no pity to start; expected num of weapons: 9.921875  
-R5, epi path, pity to start; expected num of weapons: 9.75
+r5, epi path, no pity to start; expected num of weapons: 9.921875  
+r5, epi path, pity to start; expected num of weapons: 9.75
 
-R1, no epi path, no pity: 2.5  
-R1, no epi path, pity: 2.25  
-R5, no epi path, no pity: 12.5  
-R5, no epi path, pity: 12.25
+r1, no epi path, no pity: 2.5  
+r1, no epi path, pity: 2.25  
+r5, no epi path, no pity: 12.5  
+r5, no epi path, pity: 12.25
 
 ## Number of Wishes on Weapon Banner to Fully Level a 5 Star Weapon
 
@@ -102,18 +102,18 @@ R5, no epi path, pity: 12.25
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906138978208604210_919065570257813514_transcript-weapon-as-fodder-wish-count.html)
 
 **Finding:**  
-How many wishes on the weapon banner does it take to fully level a 5-Star weapon to Level 90?
+How many wishes on the weapon banner does it take to fully level a 5 star weapon to Level 90?
 
 **Evidence:**  
 [Weapon Fodder EXP](https://genshin-impact.fandom.com/wiki/Weapon_EXP)  
 [Weapon Banner Wish Counts and Rates](https://genshin-wishes.com/global-stats/weapon-event)  
 [Calculations](https://docs.google.com/spreadsheets/d/1lqc6MtGGkczyUM-eri09ok0LtdxDe_oWELtNf5k35Gw/edit#gid=0)
 
-* Using data from Genshin Wishes to get the 3 star, 4-Star, and 5-Star weapon rates, we can calculate that the average weapon EXP per wish is 10,597.30.
-* 5-Star weapons need 9,064,450 total EXP to get to level 90, so the average number of wishes needed is 855.35.
+* Using data from Genshin Wishes to get the 3 star, 4 star, and 5 star weapon rates, we can calculate that the average weapon EXP per wish is 10,597.30.
+* 5 star weapons need 9,064,450 total EXP to get to level 90, so the average number of wishes needed is 855.35.
 
 **Significance:**  
-Average number of wishes needed on weapon banner to level a 5-Star weapon to 90 is 855 wishes.
+Average number of wishes needed on weapon banner to level a 5 star weapon to 90 is 855 wishes.
 
 ## Gacha Calculator
 

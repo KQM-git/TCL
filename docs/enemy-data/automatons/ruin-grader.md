@@ -14,10 +14,10 @@ Eye and Cores on knees. The cores will trigger headshot even when hidden, but wi
 
 | HP Threshold | Type            | Element |
 | :----------- | :-------------- | :------ |
-| 75% HP       | 1 Particle+1orb | common  |
-| 50% HP       | 1 Particle+1orb | common  |
-| 25% HP       | 1 Particle+1orb | common  |
-| Death        | 1 Orb           | common  |
+| 75% HP       | 1 particle+1orb | common  |
+| 50% HP       | 1 particle+1orb | common  |
+| 25% HP       | 1 particle+1orb | common  |
+| Death        | 1 orb           | common  |
 
 ## Resistance Table
 

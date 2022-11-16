@@ -28,14 +28,14 @@ Credit to Risuke\#6743 for suggesting the idea.
 [YouTube](https://www.youtube.com/watch?v=eDHZhkOwGk8)
 
 **Significance:**  
-It's possible to get 100%+ Gouba uptime on Xiangling using 4TF. This also shows that there is nothing in the game preventing multiple Goubas from being summoned. This is unlikely to ever be optimal, but that wasn't the point of testing this.
+It's possible to get 100%+ guoba uptime on Xiangling using 4TF. This also shows that there is nothing in the game preventing multiple Goubas from being summoned. This is unlikely to ever be optimal, but that wasn't the point of testing this.
 
 ### Guoba Self Applies Pyro
 
 **By:** Terrapin\#8603  
 **Added:** <Version date="2021-06-25" />  
 **Last tested:** <VersionHl date="2021-06-25" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_857660346865418271_858142156248973312_transcript-Gouba-self-apply-pyro.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_857660346865418271_858142156248973312_transcript-guoba-self-apply-pyro.html)
 
 **Finding:**  
 In line with previous evidence that was non-conclusive, it appears that Guoba actually does apply Pyro to himself whenever he attacks. If you time an AoE Anemo ability with his flame attack, it will cause a Pyro Swirl off of Guoba.
@@ -59,7 +59,7 @@ The hitbox of Xiangling's ultimate can hit more than once per rotation by manipu
 
 **Evidence:**
 
-* [12 ult hits when standing still against Ruin Guard \(no hitbox extensions\)](https://youtu.be/CV01mRP-oZA)
+* [12 ult hits when standing still against ruin guard \(no hitbox extensions\)](https://youtu.be/CV01mRP-oZA)
 * [15+ ult hits when enemy extends their hitboxes and some small movement](https://youtu.be/sBW6qrqfs_E?t=10)
 * [15+ ult hits when using charged attacks to displace ult](https://youtu.be/PWpTYNlnIic?t=10)
 * [Dashing through with ultimate changes clockwise rotation to anti-clockwise on some hits \(first hit notably in below video\)](https://youtu.be/oILW9mK8neQ)
@@ -87,7 +87,7 @@ Xiangling Pyronado has an enemy specific lock that lasts about 36f or 0.6s or 18
 * [Google Sheet containing all the frame counts mentioned](https://docs.google.com/spreadsheets/d/14FzSNVsEFG6wg1oDt49b8vPr_zjmKzRJsAQ2VC71OIc/edit).
 
 **Significance:**  
-These data sheds light onto Pyronado mechanics and how to maximize their Burst damage. It also explains how moving around an enemy in the opposite direction of the rotation can increase damage of both bursts. However, you should not move too fast or else the enemy hit box loses contact with your Burst before the lock expires.
+These data sheds light onto Pyronado mechanics and how to maximize their burst damage. It also explains how moving around an enemy in the opposite direction of the rotation can increase damage of both bursts. However, you should not move too fast or else the enemy hit box loses contact with your burst before the lock expires.
 
 ## Constellation Mechanics
 
@@ -176,14 +176,14 @@ Don't rely on pyronado alone to destroy Cryo Regisvine's shield
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845723930978418758_858187557295620126_transcript-hu-tao-xiangling-vape.html)
 
 **Finding:**  
-With both Hu Tao and Xiangling in the same team utilizing Xingqiu to reverse Vaporize their attacks, Xiangling will trigger reverse Vaporize on 60% of her pyronado hits, while Hu Tao will trigger reverse Vaporize on 23.5% of her N1 attacks, 49% of her charged attacks, and 59% of her Blood Blossom Hits.
+With both Hu Tao and Xiangling in the same team utilizing Xingqiu to reverse vaporize their attacks, Xiangling will trigger reverse vaporize on 60% of her pyronado hits, while Hu Tao will trigger reverse vaporize on 23.5% of her N1 attacks, 49% of her charged attacks, and 59% of her Blood Blossom Hits.
 
 **Evidence:**  
 [Google Sheets](https://docs.google.com/spreadsheets/d/1VFR322mzCJSZssFdwu_2QxtgRT0ImcAFcOavEy7aIr4/edit?usp=sharing) (By Isu)  
 [Google Sheets](https://docs.google.com/spreadsheets/d/1XvIuPWXsp5f_mJa8lbteBCq6-d-btYxkLBxGMS7YYTE/edit?usp=sharing) (By yuna)
 
 **Significance:**  
-Can be used to calculate Hu Tao/Xiangling dual Pyro teams and their efficacy compared to other teams.
+Can be used to calculate Hu Tao/Xiangling dual pyro teams and their efficacy compared to other teams.
 
 ### Gouba Snapshots CW Stack
 

@@ -28,9 +28,9 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 
 **Evidence:**
 
-* [N1P with Anemo res](https://www.youtube.com/watch?v=ef8McW6VD4A)
-* [N1P with Anemo res and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
-* [N3D with Anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
+* [N1P with anemo res](https://www.youtube.com/watch?v=ef8McW6VD4A)
+* [N1P with anemo res and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
+* [N3D with anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
 
 <Tabs>
 <TabItem value="tldr" label="TLDR">
@@ -178,7 +178,7 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 
 **Question**: Why isn't there a version without Anemo resonance? Anemo characters are shit to run with Noelle.
 
-**Author**: I can't for the life of me get consistent plunges on these boomer hands without Anemo res. I whiff more than I succeed, and if it's not consistent for me, then it's not realistic to me. If you can do it without move speed then, by all means. You can also use anything that gives you move speed. Doesn't have to be Anemo res. Personally i just dont believe its worth doing atm, until we hav a good move speed buffer that doesn't gimp the comp. Tested with macros, even with macros I couldn't get consistent plunges without some form of move speed buff.
+**Author**: I can't for the life of me get consistent plunges on these boomer hands without anemo res. I whiff more than I succeed, and if it's not consistent for me, then it's not realistic to me. If you can do it without move speed then, by all means. You can also use anything that gives you move speed. Doesn't have to be anemo res. Personally i just dont believe its worth doing atm, until we hav a good move speed buffer that doesn't gimp the comp. Tested with macros, even with macros I couldn't get consistent plunges without some form of move speed buff.
 
 ## Skill Mechanics
 
@@ -187,13 +187,13 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 **By:** JonahFarc\#7056
 
 **Finding:**  
-Noelle's Burst can proc the heal from Breastplate.
+Noelle's burst can proc the heal from Breastplate.
 
 **Evidence:**  
 [YouTube](https://youtu.be/U7jmLCUeTqw)
 
 **Significance:**  
-Popping shield before Burst guarantees two heal instances while invulnerable.
+Popping shield before burst guarantees two heal instances while invulnerable.
 
 ### Noelle’s Skill Hit Activates Healing
 
@@ -203,17 +203,17 @@ Popping shield before Burst guarantees two heal instances while invulnerable.
 [Discussion](https://tickets.deeznuts.moe/transcripts/noelle’s-skill-hit-activates-healing)
 
 **Finding:**  
-The initial hit of Noelle's Skill can trigger her healing.
+The initial hit of Noelle's skill can trigger her healing.
 
 **Evidence:**  
 [YouTube](https://youtu.be/_Ma8ai-yFYs)
 
 **Significance:**  
-Clarification on in-game Skill description—Breastplate's description says that Normal and Charged Attacks can activate healing, but the initial Skill hit can as well.
+Clarification on in-game skill description—Breastplate's description says that Normal and Charged Attacks can activate healing, but the initial skill hit can as well.
 
 ## Burst Mechanics
 
-### How does Noelle’s Elemental Burst interact with temporary defence buffs?
+### How does Noelle’s Elemental burst interact with temporary defence buffs?
 
 **By:** JonahFarc\#7056 and Midori\#2173
 
@@ -226,7 +226,7 @@ Burst was activated then a ATK value of 3,534 was observed. This value did not i
 [https://www.youtube.com/watch?v=R6ACTJdKYS4](https://www.youtube.com/watch?v=R6ACTJdKYS4)
 
 **Significance:**  
-This means that users of whiteblind needs to keep the stack at max or stack it before activating Burst for full value of the active effect.
+This means that users of whiteblind needs to keep the stack at max or stack it before activating burst for full value of the active effect.
 
 ## Constellation Mechanics
 
@@ -275,10 +275,10 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 **Noelle stats:**
 
 * Level 90
-* 191 base ATK, 510 weapon ATK, 490 arti ATK
+* 191 base atk, 510 weapon atk, 490 arti atk
 * C6, lv10 AA \(100% mv on spin\)
-* SS R2 5 stacks \(+35%\)
-* 83.4% CD, 100% CR = CRIT multiplier of 1.834
+* SS r2 5 stacks \(+35%\)
+* 83.4% CD, 100% CR = crit multiplier of 1.834
 
 **Enemy stats:**
 
@@ -303,11 +303,11 @@ This confirms what was already common knowledge: only use spin if you need to he
 
 **Finding:** It takes the ATK value when it breaks.
 
-**Evidence:** Activated a shield without Burst and had it break with Burst, then one vice versa. The damage on the shield break when Burst was active was higher.
+**Evidence:** Activated a shield without burst and had it break with burst, then one vice versa. The damage on the shield break when burst was active was higher.
 
 [ https://youtu.be/cxnAUT8dvh8](https://youtu.be/cxnAUT8dvh8)
 
-**Significance:** Break your shield while your Burst is active if possible.
+**Significance:** Break your shield while your burst is active if possible.
 
 ### Noelle C4 DS
 
@@ -317,7 +317,7 @@ This confirms what was already common knowledge: only use spin if you need to he
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837604511203721256_838347194591215656_transcript-noelle-c4-ds.html)
 
 **Finding:**  
-What I have found is that you need to have either frame perfect DS timing, or you need a 10%+ speed bonus from either Diona ascension, Jean C2, or 2 player Anemo unit synergy to reach consistent DS. I have also found that the instance of a shield break from C4 Noelle can also elongate the amount of time you have to do a proper DS. This is exceptionally difficult to pull off.
+What I have found is that you need to have either frame perfect DS timing, or you need a 10%+ speed bonus from either Diona ascension, Jean C2, or 2 player anemo unit synergy to reach consistent DS. I have also found that the instance of a shield break from C4 Noelle can also elongate the amount of time you have to do a proper DS. This is exceptionally difficult to pull off.
 
 Standard Dragon Strike: [YouTube](https://youtu.be/3Xi0SwmyrO8)  
 What this shows is how DS is able to be consistent with a speed bonus. In my case I happened to use my C2 jean to DS. But this is not needed for DS.
@@ -339,7 +339,7 @@ What I had found is that the hitstun of the shield breaking \(Noelle c4\) can al
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
-Noelle’s C4 damage instance is considered Skill damage.
+Noelle’s C4 damage instance is considered skill damage.
 
 **Evidence:**  
 Testing done by DeFault#1802 and Isu#6867  
@@ -357,14 +357,14 @@ Damage calculations for Noelle.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895691894825312256_899778880544587776_transcript-noelle-burst-extension.html)
 
 **Finding:**  
-Noelle can extend her Burst duration at C6 to maximum by being off field at the time it is supposed to expire
+Noelle can extend her burst duration at C6 to maximum by being off field at the time it is supposed to expire
 
 **Evidence:**  
 Video by manome: [YouTube](https://youtu.be/-Ueq1Wcf7w8)  
 Further video evidence by the author: [YouTube](https://youtu.be/ysQiAfYYa34)
 
 **Significance:**  
-Noelle can maximize her Burst duration without getting a kill, reducing her battery needs and allowing her to maximize Burst with significantly less effort.
+Noelle can maximize her burst duration without getting a kill, reducing her battery needs and allowing her to maximize burst with significantly less effort.
 
 ## Interactions/Synergies
 

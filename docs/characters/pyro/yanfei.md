@@ -66,7 +66,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * This stamina consumption reduction applies to all actions
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
-* Yanfei's Charged Attack shatters Frozen targets.
+* Yanfei's Charged Attack shatters frozen targets.
 
 </TabItem>
 
@@ -92,7 +92,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* **Signed Edict** is **blunt** damage and shatters Frozen targets.
+* **Signed Edict** is **blunt** damage and shatters frozen targets.
 
 </TabItem>
 

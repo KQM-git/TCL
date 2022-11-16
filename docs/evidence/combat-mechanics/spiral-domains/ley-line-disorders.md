@@ -14,7 +14,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804180847497314334_850175158378561556_transcript-leyline-auraduration.html)
 
 **Findings:**  
-Leylines auras and duration documentation have been compiled in the video demos below. Additionally, a bug with the Smoldering Flames leyline has a current bug that applies Pyro gauges to the active character unintentionally.
+Leylines auras and duration documentation have been compiled in the video demos below. Additionally, a bug with the Smoldering Flames leyline has a current bug that applies pyro gauges to the active character unintentionally.
 
 **Evidence:**
 

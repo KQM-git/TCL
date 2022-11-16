@@ -14,10 +14,10 @@ That said, the wolf pack is far from unintelligent. After suffering a defeat in 
 
 | HP Threshold | Type               | Element     |
 | :----------- | :----------------- | :---------- |
-| 75% HP       | 1 Orb & 1 Particle | Own Element |
-| 50% HP       | 1 Orb & 1 Particle | Own Element |
-| 25% HP       | 1 Orb & 1 Particle | Own Element |
-| Death        | 1 Orb & 1 Particle | Own Element |
+| 75% HP       | 1 orb & 1 particle | Own Element |
+| 50% HP       | 1 orb & 1 particle | Own Element |
+| 25% HP       | 1 orb & 1 particle | Own Element |
+| Death        | 1 orb & 1 particle | Own Element |
 
 ## Resistance Table
 

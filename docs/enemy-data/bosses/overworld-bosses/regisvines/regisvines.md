@@ -56,7 +56,7 @@ Gains +100% resistance to all while shield is up.
 
 A monster formed from a vine that was imbued with the essence of biting frost within the Ley Lines.
 
-Some studies hold that plants are like organs of the world, harmonizing the turbulent elemental energies of the Ley Lines. Concrete examples of this phenomena are Mist Flowers, Whopperflowers and the like, which brim over with elemental Energy.
+Some studies hold that plants are like organs of the world, harmonizing the turbulent elemental energies of the Ley Lines. Concrete examples of this phenomena are Mist Flowers, Whopperflowers and the like, which brim over with elemental energy.
 
 In certain circumstances, certain plants will turn into creatures of monstrous size and intent — such as the Cryo Regisvines — over the course of many years.
 
@@ -119,7 +119,7 @@ In this first phase, either its' Eye or its' Base Gem are glowing and covered in
 
 In this initial phase, it can attack you with the following attacks:
 
-* Slams its' face into the ground at the player location, sending Pyro tremors through the ground in the direction it faces.
+* Slams its' face into the ground at the player location, sending pyro tremors through the ground in the direction it faces.
 * Uses its' buds to send small fireballs at the player in rapid succession.
 * Slams its' head on the ground and sweeps it 180 degrees.
 * After a short charge-up, hurls a fireball at the player.
@@ -136,7 +136,7 @@ Upon breaking its' shield, the Pyro Regisvine will curl itself up and lay on the
 
 Share the same attacks:
 
-* Points its' corolla upwads, along with its' buds, causing Pyro Energy to erupt from the ground in multiple locations, including the player's feet.
+* Points its' corolla upwads, along with its' buds, causing Pyro energy to erupt from the ground in multiple locations, including the player's feet.
   * This attack can only be used once in this phase.
 * Channels for a moment before smashing its' body onto the last position of the player, three times.
   * Afterwards, it will remain still for a moment.
@@ -144,7 +144,7 @@ Share the same attacks:
   * It will repeat this again in a 180 degree radius, and sometimes a 300 degree radius instead.
 * Flattens and stretches out its' petals, then spins, dealing a large amount of damage and infusing the ground with Pyro.
   * A circle of Pyro will appear around it, indicating the radius of the attack.
-* Slams its' face into the ground at the player location, sending Pyro tremors through the ground in the direction it faces.
+* Slams its' face into the ground at the player location, sending pyro tremors through the ground in the direction it faces.
 * Uses its' buds to send small fireballs at the player in rapid succession.
 * Slams its' head on the ground and sweeps it 180 degrees.
   * After a short charge-up, hurls a fireball at the player.

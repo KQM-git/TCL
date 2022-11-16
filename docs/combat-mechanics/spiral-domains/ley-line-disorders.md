@@ -16,7 +16,7 @@ Ley Line Disorders operate by setting your party's gauge to the following charac
 | Tiashan Mansion 1-3 | 1GU | 20s per GU |
 | Tiashan Mansion 4   | 2GU | 10s per GU |
 
-* There is currently a bug where the burn ticks themselves are applying 1GU Pyro to the active character, and can therefore be extended beyond its intended duration.
+* There is currently a bug where the burn ticks themselves are applying 1GU pyro to the active character, and can therefore be extended beyond its intended duration.
 
 ### Cryo: Condensed Ice
 
