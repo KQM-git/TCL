@@ -8,7 +8,7 @@ Credit to Cuzimori\#1535 for the explanation of Linear and Quadratic AoE Scaling
 
 An attack that has Linear AoE Scaling would have its damage increased once for every enemy hit.
 
-Assume Kaeya is fighting a group of 4 enemies that are grouped together, and casts his Elemental Skill, which does 7000 damage. As he is hitting 4 enemies, the total damage done would be the damage of the skill times the number of enemies hit, or 7000\*4, which equals 28000.
+Assume Kaeya is fighting a group of 4 enemies that are grouped together, and casts his Elemental Skill, which does 7000 damage. As he is hitting 4 enemies, the total damage done would be the damage of the Skill times the number of enemies hit, or 7000\*4, which equals 28000.
 
 We can then illustrate the total damage done in the following formula.
 
@@ -41,7 +41,7 @@ Notable abilities that have Quadratic AoE Scaling include:
 
 ## Non-AoE Scaling
 
-An attack with no AoE Scaling would be considered a single target skill, and would not have its damage increased in relation to the amount of enemies being fought.
+An attack with no AoE Scaling would be considered a single-target Skill, and would not have its damage increased in relation to the amount of enemies being fought.
 
 Assume Fischl summons Oz against 1 enemy, and each Oz shot does 8000 damage. The total amount of damage done per shot would then be 8000. If you were to increase the number of enemies to 4, Oz would still only shoot 1 enemy, and the damage would not increase.
 

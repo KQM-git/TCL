@@ -57,7 +57,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 ### A1: Floral Sidewinder
 
-* Collei A1 does 2 instances of damage, the first of which applies dendro. - [Video](https://youtu.be/megXYAVX9vM) - Zakharov\#5645
+* Collei A1 does 2 instances of damage, the first of which applies Dendro. - [Video](https://youtu.be/megXYAVX9vM) - Zakharov\#5645
 * Collei's E can trigger her own A1 if it triggers a reaction. - [Video](https://youtu.be/megXYAVX9vM) - Zakharov\#5645
 * Triggering A1 again resets the previous A1. - [Video](https://youtu.be/612kWuU7CrI) - Bobrokrot\#0111
 

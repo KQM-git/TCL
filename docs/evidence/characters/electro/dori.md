@@ -43,9 +43,9 @@ search: false
   - [Video](https://youtu.be/MfBSVHkc4Jk)  
 
 ## Burst Mechanics
-* Dori's self application is unlike any other we've had before. Other characters' self applications have always been self auras that don't have aura tax and have a set duration, but Dori's is a legit elemental attack, which means it has aura tax and uses standard decay rate. It also applies the electro aura visual effect around the character which doesn't happen with other self auras. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+* Dori's self application is unlike any other we've had before. Other characters' self applications have always been self auras that don't have aura tax and have a set duration, but Dori's is a legit elemental attack, which means it has aura tax and uses standard decay rate. It also applies the Electro aura visual effect around the character which doesn't happen with other self auras. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
   - [Video](https://youtu.be/unCIWxypvno)
-* Dori's burst tether connects to and applies to all nearby players in multiplayer - Lefthandtaco\#6453
+* Dori's Burst tether connects to and applies to all nearby players in multiplayer - Lefthandtaco\#6453
   - [Video](https://youtu.be/unCIWxypvno)
 
 ## Ascension Mechanics
@@ -59,12 +59,12 @@ search: false
 ## Constellation Mechanics
 
 ### C2: Special Franchise
-* Dori's C2 ICD is every 2 heal ticks. This will add 3 more reactions to a burst duration, potentially more when there are multiple enemies. Doesn't share ICD with burst. - BlueBery\#9054  
+* Dori's C2 ICD is every 2 heal ticks. This will add 3 more reactions to a Burst duration, potentially more when there are multiple enemies. Doesn't share ICD with Burst. - BlueBery\#9054  
   - [Imgur](https://imgur.com/ox13neD)  
-* Dori's C2 is not burst damage. - Padilla\#0310  
+* Dori's C2 is not Burst damage. - Padilla\#0310  
   - [Video with Raiden](https://youtu.be/quFw_jShu1I)  
   - [Video without Raiden](https://youtu.be/4fUxEFPbxOk)  
 
 ## Synergies/Interactions
-* Dori's Q self electro application can proc Thoma C1, Diluc C2 and Beidou C4. This is once again due to her self application being special. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
+* Dori's Q self Electro application can proc Thoma C1, Diluc C2 and Beidou C4. This is once again due to her self application being special. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
   - [Imgur](https://imgur.com/a/7QZQmp6)  

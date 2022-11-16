@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage'
 
 * [Eula Mains Discord](https://discord.gg/EulaMains)
 * [Basic Eula Guide](https://keqingmains.com/eula/)
-* [7 Minute Video Guide to Eula](https://youtu.be/4pm1CQ7ftws)
+* [7 Minute Video Guide to Eula](https://youtu.be/4-Piecem1CQ7ftws)
 
 ## Base Stats
 
@@ -132,10 +132,10 @@ import Skill from '@site/src/components/char/Skill'
 * **Glacial Illumination** does not snapshot.
   * **Lightfall Sword** is still updating live stats when it lights up and is about to explode.
   * Lightfall stacks cannot be gained once **Lightfall Sword** lights up right before exploding.
-  * **Lightfall Sword** does not snapshot even after Eula is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage.
+  * **Lightfall Sword** does not snapshot even after Eula is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her Burst's damage.
     * Buffs that work for **Lightfall Sword** under her Alt-Swap + LFS timer include Rosaria A4, Bennett Burst, 4NO, Lisa A4, Shenhe A4, TTDS, and Zhongli shred.
-  * Rosaria's [**Shadow Samaritan**](rosaria.md#ascension-passives) \(A4\), does not consistently last to the end of Eula's burst when immediately activated before Eula's burst.
-* **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast.
+  * Rosaria's [**Shadow Samaritan**](rosaria.md#ascension-passives) \(A4\), does not consistently last to the end of Eula's Burst when immediately activated before Eula's Burst.
+* **Glacial Illumination**'s cooldown and Energy is reset at hitmark, not cast.
 * **Glacial Illumination** cast and **Lightfall Sword** are both considered blunt attacks
 * The duration of **Glacial Illumination** cannot be increased by hitlag.
 * **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.

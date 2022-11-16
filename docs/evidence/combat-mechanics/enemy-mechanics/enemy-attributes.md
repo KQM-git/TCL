@@ -12,7 +12,7 @@ search: false
 
 **By:** Steno\#6940
 
-**Finding:** In-depth look at monster skill effects in abyss/domains \(Ice Cage, Pursuing Fireball, etc.\)
+**Finding:** In-depth look at monster Skill effects in abyss/domains \(Ice Cage, Pursuing Fireball, etc.\)
 
 Note: Since the official names for these are incredibly difficult to find, I will list them here
 
@@ -25,29 +25,29 @@ Note: Since the official names for these are incredibly difficult to find, I wil
 
 [Source](https://genshin.mihoyo.com/en/news/detail/9368)
 
-1\) Monster skill effects deal flat damage. The amount of damage dealt scales similarly to transformative reactions \(thanks to @Carrier5by5 for looking into this\), based purely off a base multiplier corresponding to each skill effect \(for example, **Ice Cage** deals twice as much damage as **Rumbling Stone**\). These multipliers can be found [here](https://genshin-impact.fandom.com/wiki/Elements#Damage_Abilities_2). Also, the damage is unaffected by your character level or defense; it will always deal the same amount of damage regardless.
+1\) Monster Skill effects deal flat damage. The amount of damage dealt scales similarly to transformative reactions \(thanks to @Carrier5by5 for looking into this\), based purely off a base multiplier corresponding to each Skill effect \(for example, **Ice Cage** deals twice as much damage as **Rumbling Stone**\). These multipliers can be found [here](https://genshin-impact.fandom.com/wiki/Elements#Damage_Abilities_2). Also, the damage is unaffected by your character level or defense; it will always deal the same amount of damage regardless.
 
 [YouTube video](https://www.youtube.com/watch?v=iwYAHJzqfos) \(Crimson Witch domain\)
 
-2\) The damage from monster skill effects cannot be reduced by skills like **Xingqiu's E/Q** and **Beidou's Q**. This means that comps like **Beidou Xingqiu** electro-charge that can usually tank enemy attacks by stacking damage reduction cannot tank these effects easily.
+2\) The damage from monster Skill effects cannot be reduced by skills like **Xingqiu's E/Q** and **Beidou's Q**. This means that comps like **Beidou Xingqiu** electro-charge that can usually tank enemy attacks by stacking damage reduction cannot tank these effects easily.
 
 [YouTube video](https://www.youtube.com/watch?v=IUgeUMhIUq8) \(Crimson Witch domain\)
 
 [YouTube video](https://www.youtube.com/watch?v=O5zJxvufisI) \(12-3\)
 
-3\) The damage from monster skill effects is affected by character resistance.
+3\) The damage from monster Skill effects is affected by character resistance.
 
-[YouTube video](https://www.youtube.com/watch?v=ElFNtz8QrnU) \(Tested with a lvl 21 Razor with and without 2pc lavawalkers set\)
+[YouTube video](https://www.youtube.com/watch?v=ElFNtz8QrnU) \(Tested with a lvl 21 Razor with and without 2-Piece lavawalkers set\)
 
-4\) The damage from monster skill effects can be shielded. This also means that while the damage can be shielded, damage reduction skills that normally reduce the amount of shield damage taken will not apply.
+4\) The damage from monster Skill effects can be shielded. This also means that while the damage can be shielded, damage reduction skills that normally reduce the amount of shield damage taken will not apply.
 
 [YouTube video](https://www.youtube.com/watch?v=d9THhkkdFwY)
 
-5\) Monster skill effects can be taunted. In general, these skill effects target the same thing that the corresponding monster is also targeting. In some cases the target will "snapshot" \(i.e. if the monster changes its target during the effect, the effect will not update\) and in other cases it will not. Seems to be inconsistent.
+5\) Monster Skill effects can be taunted. In general, these Skill effects target the same thing that the corresponding monster is also targeting. In some cases the target will "snapshot" \(i.e. if the monster changes its target during the effect, the effect will not update\) and in other cases it will not. Seems to be inconsistent.
 
 [YouTube video](https://www.youtube.com/watch?v=AEPVPyj-Vl0)
 
-Monster skill effects spawn at fixed intervals, specific to each type:
+Monster Skill effects spawn at fixed intervals, specific to each type:
 
 * Ice Cage: 12.5 seconds
 * Vacuum Vortex: unknown \(its not in the game rn\)
@@ -78,7 +78,7 @@ Overall useful information for people looking to clear abyss/domains
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865014289025466392_865729755093008415_transcript-bubble-persists-on-swap.html)
 
 **Finding:**  
-The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds
+The bubble from the Hydro Abyss Mages and their Hydro bubble spawning mechanic can be effectively i-framed by swapping characters at the precise moment. However, the Hydro bubble will persist on the character that was initially hit for approximately 5 seconds
 
 **Evidence:**  
 [Imgur](https://imgur.com/3gLxkSv)  
@@ -87,7 +87,7 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 [Imgur](https://imgur.com/J2UXMr4)
 
 **Significance:**  
-Dash iframes do not always work against the bubbles, especially for the abyss mage ones which home onto the character even after iframing through it. While the character initially hit still takes damage from the bubble, the dangerous CC effect of the bubble can be ignored, which makes dealing with the bubbles without ult iframes a lot easier.
+Dash i-frames do not always work against the bubbles, especially for the abyss mage ones which home onto the character even after iframing through it. While the character initially hit still takes damage from the bubble, the dangerous CC effect of the bubble can be ignored, which makes dealing with the bubbles without ult i-frames a lot easier.
 
 ### CO-OP Hydro Abyss Mage Bubble
 
@@ -119,14 +119,14 @@ Based on the evidence provided, it is clearly shown that other players (includin
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_874182515840155648_878190059038335056_transcript-black-aura-data.html)
 
 **Findings:**  
-This entry was opened to know the values of the black auras you can find in abyss and Inazuma bounties, which release a shockwave of a random element (although, just like with Geovishaps, this element is already determined before the battle even starts), so far, only Hydro, Electro and Cryo black auras have appeared in the game.
+This entry was opened to know the values of the black auras you can find in abyss and Inazuma bounties, which release a shockwave of a random Element (although, just like with Geovishaps, this Element is already determined before the battle even starts), so far, only Hydro, Electro and Cryo black auras have appeared in the game.
 
 Research made in-game proved that these black auras has the following properties:
 
 Cooldown: 15s  
 Gauge Units it inflicts: 2  
 Multiplier: 400%  
-Element: Depends (usually matches the element of the black aura's holder)
+Element: Depends (usually matches the Element of the black aura's holder)
 
 These properties are shared across the 3 black auras.
 
@@ -140,9 +140,9 @@ Note: Inazuma bounties seem to be an exception, as both Tier 2 and Tier 3 bounti
 [Video](https://www.youtube.com/watch?v=ioADUvIrhUM)
 
 How was all of this tested?  
-After seeing several factors that could affect the result, such as the Protective Canopy's 15% Elemental RES, all values in the doc were compiled by visiting all domains in Teyvat and taking damage several times with different characters and anemo resonance, all of this while avoiding elemental reactions.  
-Cooldown and Gauge Units are easy to test, as you only need a timer, and avoid getting another element on you.  
-The 400% multiplier was somewhat easy to get, as the black aura damage always matches the one dealt by the cryo one, and since the cryo aura has a multiplier of 400%, then black auras should too.
+After seeing several factors that could affect the result, such as the Protective Canopy's 15% Elemental RES, all values in the doc were compiled by visiting all domains in Teyvat and taking damage several times with different characters and Anemo resonance, all of this while avoiding elemental reactions.  
+Cooldown and Gauge Units are easy to test, as you only need a timer, and avoid getting another Element on you.  
+The 400% multiplier was somewhat easy to get, as the black aura damage always matches the one dealt by the Cryo one, and since the Cryo aura has a multiplier of 400%, then black auras should too.
 
 **Significance:**  
 Early understanding about this strange **Black Aura**, now known officially as "**Discharge**"
@@ -160,12 +160,12 @@ The targeting point for targeted skills (which is everything except bow aim shot
 **Evidence:**  
 [Imgur](https://imgur.com/a/hShlJ7r)
 
-* The larger of the two new enemies for patch 2.2 can display some highly inaccurate targeting boxes, especially when frozen. This also shows the targeting point and hitbox are separate.
-* The Rifthound initiates a jump back and follow-up charge, but gets frozen as soon as the follow up charge starts. However, Ayaka cannot damage it with her charge attack because the targeting point is too far away from the enemy hitbox.
+* The larger of the two new enemies for patch 2.2 can display some highly inaccurate targeting boxes, especially when Frozen. This also shows the targeting point and hitbox are separate.
+* The Rifthound initiates a jump back and follow-up charge, but gets Frozen as soon as the follow up charge starts. However, Ayaka cannot damage it with her Charged Attack because the targeting point is too far away from the enemy hitbox.
 * I think MiHoYo tried to fake bow normal target tracking for Rifthounds by making the targeting point in front of the enemy hitbox, instead of inside it. Unfortunately, this hack affects everything else too, and makes Ayaka whiff half her kit. R.I.P.
 
 **Significance:**  
-Some Elemental Bursts, Skills, Catalyst/Bow Normal Attacks, and special Charge Attacks can potentially whiff on frozen enemies, resulting in a significant DPS loss.
+Some Elemental Bursts, Skills, Catalyst/Bow Normal Attacks, and special Charged Attacks can potentially whiff on Frozen enemies, resulting in a significant DPS loss.
 
 ## Miasmic Tumor
 
@@ -179,15 +179,15 @@ A list of findings regarding the [Miasmic Tumor](../../../enemy-data/miscellaneo
 
 Behaviour:
 
-* does laser attack at 75%, 50% and 25% hp thresholds.
-* summons ochimusa at 100%, 66% and 33% hp thresholds. becomes immortal again.
+* does laser attack at 75%, 50% and 25% HP thresholds.
+* summons ochimusa at 100%, 66% and 33% HP thresholds. becomes immortal again.
 * spams orbs every 6-7 seconds after it summons the first ochimusa. they deal close to no damage, but they do deal a bit of poise damage, though it takes 2 waves of full hits to even stagger. there is a max cap on the number of orbs. aiming is scuffed until you get close to it.
 
 Other Interactions:
 
 * disappears in multiplayer.
 * cant have marks or statuses.
-* can only have cryo and freeze aura. reactions with those work as normal.
+* can only have Cryo and Freeze aura. reactions with those work as normal.
 * cant lower resistance.
 * can switch party near it, even when being hit by the orbs.
 
@@ -260,7 +260,7 @@ This knowledge will allow us to concoct strategies on how to defeat Magatsu Mita
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953726835890487376_transcript-coral-defender-orb-mechanics.html)
 
 **Findings:**  
-The energy burn orbs from Coral Defenders have 1 instance of damage. This damage is made up by a Base DMG part \(which can be blocked by a shield\) and a DMG part that is based on how much excess energy burn was dealt \(unblockable, goes through shields\). Each orb does 30 energy damage, if you get hit by the orb while having less than 30 energy, the leftover energy burn gets converted to Elemental DMG, both the Base DMG and the excess energy burn are affected by DEF but not by RES. The energy burn orbs are capable of triggering Elemental Reactions, however in case of Amplifying Reactions they will only amplify the base DMG \(blockable\) part and not the excess energy DMG \(unblockable\) part.
+The Energy burn orbs from Coral Defenders have 1 instance of damage. This damage is made up by a Base DMG part \(which can be blocked by a shield\) and a DMG part that is based on how much excess Energy burn was dealt \(unblockable, goes through shields\). Each Orb does 30 Energy damage, if you get hit by the Orb while having less than 30 Energy, the leftover Energy burn gets converted to Elemental DMG, both the Base DMG and the excess Energy burn are affected by DEF but not by RES. The Energy burn orbs are capable of triggering Elemental Reactions, however in case of Amplifying Reactions they will only amplify the base DMG \(blockable\) part and not the excess Energy DMG \(unblockable\) part.
 
 **Evidence:**
 
@@ -331,7 +331,7 @@ Disambiguation of the Abyss-specific spike field overlap behavior on the enemy p
 
 1. and 2\. [HP particles and orbs](https://youtu.be/9w8ZruafbEE)
 2. The skulls needing [3U Geo](https://youtu.be/zjmYr3iWbrE) or [38 non-Geo non-Physical hits](./enemy-interactions#rifthound-skulls-charging) with the [ICD being ignored](https://youtu.be/bn8RU3TA4vc)
-3. [Attacks that can be dodged and i-framed](https://youtu.be/Gs5R3-yRtjA) (note that not all attacks were tested due to skill issue, it's possible that some other attacks can also be i-framed by sprinting)
+3. [Attacks that can be dodged and i-framed](https://youtu.be/Gs5R3-yRtjA) (note that not all attacks were tested due to Skill issue, it's possible that some other attacks can also be i-framed by sprinting)
 4. [Geo Constructs can only get destroyed in only the inner part of the arena](https://youtu.be/5nEmF6XvrLY)
 5. Attacks:
    * [Ramming attack](https://youtu.be/eUlMgelTqVs)
@@ -361,13 +361,13 @@ Credits to HowLxxxx\#4676, Mr. Pillow\#0065, borderline\#3100, Silvershine2\#543
 **By:** Zakharov\#5645  
 **Added:** <Version date="2022-07-29" />  
 **Last tested:** <VersionHl date="2022-07-29" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/ruin-serpent-hp-particle-counts)
+[Discussion](https://tickets.deeznuts.moe/transcripts/ruin-serpent-HP-particle-counts)
 
 **Finding:**  
-Ruin Serpent drops 1 clear orb at 1/3 and 2/3 HP, and 1 clear particle on death.
+Ruin Serpent drops 1 clear Orb at 1/3 and 2/3 HP, and 1 clear Particle on death.
 
 **Evidence:**  
 [YouTube](https://youtu.be/RWUsG-M6QPY)
 
 **Significance:**  
-Add to library and HP particle database.
+Add to library and HP Particle database.

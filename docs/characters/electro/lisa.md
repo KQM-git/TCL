@@ -63,7 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
-* 3 hits / 2.5s ICD, shared with tap elemental skill.
+* 3 hits / 2.5s ICD, shared with tap elemental Skill.
 
 </TabItem>
 
@@ -132,7 +132,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Lightning Rose** has an unlisted instance of damage on initial summon
   * Summon damage is 10% at all talent levels.
   * Summon damage does not apply an Electro Aura.
-  * Summon damage does not apply the DEF shred from **Static Electricity Field** \(A4\).
+  * Summon damage does not apply the DEF Shred from **Static Electricity Field** \(A4\).
 * Enemy targeting seems fully randomized between all opponents in-range.
 * Discharges from **Lightning Rose** have a small AoE on impact. In tight enemy groups, a lightning bolt can deal damage to multiple enemies at once.
 * The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/attributes:
@@ -172,7 +172,7 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * This only applies to the Hold E variant.
-* This summons a single special particle that only provides energy if Lisa is on field.
+* This summons a single special Particle that only provides Energy if Lisa is on field.
 
 </TabItem>
 

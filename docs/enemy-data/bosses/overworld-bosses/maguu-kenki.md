@@ -16,10 +16,10 @@ Face.
 
 | HP Threshold | Type               | Element |
 | :----------- | :----------------- | :------ |
-| 75% HP       | 1 orb              | common  |
-| 50% HP       | 1 orb              | common  |
-| 25% HP       | 1 orb              | common  |
-| Death        | 1 orb + 1 particle | common  |
+| 75% HP       | 1 Orb              | common  |
+| 50% HP       | 1 Orb              | common  |
+| 25% HP       | 1 Orb              | common  |
+| Death        | 1 Orb + 1 Particle | common  |
 
 ## Resistance Table
 

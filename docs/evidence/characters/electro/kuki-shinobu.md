@@ -39,18 +39,18 @@ search: false
   * 30 FPS - 12 hits - [Video](https://www.youtube.com/watch?v=Rh2aHifxL64)
   * 60 FPS - 12 hits - [Video](https://www.youtube.com/watch?v=7M3GwSCbHGg) - Prog\#0502
   * 60 FPS - 13 hits - [Video](https://www.youtube.com/watch?v=INA_H8Wly7M)
-* Elemental Burst hitcount at low hp and played at 30 fps appears to be somewhat RNG. - [Google Sheets](https://docs.google.com/spreadsheets/d/1PvFk2bDjM1VnLFty8DTkXG9CC8LXOPpyHhE4rjQJQNM/edit?usp=sharing) - mementomori\#0001
-  * Over 30 instances, an average of 11.7 damage ticks per burst was counted, with each one being either 11 or 12 ticks.
+* Elemental Burst hitcount at low HP and played at 30 fps appears to be somewhat RNG. - [Google Sheets](https://docs.google.com/spreadsheets/d/1PvFk2bDjM1VnLFty8DTkXG9CC8LXOPpyHhE4rjQJQNM/edit?usp=sharing) - mementomori\#0001
+  * Over 30 instances, an average of 11.7 damage ticks per Burst was counted, with each one being either 11 or 12 ticks.
 * Ping does not play a roll in how many damage ticks the Burst may have. - [Google Sheets](https://docs.google.com/spreadsheets/d/1PvFk2bDjM1VnLFty8DTkXG9CC8LXOPpyHhE4rjQJQNM/edit#gid=774661355) - mementomori\#0001
 
 ## Ascension Mechanics
 
 ### A4: Heart’s Repose
 
-* Kuki Shinobu's A4 passive healing is additive. - [Video](https://www.youtube.com/watch?v=PioUWJx2YIU) - emmaus\#9072
+* Kuki Shinobu's A4 Passive healing is additive. - [Video](https://www.youtube.com/watch?v=PioUWJx2YIU) - emmaus\#9072
   * Difference in healing \= 144
   * Predicted additive healing \= 0.75 \* 192 \= 144
-* Kuki Shinobu's A4 passive healing is affected by Healing Bonus. - [Video](https://www.youtube.com/watch?v=b5KXuFh1pAw) - emmaus\#9072
+* Kuki Shinobu's A4 Passive healing is affected by Healing Bonus. - [Video](https://www.youtube.com/watch?v=b5KXuFh1pAw) - emmaus\#9072
   * Using 15% Healing Bonus difference \= 166
   * Predicted Difference: 0.75 \* 192 \* 1.15 \= 165.6
 
@@ -61,4 +61,4 @@ search: false
 * Elemental Skill and C4 have separate ICD. - [Video](https://www.youtube.com/watch?v=KXMqiHhOr1w) - BlueBery\#9054
 * C4 damage scales with Elemental Skill Damage. - [Video](https://www.youtube.com/watch?v=stbDCK_i0lI) - BlueBery\#9054
 * C4 can generate particles. - [Video](https://www.youtube.com/watch?v=08wZg7eMZZw) - BlueBery\#9054
-* There is no cooldown for particle generation between Skill and C4. [Video](https://www.youtube.com/watch?v=5Vj_mTyL4e8) - BlueBery\#9054
+* There is no cooldown for Particle generation between Skill and C4. [Video](https://www.youtube.com/watch?v=5Vj_mTyL4e8) - BlueBery\#9054

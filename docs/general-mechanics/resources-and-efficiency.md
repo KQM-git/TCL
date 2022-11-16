@@ -79,7 +79,7 @@ Possible sacrifices are:
 * Most Mora-efficient heal \(assuming 20k HP\): Grilled Tiger Fish, 11.23 Health/Mora
 * Cheapest Revive: Teyvat Fried Egg, 180 Mora if bought from restaurant
 * Most Mora-efficient sprinting stamina reduction: Lotus Seed and Bird Egg Soup, 850 Mora
-* As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food.
+* As other effects such as ATK buffs and CRIT Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food.
 * Character with extra dish passive can duplicate their specialties while cooking.
 
 ## Destroy Mechanics
@@ -210,7 +210,7 @@ Elemental infusions will generally prevent chopping wood with normal attacks.
 Attacks that shake untouched trees, including enemy attacks, can allow them to be harvested using a small number of Elemental Skills in a short window. We explored this to find several things.
 
 * Shaking a tree marks it as a target for a wider variety of skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
-* All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark.
+* All Physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark.
 * Marks last a very short time.
 * Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload.
 * Melee normal attacks can sometimes whiff on a tree. This still marks the tree and enables harvesting via Elemental Skill.
