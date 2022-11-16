@@ -15,7 +15,7 @@ search: false
 
 ## Attack Mechanics
 
-### Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves
+### Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an Element themselves
 
 **By:** EternalDream\#5503  
 **Added:** <Version date="2020-11-19" />  
@@ -79,22 +79,22 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 **Finding:**
 
-The first 2 \(tap\) and last 3 \(hold\) projectiles of Diona's Elemental skill have separate element application cooldowns.
+The first 2 \(tap\) and last 3 \(hold\) projectiles of Diona's Elemental Skill have separate Element application cooldowns.
 
 **Evidence:**
 
 [https://youtu.be/MrN0FWlHcCo](https://youtu.be/MrN0FWlHcCo)
 
 After applying a strong fire aura \(Bennett E\), I applied a Cryo trigger from Diona's E.  
-I also tested waiting between Bennett's E and Diona's E to downgrade the fire element strength.
+I also tested waiting between Bennett's E and Diona's E to downgrade the fire Element strength.
 
-Bennett E + \(no wait\) + Diona E \(tap\) = 1 melt reaction + weak pyro aura remaining on enemy.
+Bennett E + \(no wait\) + Diona E \(tap\) = 1 Melt reaction + weak Pyro aura remaining on enemy.
 
-Bennett E + \(no wait\) + Diona E \(hold\) = 2 melt reactions + no element remaining on the enemy.
+Bennett E + \(no wait\) + Diona E \(hold\) = 2 Melt reactions + no Element remaining on the enemy.
 
-Bennett E + \(wait 5+ seconds\) + Diona E \(tap\) = 1 melt reaction + no element remaining on the enemy.
+Bennett E + \(wait 5+ seconds\) + Diona E \(tap\) = 1 Melt reaction + no Element remaining on the enemy.
 
-Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 melt reaction + cryo aura remaining on the enemy.
+Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 Melt reaction + cryo aura remaining on the enemy.
 
 ### Bug: Diona's shield is 2U under specific circumstances that are guaranteed on swap
 
@@ -110,13 +110,13 @@ Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 melt reaction + cryo aura
 
 **Significance:**
 
-Diona's shield was most likely meant to be 1U like every other self-aura in the game. miHoYo may have implemented a failsafe for Diona's e missing that forms a shield anyway, and this redundant shield ALSO applies 1U and can appear even if her e does connect functionally making it a 2U application and the largest self aura in the game. The fact that it is strangely particular in when and how it applies the 2U instead of 1U makes it more likely that the scenario where you get 1U of cryo instead is intended instead of the other way around.
+Diona's shield was most likely meant to be 1U like every other self-aura in the game. miHoYo may have implemented a failsafe for Diona's e missing that forms a shield anyway, and this redundant shield ALSO applies 1U and can appear even if her e does connect functionally making it a 2U application and the largest self aura in the game. The fact that it is strangely particular in when and how it applies the 2U instead of 1U makes it more likely that the scenario where you get 1U of Cryo instead is intended instead of the other way around.
 
 Hopefully, miHoYo just makes her shield more consistent when it comes to cleansing herself in a future patch, but the workaround from the below video can be used to cleanse the team with 1 less swap in the meantime. My speculation as to WHY this happens has to do with some observations and ideas about how shields work in general.
 
 When a character swaps, the whole character gets entirely removed from play and then replaced with the new one and it SEEMS that it keeps the same shield. But if we make a certain assumption that shields function like buffs, then some things start to make sense. For example, because shield effectiveness is a statistic, moving the same exact shield across characters wouldn't be correct as we know that shields have different values across characters with different shield effectiveness.
 
-To solve this they save the base shield value, remaining shield, and duration and apply these characteristics to the new shield upon character swap. The old shield then ceases to exist under normal circumstances and a new shield is immediately created using the saved characteristics on the new character adjusted for shield efficiency. Since Diona's shield ALSO applies cryo to the character they would also need to apply cryo to the character and this is where things might be going wrong in between shields, the method that they are using to apply the cryo may linger for too long across swaps and apply to the new unit on top of the normal shield that they generate.
+To solve this they save the base shield value, remaining shield, and duration and apply these characteristics to the new shield upon character swap. The old shield then ceases to exist under normal circumstances and a new shield is immediately created using the saved characteristics on the new character adjusted for shield efficiency. Since Diona's shield ALSO applies Cryo to the character they would also need to apply Cryo to the character and this is where things might be going wrong in between shields, the method that they are using to apply the Cryo may linger for too long across swaps and apply to the new unit on top of the normal shield that they generate.
 
 I'm not 100% certain it works this way, but Noelle had a similar bug that leads me to believe shields work like this. In the Noelle video below, under the above theory, the shield is just breaking instead of ceasing to exist on swap like it is supposed to, and the timing for the glitch being identical to the current subject raises my eyebrows.
 
@@ -268,7 +268,7 @@ If you cast her Burst on a moving enemy you will miss, it could be good for long
 **By:** Ultimate Noob\#2955  
 **Added:** <Version date="2022-03-04" />  
 **Last tested:** <VersionHl date="2022-03-04" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-crit-scales-off-character.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-CRIT-scales-off-character.html)
 
 **Finding:**  
 Diona's stamina reduction stacks with other sources.
@@ -336,7 +336,7 @@ Sacrifical Bow procs on Diona's hold E do not match the theoretical chances, the
   * 92/100 R3 hold E on Pyro Regisvine
   * 78/100 R1 hold E (from friend) in Abyss (theoretical 92.224%)
   * 280/300 R3 hold E in Abyss [YouTube](https://youtu.be/gNgc723WkO8)
-  * 49/50 R1 fav bow in Abyss, 89.4% crit rate (theoretical 97.859% from ItzSomebody\#0029's math) [YouTube](https://youtu.be/2vikaPLhSPo)
+  * 49/50 R1 fav bow in Abyss, 89.4% CRIT Rate (theoretical 97.859% from ItzSomebody\#0029's math) [YouTube](https://youtu.be/2vikaPLhSPo)
 * XQ
   * 87/100 R3 in Abyss (theoretical 84%)
 * Sucrose
@@ -349,7 +349,7 @@ Sacrifical Bow procs on Diona's hold E do not match the theoretical chances, the
   * 49/50 R3 4-5 enemies hit in Abyss (theoretical between 97.44% and 98/976%) [YouTube](https://youtu.be/tHPgAaspY1U)
 
 **Explanation/Methodology:**  
- To find out why diona is not proccing Sacrifical Bow correctly, both sac and fav bow were tested on diona to ensure that it was simply not diona's hold E being weird in general, sac weapons were tested on hitting multiple enemies to see if it triggered correctly, a sac weapon (sword) was tested on hitting one enemy multiple times with the same skill (emc e) to see if it triggered correctly, and sac bow specifically was tested on hitting multiple enemies to see if it triggered correctly.
+ To find out why diona is not proccing Sacrifical Bow correctly, both sac and fav bow were tested on diona to ensure that it was simply not diona's hold E being weird in general, sac weapons were tested on hitting multiple enemies to see if it triggered correctly, a sac weapon (sword) was tested on hitting one enemy multiple times with the same Skill (emc e) to see if it triggered correctly, and sac bow specifically was tested on hitting multiple enemies to see if it triggered correctly.
 
 **Significance:**  
-The results of the testing shows that everything works pretty much as expected except diona's hold E on sac bow. While we currently do not know the source of this anomaly, the scope of this entry is to record and document its existence. Since diona as a battery sometimes uses sac bow, knowing she doesn't proc it as well as math dictates means energy calculations with sac bow should change to reflect that she doesn't follow standard math.
+The results of the testing shows that everything works pretty much as expected except diona's hold E on sac bow. While we currently do not know the source of this anomaly, the scope of this entry is to record and document its existence. Since diona as a battery sometimes uses sac bow, knowing she doesn't proc it as well as math dictates means Energy calculations with sac bow should change to reflect that she doesn't follow standard math.

@@ -62,7 +62,7 @@ As reason might dictate, monsters made from coalesced Anemo already come equippe
   * When they have a full fury bar they will grow bigger and they do more damage.
 * Shoots two consecutive homing wind bolts that do Anemo DMG.
   * If at max fury, instead shoots three non-homing bolts in a spread pattern and becomes its' only attack.
-* Spins, puffs up, then releases a swirl of wind dealing AoE Anemo DMG.
+* Spins, puffs up, then releases a Swirl of wind dealing AoE Anemo DMG.
 * Explodes after a short pause when defeated dealing AoE Anemo DMG.
   * If at max fury, will instead create a Vacuum Field that sucks in players and deals Anemo DoT.
   * This attack is inevitable to happen, and negates the kill from the player, counting as killing itself instead, thus not activating any on kill effects (ex. the blackcliff weapon series).
@@ -82,7 +82,7 @@ A certain alchemist once studied these beings, speculating that they might be a 
   * When they have a full fury bar, they will grow bigger and do more damage.
 * Ice Missle: Shoots a slow homing projectile that deals 100% ATK as Cryo DMG on hit, after a couple of seconds the projectile will lose its homing property and start to travel in a straight line.
 * Frost Bomb: Spins before shooting out a downward snowball that bursts dealing 100% ATK as AoE Cryo DMG.
-* Snowball Sling: Consecutively launches 6 snowballs at the player that burst on contact dealing AoE Cryo DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
+* Snowball Sling: Consecutively launches 6 snowballs at the player that Burst on contact dealing AoE Cryo DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
 * Final Burst: Explodes after a short pause when defeated dealing 125% ATK as AoE Cryo DMG. If at max Fury, DMG is increased to 150% ATK, and leaves behind a patch of frost on the ground that deals 50% ATK as AoE Cryo DoT.
 
 </TabItem>
@@ -103,7 +103,7 @@ Coming soon.
 
 ## Electro Specter
 
-A certain researcher once studied these creatures. He believed that they must be Hypostases of some kind. After all, they both had elemental peculiarities and were birthed from areas saturated with elemental energy, right? By the way, he was later investigated for academic corruption.
+A certain researcher once studied these creatures. He believed that they must be Hypostases of some kind. After all, they both had elemental peculiarities and were birthed from areas saturated with elemental Energy, right? By the way, he was later investigated for academic corruption.
 
 ## Attacks
 
@@ -162,7 +162,7 @@ On moonlit nights, Hydro Specters will give off a ghostly glow as they float by 
 
 ## Pyro Specter
 
-There was once an Akademiya student who conducted research into their behavior. He believed that Specters were a form of Crystalfly; since they both had powers of flight and both were birthed in areas saturated with elemental energy. He has not graduated yet.
+There was once an Akademiya student who conducted research into their behavior. He believed that Specters were a form of Crystalfly; since they both had powers of flight and both were birthed in areas saturated with elemental Energy. He has not graduated yet.
 
 ## Attacks
 

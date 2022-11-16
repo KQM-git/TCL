@@ -25,14 +25,14 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945484288009314304_transcript-razor-reverse-scam.html)
 
 **Finding:**  
-Razor's Electro Sigils are not immediatly consumed when using Hold E, whereas the energy gained from it is instant.
+Razor's Electro Sigils are not immediatly consumed when using Hold E, whereas the Energy gained from it is instant.
 
 **Evidence:**  
 [YouTube video](https://youtu.be/TeDk5AEJS78)  
 In this clip Razor with 3 Sigils uses Hold E. Right after using the Hold E he immediatly gains Energy. After that Razor is swapped out and then swapped in again, while he still has 3 Sigils afterwards. Then Hold E is used another time and Razor is able to gain Energy from the Sigils again.
 
 **Significance:**  
-This allows Razor to gain more energy by consuming the same sigils multiple times without losing the stack count.
+This allows Razor to gain more Energy by consuming the same sigils multiple times without losing the stack count.
 
 ### Razor Is The Best Battery
 
@@ -49,7 +49,7 @@ Killable enemies are still being tested.
 [YouTube](https://youtube.com/playlist?list=PLDnBgF8WH4xvVTZCvQ2n91jzXTfruAqoE)  
 
 **Significance:**  
-Free energy go brr  
+Free Energy go brr  
 
 ## Burst Mechanics
 
@@ -58,14 +58,14 @@ Free energy go brr
 **By:** EternalDream\#5503
 
 **Finding:**  
-Razor retains his Electro aura from his Burst for a short time when switched off before burst ends \(around 2 seconds\). When switched back to, the aura can still react with other self-inflicted auras such as Bennett Q or Diona E before it disappears.
+Razor retains his Electro aura from his Burst for a short time when switched off before Burst ends \(around 2 seconds\). When switched back to, the aura can still react with other self-inflicted auras such as Bennett Q or Diona E before it disappears.
 
 **Evidence:**
 
 * [YouTube](https://youtu.be/3503hisK3yA)
 
 **Significance:**  
-Just something to keep in mind when switching off Razor before his burst fully ends, and back to him in a short timeframe when fighting in aura-applying areas that react with Electro, as switching back to Razor too quickly may apply overload/electro-charged/superconduct to him outside of his burst.
+Just something to keep in mind when switching off Razor before his Burst fully ends, and back to him in a short timeframe when fighting in aura-applying areas that react with Electro, as switching back to Razor too quickly may apply overload/electro-charged/superconduct to him outside of his Burst.
 
 ### How does Hitlag affect Razor’s Q?
 
@@ -118,7 +118,7 @@ Razor's A4 does not work until after some time after using his Burst when the pi
 **Evidence:**
 
 1. [YouTube video](https://youtu.be/AWZ5mOoZODw) at 54-65ms ping  
-   In the 1st test Razor with 3 Sigils uses his Burst. His base ER is 120.1%, 3 Sigils increased it to 180.1%. Right after using the bBrst his ER is still 180.1%. After that it drops down to 120.1% when the Sigil bonus expires (visually it happens when Sigils fade, it seems). And only after that when Sigils visibly move towards Razor and disappear Razor's ER increases to 150.1% (+30% when energy is below half).
+   In the 1st test Razor with 3 Sigils uses his Burst. His base ER is 120.1%, 3 Sigils increased it to 180.1%. Right after using the bBrst his ER is still 180.1%. After that it drops down to 120.1% when the Sigil bonus expires (visually it happens when Sigils fade, it seems). And only after that when Sigils visibly move towards Razor and disappear Razor's ER increases to 150.1% (+30% when Energy is below half).
 2. [YouTube video](https://youtu.be/gOACY5otYvw)  
    Same result at 192ms (2nd and 3rd tests were performed with Razor having 100% base ER).
 3. [YouTube video](https://youtu.be/O4ZFRxR-j-I) at 28ms ping  
@@ -208,7 +208,7 @@ I found that press would deal 4.33% more damage to hold on Razor's E against a s
 **By:** Tetragram\#6983 and Shifu02\#7738
 
 **Theory:**  
-To find if Razor had a higher DPS on 3 hit or 4 hit combo without burst form \(Q\).
+To find if Razor had a higher DPS on 3 hit or 4 hit combo without Burst form \(Q\).
 
 **Evidence:**
 
@@ -229,7 +229,7 @@ NOTE: this finding has been amended due to recent tests: 4 hit is now generally 
 **By:** Fozbos\#3469
 
 **Theory:**  
-To find if 3 hit + E press or 4 hit in terms of dps is better without burst form \(Q\).
+To find if 3 hit + E press or 4 hit in terms of dps is better without Burst form \(Q\).
 
 **Evidence:**
 
@@ -238,7 +238,7 @@ To find if 3 hit + E press or 4 hit in terms of dps is better without burst form
 **Conclusion**:  
 3 hit + E is better than 4 hit. An ideal combo would be to use E + 3 hits + 3 hits + E.
 
-### How many frames in E normal attack vs E burst attack?
+### How many frames in E normal attack vs E Burst attack?
 
 **By:** Avs\#5138
 
@@ -249,10 +249,10 @@ Test 1, 1.15 = 75 frames Test 2, 1.07 = 67 frames Test 3, 1.07 = 67 frames Test 
 
 Burst E:
 
-Test 1, 1.16 = 76 frames Test 2, 1.15 = 75 frames Test 3, 1.16 = 76 frames Test 4, 1.29 = 89 frames Test 5, 1.19 = 79 frames Test 6, 1.18 = 78 frames Test 7, 1.16 = 76 frames Test 8, 1.16 = 77 frames Average frames of 8 tests = 78.25 frames for E during Q burst
+Test 1, 1.16 = 76 frames Test 2, 1.15 = 75 frames Test 3, 1.16 = 76 frames Test 4, 1.29 = 89 frames Test 5, 1.19 = 79 frames Test 6, 1.18 = 78 frames Test 7, 1.16 = 76 frames Test 8, 1.16 = 77 frames Average frames of 8 tests = 78.25 frames for E during Q Burst
 
 **Conclusion**:  
-The animation is different and slightly slower during burst. It is not affected by the 40%+ normal ATK SPD bonus \(or else it would be faster, or if it was, the different animation would be longer and then reduced to 78.25 frame average\).
+The animation is different and slightly slower during Burst. It is not affected by the 40%+ normal ATK SPD bonus \(or else it would be faster, or if it was, the different animation would be longer and then reduced to 78.25 frame average\).
 
 ### Razor Dragonstrike MV/s
 

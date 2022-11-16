@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 orb      | Hydro   |
-| 33% HP       | 1 orb      | Hydro   |
-| Death        | 1 particle | Hydro   |
+| 66% HP       | 1 Orb      | Hydro   |
+| 33% HP       | 1 Orb      | Hydro   |
+| Death        | 1 Particle | Hydro   |
 
 ## Shield
 
@@ -60,7 +60,7 @@ Head.
 
 * Performs a series of slash attacks, within the Hydro shield form the slashing pattern will change.
 
-* Raises both arms before unleashing a cross-shaped water projectile towards the player. If hit by this projectile, the elemental skill & burst of the active character will have their on-going cooldown increased by 6 seconds.
+* Raises both arms before unleashing a cross-shaped water projectile towards the player. If hit by this projectile, the elemental Skill & burst of the active character will have their on-going cooldown increased by 6 seconds.
 
 * Conjures one or two concentrated water projectiles with its' blades and fires them forward.
 
@@ -68,4 +68,4 @@ Head.
 
 * Turns into a spinning wheel and charges at the player. The number of charges the Abyss Herald will perform depends on how much health it has left. If the Herald is above 50% health, it only lunges once at the player. If the Herald is below 50% health, it lunges twice. In Hydro shield form, it will lunge three times. If the Hydro shield is below half strength, it will lunge four times.
 
-* Slashes the air numerous times with its' blade before unleashing 8 Hydro projectiles in a circular pattern. This attack is only used when the Herald is in its' Hydro shield form. If hit by any of those projectiles, the elemental skill & burst of the active character will have their on-going cooldown increased by 6 seconds.
+* Slashes the air numerous times with its' blade before unleashing 8 Hydro projectiles in a circular pattern. This attack is only used when the Herald is in its' Hydro shield form. If hit by any of those projectiles, the elemental Skill & burst of the active character will have their on-going cooldown increased by 6 seconds.

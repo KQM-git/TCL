@@ -15,7 +15,7 @@ If any words are unfamiliar, we have a entry on [common terms](../../theorycraft
 
 ## Notation
 
-When an elemental source is used to apply an element, it applies a number of elemental **units** onto the enemy. The respective character page should be referenced to see how many U each source applies. However, this alone is not enough. It must also be combined with the **unit modifier** specific to the situation.
+When an elemental source is used to apply an Element, it applies a number of elemental **units** onto the enemy. The respective character page should be referenced to see how many U each source applies. However, this alone is not enough. It must also be combined with the **unit modifier** specific to the situation.
 
 Units \(U\) are reported as the type of aura they apply, but elemental applications have to account for both decay rate and reactions so the notation for Elemental Gauge Theory has been appended to reflect that.
 
@@ -31,7 +31,7 @@ The decay notation number indicates the original system of elemental units that 
 | 2U                | 2GU               | 2B             | 7.5s per B            |
 | 4U                | 4GU               | 4C             | 5.3125s per C         |
 
-Day 5 Fayz Trials enhanced skill applies 8 Gauge Units of Cryo/Hydro/Pyro, for more details see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#8gu-auras).  
+Day 5 Fayz Trials enhanced Skill applies 8 Gauge Units of Cryo/Hydro/Pyro, for more details see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#8gu-auras).  
 
 ## Aura Application
 
@@ -52,7 +52,7 @@ Hereinafter, all aura applications will be referred to with this unit modifier a
 
 ## Character Elemental Gauge Application
 
-Each character has a set amount of elemental gauge applied by each individual attack or skill. A full list of character skills and their corresponding elemental gauges can be found below:  
+Each character has a set amount of elemental gauge applied by each individual attack or Skill. A full list of character skills and their corresponding elemental gauges can be found below:  
 <Card item={require('../../resources/compendiums/elemental-gauges.md')} />
 
 ## Decay Rate
@@ -64,7 +64,7 @@ Decay rate is determined by the **first aura** applied. This decay rate is alway
 * **Y-Axis** = amount of elemental gauge
 * **X-Axis** = duration in seconds
 
-Additional applications of the aura element will apply their own respective gauges, but follow the decay rate of the original aura. Meaning, a 2B or 4C gauge elemental sources can be decaying at the rate of an A gauge. To do this, apply a 1A gauge, then apply a 2B or 4C gauge of the same element to get 1.6A or 3.2A auras.
+Additional applications of the aura Element will apply their own respective gauges, but follow the decay rate of the original aura. Meaning, a 2B or 4C gauge elemental sources can be decaying at the rate of an A gauge. To do this, apply a 1A gauge, then apply a 2B or 4C gauge of the same Element to get 1.6A or 3.2A auras.
 
 > Fischl's Charged Shot applies 0.8A Electro, the use of Beidou's Q will add 3.2C Electro to the gauge, resulting in a 3.2A Electro aura persisting for 38 seconds from the time of Beidou Q.
 
@@ -92,7 +92,7 @@ When an elemental trigger is applied, it subtracts the corresponding number of e
 
 > Kaeya’s E applies 1.6B Cryo aura and is triggered by Fischl’s charged shot, which applies 1A Electro. Superconduct occurs, 0.6B Cryo aura remains.
 
-If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur and the aura will be fully consumed and no element will be left behind because **gauges cannot go below zero**.
+If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur and the aura will be fully consumed and no Element will be left behind because **gauges cannot go below zero**.
 
 > Fischl’s charged shot applies 0.8A Electro aura and is triggered by Kaeya’s E, applying 2B Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
 
@@ -100,22 +100,22 @@ The AOE of these reactions have zero elemental gauge.
 
 ## Freeze
 
-Once freeze is triggered, an enemy will be afflicted by a **frozen aura**. Reactions with frozen are equivalent to those with cryo, though the gauge of a frozen aura is often significantly higher. In addition, cryo and hydro may exist alongside the frozen aura. Removing the frozen aura, either through melt or shatter, will also remove frozen and expose the **coexisting** cryo/hydro aura, allowing any elemental sources to react with cryo/hydro. Even while the cryo/hydro aura is hidden under the frozen aura, it will continue to decay as normal.
+Once Freeze is triggered, an enemy will be afflicted by a **frozen aura**. Reactions with Frozen are equivalent to those with Cryo, though the gauge of a Frozen aura is often significantly higher. In addition, cryo and Hydro may exist alongside the Frozen aura. Removing the Frozen aura, either through Melt or shatter, will also remove Frozen and expose the **coexisting** cryo/hydro aura, allowing any elemental sources to react with Cryo/hydro. Even while the Cryo/hydro aura is hidden under the Frozen aura, it will continue to decay as normal.
 
-Freeze is extended when the cryo or hydro is applied to freeze with a coexisting hydro or cryo aura respectively.
+Freeze is extended when the Cryo or Hydro is applied to Freeze with a coexisting Hydro or Cryo aura respectively.
 
-More details on the frozen aura, including duration, coexisting cryo/hydro, and extension may be found in the advanced guide.
+More details on the Frozen aura, including duration, coexisting Cryo/hydro, and extension may be found in the advanced guide.
 
 ## Melt and Vaporize
 
 ### Reaction Basics
 
 * Melt and Vaporize have weak and strong elements
-* Using a weak element as the trigger results in a 1.5x dmg multiplier. This is referred to as a **reverse** vape/melt
+* Using a weak Element as the trigger results in a 1.5x dmg multiplier. This is referred to as a **reverse** vape/melt
 
   > Cryo triggering Melt and Pyro triggering Vaporize
 
-* Using a strong element as the trigger results in a 2.0x dmg multiplier. This is referred to as a **forward** vape/melt
+* Using a strong Element as the trigger results in a 2.0x dmg multiplier. This is referred to as a **forward** vape/melt
 
   > Pyro triggering Melt and Hydro triggering Vaporize
 
@@ -128,7 +128,7 @@ Weak amping elemental triggers have a 0.5x modifier.
 | 1GU                       | 0.5GU               |
 | 2GU                       | 1GU                 |
 
-> An enemy affected by Amber’s Charged Shot has 1.6B Pyro. Using Kaeya’s E \(2B Cryo\) only removes 1GU Pyro because weak melt occurs when the trigger is Cryo.
+> An enemy affected by Amber’s Charged Shot has 1.6B Pyro. Using Kaeya’s E \(2B Cryo\) only removes 1GU Pyro because weak Melt occurs when the trigger is Cryo.
 
 Strong amping elemental triggers have a 2x modifier.
 
@@ -137,11 +137,11 @@ Strong amping elemental triggers have a 2x modifier.
 | 1GU                       | 2GU                 |
 | 2GU                       | 4GU                 |
 
-> An enemy affected by Kaeya’s E has 1.6B Cryo. Using Diluc’s E \(1A\) removes 2GU worth of Cyro aura because strong melt occurs when the trigger is Pyro. This leaves us with 0GU Cryo as gauges cannot go below zero.
+> An enemy affected by Kaeya’s E has 1.6B Cryo. Using Diluc’s E \(1A\) removes 2GU worth of Cyro aura because strong Melt occurs when the trigger is Pyro. This leaves us with 0GU Cryo as gauges cannot go below zero.
 
 ## Crystallize and Swirl
 
-Geo and Anemo can only be used as the trigger for crystallize and swirl reactions respectively. All Geo/Anemo triggers have a 0.5x modifier. Because Geo and Anemo cannot be applied as auras, they do not have an associated decay rate, so Geo and Anemo sources will only be refered to in GU.
+Geo and Anemo can only be used as the trigger for crystallize and Swirl reactions respectively. All Geo/Anemo triggers have a 0.5x modifier. Because Geo and Anemo cannot be applied as auras, they do not have an associated decay rate, so Geo and Anemo sources will only be refered to in GU.
 
 | Elemental Gauge of Source | After Unit Modifier |
 | :------------------------ | :------------------ |
@@ -151,14 +151,14 @@ Geo and Anemo can only be used as the trigger for crystallize and swirl reaction
 
 > Using a 1GU Geo trigger on a 0.8A Electro aura will result in Crystallize, subtracting 0.5GU and leaving 0.3A of Electro aura.
 
-Unlike other transformative reactions which have an AOE, the AOE of swirl has a non-zero gauge, which shall be explored in the following
+Unlike other transformative reactions which have an AOE, the AOE of Swirl has a non-zero gauge, which shall be explored in the following
 section.
 
 ## Swirl Application
 
-Swirl application occurs when an elemental source is applied to an enemy through the use of swirl spreading an element. This may trigger additional reactions and or apply an aura following the same rules as any other elemental source. Notably, tax is applied to any swirl application that becomes an aura.
+Swirl application occurs when an elemental source is applied to an enemy through the use of Swirl spreading an Element. This may trigger additional reactions and or apply an aura following the same rules as any other elemental source. Notably, tax is applied to any Swirl application that becomes an aura.
 
-The gauge amount and decay rate of the swirl application depend on both the aura of the entity on which swirl triggered as well as the gauge of the anemo trigger. The specifics are beyond the scope of this document and may be found in the advanced guide. A few basic examples may be seen in the table here:
+The gauge amount and decay rate of the Swirl application depend on both the aura of the entity on which Swirl triggered as well as the gauge of the Anemo trigger. The specifics are beyond the scope of this document and may be found in the advanced guide. A few basic examples may be seen in the table here:
 
 | Elemental Gauge of Aura | Anemo Gauge | Gauge of Swirl | Aura Applied After Tax | Decay Rate Conversion |
 | :---------------------- | :---------- | :------------- | :--------------------- | :-------------------- |
@@ -166,29 +166,29 @@ The gauge amount and decay rate of the swirl application depend on both the aura
 | 0.8GU                   | 2GU         | 1.95GU         | 1.56GU                 | ~7.61218s per GU      |
 | 1.6GU                   | 2GU         | 3.45GU         | 2.76GU                 | ~5.66123s per GU      |
 
-We have dropped the usage of unique letter notation to represent the decay rate of auras applied by swirl, due to their non-standard gauge (and thus decay) values.
+We have dropped the usage of unique letter notation to represent the decay rate of auras applied by Swirl, due to their non-standard gauge (and thus decay) values.
 
-Like all other applied auras, you can extend the duration of a swirled aura by already having an aura of the same element on an enemy.
+Like all other applied auras, you can extend the duration of a swirled aura by already having an aura of the same Element on an enemy.
 
-Barbara attacks (1A) an enemy and applies 0.8A Hydro. Venti's E (2GU Anemo) swirls a hydro abyss mage, which has 2U Hydro aura, spreading 3.45GU Hydro to the enemy with 0.8A Hydro. Now, after that enemy has 2.76A hydro, which will last a maximum of 32.775s.
+Barbara attacks (1A) an enemy and applies 0.8A Hydro. Venti's E (2GU Anemo) swirls a Hydro abyss mage, which has 2U Hydro aura, spreading 3.45GU Hydro to the enemy with 0.8A Hydro. Now, after that enemy has 2.76A Hydro, which will last a maximum of 32.775s.
 
 ## Electro-Charged
 
-Electro-charged \(EC\) is unique to all previously covered reactions. The current theory is that in EC, both Hydro and Electro simultaneously function and coexist as both the aura and trigger.
+Electro-charged \(EC\) is unique to all previously covered reactions. The current theory is that in Electro-Charged, both Hydro and Electro simultaneously function and coexist as both the aura and trigger.
 
-EC is triggered when an enemy with a Hydro or Electro aura has the other aura applied to it. EC will tick once per second so long as enough electro and hydro gauge remain, except in the following case:
+EC is triggered when an enemy with a Hydro or Electro aura has the other aura applied to it. EC will tick once per second so long as enough Electro and Hydro gauge remain, except in the following case:
 
-> When either the Electro or Hydro gauge completely decays, the next EC tick will prematurely occur at the moment when the gauge is completely decayed. However, if one of the gauges empties within 0.5s of the last EC tick, there will not be another tick of EC.
+> When either the Electro or Hydro gauge completely decays, the next Electro-Charged tick will prematurely occur at the moment when the gauge is completely decayed. However, if one of the gauges empties within 0.5s of the last Electro-Charged tick, there will not be another tick of Electro-Charged.
 
-Each tick of EC **consumes 0.4GU from both gauges**. Once a gauge is empty, the element will disappear from the enemy’s status, but the other element will remain available to further reactions.
+Each tick of Electro-Charged **consumes 0.4GU from both gauges**. Once a gauge is empty, the Element will disappear from the enemy’s status, but the other Element will remain available to further reactions.
 
 AOE ticks of Electro-Charged have zero gauge.
 
 ## Self Aura
 
-Self Auras are elements applied to the player character. This can be from sources such as: leylines, taking elemental damage from an enemy, or having an ability that imbues the character with an element.
+Self Auras are elements applied to the player character. This can be from sources such as: leylines, taking elemental damage from an enemy, or having an ability that imbues the character with an Element.
 
-These all have the ability to react with a slightly different ruleset from standard Gauge Theory. When a reaction is triggered and the trigger application has a higher U value than the Self Gauge, the Self Aura transitions directly to the other element.
+These all have the ability to react with a slightly different ruleset from standard Gauge Theory. When a reaction is triggered and the trigger application has a higher U value than the Self Gauge, the Self Aura transitions directly to the other Element.
 
 ## Credits
 

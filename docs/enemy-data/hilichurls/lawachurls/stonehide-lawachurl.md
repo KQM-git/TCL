@@ -14,10 +14,10 @@ Head&Shoulders.
 
 | HP Threshold | Type            | Element |
 | :----------- | :-------------- | :------ |
-| 75% HP       | 3 particle+1orb | common  |
-| 50% HP       | 3 particle+1orb | common  |
-| 25% HP       | 3 particle+1orb | common  |
-| Death        | 3 particle+1orb | common  |
+| 75% HP       | 3 Particle+1orb | common  |
+| 50% HP       | 3 Particle+1orb | common  |
+| 25% HP       | 3 Particle+1orb | common  |
+| Death        | 3 Particle+1orb | common  |
 
 ## Resistance Table
 
@@ -48,7 +48,7 @@ Head&Shoulders.
 
 ## Attacks
 
-* Punches its' chest and gives a battle cry before infusing itself with a geo armor. This attack will always be the first one attempted at the start of the fight, and can be done again after the armor is broken.
+* Punches its' chest and gives a battle cry before infusing itself with a Geo armor. This attack will always be the first one attempted at the start of the fight, and can be done again after the armor is broken.
   * While protected by the armor, certain attacks will be upgraded.
 * Takes a wide right swing at the player.
 * Takes a left swing followed up by a right punch into the ground.
@@ -57,6 +57,6 @@ Head&Shoulders.
   * Armor Upgrade: Starts the dash nearly instantaneous.
 * Executes a high, long jump to the player's location, dealing massive damage on its' landing.
   * Armor Upgrade: Upon landing, sends out 6 chain explosion aftershocks in a + shape from its' landing spot.
-* Leans forward, grabbing multiple geo slimes to throw at the player from ranged distance. This move will not spawn any slimes, they're simply projectiles.
-  * Armor Upgrade: Grabs a single large geo slime instead.
+* Leans forward, grabbing multiple Geo slimes to throw at the player from ranged distance. This move will not spawn any slimes, they're simply projectiles.
+  * Armor Upgrade: Grabs a single large Geo slime instead.
 * The following attack can only be used while protected by the armor: Smashes the ground with both fists, unleashing 6 chain explosion aftershock in 3 forward directions.

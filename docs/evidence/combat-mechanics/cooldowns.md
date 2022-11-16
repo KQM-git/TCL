@@ -13,7 +13,7 @@ sidebar_position: 3000
 **Added:** <Version date="2021-04-18" />  
 **Last tested:** <VersionHl date="2021-04-18" />
 
-**Findings:** Multi-charge elemental skills \(C0/C1 Xiao, C1 Sucrose, ...\) snapshot cooldown reduction at the time the skill is cast, not the cooldown reduction at the time the next charge starts charging \(or appears to from in-game UI\). Additionally, held abilities \(Jean E, Childe E, ...\) use CDR at the time their cooldown starts, not on cast/hold start.
+**Findings:** Multi-charge elemental skills \(C0/C1 Xiao, C1 Sucrose, ...\) snapshot cooldown reduction at the time the Skill is cast, not the cooldown reduction at the time the next charge starts charging \(or appears to from in-game UI\). Additionally, held abilities \(Jean E, Childe E, ...\) use CDR at the time their cooldown starts, not on cast/hold start.
 
 **Evidence:**  
 [Testing with Xiao and Chongyun C2](https://youtu.be/MB_IR0OStgA)
@@ -31,15 +31,15 @@ CDR may be very beneficial for characters with multi-charge skills.
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
-When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset.
+When a character with multiple charges of their elemental Skill procs the sacrificial passive, the elemental Skill cooldown shown on the timer is the cooldown that will be reset.
 
 **Evidence:**  
-[I cast one Sucrose E](https://imgur.com/a/AKgnNoq), waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s \(minus 10% due to anemo resonance in video\). So, whatever timer is currently showing is the one which will be reset.
+[I cast one Sucrose E](https://imgur.com/a/AKgnNoq), waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s \(minus 10% due to Anemo resonance in video\). So, whatever timer is currently showing is the one which will be reset.
 
 The same occurs for [Ganyu C2](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/cooldowns.md/discord/attachments_837514129479827490_837875906907209728_2021-04-30_22-17-45_Trim.mp4) and [Klee](https://www.youtube.com/watch?v=tLdhyD7hBHo&start=133).
 
 **Significance:**  
-Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first skill cast out of the stack, and that skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
+Any serial-cooldown, multi-cast Skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first Skill cast out of the stack, and that Skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a Skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
 
 ## CD reduction double bursts
 
@@ -49,10 +49,10 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877833812992725043_884454377094537227_transcript-cd-reduction-double-burst.html)
 
 **Finding:**  
-With sufficient CD reduction (Chongyun's ice field, anemo resonance, and 20% elemental burst CD reduction from a spiral abyss card), some characters with deployable bursts can have two bursts on field simultaneously.
+With sufficient CD reduction (Chongyun's ice field, anemo resonance, and 20% elemental Burst CD reduction from a spiral abyss card), some characters with deployable bursts can have two bursts on field simultaneously.
 
 **Evidence:**  
 Video evidence and additional comments consolidated [here](https://docs.google.com/spreadsheets/d/1wNcQ_nnxpG7fD3uTlUcQw8fEWnptp_TE1MGsJDKHzKw/edit?usp=sharing) (unsuccessful characters not included)
 
 **Significance:**  
-Documents which current characters are able to have a double burst on field. Extra testing after Baal's release (in consideration of the CD reduction provided by C6) also confirms that the burst talent configurations for these characters remain unchanged.
+Documents which current characters are able to have a double Burst on field. Extra testing after Baal's release (in consideration of the CD reduction provided by C6) also confirms that the Burst talent configurations for these characters remain unchanged.

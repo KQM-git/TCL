@@ -177,8 +177,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental skill.
-* The effects of C2 also apply to all damage during her burst including physical damage procs from weapon passives.
+* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental Skill.
+* The effects of C2 also apply to all damage during her Burst including Physical damage procs from weapon passives.
 * The defense ignore is multiplicative with defense shred.
 
 </TabItem>

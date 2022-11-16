@@ -31,16 +31,16 @@ search: false
 **3 Attack Rotation's Shattered procs with E freezing enemy.**
 
 * \(E Cast\)Apply Cryo \(freeze\)
-* 1st. Shattered + Apply cryo \(freeze\)
+* 1st. Shattered + Apply Cryo \(freeze\)
 * 2nd. Shattered + ICD
 * 3rd. ICD
-* 4th. Apply cryo \(freeze\)
+* 4th. Apply Cryo \(freeze\)
 * 5th. Shattered + ICD
 * 6nd. ICD
-* 7th. Apply cryo \(freeze\)
+* 7th. Apply Cryo \(freeze\)
 * 8th. Shattered + ICD
 * 9th. ICD
-* 10th. Apply cryo \(freeze\)
+* 10th. Apply Cryo \(freeze\)
 * 11th. Shattered + ICD
 * 12th. ICD
 
@@ -57,20 +57,20 @@ search: false
 **Last tested:** <VersionHl date="2021-02-12" />
 
 **Finding:**  
-Chongyun's E applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the skill such that it ticks on EXACTLY XX.0 for every second of the field duration.
+Chongyun's E applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the Skill such that it ticks on EXACTLY XX.0 for every second of the field duration.
 
 **Evidence:**  
 [Lvl 1 E](https://youtu.be/Le1MJEOkyuw)  
 In this video, I lose the infusion buff around 9 seconds of CD, and I walk back in immediately after 8.XX has passed. I do not get the infusion buff again until 7.0 on the CD, following the XX.0 rule.
 
 [Lvl 2 E](https://youtu.be/v0XZnj_4aEM)  
-Chongyun’s E however can have the infusion linger for up to 3 seconds \(w/ E levels\), but as you can see with this video where I leveled it up to 2 \(2.1 sec duration\) from the previous video’s level 1 \(2.0 sec duration\) this doesn’t change the functionality of the cryo field in regards to XX.0 rule. It still applies at the same intervals, it just lingers for longer without needing to be reapplied.
+Chongyun’s E however can have the infusion linger for up to 3 seconds \(w/ E levels\), but as you can see with this video where I leveled it up to 2 \(2.1 sec duration\) from the previous video’s level 1 \(2.0 sec duration\) this doesn’t change the functionality of the Cryo field in regards to XX.0 rule. It still applies at the same intervals, it just lingers for longer without needing to be reapplied.
 
 [Dodging E ticks](https://youtu.be/gS3WIyrQDAI)  
 Of course since Chongyun’s E adheres to this rule this also means you can weave in and out of the field and never get any benefit as long as you avoid the intervals where buffs are granted.
 
 **Significance:**  
-If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving Chongyun, you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the skill, they will get the buff on the next tenth of a second, while if you swap to a new character when XX.9 seconds remains, they will be stranded without the buffs for almost a full second, potentially introducing some inconsistency/uninfused normal attacks. Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.
+If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving Chongyun, you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the Skill, they will get the buff on the next tenth of a second, while if you swap to a new character when XX.9 seconds remains, they will be stranded without the buffs for almost a full second, potentially introducing some inconsistency/uninfused normal attacks. Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.
 
 ### Chongyun E and A4 interactions
 
@@ -82,21 +82,21 @@ If you re-enter a buff field or swap to a new character immediately after this X
 **Findings:**  
 The various interactions between Chongyun’s A4 and E have been looked at and the findings are as follows:
 
-1. Chongyun’s A4 blade is considered as elemental skill damage and as such can proc the effects of ToM 4-pc bonus and Sacrificial Greatsword.
-2. Chongyun’s A4 blade snapshots the buffs received by the E skill on cast and buffs received after do not take effect. This suggests that Chong’s E and A4 work similarly to Geo traveler’s E and C2 snapshot interaction.
+1. Chongyun’s A4 blade is considered as elemental Skill damage and as such can proc the effects of TotM 4-pc bonus and Sacrificial Greatsword.
+2. Chongyun’s A4 blade snapshots the buffs received by the E Skill on cast and buffs received after do not take effect. This suggests that Chong’s E and A4 work similarly to Geo traveler’s E and C2 snapshot interaction.
 3. Chongyun’s E area is not a field but instead a cylinder of unknown (But large) height and depth. Chongyun’s A4 can target any enemy within this large cylindrical area.
 
 **Evidence:**
 
-1. Chongyun’s A4 is considered E Skill damage. As show in the video, 4 ToM effect and Sacrificial Greatsword work with A4 Spirit Blade: [Video](https://www.youtube.com/watch?v=Y-AVX--FWlo)
-2. Chongyun’s A4 snapshots any buffs received by E skill: [Video](https://www.youtube.com/watch?v=HZuIDiry-Zs)
+1. Chongyun’s A4 is considered E Skill damage. As show in the video, 4 TotM effect and Sacrificial Greatsword work with A4 Spirit Blade: [Video](https://www.youtube.com/watch?v=Y-AVX--FWlo)
+2. Chongyun’s A4 snapshots any buffs received by E Skill: [Video](https://www.youtube.com/watch?v=HZuIDiry-Zs)
 3. Chongyun’s E field has a large cylindrical area and his A4 blade can target any enemy within it: [Video](https://www.youtube.com/watch?v=ezrIL3uUl3Y)
 
 **Significance:**
 
-1. Because Chongyun’s A4 is considered skill damage and can proc ToM, this can open up new builds for teams that can snapshot the buff before it runs out, furthermore Chongyun might be able to equip new artifact sets in the future that revolve around skill damage.
-2. As Chongyun’s A4 snapshots any buffs received by E skill, new rotations can be made that allow Chongyun’s E to snapshot buffs first to make the most of E and A4 skill damage.
-3. Due to the actual large area of Chongyun’s E field, it can be noted in the future that leaving the ground will not deactivate the effects of the field as long as you stay within its radius. Useful for characters that can use their E skill in the air such as Xiao. Also, less practical and more meme-y (and fun), Chongyun’s A4 can be used to snipe unsuspecting enemies near high cliffs and ravines.
+1. Because Chongyun’s A4 is considered Skill damage and can proc TotM, this can open up new builds for teams that can snapshot the buff before it runs out, furthermore Chongyun might be able to equip new artifact sets in the future that revolve around Skill damage.
+2. As Chongyun’s A4 snapshots any buffs received by E Skill, new rotations can be made that allow Chongyun’s E to snapshot buffs first to make the most of E and A4 Skill damage.
+3. Due to the actual large area of Chongyun’s E field, it can be noted in the future that leaving the ground will not deactivate the effects of the field as long as you stay within its radius. Useful for characters that can use their E Skill in the air such as Xiao. Also, less practical and more meme-y (and fun), Chongyun’s A4 can be used to snipe unsuspecting enemies near high cliffs and ravines.
 
 ## Burst Mechanics
 
@@ -154,7 +154,7 @@ Damage calculations for Chongyun
 
 **Evidence:** [https://youtu.be/mlaGmZoQw7k](https://youtu.be/mlaGmZoQw7k)
 
-C2 Chongyun reduces Qiqi’s E cooldown by 4.5 seconds. It continues to do so while in Cecilia Garden 2 which increases your skill’s CD duration by 100%.
+C2 Chongyun reduces Qiqi’s E cooldown by 4.5 seconds. It continues to do so while in Cecilia Garden 2 which increases your Skill’s CD duration by 100%.
 
 **Significance**: Chongyun is largely ineffective at decreasing the debuff from slowing waters in a meaningful fashion.
 

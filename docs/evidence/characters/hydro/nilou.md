@@ -26,8 +26,8 @@ search: false
 ## Attack Mechanics
 
 ## Skill Mechanics
-* Nilou Skill generates particles on all 4 hits of her skill combo, initiating skill may give 1-2, rest give 1, for a total of 4-5 particles per skill.
-Additionally, Sword Dance attacks from ending the skill combo with NA do not generate particles, neither does Tranquility Aura making enemies Wet - [Alpha Flyte#2031](https://youtu.be/LMMrcmpUBg8)
+* Nilou Skill generates particles on all 4 hits of her Skill combo, initiating Skill may give 1-2, rest give 1, for a total of 4-5 particles per Skill.
+Additionally, Sword Dance attacks from ending the Skill combo with NA do not generate particles, neither does Tranquility Aura making enemies Wet - [Alpha Flyte#2031](https://youtu.be/LMMrcmpUBg8)
 
 ### Nilou Entering Both Skill Stances
 
@@ -136,13 +136,13 @@ Nilou is not effective as a miner nor a Geo shield breaker, certain effects that
 [Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
-E N2 Q N1 allows particle pre-funneling.
+E N2 Q N1 allows Particle pre-funneling.
 
 **Evidence:**
 [YouTube](https://youtu.be/LUo5HcADJVw)
 
 **Significance:** 
-Opening rotation particle efficiency, allows C4 Energy refund to be used on the opening rotation.
+Opening rotation Particle efficiency, allows C4 Energy refund to be used on the opening rotation.
 
 ## Burst Mechanics
 
