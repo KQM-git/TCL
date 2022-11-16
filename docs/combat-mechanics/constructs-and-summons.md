@@ -8,13 +8,13 @@ Certain skills create objects that stay on the field, which are called **constru
 
 ## Geo Constructs
 
-Geo Constructs are created by Geo characters, there is a **maximum of three geo constructs on-field at once**. The moment a fourth construct is created, the oldest construct placed will be destroyed. This occurs even if the fourth construct fails to be created due to invalid placement. There is one exception to the construct limit, which are the walls created by the Geo Traveler's Wake of Earth, they are still considered Geo Constructs yet do not count towards the construct limit.
+Geo Constructs are created by Geo characters, there is a **maximum of three Geo constructs on-field at once**. The moment a fourth construct is created, the oldest construct placed will be destroyed. This occurs even if the fourth construct fails to be created due to invalid placement. There is one exception to the construct limit, which are the walls created by the Geo Traveler's Wake of Earth, they are still considered Geo Constructs yet do not count towards the construct limit.
 
 There is also a distance limit, meaning when the player teleports too far away from a Geo Construct it will disappear. The exact distance is unknown, but from the Teleport Waypoint above Knights of Favonius HQ to the Teleport Waypoint in Cape Oath exceeds said limit.
 
 Certain mobs, like Andrius, can turn a valid construct placement into an invalid one, destroying any existing constructs, now considered obstructed, in the process.
 
-Constructs take damage when hit by enemies just like characters, unless it is specified in the skill description the defensive stats will match the character using the skill at a 1:1 ratio. There are also some that are considered invulnerable.
+Constructs take damage when hit by enemies just like characters, unless it is specified in the Skill description the defensive stats will match the character using the Skill at a 1:1 ratio. There are also some that are considered invulnerable.
 
 All temporary buffs are snapshotted when cast and will affect the construct for the entire duration.
 
@@ -39,7 +39,7 @@ All temporary buffs are snapshotted when cast and will affect the construct for 
 
 * **Geo:** Construct towards Geo construct limit. See [Geo Constructs](#geo-constructs).
 * **Taunt:** Construct continuously taunts nearby enemies into attacking it.
-* **Light:** Construct can be lifted by vacuums \(such as Jean's skill\)
+* **Light:** Construct can be lifted by vacuums \(such as Jean's Skill\)
 * **Climbable:** Construct can be climbed by character.
 
 ## Evidence Vault

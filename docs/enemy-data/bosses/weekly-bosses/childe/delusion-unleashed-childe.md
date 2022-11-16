@@ -56,10 +56,10 @@ Upon transitioning to this phase, Childe will dash to the center of the arena, c
   * The mark will persist even if you switch characters.
 * Creates an Electro shield that blocks a certain amount of damage.
   * If the player attacks Tartaglia enough while his shield is up, he will attack the player with a quick counter attack slash.
-* Shoots out a huge Electro energy blast in front of him that deals very high damage.
+* Shoots out a huge Electro Energy blast in front of him that deals very high damage.
   * This triggers if Childe gets hit by any Electro attacks while his Electro Shield is up.
 * Performs one charged slash attack forward.
-* Unleashes energy deep within, creating a domain of Electro energy that deals a moderate amount of Electro DMG around him.
+* Unleashes Energy deep within, creating a domain of Electro Energy that deals a moderate amount of Electro DMG around him.
 * Performs 2 consecutive attacks forward.
 * Slides quickly to any point of the arena, dealing Electro DMG in his wake, and performs a cross slash at the destination point.
 * Slides quickly to any point of the arena, dealing Electro DMG in his wake, and performs 5 consecutive strike at the destination point (slash, slash, slash, thrust, spinning slash).

@@ -90,7 +90,7 @@ import Skill from '@site/src/components/char/Skill'
 * While under the **Pirouette** or **Lunar Prayer** effects, Nilou's Normal Attack combo will not be reset.
 * All 3 **Sword Dance** hits can be canceled very early. Well-timed dash cancels does not cause her to lose infusion slashes, thus making her an extremely mobile on-fielder.
 * **Luminous Illusion** is considered a ranged attack.
-* E N2 Q N1 allows particle pre-funneling.
+* E N2 Q N1 allows Particle pre-funneling.
 * **Sword Dance** and **Luminous Illusion** can't trigger [Beidou's Burst](../electro/beidou.md#attacks) but can trigger [Xingqiu's Burst](../hydro/xingqiu.md#attacks).
 
 </TabItem>

@@ -64,12 +64,12 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Kokomi's Normal Attacks...
-  * Apply hydro and share a 3 hit / 2.5s ICD.
+  * Apply Hydro and share a 3 hit / 2.5s ICD.
   * Have a range of ~6 tiles before it stops auto-targetting.
   * Hit in a small AoE.
 * Kokomi's 2nd Normal Attack sometimes has a delay before it comes out. This delay is inconsistent, but can usually be mitigated by performing Dash or Jump cancel.
-* Kokomi's Charged Attack applies hydro and has no ICD.
-* Kokomi's Low/High Plunge Attacks apply hydro and have no ICD.
+* Kokomi's Charged Attack applies Hydro and has no ICD.
+* Kokomi's Low/High Plunge Attacks apply Hydro and have no ICD.
 
 </TabItem>
 
@@ -101,7 +101,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Does a 0~1 (1:2) check once on every instance of damage **Bake-Kurage** does as long as it stays on the field.
-  * If **Bake-Kurage** disappears before its final tick hits an enemy, the game will not check for particle production on that hit.
+  * If **Bake-Kurage** disappears before its final tick hits an enemy, the game will not check for Particle production on that hit.
 * **Bake-Kurage**'s range has a radius of ~2.5 tiles.
 * Kokomi is limited to one **Bake-Kurage** on-field at a time.
 * **Bake-Kurage** snapshots on **Kurage's Oath** cast and does not resnapshot upon **Nereid's Ascension** triggering the duration refresh effect from her Ascension 1.
@@ -173,8 +173,8 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* The **Bake-Kurage** Duration refresh from A1 does not refresh Heart of Depths 4pc passive, because it does not count as a "using an Elemental Skill"
-* The actual refresh timing requires the **Bake-Kurage** to be on field the frame her burst animation finishes, or else you will lose the refresh.
+* The **Bake-Kurage** Duration refresh from A1 does not refresh Heart of Depths 4-Piece passive, because it does not count as a "using an Elemental Skill"
+* The actual refresh timing requires the **Bake-Kurage** to be on field the frame her Burst animation finishes, or else you will lose the refresh.
 
 </TabItem>
 

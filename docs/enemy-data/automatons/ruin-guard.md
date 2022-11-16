@@ -14,10 +14,10 @@ Front Eye and Back Cover, the weakspot remains even when they're covered, but wi
 
 | HP Threshold | Type            | Element |
 | :----------- | :-------------- | :------ |
-| 75% HP       | 1 particle+1orb | common  |
-| 50% HP       | 1 particle+1orb | common  |
-| 25% HP       | 1 particle+1orb | common  |
-| Death        | 1 orb           | common  |
+| 75% HP       | 1 Particle+1orb | common  |
+| 50% HP       | 1 Particle+1orb | common  |
+| 25% HP       | 1 Particle+1orb | common  |
+| Death        | 1 Orb           | common  |
 
 ## Resistance Table
 

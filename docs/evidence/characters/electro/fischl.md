@@ -29,7 +29,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 **Finding:**
 
-Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro every 4 hits or when a timer reaches 5 seconds after the first electro application. When the 5 second timer reaches zero, the oz's next hit will apply electro regardless of the hit counter. When the timer reaches 0 the hit counter will be reset and a new 5 sec timer will begin. This is very similar to auto attack ICDs, except instead of 3 auto attacks it is 4 oz hits, and instead of a 2.5 sec timer, it is a 5 sec timer.
+Determining Fischl's Elemental Skill's ICD. Fischl's E \(Oz\) will apply Electro every 4 hits or when a timer reaches 5 seconds after the first Electro application. When the 5 second timer reaches zero, the oz's next hit will apply Electro regardless of the hit counter. When the timer reaches 0 the hit counter will be reset and a new 5 sec timer will begin. This is very similar to Normal Attack ICDs, except instead of 3 Normal Attacks it is 4 oz hits, and instead of a 2.5 sec timer, it is a 5 sec timer.
 
 **Evidence:**
 
@@ -38,15 +38,15 @@ Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro
 
 **Significance:** A better understanding of ICDs.
 
-### Resummoning Oz while he's still active counts as using an elemental skill
+### Resummoning Oz while he's still active counts as using an elemental Skill
 
 **By:** Peekays\#2722  
 **Added:** <Version date="2021-07-17" />  
 **Last tested:** <VersionHl date="2021-07-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865717842816532491_865808993149255710_transcript-fischl-c1-and-hod.html)
 
-**Finding/Bug:** Both the summoning and re-summoning of Oz with E count as using an elemental skill.
-For example, they both trigger the 4pc heart of depth effect.
+**Finding/Bug:** Both the summoning and re-summoning of Oz with E count as using an elemental Skill.
+For example, they both trigger the 4-Piece heart of depth effect.
 
 **Evidence:**  
 [Video](https://youtu.be/s0937Qm8VFs)  
@@ -74,16 +74,16 @@ After HoD buff is gone:
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_983426378366066748_transcript-fischl-energy-generation-correction.html)
 
 **Finding:**  
-The probability that Oz generates a particle on an arbitrary attack (Oz's ATK DMG) is 0.67. This can roughly be translated to 1:2 (with the exact ratio being ~1:2.03030303).
+The probability that Oz generates a Particle on an arbitrary attack (Oz's ATK DMG) is 0.67. This can roughly be translated to 1:2 (with the exact ratio being ~1:2.03030303).
 
 * [YouTube](https://youtube.com/playlist?list=PL3fbBNyJb-ujui480yxAl3bLNU98fqJZi)
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1v9arz5Gmto7xc_g6H530289unROb1iqv2mdayzGV8WM/edit?usp=sharing)
 
 **Evidence:**  
-Two hundred trials were used as a sample, totaling to 2400 attacks (C6 Fischl). Of these 2400 attacks, 1609 of them generated a particle giving P(particle) = 1609/2400 ≈ 0.67041666667.
+Two hundred trials were used as a sample, totaling to 2400 attacks (C6 Fischl). Of these 2400 attacks, 1609 of them generated a Particle giving P(particle) = 1609/2400 ≈ 0.67041666667.
 
 **Significance:**  
-Fischl's Energy generation is better than previously thought. Most tools and guides as of now (May 17th, 2022) assume 0.60 as the probability Oz generates a particle, lower than the actual correct probability.
+Fischl's Energy generation is better than previously thought. Most tools and guides as of now (May 17th, 2022) assume 0.60 as the probability Oz generates a Particle, lower than the actual correct probability.
 
 ## Burst Mechanics
 
@@ -92,11 +92,11 @@ Fischl's Energy generation is better than previously thought. Most tools and gui
 **By:** !K\#3689  
 **Added:** <Version date="2021-05-06" />  
 **Last tested:** <VersionHl date="2021-05-06" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839862552401674240_839936289129365625_transcript-fischl-ult-can-iframe.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839862552401674240_839936289129365625_transcript-fischl-ult-can-i-frame.html)
 
-**Finding:** Fischl ult has a tiny window that you can use to iframe through attacks.
+**Finding:** Fischl ult has a tiny window that you can use to i-frame through attacks.
 
-**Evidence:** [Video showing no HP loss when ruin guard lands](https://youtu.be/7RPfSWwUOLM0)
+**Evidence:** [Video showing no HP loss when Ruin Guard lands](https://youtu.be/7RPfSWwUOLM0)
 
 **Significance:** Fischl has I-Frames on her ult, contrary to the TCL's previous claim that there were none.
 
@@ -111,11 +111,11 @@ Fischl's Energy generation is better than previously thought. Most tools and gui
 When Fischl casts Midnight Phantasmagoria and then gets swapped out, she will leave Oz behind, who will take a snapshot of Fischl's stats the moment she leaves the field.
 
 **Evidence:**  
-I started off by casting Fischl skill to show his current dmg which was 665. Then at 00:08, I used Fischl burst and swapped off when she lost the atk buff. As you can see, Oz dmg was also 665. [Video](https://www.youtube.com/watch?v=-SqSYT0QIb8)  
-For the second video, I used Fischl burst, but swapped off before she lost the atk buff. This time, Oz dmg was 1791 which was higher than his previously expected skill dmg. [Video](https://www.youtube.com/watch?v=ZNS9SAwZY84)
+I started off by casting Fischl Skill to show his current dmg which was 665. Then at 00:08, I used Fischl Burst and swapped off when she lost the ATK buff. As you can see, Oz dmg was also 665. [Video](https://www.youtube.com/watch?v=-SqSYT0QIb8)  
+For the second video, I used Fischl Burst, but swapped off before she lost the ATK buff. This time, Oz dmg was 1791 which was higher than his previously expected Skill dmg. [Video](https://www.youtube.com/watch?v=ZNS9SAwZY84)
 
 **Significance:**  
-Not only do you need to be careful about Bennett's atk buff tick interval, but also need to be careful not to let atk buff ran out before swapping out of Fischl.
+Not only do you need to be careful about Bennett's ATK buff tick interval, but also need to be careful not to let ATK buff ran out before swapping out of Fischl.
 
 ### Fischl's A4 Targetting
 
@@ -199,8 +199,8 @@ Stellar Predator reads: When Fischl hits Oz with a fully-charged Aimed Shot, Oz 
 
 **Evidence:**  
 Video: [YouTube](https://www.youtube.com/watch?v=j0k1GWBACes)  
-Fischl’s Aimed Shot (non-crit) DMG: 244  
-Fischl’s Stellar Predator (non-crit) DMG: 373  
+Fischl’s Aimed Shot (non-CRIT) DMG: 244  
+Fischl’s Stellar Predator (non-CRIT) DMG: 373  
 DMG Bonus applicable: 46.6% Electro DMG bonus from an Electro Goblet.  
 From Fischl’s Aimed Shot: Base DMG is found to be 244 / (1.466) = 166.44
 
@@ -235,7 +235,7 @@ Fischl's a4 proc rate appears to be less than 1 second, and instead seems to be 
 
 [\[Video\] Appears to be about 0.5s-0.6s cooldown](https://www.youtube.com/watch?v=48Dg_i8PcYY) \(0.5s if judging from the first frame of each damage number appearing, 0.6s if judging from the first frame of the lightning bolt animation\)
 
-[\[\Video\] Using swirl + electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQ) \(judging from the first frame of the lightning bolt animation\)
+[\[\Video\] Using Swirl + electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQ) \(judging from the first frame of the lightning bolt animation\)
 
 **Significance:**
 
@@ -249,15 +249,15 @@ Team building around enabling Fischl's damage output
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834234321971183616_836410164386988092_transcript-possible-oz-issues-with-hutao.html)
 
 **Theory:**  
-Fischl's A4 has a range centered around the triggering character, which is generally greater for characters with ranged attacks. When an attack at the edge of the range triggers an electro-related reaction Fischl's A4 can fail to trigger. Deployables are factored in to the range as well, such as Beidou Q or Oz himself.
+Fischl's A4 has a range centered around the triggering character, which is generally greater for characters with ranged attacks. When an attack at the edge of the range triggers an Electro-related reaction Fischl's A4 can fail to trigger. Deployables are factored in to the range as well, such as Beidou Q or Oz himself.
 
 **Evidence:**  
-This was tested with Hu Tao's charge attack, the end of Noelle's greatsword swings under burst, and the end of Xiangling's Charge attack infused by Chongyun. A demonstration of how the range is variable by character is shown using Diluc's burst.
+This was tested with Hu Tao's Charged Attack, the end of Noelle's greatsword swings under Burst, and the end of Xiangling's Charge attack infused by Chongyun. A demonstration of how the range is variable by character is shown using Diluc's Burst.
 
 [Playlist of all videos](https://youtube.com/playlist?list=PLPByPR2TubV5rcNbhKBrWyk9hChRWV9cn)
 
 **Significance:**  
-An understanding of the underlying mechanics of Fischl's A4 passive and possibly future similar effects
+An understanding of the underlying mechanics of Fischl's A4 Passive and possibly future similar effects
 
 #### Fischl A4 Not 05s
 
@@ -293,7 +293,7 @@ Affects Diluc gameplay patterns in Overload comps with Fischl.
 **Last tested:** <VersionHl date="2021-07-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_803833656182702099_860780048758734888_transcript-fischl-c4-is-elemental-burst-damage.html)
 
-**Finding/Bug:** Fischl's Constellation 4 damage is considered burst damage.
+**Finding/Bug:** Fischl's Constellation 4 damage is considered Burst damage.
 
 **Evidence:** [Video](https://www.youtube.com/watch?v=UCmGvNioiZU)
 
@@ -328,7 +328,7 @@ Helps with accurate calculations as well as rotation crafting.
 **Last tested:** <VersionHl date="2021-07-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865067427287924806_870110282918293584_transcript-c6-fischl-multihitgaming.html)
 
-**Finding/Bug:** Fischl's C6's joint attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like XQ rainswords.
+**Finding/Bug:** Fischl's C6's joint attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like XQ Rain Swords.
 
 **Evidence:**  
 [https://youtu.be/ToUhrbPSKxc](https://youtu.be/ToUhrbPSKxc)
@@ -345,11 +345,11 @@ Helps with accurate calculations as well as rotation crafting.
 **Finding:**
 
 * C1 "22%" is calculated as a Talent Skill % (MV)
-* C1 is physical damage
+* C1 is Physical damage
 * C1 does not benefit from stringless
-* C1 can crit
+* C1 can CRIT
 
-* C2 "200%" is added to your skill (E) talent% (MV)
+* C2 "200%" is added to your Skill (E) talent% (MV)
 * The Stringless benefits E and Oz' normals
 * The Stringless passive is added to DMG% in damage formula
 * Alley Hunter benefits E and Oz' normals
@@ -357,18 +357,18 @@ Helps with accurate calculations as well as rotation crafting.
 
 * A4 is calculated as a MV
 * A4 benefits from stringless passive
-* A4 can crit
+* A4 can CRIT
 
 * C4 is calculated as a separate instance of damage
 * C4 "222%" is calculated as MV
 * C4 benefits from stringless
-* C4 can crit
-* C4 and Q have separate crit rolls
+* C4 can CRIT
+* C4 and Q have separate CRIT rolls
 * C4 damage occurs before Q (higher priority)
 
 * C6 is calculated as MV
 * C6 benefits from stringless
-* C6 can crit
+* C6 can CRIT
 
 **Evidence:**
 
@@ -383,9 +383,9 @@ Helps with accurate calculations as well as rotation crafting.
 
 **By:** Cola\#6861
 
-I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are anemo which will swirl the electro debuff on the enemy.
+I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are Anemo which will Swirl the Electro debuff on the enemy.
 
-Upon testing, as expected: it works, and yes Lightning Smite also crits!
+Upon testing, as expected: it works, and yes Lightning Smite also CRITs!
 
 **Evidence:**
 
@@ -395,7 +395,7 @@ Upon testing, as expected: it works, and yes Lightning Smite also crits!
 
 One more reason to get Sucrose out in the field more often, at least for this use case.
 
-### Fischl's C6 Procs 4pc Millelith
+### Fischl's C6 Procs 4-Piece Millelith
 
 **By:** jdeeyu\#9927  
 **Added:** <Version date="2021-06-08" />  

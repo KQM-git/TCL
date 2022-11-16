@@ -266,7 +266,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 ### Regisvines
 
-**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
+**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each Element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
 
 <Tabs>
 <TabItem value="pyro" label="Pyro Regisvine">

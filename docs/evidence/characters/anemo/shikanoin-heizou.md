@@ -39,7 +39,7 @@ search: false
 
 ## Burst Mechanics
 
-* Heizou's auracheck is independent for each target hit, so there is no priority unless a single target has 2 auras. - [Video](https://imgur.com/a/Nk0w5Yv) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
+* Heizou's auracheck is independent for each target hit, so there is no priority unless a single-target has 2 auras. - [Video](https://imgur.com/a/Nk0w5Yv) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
   * On Electro-Charged targets: Hydro > Electro
   * On Frozen targets: Hydro > Cryo
 * There is no damage cap for Iris Explosions. - [Video](https://imgur.com/a/bl1nqiJ) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920

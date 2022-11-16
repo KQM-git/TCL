@@ -50,14 +50,14 @@ Could be detrimental to her role as a Beidou driver and make her lose procs. Das
 ## Skill Mechanics
 
 * Kokomi's E snapshots. - [Van#8934](https://imgur.com/a/wHBV03P)
-* If Bake-Kurage disappears before its final tick hits an enemy, the game will not check for particle production on that hit.
+* If Bake-Kurage disappears before its final tick hits an enemy, the game will not check for Particle production on that hit.
 * Kokomi is limited to one Bake-Kurage on-field at a time.
   * Sacrificial Fragments: [CC#5588](https://youtu.be/ynane6Dr31s)
-  * 4pc Gamblers: [Mcpie#8672](https://imgur.com/ATtyo26)
+  * 4-Piece Gamblers: [Mcpie#8672](https://imgur.com/ATtyo26)
 * Kokomi's E snapshots, but does not resnapshot upon Q cast when refreshing the Bake-Kurage duration and the damage dynamically changes while Q is active. - [CC#5588](https://www.youtube.com/watch?v=hOQVxguTCVg)
   * 00:08 - proof of snapshot
   * 00:29 - Bake-Kurage damage changes upon Q cast
-  * 00:53 - Bennett atk buff remained snapshotted even after E timer refresh (as shown by the final tick at around 01:16)
+  * 00:53 - Bennett ATK buff remained snapshotted even after E timer refresh (as shown by the final tick at around 01:16)
   * 01:28 - prematurely switching out of Kokomi during her Q results in Bake-Kurage bonus dmg from Q going away
 * The Bake-Kurage damage bonus when Q is active does not get snapshotted by Bake-Kurage - [Aetherpon#5730](https://www.youtube.com/watch?v=1NmAZBZsTDk) and [CC#5588](https://youtu.be/hOQVxguTCVg?t=88)
 * Kokomi E spawn has a fixed range. - [CC#5588](https://youtu.be/w2ouvQFhNkI)
@@ -90,20 +90,20 @@ Who doesn't love some obscure Kokomi tech.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890281986105696266_902798398757928970_transcript-kokomis-jellyfish-is-uninterruptible.html)
 
 **Finding:**  
-Kokomi can trigger artifact effects, such as 4pc Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames, when getting interrupted during casting of E, even when the Bake-Kagure doesn't spawn and E doesn't go on cooldown.
+Kokomi can trigger artifact effects, such as 4-Piece Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames, when getting interrupted during casting of E, even when the Bake-Kagure doesn't spawn and E doesn't go on cooldown.
 
 **Evidence:**  
-4pc Heart of Depth
+4-Piece Heart of Depth
 
 * Unbuffed N1 damage is 1120: [Imgur](https://imgur.com/tBed7gZ)
 * After casting E and getting interrupted, buff arrows appear, and N1 does 1297: [Imgur](https://imgur.com/3cZWdQQ)
 
-4pc Shimenawa's Reminiscence: [Imgur](https://imgur.com/KHHgd7s)
+4-Piece Shimenawa's Reminiscence: [Imgur](https://imgur.com/KHHgd7s)
 
 * Unbuffed N1 damage is 243.
 * After casting E and getting interrupted, buff arrows appear, energy is consumed, and N1 does 312.
 
-4pc Crimson Witch of Flames: [Imgur](https://imgur.com/IJW2aBQ)
+4-Piece Crimson Witch of Flames: [Imgur](https://imgur.com/IJW2aBQ)
 
 * Kokomi has 15% Pyro DMG Bonus before cast.
 * After casting E and getting interrupted, Kokomi has 22.5% Pyro DMG Bonus.
@@ -161,13 +161,13 @@ The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_977696445069131776_transcript-kokomi-a1-description-is-misleading.html)
 
 **Finding:**  
-Sangonomiya Kokomi's Ascension 1 talent, Tamanooya's Casket, is misleadingly worded. In the character description, it states that "If Sangonomiya Kokomi's own Bake-Kurage is on the field when she uses Nereid's Ascension, the Bake-Kurage's duration will be refreshed", which implies it has to only be on-field the frame she uses Nereid's Ascension, however this is incorrect. The actual refresh timing requires the jellyfish to be on field the frame her burst animation finishes, or else you will lose the refresh.
+Sangonomiya Kokomi's Ascension 1 talent, Tamanooya's Casket, is misleadingly worded. In the character description, it states that "If Sangonomiya Kokomi's own Bake-Kurage is on the field when she uses Nereid's Ascension, the Bake-Kurage's duration will be refreshed", which implies it has to only be on-field the frame she uses Nereid's Ascension, however this is incorrect. The actual refresh timing requires the jellyfish to be on field the frame her Burst animation finishes, or else you will lose the refresh.
 
 **Original:** Credits to [Zenera](https://youtu.be/0LSdrltrj-Q?t=456) for the theory.
 
 **Evidence:**  
 Through watching this video a good amount of times over the last few months, between 7:36 and 8:46, as well as playing Kokomi during the test run and on friends' accounts, it added evidence that her A1 description is incorrect and should be "...after Nereid's Ascension animation ends...". So, what is the correct timing and way to interpret the description?
-Kokomi's burst animation lasts 75 frames, which is around 1.25 seconds (at 60 FPS). Her jellyfish duration is 12 seconds with a 20s cooldown. However, the jellyfish does not end directly on the 8 second mark of the cooldown, but rather, somewhere between 7.65 and 7.6 seconds, through www.watchframebyframe.com (though I unfortunately lost the video). If you take 7.65 (the "safe zone") and add the 1.25 seconds of the burst animation, (7.65 + 1.25), that would equal 8.9 seconds, matching the optimal "cutoff" time in the referenced video (It does state the first few frames of the 8.8 second mark is possible, albeit not reliable) Additionally, if it started from the frame Nereid's Ascension was casted, jellyfish uptime would also be shortened by 1.25 seconds, which is not the current case.
+Kokomi's Burst animation lasts 75 frames, which is around 1.25 seconds (at 60 FPS). Her jellyfish duration is 12 seconds with a 20s cooldown. However, the jellyfish does not end directly on the 8 second mark of the cooldown, but rather, somewhere between 7.65 and 7.6 seconds, through www.watchframebyframe.com (though I unfortunately lost the video). If you take 7.65 (the "safe zone") and add the 1.25 seconds of the Burst animation, (7.65 + 1.25), that would equal 8.9 seconds, matching the optimal "cutoff" time in the referenced video (It does state the first few frames of the 8.8 second mark is possible, albeit not reliable) Additionally, if it started from the frame Nereid's Ascension was casted, jellyfish uptime would also be shortened by 1.25 seconds, which is not the current case.
 
 **Significance:**  
 Affects Kokomi jellyfish rotations that retain 100% uptime, especially with the [burst snapshot](#snapshot-burst-dmg-bonus-onto-bake-kurage-by-switching) technique than what was previously thought.
@@ -194,7 +194,7 @@ Coop with c4 yelan maybe? Perhaps when we get future characters who buff HP and/
 
 ### A1: Tamanooya's Casket
 
-* The Bake-Kurage Duration refresh from A1 does not refresh Heart of Depths 4pc passive, because it does not count as a "using an Elemental Skill". - [CC#5588](https://youtu.be/usU2tJ7HQEs)
+* The Bake-Kurage Duration refresh from A1 does not refresh Heart of Depths 4-Piece passive, because it does not count as a "using an Elemental Skill". - [CC#5588](https://youtu.be/usU2tJ7HQEs)
 
 ### A4: Song of Pearls
 

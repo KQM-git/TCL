@@ -126,8 +126,8 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Illusory Torrent** isn't affected by stamina reduction passives from Kaeya or Razor
-* **Illusory Torrent** holds priority over Mona's skill, meaning that if you dash before Mona's skill is finished casting, the skill cast will be cancelled and Mona will dash instead.
-* Her alternate sprint has the same iframes as other characters' normal sprint.
+* **Illusory Torrent** holds priority over Mona's Skill, meaning that if you dash before Mona's Skill is finished casting, the Skill cast will be cancelled and Mona will dash instead.
+* Her alternate sprint has the same i-frames as other characters' normal sprint.
 * Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
   * the same goes for Anemo Resonance
 
@@ -164,7 +164,7 @@ import Skill from '@site/src/components/char/Skill'
   * Enemies that were applied Cryo beforehand, thus got Frozen after receiving the **Illusory Bubble** status.
   * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an elemental shield/armor, etc.
   * Petrify can extend the duration of the aforementioned stagger-resistant state, effectively extending the duration of the **Illusory Bubble**.
-* Certain skill/bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
+* Certain Skill/bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
 
 </TabItem>
 </Tabs>
@@ -191,7 +191,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * No ICD
-* Damage dealt by this **Phantom** is considered elemental skill damage, and can thus trigger related artifact effects.
+* Damage dealt by this **Phantom** is considered elemental Skill damage, and can thus trigger related artifact effects.
 
 </TabItem>
 

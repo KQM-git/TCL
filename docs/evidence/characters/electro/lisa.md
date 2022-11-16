@@ -24,7 +24,7 @@ search: false
 Just like Mona, Lisa can have two different normal animations depending on the distance from the target.
 
 **Evidence:**  
-[Youtube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the ruin guard, second normal string has her teleporting backward.
+[Youtube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the Ruin Guard, second normal string has her teleporting backward.
 
 **Significance:**  
 Combat positioning for Lisa
@@ -404,7 +404,7 @@ By definition, this discovery technically invalidates/corrects all previous, pre
 The current description for Lisa's first constellation is currently limited, it states that:  
 _"Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time"_
 
-Additionally, other mechanics with regards to the generated energy from this constellation are as follows:
+Additionally, other mechanics with regards to the generated Energy from this constellation are as follows:
 
 * Energy is provided directly to Lisa in a delay after an opponent is hit with Violet Arc
 * If Lisa is not present in the field before Energy is to be provided to Lisa, it will have no effect
