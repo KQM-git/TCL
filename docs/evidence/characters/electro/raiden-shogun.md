@@ -249,7 +249,7 @@ Formula that describes minimum ER% for Raiden to use elemental Burst off cooldow
 Y = Raiden's total ER%  
 Z = Flat Energy gained (NOT INCLUDING RAIDEN'S Q ENERGY)  
 W = talent level (THE NUMBER NOT VALUE, ex. 1-13)  
-X = energy gained (before ER calculations)  
+X = Energy gained (before ER calculations)  
 Formula:  
 Y = (87-0.2W-Z)/(X+4.5+0.3W)
 

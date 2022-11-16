@@ -1,7 +1,7 @@
 ---
 description: >-
   Lowly life forms of minimal intelligence, made from condensed elemental
-  energy.
+  Energy.
 sidebar_position: 2
 ---
 

@@ -184,7 +184,7 @@ Stepping out of a C6 Bennett Fantastic Voyage field has a left over Pyro infusio
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863515307363532850_863517152987185162_transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)
 
 **Finding:**  
-The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.
+The 15% Pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.
 
 **Evidence:**  
 [Video](https://youtu.be/VOUNrvU_1ak)

@@ -100,7 +100,7 @@ The AOE of these reactions have zero elemental gauge.
 
 ## Freeze
 
-Once Freeze is triggered, an enemy will be afflicted by a **frozen aura**. Reactions with Frozen are equivalent to those with Cryo, though the gauge of a Frozen aura is often significantly higher. In addition, cryo and Hydro may exist alongside the Frozen aura. Removing the Frozen aura, either through Melt or shatter, will also remove Frozen and expose the **coexisting** cryo/hydro aura, allowing any elemental sources to react with Cryo/hydro. Even while the Cryo/hydro aura is hidden under the Frozen aura, it will continue to decay as normal.
+Once Freeze is triggered, an enemy will be afflicted by a **frozen aura**. Reactions with Frozen are equivalent to those with Cryo, though the gauge of a Frozen aura is often significantly higher. In addition, Cryo and Hydro may exist alongside the Frozen aura. Removing the Frozen aura, either through Melt or shatter, will also remove Frozen and expose the **coexisting** Cryo/hydro aura, allowing any elemental sources to react with Cryo/hydro. Even while the Cryo/hydro aura is hidden under the Frozen aura, it will continue to decay as normal.
 
 Freeze is extended when the Cryo or Hydro is applied to Freeze with a coexisting Hydro or Cryo aura respectively.
 

@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 66% HP       | 2 particles | anemo   |
-| 33% HP       | 2 particles | anemo   |
-| Death        | 2 particles | anemo   |
+| 66% HP       | 2 particles | Anemo   |
+| 33% HP       | 2 particles | Anemo   |
+| Death        | 2 particles | Anemo   |
 
 ## Resistance Table
 

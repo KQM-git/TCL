@@ -52,10 +52,10 @@ Code name: Beth. A high-purity Anemo entity.Elemental hypostases are life forms 
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 75% HP       | 1 Orb | anemo   |
-| 50% HP       | 1 Orb | anemo   |
-| 25% HP       | 1 Orb | anemo   |
-| Death        | 1 Orb | anemo   |
+| 75% HP       | 1 Orb | Anemo   |
+| 50% HP       | 1 Orb | Anemo   |
+| 25% HP       | 1 Orb | Anemo   |
+| Death        | 1 Orb | Anemo   |
 
 ## Attacks
 
@@ -88,10 +88,10 @@ Code name: Daleth. A high-purity Cryo entity.Research suggests that there are su
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 75% HP       | 1 Orb | cryo    |
-| 50% HP       | 1 Orb | cryo    |
-| 25% HP       | 1 Orb | cryo    |
-| Death        | 1 Orb | cryo    |
+| 75% HP       | 1 Orb | Cryo    |
+| 50% HP       | 1 Orb | Cryo    |
+| 25% HP       | 1 Orb | Cryo    |
+| Death        | 1 Orb | Cryo    |
 
 ## Attacks
 
@@ -123,10 +123,10 @@ Code name: Aleph. A high-purity Electro entity.Elemental hypostases are the high
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 75% HP       | 1 Orb | electro |
-| 50% HP       | 1 Orb | electro |
-| 25% HP       | 1 Orb | electro |
-| Death        | 1 Orb | electro |
+| 75% HP       | 1 Orb | Electro |
+| 50% HP       | 1 Orb | Electro |
+| 25% HP       | 1 Orb | Electro |
+| Death        | 1 Orb | Electro |
 
 ## Attacks
 
@@ -163,10 +163,10 @@ Code name: Gimel. A high-purity Geo entity.Elemental hypostases are ultra-compac
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 75% HP       | 1 Orb | geo     |
-| 50% HP       | 1 Orb | geo     |
-| 25% HP       | 1 Orb | geo     |
-| Death        | 1 Orb | geo     |
+| 75% HP       | 1 Orb | Geo     |
+| 50% HP       | 1 Orb | Geo     |
+| 25% HP       | 1 Orb | Geo     |
+| Death        | 1 Orb | Geo     |
 
 ## Attacks
 
@@ -202,10 +202,10 @@ Code Name: Ayin. A high-purity Pyro entity. Elemental hypostases have the abilit
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 75% HP       | 1 Orb | pyro    |
-| 50% HP       | 1 Orb | pyro    |
-| 25% HP       | 1 Orb | pyro    |
-| Death        | 1 Orb | pyro    |
+| 75% HP       | 1 Orb | Pyro    |
+| 50% HP       | 1 Orb | Pyro    |
+| 25% HP       | 1 Orb | Pyro    |
+| Death        | 1 Orb | Pyro    |
 
 ## Attacks
 
@@ -245,9 +245,9 @@ Hypostases have strong rejection properties, and will mercilessly expel any that
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 Orb      | hydro   |
-| 33% HP       | 1 Orb      | hydro   |
-| Death        | 1 Particle | hydro   |
+| 66% HP       | 1 Orb      | Hydro   |
+| 33% HP       | 1 Orb      | Hydro   |
+| Death        | 1 Particle | Hydro   |
 
 ## Attacks
 

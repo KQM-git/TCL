@@ -32,7 +32,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 Bloom has an innate travel time of 0.3s with Amos’ bow. Currently no record of Amos’ bow’s passive dropping below 3 stacks for FFB.
 
-With Ganyu’s C1, the 15% cryo shred is applied to the FFB of the first shot so long as FFA hits.
+With Ganyu’s C1, the 15% Cryo shred is applied to the FFB of the first shot so long as FFA hits.
 
 **Evidence:**
 
@@ -525,7 +525,7 @@ Ganyu's ult is better than expected
 
 **Finding:**
 
-When shooting your first Frostflake Arrow at an enemy if you hit the enemy directly with the arrow, the initial bloom of the shot will get the bonus 15% cryo resistance shred
+When shooting your first Frostflake Arrow at an enemy if you hit the enemy directly with the arrow, the initial bloom of the shot will get the bonus 15% Cryo resistance shred
 
 **Evidence:**
 
@@ -533,7 +533,7 @@ User Karzak tested this interaction by intentionally missing the first arrow and
 
 **Significance:**
 
-The 15% cryo resistance shredding from Ganyu’s constellation 1 is slightly better during short encounters as the enemy will get the resistance shred applied to the first bloom.
+The 15% Cryo resistance shredding from Ganyu’s constellation 1 is slightly better during short encounters as the enemy will get the resistance shred applied to the first bloom.
 
 #### Ganyu’s Constellation 1 Generates Energy Without Dealing Damage
 

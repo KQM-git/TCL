@@ -85,7 +85,7 @@ Some foreign auras can exist on certain Fatui when their armor is up. These aura
 
 [YouTube video](https://youtu.be/gkAciCrS7_0)
 
-* Trying to do testing with  Electro-Charged'd Electro fatui armor (namely, pyro onto  Electro-Charged), but failed because the Hydro seem to be eaten up instantly.
+* Trying to do testing with  Electro-Charged'd Electro fatui armor (namely, Pyro onto  Electro-Charged), but failed because the Hydro seem to be eaten up instantly.
 * Finding out crystalize breaks Geo fatui armor. Also a random test to show that Geo fatui can no doubt be Frozen when his armor is up.
 
 [YouTube video](https://youtu.be/kHlMVro_s-c)

@@ -94,7 +94,7 @@ Bennett E + \(no wait\) + Diona E \(hold\) = 2 Melt reactions + no Element remai
 
 Bennett E + \(wait 5+ seconds\) + Diona E \(tap\) = 1 Melt reaction + no Element remaining on the enemy.
 
-Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 Melt reaction + cryo aura remaining on the enemy.
+Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 Melt reaction + Cryo aura remaining on the enemy.
 
 ### Bug: Diona's shield is 2U under specific circumstances that are guaranteed on swap
 

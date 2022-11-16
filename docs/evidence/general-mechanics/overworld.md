@@ -629,7 +629,7 @@ The duration of the environmental elemental reaction Electrified Water has varyi
 The damage dealt by Electrified water is affected by Electro Resistance. For example, a character with 15% Electro Resistance will take 85% of the Electrified Water damage.
 
 **Evidence:**  
-Video contains Fischl and Lisa getting 3 ticks after applying 1A Electro with Charged Attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to Electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% electro res) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)
+Video contains Fischl and Lisa getting 3 ticks after applying 1A Electro with Charged Attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to Electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% Electro res) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% Electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)
 
 **Significance:**  
 Learning more about how environmental reactions are programmed/calculated. Also, don't bring Electro units if you're trying to get the achievement for Floor 2-2 of the Spiral Abyss.
@@ -823,7 +823,7 @@ Electro crystals' pulse range works in a rectangle range, with the crystal being
 **Evidence:**  
 [YouTube](https://www.youtube.com/watch?v=f8QfbYvuR6Q)
 
-**Significance:** electro crystals work in a similar way to Cryo&pyro stamen flowers, for a better understanding of the overworld.
+**Significance:** Electro crystals work in a similar way to Cryo&pyro stamen flowers, for a better understanding of the overworld.
 
 ### Parametric Crystal Electric Bungaloo
 

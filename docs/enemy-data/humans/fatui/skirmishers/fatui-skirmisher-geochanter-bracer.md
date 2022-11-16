@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 66% HP       | 2 particles | geo     |
-| 33% HP       | 2 particles | geo     |
-| Death        | 2 particles | geo     |
+| 66% HP       | 2 particles | Geo     |
+| 33% HP       | 2 particles | Geo     |
+| Death        | 2 particles | Geo     |
 
 ## Resistance Table
 

@@ -29,7 +29,7 @@ Note: Since the official names for these are incredibly difficult to find, I wil
 
 [YouTube video](https://www.youtube.com/watch?v=iwYAHJzqfos) \(Crimson Witch domain\)
 
-2\) The damage from monster Skill effects cannot be reduced by skills like **Xingqiu's E/Q** and **Beidou's Q**. This means that comps like **Beidou Xingqiu** electro-charge that can usually tank enemy attacks by stacking damage reduction cannot tank these effects easily.
+2\) The damage from monster Skill effects cannot be reduced by skills like **Xingqiu's E/Q** and **Beidou's Q**. This means that comps like **Beidou Xingqiu** Electro-charge that can usually tank enemy attacks by stacking damage reduction cannot tank these effects easily.
 
 [YouTube video](https://www.youtube.com/watch?v=IUgeUMhIUq8) \(Crimson Witch domain\)
 
