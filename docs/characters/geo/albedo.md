@@ -117,7 +117,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * The 7 **Fatal Blossoms** that are generated will each target one enemy each and excess blossoms will spawn randomly within the **Solar Isotoma** field with more weighting toward the center.
 * **Fatal Blossoms** DMG snapshot on **Solar Isotoma** cast.
-* Albedo's Burst has 220 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(3.7s\).
+* Albedo's Burst has 220 [idle i-frames](../../combat-mechanics/frames.md#Burst-idle-i-frames) \(3.7s\).
 
 </TabItem>
 </Tabs>

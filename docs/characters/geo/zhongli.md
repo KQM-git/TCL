@@ -116,7 +116,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Hits that resonate from other Geo constructs still proc the 4-piece Tenacity of the Millileth set.
+* Hits that resonate from other Geo constructs still proc the 4-Piece Tenacity of the Millileth set.
 * **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb.
 * Resonation can overlap to deal multiple instances of damage.
 * **Stone Steles** resonate independently and with Geo Constructs from enemies, but they do not resonate with each other.
@@ -152,7 +152,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.
-* Zhongli's Burst has 190 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(3.2s\).
+* Zhongli's Burst has 190 [idle i-frames](../../combat-mechanics/frames.md#Burst-idle-i-frames) \(3.2s\).
 
 </TabItem>
 </Tabs>
@@ -208,7 +208,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The shield is visually granted after the burst, but all shield bonuses are active for the burst damage.
+* The shield is visually granted after the Burst, but all shield bonuses are active for the Burst damage.
 
 </TabItem>
 

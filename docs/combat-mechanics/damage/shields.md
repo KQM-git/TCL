@@ -28,10 +28,10 @@ To calculate **Shield BA**, simply head over to your Shield Talent and take a lo
 
 There are multiple ways to increase how much damage your Shield absorbs without directly affecting the Talent Value. Before we get into how Shield Strength Bonuses work, we must know the following:
 
-**All Shields have an innate 250% Bonus Absorption towards their element.** For example, If I cast a **Pyro Shield**, or obtain one through **Crystallize**, the shield has an innate **250%** Bonus Shield Absorption towards **Pyro** attacks.
+**All Shields have an innate 250% Bonus Absorption towards their Element.** For example, If I cast a **Pyro Shield**, or obtain one through **Crystallize**, the shield has an innate **250%** Bonus Shield Absorption towards **Pyro** attacks.
 
 So now that we know that, our **Total Shield Strength** will be  
-**\(BA\)\*\(2.5 For same element\)\*\(1.5 For Geo Shields\)\*\(1+Total Shield Bonuses from external sources\)**
+**\(BA\)\*\(2.5 For same Element\)\*\(1.5 For Geo Shields\)\*\(1+Total Shield Bonuses from external sources\)**
 
 **Diona is a special case that we will look at later down below.**
 
@@ -43,7 +43,7 @@ Lets use this example: Diona has a Shield with **1605** Shield Absorption. Equip
 
 ## Crystallize
 
-The Shield generated through Crystallize always matches the Elemental Aura of the Crystallize Reaction. These Shield last for 15 seconds and their BA is based off of the Level of the Geo Character that caused Crystallize.
+The Shield generated through Crystallize always matches the Elemental aura of the Crystallize Reaction. These Shield last for 15 seconds and their BA is based off of the Level of the Geo Character that caused Crystallize.
 
 import shield from '@site/src/data/elemental_curves/shield.json'
 import LevelMultiplier from '@site/src/components/common/LevelMultiplier'

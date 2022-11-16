@@ -11,7 +11,7 @@ search: false
 **By:** Chameleon\#9008  
 **Added:** <Version date="2021-04-19" />  
 **Last tested:** <VersionHl date="2021-04-19" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_825561938322522213_834316844331565066_transcript-card-hp-loss-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_825561938322522213_834316844331565066_transcript-card-HP-loss-bug.html)
 
 **Findings:** You lose about 12.5% HP from taking the HP buff and resetting.
 

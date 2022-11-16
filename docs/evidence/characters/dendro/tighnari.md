@@ -50,8 +50,8 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 ## Burst Mechanics
 
-* Doing E - CA before Q (C0) allows you to catch particles during burst. - [Video](https://www.youtube.com/watch?v=q6ibUnVWmzc) - flamescion#9370
-* Doing E - CA before Q allows you to catch particles during burst - [Video](https://youtu.be/q6ibUnVWmzc) - flamescion#9370
+* Doing E - CA before Q (C0) allows you to catch particles during Burst. - [Video](https://www.youtube.com/watch?v=q6ibUnVWmzc) - flamescion#9370
+* Doing E - CA before Q allows you to catch particles during Burst - [Video](https://youtu.be/q6ibUnVWmzc) - flamescion#9370
 
 ## Ascension Mechanics
 
@@ -88,7 +88,7 @@ Confirmation that the bugfix introduced with the 3.1 update "Fixes an issue wher
 * Tighnari C6 CA deals 3 Instances of Spread. [Video](https://youtu.be/7LZAN_K2eZg) - Wüolf#3334
   * Significance: Tighnari’s C6 Additional Clusterbloom has no ICD.
 * Tighnari C6 E->CA works with BowTae ARCC. - [Video](https://youtu.be/jWCpmgLob60) and [Video](https://youtu.be/kshgOpyCbAw) - Wüolf#3334
-* Doing an ARCC C6 CA in between E and Q would still let Tighnari get generated particles during his burst - [Video](https://youtu.be/4m9d5rJAlj0) - Wüolf#3334
-  * Significance: A1 passive can be triggered for 50 extra em before using his burst while also getting particles back.
+* Doing an ARCC C6 CA in between E and Q would still let Tighnari get generated particles during his Burst - [Video](https://youtu.be/4m9d5rJAlj0) - Wüolf#3334
+  * Significance: A1 Passive can be triggered for 50 extra em before using his Burst while also getting particles back.
 
 ## Synergies/Interactions

@@ -20,7 +20,7 @@ search: false
   * [Charged Attack](https://imgur.com/eOG8f1B), [Skill, C2](https://imgur.com/IIFR5vv), [Burst](https://imgur.com/CxpW3dC): 1A - Nass008#8577
 * ICD - Nass008#8577
   * [E and C2](https://imgur.com/HQwwq5N): No ICD
-  * [Burst](https://imgur.com/WRO5A6k): Titanbreaker and Stormcluster have separate ICDs for electro application
+  * [Burst](https://imgur.com/WRO5A6k): Titanbreaker and Stormcluster have separate ICDs for Electro application
 
 ### Aimed Shot Damage Dropoff
 
@@ -40,7 +40,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
   * [Demo from below](https://www.youtube.com/watch?v=y-Vq-d-BLiU)
 * The damage hitbox of Tengu Juurai: Ambush is different from the hitbox to gain an ATK Buff. - [NZPIEFACE#8439](https://www.youtube.com/watch?v=BgB_AyLKUEc)
 * Sara generates 3 particles upon Tengu Juurai: Ambush hit.
-  * Sara does not have an ICD on particle generation. - [Wishiwashi#2548](https://imgur.com/a/pVlGncQ)
+  * Sara does not have an ICD on Particle generation. - [Wishiwashi#2548](https://imgur.com/a/pVlGncQ)
 * Sara does not lose the effects of Crowfeather Cover if swapped off. - [Soto#1629](https://i.imgur.com/NM7Xa9C.mp4)
 * Crowfeather will not stick to walls; it sticks to the closest walkable surface from the point of collision.
   * Crowfeather does not stick to walls. - [Wishiwashi#2548](https://imgur.com/a/UGHyQu1)
@@ -136,7 +136,7 @@ Doesn't trigger:
 * Beidou parry: [Imgur](https://imgur.com/Fsh9oii)
 * Aquila: [Imgur](https://imgur.com/yAJWPC2)
 * The Bell: [Imgur](https://imgur.com/JtILNvC)
-* XQ rainswords: [Imgur](https://imgur.com/a/I64v06w)
+* XQ Rain Swords: [Imgur](https://imgur.com/a/I64v06w)
 * Noelle A1: [YouTube](https://youtu.be/BgT_gpg288o)
 
 Unknown:  
@@ -149,7 +149,7 @@ Insights into feather application mechanics (maybe first 0 damage and friendly f
 
 * Titanbreaker targets closest enemy, then Stormcluster moves outward in a plus-shape with one branch directed at Sara’s location at time of cast. - [Wishiwashi#2548](https://imgur.com/a/313LEY4)
 * Both Titanbreaker and Stormcluster damage is snapshot on Burst cast. - [Nass008#8577](https://imgur.com/skAgh1K)
-* Sara's energy drain after burst cast occurs very late into her animation, meaning she can't be pre-funneled - Nass008#8577
+* Sara's Energy drain after Burst cast occurs very late into her animation, meaning she can't be pre-funneled - Nass008#8577
   * [Keqing EE > Sara Q](https://imgur.com/oKrraKw)
   * [Beidou E > Sara Q](https://imgur.com/m72aQzM)
 * Sara's Burst does not benefit from its own attack buff - Veggie#0581
@@ -161,7 +161,7 @@ Insights into feather application mechanics (maybe first 0 damage and friendly f
 **By:** Steno\#0119  
 **Added:** <Version date="2022-05-12" />  
 **Last tested:** <VersionHl date="2022-05-12" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974455619203526656_transcript-sara-burst-mechanics-update.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974455619203526656_transcript-sara-Burst-mechanics-update.html)
 
 **Finding:**  
 Unlike what was previously documented in the TCL, Sara's Burst can only give her buff to characters that have been hit by the Titanbreaker or Stormclusters. However, multiple characters can be buffed this way.
@@ -173,7 +173,7 @@ Unlike what was previously documented in the TCL, Sara's Burst can only give her
 * [Diagonal 1](https://www.youtube.com/watch?v=zACGc8ovy2U) \(only one buffed\)
 * [Diagonal 2](https://www.youtube.com/watch?v=6Mz2rSns7yQ) \(only one buffed\)
 * [Diagonal 3](https://www.youtube.com/watch?v=Dh1QAZYkhGk) \(only one buffed\)
-* [Diagonal 4](https://www.youtube.com/watch?v=r3B9I12ngfY) \(only one buffed\)
+* [Diagonal 4](https://www.youtube.com/watch?v=R3B9I12ngfY) \(only one buffed\)
 * [No dash 1](https://www.youtube.com/watch?v=ZTGmeDFLcb0) \(only one buffed\)
 * [No dash 2](https://www.youtube.com/watch?v=sOSg8o4T414) \(only one buffed\)
 * [Mid-distance](https://www.youtube.com/watch?v=XRgPTySHUHo) \(double buff\)
@@ -276,7 +276,7 @@ This is possible to perform without cancels but the timing is extremely difficul
 
 ### C6: Sin of Pride
 
-* The effects of C6 do not get snapshot. - [Choatic#7774](https://www.youtube.com/watch?v=r4ENm19DOPY)
+* The effects of C6 do not get snapshot. - [Choatic#7774](https://www.youtube.com/watch?v=R4ENm19DOPY)
 
 ## Tech
 
@@ -297,7 +297,7 @@ This is possible to perform without cancels but the timing is extremely difficul
 Discussion in Basic Mechanics
 
 **Finding:**  
-It's possible to have two different characters snapshot Sara’s burst ATK buff by following Stormcluster with precise positioning/timing. See evidence below for video of 3 attempts.
+It's possible to have two different characters snapshot Sara’s Burst ATK buff by following Stormcluster with precise positioning/timing. See evidence below for video of 3 attempts.
 
 **Evidence:** [Imgur](https://imgur.com/a/DIYQPrQ)
 
@@ -329,19 +329,19 @@ Exact timing of the Crowfeather buff.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903958677164294204_904776894841507850_transcript-emc-er-buff-interaction-with-saras-a4.html)
 
 **Finding:**  
-Pre-A4 EMC’s E’s skill ER buff does not affect Sara’s A4 passive.
+Pre-A4 EMC’s E’s skill ER buff does not affect Sara’s A4 Passive.
 
 **Evidence:**  
-2 trials were conducted with Keqing, Sara, and pre-A4 EMC. Keqing starts at 0 energy and always stays off-field. Both trials have Sara E + EMC E done 13 times:
+2 trials were conducted with Keqing, Sara, and pre-A4 EMC. Keqing starts at 0 Energy and always stays off-field. Both trials have Sara E + EMC E done 13 times:
 
 * [Trial 1](https://youtu.be/-KujlEHy24I): Sara takes EMC’s E amulets every time before doing Sara’s E.
 * [Trial 2](https://youtu.be/Bn3tlTtNtIE): Sara does not take any amulets at all.
 
 Testing:  
-After 12 procs, the off-field Keqing should have 39.6 energy. If EMC’s ER buff actually affects Sara’s A4, one of the Keqings with EMC buffed Sara should have 20% _ 1.2 _ 12 (procs) = 2.88 more extra energy compared to the non-buffed Sara, and therefore should have her burst up after 12 procs.
+After 12 procs, the off-field Keqing should have 39.6 Energy. If EMC’s ER buff actually affects Sara’s A4, one of the Keqings with EMC buffed Sara should have 20% _ 1.2 _ 12 (procs) = 2.88 more extra Energy compared to the non-buffed Sara, and therefore should have her Burst up after 12 procs.
 
 Results:  
-Both Keqings got their burst after 13 procs, regardless of if Sara was buffed by EMC ER buff or not. This would not happen if the interaction actually worked.
+Both Keqings got their Burst after 13 procs, regardless of if Sara was buffed by EMC ER buff or not. This would not happen if the interaction actually worked.
 
 **Significance:**  
-Pre-A4 EMC Skill’s ER buff doesn’t make Sara’s A4 passive generate more energy.
+Pre-A4 EMC Skill’s ER buff doesn’t make Sara’s A4 Passive generate more Energy.

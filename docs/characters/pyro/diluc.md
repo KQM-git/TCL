@@ -87,9 +87,9 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * The cooldown starts after the first cast.
-* Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
-* When Searing Onslaught hits a frozen target, it will shatter before reacting with any underlying auras.
-* Getting frozen in the middle of **Searing Onslaught**'s second attack's animation allows for the skill to be briefly recasted when unfrozen.
+* Each cast adds a stack to the 4-Piece Crimson Witch of Flames artifact set.
+* When Searing Onslaught hits a Frozen target, it will shatter before reacting with any underlying auras.
+* Getting Frozen in the middle of **Searing Onslaught**'s second attack's animation allows for the skill to be briefly recasted when unfrozen.
 
 </TabItem>
 

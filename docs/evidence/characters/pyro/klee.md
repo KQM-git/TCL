@@ -22,12 +22,12 @@ search: false
 **Last tested:** <VersionHl date="2021-03-16" />
 
 **Theory:**  
-This is an independent verification of @Steph's findings, that Klee's mines that normally have separate ICD's have trouble applying their pyro application \(for the purpose of breaking elemental shields\) if they detonate on an enemy too quickly i.e. on the same frame.
+This is an independent verification of @Steph's findings, that Klee's mines that normally have separate ICD's have trouble applying their Pyro application \(for the purpose of breaking elemental shields\) if they detonate on an enemy too quickly i.e. on the same frame.
 
 **Evidence/Method:**  
-I detonated all 8 of Klee's mines into a hydro abyss mage using Anemo MC's burst. Then I measured how many U's worth of shield was damaged by counting pixels. Note it takes 24U of pyro to completely break a hydro abyss mage's shield.
+I detonated all 8 of Klee's mines into a Hydro abyss mage using Anemo MC's Burst. Then I measured how many U's worth of shield was damaged by counting pixels. Note it takes 24U of Pyro to completely break a Hydro abyss mage's shield.
 
-1st Attempt: [https://i.imgur.com/mUlLZhI.jpeg](https://i.imgur.com/mUlLZhI.jpeg) note: the anemo also damages the shield. I will make note if it did this. Here it didn't. Frame 1 is always one frame before the first bomb reaches & deals dmg to the abyss mage. on Frame 5 it dealt 2U's worth of pyro damage. Total only 5U of shield damage.
+1st Attempt: [https://i.imgur.com/mUlLZhI.jpeg](https://i.imgur.com/mUlLZhI.jpeg) note: the Anemo also damages the shield. I will make note if it did this. Here it didn't. Frame 1 is always one frame before the first bomb reaches & deals dmg to the abyss mage. on Frame 5 it dealt 2U's worth of Pyro damage. Total only 5U of shield damage.
 
 2nd Attempt: [https://i.imgur.com/GmHWMON.jpg](https://i.imgur.com/GmHWMON.jpg) 1U of dmg on frame 2, 2U's worth on frame 4 and 6. Totalling 5U from bombs.
 
@@ -39,7 +39,7 @@ If too many mines hit the mage in too short a span you waste the mines' ICDs. Al
 **Significance:**  
 Only a maximum of 2U worth of shield dmg possible in one frame? \(inconclusive\)
 
-Klee can break hydro abyss shields faster by abusing the fact that her mines are on separate ICD's so long as you have a way to gather them. However anemo MC's burst is not the best way for this because the bombs detonate on the mage at the same time, wasting U's. \(you waste 3 to 4 mines worth of dmg\). You are better off holding E as steph suggests. Same with Jean don't tap E, hold E so that the mines gather onto the mage \(also credit Steph\).
+Klee can break Hydro abyss shields faster by abusing the fact that her mines are on separate ICD's so long as you have a way to gather them. However Anemo MC's Burst is not the best way for this because the bombs detonate on the mage at the same time, wasting U's. \(you waste 3 to 4 mines worth of dmg\). You are better off holding E as steph suggests. Same with Jean don't tap E, hold E so that the mines gather onto the mage \(also credit Steph\).
 
 ### Klee Mines ICD Update
 
@@ -51,15 +51,15 @@ Klee can break hydro abyss shields faster by abusing the fact that her mines are
 **Editor's Note:** The findings below expands on the findings above, this finding does not invalidate the above entry, but rather investigates a similarly related mechanic.
 
 **Findings:**  
-Klee's jumpty dumpty's split mines shares an ICD on pyro application with her normal attacks.
+Klee's jumpty dumpty's split mines shares an ICD on Pyro application with her normal attacks.
 
 **Evidence:** Frame counting was done on 2 separate conditions
 
-[Condition 1](https://imgur.com/cFw1iqd): Throw klee's jumpty dumpty down, lure cryo abyss mage in, then use Jean's E to gather all 8 bombs into the shield
+[Condition 1](https://imgur.com/cFw1iqd): Throw klee's jumpty dumpty down, lure Cryo abyss mage in, then use Jean's E to gather all 8 bombs into the shield
 
-[Condition 2](https://imgur.com/1cxyfmv): Throw klee's jumpty dumpty down, lure cryo abyss mage in, having 1 split mine to blow off onto the shield, then do a n1 onto the shield.
+[Condition 2](https://imgur.com/1cxyfmv): Throw klee's jumpty dumpty down, lure Cryo abyss mage in, having 1 split mine to blow off onto the shield, then do a n1 onto the shield.
 
-On both conditions, the very first frame is the frame where the first melt reaction occurs with Klee's split mine
+On both conditions, the very first frame is the frame where the first Melt reaction occurs with Klee's split mine
 
 In condition 1, the following data were collected
 
@@ -91,8 +91,8 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 
 **Evidence:**
 
-1. first bounce test = chongyun only melts 2 swords [YouTube](https://www.youtube.com/watch?v=wY-0DKfV3sw)
-2. second bounce test = chongyun only melts 2 swords [YouTube](https://youtu.be/ielZ3K7EiDQ)
+1. first bounce test = chongyun only Melts 2 swords [YouTube](https://www.youtube.com/watch?v=wY-0DKfV3sw)
+2. second bounce test = chongyun only Melts 2 swords [YouTube](https://youtu.be/ielZ3K7EiDQ)
 3. final bounce = grass sets on fire [YouTube](https://www.youtube.com/watch?v=iulXOvubb4A)
 
 **Significance:** Updated tcl
@@ -110,8 +110,8 @@ Klee can use her Q (Burst) to cancel E (Skill) after cast but before cooldown ti
 **Evidence:**
 
 * Klee can activate 3 stacks of Kagura's Verity by animation cancelling her E with Q to gain 1 stack, and 2 stacks after. - [YouTube](https://youtu.be/uPKTnU4uGZg)
-* Klee can activate the passive of 4pcs Heart of Depth without the skill cooldown being activated. - [YouTube](https://youtu.be/uIVBXPAQBkI)
-* Klee can activate the passive of 4pcs Shimenawa's Reminiscence and being able to cast Q before the energy drain occurs, indicating that the EQ cancel can be done below 7 frames. - [YouTube](https://youtu.be/OcuyPt4LbJU)
+* Klee can activate the passive of 4-Pieces Heart of Depth without the skill cooldown being activated. - [YouTube](https://youtu.be/uIVBXPAQBkI)
+* Klee can activate the passive of 4-Pieces Shimenawa's Reminiscence and being able to cast Q before the Energy drain occurs, indicating that the EQ cancel can be done below 7 frames. - [YouTube](https://youtu.be/OcuyPt4LbJU)
 
 **Significance:**  
 This can allow klee to utilize sets such as 4 Crimson Witch and 4 Shimenawa's Reminiscence and weapons like Kagura's Verity more effectively, can help in rotationcrafting and can be considered in calcs relating to these specific sets/weapons.  
@@ -126,22 +126,22 @@ This tech will be useful for anybody that uses klee, since E wont go into cooldo
 **Last tested:** <VersionHl date="2020-12-07" />
 
 **Finding:**  
-Klee's burst \(Q\) is snapshotted.
+Klee's Burst \(Q\) is snapshotted.
 
 **Evidence:**  
 [https://imgur.com/a/8TQUkYU](https://imgur.com/a/8TQUkYU)
 
 **Significance:**  
-You can leave Bennett Q after using Klee burst and you also keep other atk% buffs that were enabled before Klee burst.
+You can leave Bennett Q after using Klee Burst and you also keep other ATK% buffs that were enabled before Klee Burst.
 
 ### Klee Burst Waves Mechanics
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-06-11" />  
 **Last tested:** <VersionHl date="2021-06-11" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851923227819114496_852776649149513748_transcript-klee-burst-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851923227819114496_852776649149513748_transcript-klee-Burst-mechanics.html)
 
-**Finding:** Klee's burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
+**Finding:** Klee's Burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
 
 **Evidence:**
 
@@ -149,7 +149,7 @@ youtube video of 6 waves occurring: [https://youtu.be/ObwKAFrc548](https://youtu
 
 some data collected that about matches the expected distribution of 35%, 50%, 15%: [https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing)
 
-**Significance:** Explanining how Klee's burst works
+**Significance:** Explanining how Klee's Burst works
 
 ## Ascension Mechanics
 
@@ -161,7 +161,7 @@ some data collected that about matches the expected distribution of 35%, 50%, 15
 Updated: 2020-12-28
 
 **Theory:**  
-Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Explosive Spark' if she's swapped off\-field after auto attacking or using her E.
+Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Explosive Spark' if she's swapped off\-field after Normal Attacking or using her E.
 
 **Evidence:**  
 Tested for a few minutes on a world boss, but here's just a short clip.
@@ -171,12 +171,12 @@ Tested for a few minutes on a world boss, but here's just a short clip.
 * [Video 3](https://youtu.be/sTtaWS0g1gQ)
 
 **Significance:**  
-Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow you to switch characters immediately after the second without any downside. However, as it stands, players looking to maximize the benefit from the talent's charge attack buff will want to look for the proc before swapping, bringing two grounded AA1s closer in-line to - AA1 &gt; AA2 &gt; jump cancel combo. As for why you would want to swap characters frequently from Klee in the first place, that would be to set up reactions manually, or refresh Viridescent Venerer 4pc effect. A rotation could run something like this:
+Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow you to switch characters immediately after the second without any downside. However, as it stands, players looking to maximize the benefit from the talent's Charged Attack buff will want to look for the proc before swapping, bringing two grounded AA1s closer in-line to - AA1 &gt; AA2 &gt; jump cancel combo. As for why you would want to swap characters frequently from Klee in the first place, that would be to set up reactions manually, or refresh Viridescent Venerer 4-Piece effect. A rotation could run something like this:
 
 * Klee AAs until Explosive Spark proc
 * Sucrose Swirl
-* Swap to Cryo/Hydro unit and wait briefly for pyro to elapse naturally due to the swirl shortening its duration before proccing the aura element
-* Klee Charge Attack
+* Swap to Cryo/Hydro unit and wait briefly for Pyro to elapse naturally due to the Swirl shortening its duration before proccing the aura Element
+* Klee Charged Attack
 * Repeat.
 
 ### Klee A1 Bug
@@ -208,7 +208,7 @@ Regarding the Explosive Spark from Klee's A1:
 1. It lasts up to 30 seconds when it's not consumed.
 2. It stays even when Klee is swapped out.
 3. It can proc when hitting most plants, animals, and objects even if it doesn't "deal DMG".
-4. It can proc on trees, but on most trees if it doesn't proc within 3 hits the tree needs to be hit with a physical attack in order for it to be able to proc (exceptions are trees that drop Cuihua and Aralia wood).
+4. It can proc on trees, but on most trees if it doesn't proc within 3 hits the tree needs to be hit with a Physical attack in order for it to be able to proc (exceptions are trees that drop Cuihua and Aralia wood).
 5. It procs on Cuihua trees the same way it procs on everything else, there is no 3 hit limit.
 6. It doesn't proc on Aralia trees at all.
 
@@ -253,24 +253,24 @@ Damage calculations for Klee.
 
 **Finding:**
 
-* Klee C6 does not stack with itself (e.g., casting burst again during the 25s will not increase the pyro bonus to +20% total).
-* Klee C6 does snapshot to her own burst, unlike Xiangling.
+* Klee C6 does not stack with itself (e.g., casting Burst again during the 25s will not increase the Pyro bonus to +20% total).
+* Klee C6 does snapshot to her own Burst, unlike Xiangling.
 
 **Evidence:**  
 No stack: [Imgur](https://imgur.com/i7yYGwi)  
-Damage calc for burst: (stats screen: [Imgur](https://imgur.com/BxSiIXT)) (set bonus 2pc proof: [Imgur](https://imgur.com/Xn6WOqq))  
+Damage calc for Burst: (stats screen: [Imgur](https://imgur.com/BxSiIXT)) (set bonus 2-Piece proof: [Imgur](https://imgur.com/Xn6WOqq))  
 (damage screenshot 1277 - [Imgur](https://imgur.com/MqMJuFV)
 
 869 _ 1.588 _ 0.5 _ 0.9 _ 2.681 \* .768 = 1278.61 (rounding error in game?)  
 869 = attack  
-1.588 = damage bonus (ascension + c6 active + noblesse 2pc)  
+1.588 = damage bonus (ascension + c6 active + noblesse 2-Piece)  
 0.5 = enemy defense multiplier  
 0.9 = enemy resist multiplier  
-2.681 = crit  
-.768 = burst lvl 10
+2.681 = CRIT  
+.768 = Burst lvl 10
 
 **Significance:**  
-No value in chain casting burst shenanigans, and Klee C6 does apply to her own burst despite some people saying otherwise.
+No value in chain casting Burst shenanigans, and Klee C6 does apply to her own Burst despite some people saying otherwise.
 
 ### Klee C1 mechanics
 
@@ -281,11 +281,11 @@ No value in chain casting burst shenanigans, and Klee C6 does apply to her own b
 
 **Finding:**
 
-* Klee's C1, like her burst, has a (very) small aoe.
+* Klee's C1, like her Burst, has a (very) small aoe.
 * Klee's C1 has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs. Expected number of attempts before a proc is ~3.92.
 * Klee's C1 has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q. Self explanatory, but perhaps the only unusual trigger is pressing Q.
 * When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires. It seems happens consecutively: once a trigger misfires, the next trigger is likely to despawn.
-* Klee's C1 appears to have a standard icd for its aura, and is shared with her burst.
+* Klee's C1 appears to have a standard icd for its aura, and is shared with her Burst.
 
 **Evidence:**  
 Aoe - [Imgur](https://imgur.com/mfLfo5n)  
@@ -293,8 +293,8 @@ Proc math & data - [Google docs](https://docs.google.com/spreadsheets/d/1zixb0ex
 Misfire example 1 - [Imgur](https://imgur.com/n7RfhaQ)  
 Misfire example 2 - [Imgur](https://imgur.com/p4ploRl)  
 C1 proc chance: _Has been lost to the sands of time_  
-Pressing Q can proc C1 (and ICD is shared with burst)- [Imgur](https://imgur.com/QB3McRB)  
-C1 standard icd - [Imgur](https://imgur.com/sUa4xwQ), swirl damage = 911
+Pressing Q can proc C1 (and ICD is shared with Burst)- [Imgur](https://imgur.com/QB3McRB)  
+C1 standard icd - [Imgur](https://imgur.com/sUa4xwQ), Swirl damage = 911
 
 **Significance:**  
 Better understanding of Klee's C1.
@@ -343,12 +343,12 @@ Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one ch
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967824209369776198_transcript-klee-stacking-bug-has-been-fixed.html)
 
 **Finding:**  
-Klee's stacking bug has been fixed in version 2.6, she can no longer get 3 stacks of Kagura's Verity by double tapping either E or 3 stacks of 4pc Crimson Witch by spamming E.
+Klee's stacking bug has been fixed in version 2.6, she can no longer get 3 stacks of Kagura's Verity by double tapping either E or 3 stacks of 4-Piece Crimson Witch by spamming E.
 
 **Evidence:**
 
 * [Kagura's Verity](https://youtu.be/N6nGySw-kAo): only the 2 rows of bells light up, indicating 2 stacks from 2 E casts.
-* [4pc CW](https://youtu.be/pELuy5gmEX4): only 15% Pyro DMG Bonus gained, indicating 2 stacks from 2 E casts.
+* [4-Piece CW](https://youtu.be/pELuy5gmEX4): only 15% Pyro DMG Bonus gained, indicating 2 stacks from 2 E casts.
 
 **Significance:**  
-No one knows why they suddenly decided to fix this bug now, it worked from 1.1 to 2.5. This just means that Klee loses some damage when using Kagura or 4pc CW in comparison to before.
+No one knows why they suddenly decided to fix this bug now, it worked from 1.1 to 2.5. This just means that Klee loses some damage when using Kagura or 4-Piece CW in comparison to before.

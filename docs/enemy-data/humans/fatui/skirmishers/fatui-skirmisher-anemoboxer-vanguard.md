@@ -47,7 +47,7 @@ Head.
 
 ## Attacks
 
-* Creates an anemo forcefield in front of itself. This forcefield will stop all damage done to itself. If the forcefields comes in contact with any infuseable element, it will drop and start vacuuming the player in with great suction force, then throw an infused punch with great force of the absorbed element.
+* Creates an Anemo forcefield in front of itself. This forcefield will stop all damage done to itself. If the forcefields comes in contact with any infuseable Element, it will drop and start vacuuming the player in with great suction force, then throw an infused punch with great force of the absorbed Element.
 * Dashes to an ally, summoning its' forcefield to protect them.
 * Dashes to the player, summoning its' forcefield to block them.
-* Throws out a simple anemo infused punch.
+* Throws out a simple Anemo infused punch.

@@ -225,7 +225,7 @@ For Travelers who wish to maximize Stardust and minimize RC: target MEOs -&gt; E
 **Abstract:**  
 I was looking at the library submissions for Realm Currency and found that I had completely different conclusions in my personal findings than what had been submitted \(specifically the submission above\).
 
-My 2 main criticisms of the previous analysis is that it does not include artifact XP, and it does not take into account the "weekly budget" that a player receives from their teapot. Additionally, I wanted to analyze the actual value of Transient Resin in comparison to each shop item.
+My 2 main CRITicisms of the previous analysis is that it does not include artifact XP, and it does not take into account the "weekly budget" that a player receives from their teapot. Additionally, I wanted to analyze the actual value of Transient Resin in comparison to each shop item.
 
 In my finding, I have come to the conclusion that Transient Resin is by far the most efficient item in the shop, by a substantial amount. In order for any item in the shop to achieve at or above the same Resin Value as Transient Resin \(equivalent to 60 Resin\), the other options must be bought either almost or completely out.
 
@@ -437,7 +437,7 @@ Special ores from The Chasm don't just look different, they also have different 
 * Cheapest Revive: Teyvat Fried Egg, 180 Mora if bought from restaurant
 * Most Mora-efficient sprinting stamina reduction: Lotus Seed and Bird Egg Soup, 850 Mora
 
-As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food. However, the cost calculations are included in the spreadsheet.
+As other effects such as ATK buffs and CRIT Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food. However, the cost calculations are included in the spreadsheet.
 
 **Significance:** players who frequently use food and are looking to save Mora can see which foods are cheapest/most Mora-efficient for their given effects.
 
@@ -599,7 +599,7 @@ There is no quick method to reset tree resources beyond hitting an 11th tree and
 Attacks that shake untouched trees, including enemy attacks, can allow them to be harvested using a small number of Elemental Skills in a short window. We explored this to find several things.
 
 * Shaking a tree marks it as a target for a wider variety of skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
-* All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
+* All Physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
 * Marks last a very short time
 * Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload.
 

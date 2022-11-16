@@ -4,7 +4,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 
 ## Client side
 
-* Elemental Reactions and Auras
+* Elemental Reactions and auras
 * All character stats except for HP (including buffs)
 * Resistance Shred
 * Construct HP
@@ -14,7 +14,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * Damage and hits
 * Character and enemy HP
 * All enemy stats
-* Energy particles and character energy
+* Energy particles and character Energy
 * Stamina
 * Weapon stacks
 
@@ -24,7 +24,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * Both player and enemy are granted immortality whilst under high ping but the HP bar will be updated once switched back to normal latency.
   * This can lead to Bennett's Burst ignoring the HP threshold or Albedo's A1 not benefitting from enemies being below 50% HP.
 * Energy is not produced under high ping but will be generated when ping returns to normal.
-* AA energy source is not refunded when back to low latency.
+* AA Energy source is not refunded when back to low latency.
 * Energy is not consumed when under high ping.
 * When enemy is aggro-ed by player before high latency, it will remain aggressive.
 * When enemy is aggro-ed during high latency, it will remain passive for the duration of high latency state.

@@ -21,11 +21,11 @@ Certain characters have a finite vertical range for the buffs and/or infusions f
 
 **Evidence:**
 
-* Bennett has either infinite or a very long range on his Burst healing pyro infusion from c6, pyro dmg bonus from c6. etc.
+* Bennett has either infinite or a very long range on his Burst healing Pyro infusion from c6, pyro dmg bonus from c6. etc.
 
   * [YouTube](https://youtu.be/5EEAXYn3cn0)
 
-* Chongyun has either infinite or a very long range on Skill infusion, atk speed etc.
+* Chongyun has either infinite or a very long range on Skill infusion, ATK speed etc.
 
   * [YouTube](https://youtu.be/BcmzgqkkW9w)
 
@@ -37,11 +37,11 @@ Certain characters have a finite vertical range for the buffs and/or infusions f
 
   * [YouTube](https://youtu.be/KHCucwYJ8ZM)
 
-* Ganyu's A4 passive's vertical range is a little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of pai\#3602)
+* Ganyu's A4 Passive's vertical range is a little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of pai\#3602)
 
   * [YouTube](https://youtu.be/EI2UEyRpj10)
 
-* Shenhe's A1 passive's vertical range is little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of pai\#3602)
+* Shenhe's A1 Passive's vertical range is little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of pai\#3602)
 
   * [YouTube](https://youtu.be/86IUV8uvqPI)
 
@@ -152,7 +152,7 @@ Free fowl. Also whoever is coding the animals is probably trolling.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840459159656202250_845509708693635072_transcript-chair-cancelling.html)
 
 **Finding:**  
-For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
+For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-Piece to stack.
 
 **Evidence:**  
 [Video](https://youtu.be/6nwbxIwk3Q8)
@@ -172,13 +172,13 @@ Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Li
 
 1.  Some abilities are duplicated **at the point of their duration** when walking through the border. (an example being Ayaka Q, where every time you walk through the border another Ayaka Q spawns on top of where the first one is)  
     1a.  
-    These duplicated abilities are real, not just vfx loaded in( a duplicated Venti Q can still asborb pyro from a character standing in Bennett Q)  
+    These duplicated abilities are real, not just vfx loaded in( a duplicated Venti Q can still asborb Pyro from a character standing in Bennett Q)  
     1b.  
     For some reason some abilities can be effectively restarted by walking through the load border just as they end, causing another copy to appear at the start of the ability's animation effectively doubling the ablity's duration.  
     1c.  
     This can occur on both sides of the load border.  
     1d.  
-    guoba just stops working?  
+    Gouba just stops working?  
     1e.  
     did not affect Ganyu A4.
 2.  coop partners can load in and out depending on the distance from the load border.
@@ -205,7 +205,7 @@ Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Li
 
 1a:
 
-* Venti Q absorbing pyro ( you can actually see a new one being created after the absorbption that is still non absorbed) [YouTube](https://youtu.be/ilBeQAzMvdA)
+* Venti Q absorbing Pyro ( you can actually see a new one being created after the absorbption that is still non absorbed) [YouTube](https://youtu.be/ilBeQAzMvdA)
 
 1b:
 
@@ -256,11 +256,11 @@ In order to calculate questions like: When does Beidou outscale Razor? Has Razor
 
 **Results:**
 
-For an arbitrary range of levels \(1-100\), assuming optimized builds without damage reduction \(DR\) against Electro damage in the overworld, Razor during his burst is tankier than Beidou holding counter.
+For an arbitrary range of levels \(1-100\), assuming optimized builds without damage reduction \(DR\) against Electro damage in the overworld, Razor during his Burst is tankier than Beidou holding counter.
 
 For this terribly impractical range of levels, 1 to 100, Razor's best weapon would be whiteblind, a c1 max HP build Beidou for his shield, and an A2 Zhongli to boost his shield%. He would take Thundersoother and Bolide, with 3 DEF% mainstats, 15 HP substats, and 10 DEF substats, prioritizing %HP/DEF substat choice over flat HP/DEF.
 
-In a less optimized setting, Razor benefits more than Beidou as his strongest point is the Electro RES%, which does not need to be built for. Beidou needs HP% to scale both herself and her shield. Thus, even if you totally failed artifact grinding and got a terrible mainstats for Razor like Atk%/Phys%/CR%/CDMG%, with little HP or DEF substats and instead unluckily rolled into Crit Rate or Crit Damage -- _definitely a really bad build in general_ -- Razor would still be tankier than Beidou. However, if the damage is spread out over time in smaller bursts, Beidou can mitigate the damage entirely with her counter more easily than Razor, though if Razor also has a shield he can do the same. If so, in this theoretical scenarios, healing from a support would be incredibly helpful. This is because in general, as long as your HP does not reach 0, regaining HP via healing will tend to make you live longer.
+In a less optimized setting, Razor benefits more than Beidou as his strongest point is the Electro RES%, which does not need to be built for. Beidou needs HP% to scale both herself and her shield. Thus, even if you totally failed artifact grinding and got a terrible mainstats for Razor like ATK%/Phys%/CR%/CDMG%, with little HP or DEF substats and instead unluckily rolled into CRIT Rate or CRIT DMG -- _definitely a really bad build in general_ -- Razor would still be tankier than Beidou. However, if the damage is spread out over time in smaller Bursts, Beidou can mitigate the damage entirely with her counter more easily than Razor, though if Razor also has a shield he can do the same. If so, in this theoretical scenarios, healing from a support would be incredibly helpful. This is because in general, as long as your HP does not reach 0, regaining HP via healing will tend to make you live longer.
 
 If DR is not banned, Beidou also has a large amount of DR, which scales very well with other sources of DR. In this case, stacking DR via Beidou/Xingqiu/Jean with C6 will eclipse traditional methods of tanking damage, as damage reduction can be stacked to 100%.
 
@@ -268,9 +268,9 @@ Note that these conclusions are accurate only to 1.2. In 1.3, Zhongli's new shie
 
 Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200% Elemental Resistance, which makes all of this math pointless.
 
-**Signifiance:** The electro slimes will overtake us soon, and it's necessary to know how best to defend against them.
+**Signifiance:** The Electro slimes will overtake us soon, and it's necessary to know how best to defend against them.
 
-## Spawn Aura Tanking
+## Spawn aura Tanking
 
 **By:** Aevean Leeow\#1362  
 **Added:** <Version date="2021-05-01" />  
@@ -281,7 +281,7 @@ Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200%
 
 **Evidence:** Damage reduction from DEF is DEF/\(DEF + 5 _enemyLevel + 500\). This is 0 when enemyLevel = ∞. Thus DEF is negligible and the 'Tank' builds for shield%, RES%, and HP. Viable artifacts are 2-4Miracle, 2Bolide, and 2TS/2LW. Choices have tradeoffs \(eg Miracle is 4_ and thus trades HP for RES\). Shield characters simply max shield scaling stats.
 
-Zhong A2 +25% shield. A4 Diona decreases the enemy atk by 10%, multiplying effective HP by 10/9. C4 Ning +10% element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when element RES% is limited \(dendro\). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
+Zhong A2 +25% shield. A4 Diona decreases the enemy ATK by 10%, multiplying effective HP by 10/9. C4 Ning +10% element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when Element RES% is limited \(dendro\). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
 
 Razor has +80% RES but his BiS Shield C1 Beidou is small, and RES caps at 140%. Thus Beidou is BiS Electro Tank/Shield.
 
@@ -289,13 +289,13 @@ Each viable combination of artis/comp/etc is compared to find these conclusions 
 
 **Significance:** Why of course, this is incredibly significant and changes everything. In terms of things to build, Diona is a BiS char on every comp. Electro is the cheapest, as Beidou is both Tank and Shield, but is the most specialized. In general, Jean/Summit Shaper is used in 7/8 comps, while Zhong is used in 5/8 comps.
 
-More Significance to these already earth-shattering, mind-bending calculations, due to the discovery of spawning aura mechanics. Essentially, they ignore Damage Reduction and DEF, which is identical in execution to the previously hypothesized enemies that ignore DR and have a level of infinity, rendering DEF useless. For this reason, atk% debuffs on enemies will also be ignored in calculations. This introduces slightly more practicality to these calculations, though the practicality of this work has already approached infinity so it makes little difference.
+More Significance to these already earth-shattering, mind-bending calculations, due to the discovery of spawning aura mechanics. Essentially, they ignore Damage Reduction and DEF, which is identical in execution to the previously hypothesized enemies that ignore DR and have a level of infinity, rendering DEF useless. For this reason, ATK% debuffs on enemies will also be ignored in calculations. This introduces slightly more practicality to these calculations, though the practicality of this work has already approached infinity so it makes little difference.
 
 Thus, the question posed is no longer how much damage can you tank from a lv infinity enemy without DR. It is, how much damage can you tank from a spawning aura in one hit?
 
-In the first half of the 1.3 update, the Geo rework meant that geo shields would become stronger for non-Geo elements, and weaker against Geo. The implications of this were that while Geo tanking ability became noticably worse, some other elements benefitted greatly. Thanks to Zhongli's new shield totally eclipsing Beidou's C1 shield, Razor became the best Electro tank by far. Due to the new nonspecificity of Geo shields, Geo joined the Hydro and Anemo group, being 72.36% of its former self. In the second half of the 1.3 update, the release of Hu Tao means that her C6 immunity to getting oneshot must also be banned, as it allows her to tank any single hit. However, her state afterwards where she gains +200% RES means she powercreeps every single other tank. Note that the RES cap seems to have been removed, though it is unclear whether it was during Xiao or Hu Tao banner's time period. Furthermore, Hu Tao also has the highest base HP in the game, though this is less significant than her C6 providing +200% RES.
+In the first half of the 1.3 update, the Geo rework meant that Geo shields would become stronger for non-Geo elements, and weaker against Geo. The implications of this were that while Geo tanking ability became noticably worse, some other elements benefitted greatly. Thanks to Zhongli's new shield totally eclipsing Beidou's C1 shield, Razor became the best Electro tank by far. Due to the new nonspecificity of Geo shields, Geo joined the Hydro and Anemo group, being 72.36% of its former self. In the second half of the 1.3 update, the release of Hu Tao means that her C6 immunity to getting oneshot must also be banned, as it allows her to tank any single hit. However, her state afterwards where she gains +200% RES means she powercreeps every single other tank. Note that the RES cap seems to have been removed, though it is unclear whether it was during Xiao or Hu Tao banner's time period. Furthermore, Hu Tao also has the highest base HP in the game, though this is less significant than her C6 providing +200% RES.
 
-Note that as a result, Electro is no longer the undisputed king of the element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield \(Xinyan\), and so does Cryo, with a bigger shield \(Diona\) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set. Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
+Note that as a result, Electro is no longer the undisputed king of the Element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield \(Xinyan\), and so does Cryo, with a bigger shield \(Diona\) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set. Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
 
 If MHY told you to pick an damage type to tank the most damage from a level ∞ enemy without damage reduction, the tier list is Pyro &gt; Cryo &gt; Electro &gt; Geo = Hydro = Anemo &gt; Dendro &gt; Physical.
 
@@ -305,7 +305,7 @@ If MHY told you to pick an damage type to tank the most damage from a level ∞ 
 **Added:** <Version date="2021-03-23" />  
 **Last tested:** <VersionHl date="2021-03-23" />
 
-**Theory:** Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
+**Theory:** Without using any elemental skills/Bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 
 **Evidence:** Kaeya, a free character, is used. This is not to imply that other free characters cannot climb the tree, and it is highly likely that other characters can also perform this feat. This evidence merely demonstrates that climbing the tree under the previously mentioned limitations is indeed possible. No food buffs/resonances/etc are used.
 
@@ -336,7 +336,7 @@ Note: This is a merge of 2 tickets
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842094899204587580_857414437437964348_transcript-all-the-cancelling.html)
 
 **Finding:**  
-For some characters, if they use an elemental skill or burst and use a dialogue box at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill or burst as if it activated, which causes effects like Crimson Witch 4-piece to stack or can trigger effects like 4-piece Noblesse Oblige.
+For some characters, if they use an elemental skill or Burst and use a dialogue box at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill or Burst as if it activated, which causes effects like Crimson Witch 4-Piece to stack or can trigger effects like 4-Piece Noblesse Oblige.
 
 **Evidence:**  
 Chair cancel by Ayzel: [Video](https://youtu.be/6nwbxIwk3Q8)  
@@ -344,7 +344,7 @@ Talking to NPC cancel by sexyeboy69: [Video Download](https://tcl-backup.s3.file
 Poster cancel by Aluminum: [Video Download](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/miscellaneous-entries.md/discord/attachments_842094899204587580_842106461378969640_Poggers_poster_cancel.mp4)
 
 **Significance:**  
-New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\). Also, can obtain 4-piece Noblesse buff or Keqing's bonus crit rate without actually using the burst.
+New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\). Also, can obtain 4-Piece Noblesse buff or Keqing's bonus CRIT Rate without actually using the Burst.
 
 ## Harpastum Cancel
 
@@ -354,12 +354,12 @@ New theoretical highest DPS ceiling for some units who aren't able to typically 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853961397059059722_858414283258855464_transcript-harpastum-cancel.html)
 
 **Finding:**  
-Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, the cancel cannot be performed when your character is put into a state where elemental skill is not usable, such as while performing a charge attack.
+Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, the cancel cannot be performed when your character is put into a state where elemental skill is not usable, such as while performing a Charged Attack.
 
 **Evidence:**  
 Harpastum cancel demo: [Video](https://imgur.com/g4VzQqE)  
 Harpastum cancel frame counts: [Google Sheets](https://docs.google.com/spreadsheets/d/18m1YqErwXnFxVE6NlGp20yYHKt6byt9gT_OVK6gKsEc/edit)  
-Unable to use harpastum cancel during charge attack: [Video](https://imgur.com/1hYi0s0)
+Unable to use harpastum cancel during Charged Attack: [Video](https://imgur.com/1hYi0s0)
 
 **Significance:**  
 Because you can use the gadget in combat, holding the skill button while having the Harpastum equipped act as a quick skill animation cancels, that are are quicker than jump cancels, and does not cost stamina like dash cancels. This can potentially help melee character that prefer to not finish their attack combo due to long animation, such as Razor in the open world.
@@ -381,20 +381,20 @@ You can clearly hear both Hilicurls snoring as they enjoy their afternoon nap.
 **Significance:**  
 Even the Hilichurls are taking it easy, don't forget to take a break from the game now and then.
 
-## 4pc Gambler and Sacrificial Weapons Wildlife Interaction
+## 4-Piece Gambler and Sacrificial Weapons Wildlife Interaction
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-08-17" />  
 **Last tested:** <VersionHl date="2021-08-17" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876373145655869460_877095617246167050_transcript-4p-gambler-and-sac-weapon-animals-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876373145655869460_877095617246167050_transcript-4-Piece-gambler-and-sac-weapon-animals-interaction.html)
 
 **Finding:**  
-Sacrificial weapons passives and Gambler 4p effect triggers on fowl and raw meat sources, but does not trigger on critters (entire "Other" category from the archive).
+Sacrificial weapons passives and Gambler 4-Piece effect triggers on fowl and raw meat sources, but does not trigger on CRITters (entire "Other" category from the archive).
 
 **Evidence:**  
 Triggers on (fowl/raw meat sources):
 
-* Foxes: [Imgur](https://i.imgur.com/ryawqXu.mp4) (displays only 4p gambler)
+* Foxes: [Imgur](https://i.imgur.com/ryawqXu.mp4) (displays only 4-Piece gambler)
 * Boars: [Imgur](https://i.imgur.com/3k3R1B1.mp4) (sac sword trigger), [Imgur](https://i.imgur.com/xBzadvR.mp4) (gambler trigger)
 * Birds: [Imgur](https://i.imgur.com/iKMO4MP.mp4) (gambler trigger)
 * Squirrels: [Imgur](https://i.imgur.com/V9ItTY3.mp4) (sac sword trigger)
@@ -570,7 +570,7 @@ Traveler does not accumulate friendship points, but does sort higher than other 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929809364825550901_936413828575559700_transcript-a-study-in-potions--retry-button-mechanics.html)
 
 **Finding:**  
-The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
+The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, Burst skills and character constellations are fully reset as well as HP and Energy.
 
 **Evidence:**  
 [Google Doc](https://docs.google.com/spreadsheets/d/1eYvgX2WSqEFXtQEuuwlI9nYveeaWUSe-grQ2Lx59zVY/edit?usp=sharing)  
@@ -657,15 +657,15 @@ The plunge took place at an arbitrary height I thought to be extremely high afte
 **Significance:**  
 Plunging provides a speedier way of getting down from a high place without dying as long as you have enough HP.
 
-## Bokuso Box Crit Rate and Damage Scale off of Character Stats
+## Bokuso Box CRIT Rate and Damage Scale off of Character Stats
 
 **By:** melon\#9323  
 **Added:** <Version date="2022-03-03" />  
 **Last tested:** <VersionHl date="2022-03-03" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-crit-scales-off-character.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-CRIT-scales-off-character.html)
 
 **Finding:**  
-Bokuso Box Crit Rate and damage scale off of character stats.
+Bokuso Box CRIT Rate and damage scale off of character stats.
 
 **Evidence:**  
 [YouTube video](https://youtu.be/SOz8PC2UiDU)
@@ -804,7 +804,7 @@ The only doors that do the [funny reload thing](#door-load-border-shenanigans) w
 1. Must have an interact prompt to pass through.
 2. Don't reload the whole area around the player when entering/exiting
 3. Are not sliding doors \(Inazuma sliding doors do not work\).
-   So far, the only doors that fulfil both those criteria are the three in the Knights of Favonius Office.
+   So far, the only doors that fulfil both those CRITeria are the three in the Knights of Favonius Office.
 
 **Evidence:**
 
@@ -824,7 +824,7 @@ The Knights of Favonius are special.
 **By:** yolitme0\#0579  
 **Added:** <Version date="2022-03-29" />  
 **Last tested:** <VersionHl date="2022-03-29" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958510689549447250_transcript-self-freeze-can-be-canceled-by-swapping.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958510689549447250_transcript-self-Freezee-can-be-canceled-by-swapping.html)
 
 **Finding:**  
 By swapping at the correct time around when you initially become Frozen, you can "unfreeze" yourself.
@@ -916,7 +916,7 @@ Knowledge about the world, and it’s freaking cute uwu
 **By:** Madrigal\#7486  
 **Added:** <Version date="2022-04-24" />  
 **Last tested:** <VersionHl date="2022-04-24" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967818246889824296_transcript-elemental-bursts-reset-directional-pad-on-mobile.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967818246889824296_transcript-elemental-Bursts-reset-directional-pad-on-mobile.html)
 
 **Finding:**  
 Almost all Elemental Bursts that have a zoom animation will reset the directional pad on mobile (only 1 known exception as of now). Bursts that have no zoom animation (either by design or by canceling the zoom) will not reset the directional pad. We can safely assume this trend for future characters without exhaustive testing.
@@ -989,7 +989,7 @@ The birds inside the cages of The Chasm underground camps have some weird behavi
 **Attacks and Death**
 
 * Cannot die to any attacks (it jumps like a cat), this is expected/intended
-* Dies upon touching water, but can stand on frozen water - [Imgur by Tibo#4309](https://imgur.com/a/rgG0Z6z)
+* Dies upon touching water, but can stand on Frozen water - [Imgur by Tibo#4309](https://imgur.com/a/rgG0Z6z)
 * ~~Drops 1 fowl and respawns back in the cage after teleporting~~
   * As of 2.7, it despawns when killed without dropping fowl
 
@@ -1022,7 +1022,7 @@ Cats, foxes and dogs can be affected by some debuffs.
 **Evidence**
 
 * Affected by 4 Viridescent Venerer resistance shred - [Imgur](https://imgur.com/0G6EcsR)
-* Affected by C2 Klee DEF shred - [Imgur #1](https://imgur.com/FiAklhE) , [Imgur #2](https://imgur.com/a/bGn5vBY)
+* Affected by C2 Klee DEF Shred - [Imgur #1](https://imgur.com/FiAklhE) , [Imgur #2](https://imgur.com/a/bGn5vBY)
 * _Not_ affected by the resistance shred Zhongli provides - [Imgur](https://imgur.com/a/NIFs00I)
 * _Not_ affected by Lisa's defence shred - [Imgur](https://imgur.com/a/WeplASO)
 
@@ -1102,8 +1102,8 @@ Fluff.
 **Finding:**  
 Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some odd properties.
 
-1. Unlike usual sources of overworld pyro damage, like torches or burning grass or other campfires, this campfire only deals 4 damage per tick. Like other campfires, it is 1U transformative pyro damage.
-2. The campfire has similar properties to other campfires \(hold cryo gauge, pops Ayato E, and gets targetted by Oz if Fischl procs A1\) but does not light up under elemental sight, unlike regular campfires. This applies whether it holds pyro, cryo, or no element at all.
+1. Unlike usual sources of overworld Pyro damage, like torches or burning grass or other campfires, this campfire only deals 4 damage per tick. Like other campfires, it is 1U transformative Pyro damage.
+2. The campfire has similar properties to other campfires \(hold Cryo gauge, pops Ayato E, and gets targetted by Oz if Fischl procs A1\) but does not light up under elemental sight, unlike regular campfires. This applies whether it holds Pyro, cryo, or no Element at all.
 3. Player constructs may be placed on top of the melons, but construct placements that would intersect with the melon hitboxes are invalid. Note that the hitbox is strange and somewhat unintuitive, and does not entirely match its appearance.
 4. The melons are "slippery" in the sense that while the player may stand on them, approaching the melons with more than an arbitrary small amount of speed will cause them to slip off. For example, one may drop down onto the melons via climbing a construct, but performing a directionless jump straight up will cause the character to fall off. Character attacks, as usual, will not lead to them falling off the melons either, and neither will swapping characters.  
    This is a very strange result. First, roasted melons would not be slippery, as any surface moisture would be evaporated due to the heat of the campfire. Second, sticks usually used to skewer fruit would not be sturdy enough to support someone's weight.
@@ -1114,7 +1114,7 @@ Kuki Shinobu's melons, and the campfire she uses to roast them in particular, ha
 
 1. [4 Pyro transformative dmg \(1U\)](https://youtu.be/TbdxoFm5Wvo)
 
-2. [Elemental sight, cryo application, 1U pyro](https://youtu.be/7q_j4ddv2WA)
+2. [Elemental sight, cryo application, 1U Pyro](https://youtu.be/7q_j4ddv2WA)
 
 * [Fischl A1 target](https://youtu.be/qCXdsBCMADU)
 * [Ayato E pop](https://youtu.be/EcZDtToVtdc)
@@ -1140,14 +1140,14 @@ One may argue that the melons are not foul or evil in nature, as Itto quite like
 
 These points shed light on the truth of Shinobu's backstory. Clearly, she was lying about her desire for freedom or whatever excuse she may have used. The truth was that she fled from and continues to avoid Grand Narukami shrine maidens, such as her family, in order to prevent them from exorcising and sealing her away. Shinobu is probably really bad at danmaku, given that she lacks a bullet dodging certificate, which explains why she chose to flee instead of fight. This also means that her profession of deputy leader of the Arataki Gang is merely a front for her to perform diabolic arts without suspicion.
 
-Furthermore, her unwillingness to assist in fighting off the evil spirits while Xiao channeled his energy into the compass is most likely not because she had her hands full with Itto. It is more likely that Kuki Shinobu was the mastermind behind the entire incident with the abyss, the chasm, and the compass.
+Furthermore, her unwillingness to assist in fighting off the evil spirits while Xiao channeled his Energy into the compass is most likely not because she had her hands full with Itto. It is more likely that Kuki Shinobu was the mastermind behind the entire incident with the abyss, the chasm, and the compass.
 
 ## Anemo and Cryo Skills and Bursts Proc Grana
 
 **By:** Lit\#1924, ????????????????????????????????\#3255  
 **Added:** <Version date="2022-08-20" />  
 **Last tested:** <VersionHl date="2022-08-20" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/anemo-and-cryo-skills-and-bursts-proc-grana)
+[Discussion](https://tickets.deeznuts.moe/transcripts/anemo-and-cryo-skills-and-Bursts-proc-grana)
 
 **Finding:**  
 Anemo units' Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.  

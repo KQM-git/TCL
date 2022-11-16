@@ -39,7 +39,7 @@ When testing and verifying damage calculations with Trial Characters, this inter
 **By:** vinsette#0293  
 **Added:** <Version date="2021-11-01" />  
 **Last tested:** <VersionHl date="2021-11-01" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904061168828702751_904585059061862430_transcript-swirl-chain-reactions-can-trigger-electro-resonance.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904061168828702751_904585059061862430_transcript-Swirl-chain-reactions-can-trigger-electro-resonance.html)
 
 **Finding:**  
 Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Swirl chain reactions can trigger the effect of Electro Resonance.
@@ -53,14 +53,14 @@ Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Sw
 **Significance:**  
 Electro Resonance is easier to trigger and more consistent with an Anemo driver than previously expected.
 
-## Cryo Resonance Applies Crit Rate For Cryo Before Reactions
+## Cryo Resonance Applies CRIT Rate For Cryo Before Reactions
 
 **By:** NZPIEFACE#8439  
 **Added:** <Version date="2022-01-14" />  
 **Last tested:** <VersionHl date="2022-01-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929770373271158816_931416249232146452_transcript-cryo-resonance-applies-crate-for-cryo-before-reactions.html)
 
-**Finding:** Cryo resonance determines if an enemy has Cryo for its crit rate buff before reactions remove auras.
+**Finding:** Cryo resonance determines if an enemy has Cryo for its CRIT Rate buff before reactions remove auras.
 
 **Evidence:**
 
