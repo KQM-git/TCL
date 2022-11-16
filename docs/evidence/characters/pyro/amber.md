@@ -29,7 +29,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839475466792599573_840049309344464967_transcript-baron-bunny-aura.html)
 
 **Finding:**  
-Baron Bunny is allowed to have a Hydro or Cryo aura, as well as be Frozen. In the former case only environmental effects may apply the Hydro aura. Most reactions function properly on this aura, notable crystalize, swirl, superconduct and shatter. It is not known how one may apply a Pyro or Electro aura to the Bunny, and the author could not find a way for the bunny to be Electro-Charged.
+Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. In the former case only environmental effects may apply the hydro aura. Most reactions function properly on this aura, notable crystalize, swirl, superconduct and shatter. It is not known how one may apply a pyro or electro aura to the Bunny, and the author could not find a way for the bunny to be electrocharged.
 
 **Evidence:**  
 [Video](https://youtube.com/playlist?list=PLPByPR2TubV5LHQ9Oab6k1bthvfrHkiSu)
@@ -103,7 +103,7 @@ Fluff, better understanding of Amber's kit.
 [Discussion](https://tickets.deeznuts.moe/transcripts/bunnystrike)
 
 **Finding:**  
-Baron Bunny has a hitbox that players can hit with normal attacks. Some characters such as Xingqiu can hit this hitbox easily, while other characters struggle to hit it consistently. This can be used for dragonstrikes. This is also probably why bunny can hold Cryo aura, which is already known in the TCL.
+Baron Bunny has a hitbox that players can hit with normal attacks. Some characters such as Xingqiu can hit this hitbox easily, while other characters struggle to hit it consistently. This can be used for dragonstrikes. This is also probably why bunny can hold cryo aura, which is already known in the TCL.
 
 **Evidence:**  
 [YouTube](https://youtu.be/njUeRRg3D3o)
@@ -128,7 +128,7 @@ Baron Bunny can be dash canceled or jump canceled \(while stationary\) to activa
 [YouTube](https://youtu.be/cgx6rTTyF1Q)  
   
 **Significance:**  
-Amber can activate effect bonuses that require activating her Skill \(Crimson Witch set, Windblume Ode, etc.\) without dealing with her Skill's long cooldown at any Constellation, allowing constant uptime of the bonuses.  
+Amber can activate effect bonuses that require activating her skill \(Crimson Witch set, Windblume Ode, etc.\) without dealing with her Skill's long cooldown at any Constellation, allowing constant uptime of the bonuses.  
 
 ## Burst Mechanics
 
@@ -176,7 +176,7 @@ There is another example of this happening in 4c, when one of the slimes jumps i
 * Amber 3 overloads: [https://youtu.be/e1YCTAdjJ2A](https://youtu.be/e1YCTAdjJ2A)
 * Amber 4 overloads: [https://youtu.be/vXttP0fBsM0](https://youtu.be/vXttP0fBsM0)
 
-**Significance:** The random arrow distribution in Amber's Burst makes the reaction potential of her Burst as the trigger very inconsistent.
+**Significance:** The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent.
 
 ## Constellation Mechanics
 
@@ -191,7 +191,7 @@ There is another example of this happening in 4c, when one of the slimes jumps i
 Two Baron Bunnies can exist simultaneously on C0 Amber.
 
 **Evidence:** [Video](https://youtu.be/a3_6u2jdFsE)  
-Test was done on Floor 1 of the Abyss with a 4-Piece Gambler set.
+Test was done on Floor 1 of the Abyss with a 4-piece Gambler set.
 
 **Significance:**  
 It is possible to spawn multiple Baron Bunnies at once without C4 Amber.
@@ -206,7 +206,7 @@ It is possible to spawn multiple Baron Bunnies at once without C4 Amber.
 **Finding/Bug:**
 
 * Amber’s C1 damage instance is considered CA damage.
-* Amber’s C2 damage instance is considered Skill damage.  
+* Amber’s C2 damage instance is considered skill damage.  
   / Baron Bunny snapshots.
 
 **Evidence:**  
@@ -214,7 +214,7 @@ Testing done by Peekays\#2722 and minah\#0853
 Damage increases with 4WT bonus - [Video](https://www.youtube.com/watch?v=ErKHwO8wz0U) and [Video](https://www.youtube.com/watch?v=QPVvaP6QUV4)
 
 Testing done by minah\#0853  
-Damage increases with 2gambler bonus, and does not increase when 4NO buff is activated after Skill cast but before detonation - [Video](https://www.youtube.com/watch?v=ErKHwO8wz0U)
+Damage increases with 2gambler bonus, and does not increase when 4NO buff is activated after skill cast but before detonation - [Video](https://www.youtube.com/watch?v=ErKHwO8wz0U)
 
 **Significance:** Damage calculations and rotation considerations for Amber
 
@@ -240,13 +240,13 @@ C2 Amber users can trigger teammates' baron bunnies. This effect works even if t
 * Mathematical Confirmation:
 
   * Hilichurls
-    * Automatic Detonation: 102 \(ATK\) \* 123.2% \(Talent Scaling\) \* 1 \(DMG Bonus\) \* 90% \(10% Pyro Resistance\) \* 0.425 \(Rounded Defense Multiplier\) = 48.06648
+    * Automatic Detonation: 102 \(ATK\) \* 123.2% \(Talent Scaling\) \* 1 \(Damage Bonus\) \* 90% \(10% Pyro Resistance\) \* 0.425 \(Rounded Defense Multiplier\) = 48.06648
     * Manual Detonation: 102 \(ATK\) \* 123.2% \(Talent Scaling\) \* 1+2 \* 90% \(10% Pyro Resistance\) \* 0.425 \(Rounded Defense Multiplier\) = 144.19944
   * Regisvine
-    * Automatic Detonation: 102 \(ATK\) \* 123.2% \(Talent Scaling\) \* 1 \(DMG Bonus\) \* 90% \(10% Pyro Resistance\) \* 0.404 \(Rounded Defense Multiplier\) = 45.6914304
-    * Manual Detonation: 102 \(ATK\) \* 123.2% \(Talent Scaling\) \* 1 \(DMG Bonus\) \* 90% \(10% Pyro Resistance\) \* 0.404 \(Rounded Defense Multiplier\) = 137.0742912
+    * Automatic Detonation: 102 \(ATK\) \* 123.2% \(Talent Scaling\) \* 1 \(Damage Bonus\) \* 90% \(10% Pyro Resistance\) \* 0.404 \(Rounded Defense Multiplier\) = 45.6914304
+    * Manual Detonation: 102 \(ATK\) \* 123.2% \(Talent Scaling\) \* 1 \(Damage Bonus\) \* 90% \(10% Pyro Resistance\) \* 0.404 \(Rounded Defense Multiplier\) = 137.0742912
 
-A CRIT on the automatic detonation at 50% CRIT DMG would land 72 on the hilichurls and 69 on the regisvine, rather than 144 and 137 respectively.
+A crit on the automatic detonation at 50% crit damage would land 72 on the hilichurls and 69 on the regisvine, rather than 144 and 137 respectively.
 
 **Significance:**  
  Optimizing niche coop damage scenarios and possible applications on future characters with similar effects.

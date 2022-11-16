@@ -45,7 +45,7 @@ At each chamber of a floor, 3 cards are offered. You may select one. These cards
 
 ## Notes
 
-* If a player presses retry and reselects the Max HP +25% card, they will be missing some HP - [Chameleon\#9008](../../evidence/combat-mechanics/spiral-domains/cards.md#HP-loss-on-retry)
+* If a player presses retry and reselects the Max HP +25% card, they will be missing some HP - [Chameleon\#9008](../../evidence/combat-mechanics/spiral-domains/cards.md#hp-loss-on-retry)
 
 ## Evidence Vault
 

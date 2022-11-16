@@ -55,24 +55,24 @@ None.
 * Childe teleports instantly to any point of the arena.
   * This move is performed if the player is too far away.
 * Performs up to 4 consecutive charged shots with a bow, dealing Hydro DMG.
-* Vortex of Turmoil: Gathers Hydro Energy on his Glaive and launches it forwards, spearing anything in its path.
+* Vortex of Turmoil: Gathers Hydro energy on his Glaive and launches it forwards, spearing anything in its path.
   * Deals Hydro damage. May be used up to 3 times consecutively.
 * Releases hydrospouts in a straight line, dealing Hydro DMG and launching the player upwards.
 * Unleashes two flying crescent slashes, dealing Hydro DMG.
 * Performs 2 consecutive attacks, dealing Electro DMG.
 * Performs a slash towards the player, dealing dealing a moderate amount of Electro DMG. This is an AoE attack that spans a 180° arc.
-* Performs 3 consecutive attacks (slash, cross-slash, horizontal slash), then throws a spinning polearm forward. All attacks in this Skill deal Electro DMG.
+* Performs 3 consecutive attacks (slash, cross-slash, horizontal slash), then throws a spinning polearm forward. All attacks in this skill deal Electro DMG.
 * Summons a lightning cloud that shoots 4 consecutive Electro blades at the player.
   * This move does not leave a Riptide mark or cause knockback.
 * Performs at least 1 and up to 5 consecutive charged forward dash attacks, dealing Electro DMG in his wake.
 * Unleashes attack in the form of a wheel, dashing forward and returning to its initial location and dealing Electro DMG.
-  * This attack is only performed if a target is marked with Electro riptide.
+  * This attack is only performed if a target is marked with electro riptide.
 * Charges for a while, then unleashes 4 arrows upward that fall to deal massive Hydro DMG in a huge AoE around him.
-  * This attack is only performed if a target is marked with Hydro riptide.
+  * This attack is only performed if a target is marked with hydro riptide.
 * Charges for a while, then unleashes a huge horned humpback whale-shaped Hydro attack with a bow in a huge AoE in front of him, dealing massive Hydro DMG.
-  * This attack is only performed if a target is marked with Hydro riptide.
+  * This attack is only performed if a target is marked with hydro riptide.
 * Marks the player with a circle of black lightning. Charges for a while, flies high slowly, and then strikes down at the player, dealing massive amount of Electro DMG around the landing point.
-  * This attack is only performed if a target is marked with Electro riptide.
+  * This attack is only performed if a target is marked with electro riptide.
 
 ## Forms
 

@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 66% HP       | 1 Orb | common  |
-| 33% HP       | 1 Orb | common  |
-| Death        | 1 Orb | common  |
+| 66% HP       | 1 orb | common  |
+| 33% HP       | 1 orb | common  |
+| Death        | 1 orb | common  |
 
 ## Resistance Table
 
@@ -50,7 +50,7 @@ Head.
 * When Mirror Maiden uses her teleport move, she will randomly teleport in front of the active character or behind him. There are no set patterns, it's pure random. This applies for both "weak" state as well as Polarization.
 
 * Can summon a mirror behind them that closes up around them causing them to disappear, then another mirror appears that the Mirror Maiden emerges from.
-* Mirror Maidens can summon 3 lines of water to drop from the skies creating mirror shards on the ground that form spinning flowers with water around them that then Burst out. \* This attack applies the Refraction status onto the player.
+* Mirror Maidens can summon 3 lines of water to drop from the skies creating mirror shards on the ground that form spinning flowers with water around them that then burst out. \* This attack applies the Refraction status onto the player.
   * The attack seems to no longer occur after the Mirror Maiden is in Polarization state.
 * Mirror Maidens can summon an Explosive Splash around themselves if the player attacks in melee range.
   * This attack applies the Refraction status onto the player.
@@ -61,7 +61,7 @@ Head.
   * This attack is only used when the Mirror Maiden is in Polarization state.
 * Mirror Maidens can summon temporary small mirror shards around the player and trapping them inside, the player may still move and attack while in the cage but cannot escape by normal means.
   * This attack is only used when the Mirror Maiden is in Polarization state.
-* Mirror Maidens summon 3 Hydro Bullets that orbit around them and one that orbits around the player, then many mirrors will be summoned around a player which reflect a laser many times in the area, after which a Burst of water erupts.
+* Mirror Maidens summon 3 Hydro Bullets that orbit around them and one that orbits around the player, then many mirrors will be summoned around a player which reflect a laser many times in the area, after which a burst of water erupts.
   * This attack is only used when the Mirror Maiden is in Polarization state.
 
 ## Interactions

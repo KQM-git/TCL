@@ -44,13 +44,13 @@ I've experienced placing Albedo's flower on top of Electro Hypostasis' summons d
 **Last tested:** <VersionHl date="2021-04-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834274373493456976_834662830120239115_transcript-albedo-e-snapshot.html)
 
-**Finding:** Albedo's elemental Skill snapshots, meaning that damage for its entire duration is calculated when the Skill is cast, so any buffs gained/lost after the Skill is cast will not affect the Skill's damage.
+**Finding:** Albedo's elemental skill snapshots, meaning that damage for its entire duration is calculated when the skill is cast, so any buffs gained/lost after the skill is cast will not affect the skill's damage.
 
 **Evidence:** [https://youtu.be/BhfcSLmPW5s](https://youtu.be/BhfcSLmPW5s)
 
-Albedo's Skill does not get affected by Ningguang's Jade Screen buff, since Albedo cast the Skill before walking through the screen.
+Albedo's skill does not get affected by Ningguang's Jade Screen buff, since Albedo cast the skill before walking through the screen.
 
-**Signifiance:** Will help improve rotations to deal more damage. In rotations, Albedo should only cast his Skill after getting buffed.
+**Signifiance:** Will help improve rotations to deal more damage. In rotations, Albedo should only cast his skill after getting buffed.
 
 ### Albedo's Elemental Skill Triggering is Pepega
 

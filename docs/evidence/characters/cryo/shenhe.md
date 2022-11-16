@@ -38,7 +38,7 @@
 * Shenhe press E does not have hitlag - [Video](https://youtu.be/F_zqC7nMc7E) - TWICE\#9958
 * Shenhe tap E is capable of escaping Mirror Maiden's cage. Hold E however, is not - [Video](https://youtu.be/0sMIIjye5ps) - Mcpie\#8672
 * Icy quills are used up even if no damage is dealt to an enemy when they have a shield - [Video](https://youtu.be/KPqEwaEuvkc) - ꀍꏂꀤꌚꏂꈤꌃꏂꋪꁅ\#4332
-* Icy quills increase the damage dealt to shields by around 15 to 20% (excluding Cryo) - ꀍꏂꀤꌚꏂꈤꌃꏂꋪꁅ\#4332
+* Icy quills increase the damage dealt to shields by around 15 to 20% (excluding cryo) - ꀍꏂꀤꌚꏂꈤꌃꏂꋪꁅ\#4332
   * [Video w/o Quills](https://youtu.be/e1EEHnBfgTU)
   * [Video w/ Quills](https://youtu.be/WhNHaCXR0B0)
 * Using Shenhe's Hold E on an explosive barrel doesn't get her knocked back - [Video](https://www.youtube.com/watch?v=tg_LMw8Mea4) - Sincronic\#3171
@@ -54,7 +54,7 @@
 **Finding:**  
 Shenhe does not have ICD.
 
-**Evidence:** [Video](https://youtu.be/Mwaz-2-Piecelb2E) / [Video #2](https://youtu.be/XiH9TzHF76Q)
+**Evidence:** [Video](https://youtu.be/Mwaz-2plb2E) / [Video #2](https://youtu.be/XiH9TzHF76Q)
 
 ### Quills Don't Work on Balloons
 
@@ -76,11 +76,11 @@ Understanding of quill mechanics.
 
 * Cooldown Starts on Q Press | Duration Timer Starts after the Animation - [Video](https://youtu.be/bCJ4gfDQwMk) - CC\#5588
 * Energy Consumption is on Q Press - [Video](https://youtu.be/RWH6ajRsDEw) - CC\#5588
-* Initial hit is Dynamic. DoT Snapshots. - [Video 1](https://youtu.be/6RERp-FRavI) / [Video 2](https://tinyurl.com/2-Piece8bcsy3) - CC\#5588
-  * DoT snapshots ATK Buffs and 2-Piece Noblesse but not Shenhe A1
+* Initial hit is Dynamic. DoT Snapshots. - [Video 1](https://youtu.be/6RERp-FRavI) / [Video 2](https://tinyurl.com/2p8bcsy3) - CC\#5588
+  * DoT snapshots ATK Buffs and 2pc Noblesse but not Shenhe A1
   * DoT snapshots somewhere in the middle of Q animation, not on cast
-* Burst does not have enough i-frames for explosive barrel immunity - [Video](https://www.youtube.com/watch?v=6LofNRtI9PA) - Mcpie\#8672
-* Shenhe's Burst shred persists 2 seconds after Burst ends - [Video](https://www.youtube.com/watch?v=bNCskLtK4MQ) - CrazyWeke123\#9720
+* Burst does not have enough iframes for explosive barrel immunity - [Video](https://www.youtube.com/watch?v=6LofNRtI9PA) - Mcpie\#8672
+* Shenhe's Burst shred persists 2 seconds after burst ends - [Video](https://www.youtube.com/watch?v=bNCskLtK4MQ) - CrazyWeke123\#9720
   * Shenhe C2 extends the shred as well. - [Video](https://youtu.be/mOTmD6t9nw0) - TWICE\#9958
 
 ## Ascension Mechanics
@@ -97,13 +97,13 @@ Understanding of quill mechanics.
 
 ### C1: Clarity of Heart
 
-* The charges refreshes Shenhe stacks based on the latest type of Elemental Skill cast (tap/hold). You do not gain more stacks than the latest cast type cap, nor do you gain more damage per quill. Energy generation does not have a cooldown, so you can double cast consecutively to gain Energy faster. - [Video](https://youtu.be/3jfYfedz4IQ) - Sitri\#9504
-* The cooldowns of each Skill stack, and it keeps track of the order used. - [Video](https://youtu.be/yHtqBcHEzlw) / [Video 2](https://youtu.be/yHtqBcHEzlw) - TWICE\#9958
-  * In the first video we have hold E > hold E. There is a 15s CD that starts with the first hE, then a full 15s after that for the next Skill use. In the second video we have hE > press, which shows the 15s CD > 10s CD.
+* The charges refreshes Shenhe stacks based on the latest type of Elemental Skill cast (tap/hold). You do not gain more stacks than the latest cast type cap, nor do you gain more damage per quill. Energy generation does not have a cooldown, so you can double cast consecutively to gain energy faster. - [Video](https://youtu.be/3jfYfedz4IQ) - Sitri\#9504
+* The cooldowns of each skill stack, and it keeps track of the order used. - [Video](https://youtu.be/yHtqBcHEzlw) / [Video 2](https://youtu.be/yHtqBcHEzlw) - TWICE\#9958
+  * In the first video we have hold E > hold E. There is a 15s CD that starts with the first hE, then a full 15s after that for the next skill use. In the second video we have hE > press, which shows the 15s CD > 10s CD.
 
 ### C2: Centered Spirit
 
-* The Cryo damage bonus from Shenhe's A1 and CRIT DMG buff from her C2 linger a bit after her Burst animation ends. - [Video](https://youtu.be/voXD6qaoEtA) - TWICE\#9958
+* The Cryo damage bonus from Shenhe's A1 and crit damage buff from her C2 linger a bit after her burst animation ends. - [Video](https://youtu.be/voXD6qaoEtA) - TWICE\#9958
 
 ### C4: Insight
 

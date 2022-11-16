@@ -14,7 +14,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917961567235080222_920914525635637298_transcript-splendiferous-moon-abyss-blessing-mechanics.html)
 
 **Finding:**  
-The Abyss Blessing from Nov 16 2021 to Nov 30 2021, Splendiferous Blessing, is an attack from your character that deals true damage based on enemy level and unaffected by ATK, DMG%, CRIT, char LVL, and resistance. This damage does not deal poise damage.
+The Abyss Blessing from Nov 16 2021 to Nov 30 2021, Splendiferous Blessing, is an attack from your character that deals true damage based on enemy level and unaffected by ATK, DMG%, crit, char LVL, and resistance. This damage does not deal poise damage.
 
 **Evidence:**
 

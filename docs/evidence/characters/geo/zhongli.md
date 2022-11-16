@@ -29,17 +29,17 @@ search: false
 Construct resonance hits as many times as there are constructs
 
 **Evidence:**  
-[Video:](https://youtu.be/6mUqRTjVgBE) With 1 Stele and 2 Geo constructs, there are 3 instances of Geo damage on the Ruin Guard per pulse
+[Video:](https://youtu.be/6mUqRTjVgBE) With 1 Stele and 2 geo constructs, there are 3 instances of geo damage on the ruin guard per pulse
 
 **Significance:**  
-The greater the number of Geo constructs on the field the more damage resonance will deal (of course counting on the fact that each resonance hits the target)
+The greater the number of geo constructs on the field the more damage resonance will deal (of course counting on the fact that each resonance hits the target)
 
 **Finding 2:**  
 The resonance produced by each Stele is independant of each other
 
 **Evidence**  
-This was tested using two steles and one Geo construct. As can be seen clearly from the [targetless example](https://youtu.be/5tU76Qn7V_U), the Geo construct pulses twice in 2s - once for each steele.
-This is further shown in the [example with a target](https://youtu.be/naC-dy0jECw). There are two Steles present, A and B as well as one Geo construct C. As shown, the pulses AC and BC hit separately in a 2s window, each doing two instances of damage for a total of 4 instances of damage in 2s.
+This was tested using two steles and one geo construct. As can be seen clearly from the [targetless example](https://youtu.be/5tU76Qn7V_U), the geo construct pulses twice in 2s - once for each steele.
+This is further shown in the [example with a target](https://youtu.be/naC-dy0jECw). There are two Steles present, A and B as well as one geo construct C. As shown, the pulses AC and BC hit separately in a 2s window, each doing two instances of damage for a total of 4 instances of damage in 2s.
 
 **Significance:**  
 This shows that with c1 Zhongli or during co-op, the presence of more than one Zhongli pillar allows more resonance damage within a given window. With b being the resonance damage with one seele in one 2s window and n being the number of steeles, the total resonance damage would be nb.
@@ -53,13 +53,13 @@ In other words having two pillars from c1 will double the damage from resonance.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928609238002053131_931322938953728050_transcript-zhongli-shred-linger.html)
 
 **Finding:**  
-Zhongli's shield RES Shred lingers for a bit after it breaks/ends.
+Zhongli's shield RES shred lingers for a bit after it breaks/ends.
 
 **Evidence:**  
 [Youtube](https://www.youtube.com/watch?v=FwohwAKylSo) (credits: Kolibri\#7675)
 
 **Significance:**  
-Zhongli's shred can last for more hits of Xingqiu's Rain Swords/Beidou procs/Fischl, etc. if it breaks/ends early
+Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fischl, etc. if it breaks/ends early
 
 ### Zhongli RES Shred Range
 
@@ -122,7 +122,7 @@ Zhongli Stats \(without 4TotM\):
   * Hold E damage: \(431\*136%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 719.7
   * Tap E damage: \(431\*27.20%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 451.6
   * Resonance damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 518.6
-  * Resonance w/RES Shred damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*1.05\*0.49 = 605.0
+  * Resonance w/RES shred damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*1.05\*0.49 = 605.0
 
 4TotM didn't apply to either of these:
 
@@ -227,10 +227,10 @@ This allows for more accurate Zhongli shield calculations, as well as any future
 **Last tested:** <VersionHl date="2021-04-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836279063760732201_836642776217026620_transcript-zhongli-a1-no-icd.html)
 
-**Finding:** Zhongli's A1 Passive has either no ICD or an extremely negligible one
+**Finding:** Zhongli's A1 passive has either no ICD or an extremely negligible one
 
 **Evidence:**  
-[Video:](https://youtu.be/nrML_xrMJPc) Walked into Dendro samachurl burn and immediately checked character window to see shield strength maxed
+[Video:](https://youtu.be/nrML_xrMJPc) Walked into dendro samachurl burn and immediately checked character window to see shield strength maxed
 
 **Significance:**  
 Zhongli's shield is ridiculously effective against DoT as it stacks immediately to maximum.
@@ -271,17 +271,17 @@ Shield management.
 **Last tested:** <VersionHl date="2021-04-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834400006948782090_834658055391150150_transcript-zhongli-c2-mechanics.html)
 
-**Finding:** Zhongli c2 affects his own Burst when casting as do the 15% DMG bonus from Geo resonance but not the Geo resistance down unless it is applied first.
+**Finding:** Zhongli c2 affects his own burst when casting as do the 15% DMG bonus from Geo resonance but not the Geo resistance down unless it is applied first.
 
 **Evidence:**  
-[This video shows the damage of his Burst in specific circumstances](https://www.youtube.com/watch?v=Uv9ZNUz5vHE)
+[This video shows the damage of his burst in specific circumstances](https://www.youtube.com/watch?v=Uv9ZNUz5vHE)
 
 * Burst with shield already applied: 48k
 * Burst with no shield: 48k
 * Burst with Geo resonance and no shield: 52k
 * Burst with Geo resonance and shield: 52k
 * Burst with Geo resonance shield and res down: 57k
-* The shield is formed at the end of the Burst animation.
+* The shield is formed at the end of the burst animation.
 
 **Significance:**  
 For the highest damage apply the Geo res down before pressing Burst.
@@ -310,10 +310,10 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 **By:** Lowy\#7647  
 **Added:** <Version date="2021-05-06" />  
 **Last tested:** <VersionHl date="2021-05-06" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839089619743539230_840068304864280586_transcript-4-Piece-tom-zhongli-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839089619743539230_840068304864280586_transcript-4pc-tom-zhongli-interaction.html)
 
 **Finding:**  
-4-Piece TotM passive can be triggered by other Geo constructs when it is in range of zhongli's pillar
+4pc ToM passive can be triggered by other geo constructs when it is in range of zhongli's pillar
 
 **Evidence:**
 
@@ -322,4 +322,4 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 * [Test with Ningguang](https://www.youtube.com/watch?v=J7fJY0Q3Iqs)
 
 **Significance:**  
-This make triggering the 4-Piece TotM passive easier with Zhongli when playing with other Geo characters
+This make triggering the 4pc ToM passive easier with Zhongli when playing with other geo characters

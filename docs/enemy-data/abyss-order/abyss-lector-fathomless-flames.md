@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 Orb      | Pyro    |
-| 33% HP       | 1 Orb      | Pyro    |
-| Death        | 1 Particle | Pyro    |
+| 66% HP       | 1 orb      | Pyro    |
+| 33% HP       | 1 orb      | Pyro    |
+| Death        | 1 particle | Pyro    |
 
 ## Shield
 

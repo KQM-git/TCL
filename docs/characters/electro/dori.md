@@ -109,7 +109,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-- Dori's Burst tether connects to and applies to all nearby players in multiplayer
+- Dori's burst tether connects to and applies to all nearby players in multiplayer
 
 </TabItem>
 </Tabs>
@@ -139,7 +139,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-- Dori's A4 directly scales with Energy Recharge, and does not require increments of 100% to increase the amount of Energy restored.
+- Dori's A4 directly scales with Energy Recharge, and does not require increments of 100% to increase the amount of energy restored.
 
 </TabItem>
 </Tabs>
@@ -158,8 +158,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-- C2 and Burst ICD are separate
-- C2 is not Burst damage
+- C2 and burst ICD are separate
+- C2 is not burst damage
 
 </TabItem>
 

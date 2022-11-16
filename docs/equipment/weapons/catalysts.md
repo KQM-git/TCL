@@ -48,7 +48,7 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Skyward Atlas" weapons={catalysts}>
 
-* Skyward Atlas's passive can CRIT.
+* Skyward Atlas's passive can crit.
 
 </Weapon>
 

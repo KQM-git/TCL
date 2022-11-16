@@ -15,7 +15,7 @@ Unknown.
 ## Resistance Table
 
 Starts the battle with +200% Resistances for a few seconds.  
-Gains +30% Resistance to the infused Element.  
+Gains +30% Resistance to the infused element.  
 Loses -50% Resistance to all after its' attack is reflected.
 
 | Damage Type | Resistance |
@@ -45,10 +45,10 @@ Loses -50% Resistance to all after its' attack is reflected.
 
 ## Attacks
 
-* The Primo Geovishap is always encountered in an idle state in one of the four elements; Pyro, Hydro, Cryo or Electro. This additional Element is indicated by the color of the scales on it.
-* Certain attacks will produce stones that detonate after a few seconds delay, dealing elemental damage of the currently infused Element.
+* The Primo Geovishap is always encountered in an idle state in one of the four elements; Pyro, Hydro, Cryo or Electro. This additional element is indicated by the color of the scales on it.
+* Certain attacks will produce stones that detonate after a few seconds delay, dealing elemental damage of the currently infused element.
   * Although the stones themselves, when created, deal no damage, the explosion(s) that occur do deal damage.
-  * Each Element has different effects on the stones:
+  * Each element has different effects on the stones:
     Pyro-Infused Stones: Leaves a large pool of lava in its wake for a while, dealing continuous Pyro damage to characters in the affected area.
     Hydro-Infused Stones: Cause seven small eruptions that deal Hydro damage. Each eruption occurs close to the stone's original position.
     Cryo-Infused Stones: Generates a ring of ice spikes that start from the center of the stone and propagate (up to 3 times) outward, dealing Cryo damage within a moderate area.
@@ -60,9 +60,9 @@ Loses -50% Resistance to all after its' attack is reflected.
 * Targets outside Primo Geovishap's melee reach will cause it to submerge underground and dig towards the enemy, creating Elemental-Infused Stones as it travels. It will also damage characters on contact as it bores through the ground. Upon reaching its destination, it resurfaces and performs a slam.
 * Raises up its tail and scatter a number of rune-covered rocks around the arena that will explode after a short while, dealing the current type of infused elemental.
   * The attack itself does no damage.
-* Unleash a breath of pure elemental power, whilst arcing the attack in a cone-like area in front of itself, dealing heavy elemental damage of the currently infused Element.
+* Unleash a breath of pure elemental power, whilst arcing the attack in a cone-like area in front of itself, dealing heavy elemental damage of the currently infused element.
 * Spawns a barrage of Elemental-Infused stones around itself.
-  * The attack itself deals no damage and can only be used once Primo Geovishap reaches CRITical health (Approximately less than 10% Max HP).
-* Unleashes a blast of pure elemental power in a huge AoE around it, dealing immense elemental damage of the currently infused Element.
-* Will not be performed once Primo Geovishap reaches CRITical health (Approximately less than 10% Max HP) and will instead perform the attack above.
+  * The attack itself deals no damage and can only be used once Primo Geovishap reaches critical health (Approximately less than 10% Max HP).
+* Unleashes a blast of pure elemental power in a huge AoE around it, dealing immense elemental damage of the currently infused element.
+* Will not be performed once Primo Geovishap reaches critical health (Approximately less than 10% Max HP) and will instead perform the attack above.
 * If the player is protected by a shield, no damage will be taken and isntead the Primo Geovishap will loss a large amount of health, be knocked back and temporarily lose a large amount of resistances.

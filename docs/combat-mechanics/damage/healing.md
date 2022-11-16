@@ -42,10 +42,10 @@ $$
 | --------------------- | --------------------------------------------------------------------------------------- |
 | **Talent %**          | The percentage-based part of the Talent.                                                |
 | **FlatTalent**        | The non-percentage-based part of the Talent.                                            |
-| **AttackCharacter**   | Character's Base ATK.                                                                |
-| **AttackWeapon**      | Weapon's Base ATK.                                                                   |
-| **AttackBonus**       | Sum of all percentage-based ATK Bonuses from weapons, artifacts, and other sources.  |
-| **FlatAttack**        | Sum of all non-percentage-based ATK Bonuses from artifacts and other sources.        |
+| **AttackCharacter**   | Character's base attack.                                                                |
+| **AttackWeapon**      | Weapon's base attack.                                                                   |
+| **AttackBonus**       | Sum of all percentage-based attack bonuses from weapons, artifacts, and other sources.  |
+| **FlatAttack**        | Sum of all non-percentage-based attack bonuses from artifacts and other sources.        |
 | **DefenseCharacter**  | Character's base defense.                                                               |
 | **DefenseBonus**      | Sum of all percentage-based defense bonuses from weapons, artifacts, and other sources. |
 | **FlatDefense**       | Sum of all non-percentage-based defense bonuses from artifacts and other sources.       |

@@ -101,7 +101,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * The DMG Reduction does not take the Hydro DMG% bonus gained from Kazuha's A4 into account.
 * Increased resistance to interruption stacks with other skills of similar effects.
-* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply Hydro to enemies, even if the rain swords aren't visible
+* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
   * This occurs with the orbitals created by both Xingqiu's Skill and Burst
 * Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s.
 * Using **Guhua Sword: Fatal Rainscreen** applies a very brief 1U Hydro aura onto the character.
@@ -144,7 +144,7 @@ import Skill from '@site/src/components/char/Skill'
   * Some normal attack animations, which persist longer than 1 second, can trigger multiple **Sword Rain** waves.
 * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
 * **Guhua Sword: Raincutter** does not snapshot buffs on cast. However, each wave of sword rain attacks from **Guhua Sword: Raincutter** will snapshots buffs when they are summoned.
-* Xingqiu's Burst has 106 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-i-frames) \(1.8s\).
+* Xingqiu's Burst has 106 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(1.8s\).
 * Burst Cancelling by using a special interaction on Xingqiu causes his Burst Sword Rain to not proc and his Skill to not create Rain Sword Orbitals.
 
 </TabItem>

@@ -21,7 +21,7 @@ If you dash into enemy and jump at the same time, you can perform a plunging att
 [Video](https://www.youtube.com/watch?v=jmRe7FS_T0Q)
 
 **Significance:**  
-The only practical significance on this is yet another way to break Fatui Geo Chanter Energy armour without claymore, Geo damage, or overload reactions;
+The only practical significance on this is yet another way to break Fatui Geo Chanter energy armour without claymore, Geo damage, or overload reactions;
 since plunges do damage to it. Hard staggering an Abyss mage might be another use for this. This move also looks really cool to execute.
 
 ## No Dash Dragonstrike
@@ -125,7 +125,7 @@ Various skills:
 [Imgur 4](https://imgur.com/xzRsK8E)
 
 Keqing Switch Plunge:  
-Keqing's hold Skill allows her to teleport above the ground. If cast slightly above the ground, it is possible to switch characters in midair, allowing for the entering character to jump and plunge.  
+Keqing's hold skill allows her to teleport above the ground. If cast slightly above the ground, it is possible to switch characters in midair, allowing for the entering character to jump and plunge.  
 [Imgur](https://imgur.com/fpnIttx)
 
 Evidence of 30ms ping switch plunge, courtesy of deaf#0246:

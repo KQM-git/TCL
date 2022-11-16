@@ -14,9 +14,9 @@ None.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 Particle | geo     |
-| 33% HP       | 1 Particle | geo     |
-| Death        | 1 Orb      | geo     |
+| 66% HP       | 1 particle | geo     |
+| 33% HP       | 1 particle | geo     |
+| Death        | 1 orb      | geo     |
 
 ## Resistance Table
 

@@ -8,14 +8,14 @@ Head. This weakspot is temporarily lost while charging(armored up).
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 75% HP       | 1 Particle | own Element |
-| 50% HP       | 1 Particle | own Element |
-| 25% HP       | 1 Particle | own Element |
-| Death        | 1 Orb      | own Element |
+| 75% HP       | 1 particle | own element |
+| 50% HP       | 1 particle | own element |
+| 25% HP       | 1 particle | own element |
+| Death        | 1 orb      | own element |
 
 ## Resistance Table
 
-All whopperflowers have +40% (75% total) resistance to their own Element.
+All whopperflowers have +40% (75% total) resistance to their own element.
 All resistances lose -25% while stunned.
 
 | Damage Type | Resistance |
@@ -84,7 +84,7 @@ The world of Teyvat plays host to plants infused with the elements. Having gaine
 
 ## Electro whopperflower
 
-When full of Electro Energy, they can unleash a strong electric current from their crowns. As such, some researchers have tried to apply them in other areas...
+When full of Electro energy, they can unleash a strong electric current from their crowns. As such, some researchers have tried to apply them in other areas...
 
 ## Attacks
 
