@@ -24,7 +24,7 @@ search: false
 Just like Mona, Lisa can have two different normal animations depending on the distance from the target.
 
 **Evidence:**  
-[YouTube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the Ruin Guard, second normal string has her teleporting backward.
+[YouTube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the ruin guard, second normal string has her teleporting backward.
 
 **Significance:**  
 Combat positioning for Lisa
@@ -246,7 +246,7 @@ Below are some "airborne" enemies, notice how they only become knocked back when
 **Significance:**  
 Acts as clarification on the Knockback/Stagger Mechanics on Lightning Rose as well as how it can be controlled, avoided, and/or utilized in-game.
 
-### Lightning Rose's initial summon damage does not apply Electro aura
+### Lightning Rose's initial summon damage does not apply Electro Aura
 
 **By:** ArchedNosi\#1484  
 **Added:** <Version date="2021-11-08" />  
@@ -254,19 +254,19 @@ Acts as clarification on the Knockback/Stagger Mechanics on Lightning Rose as we
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906462490110607400_907389926981644348_transcript-lisa-summon-lightning-rose-no-aura.html)
 
 **Finding:**  
-In practice, the initial Summon Damage from Lisa's Lightning Rose does not apply an Electro aura, despite dealing Electro Damage.
+In practice, the initial Summon Damage from Lisa's Lightning Rose does not apply an Electro Aura, despite dealing Electro Damage.
 
 **Evidence:**
 
 * [Casting Lightning Rose](https://youtu.be/ZDknULX1M7o)
-  * At 0:06, the Initial Summon Damage is dealt, yet did not apply any Electro aura, shortly after, Lightning Rose's attack applied an Electro aura. Indicating that the Initial Summon DMG does not apply an Electro aura.
+  * At 0:06, the Initial Summon Damage is dealt, yet did not apply any Electro Aura, shortly after, Lightning Rose's attack applied an Electro Aura. Indicating that the Initial Summon DMG does not apply an Electro Aura.
 * [Freeze-frames of those moments above](https://imgur.com/gallery/xCeLEn2)
   * No Overload proccing
 * [Casting Lightning Rose following into a Tap E to Multi-Stack Conductive Stacks](https://youtu.be/RrZDimfHHT8)
   * Lightning Rose's Initial Summon Damage did not apply Electro, thus not proccing Overloaded allowing Lisa to Tap E in order to Multi-Stack Conductive Stacks.
 
 **Significance:**  
-Demonstrates that the Initial Summon DMG of Lightning Rose does not apply an Electro aura.
+Demonstrates that the Initial Summon DMG of Lightning Rose does not apply an Electro Aura.
 For Lisa specifically, knowing this is more useful than not as she would be able to not proc Overloaded/Superconduct from casting Lightning Rose and be able to quickly cast a Tap E after to proc the reaction instead, causing Multiple Conductive Stacks to occur due to her Multi-Stacking.
 
 ### Lightning Rose Summon DMG Range
@@ -404,7 +404,7 @@ By definition, this discovery technically invalidates/corrects all previous, pre
 The current description for Lisa's first constellation is currently limited, it states that:  
 _"Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time"_
 
-Additionally, other mechanics with regards to the generated Energy from this constellation are as follows:
+Additionally, other mechanics with regards to the generated energy from this constellation are as follows:
 
 * Energy is provided directly to Lisa in a delay after an opponent is hit with Violet Arc
 * If Lisa is not present in the field before Energy is to be provided to Lisa, it will have no effect

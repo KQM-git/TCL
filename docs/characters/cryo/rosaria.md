@@ -85,7 +85,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Will only grant one stack of the Pale Flame artifact 4-Piece bonus per cast.
+* Will only grant one stack of the Pale Flame artifact 4pc bonus per cast.
 
 </TabItem>
 

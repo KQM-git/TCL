@@ -11,10 +11,10 @@ search: false
 ## Basic Mechanics
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1buBVBvlgfNcRA09XA3BLm-oA7hpCVRYkGt_7kPBYJu0/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
-* Rosaria's E is 1A Cryo on both hits and has [no ICD](https://imgur.com/vpy8JVR)
-* Rosaria's Q applies 1A Cryo on every damage tick with [no ICD](https://imgur.com/jwQ4MTn)
-* Rosaria's CRIT bonus from her A1 is included in her [A4 CRIT sharing](https://imgur.com/Gvmc6pN)
-* Rosaria's A1 CRIT bonus doesn't apply if you use her E while already [behind an enemy](https://imgur.com/Ye5ro0C)
+* Rosaria's E is 1A cryo on both hits and has [no ICD](https://imgur.com/vpy8JVR)
+* Rosaria's Q applies 1A cryo on every damage tick with [no ICD](https://imgur.com/jwQ4MTn)
+* Rosaria's crit bonus from her A1 is included in her [A4 crit sharing](https://imgur.com/Gvmc6pN)
+* Rosaria's A1 crit bonus doesn't apply if you use her E while already [behind an enemy](https://imgur.com/Ye5ro0C)
 
 ## Ascension Mechanics
 
@@ -39,7 +39,7 @@ Another evidence that the Serenitea Pot behaves similarly to Domains in game.
 
 ### A1: Regina Probationum
 
-#### Rosaria's A1 Passive vs. Perpetual Mechanical Array & the Hypostases
+#### Rosaria's A1 passive vs. Perpetual Mechanical Array & the Hypostases
 
 **By:** Nass008#8577  
 **Added:** <Version date="2021-08-07" />  
@@ -47,7 +47,7 @@ Another evidence that the Serenitea Pot behaves similarly to Domains in game.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_872888935590797352_873788560237531136_transcript-rosarias-a1-passive-works-against-hypostases-and-perpetual-mechanical-array.html)
 
 **Finding:**  
-Although Hypostases and Perpetual Mechanical Array don’t have obvious distinction between front and back in terms of visual, Rosaria can still activate her A1 Passive (12% CRIT Rate buff) by hitting them from certain angles.
+Although Hypostases and Perpetual Mechanical Array don’t have obvious distinction between front and back in terms of visual, Rosaria can still activate her A1 passive (12% crit rate buff) by hitting them from certain angles.
 
 **Evidence:**
 
@@ -65,7 +65,7 @@ Although Hypostases and Perpetual Mechanical Array don’t have obvious distinct
   Perpetual Mechanical Array - [Video](https://youtu.be/WI1RgjQoGNE)
 
 **Significance:**  
-Rosaria can take advantage of her A1 Passive against the aforementioned bosses by the correct positioning. Which can be useful especially when these enemies appear in harder contents such as Spiral Abyss/Event Domains.
+Rosaria can take advantage of her A1 passive against the aforementioned bosses by the correct positioning. Which can be useful especially when these enemies appear in harder contents such as Spiral Abyss/Event Domains.
 
 ### A4: Shadow Samaritan
 
@@ -75,7 +75,7 @@ Rosaria can take advantage of her A1 Passive against the aforementioned bosses b
 **Added:** <Version date="2021-04-09" />  
 **Last tested:** <VersionHl date="2021-04-09" />
 
-**Finding:** Rosaria's CRIT Rate Sharing is influenced by other direct CRIT boosters.
+**Finding:** Rosaria's Crit Rate Sharing is influenced by other direct Crit boosters.
 
 This has been tested to work with Hu Tao's A1 and Geo MC's C1.
 
@@ -92,9 +92,9 @@ Diona w/ Hu Tao A1 : 41.9%
 </TabItem>
 </Tabs>
 
-While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **52.5%** meaning that Rosaria's A4 is giving Diona **10.6%** CR. This is an **additional 1.8% CR** when compared to the CRIT sharing uninfluenced by Hu Tao.
+While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **52.5%** meaning that Rosaria's A4 is giving Diona **10.6%** CR. This is an **additional 1.8% CR** when compared to the crit sharing uninfluenced by Hu Tao.
 
-**Significance:** This confirms that anything which influences a characters CRIT stats found in the details tab will influence the CRIT Sharing which Rosaria offers
+**Significance:** This confirms that anything which influences a characters crit stats found in the details tab will influence the Crit Sharing which Rosaria offers
 
 ## Constellation Mechanics
 
@@ -106,11 +106,11 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 **Added:** <Version date="2021-04-15" />  
 **Last tested:** <VersionHl date="2021-04-15" />
 
-**Finding:** Rosaria's C6 debuff is also triggered by the DoT on her Burst.
+**Finding:** Rosaria's C6 debuff is also triggered by the DoT on her burst.
 
 **Evidence:** [Video](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/rosaria.md/discord/attachments_831212714416144434_831214571913347112_Genshin_Impact_2021-04-12_11-51-59_Trim.mp4)
 
-**Significance:** The description is misleading, and you can actually maintain 100% uptime on this Physical resistance shred.
+**Significance:** The description is misleading, and you can actually maintain 100% uptime on this physical resistance shred.
 
 ## Interactions/Synergies
 

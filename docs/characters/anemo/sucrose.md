@@ -148,9 +148,9 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * This effect can be triggered even when Sucrose is not on the field.
-* This effect cannot be triggered by Swirling off Guoba or environmental objects such as cooking pots.
+* This effect cannot be triggered by swirling off Guoba or environmental objects such as cooking pots.
 * This effect can be triggered by chain reaction Swirls.
-* Swirls caused by the absorbed Element in **Forbidden Creation-Isomer 75/Type II** can trigger this effect.
+* Swirls caused by the absorbed element in **Forbidden Creation-Isomer 75/Type II** can trigger this effect.
 
 </TabItem>
 
@@ -160,7 +160,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * A4 snapshots Sucrose's **Elemental Mastery**.
-* A4 also always activates _after_ **Instructor** 4-Piece set bonus within the same proc.
+* A4 also always activates _after_ **Instructor** 4pc set bonus within the same proc.
 * A4 effect can be triggered even when Sucrose is not on the field.
 * A4 effect is dynamic in multiswirl situations.
 * A4 shares 20% of Kazuha's C2 EM.

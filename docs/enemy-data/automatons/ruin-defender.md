@@ -10,9 +10,9 @@ None.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 Particle | Common  |
-| 33% HP       | 1 Particle | Common  |
-| Death        | 1 Particle | Common  |
+| 66% HP       | 1 particle | Common  |
+| 33% HP       | 1 particle | Common  |
+| Death        | 1 particle | Common  |
 
 ## Resistance Table
 
@@ -51,6 +51,6 @@ None.
 
 * Leaps high in the air, then lands on its target, dealing Damage in an AoE around its' landing zone. The core is protected during this attack
 
-* The Defender charges up Energy at its' core before firing it. Its' core is exposed during this attack.
+* The Defender charges up energy at its' core before firing it. Its' core is exposed during this attack.
 
 * After hitting its' exposed core twice the Defender slumps down and becomes deactivated for a short time. During this time it will not attack.

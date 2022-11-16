@@ -30,7 +30,7 @@ Gains +200% RES towards all types of damage in the armored state and loses -60% 
 
 ## Attacks
 
-* **Musou no Hitotachi** - pushes nearby players away from her, while Electro seeds descend around the arena dealing AoE Electro damage over time. Then a large AoE will Freezee players and deal large Electro damage inside the ring of Electro seeds.
+* **Musou no Hitotachi** - pushes nearby players away from her, while electro seeds descend around the arena dealing AoE Electro damage over time. Then a large AoE will freeze players and deal large Electro damage inside the ring of electro seeds.
   * Characters with vertical movement can be pushed upward, which can allow gliding high enough to safely escape the attack.
 * **The Final Calamity** - drains all party members' Energy and leaves a **Flowers of Remembrance** requiring elemental attacks to charge a special shield. Outside this shield, one player will be marked with the **Eye of Stormy Judgement** and their active character will die, with any other active characters taking heavy Electro damage.
   * The damage can be prevented through some unconventional means. [See the evidence page for details](../../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#raiden-boss-oneshot-mechanics).

@@ -14,8 +14,8 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 60% HP       | 1 Particle | common  |
-| Death        | 1 Particle | common  |
+| 60% HP       | 1 particle | common  |
+| Death        | 1 particle | common  |
 
 ## Resistance Table
 
@@ -49,4 +49,4 @@ Head.
 * Slowly closes in on the player, once in range, it will take a jab with its' club.
 * Jumps up, then plunges with its' club at the player.
 * Enrages, charging towards the player with successive swings of the club.
-  * If coming into contact with Pyro, the club may ignite, becoming infused with Pyro.
+  * If coming into contact with pyro, the club may ignite, becoming infused with pyro.

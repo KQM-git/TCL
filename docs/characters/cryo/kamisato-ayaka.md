@@ -117,7 +117,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * 1A Cryo is applied when Ayaka exits from her sprint.
 * This infusion causes Ayaka's attacks to apply 1A Cryo
-* Her Alternate Sprint has the same i-frames as other characters' normal sprint.
+* Her Alternate Sprint has the same iframes as other characters' normal sprint.
 
 </TabItem>
 
@@ -147,7 +147,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* The whirl generated will stay in place for large enemies and Frozen enemies
+* The whirl generated will stay in place for large enemies and frozen enemies
 * **Frostflake Seki no To** pushes away all nearby enemies. The extent to which enemies are pushed away depends on their weights & size.
 * **Kamisato Art: Soumetsu** deals 20 ticks of damage
   * 19 ticks of **Cutting DMG** and 1 final tick of **Bloom DMG**
@@ -187,7 +187,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* All three **Frostflake Seki no To** (one from Burst and the two from C2) can hit the same target.
+* All three **Frostflake Seki no To** (one from burst and the two from C2) can hit the same target.
 * The additional **Frostflake Seki no To** share ICD with the main storm.
 
 </TabItem>

@@ -253,7 +253,7 @@ fp = { x: 2413.02001953125, y: 226.0989227294922, z: 47.11567687988281 };
 // anemo + rosaria + c2 jean + c6 amber - ~1s downtime due to c6 amber
 gp = { x: 2407.254638671875, y: 226.0986328125, z: 45.02743911743164 };
 // anemo + rosaria
-HP = { x: 2427.69140625, y: 226.08416748046875, z: 52.35829162597656 };
+hp = { x: 2427.69140625, y: 226.08416748046875, z: 52.35829162597656 };
 
 qd = f(sp, ap);
 wd = f(sp, bp);
@@ -262,7 +262,7 @@ rd = f(sp, dp);
 td = f(sp, ep);
 yd = f(sp, fp);
 ud = f(sp, gp);
-id = f(sp, HP);
+id = f(sp, hp);
 
 console.log(
   wd / qd,
@@ -384,7 +384,7 @@ The first 5 are mainly visuals with numbers made through previous attempts to ma
 [Spreadsheet](https://docs.google.com/spreadsheets/d/12B-EM7xgonfF5xRLMpZCMW1s6jI3rPJXhd1hOjZGeZ8/edit?usp=sharing) - Sheets with contradictions for any specific formula for movement speed decrease on mobs and slightly conflicting information for certain movement speed decrease towers. Also contains graphs of best fit.
 
 **Significance:**  
-If there were ever characters that were able to decrease mob speed (and almost likewise, character speed from mobs) then without a bind, a Freezee status, or similar, mobs will only be slowed and never not be able to ‘stay put’ or be unable to physically move.
+If there were ever characters that were able to decrease mob speed (and almost likewise, character speed from mobs) then without a bind, a freeze status, or similar, mobs will only be slowed and never not be able to ‘stay put’ or be unable to physically move.
 
 ### Speed Comparsion Between Walk Jump And Continuous Walk
 
@@ -514,7 +514,7 @@ There are different \(at least 4\) ways the game keeps track of time.
 2. Cursed time:  
     * Almost follows real time \(disregarding max time per frame cap\), but does pause while game is paused/in menu and can run while you are logging in into the game.  
     * Example: healing food, food cooldowns.  
-    * Food cooldown timers start ticking around when you have a connection with the server, this is around when the UID shows up in UI \(if you just logged in; or updates if you changed server; generally slightly after clicking on the door\) and between the 7 Elements start showing up; so the time reduction depends on your system. These times would be classified as "cursed time" since it doesn't care about FPS, which can be seen in the second vid where game Freezees and still having 87s being passed \(not taking max time per frame into account\). 
+    * Food cooldown timers start ticking around when you have a connection with the server, this is around when the UID shows up in UI \(if you just logged in; or updates if you changed server; generally slightly after clicking on the door\) and between the 7 Elements start showing up; so the time reduction depends on your system. These times would be classified as "cursed time" since it doesn't care about FPS, which can be seen in the second vid where game freezes and still having 87s being passed \(not taking max time per frame into account\). 
 3. Game time:  
     * The time that passes in-universe, does get paused by menus when not in Co-Op, does have a max time that can get processed per frame. But it also does not get affected by hitlag. This can alternatively be explained as *Entity Time* on an entity that doesn't get hitlagged.  
     * Example: Skill cooldowns 
@@ -540,7 +540,7 @@ There are different \(at least 4\) ways the game keeps track of time.
     * Does not follow hitlag: [YouTube](https://youtu.be/apChAKi-mvA) \(CD number is visible from 5.967s and goes invisible at 15.95s \(9.983s\)\)  
     * Hitlag extension caveats: [TCL page](../combat-mechanics/frames.md#hitlag-extension-caveats)  
 4. Entity time:
-    * Normal Attack hitlag can extend Skill/Burst duration: [TCL page](/docs/evidence/combat-mechanics/frames.md#normal-attack-hitlag-can-extend-skillBurst-duration)  
+    * Normal Attack hitlag can extend Skill/Burst duration: [TCL page](/docs/evidence/combat-mechanics/frames.md#normal-attack-hitlag-can-extend-skillburst-duration)  
     * Hitlag is per entity: [YouTube](https://youtu.be/3E3R_VEL2UA)  
 
 **Significance 3:**  
@@ -614,13 +614,13 @@ Push/pull effects are dynamic across team members
 
 Across these 3 videos, there is a consistent interaction of a push effect being generated on Venti, which is then completely nullified when Venti is switched off-field. The timing of the character switch is varied between the clips, but the result is the same.
 
-Practicality of this? Ehhhhhh, there are only two enemies I can think of that generate a force while not knocking the player to the floor- which are the Anemo samachurls and Boreas during his 2nd phase cutscene.
+Practicality of this? Ehhhhhh, there are only two enemies I can think of that generate a force while not knocking the player to the floor- which are the anemo samachurls and Boreas during his 2nd phase cutscene.
 
 In this [clip](https://imgur.com/a/1q4unpo), character swap ended up making the pull effect reapply for each character swapped in rather then nullifying it. Character swapping inside the little whirlwind made the pull stronger rather than weaker lmao.
 
 We can also see here that the boreas wolf push also applies multiple instances of pushes rather than a single big push, making the character swap ineffective here too. At this point, I realized that the devs probably knew players would probably find a method to negate push effects, so push effects were coded in a way to prevent negating them.
 
-**Significance:** Maybe when miHoYo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an Anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
+**Significance:** Maybe when miHoYo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
 
 ### Waypoint Teleport Variance
 

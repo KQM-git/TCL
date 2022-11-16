@@ -9,11 +9,11 @@ search: false
 **By:** randomspades \#0956  
 **Added:** <Version date="2021-04-18" />  
 **Last tested:** <VersionHl date="2021-04-18" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_815411615322341406_833576716701138984_transcript-elemental-Burst-zoom-cancel.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_815411615322341406_833576716701138984_transcript-elemental-burst-zoom-cancel.html)
 
-**Theory/Finding:** Zoom in for a 5-Star elemental Burst and similar elemental Bursts will not occur when there is potential clipping due to interference with another object.
+**Theory/Finding:** Zoom in for a 5 star elemental burst and similar elemental bursts will not occur when there is potential clipping due to interference with another object.
 
-Many characters have a primary camera that normally tracks them and a secondary camera that manages the zoom in phase of the elemental Burst. In order to detect collisions, the secondary camera casts a short ray in the direction of the character. If that ray collides with an object besides the character, it will switch to the primary camera in order to prevent clipping. Programmers can use layers to select what objects to ignore. If the secondary camera is within another object, such as behind a wall, raycasting won't register any collision and will return a null value. In which case, a ray in the opposite direction is cast in order to detect collisions and the camera will switch to the primary camera if collisions are detected.
+Many characters have a primary camera that normally tracks them and a secondary camera that manages the zoom in phase of the elemental burst. In order to detect collisions, the secondary camera casts a short ray in the direction of the character. If that ray collides with an object besides the character, it will switch to the primary camera in order to prevent clipping. Programmers can use layers to select what objects to ignore. If the secondary camera is within another object, such as behind a wall, raycasting won't register any collision and will return a null value. In which case, a ray in the opposite direction is cast in order to detect collisions and the camera will switch to the primary camera if collisions are detected.
 
 **Evidence:**
 
@@ -67,7 +67,7 @@ Many characters have a primary camera that normally tracks them and a secondary 
 * Albedo
 * Mona
 
-**Significance:** A reliable way to cancel certain 5-Star and 4-Star zoom ins. Looks very stylish. This allows mobile users to continuously input a dash during the active frames of an ultimate, allowing them to more easily dash cancel. This also disproves the myth that cancelling the zoom in of the elemental Burst decreases the duration of the elemental Burst, and explains why zoom in cancel happens.
+**Significance:** A reliable way to cancel certain 5 star and 4 star zoom ins. Looks very stylish. This allows mobile users to continuously input a dash during the active frames of an ultimate, allowing them to more easily dash cancel. This also disproves the myth that cancelling the zoom in of the elemental burst decreases the duration of the elemental burst, and explains why zoom in cancel happens.
 
 **Additional Notes:**
 
@@ -77,6 +77,6 @@ Clipping can still happen with this process of raycasting because the ray castin
 
 The other more likely explanation of why mobs don't proc zoom cancels is that most active mobs are ignored in the raycasting process, through a filter but that the developers forgot to include stuff like elements of the mobs that are children such as the dead mobs and missiles like that or don't include it in the filter by design.
 
-Zoom cancel in water can't be completely explained by raycasting, but it makes sense to detect if a character is standing in water while doing their elemental Burst in order to prevent clipping. Most raycasting programs ignore water because water usually doesn't have a defined hitbox. Detecting if a character is standing in water is much easier than raycasting as well. Standing in water in order to cancel the zoom seems to be a recent development. There seems to be an exception with Mona's ability to zoom cancel in water, because her elemental Burst includes water.
+Zoom cancel in water can't be completely explained by raycasting, but it makes sense to detect if a character is standing in water while doing their elemental burst in order to prevent clipping. Most raycasting programs ignore water because water usually doesn't have a defined hitbox. Detecting if a character is standing in water is much easier than raycasting as well. Standing in water in order to cancel the zoom seems to be a recent development. There seems to be an exception with Mona's ability to zoom cancel in water, because her elemental burst includes water.
 
 **Does it increase DPS?** The answer is that hitlag adjusted frame counts are the same with or without zoom cancel. Mobile players can still use touch controls if they zoom cancel. There is no difference for PC or controller players.

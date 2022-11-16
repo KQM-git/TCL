@@ -8,7 +8,7 @@ This page is for bugs, meaning they could get fixed by miHoYo at any time. If yo
 
 You can use your overworld team in the second half of abyss even if the same members are in the first half of the chamber by [selecting retry at the same time as you kill the last enemy.](../evidence/general-mechanics/bugs.md#using-the-same-team-for-both-abyss-halves)
 
-When using the retry button in abyss your [elemental skill and Burst will not reset its cooldown](../evidence/general-mechanics/bugs.md#elemental-skills-and-Bursts-dont-reset-when-using-retry-in-abyss) so if you are too fast at starting the new encounter you will not be able to execute your opening moves properly.
+When using the retry button in abyss your [elemental skill and burst will not reset its cooldown](../evidence/general-mechanics/bugs.md#elemental-skills-and-bursts-dont-reset-when-using-retry-in-abyss) so if you are too fast at starting the new encounter you will not be able to execute your opening moves properly.
 
 Opening the exit menu in the Abyss does not pause the timer. This results in a bug wherein if you use the retry button in abyss as the last enemy in a chamber dies [you will encounter an error message and recieve 0 stars.](../evidence/general-mechanics/bugs.md#retry-and-exit-menu-issues)
 
@@ -24,9 +24,9 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 ## Overworld
 
-* [Bushes respawn infinitely](../evidence/general-mechanics/bugs.md#infinite-bushes) when Hu Tao infused with Pyro sets them on fire.
+* [Bushes respawn infinitely](../evidence/general-mechanics/bugs.md#infinite-bushes) when Hu Tao infused with pyro sets them on fire.
 * [Throwing a Harpastum while entering aim mode](../evidence/general-mechanics/bugs.md#aiming-harpastum) can force a third-person perspective while still aiming your bow.
-* [4TF and 4CW set bonuses do not apply to reactions on environmental objects](../evidence/general-mechanics/overworld.md#4-Piece-set-bonuses-on-environment-reactions).
+* [4TF and 4CW set bonuses do not apply to reactions on environmental objects](../evidence/general-mechanics/overworld.md#4-piece-set-bonuses-on-environment-reactions).
 * [You can jump higher than normal and travel long distances](../evidence/general-mechanics/bugs.md#cooking-pot-super-jump) by repeatedly entering and exiting the cooking menu during an action that moves the character upwards, such as jump, Kazuha E, and Bennett Hold E.
 * You take damage when you [plunge on a spot at Dainichi island bridge](../evidence/general-mechanics/bugs.md#leg-break-bridge), this happens with any weapon type.
   * The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected.
@@ -37,7 +37,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 * [Fishing spot prompt can stay with the character](../evidence/general-mechanics/bugs.md#fishing-spot-prompt-bug) under specific circumstances, and it be extended beyond its normal area by repeatedly entering and exiting the menu.
 * By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a [horizontal position](../evidence/general-mechanics/bugs.md#horizon-tech-sequel) (as long as they are in an animation or partially clipped into a surface).
 * Going into the Time option in the Paimon Menu will pause the dying animation. However, gravity still continues working if your character is collapsed on a slope. This can result in some... _interesting_ [scenarios](../evidence/general-mechanics/bugs.md#dying-animation-pause).
-* If you swap quick enough, the character you swap to can ["steal" the other character's Elemental Burst animation](../evidence/general-mechanics/bugs.md#characters-steal-Burst-from-each-others).
+* If you swap quick enough, the character you swap to can ["steal" the other character's Elemental Burst animation](../evidence/general-mechanics/bugs.md#characters-steal-burst-from-each-others).
 * You can attack with a Fishing Rod if you exit Fishing while the ping is fluctuating. This is just a [visual bug](../evidence/general-mechanics/bugs.md#fishing-is-kinda-boring).
 
 ## Weapons
@@ -56,13 +56,13 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 * [Energy Particles don't stop moving even when you open a pause menu](../evidence/general-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
 
-* [Xiangling's Burst can stack](../evidence/general-mechanics/bugs.md#xianglings-Burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital Bursts.
+* [Xiangling's Burst can stack](../evidence/general-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
 
-* Venti's Burst will deal its full elemental absorption damage [even if it is infused later in the Burst](../evidence/general-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
+* Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../evidence/general-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
 
 * Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../evidence/general-mechanics/bugs.md#venti-e-hold-visual-error).
 
-* [There is a small chance](../evidence/general-mechanics/bugs.md#mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and Particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
+* [There is a small chance](../evidence/general-mechanics/bugs.md#mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
 
 * If your Artifact Inventory is near full (from 990/1000), you'll get an "No space left in Inventory" when trying to do a Wish X10.
 
@@ -76,7 +76,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 ### Turbo
 
-When Oz triggers Overload or Superconduct with his **Normal Attack**, he generates a Particle for each enemy hit by the reaction. This is called "**turbo**" energy generation. By using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental Bursts. This in turn reduces the Energy recharge investment for units, which allows for more investment into damage.
+When Oz triggers Overload or Superconduct with his **Normal Attack**, he generates a particle for each enemy hit by the reaction. This is called "**turbo**" energy generation. By using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts. This in turn reduces the energy recharge investment for units, which allows for more investment into damage.
 
 | Number of Enemies | C0-C5 Particles | C6 Particles |
 | :---------------- | :-------------- | :----------- |
@@ -88,7 +88,7 @@ When Oz triggers Overload or Superconduct with his **Normal Attack**, he generat
 | 6                 | 100.8           | 125          |
 | 7                 | 112.8           | 140          |
 
-_Assumptions: maximum uptime utilizing Burst, Oz is the trigger for all 10/12 attacks, and the reactions that occur hit all enemies for 12/15 reactions per minute._
+_Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 attacks, and the reactions that occur hit all enemies for 12/15 reactions per minute._
 
 import YouTube from "@site/src/components/common/YouTube"
 
@@ -99,18 +99,18 @@ import YouTube from "@site/src/components/common/YouTube"
 **Units in a Turbo Team**
 
 * Fischl
-* aura Setter
+* Aura Setter
   * Cryo Unit for Superconduct Turbo
   * Pyro Unit for Overload Turbo
 * Last two slots are flexible
-  * Although for Superconduct Turbo, a secondary Cryo unit may be required to maintain Cryo aura
+  * Although for Superconduct Turbo, a secondary cryo unit may be required to maintain cryo aura
 
-**Pyro aura**
+**Pyro Aura**
 
 * Xiangling
 * Klee
 
-**Cryo aura**
+**Cryo Aura**
 
 * Kaeya + Chongyun
 * Kaeya + Diona
@@ -118,13 +118,13 @@ import YouTube from "@site/src/components/common/YouTube"
 
 **Flex Slot**
 
-Any unit fits here, but the units that benefit most from Turbo are Energy-hungry units. Since turbo allows team compositions to capitalize on turbo's obscene Energy generation by running **Beidou**, **Xiangling**, and/or **Xingqiu** on more offense-oriented stats over Energy recharge.
+Any unit fits here, but the units that benefit most from Turbo are energy-hungry units. Since turbo allows team compositions to capitalize on turbo's obscene energy generation by running **Beidou**, **Xiangling**, and/or **Xingqiu** on more offense-oriented stats over energy recharge.
 
-**Important:** Always use the aura Setter's Burst before deploying Oz in your rotations, the opposite may yield Electro aura and not generate turbo Energy.
+**Important:** Always use the Aura Setter's burst before deploying Oz in your rotations, the opposite may yield electro aura and not generate turbo energy.
 
 **Additional Notes:**
 
-* When using a character with the same Element as the current aura you will not be able to utilize Fischl's A4 since the on-field character will not be the trigger.
+* When using a character with the same element as the current aura you will not be able to utilize Fischl's A4 since the on-field character will not be the trigger.
 
 **Hotpot**  
 Hotpot is a team comp revolving around the concept of using 4 different elements \(Pyro/Hydro/Electro/Cryo\) and turboing,

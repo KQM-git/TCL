@@ -15,8 +15,8 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 60% HP       | 1 Particle | common  |
-| Death        | 1 Particle | common  |
+| 60% HP       | 1 particle | common  |
+| Death        | 1 particle | common  |
 
 ## Resistance Table
 
@@ -51,4 +51,4 @@ Head.
 * Lunges towards the player with their sword.
 * The Nobushi will spin their katanas to taunt their opponents.
   * They are left open while doing this.
-* Pulls out a cross bow and shoots an Electro infused arrow at the player location.
+* Pulls out a cross bow and shoots an electro infused arrow at the player location.

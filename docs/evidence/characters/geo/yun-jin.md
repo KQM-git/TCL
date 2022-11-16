@@ -58,10 +58,10 @@ Despite Ei's prominent ability in the use of machines and dolls, her country is 
 **By:** Goden#2155  
 **Added:** <Version date="2022-01-21" />  
 **Last tested:** <VersionHl date="2022-01-21" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933107948715135026_934030368867237958_transcript-yunjin-flags-in-Freezee.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933107948715135026_934030368867237958_transcript-yunjin-flags-in-freeze.html)
 
 **Finding:**  
-Yun Jin's flags from her E persist for however long she's Frozen. Looks kinda cool.
+Yun Jin's flags from her E persist for however long she's frozen. Looks kinda cool.
 
 **Evidence:**  
 [Imgur](https://imgur.com/lWj8EaE)
@@ -100,7 +100,7 @@ Yun Jin's flags look awesome.
 
 ### A1: True to Oneself
 
-* Yun Jin's A1 Passive triggers on burning grass. - [Video](https://www.youtube.com/watch?v=rvROCnrS0QM) - Maes\#6425
+* Yun Jin's A1 passive triggers on burning grass. - [Video](https://www.youtube.com/watch?v=rvROCnrS0QM) - Maes\#6425
 
 ## Constellation Mechanics
 

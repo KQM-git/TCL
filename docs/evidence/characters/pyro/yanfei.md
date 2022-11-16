@@ -12,13 +12,13 @@ search: false
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1NslqbafUoW4rhl1D2oVeSsn0SXfvAwnxAlIlwvKY_5Q/edit?usp=sharing) - Kolibri\#7675
 * Stamina consumption decrease from seals affects all actions - [Aluminum\#5462](https://youtu.be/0EqhvYyKA64)
-* Yanfei's E has 1A Pyro application - [Ayzel\#7399](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836803250611159070_yanfei_E_gauge.mp4)
-* Yanfei's Q has 2B Pyro application - [xf3\#3123](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836865777721933824_2021-04-28_03-24-33_Trim.mp4)
+* Yanfei's E has 1A pyro application - [Ayzel\#7399](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836803250611159070_yanfei_E_gauge.mp4)
+* Yanfei's Q has 2B pyro application - [xf3\#3123](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836865777721933824_2021-04-28_03-24-33_Trim.mp4)
 * Yanfei's [Charged Attack](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836802384726196224_yanfei_shatters_on_charge.mp4) and [Elemental Skill](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836802677403811850_yanfei_shatters_on_E.mp4) shatter - Ayzel\#7399
 * Yanfei's A4 is on a separate ICD from her charged attack. - [Sitri\#9504](https://imgur.com/a/0hlcbRa)
-* Yanfei's A4 applies 1A Pyro and has no noticeable ICD to trigger or apply pryo. - [Aetherpon\#5730](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836814060074172416_YanfeiA4ApplyPyro.mp4)
+* Yanfei's A4 applies 1A pyro and has no noticeable ICD to trigger or apply pryo. - [Aetherpon\#5730](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836814060074172416_YanfeiA4ApplyPyro.mp4)
 * Yanfei's E generates 3 particles - [Steph\#3614 and Neptunya\#8291](https://youtu.be/_-hD5iHi594)
-* Yanfei's A1 applies the Pyro bonus before charged attack damage is calculated. - [Bobrokrot\#0111](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836874610191499264_2021-04-28_10-50-56.mp4)
+* Yanfei's A1 applies the pyro bonus before charged attack damage is calculated. - [Bobrokrot\#0111](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836874610191499264_2021-04-28_10-50-56.mp4)
   * [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836874595118219293_unknown.png)
 
 ## Ascension Mechanics
@@ -59,4 +59,4 @@ Yanfei's Charged Attack Stamina consumption is reduced by 15% per seal. Yanfei's
 **Evidence:** [Video](https://youtu.be/S3SkDNAuwzc)
 
 **Significance:**  
-With a play style heavily centered around Charged Attacks, Yanfei's C6 allowing her to have 0 Stamina cost per Charged Attack makes her C6 very useful.
+With a play style heavily centered around charge attacks, Yanfei's C6 allowing her to have 0 Stamina cost per Charged Attack makes her C6 very useful.

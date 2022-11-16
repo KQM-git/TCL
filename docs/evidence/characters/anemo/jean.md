@@ -78,8 +78,8 @@ In the clip below, the second time Gale Blade is used, the target flew and was t
 
 I believe that the large gap in damage is sufficient evidence to claim that the slam/fall damage is a percentage based on the target's maximum health. Damage isn't boosted by Superconduct.
 
-* [Evidence that its based on max HP](https://youtu.be/B1a3mCpDGkc)
-  * Damage of 57k in the beginning when target had full HP
+* [Evidence that its based on max hp](https://youtu.be/B1a3mCpDGkc)
+  * Damage of 57k in the beginning when target had full hp
   * Damage of 53k at the end when target had only a sliver of health
 
 **Significance:**
@@ -137,7 +137,7 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 * Dandelion Field & Border Entering/Exiting DMG gauge is 2U - Luci\#4980
   * [Burst Field is 2U](https://youtu.be/huQYjQoqFnI)
   * [Burst Border is 2U](https://youtu.be/ivneYMlnblE)
-  * [Jean Burst clearing 1A Aloy charged shot](https://youtu.be/vN9gsLFd9MA)
+  * [Jean burst clearing 1A Aloy charged shot](https://youtu.be/vN9gsLFd9MA)
 
 ### Continuous Self-Swirl and Cleanse
 
@@ -146,7 +146,7 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 **Last tested:** <VersionHl date="2021-03-21" />
 
 **Findings:**  
-Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in the area if they have an aura Element on them. Should the same character stand on Bennett's Elemental Burst, Fantastic Voyage, it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
+Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in the area if they have an Aura element on them. Should the same character stand on Bennett's Elemental Burst, Fantastic Voyage, it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
 
 **Evidence:**  
 [YouTube](https://youtu.be/f-fzwDOYL6I)
@@ -154,7 +154,7 @@ Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in t
 **Significance:**  
 Very consistent aura application. Can be used for Cryo or Hydro main carries or Overload setups in conjunction with Bennett.
 
-### Anemo aura
+### Anemo Aura
 
 **By:** ProfHugo\#6478  
 **Added:** <Version date="2021-06-14" />  
@@ -162,41 +162,41 @@ Very consistent aura application. Can be used for Cryo or Hydro main carries or 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853336250898579476_854032596726972456_transcript-anemo-aura.html)
 
 **Finding:**  
-Anemo can be the aura for Swirl during Bennett-Jean Sunfire under very specific circumstances
+Anemo can be the aura for swirl during Bennett-Jean Sunfire under very specific circumstances
 
 **Evidence:**  
 [YouTube](https://youtu.be/ZEQdmWjMBNM?t=16)
 
-At 0:16-0:17, Bennett's Q applied Pyro shortly after Jean Q applied Anemo on the active character (Kaeya). This caused Bennett to become the trigger for Swirl, causing a sunfire pulse which was Vaporized for 2244 Pyro damage, even though Jean has 0 EM (Bennett had 141 EM in this run). A subsequent Vaporized Surefire pulse at 0:21 dealt 872 damage, which was the expected amount if Jean is the trigger.
+At 0:16-0:17, Bennett's Q applied pyro shortly after Jean Q applied anemo on the active character (Kaeya). This caused Bennett to become the trigger for swirl, causing a sunfire pulse which was vaporized for 2244 pyro damage, even though Jean has 0 EM (Bennett had 141 EM in this run). A subsequent vaporized Surefire pulse at 0:21 dealt 872 damage, which was the expected amount if Jean is the trigger.
 
-Though there isn't currently a known method for reliably reproducing this phenomenon, it is near certain that the conditions required to replicate this involves swapping characters while under both Bennett Q and Jean Q such that Jean's Q applies Anemo right before Bennett's Q applies Pyro on the active character.
+Though there isn't currently a known method for reliably reproducing this phenomenon, it is near certain that the conditions required to replicate this involves swapping characters while under both Bennett Q and Jean Q such that Jean's Q applies anemo right before Bennett's Q applies pyro on the active character.
 
 **Significance:**  
-This is the second known scenario where Anemo is not the trigger of a Swirl reaction, but rather is the aura of one (the first being the Anemo Hypostasis). For sunfire specifically, this could substantially reduce the damage of a chain reacted sunfire pulse. This also implies that certain sources of Anemo can cause a unit other than the Anemo Hypostasis to have a reactable amount of Anemo aura
+This is the second known scenario where anemo is not the trigger of a swirl reaction, but rather is the aura of one (the first being the Anemo Hypostasis). For sunfire specifically, this could substantially reduce the damage of a chain reacted sunfire pulse. This also implies that certain sources of anemo can cause a unit other than the Anemo Hypostasis to have a reactable amount of anemo aura
 
-Lastly, it debunks the common belief that Anemo cannot be the aura for a Swirl reaction (though the behavior of the Anemo Hypostasis already serves as limited proof)
+Lastly, it debunks the common belief that anemo cannot be the aura for a swirl reaction (though the behavior of the Anemo Hypostasis already serves as limited proof)
 
 ### Jean Burst Border Damage on Initial Cast and Duration End
 
 **By:** Maes\#6425  
 **Added:** <Version date="2022-01-10" />  
 **Last tested:** <VersionHl date="2022-01-10" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926758212236087337_929999851922538526_transcript-jean-Burst-border-dmg-on-initial-cast-and-duration-end.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926758212236087337_929999851922538526_transcript-jean-burst-border-dmg-on-initial-cast-and-duration-end.html)
 
 **Finding:**  
-Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AOE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed elemental application, the initial Burst cast can cause 2 Swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
+Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AOE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed elemental application, the initial burst cast can cause 2 swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
 
 **Evidence:**
 
 * [Border DMG on initial cast and end + Border DMG upon late entry](https://youtu.be/dPsG4YhLqIQ)
 * [Border DMG upon premature exit](https://youtu.be/7SoQ6IHyM70)
-* [2 Swirls on initial cast](https://youtu.be/du8J0Rj2GRQ)
+* [2 swirls on initial cast](https://youtu.be/du8J0Rj2GRQ)
   * [w/ Fischl & Raiden](https://youtu.be/33JEdrSlgYI)
 
 **Significance:**  
-Finding is somewhat significant for team damage calculations. This gives Jean slightly higher damage contribution through 2 guaranteed instances of Border DMG and additional Swirl instances \(where applicable\). Additionally, team rotations with Jean that depend on certain auras on enemies for setups should also consider these additional damage instances as they can potentially deplete auras.
+Finding is somewhat significant for team damage calculations. This gives Jean slightly higher damage contribution through 2 guaranteed instances of Border DMG and additional swirl instances \(where applicable\). Additionally, team rotations with Jean that depend on certain auras on enemies for setups should also consider these additional damage instances as they can potentially deplete auras.
 
-### Anemo aura Continued
+### Anemo Aura Continued
 
 **By:** ProfHugo\#6478  
 **Added:** <Version date="2022-07-21" />  
@@ -204,8 +204,8 @@ Finding is somewhat significant for team damage calculations. This gives Jean sl
 [Discussion](https://tickets.deeznuts.moe/transcripts/anemo-aura-continued-950255566389915728-1658431198969)
 
 **Finding:**  
-Finding 1: For Jean Q -> Bennett Q, the approximate timing for ensuring that Bennett becomes the trigger of Sunfire self Swirl at 80ms ping is from ~2.035s to ~2.065s from pressing Q on Jean to pressing Q on Bennett.  
-Finding 2: Bennett can trigger VV if he's the trigger of Sunfire self Swirl
+Finding 1: For Jean Q -> Bennett Q, the approximate timing for ensuring that Bennett becomes the trigger of Sunfire self swirl at 80ms ping is from ~2.035s to ~2.065s from pressing Q on Jean to pressing Q on Bennett.  
+Finding 2: Bennett can trigger VV if he's the trigger of Sunfire self swirl
 
 **Evidence:**  
 Example clip: [YouTube](https://youtu.be/EZ1gvuLaYCw)  
@@ -245,9 +245,9 @@ The reach of Dandelion Breeze's damage component has a vertical limit but the ef
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933279462974427176_936416305064595496_transcript-interaction-between-jean-sunfire-and-freedom-sworn.html)
 
 **Finding:**  
-"Sunfire" is the interaction between Jean Q and Bennett Q. In this scenario Jean selfswirls the Pyro applied to her by Bennett Q to damage the enemy. The damage is affected by EM which makes it a viable strategy to build EM/EM/EM on Jean in a comp using "Sunfire". Please note that under specific circumstances "Sunfire" can also have Anemo aura as explained in this [TCL entry](#anemo-aura).
+"Sunfire" is the interaction between Jean Q and Bennett Q. In this scenario Jean selfswirls the pyro applied to her by Bennett Q to damage the enemy. The damage is affected by EM which makes it a viable strategy to build EM/EM/EM on Jean in a comp using "Sunfire". Please note that under specific circumstances "Sunfire" can also have anemo aura as explained in this [TCL entry](#anemo-aura).
 
-This entry will explain the interaction between Sunfire and the weapon Freedom\-Sworn for Jean. The self Swirl interaction of "Sunfire" does not count as a reaction for Freedom\-Sworn Passive stacks. This is the same problem that 4-Piece Instructor set has, explored in this [TCL entry](../../equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters).
+This entry will explain the interaction between Sunfire and the weapon Freedom\-Sworn for Jean. The self swirl interaction of "Sunfire" does not count as a reaction for Freedom\-Sworn Passive stacks. This is the same problem that 4pc Instructor set has, explored in this [TCL entry](../../equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters).
 
 **Evidence:**
 
@@ -297,14 +297,14 @@ It's not always the end of the world if you forget to EQ with Jean to activate F
 **By:** SolidBrain\#1914, AlmostSerious\#5533  
 **Added:** <Version date="2022-10-23" />  
 **Last tested:** <VersionHl date="2022-10-23" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/jean-Burst-exit-damage-charges-shield-during-the-final-calamity)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/jean-burst-exit-damage-charges-shield-during-the-final-calamity)  
   
 **Finding:**  
 If Jean casts her Burst right before the Final Calamity begins during the Raiden Shogun weekly boss fight, the Dandelion Breeze field exit damage at end of Burst duration will proc Electro Swirl off of invisible Raiden Shogun's shield.  
   
 **Evidence:**  
 Jean's Burst exit damage proc can Swirl invisible Raiden: [YouTube](https://youtu.be/bd_2UBFSon0)  
-2nd clip that shows Burst does not hit the Orb but still Swirls invisible Raiden: [YouTube](https://youtu.be/pCs8fqeoJuY)  
+2nd clip that shows Burst does not hit the orb but still Swirls invisible Raiden: [YouTube](https://youtu.be/pCs8fqeoJuY)  
   
 Other Jean attacks that do not Swirl invisible Raiden:  
 * Tap Skill: [YouTube](https://youtu.be/1-xkqEKoAiQ) \(no Swirl\)  
@@ -313,7 +313,7 @@ Other Jean attacks that do not Swirl invisible Raiden:
   
 These characters cannot Swirl Electro Raiden:  
 * Venti  
-    * Tap Skill: [YouTube](https://youtu.be/qPObJIBonag) \(no Swirl; auto-targets the Orb\)
+    * Tap Skill: [YouTube](https://youtu.be/qPObJIBonag) \(no Swirl; auto-targets the orb\)
     * Hold Skill: [YouTube](https://youtu.be/HXhcTbEb2-0) \(no Swirl\)
     * Burst: [YouTube](https://youtu.be/ueezGMbZEP0) \(no Swirl; Electro Absorption from before Raiden disappears\)
 * Xiao: Skill and Burst [YouTube](https://youtu.be/KljjxRbw2fE)
@@ -346,4 +346,4 @@ These characters cannot Swirl Electro Raiden:
 
 **Significance:**  
 It is possible to hit invisible Raiden Shogun's shield, but only Jean's Burst field exit damage has been found to exhibit this behavior so far.  
-This Electro Swirl fully charges the Flowers of Remembrance \(Orb\) Shield, which makes it far easier for Jean to avoid Raiden Shogun's Eye of Stormy Judgement instant kill mechanic when fighting Raiden Shogun solo Jean.  
+This Electro Swirl fully charges the Flowers of Remembrance \(orb\) Shield, which makes it far easier for Jean to avoid Raiden Shogun's Eye of Stormy Judgement instant kill mechanic when fighting Raiden Shogun solo Jean.  

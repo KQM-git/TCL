@@ -165,8 +165,8 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* This Energy is not affected by ER.
-* This Energy can proc vs enemy shields
+* This energy is not affected by ER.
+* This energy can proc vs enemy shields
 
 </TabItem>
 </Tabs>
@@ -195,7 +195,7 @@ import Constellation from '@site/src/components/char/Constellation'
 * Has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs.
   * Has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q.
 * When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires.
-* Klee's C1 appears to have a standard ICD for elemental application, and is shared with her Burst.
+* Klee's C1 appears to have a standard ICD for elemental application, and is shared with her burst.
 
 </TabItem>
 

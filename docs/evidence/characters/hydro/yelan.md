@@ -75,22 +75,22 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 ### A4: Adapt With Ease
 
 * A4 cannot be snapshotted and only applies on active character. - [Video](https://youtu.be/zB87-FdzBq8) - CC\#5588
-* A4 does not reset on character swap and is not tied to a single character. - [Video](https://youtu.be/lXP5h-q02-Piece) - Schmidi\#4541
+* A4 does not reset on character swap and is not tied to a single character. - [Video](https://youtu.be/lXP5h-q02pc) - Schmidi\#4541
 
 ### Yelan Burst Wave Microsnapshot
 
 **By:** Rare Possum\#0511, VanIna\#2859, RazorClaws\#4343  
 **Added:** <Version date="2022-08-05" />  
 **Last tested:** <VersionHl date="2022-08-05" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/yelan-Burst-wave-microsnapshot)
+[Discussion](https://tickets.deeznuts.moe/transcripts/yelan-burst-wave-microsnapshot)
 
 **Theory:**  
-Based on the [Xingqiu wave snapshot ticket](../../../evidence/characters/hydro/xingqiu.md#each-Burst-wave-snapshots-when-summoned), Yelan’s Burst was investigated. Unlike Xingqiu, it seems the check for buffs is done per projectile, not per wave. Each Burst projectile snapshots after being generated.
+Based on the [Xingqiu wave snapshot ticket](../../../evidence/characters/hydro/xingqiu.md#each-burst-wave-snapshots-when-summoned), Yelan’s Burst was investigated. Unlike Xingqiu, it seems the check for buffs is done per projectile, not per wave. Each Burst projectile snapshots after being generated.
 
 **Evidence:**  
 [Video 1](https://youtu.be/XhkY52fzI8g)  
 [Video 2](https://youtu.be/TkpCRAk354A)  
-[Video 3](https://youtu.be/qPW0Tbi1yLI) \(switched between Pyro and Hydro potion in this video\)
+[Video 3](https://youtu.be/qPW0Tbi1yLI) \(switched between pyro and hydro potion in this video\)
 
 **Significance:**  
 Better understanding of how buffs interact with Yelan’s Burst, specifically noting that each of Yelan’s projectiles in a given wave can do different damage.

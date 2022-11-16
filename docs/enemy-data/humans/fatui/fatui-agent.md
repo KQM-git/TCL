@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 66% HP       | 1 Orb | common  |
-| 33% HP       | 1 Orb | common  |
-| Death        | 1 Orb | common  |
+| 66% HP       | 1 orb | common  |
+| 33% HP       | 1 orb | common  |
+| Death        | 1 orb | common  |
 
 ## Resistance Table
 
@@ -51,11 +51,11 @@ Head.
   * Its' footsteps will show up on certain terrain as well.
   * When using attacks while invisible, the Agent will temporarily show itself.
 * After using Invisibility, it will create a clone of itself with certain attacks.
-  * Clones can be removed by any source of damage or elemental applications. Clones are resistant but not immune to Pyro attacks. All Clones are immediately removed if the Pyro Agent is staggered.
+  * Clones can be removed by any source of damage or elemental applications. Clones are resistant but not immune to pyro attacks. All Clones are immediately removed if the Pyro Agent is staggered.
 * At melee range, it can slash their target with a swift knife blow.
 * When out of melee range, it can dash towards and attack its' target with an upwards knife slash.
   * This attack can be used while invisible, and creates a clone.
-* Creates 3 rapidly spinning Pyro knives in a wide circle around them. During this attack, the Pyro Agent is immune to stagger, but can still be moved by crowd control attacks. \* This is always followed by Invisibility.
+* Creates 3 rapidly spinning pyro knives in a wide circle around them. During this attack, the Pyro Agent is immune to stagger, but can still be moved by crowd control attacks. \* This is always followed by Invisibility.
 * While invisible and out of melee range, it can use its' silhouette to strike.
   * Creates a clone.
 * Once six clones are present, the clones will circle the player before charging at them in sequence, with the Pyro Agent performing a final strike from above.

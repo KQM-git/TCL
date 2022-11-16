@@ -8,7 +8,7 @@ Certain skills create objects that stay on the field, which are called **constru
 
 ## Geo Constructs
 
-Geo Constructs are created by Geo characters, there is a **maximum of three Geo constructs on-field at once**. The moment a fourth construct is created, the oldest construct placed will be destroyed. This occurs even if the fourth construct fails to be created due to invalid placement. There is one exception to the construct limit, which are the walls created by the Geo Traveler's Wake of Earth, they are still considered Geo Constructs yet do not count towards the construct limit.
+Geo Constructs are created by Geo characters, there is a **maximum of three geo constructs on-field at once**. The moment a fourth construct is created, the oldest construct placed will be destroyed. This occurs even if the fourth construct fails to be created due to invalid placement. There is one exception to the construct limit, which are the walls created by the Geo Traveler's Wake of Earth, they are still considered Geo Constructs yet do not count towards the construct limit.
 
 There is also a distance limit, meaning when the player teleports too far away from a Geo Construct it will disappear. The exact distance is unknown, but from the Teleport Waypoint above Knights of Favonius HQ to the Teleport Waypoint in Cape Oath exceeds said limit.
 

@@ -25,7 +25,7 @@ search: false
   * Prophecies of Dawn: 2B - [BowlSoldier#3528](https://youtu.be/pHSSun_Ec5w)
 * ICD
   * Chillwater Bomblets
-    * Shared ICD on Cryo application. - [BowlSoldier#3528](https://youtu.be/dR5p0D6-pp8)
+    * Shared ICD on cryo application. - [BowlSoldier#3528](https://youtu.be/dR5p0D6-pp8)
     * Follow standard ICD (3 hits/2.5s) - [BowlSoldier#3528](https://youtu.be/mMh8_9bejIA)
   * Infused Normals follow standard ICD (3 hits/2.5s) - [Nass008#8577](https://imgur.com/J1CPb47)
 
