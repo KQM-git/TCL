@@ -30,8 +30,8 @@ search: false
 
 
 ## Skill Mechanics
-* Cyno's Elemental Skill generates 3 particles outside Burst - [Akane#0926](https://youtu.be/q3ziYPhWNig)
-* Cyno's Elemental Skill generates 1-2 particles inbside Burst - [Akane#0926](https://youtu.be/7sHjk3KzCIc)
+* Cyno's Elemental Skill generates 3 Particles outside Burst - [Akane#0926](https://youtu.be/q3ziYPhWNig)
+* Cyno's Elemental Skill generates 1-2 Particles inbside Burst - [Akane#0926](https://youtu.be/7sHjk3KzCIc)
 
 ## Burst Mechanics
 

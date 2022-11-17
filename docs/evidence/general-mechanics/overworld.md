@@ -43,7 +43,7 @@ _Basic Mechanics:_
   * [Melt](https://youtu.be/zKyXIUhqTio)
   * [Freeze Shatter](https://youtu.be/uafxmx-UmZ0)
   * [Superconduct](https://youtu.be/KcrGM4hRmN4)
-    * No phys RES shred is applied to the Rock
+    * No phys RES Shred is applied to the Rock
 
 _Attack Mechanics:_
 
@@ -61,7 +61,7 @@ _Attack Mechanics:_
 * Ayaka A4 does not proc on the Rock: [Reens#9389](https://imgur.com/6lCKFdP)
 * Kazuha A4 does not proc on the Rock: [ShampooBrain#9583](https://imgur.com/a/hpfXL5o)
 * Mona Burst does not apply Omen to the Rock: [ShampooBrain#9583](https://imgur.com/a/4pElThX)
-* Rock is not affected by Zhongli RES shred or Lisa DEF shred: [Chameleon#9008](https://youtu.be/K71cGeGSQWM)
+* Rock is not affected by Zhongli RES Shred or Lisa DEF Shred: [Chameleon#9008](https://youtu.be/K71cGeGSQWM)
 
 _Glitches/Weird Stuff:_
 
@@ -103,7 +103,7 @@ _Known Mechanics:_
   * Oz [Imgur](https://imgur.com/a/LwbzWQW)
   * Guoba [ShampooBrain\#9583](https://imgur.com/a/X1585Zr)
   * Diona [ShampooBrain\#9583](https://imgur.com/a/WTIh8Od)
-* Blue rocks can hold cryo aura:
+* Blue rocks can hold Cryo aura:
   * [Swirl](https://imgur.com/a/G0THI8W)
   * [Crystallize](https://imgur.com/a/0sr5OWQ)
   * [Superconduct](https://imgur.com/a/FSr7SfK)
@@ -112,9 +112,9 @@ _Known Mechanics:_
 
 _Glitches:_
 
-* The hitbox of blue rocks seems to sink bow attacks directed at them at certain angles showing lack of hit animations or charge attack explosions.
+* The hitbox of blue rocks seems to sink bow attacks directed at them at certain angles showing lack of hit animations or Charged Attack explosions.
   [Wesu\#8719](https://www.youtube.com/watch?v=tU6NDtsHKQA)
-  * test demonstrating consistent arrow sinking from different types of bow users at the same spot (except lvl 2 Ganyu bloom explosion) [Imgur](https://imgur.com/a/enSOL7d)
+  * test demonstrating consistent arrow sinking from different types of bow users at the same spot (except lvl 2 Ganyu Bloom explosion) [Imgur](https://imgur.com/a/enSOL7d)
   * test demonstrating consistent arrow hits from all types of bow users at different angle [Imgur](https://imgur.com/a/DJfoL9I)
   * test demonstrating arrow glitch affects long range attacks as well [Imgur](https://youtu.be/JDzvNCO6lP8)
 
@@ -261,8 +261,8 @@ Waverider-Terrain interactions:
 Waverider vs environment:
 
 * Waverider can be hit by lightning (possibly only in shallow water)
-* Waverider takes EC damage if player is in the boat.
-* Waverider takes damage from the environment, such as electro crystals and cryo mistflowers. The player needs to be in the boat.
+* Waverider takes Electro-Charged damage if player is in the boat.
+* Waverider takes damage from the environment, such as Electro crystals and Cryo mistflowers. The player needs to be in the boat.
 * Waverider is not affected by balethunder or "spicy water".
 
 Waverider vs player:
@@ -271,8 +271,8 @@ Waverider vs player:
 * Waverider can be slightly shifted with Geo MC's E.
 * You cannot raise the boat with Albedo E.
 * You cannot place Zhongli Steles near the boat.
-* There's a zone around the waverider where the water can't be frozen.
-* If you use the waverider TP to summon the waverider when the "destination" is frozen, it deconstructs
+* There's a zone around the waverider where the water can't be Frozen.
+* If you use the waverider TP to summon the waverider when the "destination" is Frozen, it deconstructs
 
 Misc:
 
@@ -292,7 +292,7 @@ Misc:
   [Vid #2](https://youtu.be/UR-ZiH19Buw)
 * [WR vs Waterfall](https://youtu.be/_mHRR9tUX4k)
 * [WR vs Lightning](https://youtu.be/AJ78uUyrBEY)
-* [WR vs EC](https://youtu.be/yu4Gqv6CsKk)
+* [WR vs Electro-Charged](https://youtu.be/yu4Gqv6CsKk)
 * [WR vs environmental Dmg](https://youtu.be/BPGqP7eBnTA)
 * [WR vs inazuma environment](https://youtu.be/JF7jxCg1V9U)
 * [WR vs CC](https://imgur.com/OY3ipql)
@@ -336,7 +336,7 @@ The curious part is how 2 different crystal damages share the same level.
 
 **Evidence:**
 
-* [I went and got hit by every single electro crystal on the map with no stat change or effects to affect the damage taken](https://www.youtube.com/watch?v=R738dkn2A4Q)
+* [I went and got hit by every single Electro crystal on the map with no stat change or effects to affect the damage taken](https://www.youtube.com/watch?v=R738dkn2A4Q)
 * [the last 3 are in a different video that might as well be excluded as it provides nothing new](https://www.youtube.com/watch?v=plkvuafVyKo)
 * [Electro-charged testing result proof](https://www.youtube.com/watch?v=MI7gNlhEmbg)
 
@@ -561,7 +561,7 @@ If it's raining and you approach Mondstadt, the rain will stop, even though the 
 [YouTube](https://youtu.be/yJ-3I3xGDgs)
 
 **Significance:**  
-Can't do hydro tests on dandelions near Mondstadt. 
+Can't do Hydro tests on dandelions near Mondstadt. 
 
 ### Genshin has 2D Water
 
@@ -577,10 +577,10 @@ Genshin's water exists only in horizontal, 2 dimensional sheets. Additionally, t
 [Album](https://imgur.com/a/j0b5Y5a)  
 1 shows Jean standing in waterfall without getting wet.  
 2 shows venti climbing into waterfall below the 2d plane of "true water" without getting wet, but getting wet when he climbs into it at a slightly higher angle. When Venti then falls through the waterfall, he remains dry the entire time before impacting the second 2D plane of water.  
-Greyhound's videos demonstrate that such planes appear to have water properties from below (Clip 3), and that its edges in some cases look to be perfectly square (Clip 4). Razor illustrates the trouble with this in Clip 5 by electrocharging the "true water" hidden below a dry floor and hurting himself with the resulting electrocharge AoE.
+Greyhound's videos demonstrate that such planes appear to have water properties from below (Clip 3), and that its edges in some cases look to be perfectly square (Clip 4). Razor illustrates the trouble with this in Clip 5 by electrocharging the "true water" hidden below a dry floor and hurting himself with the resulting Electro-Charged AoE.
 
 **Significance:**  
-Electro is awful for the overworld because you can electrocharge water which resides in a flat sheet invisibly below the ground with AoE attacks. By doing this, you take continuous damage while standing on a dry surface. Also, you can stand in waterfalls without getting wet.
+Electro is awful for the overworld because you can Electro-Charged water which resides in a flat sheet invisibly below the ground with AoE attacks. By doing this, you take continuous damage while standing on a dry surface. Also, you can stand in waterfalls without getting wet.
 
 ### Invisible Water Layer
 
@@ -595,7 +595,7 @@ Genshin's water is coded in a way where the visual water and actual layer are se
 **Evidence:**  
 1. Invisible water being infused by Anemo MC: [Video](https://www.youtube.com/watch?v=oR1zJjhqASI)  
    Invisible water being infused by Sucrose: [Video](https://www.youtube.com/watch?v=kAXeOFUDlic) credits to @ishnu
-2. Invisible water infused by electro: [Video](https://www.youtube.com/watch?v=7tpGWZ4hnfo)
+2. Invisible water infused by Electro: [Video](https://www.youtube.com/watch?v=7tpGWZ4hnfo)
 3. Water hitbox & reactions from UNDER the water, UNDER the ocean: [Video](https://www.youtube.com/watch?v=sWmhqgGfLaM)
 
 **Significance:**  
@@ -609,7 +609,7 @@ Understanding the cursed overworld of Teyvat.
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854439111430635560_858186241102446602_transcript-cursed-terrain-electrified-environment-reaction.html)
 
 **Theory:**  
-Genshin's overworld works under a different set of reaction rules than the players, additionally supported by the entry [Overworld Entities Have Levels](../../evidence/general-mechanics/overworld.md#overworld-entities-have-levels), one of those different rules of reactions is Electrified water, when applying electro to water, it does not produce electro-charged, instead it infuses the water with electro for a few seconds, which does not apply electro, does not spread, and is not affected by 4TF set bonus, this electrified water can damage both the player and enemies. Water additionally is seen as friend to both player and enemy, which questions the nature of this Electrified reaction even further.
+Genshin's overworld works under a different set of reaction rules than the players, additionally supported by the entry [Overworld Entities Have Levels](../../evidence/general-mechanics/overworld.md#overworld-entities-have-levels), one of those different rules of reactions is Electrified water, when applying Electro to water, it does not produce Electro-charged, instead it infuses the water with Electro for a few seconds, which does not apply Electro, does not spread, and is not affected by 4TF set bonus, this electrified water can damage both the player and enemies. Water additionally is seen as friend to both player and enemy, which questions the nature of this Electrified reaction even further.
 
 **Evidence:**  
 Electrified water evidence, including 4TF attempts, enemy taking damage, as well as water never being a trigger to any reaction, only aura, as it's friendly to both parties: [Video](https://www.youtube.com/watch?v=zuS2G0SUkHc)
@@ -625,14 +625,14 @@ There might be more reactions unknown to the player coded into the game's files 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858433829143445615_858455416635392040_transcript-electrified-water-properties.html)
 
 **Finding:**  
-The duration of the environmental elemental reaction Electrified Water has varying duration based on the gauge strength of electro applied. There are approximately 2 seconds between each tick. 1A of electro lasts for 3 ticks, 2B lasts for 5 ticks, and 4C lasts for 10 ticks.  
+The duration of the environmental elemental reaction Electrified Water has varying duration based on the gauge strength of Electro applied. There are approximately 2 seconds between each tick. 1A of Electro lasts for 3 ticks, 2B lasts for 5 ticks, and 4C lasts for 10 ticks.  
 The damage dealt by Electrified water is affected by Electro Resistance. For example, a character with 15% Electro Resistance will take 85% of the Electrified Water damage.
 
 **Evidence:**  
-Video contains Fischl and Lisa getting 3 ticks after applying 1A electro with charge attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% electro res) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)
+Video contains Fischl and Lisa getting 3 ticks after applying 1A Electro with Charged Attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to Electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% Electro res) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% Electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)
 
 **Significance:**  
-Learning more about how environmental reactions are programmed/calculated. Also, don't bring electro units if you're trying to get the achievement for Floor 2-2 of the Spiral Abyss.
+Learning more about how environmental reactions are programmed/calculated. Also, don't bring Electro units if you're trying to get the achievement for Floor 2-2 of the Spiral Abyss.
 
 ### Overworld Hydro Gauge and ICD
 
@@ -660,21 +660,21 @@ Overworld Hydro can be split into 2 types:
 
 [Water Max Strength, and Stacking](https://youtu.be/r7W9h75ct2U):
 
-* The duration the Hillichurl was frozen for indicates they had 48-50 durability
-* They were re-frozen 43 frames after falling into the water. Since water ticks every 15 frames, they should have had 3 ticks applied to them for 30 durability. \* Their frozen duration matches 28-30 durability
+* The duration the Hillichurl was Frozen for indicates they had 48-50 durability
+* They were re-frozen 43 frames after falling into the water. Since water ticks every 15 frames, they should have had 3 ticks applied to them for 30 durability. \* Their Frozen duration matches 28-30 durability
 
 Rain Max Strength:
 
 * Tested by freezing with both 25 and 50 Cryo, then comparing the duration to the Freeze duration formula
 * Freeze duration formula: t = 24 _ ( 5^0.5 _ ((x) + 20)^0.5 - 10 )
-* Where t is the freeze duration in frames, and x is the freeze aura durability, which is 2x the minimum of the Cryo and Hydro gauges.
+* Where t is the Freeze duration in frames, and x is the Freeze aura durability, which is 2x the minimum of the Cryo and Hydro gauges.
   * [25 Cryo test](https://youtu.be/xnmioJca29g): Lasted 210 frames. This is the number for min(25, Hydro) = 25, so Hydro durability is at least 25
   * [50 Cryo test](https://youtu.be/Lw2wvGbpY-0): Lasted 240 frames. This is the number for min(50, Hydro) = 30, so Hydro durability is 30
 
 [Rain ICD and Per-tick Strength](https://youtu.be/Kjx3EFqfdrE): The reductions in the Pyro shield happened every 30 frames, or 0.5s. The number of ticks it took to remove the Pyro shield indicates 10 durability per tick. The first reduction was 30 durability's worth, since the mage already had fully stacked rain on them when they applied their shield.
 
 **Significance:**  
-Better understanding of how overworld hydro works for aura and reaction testing.
+Better understanding of how overworld Hydro works for aura and reaction testing.
 
 ### Fountain Water Cannot Cause Electrified
 
@@ -771,23 +771,23 @@ Falls water.
 [Discussion](https://tickets.deeznuts.moe/transcripts/frozen-water-sans-water-is-unfreezable-unmeltable-etc)
 
 **Finding:**  
-Frozen water can be isolated from regular water by changing the water level or position after freezing the water. The patch of ice will be stationary, and you may stand on it or place constructs on it, just like the regular behaviour. It will also expire at the expected time for regular frozen water. This is similar behaviour to Electro-Charged patches of water, which will also remain in place regardless of the water movement, and will behave as expected.
+Frozen water can be isolated from regular water by changing the water level or position after freezing the water. The patch of ice will be stationary, and you may stand on it or place constructs on it, just like the regular behaviour. It will also expire at the expected time for regular Frozen water. This is similar behaviour to Electro-Charged patches of water, which will also remain in place regardless of the water movement, and will behave as expected.
 
-This ticket uses an area in Mona's GAA quest domain. Do note that the water level does continuously change between the 3 possible ending states, so you can Freeze or Electro-Charge water inbetween the "3 levels," but for ease of TC most of the tests were done at the top or middle level.
+This ticket uses an area in Mona's GAA quest domain. Do note that the water level does continuously change between the 3 possible ending states, so you can Freeze or Electro-Charged water inbetween the "3 levels," but for ease of TC most of the tests were done at the top or middle level.
 
-Note that there are visual bugs where the part of or the entire ice graphic may disappear prematurely. It is unknown whether this is because of the graphics settings I used, the mechanics of the water level changer, or an issue with frozen water without regular water. This is entirely visual and the invisible ice functions the exact same.
+Note that there are visual bugs where the part of or the entire ice graphic may disappear prematurely. It is unknown whether this is because of the graphics settings I used, the mechanics of the water level changer, or an issue with Frozen water without regular water. This is entirely visual and the invisible ice functions the exact same.
 
-However, frozen water is inert and will not be affected by Elemental applications or abilities. This is in contrast to regular frozen water, which has numerous interactions with Elemental applications.
+However, Frozen water is inert and will not be affected by Elemental applications or abilities. This is in contrast to regular Frozen water, which has numerous interactions with Elemental applications.
 
-* Pyro: will not melt the ice.
+* Pyro: will not Melt the ice.
 * Cryo: will not extend the duration of Freeze.
 * Electro: will not produce a Superconduct effect.
-* Anemo: no Swirl, but regular frozen water with water will not Swirl either.
+* Anemo: no Swirl, but regular Frozen water with water will not Swirl either.
 * Absorption: cannot absorb Cryo.
-* Geo: no Crystallize, but regular frozen water with water will not Crystallize either.
-* Hydro: will not extend the duration of Freeze. No effect on regular frozen water with water either, this is just to prove that there is no interaction with a hypothetical Cryo aura on the frozen water.
+* Geo: no Crystallize, but regular Frozen water with water will not Crystallize either.
+* Hydro: will not extend the duration of Freeze. No effect on regular Frozen water with water either, this is just to prove that there is no interaction with a hypothetical Cryo aura on the Frozen water.
 
-One theory I had was that the water itself holds the Cryo aura, rather than the physical manifestation of the frozen water. However, an Elemental application to the corresponding displaced water does not behave as if there is any cryo aura (no SC on Electro application), which does not support this conclusion.
+One theory I had was that the water itself holds the Cryo aura, rather than the Physical manifestation of the Frozen water. However, an Elemental application to the corresponding displaced water does not behave as if there is any Cryo aura (no SC on Electro application), which does not support this conclusion.
 
 **Evidence:**  
 * Stationary: just look at any of the other ones omegalul
@@ -804,9 +804,9 @@ One theory I had was that the water itself holds the Cryo aura, rather than the 
 * No Superconduct on corresponding displaced water: [YouTube](https://youtu.be/Xma4ohW6Zks)
 
 **Significance:**  
-Bravo, MiYoHo. On the surface, this seems to be a relatively innocuous mechanic that has little impact on gameplay or balance. However, this is actually a brilliant mechanic that increases game depth and the skill ceiling of Genshin Impact. Consider some alternate methods to implement the frozen water mechanic:
+Bravo, MiYoHo. On the surface, this seems to be a relatively innocuous mechanic that has little impact on gameplay or balance. However, this is actually a brilliant mechanic that increases game depth and the Skill ceiling of Genshin Impact. Consider some alternate methods to implement the Frozen water mechanic:
 
-One option is to make things "logical," for frozen water to simply disappear when the water level moves, or to move with the water itself. There is nothing inherently bad about this approach, but it has little effect on gameplay, and the game will have less depth as a result. Allowing Cryo units to obtain the high ground, unlike other Elements, increases the variety and diversity in Genshin Impact. Consider the alternative. If every Element had the same capabilities, then the game would be much less interesting. Thus, the "logical" approach is undesirable.
+One option is to make things "logical," for Frozen water to simply disappear when the water level moves, or to move with the water itself. There is nothing inherently bad about this approach, but it has little effect on gameplay, and the game will have less depth as a result. Allowing Cryo units to obtain the high ground, unlike other Elements, increases the variety and diversity in Genshin Impact. Consider the alternative. If every Element had the same capabilities, then the game would be much less interesting. Thus, the "logical" approach is undesirable.
 
 ## Electro Crystals
 
@@ -823,7 +823,7 @@ Electro crystals' pulse range works in a rectangle range, with the crystal being
 **Evidence:**  
 [YouTube](https://www.youtube.com/watch?v=f8QfbYvuR6Q)
 
-**Significance:** electro crystals work in a similar way to cryo&pyro stamen flowers, for a better understanding of the overworld.
+**Significance:** Electro crystals work in a similar way to Cryo & Pyro stamen flowers, for a better understanding of the overworld.
 
 ### Parametric Crystal Electric Bungaloo
 
@@ -860,7 +860,7 @@ Rain Hydro isn’t the same as other Hydro sources. Electro crystals don’t hav
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851228691656736798_852776633731645470_transcript-bushes-take-1u-of-pyro-to-light.html)
 
 **Finding:**  
-Bushes take one unit of pyro elemental application to light on fire.
+Bushes take one unit of Pyro elemental application to light on fire.
 
 **Evidence:**  
 [YouTube](https://youtu.be/TTcHouqT-Qg)
@@ -894,7 +894,7 @@ Vault update.
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880603421873418362_884484706299686942_transcript-elemental-interactions-with-bushes.html)
 
 **Theory:**  
-Elemental applications can be used to destroy and damage bushes, however not all elements are equal in this regard. Additionally, there are several other abilities such as Jean's E, the cast of Kaeya's burst, Albedo's burst, etc... which can be used to both damage and destroy bushes.
+Elemental applications can be used to destroy and damage bushes, however not all elements are equal in this regard. Additionally, there are several other abilities such as Jean's E, the cast of Kaeya's Burst, Albedo's Burst, etc... which can be used to both damage and destroy bushes.
 
 **Evidence:**  
 Hydro: [Video](https://www.youtube.com/watch?v=6H6xNgeF3Gg)  
@@ -916,9 +916,9 @@ Optimizing your bush harvesting game.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898420442753277962_899020738458177608_transcript-2u-pyro-on-grass.html)
 
 **Finding:**  
-Not all 2U pyro attack ignite grass.
+Not all 2U Pyro attack ignite grass.
 
-We already know applying 2U pyro on grass can light them on fire with single hit, but for unknown reason some 2U pyro attacks do not apply pyro on grass.
+We already know applying 2U Pyro on grass can light them on fire with single hit, but for unknown reason some 2U Pyro attacks do not apply Pyro on grass.
 
 **Evidence:**  
 [Bennett Q](https://imgur.com/Aym0APh)  
@@ -926,7 +926,7 @@ We already know applying 2U pyro on grass can light them on fire with single hit
 [Yoimiya Q initial hit](https://imgur.com/sPySW8G) (Credit to BowTae#0141)
 
 **Significance:**  
-Applying pyro on grass is not a foolproof method for testing elemental gauge since not all attacks apply element to environment.
+Applying Pyro on grass is not a foolproof method for testing elemental gauge since not all attacks apply element to environment.
 
 ### Trees Pick Up Fruits
 
@@ -958,7 +958,7 @@ The trees can pick up their fruits. Also, very useful for checking some attacks 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864369706249355324_865083435184947200_transcript-campfires-act-like-1u-of-pyro-aura.html)
 
 **Finding:**  
-Lit campfires essentially have a 1U aura of pyro that don't decay over time.
+Lit campfires essentially have a 1U aura of Pyro that don't decay over time.
 
 Consuming the campfire aura requires one of the following:
 
@@ -967,7 +967,7 @@ Consuming the campfire aura requires one of the following:
 * One 2U (or higher) application of Cryo, Anemo, or Geo
 
 The aura on the campfire is 1U, regardless of the Pyro aura applied.  
-For example, Bennett's tap E, which applies 2U of Pyro, still creates a campfire that behaves the exact same as one lit with 1U of pyro.
+For example, Bennett's tap E, which applies 2U of Pyro, still creates a campfire that behaves the exact same as one lit with 1U of Pyro.
 
 **Evidence:**  
 [Video](https://www.youtube.com/watch?v=NpqqWAltzyo)
@@ -983,7 +983,7 @@ Putting out campfires with utmost efficiency
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885127802570039336_896138078912135228_transcript-structures-are-not-enemies.html)
 
 **Finding:**  
-Structures do not count as "opponents" for the purposes of triggering abilities like albedo's elemental skill.
+Structures do not count as "opponents" for the purposes of triggering abilities like albedo's elemental Skill.
 
 **Evidence:**  
 Hilichurl Tower: [YouTube](https://youtu.be/kY2MB81k8-0)  
@@ -1006,13 +1006,13 @@ Overworld is hard.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904069344764526692_908536409021906954_transcript-torches-take-0-gauge-to-light.html)
 
 **Finding:**  
-Some overworld objects (torches, mist flowers) interact with 0 gauge pyro hits (hits that don't apply pyro aura to enemies).
+Some overworld objects (torches, mist flowers) interact with 0 gauge Pyro hits (hits that don't apply Pyro aura to enemies).
 
 **Evidence:**  
 Overload and Torches:
 
-* [Overload lighting a torch but not applying pyro to hilichurl](https://youtu.be/tyuLDjja0cQ)
-* [Overload continuously reacting to pyro from a torch and lighting a nearby torch](https://youtu.be/5ihT0Zp05OQ)
+* [Overload lighting a torch but not applying Pyro to hilichurl](https://youtu.be/tyuLDjja0cQ)
+* [Overload continuously reacting to Pyro from a torch and lighting a nearby torch](https://youtu.be/5ihT0Zp05OQ)
 * [Overload not lighting Dendro barrels on fire (confirmed in range by triggering explosive barrel)](https://imgur.com/JH76aSW)
 
 Ice Flowers:
@@ -1039,9 +1039,9 @@ Documenting the overworld spaghetti, and a better understanding of 0 gauge stuff
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903329501226860666_921012856277848114_transcript-explosive-barrel-properties.html)
 
 **Finding:**  
-1. Barrel damage is affected by the unit's defense, following the damage formula here: https://genshin-impact.fandom.com/wiki/Defense. Attributes such as level, ascension, max hp have no effect on the amount of damage inflicted by barrel explosions.
-2. Barrels do pyro damage, and is affected by reactions such as vaporize as well as pyro resist.
-3. Damage Reduction such as Xingqiu rainsword orbitals can reduce explosion damage.
+1. Barrel damage is affected by the unit's defense, following the damage formula here: https://genshin-impact.fandom.com/wiki/Defense. Attributes such as level, ascension, max HP have no effect on the amount of damage inflicted by barrel explosions.
+2. Barrels do Pyro damage, and is affected by reactions such as Vaporize as well as Pyro resist.
+3. Damage Reduction such as Xingqiu Rain Sword orbitals can reduce explosion damage.
 4. Explosive barrels have levels.
 5. Barrel levels (probably) follow zone level rules.
 
@@ -1063,7 +1063,7 @@ A series of suicide-by-barrel attempts have demonstrated the following findings:
 
 Damage can be plotted against defense - [Image](https://imgur.com/ZTEWcff)
 
-Inverse of damage, or effective hp (EHP), against defense: - [Image](https://imgur.com/nhw1sFu)
+Inverse of damage, or effective HP (EHP), against defense: - [Image](https://imgur.com/nhw1sFu)
 
 Inverting barrel damage to EHP linearizes the trend, allowing a linear regression to be performed with the previous data points.
 
@@ -1079,14 +1079,14 @@ Residual standard error: 4.527e-08 on 13 degrees of freedom
 Multiple R-squared: 1, Adjusted R-squared: 1  
 F-statistic: 5.707e+07 on 1 and 13 DF, p-value: < 2.2e-16
 
-Barrels do pyro damage, and is affected by reactions such as vaporize as well as pyro resist.
+Barrels do Pyro damage, and is affected by reactions such as Vaporize as well as Pyro resist.
 
 * [Video 1](https://imgur.com/0AU4aUE)
 * [Video 2](https://imgur.com/SF3xnw9)
 * [Video 3](https://imgur.com/SyDSiRn)
 * [Video 4](https://imgur.com/J7zMioL)
 
-Damage reduction such as Xingqiu rainsword orbitals can reduce explosion damage
+Damage reduction such as Xingqiu Rain Sword orbitals can reduce explosion damage
 
 * [Video](https://imgur.com/OqamQMJ)
 
@@ -1144,7 +1144,7 @@ Sheet documenting which objects can and cannot be infused with Cryo: [Google Doc
 It should be noted that some objects simply cannot be tested as they are destroyed even due to zero damage attacks, such as Ayaka's special sprint (an example being the Liyue screens in domains).
 
 **Significance:**  
-Largely fluff. However, the application of cryo does mean that some elemental reactions can be performed on inanimate objects which can come with some side benefits. An example of this is that shatter can be trigged on rocks via this method, turning normally slow characters for mining into slightly more acceptable (such as Albedo).
+Largely fluff. However, the application of Cryo does mean that some elemental reactions can be performed on inanimate objects which can come with some side benefits. An example of this is that shatter can be trigged on rocks via this method, turning normally slow characters for mining into slightly more acceptable (such as Albedo).
 
 ## Coordinates
 
@@ -1499,7 +1499,7 @@ If someone is going to rely on in-game coordinates from feedback url, they might
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_861913032152842250_874185169110704198_transcript-coordinates-change-when-idle.html)
 
 **Finding:**  
-Character coordinates change whenever game state is not frozen (unpaused single player).
+Character coordinates change whenever game state is not Frozen (unpaused single player).
 
 **Evidence:**  
 Steps to reproduce:
@@ -1559,7 +1559,7 @@ Side-on collisions while jumping don't hurt and don't remove the fall damage red
 * Freezing and unfreezing mid\-air then landing with no DMG.
 * Death by fall DMG after glide canceling a spoutrock jump.
 * Death by fall DMG on second landing after rolling for the first.
-* Death by fall DMG after skill canceling a spoutrock jump.
+* Death by fall DMG after Skill canceling a spoutrock jump.
 * Normal plunging fall DMG after plunge canceling a spoutrock jump.
 
 **Significance:**  
@@ -1795,10 +1795,10 @@ Some things reflects, mostly fluff. Genshin is wonk game.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_852322096528228372_857338163654557716_transcript-environment-reaction-base.html)
 
 **Theory:**  
-Environment uses a different set of reaction bases than players, thanks to the EM buffs and my prior testing of electro crystal levels, we can conclude that although the value at release was the same as for the player, now it's different, with the player having a new one, and the electro crystals using the old, unchanged base.
+Environment uses a different set of reaction bases than players, thanks to the EM buffs and my prior testing of Electro crystal levels, we can conclude that although the value at release was the same as for the player, now it's different, with the player having a new one, and the Electro crystals using the old, unchanged base.
 
 **Evidence:**  
-The video shows a level 84 electro-charged tick of the pre 1.6 base (1243)  
+The video shows a level 84 Electro-charged tick of the pre 1.6 base (1243)  
 [Video](https://www.youtube.com/watch?v=ClyLEKYV6uI)
 
 **Significance:**  
@@ -1888,7 +1888,7 @@ Testing:
 Tested chests:
 
 * Chest 1 (Common): [Imgur](https://i.imgur.com/vlH5Ka3.png) (chest unlocks after defeating monsters)
-* Chest 2 (Luxurious): [Imgur](https://i.imgur.com/sjfQMuA.png) (chest appears after lighting electro structures)
+* Chest 2 (Luxurious): [Imgur](https://i.imgur.com/sjfQMuA.png) (chest appears after lighting Electro structures)
 * Chest 3 (Common): [Imgur](https://i.imgur.com/kpmvMrE.png) (chest appears after completing time trial)
 * Chest 4 (Precious): [Imgur](https://i.imgur.com/P31H4JI.png) (chest unlocks after defeating monsters)
 

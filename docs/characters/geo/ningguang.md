@@ -94,7 +94,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* **Jade Screen** has a 6s cooldown on generating particles, not affected by Elemental Skill cooldown reset or reduction.
+* **Jade Screen** has a 6s cooldown on generating Particles, not affected by Elemental Skill cooldown reset or reduction.
 * **Jade Screen** has no ICD for the detection of aura-checks.
 
 | Attribute | Construct (Talent 9%) |
@@ -160,7 +160,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
+* If Sacrificial Fragments procs on the same Skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
 
 </TabItem>

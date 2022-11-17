@@ -4,7 +4,7 @@ description: A member of the decentralized criminal organization that has footpr
 
 # Treasure Hoarders: Handyman
 
-These members do physical work and are lower on the pecking order. They are often laughed at for their physique — but when the gang comes under attack, they get a chance to show their unexpectedly high strength and agility.
+These members do Physical work and are lower on the pecking order. They are often laughed at for their physique — but when the gang comes under attack, they get a chance to show their unexpectedly high strength and agility.
 
 ## Weakspot Details
 

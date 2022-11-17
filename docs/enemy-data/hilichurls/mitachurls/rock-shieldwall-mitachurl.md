@@ -14,10 +14,10 @@ Face.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 75% HP       | 1 particle | common  |
-| 50% HP       | 1 particle | common  |
-| 25% HP       | 1 particle | common  |
-| Death        | 1 orb      | common  |
+| 75% HP       | 1 Particle | common  |
+| 50% HP       | 1 Particle | common  |
+| 25% HP       | 1 Particle | common  |
+| Death        | 1 Orb      | common  |
 
 ## Resistance Table
 
@@ -48,8 +48,8 @@ Face.
 
 ## Attacks
 
-* Uses a large geo hand shield. The shield can be destroyed using geo or blunt attacks, or dealing enough damage to it. If the shield is left undamaged for a short while, it will slowly regenerate its' health.
+* Uses a large Geo hand shield. The shield can be destroyed using Geo or blunt attacks, or dealing enough damage to it. If the shield is left undamaged for a short while, it will slowly regenerate its' health.
 * Charges in a set direction until colliding with the player or a solid structure.
 * Blocks attacks in the way of its' shields. Attacks from the side and back can still go through. If the shield is destroyed, it will be unable to perform this attack.
 * If the player character strays too close, it can deliver a punch.
-* If the player can't be reached by other attacks, digs in the ground for a geo slime to throw at the player.
+* If the player can't be reached by other attacks, digs in the ground for a Geo slime to throw at the player.

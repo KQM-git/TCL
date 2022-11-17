@@ -226,14 +226,14 @@ Even more Ws for when you're absolutely carrying your low AR friends. Maybe help
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840784074842046504_841877418103799808_transcript-freeze-interaction-on-boss-entities.html)
 
 **Finding:**  
-Triggering a freeze reaction on a boss entity does not create a frozen aura on the entity, but consumes the hydro and cryo auras typically used to produce a frozen aura.
+Triggering a Freeze reaction on a boss entity does not create a Frozen aura on the entity, but consumes the Hydro and Cryo auras typically used to produce a Frozen aura.
 
 **Evidence:**  
-The freeze reaction displays 'Freeze' text but only results in both cryo and hydro auras used to typically produce the freee reaction being consumed. [Video](https://youtu.be/sXhesCCEKyY)  
-Ability to apply a pyro aura immediately after means that there is no invisible cryo/hydro aura. [Video](https://www.youtube.com/watch?v=yreJwJtDpDQ&feature=youtu.be)
+The Freeze reaction displays 'Freeze' text but only results in both Cryo and Hydro auras used to typically produce the Freeze reaction being consumed. [Video](https://youtu.be/sXhesCCEKyY)  
+Ability to apply a Pyro aura immediately after means that there is no invisible Cryo/Hydro aura. [Video](https://www.youtube.com/watch?v=yreJwJtDpDQ&feature=youtu.be)
 
 **Significance:**  
-Freeze teams and melt/vape teams that function off the freeze aura will perform significantly worse in boss scenarios. Considering that freeze teams typically run Blizzard Strayer set, triggering a freeze on a boss not only does not produce a freeze aura, but also consumes cryo aura. The end result is that freeze only functions to remove cryo aura from bosses, making the Blizzard Strayer 4PC effect useless if you are triggering freeze often. For melt/vape teams, they will be unable to trigger melts off the frozen aura \(since it cannot exist on bosses\). This also results in the inability to take advantage of underlying hydro aura after a melt reaction on a frozen entity.
+Freeze teams and Melt/vape teams that function off the Freeze aura will perform significantly worse in boss scenarios. Considering that Freeze teams typically run Blizzard Strayer set, triggering a Freeze on a boss not only does not produce a Freeze aura, but also consumes Cryo aura. The end result is that Freeze only functions to remove Cryo aura from bosses, making the Blizzard Strayer 4PC effect useless if you are triggering Freeze often. For Melt/vape teams, they will be unable to trigger melts off the Frozen aura \(since it cannot exist on bosses\). This also results in the inability to take advantage of underlying Hydro aura after a Melt reaction on a Frozen entity.
 
 ### Weekly Boss Animation Skipping
 
@@ -280,12 +280,12 @@ This may assist in shortening the time required to kill weekly bosses, as well a
 **Last tested:** <VersionHl date="2020-12-22" />
 
 **Finding:**  
-Andrius wolf boss Phase 2 HP cut-off is at 60% - HOWEVER, Andrius will keep staying in Phase 1 if you manage to burst him down below 30%.
+Andrius wolf boss Phase 2 HP cut-off is at 60% - HOWEVER, Andrius will keep staying in Phase 1 if you manage to Burst him down below 30%.
 
 **Evidence:**  
 [Spreadsheet of tests](https://docs.google.com/spreadsheets/d/1xsRWRktJn-VlYKwSE4zhJO5KIg4HeYPnrLh00eLUuf8/edit?usp=sharing)  
 [Andrius Phase 2 HP Cut-off.](https://youtu.be/Aq5OVkIjuxQ) An easier visual cue for the cut-off when Andrius starts to dash is when his HP bar is around the big "r" in top Dominator and small "o" in bottom "of'' (from now on, I'll call the top row as big "letter" and the bottom row as small "letter")  
-[Phase Skip HP Cut-off.](https://youtu.be/uSLJV8eeCg0) The left clip showcases a successful run, while the right one was unsuccessful (I trimmed it short but you can see Andrius starts to dash right away in the right clip), note that the starting HP before I did my Mona Q burst was different (Andrius in right clip had more HP than left clip, probably ~30k HP). Andrius HP at the end of the 2 clips were really close, and if you look closely, an easier visual cue is around the big "," after top Andrius and small "r" in bottom Andrius.
+[Phase Skip HP Cut-off.](https://youtu.be/uSLJV8eeCg0) The left clip showcases a successful run, while the right one was unsuccessful (I trimmed it short but you can see Andrius starts to dash right away in the right clip), note that the starting HP before I did my Mona Q Burst was different (Andrius in right clip had more HP than left clip, probably ~30k HP). Andrius HP at the end of the 2 clips were really close, and if you look closely, an easier visual cue is around the big "," after top Andrius and small "r" in bottom Andrius.
 
 **Significance:**  
 If you dread Andrius phase 2 and you have the ability to skip it, now you can do so!
@@ -303,7 +303,7 @@ If you dread Andrius phase 2 and you have the ability to skip it, now you can do
 Azhdaha's Tail Form has Two Independent Hitboxes
 
 **Evidence:**  
-[Youtube](https://youtu.be/6_NpOfDYfIo)  
+[YouTube](https://youtu.be/6_NpOfDYfIo)  
 C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during his Tail Phase, the Tail and, presumably, his Body underground, causing multiple damage values due to Lisa C4 allowing multiple entities to be tagged.
 
 **Significance:**  
@@ -329,7 +329,7 @@ Co-op cannot be used to have a more favorable/easier elemental matchup against a
 
 ### La Signora
 
-#### You can't melt signora off field
+#### You can't Melt signora off field
 
 **By:** Puffin\#9920  
 **Added:** <Version date="2022-04-04" />  
@@ -337,11 +337,11 @@ Co-op cannot be used to have a more favorable/easier elemental matchup against a
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_960711833520570378_transcript-you-cant-melt-signora-from-off-field.html)
 
 **Finding:**  
-When Signora is in her ice cocoon phase, the character dealing damage must be on-field for the Crimson Lotus Moth's effect to melt Signora's cocoon.
+When Signora is in her ice cocoon phase, the character dealing damage must be on-field for the Crimson Lotus Moth's effect to Melt Signora's cocoon.
 
 **Evidence:**  
 Shown here with Xiangling (Guoba) and Fischl (Oz): [YouTube](https://www.youtube.com/watch?v=8vw8IF845A0)  
-Shown here with Kaeya burst: [YouTube](https://youtu.be/MpfNRduI1Ig)  
+Shown here with Kaeya Burst: [YouTube](https://youtu.be/MpfNRduI1Ig)  
 Shown here with Zhongli Pillar: [YouTube](https://youtu.be/HrjIBJ52od0)
 
 **Significance:**  
@@ -367,11 +367,11 @@ Max HP was referenced from [Honey Impact](https://genshin.honeyhunterworld.com/d
 
 **Evidence:**
 
-* Vaporizing Tartaglia's weaker ranged burst hit the cap - [YouTube](https://youtu.be/f_kmldTM_do)
-  * At 0:10, Childe's burst got capped at exactly 111671.
+* Vaporizing Tartaglia's weaker ranged Burst hit the cap - [YouTube](https://youtu.be/f_kmldTM_do)
+  * At 0:10, Childe's Burst got capped at exactly 111671.
   * At 0:39, Childe's Burst got capped at exactly 149143.
-* Vaporizing Tartaglia's stronger melee burst hit the cap, dealing the same damage as when ranged - [YouTube](https://youtu.be/OcUDFy91qfo)
-  * At 0:10, Childe's burst got capped at exactly 111671.
+* Vaporizing Tartaglia's stronger melee Burst hit the cap, dealing the same damage as when ranged - [YouTube](https://youtu.be/OcUDFy91qfo)
+  * At 0:10, Childe's Burst got capped at exactly 111671.
   * At 0:27, Childe's Burst got capped at exactly 149143
 
 **Significance:**  
@@ -387,7 +387,7 @@ We now know what is the exact percentage for the cap.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904754824304787466_906425965872291860_transcript-the-dmg-increase-dvalins-dot-does-will-eventually-stop-increasing.html)
 
 **Finding:**  
-Stormterror's DoT floor attack has a damage cap. The damage is not based on the active character's HP. However, it does take into account the active character's DEF, anemo RES, and any Damage Reduction buffs.
+Stormterror's DoT floor attack has a damage cap. The damage is not based on the active character's HP. However, it does take into account the active character's DEF, Anemo RES, and any Damage Reduction buffs.
 
 **Evidence:**  
 [25121 Max HP and 789 DEF](https://youtu.be/YZV5Zr4DR5U)  
@@ -440,7 +440,7 @@ Previously unable to apply Hydro, now able. Fluff.
 Oneshot ignores shields - [YouTube](https://youtu.be/P77v66oXhfg)  
 Oneshot can not be parried - [YouTube](https://youtu.be/v9RGPc2ka7I)  
 Oneshot can not be dash i-framed - [YouTube #1](https://youtu.be/N2CxwCyj_0E), [YouTube #2](https://youtu.be/MeHqO7vBNRo), [YouTube #3](https://youtu.be/zDV-d6j7k0s)  
-Oneshot can be burst I-framed - [YouTube](https://youtu.be/wD7pgFGhPvc)  
+Oneshot can be Burst I-framed - [YouTube](https://youtu.be/wD7pgFGhPvc)  
 100% damage reduction does not reduce damage taken by oneshot - [YouTube](https://www.youtube.com/watch?v=gd_DmaXBE_I)  
 Some skills with I-frames can dodge the oneshot (mona hold E) - [YouTube](https://youtu.be/Ht_yDNwAihQ)  
 Taunts can not be marked by oneshot - [YouTube](https://youtu.be/r4Wwpv6XFYE)  
@@ -448,7 +448,7 @@ Unmarked oneshot damage can be absorbed by shields - [YouTube](https://youtu.be/
 Marked target is not affected by Proximity - [YouTube #1](https://youtu.be/SBQ95dMyNtA), [YouTube #2](https://youtu.be/giHeChuMfoY), [YouTube #3](https://youtu.be/5VuGjdqyqh0)  
 Marked target for oneshot seems to be based on number of hits or amount of damage done to Shogun in some timeframe (more testing needed) - [YouTube #1](https://youtu.be/Fm5JplQqXX8), [YouTube #2](https://youtu.be/CjNrzmnhCXA), [YouTube #3](https://youtu.be/b1Oa5r3mZ6Y)  
 Taunts do not sustain damage from the oneshot - [YouTube](https://youtu.be/Yim5xJQOMYw)  
-Oneshot can be burst I-framed - [YouTube #1](https://youtu.be/vWNEixVX0CM), [YouTube #2](https://youtu.be/HHfmRlAXgoo)  
+Oneshot can be Burst I-framed - [YouTube #1](https://youtu.be/vWNEixVX0CM), [YouTube #2](https://youtu.be/HHfmRlAXgoo)  
 Always does a fixed 1 damage to targets in bubble shield - [YouTube](https://youtu.be/giHeChuMfoY)  
 Damage does _not_ ignore shields when in bubble shield - [YouTube](https://youtu.be/G3CWmzznhlM)  
 Parry instance gets staggered mid-animation, but shield prevents fixed 1 damage - [YouTube](https://youtu.be/RXzvG3WSvro)  
@@ -471,7 +471,7 @@ Other evidence suggests that dash invincibility frames either do not work at all
 [Discussion](https://tickets.deeznuts.moe/transcripts/magatsu-mitake-narukami-no-mikoto-attack-pushes-characters-upward)
 
 **Finding:**  
-**Musou no Hitotachi** can yeet characters upward. By getting above the boss through xiao's jump, kazuha's skill, or keqing's skill, or venti's skill the character will be pushed upward due to this, allowing them to dodge the attack and get far above the boss.
+**Musou no Hitotachi** can yeet characters upward. By getting above the boss through xiao's jump, kazuha's Skill, or keqing's Skill, or venti's Skill the character will be pushed upward due to this, allowing them to dodge the attack and get far above the boss.
 
 **Evidence:**
 
@@ -497,7 +497,7 @@ Cool way to dodge the attack.
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/iXnr9uPu6ZU)
+* [YouTube](https://youtu.be/iXnr9uPu6ZU)
   * 0:00 Chongyun E
   * 0:25 Kaeya E
   * 0:30 Aloy Q
@@ -505,7 +505,7 @@ Cool way to dodge the attack.
   * 0:45 Chongyun Q
   * 0:54 Less than 2U Cryo application not working.
   * 1:19 Bennett, Diona and Raiden E not working.
-* [Youtube](https://youtu.be/I0NNtBSx-z0)  
+* [YouTube](https://youtu.be/I0NNtBSx-z0)  
   2 Baron Bunnies have enough Pyro app. to wipe the Hydro and start the Swirl conundrum.
 
 **Significance:** Free damage on the cube.
@@ -529,7 +529,7 @@ Cryo Regisvine possibly has 2 hurtboxes/1 extended hurtbox for its main body and
 
 [Imgur - Mcpie\#8672](https://imgur.com/a/nbOZFdN): XL does 1U to core HP
 
-* In Mcpie\#8672's video, upon casting Pyronado, only the 1st initial swing applied Pyro, whereas Pyronado does not. This is firstly due to the first 3 swings having standard ICD and hence only 1 applies pyro. Secondly, it also shows that Pyronado is unable to reach the hurtbox of the core, supporting the theory.
+* In Mcpie\#8672's video, upon casting Pyronado, only the 1st initial swing applied Pyro, whereas Pyronado does not. This is firstly due to the first 3 swings having standard ICD and hence only 1 applies Pyro. Secondly, it also shows that Pyronado is unable to reach the hurtbox of the core, supporting the theory.
 
 **Significance:**  
 This ticket is derivative of Mcpie\#8672's original ticket linked here: [Link](../../characters/pyro/xiangling.md#pyronado-only-applies-1u-to-cryo-regisvine-shield)  
@@ -546,10 +546,10 @@ Genshin spaghetti at its finest.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897646550963093554_898812202541281320_transcript-geo-mc-boulder-can-break-pillar-and-cause-hammer-attack-to-occur-with-geo-hypostasis.html)
 
 **Finding:**  
-Placing a boulder underneath the geo hypostasis at the start of the battle will cause the middle pillar to break. This then has a chance to cause the hypostasis to do a hammer attack on the player.
+Placing a boulder underneath the Geo hypostasis at the start of the battle will cause the middle pillar to break. This then has a chance to cause the hypostasis to do a hammer attack on the player.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=DJdk_zOrl-Q&ab_channel=TarZBlammo)
+[YouTube](https://www.youtube.com/watch?v=DJdk_zOrl-Q&ab_channel=TarZBlammo)
 
 **Significance:**  
 This speeds up the fight by making the Geo Hypostasis vulnerable, without having to spend extra effort to break the pillars. Keep in mind though that the vulnerability windows derived from using this method is shorter.
@@ -567,7 +567,7 @@ This speeds up the fight by making the Geo Hypostasis vulnerable, without having
 Rifthounds skulls need 3 Geo GU to be charged. They also can be charged with other elements, but it requires 38 attacks to be charged and does not depend on GU at all. Physical dmg is useless.
 
 **Evidence:**  
-38 sucrose attacks: [Youtube](https://youtu.be/Fq0zpru1Ej4)
+38 sucrose attacks: [YouTube](https://youtu.be/Fq0zpru1Ej4)
 
 **Significance:**  
 For those that enjoy suffering.
@@ -622,7 +622,7 @@ TCL currently says the 2nd phase threshold is likely exactly 70%. At WL8 lv93 ma
 
 In this [video](https://youtu.be/ABsLY93CJ6c), raiden and venti did a total of `34951+9658+12259+6446+4376+12259+6446+9658+12259+14228+9658+12259+126+126+275+325+162+162+190+190+275+325+162+126+126+275+488+162+243+314+126+126+275+325+162+162+126+126+275+325+162+162+314+126+126+275+325+243`=**152270** damage to trigger the p2 transition, which is just a little bit past the 71% threshold, but not nearly enough to reach the 70% threshold, proving that maguu kenki p2 starts at 71% HP, not 70%.
 
-Another in-game eviden by Tibo#4309: [Youtube](https://youtu.be/1ipWH_bbkzs).  
+Another in-game eviden by Tibo#4309: [YouTube](https://youtu.be/1ipWH_bbkzs).  
 `6729+6925+19512+6729+2099+19512+6729+6925+5914+6729+6925+19512+2808+6729+2099+2039+1942+3810+744+3810+572+1942+1887+1887+1887+1887+1887+572+1887`=**152641** damage.
 
 This finding is also supported by [datamine](https://imgur.com/mAbrUvb).
@@ -644,8 +644,8 @@ Polearm users with Charged Attacks that have bullet-like animations (including Z
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/QDjHgd9vwBU)
-* [Youtube](https://youtu.be/NZNyHO8G0Oc)
+* [YouTube](https://youtu.be/QDjHgd9vwBU)
+* [YouTube](https://youtu.be/NZNyHO8G0Oc)
 
 This is likely due to collision which pushes the character below the hitbox, thus missing the attack. This can be seen as there are visual indicators of the camera shifting down in the videos.
 
@@ -718,10 +718,10 @@ Factors that do not affect the result (assuming shield will sustain)
 * character defense
 * character shield strength
 * DEF% reduction applied to the enemy (c2 klee, c4 razor, a4 lisa) - tested c4 razor
-* World Level, it's always 15% or 5% hp no matter the enemy level
-* Co-Op (single player) affects the damage but only because of HP scaling - the damage is still 15% or 5% hp
+* World Level, it's always 15% or 5% HP no matter the enemy level
+* Co-Op (single player) affects the damage but only because of HP scaling - the damage is still 15% or 5% HP
 
-Additionally, in coop, if all characters have the same type of shield (C2 Diona, 4x Noelle with E up), the damage reflected is still the same. However, should there be more than one type of shields during reflect then the damage is summed. For example using Beidou E + Zhongli E on hydro Primo Geovishap reflect will result with 20% reflected damage.
+Additionally, in coop, if all characters have the same type of shield (C2 Diona, 4x Noelle with E up), the damage reflected is still the same. However, should there be more than one type of shields during reflect then the damage is summed. For example using Beidou E + Zhongli E on Hydro Primo Geovishap reflect will result with 20% reflected damage.
 
 **Evidence:**  
 Level 93 primo geovishap, it has:
@@ -731,7 +731,7 @@ Therefore, 15% is `117979.909656` and 5% is `39326.6365521`.
 Video showing 1 HP primo geovishap getting slain by Barbara - [Video](https://www.youtube.com/watch?v=rMmFso3YXkU)  
 Sequence:  
 `5% -> 5% -> 15% -> 15% -> 5% -> 15% -> 15% -> 5% -> 15% -> 5% -> 191` from Barbara  
-`5*5% + 5*15% = 25% + 75% = 100%`, due to floating precision error, a single `1` hp damage would kill it
+`5*5% + 5*15% = 25% + 75% = 100%`, due to floating precision error, a single `1` HP damage would kill it
 
 * Hydro Primo Geovishap vs Xinyan - 5% - [Video](https://www.youtube.com/watch?v=TwwpkLOsRTc)
 * Hydro Primo Geovishap vs Noelle - 15% - [Video](https://www.youtube.com/watch?v=u-2c25xjgAk)
@@ -743,11 +743,11 @@ Sequence:
 * C4 Kaeya shield on-dmg taken - no dmg reflected due to shield being too weak - [Video](https://www.youtube.com/watch?v=-IZwV5swjns)
 * Coop: 2x Zhongli, each with their own shield - 15% - [Video](https://www.youtube.com/watch?v=2thu72alIcQ)
 * Coop: Beidou + Zhongli dealt 5% + 15% percent - [Video](https://www.youtube.com/watch?v=d7q0MREFfhk)
-* Xinyan lvl 60, no artis/weapons - not enough shield hp for reflect - [Video](https://www.youtube.com/watch?v=9IJMSL-hM8c)
+* Xinyan lvl 60, no artis/weapons - not enough shield HP for reflect - [Video](https://www.youtube.com/watch?v=9IJMSL-hM8c)
 
 Legend of the Vagabond Sword:
 
-* Noelle vs reduced backlash + 175% hp - [Video](https://www.youtube.com/watch?v=MTvQ_AbdXag)
+* Noelle vs reduced backlash + 175% HP - [Video](https://www.youtube.com/watch?v=MTvQ_AbdXag)
 * Noelle vs +175%hp - [Video](https://www.youtube.com/watch?v=74ZkkfTy_tw)
 
 **Significance:**  
@@ -783,21 +783,21 @@ Better understanding of the Primordial Shower.
 **Finding:**  
 The Abyss Herald's cooldown increase debuff is triggered when you are hit by these two attacks:
 
-1. A cross hydro beam.
-2. Flurry of slashes before firing hydro beams in all directions, only happens in phase 2 \(after he shields up\)
+1. A cross Hydro beam.
+2. Flurry of slashes before firing Hydro beams in all directions, only happens in phase 2 \(after he shields up\)
 
-The cooldown debuff increases all current elemental skill/burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is an additive 6 seconds and independent of how long the original cooldown of the skill/burst is. The cooldown debuff also only affect elemental skills/bursts that are already on cooldown, so skills/bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat \(unlike Slowing Waters\).
+The cooldown debuff increases all current elemental Skill/burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is an additive 6 seconds and independent of how long the original cooldown of the Skill/burst is. The cooldown debuff also only affect elemental skills/bursts that are already on cooldown, so skills/bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat \(unlike Slowing Waters\).
 
-The cooldown debuff can be avoided by shield and elemental burst iframes.
+The cooldown debuff can be avoided by shield and Elemental Burst iframes.
 
 **Evidence:**
 
-* [Cross hydro beam increases skill cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=26s)
-* [Cross hydro beam increases burst cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=110s)
-* [Cross beam increasing both skill and burst cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=175s)
+* [Cross Hydro beam increases Skill cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=26s)
+* [Cross Hydro beam increases Burst cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=110s)
+* [Cross beam increasing both Skill and Burst cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=175s)
 * [Flurry to beams increases cooldown by 6](https://www.youtube.com/watch?v=E06M0AiW5gM&t=186s)
 * [Cooldown increase affects everyone in the party, not just the character who got hit](https://www.youtube.com/watch?v=E06M0AiW5gM&t=344s)
-* [Using your burst after getting hit is ok](https://www.youtube.com/watch?v=MR86Qt4o3gc&t=165s), so debuff only affect abilities already on cooldown.
+* [Using your Burst after getting hit is ok](https://www.youtube.com/watch?v=MR86Qt4o3gc&t=165s), so debuff only affect abilities already on cooldown.
 * [Debuff doesn’t affect CD reduction stat](https://www.youtube.com/watch?v=E06M0AiW5gM&t=257s)
 * [Shields block the cooldown debuff](https://www.youtube.com/watch?v=E06M0AiW5gM&t=66s)
 * Burst iframes block the cooldown debuff
@@ -808,7 +808,7 @@ Showing other attacks don't have the cooldown debuff:
 
 * [Phase 1 combo doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=6s)
 * [Beyblade attack doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=14s)
-* [Regular hydro beam doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=19s)
+* [Regular Hydro beam doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=19s)
 * [Phase transition explosion doesn’t affect cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=179s)
 * [Phase 2 combo doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=375s)
 
@@ -825,7 +825,7 @@ Better understanding of Abyss Herald mechanics, and which attacks in particular 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865014289025466392_865729755093008415_transcript-bubble-persists-on-swap.html)
 
 **Finding:**  
-The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds
+The bubble from the Hydro Abyss Mages and their Hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the Hydro bubble will persist on the character that was initially hit for approximately 5 seconds
 
 **Evidence:**
 
@@ -855,22 +855,22 @@ Rifthounds (big ones, not the whelps) can be forced into a state where they are 
 **Evidence:**
 
 * Jean CA  
-   [Youtube](https://www.youtube.com/watch?v=fp-zPYJBDBk)
+   [YouTube](https://www.youtube.com/watch?v=fp-zPYJBDBk)
 
 * Jean Hold E (Credits to Kolibri\#7675)  
-   _Note: Need to aim skill upwards._  
-   [Youtube](https://youtu.be/4UxuWv0AzGs)
+   _Note: Need to aim Skill upwards._  
+   [YouTube](https://youtu.be/4UxuWv0AzGs)
 
 * Klee CA (Credits to pai\#3602)  
-   [Youtube](https://youtu.be/Zu83De-4sV4)
+   [YouTube](https://youtu.be/Zu83De-4sV4)
 
 * Bennett Skill (Level 2-Hold)  
    _Note: Hold E Level 1 will not work. (Shown in Video)_  
-   [Youtube](https://youtu.be/u1EDD74pHs8)
+   [YouTube](https://youtu.be/u1EDD74pHs8)
 
 * Diluc Burst (Credits to Kolibri#7675)  
    _Note: Only the final hit will work._  
-   [Youtube](https://youtu.be/cT1HZcx5TW0)
+   [YouTube](https://youtu.be/cT1HZcx5TW0)
 
 **Significance:**  
 Better understanding of enemy interactions.
@@ -891,7 +891,7 @@ Corrosion damage stacks are independent of each other, lasts for 10 seconds, dea
 1. Each tick damage is constant for each character as long as no additional stacks are acquired when stacks already exist
 2. Characters with higher HP take more tick damage
 3. Tick damage is unrelated to current HP unless off-field and below the HP threshold in corrosion description
-4. Proportionally, characters with lower max hp lose more % of their max hp per second
+4. Proportionally, characters with lower max HP lose more % of their max HP per second
 5. Tick damage is additive based on stacks, for example the tick damage from 3 stacks is 3 times the amount of the damage from 1 stack
 
 Raw data is attached as an excel file and videos are included below:
@@ -904,7 +904,7 @@ Raw data is attached as an excel file and videos are included below:
 
 Corrosion DMG Calc: [Spreadsheet](https://docs.google.com/spreadsheets/d/1MwTJoMBaK2zowbJtAkoFFYo-i2S4J43ItY30AF6Qk58)
 
-**Evidence 2:** Since tick damage has been established as constant, I've included data from @Lindon and transcribed max hp vs tick damage into a table (attached). These values were used in a linear regression using the following R code:
+**Evidence 2:** Since tick damage has been established as constant, I've included data from @Lindon and transcribed max HP vs tick damage into a table (attached). These values were used in a linear regression using the following R code:
 
 ```R
 require(dplyr)
@@ -917,14 +917,14 @@ ggplot(data, aes(x = max_hp, y = tick_damage)) + geom_point() + theme_bw()
 
 This produces a linear equation of `tick_damage = 75.09 + 0.004993 * max_hp`
 
-Decimal points here are likely due to rounding issues, since there can be a variation of 1 HP in the corrosion ticks. Rounded to a reasonable number, the equation will instead be `tick_damage = 75 + 0.005 * max_hp` or 75 + 0.5% max hp
+Decimal points here are likely due to rounding issues, since there can be a variation of 1 HP in the corrosion ticks. Rounded to a reasonable number, the equation will instead be `tick_damage = 75 + 0.005 * max_hp` or 75 + 0.5% max HP
 
 Tick DMG: [Spreadsheet](https://docs.google.com/spreadsheets/d/1jsALb7bEzAqzaZ_AZ2S3ZdLjlVCeo-e1009kmZWn7V8)
 
 **Significance:**  
 Proves that max HP is the only variable that determines the amount of damage you take from each tick of corrosion, and that tick damage from corrosion stacks is completely independent of each other. Characters with higher HP will take more damage overall, while characters with lower max HP take lower tick damage but loses a higher proportion of their health.
 
-Bonus: Predicted HP loss per stack based on character max hp using the equation above  
+Bonus: Predicted HP loss per stack based on character max HP using the equation above  
 1k HP -> 800hp/stack  
 5k HP -> 1000hp/stack  
 10k HP -> 1250hp/stack  
@@ -942,13 +942,13 @@ These values are total loss per stack, for damage per tick simply divide each nu
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904216944394256414_904866160300933151_transcript-corrosion-update.html)
 
 **Finding:**  
-Each corrosion stack from Rifthounds does 0.5% max hp damage, once per second for 10 total ticks, dealing 5% of max hp in total.  
+Each corrosion stack from Rifthounds does 0.5% max HP damage, once per second for 10 total ticks, dealing 5% of max HP in total.  
 Corrosion from big and small Rifthounds deal the same damage.  
 Stacks are additive and independent.
 
 **Evidence:**
 
-* Does 0.5% max hp damage to Zhongli, and off-field party, through his shield: [imgur](https://imgur.com/v36CSSF)
+* Does 0.5% max HP damage to Zhongli, and off-field party, through his shield: [imgur](https://imgur.com/v36CSSF)
 * Big and small Rifthounds deal the same damage: [imgur](https://imgur.com/BIg8Lki)
 * Multiple stacks deal damage with independent durations and independent damage tick intervals: [imgur](https://imgur.com/JcgR54Z)
 
@@ -968,7 +968,7 @@ Better understanding of Corrosion status.
 Mirror Maiden has two states she can be in.
 
 First state — can be CC'ed, staggered, yeet'ed by Jean. Teleport can be prevented by T2 and above stagger. I'll call it "Weak" state for simplicity.
-Second state — can not be CC'ed, staggered, yeet'ed. She has exactly the same immunities Fatui Skirmishers have with energy armour up. Expect you can't drain MM's energy armour in any way, it is permanent. Has 5 attacks. Teleport can no be prevented. I'll call it "Strong" state. Official name is "Polarized" or something like that.
+Second state — can not be CC'ed, staggered, yeet'ed. She has exactly the same immunities Fatui Skirmishers have with Energy armour up. Expect you can't drain MM's Energy armour in any way, it is permanent. Has 5 attacks. Teleport can no be prevented. I'll call it "Strong" state. Official name is "Polarized" or something like that.
 
 In "Weak" state she has only 3 basic attacks. First attack will summon 3 mirrors in triangular pattern, with at least one mirror's hitbox always reaching active character. Mirrors explode after short delay. Second attack is 1 to 3 waterballs that travel in a straight line. Third one is special, as it triggers automatically when MM is hit in melee. She can be staggered and it will still be cast. This attack summons only one mirror directly underneath her that will explode after very short delay.
 
@@ -1009,13 +1009,13 @@ Some characters and abilities can escape the Fatui mirror maiden's trap.
 * Kazuha (skill)
 * Keqing (N5, skill recast)
 * Lisa (N3/N4 teleport)
-* Mona (N3, hold skill, alternate sprint)
+* Mona (N3, hold Skill, alternate sprint)
 * Rosaria (charged attack, skill)
 * Sara (skill)
-* Sayu (hold skill)
-* Venti (hold skill)
+* Sayu (hold Skill)
+* Venti (hold Skill)
 * Xiangling (charged attack)
-* Xiao (skill, enhanced jump during burst)
+* Xiao (skill, enhanced jump during Burst)
 * Zhongli (charged attack, climb pre-placed pillar, pillar despawn)
 * Overworld (climb object, get knocked out by enemy)
 
@@ -1027,7 +1027,7 @@ Helpful for Spiral Abyss floor 12.
 
 ### Mitachurl
 
-#### Standing on Geo MC E skill Restricts Mitachurls to Slime-Throwing Attacks Only
+#### Standing on Geo MC E Skill Restricts Mitachurls to Slime-Throwing Attacks Only
 
 **By:** maxtrouble\#3719  
 **Added:** <Version date="2020-12-19" />  
@@ -1091,12 +1091,12 @@ Some attacks other than fully-charged bow CAs can stun Ruin Guards. This include
 
 * Chongyun A4: [YouTube](https://youtu.be/6wwf1LnfIbI)
 
-This list is not exhaustive and any attack can theoretically stun the ruin guard if its core is low enough for the attack to reach it.
+This list is not exhaustive and any attack can theoretically stun the Ruin Guard if its core is low enough for the attack to reach it.
 
 **Significance:**  
 Limited practical usage, mostly fluff.
 
-#### Polearm Charge Attacks Don't Register On Stunned Ruin Guards
+#### Polearm Charged Attacks Don't Register On Stunned Ruin Guards
 
 **By:** itskhoi\#0013  
 **Added:** <Version date="2021-05-07" />  
@@ -1154,7 +1154,7 @@ When at least 25m (5 Abyss tiles) away from a Ruin Guard using its seeking-missi
 * Within 24m, you can dodge Ruin Destroyer tunnel explosion by swapping just as it fully disappears: [Imgur](https://imgur.com/5PAmgmm)
 
 **Significance:**  
-For Ruin Guards in the open world beyond 25m, the timing is quite generous. This may be useful when running away in open world or when fighting multiple ruin guards spread across a large area (Guyun Stone Forest).
+For Ruin Guards in the open world beyond 25m, the timing is quite generous. This may be useful when running away in open world or when fighting multiple Ruin Guards spread across a large area (Guyun Stone Forest).
 
 The other cases have minimal real-world usage due to very tight timing while affected by reaction speed, input lag, network latency, dropped frames, etc.
 
@@ -1190,7 +1190,7 @@ God forbid, a ruin hunter in the abyss but with this mechanic learned he's the e
 Mobs internal countdown can be used to activate weak spot on Ruin Hunter (same theory as Vegabond Event) in Spiral Abyss.
 
 **Evidence:**  
-[Youtube](https://youtu.be/Q3yzdJpC9S8): Mobs internal countdown will trigger time gated effects like Ruin Hunter: Bombardment mode and Primo Geovishap: Primordial Shower (works from Vegabond event). Such effect can be triggered if you have a long fight (ex. Ruin Hunter) in overworld.
+[YouTube](https://youtu.be/Q3yzdJpC9S8): Mobs internal countdown will trigger time gated effects like Ruin Hunter: Bombardment mode and Primo Geovishap: Primordial Shower (works from Vegabond event). Such effect can be triggered if you have a long fight (ex. Ruin Hunter) in overworld.
 
 **Significance:**  
 Might be useful for people who can't follow up Ruin Hunter agile attack pattern in Spiral Abyss.
@@ -1209,13 +1209,13 @@ Some Anemo Units can Suck Mini-Dendro Slimes even if they are Hidden.
 **Evidence:**  
 [Video](https://youtu.be/dpXMCBiyAt0) shows:
 
-1. Venti elemental burst
-2. Sucrose elemental burst
-3. Jean elemental skill (Thanks fin\#1623)
-4. Anemo MC skill & burst (Both unsuccessful)
+1. Venti Elemental Burst
+2. Sucrose Elemental Burst
+3. Jean elemental Skill (Thanks fin\#1623)
+4. Anemo MC Skill & burst (Both unsuccessful)
 
 **Significance:**  
-Provides an alternative method for eliminating annoying mini-dendro slimes.
+Provides an alternative method for eliminating annoying mini-Dendro slimes.
 
 #### Anemo Slimes get one shot in the air
 
@@ -1227,34 +1227,34 @@ Provides an alternative method for eliminating annoying mini-dendro slimes.
 **Finding:**  
 Anemo slimes at any level will instantly die if they take any damage druing their airborne attacks.
 
-**Evidence:** When it jumps into the air for its “bombardment” attack it was killed by an artifact-less lvl 15 amber with a lvl 1, 1\* weapon. Notably the slime did not die when hit by Sucrose’s attacks, as anemo slimes are immune to anemo.
+**Evidence:** When it jumps into the air for its “bombardment” attack it was killed by an artifact-less lvl 15 amber with a lvl 1, 1\* weapon. Notably the slime did not die when hit by Sucrose’s attacks, as Anemo slimes are immune to Anemo.
 
 Large Anemo Slime test: [Video](https://youtu.be/kFiRHG2WZ9s)  
 Amall Anemo Slimes test: [Video](https://youtu.be/T3v7y7-NqTE)
 
 **Significance:**  
-If anemo slimes are ever introduced to the abyss, this information could be useful.
+If Anemo slimes are ever introduced to the abyss, this information could be useful.
 
 #### Hydro Slimes Apply Wet to Surroundings
 
 **By:** Rainfury\#8343  
 **Added:** <Version date="2021-10-25" />  
 **Last tested:** <VersionHl date="2021-10-25" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883264842931257425_902081518808203324_transcript-hydro-slimes-apply-wet-to-surrounding-in-certain-situations.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883264842931257425_902081518808203324_transcript-Hydro-slimes-apply-wet-to-surrounding-in-certain-situations.html)
 
 **Finding:**  
-Hydro slimes will apply hydro to both enemies and allies in their surroundings when they land from bouncing (after three hops for small slimes, every hop for large slimes), when they are hit by an attack, including attacks which they are immune to, and when they are unfrozen or shatter removes them from a frozen state. Hydro slimes will not apply hydro if they are frozen. This elemental application will not trigger damaging reactions.
+Hydro slimes will apply Hydro to both enemies and allies in their surroundings when they land from bouncing (after three hops for small slimes, every hop for large slimes), when they are hit by an attack, including attacks which they are immune to, and when they are unfrozen or shatter removes them from a Frozen state. Hydro slimes will not apply Hydro if they are Frozen. This elemental application will not trigger damaging reactions.
 
 **Evidence:**
 
-* Hydro application from bounces: [Youtube](https://youtu.be/nckb-u6WBu8), [Youtube](https://youtu.be/1JNVta6C2GY)
-* Hydro application upon hit: [Imgur](https://imgur.com/a/1kkpMhr), [Imgur](https://imgur.com/a/0VciMcu), [Youtube](https://youtu.be/q-avodAKeEs), [Youtube](https://youtu.be/LpnIyFNejBw)
-* Hydro application upon unfreeze: [Youtube](https://youtu.be/nRTK21ZQSSU), [Youtube](https://youtu.be/iOYamVjMRhU)
-* No hydro application when frozen: [Imgur](https://imgur.com/a/YDww90R)
+* Hydro application from bounces: [YouTube](https://youtu.be/nckb-u6WBu8), [YouTube](https://youtu.be/1JNVta6C2GY)
+* Hydro application upon hit: [Imgur](https://imgur.com/a/1kkpMhr), [Imgur](https://imgur.com/a/0VciMcu), [YouTube](https://youtu.be/q-avodAKeEs), [YouTube](https://youtu.be/LpnIyFNejBw)
+* Hydro application upon unfreeze: [YouTube](https://youtu.be/nRTK21ZQSSU), [YouTube](https://youtu.be/iOYamVjMRhU)
+* No Hydro application when Frozen: [Imgur](https://imgur.com/a/YDww90R)
 * No trigger on damaging reactions: [Imgur](https://imgur.com/a/Isc993K)
 
 **Significance**  
-Better understanding of enemy and character aura management in combat with hydro slimes.
+Better understanding of enemy and character aura management in combat with Hydro slimes.
 
 #### Slime Balloon
 
@@ -1264,15 +1264,15 @@ Better understanding of enemy and character aura management in combat with hydro
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881262532914974720_882077997841133618_transcript-slime-balloon-mechanics.html)
 
 **Finding:**  
-Slime Balloons from commissions can only receive a cryo aura similar to Amber’s Baron Bunny. Cryo swirl, superconduct, freeze, forward melt, shatter, and crystallize reactions can be triggered on them. However, superconduct does not reduce physical resistance, cryo swirl with 4pc VV does not reduce cryo resistance, and freeze does not actually stop the Slime Balloon from moving.
+Slime Balloons from commissions can only receive a Cryo aura similar to Amber’s Baron Bunny. Cryo Swirl, Superconduct, Freeze, forward Melt, shatter, and Crystallize reactions can be triggered on them. However, Superconduct does not reduce Physical resistance, Cryo Swirl with 4-Piece VV does not reduce Cryo resistance, and Freeze does not actually stop the Slime Balloon from moving.
 
 **Evidence:**  
-[Youtube](https://youtu.be/ohQrwzEiTUE) - Kazuha’s skill cannot infuse pyro, hydro, or electro off of the Slime Balloon:
+[YouTube](https://youtu.be/ohQrwzEiTUE) - Kazuha’s Skill cannot infuse Pyro, Hydro, or Electro off of the Slime Balloon:
 
-Reactions: [Youtube](https://youtu.be/2W-3D2muB9c), [Youtube](https://youtu.be/Yj0XMOYfNCI)
+Reactions: [YouTube](https://youtu.be/2W-3D2muB9c), [YouTube](https://youtu.be/Yj0XMOYfNCI)
 
-Kaeya’s skill (noncrit) does 1339 damage both before and after cryo is swirled with Kazuha. His N1 does not deal increased damage after superconduct is triggered: [Youtube](https://youtu.be/fbWZhi2WRLE).  
-Zhongli's universal res shred also has no effect (tested Barbara's N1 and Kaeya's skill): [Youtube](https://youtu.be/8p57ILh8YVg)
+Kaeya’s Skill (noncrit) does 1339 damage both before and after Cryo is swirled with Kazuha. His N1 does not deal increased damage after Superconduct is triggered: [YouTube](https://youtu.be/fbWZhi2WRLE).  
+Zhongli's universal res shred also has no effect (tested Barbara's N1 and Kaeya's Skill): [YouTube](https://youtu.be/8p57ILh8YVg)
 
 **Significance:**  
 With this knowledge you can finish your commissions 2 seconds faster.
@@ -1308,7 +1308,7 @@ Defeating a specter does not proc any of the kill-based effects in the game.
 
 * Passive: Defeating an opponent restores 16% HP.
   * HP before kill: 7102
-  * HP after kill: 7102 - 1389x2+1737 (hydro dmg) = 2585
+  * HP after kill: 7102 - 1389x2+1737 (Hydro dmg) = 2585
   * No heals obtained from kill, no healing indicator.
 
 [AMC's Second Wind (A4) on Specter Kill - Credit to CellistiaCat#1700 for noting this](https://youtu.be/_KeAfcKTKAE):

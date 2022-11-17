@@ -16,7 +16,7 @@ So far it is understood that Anemo abilities with Absorption will always absorb 
 * Environmental effects that inflict the above elements
 * Hydro, Pyro, and Electro but not Cryo charged arrows
 
-This means that it is insufficient to simply attack the Anemo ability with an elemental skill or infused weapon. If the skill has the capability to infuse the character with an absorbable element, then the character can then touch the ability to trigger absorption, or alternatively an enemy can be used as a carrier. The character touching the ability prior to Absorption can also trigger some on-hit-taken effects.
+This means that it is insufficient to simply attack the Anemo ability with an elemental Skill or infused weapon. If the Skill has the capability to infuse the character with an absorbable element, then the character can then touch the ability to trigger absorption, or alternatively an enemy can be used as a carrier. The character touching the ability prior to Absorption can also trigger some on-hit-taken effects.
 
 ## Absorption Priority
 
@@ -36,7 +36,7 @@ When there are multiple elements in range of the Anemo ability it will absorb ac
 
 Aura-checks are zero-damage attacks produced by Anemo Absorption attacks to check for Auras.
 
-* Aura-checks have different verticalities to their original attack, have set frequencies which differ per skill/burst, and can trigger some passive talents that activate on hit.
+* Aura-checks have different verticalities to their original attack, have set frequencies which differ per Skill/burst, and can trigger some passive talents that activate on hit.
 * Aura-checks can hit cats.
 * For more information about their properties, see the [Vault Entry](../../evidence/combat-mechanics/elemental-effects/elemental-absorption.md#aura-check-properties).
 

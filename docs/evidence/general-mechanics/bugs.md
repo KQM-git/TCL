@@ -52,15 +52,15 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **Bug:** Elemental Skills' and Bursts' CDs do not get reset upon retrying an Abyss floor
 
-**Evidence:** In the first 5 seconds of the clip, I start the Abyss floor and immediately switch to Xingqiu, a character with long CDs, in order to activate vaporize with Diluc. Xingqiu is equipped with an R1 Sacrificial Sword. In order to achieve the "perfect run", I restart the floor to try to activate Sacrificial Sword's passive. Upon restarting the floor, both Xingqiu's E and Q are off cooldown, causing me to restart the floor again.
+**Evidence:** In the first 5 seconds of the clip, I start the Abyss floor and immediately switch to Xingqiu, a character with long CDs, in order to activate Vaporize with Diluc. Xingqiu is equipped with an R1 Sacrificial Sword. In order to achieve the "perfect run", I restart the floor to try to activate Sacrificial Sword's passive. Upon restarting the floor, both Xingqiu's E and Q are off cooldown, causing me to restart the floor again.
 
-[Youtube](https://youtu.be/3_QlBz5P5B8)
+[YouTube](https://youtu.be/3_QlBz5P5B8)
 
-**Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much energy recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on elemental skills or bursts.
+**Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much Energy Recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on elemental skills or bursts.
 
 ## Artifacts
 
-### Noblesse Oblige 4pc bonus not applying to some bursts
+### Noblesse Oblige 4-Piece bonus not applying to some bursts
 
 **By:** Bobrokrot\#0111  
 **Added:** <Version date="2021-04-26" />  
@@ -68,12 +68,12 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_821732346290110474_836418290745999410_transcript-4no-bug.html)
 
 **Bug:**  
-4NO bonus sometimes does not apply to the Beidou's burst that activated the bonus and never applies to Ganyu's burst.
+4NO bonus sometimes does not apply to the Beidou's Burst that activated the bonus and never applies to Ganyu's Burst.
 
 For now these are the only two ults that have this issue. The following ults are confirmed to behave as expected: Chongyun, Amber, Kaeya, Jean, XL.
 
 **Evidence:**  
-[In this video Beidou with 4NO activates burst two times in Abyss-7 without exiting the floor](https://youtu.be/3B1KQC7rM-A). The first burst didn't snapshot the +20% atk bonus from 4NO, while 2nd burst did.
+[In this video Beidou with 4NO activates Burst two times in Abyss-7 without exiting the floor](https://youtu.be/3B1KQC7rM-A). The first Burst didn't snapshot the +20% ATK Bonus from 4NO, while 2nd Burst did.
 
 [\[Spreadsheet\] The calcs to confirm the numbers in the video:](https://docs.google.com/spreadsheets/d/1qwMllRjonYsyd6JFcmlLfqdd8fEe5lro_CchnkQISew/edit?usp=sharing)
 
@@ -96,12 +96,12 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 **Last tested:** <VersionHl date="2022-02-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_947163566954393671_transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)
 
-**Bug:** Resetting or exiting a domain does not reset elemental skill cooldowns.
+**Bug:** Resetting or exiting a domain does not reset elemental Skill cooldowns.
 
 **Evidence:**
 
-1. [Youtube](https://www.youtube.com/watch?v=J9vlL5l5MYw)
-2. [Youtube](https://www.youtube.com/watch?v=H27u5YRshiE)
+1. [YouTube](https://www.youtube.com/watch?v=J9vlL5l5MYw)
+2. [YouTube](https://www.youtube.com/watch?v=H27u5YRshiE)
 
 **Significance:** This behavior is not unique to Spiral Abyss and applies to all domains.
 
@@ -157,7 +157,7 @@ Less effort required to farm domains, also chaos
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964955562846609530_transcript-fishing-spot-prompt.html)
 
 **Bug:**  
-The fishing prompt can stay with the character far beyond the normal area under certain conditions. How long and how far it sticks are very inconsistent. The bug persists through: walking, running, sprinting, jumping, gliding, Normal Attacking, Charge Attacking, Plunge Attacking, using an Elemental Skill, using an Elemental Burst, and opening menus. The bug does not persist through a character dying. The fishing prompt can also be extended beyond its normal area by repeatedly entering and exiting the menu.
+The fishing prompt can stay with the character far beyond the normal area under certain conditions. How long and how far it sticks are very inconsistent. The bug persists through: walking, running, sprinting, jumping, gliding, Normal Attacking, Charged Attacking, Plunge Attacking, using an Elemental Skill, using an Elemental Burst, and opening menus. The bug does not persist through a character dying. The fishing prompt can also be extended beyond its normal area by repeatedly entering and exiting the menu.
 
 **Evidence:**
 
@@ -179,7 +179,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **Bug:** Unlimited respawning bushes when using Hu Tao infused with Pyro sets them on fire and then they respawn.
 
-**Evidence:** [Youtube](https://youtu.be/R5D-seBcdnU)
+**Evidence:** [YouTube](https://youtu.be/R5D-seBcdnU)
 
 **Significance:** Time to farm your eggs and lizards guys
 
@@ -196,7 +196,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **Significance:** You can view aimed mode shots in third person without any friends
 
-### 4-piece set bonuses on environment reactions
+### 4-Piece set bonuses on environment reactions
 
 **By:** Aluminum#5462  
 **Added:** <Version date="2021-06-22" />  
@@ -273,7 +273,7 @@ The damage is likely counted as from plunge, as it is close to the max plunge dm
 **Finding:**  
 By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a horizontal position (as long as they are in an animation or partially clipped into a surface)
 
-Also, by climbing into a firework precisely placed on geo traveler's rock, it is possible to force the character into a 45 degree angle and plunge off, to the same effects as horizon tech, but at 45 degrees. (Currently only tested to be possible with the teen female character model)
+Also, by climbing into a firework precisely placed on Geo traveler's rock, it is possible to force the character into a 45 degree angle and plunge off, to the same effects as horizon tech, but at 45 degrees. (Currently only tested to be possible with the teen female character model)
 
 Credit to the original [Horizon Tech](./bugs#horizon-tech)
 
@@ -331,14 +331,14 @@ Another strange place other than Leg Break Bridge where you can kill yourself wi
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_838967062184984636_854582115995877397_transcript-high-ping-multiple-orbital-application.html)
 
 **Finding:**  
-Xingqiu's orbital rain swords can apply hydro multiple times in a short duration with high ping. The higher the ping, the more times the orbitals will apply hydro.
+Xingqiu's orbital rain swords can apply Hydro multiple times in a short duration with high ping. The higher the ping, the more times the orbitals will apply Hydro.
 
 **Evidence:**  
 High Ping Test: <https://youtu.be/k2f2aAR4AS4>  
 Low Ping Test: <https://www.youtube.com/watch?v=KJTw7EnDtNU&ab_channel=Ayzel>
 
 **Significance:**  
-Fast shield-breaking tech, can apply hydro very fast to allow more vapes in Xingqiu teams where pyro units would typically apply too much pyro to consistently vape pyro hits.
+Fast shield-breaking tech, can apply Hydro very fast to allow more vapes in Xingqiu teams where Pyro units would typically apply too much Pyro to consistently vape Pyro hits.
 
 ### Lag and Snapshot Interactions
 
@@ -347,7 +347,7 @@ Fast shield-breaking tech, can apply hydro very fast to allow more vapes in Xing
 **Last tested:** <VersionHl date="2021-04-19" />  
 _\*\*_[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_826181971545292880_834198195352764446_transcript-lag-and-snapshot-interactions.html)
 
-**Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
+**Finding:** Skills that snapshot character stats like attack and HP are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
 
 Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are applied server-side, and from the findings lag doesn't cause any unexpected damage numbers. This probably implies all damage done is calculated by the server, but using the stats sent from the player client.
 
@@ -372,7 +372,7 @@ Clipping a Fruit Stand into landmasses allows your character to climb and stand 
 [The Origins](https://clips.twitch.tv/BlatantFastWormHoneyBadger-MrSq60fPLHNl1MtP)  
 [Guide to Spaghetti Impact](https://clips.twitch.tv/BoringFancySeahorseDeIlluminati-hy_WFgh9GZqZXFJL)
 
-[Youtube Playlist](https://www.youtube.com/playlist?list=PL4o3wWS22uTwgJjwS9OUC4BEGBaq7Wk5w)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL4o3wWS22uTwgJjwS9OUC4BEGBaq7Wk5w)
 
 [The sacrifices made to get this far](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/bugs.md/discord/attachments_847367901518626846_847872555397677127_Genshin_Impact_2021.05.28_-_23.14.52.17.mp4)
 
@@ -455,14 +455,14 @@ Just another one amongst annoying Fatui _mechanics_.
 **Added:** <Version date="2021-04-05" />  
 **Last tested:** <VersionHl date="2021-04-05" />
 
-**Finding:** Energy Particles don't stop moving even when you open a pause menu. You can absorb particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
+**Finding:** Energy Particles don't stop moving even when you open a pause menu. You can absorb Particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
 
 **Evidence:**
 
 * [https://youtu.be/7H84lGcZf8s](https://youtu.be/7H84lGcZf8s)
 * [https://imgur.com/a/770PQ9Y](https://imgur.com/a/770PQ9Y)
 
-**Significance:** Allows characters to quickly absorb particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
+**Significance:** Allows characters to quickly absorb Particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
 
 ### Xiangling's Burst can Stack in Contending Tides Event
 
@@ -470,7 +470,7 @@ Just another one amongst annoying Fatui _mechanics_.
 **Added:** <Version date="2021-04-09" />  
 **Last tested:** <VersionHl date="2021-04-09" />
 
-**Bug:** Xiangling's burst can stack in the Contending Tides event.
+**Bug:** Xiangling's Burst can stack in the Contending Tides event.
 
 [Imgur](https://i.imgur.com/pHOzDAr.png)
 
@@ -483,18 +483,18 @@ Just another one amongst annoying Fatui _mechanics_.
 
 **Process:**
 
-1. **I**n the contending tides event, cast Xiangling's burst.
-2. After casting Xiangling's burst, immediately press M to enter the map, and then press P to abandon challenge.
+1. **I**n the contending tides event, cast Xiangling's Burst.
+2. After casting Xiangling's Burst, immediately press M to enter the map, and then press P to abandon challenge.
 3. Teleport to a statue of the seven, wait a couple seconds, and then teleport back to the contending tides arena.
 4. Start a contending tides challenge, and any stacked bursts will appear. If you're on the first cycle, only one pyronado will appear.
-5. Quickly charge Xiangling's burst \(I used 4 pyro characters + around 250% ER to do this\) and cast Xiangling's burst.
-6. After casting Xiangling's burst, press M to enter map and press P to abandon challenge.
+5. Quickly charge Xiangling's Burst \(I used 4 Pyro characters + around 250% ER to do this\) and cast Xiangling's Burst.
+6. After casting Xiangling's Burst, press M to enter map and press P to abandon challenge.
 7. Repeat until you have many bursts stacked.
 
 **Additional Notes:**
 
-* This causes Xiangling's burst to last for a REALLY long time \(about 45-ish seconds\)
-* These stacks can be maintained in the open world, so if you want to do something like kill the cryo regisvine in 4 seconds you can do that
+* This causes Xiangling's Burst to last for a REALLY long time \(about 45-ish seconds\)
+* These stacks can be maintained in the open world, so if you want to do something like kill the Cryo regisvine in 4 seconds you can do that
 * You have to press M and then P in quick succession, because you can't abandon challenge in the map so you have to buffer it by pushing M and then P quickly[ ](https://youtu.be/V9_AoUDVKaY)
 
 ### Artifact Inventory size affects Wishing
@@ -528,7 +528,7 @@ Performing any action such as jump, attacks, dash, aim, swap, and entering a men
 **Evidence:**  
 [Imgur](https://imgur.com/tMgbyfv)
 
-Breaking free compilation: [Youtube](https://youtu.be/mtybszRN0gk)
+Breaking free compilation: [YouTube](https://youtu.be/mtybszRN0gk)
 
 Gadgets that can be used while sprinting will not cause the character to break free: [Imgur](https://imgur.com/Gup9gEv)  
 Spinning while in this state will cause the character to sink into the ground: [Imgur](https://imgur.com/Urf2h2T)  
@@ -545,7 +545,7 @@ Fluff, annoying bug when you do it by accident.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
-Venti burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
+Venti Burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
 
 **Evidence:**  
 [Video](https://www.youtube.com/watch?v=Jpxf7bD47ZY)
@@ -555,7 +555,7 @@ Clips 1 and 2 show that even when absorption happens late, the elemental infusio
 Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
 
 **Significance:**  
-When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on swirl damage if there's no element to be swirled.
+When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on Swirl damage if there's no element to be swirled.
 
 ### Venti E hold visual error
 
@@ -566,7 +566,7 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 
 **Bug:** Venti's Hold Elemental Skill will always lift you vertically up
 
-**Evidence:** [Youtube](https://www.youtube.com/watch?v=N-4qXvyX75A)
+**Evidence:** [YouTube](https://www.youtube.com/watch?v=N-4qXvyX75A)
 
 Step 1. Use Venti's Hold E on a flat surface, see what direction you go  
 Step 2. Repeat but have Venti on an incline  
@@ -576,16 +576,16 @@ This may be considered a bug due to the visual indication being tilted, but the 
 
 **Significance:** When exploring, Venti's Hold Elemental Skill will always lift you up, so positioning or angle of Venti does not matter.
 
-### Mona Elemental skill bug
+### Mona Elemental Skill bug
 
 **By:** Childe C6 is overrated-Toro\#1035  
 **Added:** <Version date="2021-05-25" />  
 **Last tested:** <VersionHl date="2021-05-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842575899408203846_846689845517877268_transcript-mona-e-bug.html)
 
-**Bug:** There is a small chance that when you use Mona's Press E, the explosion damage and particle generation also happens during cast
+**Bug:** There is a small chance that when you use Mona's Press E, the explosion damage and Particle generation also happens during cast
 
-**Evidence:** [Gif](https://imgur.com/OUu1msK) [Gif](https://imgur.com/LsbvMJE) [Gif](https://imgur.com/6LG5Weq) [Gif](https://imgur.com/bssKdg2) [Gif](https://imgur.com/xjG8lzt) [Gif](https://imgur.com/1qsjnyV) [Gif](https://imgur.com/05vmozO) [Gif](https://imgur.com/3U1WAbi) As we can see in all the videos, when Mona used Press E, it did damage to the enemy and also generated particles \(the same amount of damage and particles as the Phantom explosion\).
+**Evidence:** [Gif](https://imgur.com/OUu1msK) [Gif](https://imgur.com/LsbvMJE) [Gif](https://imgur.com/6LG5Weq) [Gif](https://imgur.com/bssKdg2) [Gif](https://imgur.com/xjG8lzt) [Gif](https://imgur.com/1qsjnyV) [Gif](https://imgur.com/05vmozO) [Gif](https://imgur.com/3U1WAbi) As we can see in all the videos, when Mona used Press E, it did damage to the enemy and also generated Particles \(the same amount of damage and Particles as the Phantom explosion\).
 
 It can happen against any enemy, and it seems to be a random occurrence. It doesn't seems to follow any pattern \(in some tests it would happen 1 time in 10 mins, in others it would happen 2 times in 2 mins\). It doesn't seems to be related to Mona's Cons, Weapons, Artifacts, neither to mechanical input or ping. It doesn't happens if you use Hold E, only on Press E. Don't know if this bug happened in previous patches. Thanks to @Aluminum \| Harbinger of Jank for one of the clips.
 
@@ -684,4 +684,4 @@ This mechanic applies to the following:
 * [GMC](https://youtu.be/WlN9nLtQ7SU)
 
 **Significance:**  
-Better understanding of these characters and aimed abilities. Possible tech for some players looking for some level of skill expression, despite how benign it is.
+Better understanding of these characters and aimed abilities. Possible tech for some players looking for some level of Skill expression, despite how benign it is.

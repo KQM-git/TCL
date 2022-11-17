@@ -437,7 +437,7 @@ Special ores from The Chasm don't just look different, they also have different 
 * Cheapest Revive: Teyvat Fried Egg, 180 Mora if bought from restaurant
 * Most Mora-efficient sprinting stamina reduction: Lotus Seed and Bird Egg Soup, 850 Mora
 
-As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food. However, the cost calculations are included in the spreadsheet.
+As other effects such as ATK buffs and CRIT Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food. However, the cost calculations are included in the spreadsheet.
 
 **Significance:** players who frequently use food and are looking to save Mora can see which foods are cheapest/most Mora-efficient for their given effects.
 
@@ -599,7 +599,7 @@ There is no quick method to reset tree resources beyond hitting an 11th tree and
 Attacks that shake untouched trees, including enemy attacks, can allow them to be harvested using a small number of Elemental Skills in a short window. We explored this to find several things.
 
 * Shaking a tree marks it as a target for a wider variety of skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
-* All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
+* All Physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
 * Marks last a very short time
 * Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload.
 
@@ -678,7 +678,7 @@ Even after farming one tree type to the cap, it will still register in the 11 tr
 
 **Evidence:**
 
-[Youtube](https://youtu.be/IQjXqPlfX5M)
+[YouTube](https://youtu.be/IQjXqPlfX5M)
 
 In the video, thoma hits 4 birch trees that do not drop wood, this is either caused by a.) being in memory as a tree 1-11 or b.) the daily wood cap was hit for birch specifically. Next, 5 fir trees and 2 cuihua trees were cut, all dropping wood. Going back to the birch trees resulted no new wood drops, and since those are 11 trees hit in total it is impossible for all of the birch trees to be "in memory", so the only reason they wouldn't drop wood is that birch daily limit has been reached. 2 additional fir trees were cut and dropped wood, so capped wood types do count in the tree chopping memory mechanics.
 
@@ -719,7 +719,7 @@ Melee attacks infused with elements usually cannot chop wood from trees.
 
 **Evidence:**  
 Chongyun and Ayaka infusions prevent wood chopping - [YouTube](https://youtu.be/cJEkFctLa4g)  
-Ayato _can_ chop wood during his skill's infusion _if_ activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation) - [YouTube](https://youtu.be/Bs80TnoJMyI)
+Ayato _can_ chop wood during his Skill's infusion _if_ activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation) - [YouTube](https://youtu.be/Bs80TnoJMyI)
 
 **Significance:**  
 Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at chopping wood.

@@ -1,7 +1,7 @@
 ---
 description: >-
   Lowly life forms of minimal intelligence, made from condensed elemental
-  energy.
+  Energy.
 sidebar_position: 2
 ---
 
@@ -15,8 +15,8 @@ No weakspot.
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 60% HP       | 1 particle | Own element |
-| Death        | 1 particle | Own element |
+| 60% HP       | 1 Particle | Own element |
+| Death        | 1 Particle | Own element |
 
 ## Resistance Table
 
@@ -92,7 +92,7 @@ It has also taken on the weaknesses of the Dendro element, and will burn intense
 
 ## Attacks
 
-* When coming near it, it will hide underground. They will remain hidden until the player turns their back and walks away, in which case it'll take a peek for safety. If it's safe, it will relocate closer to the player's position, and if close enough it will attack the player with a pounce attack. If the player turns around during the peek or reposition, it will panic and run away from the player, going back to hiding. They can also be pushed out of hiding if they are either forcefully pulled out of the earth, or burnt with a pyro attack. The Dendro Slime will be ignited for large amounts of damage when entering contact with pyro aura. Once out of the ground, it will act like a normal slime, distancing it's self in order to attack the player with pounce attack.
+* When coming near it, it will hide underground. They will remain hidden until the player turns their back and walks away, in which case it'll take a peek for safety. If it's safe, it will relocate closer to the player's position, and if close enough it will attack the player with a pounce attack. If the player turns around during the peek or reposition, it will panic and run away from the player, going back to hiding. They can also be pushed out of hiding if they are either forcefully pulled out of the earth, or burnt with a Pyro attack. The Dendro Slime will be ignited for large amounts of damage when entering contact with Pyro aura. Once out of the ground, it will act like a normal slime, distancing it's self in order to attack the player with pounce attack.
 
 </TabItem>
 
@@ -116,7 +116,7 @@ Upon entering combat, they will first distance themselves from their target. Aft
 
 ![](/img/enemy/elemental/Enemy_Geo_Slime_Icon.webp)
 
-Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling.
+Generally speaking, the crust of the earth is filled with Geo Energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling.
 
 ## Attacks
 

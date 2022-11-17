@@ -90,8 +90,8 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
-* If you dash cancel Sucrose's Skill and switch characters too fast, no particles will be generated.
+* When cancelled by a dash, the Particles created by this Skill are spawned on the direction where Sucrose is facing.
+* If you dash cancel Sucrose's Skill and switch characters too fast, no Particles will be generated.
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.
 
 </TabItem>
@@ -160,7 +160,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * A4 snapshots Sucrose's **Elemental Mastery**.
-* A4 also always activates _after_ **Instructor** 4pc set bonus within the same proc.
+* A4 also always activates _after_ **Instructor** 4-Piece set bonus within the same proc.
 * A4 effect can be triggered even when Sucrose is not on the field.
 * A4 effect is dynamic in multiswirl situations.
 * A4 shares 20% of Kazuha's C2 EM.
@@ -178,7 +178,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* If you cancel by a dash then use the skill again too quick, it won't produce extra particles.
+* If you cancel by a dash then use the Skill again too quick, it won't produce extra Particles.
 
 </TabItem>
 

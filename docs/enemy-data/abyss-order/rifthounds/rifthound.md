@@ -13,9 +13,9 @@ None.
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 66% HP       | 1 particle | Own element |
-| 33% HP       | 1 particle | Own element |
-| Death        | 1 particle | Own element |
+| 66% HP       | 1 Particle | Own element |
+| 33% HP       | 1 Particle | Own element |
+| Death        | 1 Particle | Own element |
 
 ## Resistance Table
 
@@ -60,7 +60,7 @@ They do display certain biological behaviors similar to those of real wolves. Pe
 * The Rifthound swipes at the player with their claws.
 * The Rifthound temporarily turns invisible to attack the player from another direction.
 * If struck with the same element of their affinity, they will accumulate Rage. When filled, their attacks become more dangerous but their resistance against their aligned element decreases.
-* If the player is far away, they will charge a ball of energy on their tails and launch it at the player.
+* If the player is far away, they will charge a ball of Energy on their tails and launch it at the player.
 * The Rifthound dive bombs the player in a manner similar to the Thunder Manifestation.
 
 </TabItem>
@@ -78,7 +78,7 @@ Once upon a time, they ran riot across the continent, but they went extinct for 
 * The Rifthound swipes at the player with their claws.
 * The Rifthound temporarily turns invisible to attack the player from another direction.
 * If struck with the same element of their affinity, they will accumulate Rage. When filled, their attacks become more dangerous but their resistance against their aligned element decreases.
-* If the player is far away, they will charge a ball of energy on their tails and launch it at the player.
+* If the player is far away, they will charge a ball of Energy on their tails and launch it at the player.
 * The Rifthound dive bombs the player in a manner similar to the Thunder Manifestation.
 
 </TabItem>

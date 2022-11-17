@@ -14,10 +14,10 @@ Eye and Cores on knees. The cores will trigger headshot even when hidden, but wi
 
 | HP Threshold | Type            | Element |
 | :----------- | :-------------- | :------ |
-| 75% HP       | 1 particle+1orb | common  |
-| 50% HP       | 1 particle+1orb | common  |
-| 25% HP       | 1 particle+1orb | common  |
-| Death        | 1 orb           | common  |
+| 75% HP       | 1 Particle+1orb | common  |
+| 50% HP       | 1 Particle+1orb | common  |
+| 25% HP       | 1 Particle+1orb | common  |
+| Death        | 1 Orb           | common  |
 
 ## Resistance Table
 
@@ -58,7 +58,7 @@ Eye and Cores on knees. The cores will trigger headshot even when hidden, but wi
 
 * Fires a laser beam directly at the player. It will adjust the firing angle if its' current target moves and will preemptively cancel the attack if the target is outside of its' firing arc. The core in its' head is exposed before the attack and for as long as it fires the beam. The Ruin Grader may perform this attack if the cores of both feet are disabled, but not the core in its' head.
 
-* Fires three orbs which will try to land in a triangle formation around the player. These orbs stay on the ground for about 9 seconds and deal AoE Damage. This exposes the core in its' head for the duration of the attack.
+* Fires three Orbs which will try to land in a triangle formation around the player. These Orbs stay on the ground for about 9 seconds and deal AoE Damage. This exposes the core in its' head for the duration of the attack.
 
 * Extends both arms out toward the ground and energizes its' laser beam, quickly spinning and firing its' beam in a moderate AoE around itself. This attack is only performed if all of its' cores are disabled at once.
 

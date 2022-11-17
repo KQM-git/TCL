@@ -8,7 +8,7 @@
 * The OUN does not seem to have a time limit on how long it can be held without capturing an animal (Additionally, you can rotate a full 360 degrees while holding it, but there is a maximum upper/lower angle that it can be aimed).
 * The OUN can't be used in Domains or Abyss, like most other gadgets.
 * The OUN can capture birds in midair if the player is quick enough.
-* It's possible to capture frozen boars from Dragonspine without unfreezing them.
+* It's possible to capture Frozen boars from Dragonspine without unfreezing them.
 * The OUN can be used in another player's world, regardless of guest/host status.
 * OUN has an estimated range of at least 23.46 meters.
 

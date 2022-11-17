@@ -6,7 +6,7 @@ sidebar_position: 3000
 
 The standard FPS for frame counting is 60 unless otherwise specified. Many things in Genshin Impact are affected by the game's FPS, e.g. animations, timers, and some turrets. Everything in the TCL is done with macros in order to achieve perfect frame counts \(in most cases this is the fastest possible variant of every attack\).  
 
-Different players have very different skill levels, so take that into consideration when using these frames and add accordingly. Since macros aren't often used in actual gameplay, a good starting point is adding 10 frames to every hit to account for human error.  
+Different players have very different Skill levels, so take that into consideration when using these frames and add accordingly. Since macros aren't often used in actual gameplay, a good starting point is adding 10 frames to every hit to account for human error.  
 
 ## Terminology
 

@@ -14,8 +14,8 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 60% HP       | 1 particle | common  |
-| Death        | 1 particle | common  |
+| 60% HP       | 1 Particle | common  |
+| Death        | 1 Particle | common  |
 
 ## Resistance Table
 
@@ -47,5 +47,5 @@ Head.
 ## Attacks
 
 * Starts digging in the ground for a slime of it's corresponding element. Upon finding one, it will aim, then throw it at it's target. Upon impact the slime will instantly explode.
-  * The Hilichurl may be unable to find a slime while digging in certain conditions, such as looking for a pyro slime under water. In this condition, it will continue digging until finding one.
+  * The Hilichurl may be unable to find a slime while digging in certain conditions, such as looking for a Pyro slime under water. In this condition, it will continue digging until finding one.
   * While aiming, the slime in the Hilichurl's arms may be reacted with by the player.

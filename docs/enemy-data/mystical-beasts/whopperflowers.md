@@ -8,10 +8,10 @@ Head. This weakspot is temporarily lost while charging(armored up).
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 75% HP       | 1 particle | own element |
-| 50% HP       | 1 particle | own element |
-| 25% HP       | 1 particle | own element |
-| Death        | 1 orb      | own element |
+| 75% HP       | 1 Particle | own element |
+| 50% HP       | 1 Particle | own element |
+| 25% HP       | 1 Particle | own element |
+| Death        | 1 Orb      | own element |
 
 ## Resistance Table
 
@@ -84,13 +84,13 @@ The world of Teyvat plays host to plants infused with the elements. Having gaine
 
 ## Electro whopperflower
 
-When full of Electro energy, they can unleash a strong electric current from their crowns. As such, some researchers have tried to apply them in other areas...
+When full of Electro Energy, they can unleash a strong electric current from their crowns. As such, some researchers have tried to apply them in other areas...
 
 ## Attacks
 
 * Sinks into the ground and emerges nearby.
 * With a player in melee range of the Whopperflower, it may do a short animation spinning its' leaves and doing an AoE capable of hitting a maximum of three times.
-* The Whopperflower lobs out 3 Electro orbs next to it that stay on the ground for a few seconds.
+* The Whopperflower lobs out 3 Electro Orbs next to it that stay on the ground for a few seconds.
 * The Whopperflower will close its' leaves, consuming one of the "crystals" orbiting around it. When a "crystal" is finished, it will create an Electro armor.
   The armor can be broken to prevent its' attack and stun it for ~15 seconds. If the armor is not broken for ~10 seconds, it will finish charging up its' attack.
   It will bend over, point its' top at the player, and charge up a laser blast, sending out a line of electricity on the ground in front of where the laser hit.

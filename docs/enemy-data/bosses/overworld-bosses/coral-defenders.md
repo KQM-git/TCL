@@ -8,10 +8,10 @@ description: The herd consists of a particularly powerful Bolteater Bathysmal Vi
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 75% HP       | 1 particle | Own Element |
-| 50% HP       | 1 particle | Own Element |
-| 25% HP       | 1 particle | Own Element |
-| Death        | 1 orb      | Own Element |
+| 75% HP       | 1 Particle | Own Element |
+| 50% HP       | 1 Particle | Own Element |
+| 25% HP       | 1 Particle | Own Element |
+| Death        | 1 Orb      | Own Element |
 
 ## Resistance Table
 
@@ -30,7 +30,7 @@ Coral Defenders have +20% RES to their own Element.
 
 ## Attacks
 
-* **Cleansing Shower:** Forms an orb within their mouth and launches it at the player. On hit, the orb deals minor AoE Cryo DMG or AoE Electro DMG and drains 30 Energy from the active character.
+* **Cleansing Shower:** Forms an Orb within their mouth and launches it at the player. On hit, the Orb deals minor AoE Cryo DMG or AoE Electro DMG and drains 30 Energy from the active character.
   * If the active character has less than 30 Energy, the rest of the drain is converted to True DMG which ignores shields.
   * The True DMG is affected by DEF but not RES.
 * **Spike Field:** One of the vishaps plugs its tail into the ground, creating a large field, within which ice shards or Electro Energy frequently spike from the ground at random locations, dealing Cryo DMG or Electro DMG.

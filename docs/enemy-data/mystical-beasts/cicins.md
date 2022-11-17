@@ -12,8 +12,8 @@ None.
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 60% HP       | 1 particle | own element |
-| Death        | 1 particle | own element |
+| 60% HP       | 1 Particle | own element |
+| Death        | 1 Particle | own element |
 
 ## Resistance Table
 

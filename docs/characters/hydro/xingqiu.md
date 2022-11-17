@@ -101,7 +101,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * The DMG Reduction does not take the Hydro DMG% bonus gained from Kazuha's A4 into account.
 * Increased resistance to interruption stacks with other skills of similar effects.
-* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
+* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply Hydro to enemies, even if the rain swords aren't visible
   * This occurs with the orbitals created by both Xingqiu's Skill and Burst
 * Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s.
 * Using **Guhua Sword: Fatal Rainscreen** applies a very brief 1U Hydro aura onto the character.

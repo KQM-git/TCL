@@ -20,7 +20,7 @@ Resistance can be increased by the monster themselves from many sources such as 
 
 Players can shred monster resistances via means such as:
 
-* 4pc Viridescent Venerer \(-40% to any swirled element\)
+* 4-Piece Viridescent Venerer \(-40% to any swirled element\)
 * Zhongli's Jade Shield \(-20% All elements\)
 * Superconduct \(-40% Physical\)
 * Geo Resonance \(-20% Geo\)

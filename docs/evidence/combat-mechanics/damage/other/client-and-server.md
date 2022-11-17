@@ -18,7 +18,7 @@ Numerous interactions/findings that happen with high ping, listed below.
 
 * Benny E reverse vape: [Video](https://youtu.be/9XPBA5N_vDI)
   * Number check: [Video](https://youtu.be/QMZYFYNUQAw)
-* Hutao N1 melt: [Video](https://youtu.be/EwUozvaNcPI)
+* Hutao N1 Melt: [Video](https://youtu.be/EwUozvaNcPI)
 * Electro Charged: [Video](https://youtu.be/K3PM465-9SY)
 * Overload: [Video](https://youtu.be/-CB3ThBaXSc)
 * Swirl: [Video](https://youtu.be/gtlecORkGnw)
@@ -26,7 +26,7 @@ Numerous interactions/findings that happen with high ping, listed below.
 * Crystallize: [Video](https://youtu.be/iDmUZz6fmeU)
 * Superconduct: [Video](https://youtu.be/Y9GIvuNkPog) (Works on high latency)
 
-Conclusion: Elemental reactions are updated on client, and superconduct shred still works in high latency.
+Conclusion: Elemental reactions are updated on client, and Superconduct shred still works in high latency.
 
 **HP**
 
@@ -39,11 +39,11 @@ Conclusion: Both player and enemy are granted immortality whilst under high ping
 
 **Energy**
 
-* Energy particles (Bennett E): [Video](https://youtu.be/mSHgKDCvqLk)
-* AA energy gain: [Video](https://youtu.be/1KZInSzButA)
+* Energy Particles (Bennett E): [Video](https://youtu.be/mSHgKDCvqLk)
+* AA Energy gain: [Video](https://youtu.be/1KZInSzButA)
 * Burst Gauge (Xiao Q): [Video](https://youtu.be/42BqRmrVRVc)
 
-Conclusions: Energy is not produced under high ping but will be generated when ping returns to normal. Energy particles are updated on server. However AA energy source is not refunded when back to low latency. Also, Energy is not consumed when under high ping. Energy is updated on server.
+Conclusions: Energy is not produced under high ping but will be generated when ping returns to normal. Energy Particles are updated on server. However AA Energy source is not refunded when back to low latency. Also, Energy is not consumed when under high ping. Energy is updated on server.
 
 **AI malfunction**
 
@@ -64,21 +64,21 @@ Conclusion: AI gets skewered under high ping
   * Number check: [Video](https://youtu.be/lrh_x9KYu2o)
 * EM buff (Budget venti EM share): [Video](https://youtu.be/b4Gia3dHieo)
 * CDR (Chongyun c2): [Video](https://youtu.be/IkBN09JRqcc)
-* CRIT% buff (Hutao crit share): [Video](https://youtu.be/ZPytXaOROx0)
+* CRIT% buff (Hutao CRIT share): [Video](https://youtu.be/ZPytXaOROx0)
 * ATK speed MV speed (Skyrider passive): [Video](https://youtu.be/bIaaYdjx5kw)
 * Special cases:
-  * Hutao hp <50% bonus:
+  * Hutao HP <50% bonus:
     * Hutao number check: [Video](https://youtu.be/mS5Vh9-7XnU)
-  * No 33% pyro dmg bonus: [Video](https://youtu.be/z5IKX7LrwQQ)
+  * No 33% Pyro dmg bonus: [Video](https://youtu.be/z5IKX7LrwQQ)
 
-Conclusion: DMG%, ATK%, EM buffs are updated live unless they are linked to stats that arent updated on client ie: hp thresholds
+Conclusion: DMG%, ATK%, EM buffs are updated live unless they are linked to stats that arent updated on client ie: HP thresholds
 
 **Resistance shred**
 
 * Zhong Li shred in high ping vs low ping:
   * Number check: [Video](https://youtu.be/gsJAzITzsrU)
   * High ping vid: [Video](https://youtu.be/p1WAhrsWqLg)
-* 4pc vv:
+* 4-Piece vv:
   * Number check: [Video](https://youtu.be/m-eWeZxdjcE)
   * High ping test: [Video](https://youtu.be/g59G-cOP_2s)
 
@@ -92,7 +92,7 @@ Conclusion: Fall dmg is dealt under high ping
 
 **ICD, Elemental application**
 
-* XQ E orbitals applying hydro at an insane rate: [Video](https://youtu.be/ncGZnk4bv7g)
+* XQ E orbitals applying Hydro at an insane rate: [Video](https://youtu.be/ncGZnk4bv7g)
 * ICD for infusions (Keqing E infusion): [Video](https://youtu.be/qPq9d-CFz3U)
 
 Conclusion: ICD behaves normally aside from a few exceptions, so far only XQ E seems to have a different application rate than usual.
@@ -101,7 +101,7 @@ Conclusion: ICD behaves normally aside from a few exceptions, so far only XQ E s
 
 * Benny Q: [Video](https://youtu.be/TD9kzbjXT2c) (Benny Q ignores 70% healing restriction when under high latency)
 
-Conclusion: Healing is inaccessible under high latency. Similar to hp being updated in server.
+Conclusion: Healing is inaccessible under high latency. Similar to HP being updated in server.
 
 **Shields**
 
@@ -143,7 +143,7 @@ Conclusion: Taunts behave normally under high latency
 Conclusion: Geo construct HP are calculated on client side
 
 **Significance:**  
-Bad ping breaks some mechanics in game on the server side and it could be used for meme abyss runs or be used for bad players for comfier clears if they own energy reliant characters like xiao or eula or CA spam carries like phys keqing.
+Bad ping breaks some mechanics in game on the server side and it could be used for meme abyss runs or be used for bad players for comfier clears if they own Energy reliant characters like xiao or eula or CA spam carries like phys keqing.
 
 ## Reactions are Client-side, Damage is Server-side
 

@@ -12,13 +12,13 @@ sidebar_position: 1000
 **By:** Doug\#8888
 
 **Evidence:**  
-Keqing with no artifacts on and only a Lion's Roar. I autoattacked a hilichurl, cast stiletto for electro-debuff, then autoattacked again. Here are the 2 white\(physical\) numbers recorded.
+Keqing with no artifacts on and only a Lion's Roar. I autoattacked a hilichurl, cast stiletto for Electro-debuff, then autoattacked again. Here are the 2 white\(physical\) numbers recorded.
 
 * 400dmg - no debuff
-* 469dmg - with electro aura
+* 469dmg - with Electro aura
 
 **Conclusion:**  
-Lion's Roar passive applies to all forms of damage inflicted upon electro-debuffed monsters. This means that it is not only electro-based damage being increased, but also physical damage.
+Lion's Roar passive applies to all forms of damage inflicted upon Electro-debuffed monsters. This means that it is not only Electro-based damage being increased, but also Physical damage.
 
 ### Lion’s Roar Passive Works while the Holder is Off-Field
 
@@ -34,11 +34,11 @@ Lion's Roar passive is still in effect and will boost damage even when equipped 
   * 1st wave: 161
   * 2nd wave: 183 with reduced Hydro Res
 * Same Xingqiu with base Lion's Roar and 635 total attack.
-  * 1st wave: 186 damage on electro-afflicted enemy
-  * 2nd wave: 211 damage on electro-afflicted enemy with reduced Hydro Res
+  * 1st wave: 186 damage on Electro-afflicted enemy
+  * 2nd wave: 211 damage on Electro-afflicted enemy with reduced Hydro Res
 
 **Significance:**  
-Equipping support characters with Lion's Roar/Dragon's Bane/Rainslasher that deal damage even when off screen is a viable choice to increase damage output. For example, XingQiu in an electro \(Keqing\) or pyro \(Diluc\) focused team.
+Equipping support characters with Lion's Roar/Dragon's Bane/Rainslasher that deal damage even when off screen is a viable choice to increase damage output. For example, XingQiu in an Electro \(Keqing\) or Pyro \(Diluc\) focused team.
 
 ### Weapons with Bane Passive Applies to Amplifying Reactions, but not Transformative Ones
 
@@ -50,14 +50,14 @@ Equipping support characters with Lion's Roar/Dragon's Bane/Rainslasher that dea
 Can Lions Roar, 4TS, dragon's Bane, Raven's Bow increase reaction dmg?
 
 * The answer is no, for Transformative reactions
-* But yes for Amplifying reactions \(melt and vaporize\)
+* But yes for Amplifying reactions \(melt and Vaporize\)
 
 **Evidence:**  
 Test 1: EC
 
 * [Lion's Roar](http://imgur.com/a/Okini6O)
 * [Favonius Sword](http://imgur.com/a/hZ65528)
-* both shown 1022 dmg, lion's roar doesn't boost EC dmg
+* both shown 1022 dmg, lion's roar doesn't boost Electro-Charged dmg
 
 Test 2: Overload
 
@@ -91,7 +91,7 @@ Lions Roar and other weapons that have similiar passive don’t increase transfo
 
 **By:** Cenpi\#3224
 
-**Evidence:** [YouTube](https://youtu.be/YFyRpQF_fcY) \(refer to link above for original atk values\)
+**Evidence:** [YouTube](https://youtu.be/YFyRpQF_fcY) \(refer to link above for original ATK values\)
 
 ### Blackcliff Sword Effect Persists Even if the Holder Switches Off-Field
 
@@ -128,7 +128,7 @@ From the test we can conclude that the buff can be applied to their skills even 
 **Last tested:** <VersionHl date="2021-02-04" />
 
 **Evidence:**  
-Testing was done using Diona @ around 40% crit rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% crit rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per crit\). Shielded fatui skirmishers on the other hand, does not prevent favonius from working since it does not block dmg completely like the others.
+Testing was done using Diona @ around 40% CRIT Rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% CRIT Rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a Hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per CRIT\). Shielded fatui skirmishers on the other hand, does not prevent favonius from working since it does not block dmg completely like the others.
 
 **Short demonstration**: _Streamable link lost to the sands of time_
 
@@ -146,7 +146,7 @@ Favonius weapons suffer the same drawback as sacrificial and does not provide it
 Favonius weapons passive proc per enemy against multiple targets
 
 **Evidence:**  
-Tested with R2 Favonius Sword (70% proc chance) and 100% crit rate  
+Tested with R2 Favonius Sword (70% proc chance) and 100% CRIT Rate  
 Using Xinyan E (duration 12s) to time passive cooldown
 
 Expected proc chance if the passive proc per enemy : 91%  
@@ -173,11 +173,11 @@ Favonius Weapons are more effective on character with large AOE abilities/agains
 Favonius weapon passive activation probability plotter (Desmos graph).
 
 **Evidence:**  
-The [graph](https://www.desmos.com/calculator/bkyxyzdkld) plots the probability of activating the Favonius weapons' Passive against the holder's CRIT rate, depending on the number of rotations, the number of hits per rotation and the refinement level of the weapon.
+The [graph](https://www.desmos.com/calculator/bkyxyzdkld) plots the probability of activating the Favonius weapons' Passive against the holder's CRIT Rate, depending on the number of rotations, the number of hits per rotation and the refinement level of the weapon.
 
 I will only summarize the derivation of the equation used, since the problem at hand is elementary. The assumption is that, after a hit, there are two possible ways to not activate the weapon's passive:  
-#1 Your attack deals CRIT damage but the passive doesn't activate, with the probability P1 = C × \(5-R\)/10 and  
-#2 Your attack doesn't deal CRIT damage, with the probability 1 - C,
+#1 Your attack deals CRIT DMG but the passive doesn't activate, with the probability P1 = C × \(5-R\)/10 and  
+#2 Your attack doesn't deal CRIT DMG, with the probability 1 - C,
 
 where C and R are the CRIT Rate and Weapon Refinement Level, respectively. After h hits, there's then 2^h different ways to not activate the passive. However, most different ways haven't a unique probability of occurring. This makes it possible to simplify the total probability of not activating the passive to (P1 + P2)^h. This expression is then subtracted from 1 to give the probability of activating the passive, and this is raised to n to get the probability for n rotations. The inverse function is also included in the graph.
 
@@ -186,7 +186,7 @@ Offers an easy way to visualize how the probability changes with the CRIT Rate. 
 
 ## Infusion Series
 
-### Crescent Pike Procs Benefit From All Relevant Damage Bonuses
+### Crescent Pike Procs Benefit From All Relevant DMG Bonuses
 
 **By:** Xreejan\#1180  
 **Added:** <Version date="2022-07-19" />  
@@ -197,8 +197,8 @@ Offers an easy way to visualize how the probability changes with the CRIT Rate. 
 Crescent Pike Procs benefit from all relevant damage bonuses
 
 **Evidence:**  
-Pike Procs without geo resonance does 66 damage per proc: [Imgur](https://imgur.com/FSn7VI8)  
-Pike Procs with geo resonance does 73 damage per proc: [Imgur](https://imgur.com/1EX5Oom)
+Pike Procs without Geo resonance does 66 damage per proc: [Imgur](https://imgur.com/FSn7VI8)  
+Pike Procs with Geo resonance does 73 damage per proc: [Imgur](https://imgur.com/1EX5Oom)
 
 Pike Procs with 4LW and 4TS:  
 Thanks to EatYourVeggies#7493 for providing the clips for 4LW and 4TS
@@ -225,7 +225,7 @@ Similar to how Skyward Weapon procs benefit from Physical damage bonus. Crescent
 **Theory/Finding/Bug:** Millennial Effect Overlap Behavior
 
 **Evidence:**  
-Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. IE Elegy at R5 produces a 40% ATK bonus and a 200 EM bonus for the team however an R2 Song of Broken Pines produces a 25% ATK bonus and a 15% normal ATK speed bonus. If Elegy procs first and Pines second, the EM bonus from Elegy will stay applied however the 25% ATK bonus will override the 40% attack bonus and lower the overall effect of the shared buffs takes the most recent proc even if it takes the lower value.
+Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. IE Elegy at R5 produces a 40% ATK Bonus and a 200 EM bonus for the team however an R2 Song of Broken Pines produces a 25% ATK Bonus and a 15% normal ATK speed bonus. If Elegy procs first and Pines second, the EM bonus from Elegy will stay applied however the 25% ATK Bonus will override the 40% ATK Bonus and lower the overall effect of the shared buffs takes the most recent proc even if it takes the lower value.
 
 * [No Buffs active](https://imgur.com/1clo8t2)
 * [R5 Elegy active](https://imgur.com/ZeVAslN) \(40% ATK and 200EM bonus\)
@@ -273,7 +273,7 @@ Sara:
 * 60 FPS: [Video](https://youtu.be/6Y81kua7Vmc)
 
 **Significance:**  
-Server sided registration on Elegy stack gain means that unstable ping can lead to different amount of damage ticks to proc 4 stacks. The longer time required to gain 4 stacks (if possible) needs to be taken into account for rotations with heavy and fast quick-swapping, to counteract the long time, Amber should stay on the field for 1 second or use E after using her Q before switching to 4pc VV supports in Hu Tao teams. Venti should always E+Q as it brings the time to gain 4 stacks down massively. Sara should use her C2 and Charged Attacks before using her Q to make sure she can guarantee the 4 Elegy stacks before switching to other characters.
+Server sided registration on Elegy stack gain means that unstable ping can lead to different amount of damage ticks to proc 4 stacks. The longer time required to gain 4 stacks (if possible) needs to be taken into account for rotations with heavy and fast quick-swapping, to counteract the long time, Amber should stay on the field for 1 second or use E after using her Q before switching to 4-Piece VV supports in Hu Tao teams. Venti should always E+Q as it brings the time to gain 4 stacks down massively. Sara should use her C2 and Charged Attacks before using her Q to make sure she can guarantee the 4 Elegy stacks before switching to other characters.
 
 ### Freedom-Sworn Interaction With Weapon Infuse
 
@@ -293,14 +293,14 @@ This is not a method to trigger Freedom-Sworn's passive.
 
 ## Royal Weapon Series
 
-### The Effective Crit Rate of Royal Weapons (& Simulator)
+### The Effective CRIT Rate of Royal Weapons (& Simulator)
 
 **By:** Cola\#6861
 
 **Evidence:**  
 <Tabs>
 <TabItem value="link" label="Link">
-This is the tool I used to run simulations for Royal weapon line crits.
+This is the tool I used to run simulations for Royal weapon line CRITs.
 
 [Link](https://docs.google.com/spreadsheets/d/1v1hi6tUdFEC4SHM6_zwtlXOmCl_5paXqAD_d8uU6Umc/edit?usp=sharing)
 
@@ -309,14 +309,14 @@ This is the tool I used to run simulations for Royal weapon line crits.
 <TabItem value="directions" label="Directions">
 1. File &gt; Make a Copy
 2. Navigate to "Sim" sheet
-3. Change Base Crit % & Refine Rank
+3. Change Base CRIT % & Refine Rank
 
 </TabItem>
 </Tabs>
 
-* Ran simulations \(using google sheet's randomize function\) over 10,000 runs, each for 5%, 15% and 50% crit rate.
-* Recorded the average crit occurence for each set of 10,000 runs, for 10 times.
-* Averaged the results from 10 trials and came up with the average effective crit rate.
+* Ran simulations \(using google sheet's randomize function\) over 10,000 runs, each for 5%, 15% and 50% CRIT Rate.
+* Recorded the average CRIT occurence for each set of 10,000 runs, for 10 times.
+* Averaged the results from 10 trials and came up with the average effective CRIT Rate.
 * The same was done for refinement rank 1, 3 and 5.
 
 [Data](https://i.imgur.com/youmor6.png)
@@ -325,7 +325,7 @@ This is the tool I used to run simulations for Royal weapon line crits.
 
 **Significance**
 
-* Avoid crit rate circlet and minimize crit rate rolls on your substats.
+* Avoid CRIT Rate circlet and minimize CRIT Rate rolls on your substats.
 * The royal weapon line behaves, strangely, I know.
 * If you are SOL on artifacts however, the Royal weapons can make for a decent choice.
 
@@ -347,13 +347,13 @@ Further elaborating on @Pleinair's submission, Royal Longsword works exactly as 
 More evidence from Pleinair: [YouTube](https://youtu.be/CEcNjSHqHTE)
 
 **Significance:**  
-As with above conclusion, there might be a use case where Royal Longsword offers a higher DPS ceiling than sacrificial or becomes a valid F2P alternative if players can mitigate the recharge loss through substats or a hydro DPS.
+As with above conclusion, there might be a use case where Royal Longsword offers a higher DPS ceiling than sacrificial or becomes a valid F2P alternative if players can mitigate the recharge loss through substats or a Hydro DPS.
 
-The video also reveals that there might be a tiny ICD on Royal Sword's ability, or that multiple hydro swords in a single wave count as 1 hit or a single source of damage, since only 1 stack of crit was granted. The second seems likely given how each wave only applies one instance of hydro now. However it has also been observed that swords can crit independently.
+The video also reveals that there might be a tiny ICD on Royal Sword's ability, or that multiple Hydro swords in a single wave count as 1 hit or a single source of damage, since only 1 stack of CRIT was granted. The second seems likely given how each wave only applies one instance of Hydro now. However it has also been observed that swords can CRIT independently.
 
 This also raises the question of other royal weapon use cases with off screen DPS, such as Royal Bow and Fischl's Oz.
 
-**EDIT**: XQ's rain sword orbitals do not count as a hit when they apply hydro, not crit boost there.
+**EDIT**: XQ's rain sword orbitals do not count as a hit when they apply Hydro, not CRIT boost there.
 
 ### Royal Series Dynamic Stacking on Snapshot DoT Skills
 
@@ -362,12 +362,12 @@ This also raises the question of other royal weapon use cases with off screen DP
 **Last tested:** <VersionHl date="2021-04-10" />
 
 **Finding:**  
-Lisa's Q snapshots crit stacks from Royal Grimoire but the damage from the Q ticks will dynamically change the number of stacks
+Lisa's Q snapshots CRIT stacks from Royal Grimoire but the damage from the Q ticks will dynamically change the number of stacks
 
 **Evidence:** [YouTube](https://youtu.be/rrrW7iYdU_I)
 
 **Significance:**  
-The passive of royal weapons continues to stack even when a snapshotting skill deals damage over time. First, cast the skill at low crit, and have the character gain crit from royal weapon's passive while the skill maintains its low crit rate because it snapshots. This allows stacks to be gained without an increased chance of losing them. Which means, the increased crit rate can then be capitalized on by casting high damage abilities during that window of increased crit rate.
+The passive of royal weapons continues to stack even when a snapshotting Skill deals damage over time. First, cast the Skill at low CRIT, and have the character gain CRIT from royal weapon's passive while the Skill maintains its low CRIT Rate because it snapshots. This allows stacks to be gained without an increased chance of losing them. Which means, the increased CRIT Rate can then be capitalized on by casting high damage abilities during that window of increased CRIT Rate.
 
 ### Royal Series AoE Abilities and Mechanics
 
@@ -376,19 +376,19 @@ The passive of royal weapons continues to stack even when a snapshotting skill d
 **Last tested:** <VersionHl date="2021-06-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856875279872032829_858177822186012722_transcript-royal-mechanics.html)
 
-**Finding:** AoE abilities do "snapshot" crit rate.
+**Finding:** AoE abilities do "snapshot" CRIT Rate.
 
 **Evidence:**
 
 * [Video 1](https://youtu.be/cUd-kFqAOSU)
 * [Video 2](https://youtu.be/eJijOEJs4L0)  
-  The tests were conducted as follows: gain 5 stacks of a Royal weapon, exit combat and then raise crit rate up to >100%. Then use an AoE ability and counter the number of non-crits.
-  If crit didn't "snapshot" and instead was calculated one by one, then after the first crit the crit rate would drop to ~60% due to losing 5 stacks of a R1 Royal weapon and the 2nd instanse of damage would have a reasonable chance to not crit.
-  In the above tests, not a single event of non-crit has been observed which allows us with a reasonable amount of confidence claim that AoE abilities do "snapshot" crit rate.
+  The tests were conducted as follows: gain 5 stacks of a Royal weapon, exit combat and then raise CRIT Rate up to >100%. Then use an AoE ability and counter the number of non-CRITs.
+  If CRIT didn't "snapshot" and instead was calculated one by one, then after the first CRIT the CRIT Rate would drop to ~60% due to losing 5 stacks of a R1 Royal weapon and the 2nd instanse of damage would have a reasonable chance to not CRIT.
+  In the above tests, not a single event of non-CRIT has been observed which allows us with a reasonable amount of confidence claim that AoE abilities do "snapshot" CRIT Rate.
 
 **Significance:**  
-For Royal weapons it means that they can potentially have an increased efficiency given a right rotation. Although you can't gain multiple stacks with an AoE ability, what you can do is take advantage of the stacks you already gained through single target attacks. Damage dealt to all targets is guaranteed to have an increased constant crit rate, although it requires further analysis whether it actually yields better efficient crit rate or not for different rotations and combinations of base crit rate and Royal refinements.
-One particular character that could take advantage of this that comes to mind is Yanfei since her typical attack pattern consists of 2-3 single target attacks followed by an AoE attack (which coincidentally cares about critting).
+For Royal weapons it means that they can potentially have an increased efficiency given a right rotation. Although you can't gain multiple stacks with an AoE ability, what you can do is take advantage of the stacks you already gained through single-target attacks. Damage dealt to all targets is guaranteed to have an increased constant CRIT Rate, although it requires further analysis whether it actually yields better efficient CRIT Rate or not for different rotations and combinations of base CRIT Rate and Royal refinements.
+One particular character that could take advantage of this that comes to mind is Yanfei since her typical attack pattern consists of 2-3 single-target attacks followed by an AoE attack (which coincidentally cares about CRITting).
 
 **Finding:**  
 Mechanics of Royal weapon stacks:
@@ -398,19 +398,19 @@ After gaining a stack you cannot gain another one for a small period of time (co
 For an AoE ability, damage instances dealt by the ability, including damage dealt by reactions Overload, Swirl and Superconduct caused by the ability, are put in a list. Then the game applies the following logic to all elements of the list one by one:
 
 * if no_crit then
-* add crit_stack
-* add crit_stack_CD
-* if no_crit and crit_stack_CD=true then
+* add CRIT_stack
+* add CRIT_stack_CD
+* if no_crit and CRIT_stack_CD=true then
 * do nothing
-* else remove crit_stack
+* else remove CRIT_stack
 
 Stacks can be gained when the character equipped with the Royal weapon is off-field.
 
 **Evidence:**
 
-1. Sucrose's quick N1-N2 gaining 1 stack instead of 2 and multiple evidence of an AoE ability gaining no more than 1 stack when it non-crits multiple times.
+1. Sucrose's quick N1-N2 gaining 1 stack instead of 2 and multiple evidence of an AoE ability gaining no more than 1 stack when it non-CRITs multiple times.
    [YouTube video](https://youtu.be/PrXV4em0ssc)
-2. After a single-target ability crits and causes a Swirl, the number of stacks is reset to 1 instead of 0 implying that damage from a Swirl is taken into account and is considered as non-crit.
+2. After a single-target ability CRITs and causes a Swirl, the number of stacks is reset to 1 instead of 0 implying that damage from a Swirl is taken into account and is considered as non-CRIT.
    [YouTube video](https://youtu.be/mTEGm35iLmI)
 3. Superconduct and Swirl chain reactions
    [YouTube video](https://youtu.be/hWfeeU6b9tM)
@@ -420,7 +420,7 @@ Stacks can be gained when the character equipped with the Royal weapon is off-fi
 **Significance:**  
 Royal weapons have an increased efficiency in situations when the holder triggers Overload, Swirl or Superconduct due to the fact that they can potentially always have at least 1 stack.
 
-### Mathematical Analysis of Royal Weapon Effective Crit Rate
+### Mathematical Analysis of Royal Weapon Effective CRIT Rate
 
 **By:** NZPIEFACE\#8439  
 **Added:** <Version date="2021-10-28" />  
@@ -428,9 +428,9 @@ Royal weapons have an increased efficiency in situations when the holder trigger
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896590252930633728_903505119679750204_transcript-royal-weapons-have-extremely-diminishing-returns.html)
 
 **Finding:**  
-A mathematical formula to find the effective crit rate of Royal weapons is not yet in the library, there is only a table and a simulation.
+A mathematical formula to find the effective CRIT Rate of Royal weapons is not yet in the library, there is only a table and a simulation.
 
-Use the following equation to analytically calculate for the final Crit Rate after using Royal Weapons:
+Use the following equation to analytically calculate for the final CRIT Rate after using Royal Weapons:
 
 ```
 a = 1 - base_cr
@@ -446,10 +446,10 @@ effective_cr = 1/(1 + a + a*b + a*b*c + a*b*c*d + a*b*c*d*e/(1-f))
 
 **Evidence:**  
 Math and explanation in here: [Google Doc](https://docs.google.com/document/d/1m1SLYcYBJVwCH_CpEgJgvnQOMB39iLAJZ9iNyT9EeLQ/)  
-There is a python function in the doc to calculate effective crit rate from character crit rate and weapon refinement level. It's a useful tool if anyone ever wants to get this to work with fringe snapshot builds.
+There is a python function in the doc to calculate effective CRIT Rate from character CRIT Rate and weapon refinement level. It's a useful tool if anyone ever wants to get this to work with fringe snapshot builds.
 
 **Significance:**  
-It was found that the crit rate that the weapons’ passive had decreased the higher the crit rate of the character was. The passive of the weapons performs poorly in comparison to other crit value stat sticks (Blackcliff series that is also from the shop, Harbinger of Dawn, etc.), and is only really comparable at extremely low values of investment into crit rate. While there is an argument that these would have value in the hands of new players who cannot invest into crit rate that much, it would also be a terrible long term investment for them as the weapon would naturally become worse and worse as they play.
+It was found that the CRIT Rate that the weapons’ passive had decreased the higher the CRIT Rate of the character was. The passive of the weapons performs poorly in comparison to other CRIT value stat sticks (Blackcliff series that is also from the shop, Harbinger of Dawn, etc.), and is only really comparable at extremely low values of investment into CRIT Rate. While there is an argument that these would have value in the hands of new players who cannot invest into CRIT Rate that much, it would also be a terrible long term investment for them as the weapon would naturally become worse and worse as they play.
 
 ## Sacrificial Series
 
@@ -466,7 +466,7 @@ It was found that the crit rate that the weapons’ passive had decreased the hi
 [Graph 1](https://www.desmos.com/calculator/9bjjvxkq7q)  
 [Graph 2](https://www.desmos.com/calculator/ireq7whftb)
 
-**Significance:** This mathematically shows why units with low skill cooldowns are not great pairings with sacrificial weapons, and also show which units are ideal for these types of weapons.
+**Significance:** This mathematically shows why units with low Skill cooldowns are not great pairings with sacrificial weapons, and also show which units are ideal for these types of weapons.
 
 ### Sacrificial Weapons do not proc on Shielded Enemies
 
@@ -475,12 +475,12 @@ It was found that the crit rate that the weapons’ passive had decreased the hi
 **Last tested:** <VersionHl date="2021-02-04" />
 
 **Evidence:**  
-Testing was done with Diona hold E with R1 sacrificial bow and XQ E with R1 sacrificial sword. Both units used 50 E skills on shielded pyro abyss mages and shielded geo slimes with 0 procs for both cases. When shields were broken, sac weapon procs were as expected. \(40% chance per hit on R1\)
+Testing was done with Diona hold E with R1 sacrificial bow and XQ E with R1 sacrificial sword. Both units used 50 E skills on shielded Pyro abyss mages and shielded Geo slimes with 0 procs for both cases. When shields were broken, sac weapon procs were as expected. \(40% chance per hit on R1\)
 
 **Short Demonstration:** _Streamable video lost to the sands of time_
 
 **Significance:**  
-This has many applications in combat, especially in abyss where timed trials will be affected by proc frequency and subsequently burst uptime. Sacrificial weapons are among the best support options so understanding their mechanics are necessary.
+This has many applications in combat, especially in abyss where timed trials will be affected by proc frequency and subsequently Burst uptime. Sacrificial weapons are among the best support options so understanding their mechanics are necessary.
 
 ### Sacrificial Passive With Multiple E Stacks
 
@@ -490,15 +490,15 @@ This has many applications in combat, especially in abyss where timed trials wil
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
-When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset.
+When a character with multiple charges of their elemental Skill procs the sacrificial passive, the elemental Skill cooldown shown on the timer is the cooldown that will be reset.
 
 **Evidence:**  
-[I cast one Sucrose E](https://imgur.com/a/AKgnNoq), waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s \(minus 10% due to anemo resonance in video\). So, whatever timer is currently showing is the one which will be reset.
+[I cast one Sucrose E](https://imgur.com/a/AKgnNoq), waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s \(minus 10% due to Anemo resonance in video\). So, whatever timer is currently showing is the one which will be reset.
 
 The same occurs for [Ganyu C2](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/cooldowns.md/discord/attachments_837514129479827490_837875906907209728_2021-04-30_22-17-45_Trim.mp4) and [Klee](https://www.youtube.com/watch?v=tLdhyD7hBHo&start=133).
 
 **Significance:**  
-Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first skill cast out of the stack, and that skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
+Any serial-cooldown, multi-cast Skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first Skill cast out of the stack, and that Skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a Skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
 
 ### Sacrificial Weapons Interactions
 
@@ -547,22 +547,22 @@ Sacrificial Weapons are more effective on character with large AOE skills/agains
 
 ### Skyward Harp
 
-#### Skyward Harp’s passive has the ability to crit
+#### Skyward Harp’s passive has the ability to CRIT
 
 **By:** Cola\#6861  
 **Added:** <Version date="2021-01-31" />  
 **Last tested:** <VersionHl date="2021-01-31" />
 
 **Finding:**  
-When shooting with the Skyward Harp, it is possible to achieve a critical hit on the passive ability.
+When shooting with the Skyward Harp, it is possible to achieve a CRITical hit on the passive ability.
 
 **Evidence:**  
-User Cola Sen was discussing in theory crafting about the Skyward Harp when its ability to crit came into the conversation. Afterwards they decided to test out their hypothesis and reported on their findings:
+User Cola Sen was discussing in theory crafting about the Skyward Harp when its ability to CRIT came into the conversation. Afterwards they decided to test out their hypothesis and reported on their findings:
 
-[\[video\] Skyward Harp passive critting](https://www.youtube.com/watch?v=0ZGKgwEZ0Ww)
+[\[video\] Skyward Harp passive CRITting](https://www.youtube.com/watch?v=0ZGKgwEZ0Ww)
 
 **Significance:**  
-When using the Skyward Harp, it is now apparent that it is slightly better then we originally thought as its own passive gains benefits from the crit rate and crit damage that the Harp provides.
+When using the Skyward Harp, it is now apparent that it is slightly better then we originally thought as its own passive gains benefits from the CRIT Rate and CRIT DMG that the Harp provides.
 
 ### Skyward Blade
 
@@ -575,7 +575,7 @@ When using the Skyward Harp, it is now apparent that it is slightly better then 
 **Finding:**
 
 * Skyward blade does not increase your damage after Elemental Burst but adds an additional line as bonus damage using the values on the description.
-* Its separate line of damage crits individually from the normal attacks.
+* Its separate line of damage CRITs individually from the normal attacks.
 
 **Current Description:** "Increases the DMG of Normal and Charged Attack hits by 20% for 12s."
 
@@ -585,8 +585,8 @@ When using the Skyward Harp, it is now apparent that it is slightly better then 
 
 **Significance**
 
-* Less synergy with electro builds since the bonus damage is a separate instance of white damage
-* Synergises well with physical builds
+* Less synergy with Electro builds since the bonus damage is a separate instance of white damage
+* Synergises well with Physical builds
 
 ### Skyward Pride
 
@@ -597,7 +597,7 @@ When using the Skyward Harp, it is now apparent that it is slightly better then 
 **Last tested:** <VersionHl date="2021-03-30" />
 
 **Finding:**  
-Skyward Pride's vacuum blades count as raw physical damage and not as normal or charged attacks for the purpose of 4 set Gladiators.
+Skyward Pride's vacuum blades count as raw Physical damage and not as normal or charged attacks for the purpose of 4 set Gladiators.
 
 **Evidence:**
 Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
@@ -605,35 +605,35 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 * 3 pc Glad: [2001 dmg](https://i.imgur.com/nsdFaA9.mp4)
 * 4 pc Glad: [2026 dmg](https://i.imgur.com/ugbvgCB.mp4)
 
-**Note:** The glad goblet had a bit of def, so the video of 4 pc Glad had a bit more atk than the bottom from Noelle C6 Q, resulting in 25 more vacuum blade damage.
+**Note:** The glad goblet had a bit of def, so the video of 4 pc Glad had a bit more ATK than the bottom from Noelle C6 Q, resulting in 25 more vacuum blade damage.
 
-#### Vacuum Blades can crit
+#### Vacuum Blades can CRIT
 
 **By:** Phana\#0420  
 **Added:** <Version date="2021-06-26" />  
 **Last tested:** <VersionHl date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855433084420489252_858194419470303252_transcript-library-completion-2.html)
 
-**Finding:** Skyward Pride's vacuum blades can crit.
+**Finding:** Skyward Pride's vacuum blades can CRIT.
 
 **Evidence:** [YouTube](https://www.youtube.com/watch?v=S7EN0Kl3l9A)
 
-**Significance:** Calculations should account for the crit possibility of skyward pride's blades.
+**Significance:** Calculations should account for the CRIT possibility of skyward pride's blades.
 
 ### Skyward Atlas
 
-#### Skyward Atlas effect can crit
+#### Skyward Atlas effect can CRIT
 
 **By:** Phana\#0420  
 **Added:** <Version date="2021-06-26" />  
 **Last tested:** <VersionHl date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855433084420489252_858194419470303252_transcript-library-completion-2.html)
 
-**Finding:** Skyward Atlas' weapon proc can crit.
+**Finding:** Skyward Atlas' weapon proc can CRIT.
 
 **Evidence:** https://www.youtube.com/watch?v=PcVPrTAAdu0&ab_channel=Arco
 
-**Significance:** calculations should account for the crit possibility of weapon procs.
+**Significance:** calculations should account for the CRIT possibility of weapon procs.
 
 ## Specific Weapon Mechanics
 
@@ -645,7 +645,7 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
 [Gaining a new seed will refresh the duration of previously gained seeds.](https://www.youtube.com/watch?v=JCYVDeqXUr8)
 
-#### Flat energy confirmation
+#### Flat Energy confirmation
 
 **By:** Sylfae\#1210
 
@@ -702,8 +702,8 @@ There is some inconsistency with shielded sword characters and aquila favonia pr
 The videos show:
 
 1. How Aquila does not proc when protected by a shield
-2. How Aquila can proc while in burst iframes, without a shield
-3. How Aquila can proc while in burst iframes, while protected by a shield
+2. How Aquila can proc while in Burst iframes, without a shield
+3. How Aquila can proc while in Burst iframes, while protected by a shield
 
 **Significance:**  
 This interaction may affect other "triggers on taking dmg" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
@@ -730,11 +730,11 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses.
 * 379/291 = 1.302405498281787
 * Yields 30% from Hydro Resonance as expected.
 
-[Hydro Resonance + 2pc Maiden](https://youtu.be/XdoseuBTj5c)
+[Hydro Resonance + 2-Piece Maiden](https://youtu.be/XdoseuBTj5c)
 
 * HP restored: 422
 * 422/291 = 1.4501718213058419
-* Yields 45% from Hydro Resonance + 2pc Maiden as expected.
+* Yields 45% from Hydro Resonance + 2-Piece Maiden as expected.
 
 **Significance:**  
 Aquila's healing effects are affected by incoming and outgoing healing bonuses. Prototype Amber and The Black Sword are expected to be the same, but were not tested.
@@ -753,14 +753,14 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 **Bug:**
 
 * After hitting a shield (Abyss Mage, Mitachurl Shield, Kairagii Parry, etc) Cinnabar Passive will deactivate indefinitely until party swap/unequip and reequip the weapon.
-* This bug only happens with Albedo due to his specific skill trigger requiring a hit to deal damage first. It'll require a non-melee hit to trigger, whether it be a projectile, AOE attack, or even burning grass.
+* This bug only happens with Albedo due to his specific Skill trigger requiring a hit to deal damage first. It'll require a non-melee hit to trigger, whether it be a projectile, AOE attack, or even burning grass.
 * There is, however, some slight inconsistency. The bug will not trigger 100% of the time, it may trigger even without a shield, and it may even reactivate.
 
 **Evidence:**
 
 * Albedo + Zhongli: [YouTube video](https://youtu.be/xmc9olmaSqk)
 * Solo Albedo: [YouTube video](https://youtu.be/voJ3-z8mlIo)
-* Solo Albedo: [Reddit post](https://www.reddit.com/r/Albedomains/comments/r5e4ds/cinnabar_spindle_bug_recreation/)
+* Solo Albedo: [Reddit post](https://www.reddit.com/r/Albedomains/comments/R5e4ds/cinnabar_spindle_bug_recreation/)
 * Burning + shield causing deactivation: [YouTube video](https://youtu.be/teu-GqSLgO8)
 
 **Significance:**  
@@ -778,12 +778,12 @@ This will hurt Albedo's damage until this is fixed. This bug is known and has be
 [Discussion](https://tickets.deeznuts.moe/transcripts/deathmatch-passive-snapshots)
 
 **Finding:**  
-The Atk or Atk/Def bonus of the Deathmatch snapshots the last effect when the holder goes off-field. When swapping back on-field, the passive update is not immediate.
+The ATK or ATK/Def bonus of the Deathmatch snapshots the last effect when the holder goes off-field. When swapping back on-field, the passive update is not immediate.
 
 **Evidence:**  
 [YouTube](https://www.youtube.com/watch?v=9Mc6ubPR8_U)
 
-When first equipping the Deathmatch, it will have the Atk boost passive active. Going to a group of enemies and swapping in will activate the split Atk/Def bonus for 2+ enemies. If you then swap her back off-field and teleport away, the stat screen will show the Def bonus is still active.
+When first equipping the Deathmatch, it will have the ATK boost passive active. Going to a group of enemies and swapping in will activate the split ATK/Def bonus for 2+ enemies. If you then swap her back off-field and teleport away, the stat screen will show the Def bonus is still active.
 
 Opening the menu as Yun Jin swaps on-field still displays the Def bonus at first, so there seems to be some sort of tickrate for the passive. Going back to the group of enemies with Yun Jin off-field, the passive still has the effect for 0-1 enemies.
 
@@ -806,8 +806,8 @@ When you can run Yun Jin on deathmatch, the passive snapshot can sometimes maint
 4ESF DMG% bonus works with the ER% from Engulfing Lightning's effect but does not snapshot.
 
 **Evidence:**  
-[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) - Vye's stats, shown in video, are calculated for burst damage here assuming that the ER passive from Grasscutter does affect the 4-piece ESF set: (804+899) _ (1+1.098) _ (1+0.466+0.582) _ (0.9) _ ((100+70)/((100+70)+(100+85))) \* 2.508 = 7909 Which about matches up with the damage number of 7906 in the video.  
-[No snapshot evidence](https://www.youtube.com/watch?v=asYD3tzpvC0) - In the video, Engulfing Lightning is being used. The ending hits of Xiangling's burst are lower damage, indicating that the Burst DMG% from Engulfing Lightning's additional ER bonus on burst cast has worn off.
+[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) - Vye's stats, shown in video, are calculated for Burst damage here assuming that the ER passive from Grasscutter does affect the 4-Piece ESF set: (804+899) _ (1+1.098) _ (1+0.466+0.582) _ (0.9) _ ((100+70)/((100+70)+(100+85))) \* 2.508 = 7909 Which about matches up with the damage number of 7906 in the video.  
+[No snapshot evidence](https://www.youtube.com/watch?v=asYD3tzpvC0) - In the video, Engulfing Lightning is being used. The ending hits of Xiangling's Burst are lower damage, indicating that the Burst DMG% from Engulfing Lightning's additional ER bonus on Burst cast has worn off.
 
 **Significance:**  
 Grasscutter + 4ESF have better synergy.
@@ -827,11 +827,11 @@ Grasscutter + 4ESF have better synergy.
 Fading Twilight doesn't snapshot
 
 **Evidence:**  
-Excuse the scuffed clip but you can see my Fischl's crits doing 2008 first, then 2072, then 1944.  
-[Youtube](https://youtu.be/KrQCFiQNgNw)
+Excuse the scuffed clip but you can see my Fischl's CRITs doing 2008 first, then 2072, then 1944.  
+[YouTube](https://youtu.be/KrQCFiQNgNw)
 
 **Significance:**  
-Can't keep the buff for the whole duration of a snapshottable skill.
+Can't keep the buff for the whole duration of a snapshottable Skill.
 
 ---
 
@@ -924,17 +924,17 @@ Confirmation that the bugfix introduced with the 3.1 update "Fixes an issue wher
 The cursed blade you use in the kazuha story quest says the wielder deals 50% less dmg. This effect is additive with dmg bonus, and does not affect transformative damage.
 
 **Evidence:**  
-Kazuha a1 deals 2079 dmg, and swirl does 2020 dmg.
+Kazuha a1 deals 2079 dmg, and Swirl does 2020 dmg.
 
 [YouTube](https://youtu.be/4vgO4tkIYbQ)
 
 A1 calc with multiplicative reduction: 1.088 _ 0.5 _ (190/( 90 + 92 + 200)) _ 2 _ 2058 _ 1.919 _ 0.9 = 1923.45
 
-A1 calc with additive reduction with the pyro dmg bonus from a2: (1.088 - 0.5) _ (190/( 90 + 92 + 200)) _ 2 _ 2058 _ 1.919 \* 0.9 = 2079.03, same as video
+A1 calc with additive reduction with the Pyro dmg bonus from a2: (1.088 - 0.5) _ (190/( 90 + 92 + 200)) _ 2 _ 2058 _ 1.919 \* 0.9 = 2079.03, same as video
 
 Swirl calc with no reduction applied: 868.1 _ 2.586 _ 0.9 = 2020.42, same as video
 
-(a1 crits here or otherwise it is doomed)
+(A1 CRITs here or otherwise it is doomed)
 
 **Significance:**  
 Assuming kazuhas level does not approach infinity while the enemy level and/or def does, and assuming def shred/reduction does not approach 100%, the dmg reduction on the quest's cursed blade matters less and less because the def formula would make non transformative or true damage approach 0 anyways. It will not impact transformative or true damage, which both bypass def, so the effect of the dmg reduction is negligible. In such a case kazuha should probably use an em weapon, but at the very least the dmg reduction on the cursed blade will not be very detrimental in these scenarios.
@@ -958,7 +958,7 @@ Assuming kazuhas level does not approach infinity while the enemy level and/or d
 * Additionally, Stacks of Kagura Dance are gained and start their 16s timer at the moment an Elemental Skill is used/inputted, to Skills with a Hold Variant, the passive is gained at the initial start-up of whatever the Hold Skill may be.
 
 **Evidence:**  
-[Youtube](https://youtu.be/EE_rWVNsGlo)
+[YouTube](https://youtu.be/EE_rWVNsGlo)
 
 * Press E, wait ~10s, Press E, wait ~9s, Press E, wait ~17s, Press E
 * Press E #1 was increased by 1 Stack of Kagura Dance
@@ -1021,7 +1021,7 @@ The Skill% buff being dynamic also fits in line with other Skill% buffs which ar
 Klee can get 2 stacks of Kagura's Verity from only 1 cast of her Jumpy Dumpty by inputting the Skill twice or more before it goes on cooldown \(aka "double tap"\), however with several caveats.
 
 * The first stack is gained approx. 34 frames into the cast, and the second stack is gained approx. 81 frames into the cast.
-* Klee cannot perform any other actions between these frames or the additional stack will not be granted. This includes dashing, jumping, using Burst, Normal Attacks, Charged Attacks, and using her Skill again \- all of which she can do before ~81 frames have passed from the first skill. If Klee uses both charges of Jumpy Dumpty and she allows ~81 frames to pass for at least one of them, she will end up with 3 stacks of the weapon.
+* Klee cannot perform any other actions between these frames or the additional stack will not be granted. This includes dashing, jumping, using Burst, Normal Attacks, Charged Attacks, and using her Skill again \- all of which she can do before ~81 frames have passed from the first Skill. If Klee uses both charges of Jumpy Dumpty and she allows ~81 frames to pass for at least one of them, she will end up with 3 stacks of the weapon.
 
 **Evidence:**
 
@@ -1037,7 +1037,7 @@ Klee can get 2 stacks of Kagura's Verity from only 1 cast of her Jumpy Dumpty by
   * [Dashing](https://youtu.be/oH9fHlXlpoE)
   * [Jumping](https://youtu.be/rgVjce5RGqE)
   * [Bursting](https://youtu.be/DZLf-SMmF3g) \(note the buff arrows are from C6 not the weapon\)
-  * [Using Skill again](https://youtu.be/H_-JWNsMXKY) \(you get another stack immediately upon 2nd skill usage, but it doesn't progress to 3\)
+  * [Using Skill again](https://youtu.be/H_-JWNsMXKY) \(you get another stack immediately upon 2nd Skill usage, but it doesn't progress to 3\)
   * [Using N1](https://youtu.be/3of3YagGA4Q)
   * [Using CA](https://youtu.be/ZxWfmyAHGbs)
 
@@ -1099,7 +1099,7 @@ Key users must have some dedicated field time to refresh the stacks of the buff,
 
 ### Kitain Cross Spear
 
-#### Kitain Spear energy drain delay
+#### Kitain Spear Energy drain delay
 
 **By:** Episodde\#8962  
 **Added:** <Version date="2021-08-28" />  
@@ -1107,7 +1107,7 @@ Key users must have some dedicated field time to refresh the stacks of the buff,
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876725060554080287_880927102097055764_transcript-energy-drain-effects-have-a-delay.html)
 
 **Finding:**  
-Kitain Spear energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental skill hit an enemy to when you character actually lose energy.
+Kitain Spear Energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental Skill hit an enemy to when you character actually lose Energy.
 
 **Evidence**:  
 Frame count: [YouTube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
@@ -1116,20 +1116,20 @@ Rosaria able to perform E->Q with Kitain Spear equipped.
 [Imgur](https://imgur.com/a/tI2pbMO)
 
 **Significance:**  
-Some characters actually do not need to change their rotation, because as long as you can cast your burst within about 23 frames after the elemental skill hit an opponent, your character will still be able to use elemental burst to spend all your energy before getting drained by the weapon passive.  
-Rosaria can hit enemy with her E to get her A1 crit rate buff and still be able to cast burst with Q afterward to share the crit before the energy is drained.
+Some characters actually do not need to change their rotation, because as long as you can cast your Burst within about 23 frames after the Elemental Skill hit an opponent, your character will still be able to use Elemental Burst to spend all your Energy before getting drained by the weapon passive.  
+Rosaria can hit enemy with her E to get her A1 CRIT Rate buff and still be able to cast Burst with Q afterward to share the CRIT before the Energy is drained.
 
-#### Kitain passive will proc even if carrier has 0 energy.
+#### Kitain passive will proc even if carrier has 0 Energy.
 
 **By:** ItzSomebody\#0029
 
-Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)
+Also doesn't dip the unit's Energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)
 
 ---
 
 ### Katsuragikiri Nagamasa
 
-#### Katsuragikiri Nagamasa energy drain delay
+#### Katsuragikiri Nagamasa Energy drain delay
 
 **By:** Episodde\#8962  
 **Added:** <Version date="2021-08-28" />  
@@ -1137,17 +1137,17 @@ Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876725060554080287_880927102097055764_transcript-energy-drain-effects-have-a-delay.html)
 
 **Finding:**  
-Katsuragikiri Nagamasa energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental skill hit an enemy to when you character actually lose energy.
+Katsuragikiri Nagamasa Energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental Skill hit an enemy to when you character actually lose Energy.
 
 **Evidence**:  
 Frame count: [YouTube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
 
-Beidou using dash cancel to perform E -> Q with Nagamasa equipped. Still able to funnel energy.  
+Beidou using dash cancel to perform E -> Q with Nagamasa equipped. Still able to funnel Energy.  
 [Imgur](https://imgur.com/a/1sEAzoa)
 
 **Significance:**  
-Some characters actually do not need to change their rotation, because as long as you can cast your burst within about 23 frames after the elemental skill hit an opponent, your character will still be able to use elemental burst to spend all your energy before getting drained by the weapon passive.  
-Beidou can still do E into Q to funnel energy, as long as you dash cancel the E and then Q immediately.
+Some characters actually do not need to change their rotation, because as long as you can cast your Burst within about 23 frames after the elemental Skill hit an opponent, your character will still be able to use Elemental Burst to spend all your Energy before getting drained by the weapon passive.  
+Beidou can still do E into Q to funnel Energy, as long as you dash cancel the E and then Q immediately.
 
 ---
 
@@ -1213,10 +1213,10 @@ Non-snapshotted Bursts like Keqing's are important to document, as we must know 
 
 Inconsistencies are as follows:  
 MC in general, but AMC in particular: does very weird things once swapping Elements; it may be possible to manipulate this into getting an extra stack on Q, but requires more testing \(see here: [YouTube](https://youtu.be/cvwreqXZvPs)\)  
-Keqing: occasionally gains only 1 stack on the Q initial hit, even more rarely gains only 1 on the entire burst  
+Keqing: occasionally gains only 1 stack on the Q initial hit, even more rarely gains only 1 on the entire Burst  
 Xingqiu gets 1 stack on his DR swords. Casting Q resnaps DMG Bonus on swords first made by E. Casting E during Q does not resnapshot DMG%.
 
-The Burst stack seems to obey the same rules as the 4NO effect, as the only character that usually only gains 0 Mistsplitter stacks also generally does not obtain self-4NO on their burst (AMC), though this is very inconsistent, and may also be manipulated by changing Elements.
+The Burst stack seems to obey the same rules as the 4NO effect, as the only character that usually only gains 0 Mistsplitter stacks also generally does not obtain self-4NO on their Burst (AMC), though this is very inconsistent, and may also be manipulated by changing Elements.
 
 **Evidence:**  
 [Speadsheet](https://docs.google.com/spreadsheets/d/12wOAIniEr5D4MvmMU4MwxTm4LxaNUpFAAl6g1iAaLhY/edit#gid=0)
@@ -1243,15 +1243,15 @@ A Mistsplitter's Emblem stack that a character obtains when Normal Attack deals 
 
 **Evidence:**
 
-* Gaining NA stack using Ayaka's CA: [Youtube](https://www.youtube.com/watch?v=fKpQGsUUYI8)
+* Gaining NA stack using Ayaka's CA: [YouTube](https://www.youtube.com/watch?v=fKpQGsUUYI8)
   * CA dmg with 0 stacks: 458 \* 3
   * CA dmg with 1 stack: 491 \* 3
-* Gaining NA stack using Keqing's CA: [Youtube](https://www.youtube.com/watch?v=DULX7uB-4D0)
+* Gaining NA stack using Keqing's CA: [YouTube](https://www.youtube.com/watch?v=DULX7uB-4D0)
   * CA dmg with 0 stacks: 641 + 718
   * CA dmg with 1 stack: 686 + 769
 
 **Significance:**  
-You can gain said stack in a case where Normal Attacks cannot reach any enemies, but Charge Attacks can such as using Ayaka's CA to hit enemies in Venti's vortex.
+You can gain said stack in a case where Normal Attacks cannot reach any enemies, but Charged Attacks can such as using Ayaka's CA to hit enemies in Venti's vortex.
 
 ---
 
@@ -1297,8 +1297,8 @@ Polar Star has no ICD for gaining independent stacks.
 
 **Evidence:**
 
-* [Youtube](https://www.youtube.com/watch?v=R3lTNnsC4aY&ab_channel=Cenpi) - This was the evidence to prove that Polar Star won't acquire stacks if the NA and CAs are too close together resulting in a loss of 20% ATK which is 1 stack of Polar Star. However on closer inspection it can be observed at 0:02 \[[Imgur](https://imgur.com/a/uV8YYzZ)\] that Childe did NOT receive the buff from Bennett's Noblesse Oblige, which is also exactly 20% ATK.
-* [Youtube](https://www.youtube.com/watch?v=ZmXHyNbn9B0&ab_channel=Cenpi) - In this video evidence, contrary to the above, Childe did receive the Noblesse Oblige buff, as seen at 0:05 \[[Imgur](https://imgur.com/a/qv0hgJg)\].
+* [YouTube](https://www.youtube.com/watch?v=R3lTNnsC4aY&ab_channel=Cenpi) - This was the evidence to prove that Polar Star won't acquire stacks if the NA and CAs are too close together resulting in a loss of 20% ATK which is 1 stack of Polar Star. However on closer inspection it can be observed at 0:02 \[[Imgur](https://imgur.com/a/uV8YYzZ)\] that Childe did NOT receive the buff from Bennett's Noblesse Oblige, which is also exactly 20% ATK.
+* [YouTube](https://www.youtube.com/watch?v=ZmXHyNbn9B0&ab_channel=Cenpi) - In this video evidence, contrary to the above, Childe did receive the Noblesse Oblige buff, as seen at 0:05 \[[Imgur](https://imgur.com/a/qv0hgJg)\].
 
 In other words, in both video evidences Polar Star had acquired max stacks regardless of attack spacing.
 
@@ -1316,7 +1316,7 @@ Bring justice to Polar Star's name, in that it had no ICD all along.
 **Last tested:** <VersionHl date="2021-04-15" />
 
 **Finding:**  
-PJWS passive can be stacked from elemental skill and burst skill hits on an enemy. The "on hit" portion of the passive does not refer to normal attack hits alone.
+PJWS passive can be stacked from elemental Skill and Burst Skill hits on an enemy. The "on hit" portion of the passive does not refer to normal attack hits alone.
 
 **Evidence:**
 
@@ -1325,7 +1325,7 @@ PJWS passive can be stacked from elemental skill and burst skill hits on an enem
 * [Off-field non-stacking](https://www.youtube.com/watch?v=RuvFx74qMXk)
 
 **Significance:**  
-Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate elemental skill or burst skill like XL.
+Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate elemental Skill or Burst Skill like XL.
 
 #### PJWS New Stacks Extend Duration
 
@@ -1358,7 +1358,7 @@ Prototype Amber's heal (4% rounded down) is based off the Max HP of the characte
 
 **Evidence:**  
 [Imgur](https://imgur.com/hof4TQg)  
-Sucrose equipped with R1 Prototype Amber - max HP 15082 (4% rounded down is 603 hp):
+Sucrose equipped with R1 Prototype Amber - max HP 15082 (4% rounded down is 603 HP):
 
 * Tartaglia Max HP 21466, Healed 858
 * Beidou Max HP 20162, Healed 806
@@ -1389,7 +1389,7 @@ Diona's HP after the HP regeneration from both Prototype Ambers:
 ![](https://i.imgur.com/ZofHPGD.png)
 
 From the evidence above: \(5140 - 50\) / 29942 = 16.9\%  
-The total heal rounds up to only 17\%. We can see in the video that PAmber heals totaled only 4 procs instead of 6 total, once after Yae's burst and thrice after Lisa's burst. This accounts for 1x5% Max HP regen from Yae and 3 \* 4\% Max HP regen from Lisa.
+The total heal rounds up to only 17\%. We can see in the video that PAmber heals totaled only 4 procs instead of 6 total, once after Yae's Burst and thrice after Lisa's Burst. This accounts for 1x5% Max HP regen from Yae and 3 \* 4\% Max HP regen from Lisa.
 
 Thus the previous statement "Suppose Prototype Amber HP regeneration stacked, we would expect a total heal of 3 \* 5\% + 3 \* 4\% = 27\%" is false. Prototype Amber HP regeneration does NOT stack, and instead activating a 2nd one overrides the regen effect of the 1st one.
 
@@ -1411,11 +1411,11 @@ It is not advisable to run Prototype Amber on 2 or more characters in each team,
 Gaining Prototype Starglitter stacks refreshes the duration of existing stacks
 
 **Evidence:**  
-CA damage on non crit before any skill uses is 181. First skill use at 30s, CA damage after first skill use with one stack on Prototype Starglitter is 196. Second skill use at 37s, CA damage after first skill use with two stacks is 210. CA damage is 210 again at 48s, after first stack would have expired if stacks were independent, and 181 again at 53s, after both stacks would have expired if gaining stacks refreshes the duration of existing stacks.  
+CA damage on non CRIT before any Skill uses is 181. First Skill use at 30s, CA damage after first Skill use with one stack on Prototype Starglitter is 196. Second Skill use at 37s, CA damage after first Skill use with two stacks is 210. CA damage is 210 again at 48s, after first stack would have expired if stacks were independent, and 181 again at 53s, after both stacks would have expired if gaining stacks refreshes the duration of existing stacks.  
 [YouTube](https://www.youtube.com/watch?v=eL06QKuVaUU)
 
 **Significance:**  
-Affects stack uptime considerations for polearm users with skill cooldowns less than 12s as it can potentially allow them to keep full uptime on two stacks of Prototype Starglitter's passive.
+Affects stack uptime considerations for polearm users with Skill cooldowns less than 12s as it can potentially allow them to keep full uptime on two stacks of Prototype Starglitter's passive.
 
 ---
 
@@ -1431,7 +1431,7 @@ Affects stack uptime considerations for polearm users with skill cooldowns less 
 Rust DMG reduction on charge shots is additive and is in the same category as dmg% when calculated.
 
 **Evidence:**  
-Using level 50 Amber on Lv87 Hilichurl, with +20 physical goblet
+Using level 50 Amber on Lv87 Hilichurl, with +20 Physical goblet
 
 * [Level 90 Prototype Crescent](https://imgur.com/nSaRkfP) \(No passive\)
 * [Level 90 Rust](https://imgur.com/YsG8wlf)
@@ -1440,7 +1440,7 @@ Using level 50 Amber on Lv87 Hilichurl, with +20 physical goblet
 
 ```python
 1062 = Amber total attack
-1.583 = +20 physical dmg bonus cup
+1.583 = +20 Physical dmg bonus cup
 0.439 = Amber T1 aimed shot
 
 ===
@@ -1487,7 +1487,7 @@ Losing Serpent Spine stacks has an ICD depending on the stack count.
 Getting hit by multi hit attacks will still only remove one stack thus increasing your overall uptime on stacks. 1 and 2 stacks have a better protection than higher stacks due to an increased ICD.
 
 * Relevant examples in the overworld only: environmental damage
-* Relevant examples: Ruin guard missiles or the cryo gun attack from the cryo fatui \([YouTube](https://youtu.be/qaxgPjY78YE)\)
+* Relevant examples: Ruin guard missiles or the Cryo gun attack from the Cryo fatui \([YouTube](https://youtu.be/qaxgPjY78YE)\)
 
 #### Serpent Spine Damage Taken affects Shields
 
@@ -1501,7 +1501,7 @@ The damage taken increase from Serpent Spine's passive does affect the damage sh
 
 **Evidence:** [YouTube](https://www.youtube.com/watch?v=EjYpIBPmNSQ)
 
-Explanation: The crystalize shield is created by a level 50 character with 0 EM, thus creating a ~786 health shield which has 2.5x effectiveness against its own element, meaning that it will block ~1965 pyro damage. Both flower stamens are dealing the same damage, and give the same results, with Beidou equipped with SS (with 5 stacks) taking 1045 damage per tick, and with fav sword taking 908 damage per tick. Beidou with SS 5 stack's shield lasted for 2 ticks allowed Beidou to take 123 damage additional damage, while the shield with favonius greatsword equipped lasted for 3 ticks and allowed Beidou to take 759 additional damage.
+Explanation: The crystalize shield is created by a level 50 character with 0 EM, thus creating a ~786 health shield which has 2.5x effectiveness against its own element, meaning that it will block ~1965 Pyro damage. Both flower stamens are dealing the same damage, and give the same results, with Beidou equipped with SS (with 5 stacks) taking 1045 damage per tick, and with fav sword taking 908 damage per tick. Beidou with SS 5 stack's shield lasted for 2 ticks allowed Beidou to take 123 damage additional damage, while the shield with favonius greatsword equipped lasted for 3 ticks and allowed Beidou to take 759 additional damage.
 
 **Significance:**  
 Explanation of how shields interaction with negative damage reduction
@@ -1567,7 +1567,7 @@ The Bell's passive %Inc Damage works with any shield, and not just with the proc
 **Testing:** Attacked enemies
 
 * without any shield
-* with the crystallize shield
+* with the Crystallize shield
 * breastplate
 * and the shield from bell's passive
 
@@ -1588,7 +1588,7 @@ Although there's better claymores, this makes The Bell significantly better than
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_892193182488621126_896129073586241586_transcript-fish-claymore-interactions.html)
 
 **Finding:**  
-Fishmore aka Luxurious Sea Lord has a passive that summons a titanic tuna to deal damage once every 15 seconds when the character's burst hits a target. Like other similar passives such as the ones in Prototype Archaic and Star Tombed Starsilver, it only procs when the wielder is on field.
+Fishmore aka Luxurious Sea Lord has a passive that summons a titanic tuna to deal damage once every 15 seconds when the character's Burst hits a target. Like other similar passives such as the ones in Prototype Archaic and Star Tombed Starsilver, it only procs when the wielder is on field.
 
 **Evidence:**  
 CBeidou on field part 1: [Imgur](http://imgur.com/a/UwKuXS5)  
@@ -1598,11 +1598,11 @@ Eula A4 (by ZyronX#2720): [Imgur](https://imgur.com/NGaENqc)
 Eula off field (by ZyronX#2720): [Imgur](https://imgur.com/o9pwCEU)  
 Sayu on field (by ZyronX#2720): [Imgur](https://imgur.com/eWbY6Oo)  
 Sayu off field (by ZyronX#2720): [Imgur](https://imgur.com/wSb0g3M)  
-AOE finding part 1: [Youtube](https://youtu.be/oNb9mnl2aXA)  
-AOE finding part 2: [Youtube](https://youtu.be/GH2EAS-rcus)
+AOE finding part 1: [YouTube](https://youtu.be/oNb9mnl2aXA)  
+AOE finding part 2: [YouTube](https://youtu.be/GH2EAS-rcus)
 
 **Significance:**  
-The passive procs as intended similar to the other mentioned previously. However, ZyronX has confirmed that the passive has an aoe that can affect multiple targets with a single proc. It should be easier to do this if an anemo cc such as venti burst was used.
+The passive procs as intended similar to the other mentioned previously. However, ZyronX has confirmed that the passive has an aoe that can affect multiple targets with a single proc. It should be easier to do this if an Anemo cc such as venti Burst was used.
 
 ---
 
@@ -1612,7 +1612,7 @@ The passive procs as intended similar to the other mentioned previously. However
 
 **By:** Crome\#2644
 
-**Finding:** Yes, it can crit
+**Finding:** Yes, it can CRIT
 
 **Evidence:** [Imgur](https://imgur.com/a/kWhXThT)
 
@@ -1711,7 +1711,7 @@ Multiple WGS can kinda suck if they're not equal refine
 The hit that procs Wolf's Gravestone's passive does not get the buff bonus applied to itself. Only subsequent hits are affected by the buff.
 
 **Evidence:**  
-Beidou's N1 is shown to crit prior to the buff for 1859. On the hit that procs WGS' buff, she also deals 1859 damage. One final hit is done in the clip to confirm the buff is active for subsequent hits. [YouTube](https://youtu.be/euCV5ZGRVnw)
+Beidou's N1 is shown to CRIT prior to the buff for 1859. On the hit that procs WGS' buff, she also deals 1859 damage. One final hit is done in the clip to confirm the buff is active for subsequent hits. [YouTube](https://youtu.be/euCV5ZGRVnw)
 
 **Significance:**  
 Setup your WGS buff before a big nuke or you lose out on potential damage.
@@ -1753,7 +1753,7 @@ However on 3rd attempt after 64 frames (1.067s) checking Kazuha stats shows that
 
 [YouTube](https://youtu.be/j6-HC--0M6I)  
   
-Using Noblesse as control test, enter/exit domain removes all effects but doesn't reset burst and skill cooldown. However, Xiphos timer reset after removed so it reapplies almost instantly.
+Using Noblesse as control test, enter/exit domain removes all effects but doesn't reset Burst and Skill cooldown. However, Xiphos timer reset after removed so it reapplies almost instantly.
   
 **Significance:**  
 Mostly fluff, just to confirm that the Tulaytullah Weapon Series that Xiphos and Evenstar belongs in have 100% buff up-time regardless of the situations, except for the 1.067s delay at the start.
@@ -1813,8 +1813,8 @@ Prevents accidental foddering of once in a lifetime event weapons.
 **Evidence**: 
 
 * [Deathmatch (conditional ATK%)](https://imgur.com/gOIr6g4)
-* [Harbinger of Dawn (conditional crit rate)](https://imgur.com/CfL8jtd)
-* [Lithic Series: Spear & Blade (conditional ATK% and Crit %)](https://imgur.com/a/g7XHSXo)
+* [Harbinger of Dawn (conditional CRIT Rate)](https://imgur.com/CfL8jtd)
+* [Lithic Series: Spear & Blade (conditional ATK% and CRIT %)](https://imgur.com/a/g7XHSXo)
 * [Sword of Descension (conditional ATK)](https://imgur.com/0LnBMth)
 * [Engulfing Lightning (ER to ATK %)](https://imgur.com/JReI6Ii)
 * [Jade Cutter (HP to ATK)](https://imgur.com/Nf5F426)
@@ -1867,12 +1867,12 @@ Catalyst effective attack comparisons - see spreadsheet below.
 [Imgur](https://imgur.com/a/TpQsJqS)
 
 **Methodology**  
-Effective attack was calculated with a simple piecewise function that takes into account crit rate, crit damage, attack, and damage % \(elemental damage\). Passives that cannot be quantified due to how they can differ in effectiveness with different playstyles are NOT included in the effective attack calculation.
+Effective attack was calculated with a simple piecewise function that takes into account CRIT Rate, CRIT DMG, attack, and damage % \(elemental damage\). Passives that cannot be quantified due to how they can differ in effectiveness with different playstyles are NOT included in the effective attack calculation.
 
-The spreadsheet has three main columns - for low, medium, and high stats. Each one simulates the every possible substat combination with a total of 10, 20, or 30 offensive lines \(maximum possible rolls is 38, but nobody will ever get such lines - right?\). Royal weapon crit rate is simulated on each possible combination of stats. The base stats used were that of a level 90 Klee using 2 piece Gladiator and 2 piece Witch set.
+The spreadsheet has three main columns - for low, medium, and high stats. Each one simulates the every possible substat combination with a total of 10, 20, or 30 offensive lines \(maximum possible rolls is 38, but nobody will ever get such lines - right?\). Royal weapon CRIT Rate is simulated on each possible combination of stats. The base stats used were that of a level 90 Klee using 2 piece Gladiator and 2 piece Witch set.
 
 **Significance:**  
-Memory of dust can actually be strong, even without a shield doubling its effect. Widsith is around ~20% weaker than 5\* catalysts in general outside its burst window, and ~10% stronger during the burst window at R1 and ~30% stronger at R5.
+Memory of dust can actually be strong, even without a shield doubling its effect. Widsith is around ~20% weaker than 5\* catalysts in general outside its Burst window, and ~10% stronger during the Burst window at R1 and ~30% stronger at R5.
 
 ### Refinement Costs
 

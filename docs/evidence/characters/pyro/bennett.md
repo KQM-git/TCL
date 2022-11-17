@@ -25,7 +25,7 @@ search: false
 
 **Evidence:** [YouTube](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/bennett.md/discord/attachments_844058207151325224_844058535716192316_SVID_20210518_111047_1.mp4)
 
-**Significance:** Dont hold E for its full duration under Xingqiu's rainsword, or you'll lose a rainsword instance.
+**Significance:** Dont hold E for its full duration under Xingqiu's Rain Sword, or you'll lose a Rain Sword instance.
 
 ## Burst Mechanics
 
@@ -39,8 +39,8 @@ search: false
 
 **Evidence:** [YouTube](https://youtu.be/BFjMCysZBng)
 
-Xingqiu's sword damage with no Bennett's Ult: 286 \(no crit\), 900 \(crit\)  
-Xingqiu's sword damage with Bennett's Ult: 500\(no crit\), 1576 \(crit\)
+Xingqiu's sword damage with no Bennett's Ult: 286 \(no CRIT\), 900 \(CRIT\)  
+Xingqiu's sword damage with Bennett's Ult: 500\(no CRIT\), 1576 \(CRIT\)
 
 We can see in the video that after swapping Xingqiu out, the ATK buff remains for a short while and then expires, even though the active character remains in the AOE. Swapping back to Xingqiu gives him the buff again.
 
@@ -79,7 +79,7 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 **Added:** <Version date="2021-04-15" />  
 **Last tested:** <VersionHl date="2021-04-15" />
 
-**Finding:** Bennett's attack buff prioritizes the burst that applied the attack buff first. This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
+**Finding:** Bennett's attack buff prioritizes the Burst that applied the attack buff first. This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
 
 **Evidence:** [YouTube](https://youtu.be/ooYtsZhYUxc)
 
@@ -111,17 +111,17 @@ Better understanding of Bennett Burst mechanics
 **Last tested:** <VersionHl date="2021-02-12" />
 
 **Finding:**  
-Bennett's Q applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the burst such that it ticks on EXACTLY XX.0 for every second of the field duration.
+Bennett's Q applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the Burst such that it ticks on EXACTLY XX.0 for every second of the field duration.
 
 **Evidence:**  
 [Burst ticks](https://youtu.be/Psxr86Qov4M)  
 In this example pause the video at 14.0 and 13.0 CD. You’ll see that on these EXACT seconds, I got healed, and I also got the buffs indicated by arrows simultaneously with the first tick. Indicating the pattern.
 
 [Dodging Burst ticks](https://youtu.be/xrhWmvv4wbY)  
-In this example I avoided standing in the circle for all XX.0 values. I received no pyro aura or buffs/arrows whatsoever. ALL of Bennett Q benefits tick at the same time, and if you are never on the circle during the tick, you will never receive the benefits.
+In this example I avoided standing in the circle for all XX.0 values. I received no Pyro aura or buffs/arrows whatsoever. ALL of Bennett Q benefits tick at the same time, and if you are never on the circle during the tick, you will never receive the benefits.
 
 **Significance:**  
-If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving Bennett, you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the burst, they will get the buff on the next tenth of a second, while if you swap to a new character when XX.9 seconds remains, they will be stranded without the buffs for almost a full second, potentially introducing some inconsistency/uninfused normal attacks. Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.
+If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving Bennett, you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the Burst, they will get the buff on the next tenth of a second, while if you swap to a new character when XX.9 seconds remains, they will be stranded without the buffs for almost a full second, potentially introducing some inconsistency/uninfused normal attacks. Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.
 
 ## Constellation Mechanics
 
@@ -145,7 +145,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 **By:** Sayline\#5959
 
 **Finding:**  
-If C6 is enabled, auto-attacks infused with pyro have 1U worth of pyro application.  
+If C6 is enabled, auto-attacks infused with Pyro have 1U worth of Pyro application.  
 \*1U \(or 1 gauge unit\) is the Keqing Mains theorycrafting standard for elemental auras.  
 \*1U is about 9.5 seconds, and 2U is about 12 seconds. 4U auras exist, but only on Beidou.
 
@@ -161,22 +161,22 @@ with Zhongli:
 
 Knowing this allows us to know which units to pair with C6 Bennett in order to reliably proc Vaporize or Melt.
 
-We want to have an elemental trigger that has more GUs than our elemental aura, so the pyro infused auto will always Vaporize/Melt.
+We want to have an elemental trigger that has more GUs than our elemental aura, so the Pyro infused auto will always Vaporize/Melt.
 
 #### Duration of C6 Infusion
 
 **By:** nekomimi\#3842
 
 **Theory:**  
-C6 Bennett pyro infusion time when you step out of it is roughly 2 seconds.
+C6 Bennett Pyro infusion time when you step out of it is roughly 2 seconds.
 
 **Evidence:**  
 [YouTube](https://youtu.be/cj3qkWH-KuA)
 
 **Significance:**  
-Stepping out of a C6 Bennett Fantastic Voyage field has a left over pyro infusion effect of roughly 2 seconds. Meaning that even if you are outside of it, you have that window to chase after an enemy and still have your weapon infused.
+Stepping out of a C6 Bennett Fantastic Voyage field has a left over Pyro infusion effect of roughly 2 seconds. Meaning that even if you are outside of it, you have that window to chase after an enemy and still have your weapon infused.
 
-#### C6 Bennett pyro dmg bonus in coop
+#### C6 Bennett Pyro dmg bonus in coop
 
 **By:** Neptunya\#8291  
 **Added:** <Version date="2021-07-10" />  
@@ -184,7 +184,7 @@ Stepping out of a C6 Bennett Fantastic Voyage field has a left over pyro infusio
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863515307363532850_863517152987185162_transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)
 
 **Finding:**  
-The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.
+The 15% Pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.
 
 **Evidence:**  
 [Video](https://youtu.be/VOUNrvU_1ak)
@@ -192,7 +192,7 @@ The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multipl
 **Conclusion:**  
 Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.
 
-#### C6 Bennett Pyro Damage Bonus affects Catalyst and Bow-wielders
+#### C6 Bennett Pyro DMG Bonus affects Catalyst and Bow-wielders
 
 **By:** bloodreign616#4766  
 **Added:** <Version date="2021-08-19" />  
@@ -200,7 +200,7 @@ Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shat
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877622028209889291_877811754002968576_transcript-bennett-c6-affects-ranged.html)
 
 **Finding:**  
-Bennett C6 Pyro Damage Bonus affects Catalyst and Bow-wielders
+Bennett C6 Pyro DMG Bonus affects Catalyst and Bow-wielders
 
 **Evidence:**  
 [Video](https://youtu.be/nSqAESuEegY)  
@@ -234,11 +234,11 @@ Prevent knockback and maximise DPS
 
 **By:** Cenpi\#3224
 
-**Theory:** Can 2pc Noblesse Oblige Boost the Party ATK Buff from Bennett Q
+**Theory:** Can 2-Piece Noblesse Oblige Boost the Party ATK Buff from Bennett Q
 
 **Finding:**
 
-2 Set Noblesse Oblige \(+20% Elemental Burst DMG\) does not affect the amount of ATK received from Bennett burst. Please watch the 2 linked videos.
+2 Set Noblesse Oblige \(+20% Elemental Burst DMG\) does not affect the amount of ATK received from Bennett Burst. Please watch the 2 linked videos.
 
 **Evidence**:
 

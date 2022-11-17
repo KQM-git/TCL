@@ -120,8 +120,8 @@ It has some quirks that are different from normal CAs:
 * When out of Normal Attack range from the target, ARCC shots have a fixed height, regardless of how high or low the player aims.
 * When within Normal Attack range of a target, ARCC shots will fire toward the target.
   * This can also happen with regular [Dash Cancel](#dash-cancel) or [jump cancelled](../../evidence/combat-mechanics/tech/aim-cancel.md#aimed-dashjump-cancel-charged-shot) shots when done frame-perfectly.
-* Non-C6 Ganyu, Yoimiya, and Aloy cannot shoot an elemental ARCC. They will always get a physical CA, regardless of charge level before release.
-  * C6 Ganyu can shoot an elemental ARCC after using her skill.
+* Non-C6 Ganyu, Yoimiya, and Aloy cannot shoot an elemental ARCC. They will always get a Physical CA, regardless of charge level before release.
+  * C6 Ganyu can shoot an elemental ARCC after using her Skill.
 
 ## M1RCC: Hold M1 R-Cancel Charged
 

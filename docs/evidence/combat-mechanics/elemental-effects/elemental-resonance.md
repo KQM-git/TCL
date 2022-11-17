@@ -25,7 +25,7 @@ The Trial Character from a party does not get the bonuses from Elemental Resonan
 * Electro Resonance Electro Particle generation with Hangout Thoma: [YouTube](https://youtu.be/bo6h6rCelqc)
 * Anemo Resonance Cooldown Reduction with Hangout Thoma: [YouTube](https://youtu.be/hFlrTT_Edm0)
 * Pyro Resonance for Thoma damage calculation: [Imgur](https://imgur.com/a/dgwlpoi)
-  * (related video: [Youtube](https://youtu.be/L2y1hf-RqO4))
+  * (related video: [YouTube](https://youtu.be/L2y1hf-RqO4))
 
 Resonance bonuses regularly visible on the Attributes page are not added to the Trial Character's Attributes page.
 Pyro Resonance not being applied is also effective in damage calculation. Having the Trial Character be the 5th or 4th party member does not make a difference.
@@ -53,16 +53,16 @@ Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Sw
 **Significance:**  
 Electro Resonance is easier to trigger and more consistent with an Anemo driver than previously expected.
 
-## Cryo Resonance Applies Crit Rate For Cryo Before Reactions
+## Cryo Resonance Applies CRIT Rate For Cryo Before Reactions
 
 **By:** NZPIEFACE#8439  
 **Added:** <Version date="2022-01-14" />  
 **Last tested:** <VersionHl date="2022-01-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929770373271158816_931416249232146452_transcript-cryo-resonance-applies-crate-for-cryo-before-reactions.html)
 
-**Finding:** Cryo resonance determines if an enemy has Cryo for its crit rate buff before reactions remove auras.
+**Finding:** Cryo resonance determines if an enemy has Cryo for its CRIT Rate buff before reactions remove auras.
 
 **Evidence:**
 
-* Transformative: [Youtube](https://youtu.be/k5iV9gdLQ04)
-* Amp: [Youtube](https://youtu.be/wcBAN3d9Vb8)
+* Transformative: [YouTube](https://youtu.be/k5iV9gdLQ04)
+* Amp: [YouTube](https://youtu.be/wcBAN3d9Vb8)

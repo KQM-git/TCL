@@ -44,7 +44,7 @@ Spend less time on gathering loot and more time killing things.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880089241252667452_884462363280035900_transcript-ayaka-na-infinite-ice-bridge.html)
 
 **Theory:**  
-Ayaka can infinitely sprint across large bodies of water using her dash and infused basic attacks to freeze the water for herself. Anemo Resonance is recommended, I'm pretty sure, for adequate stamina regeneration; Ayaka has time for about four basic attacks before you should dash again to avoid falling into the water.
+Ayaka can infinitely sprint across large bodies of water using her dash and infused basic attacks to Freeze the water for herself. Anemo Resonance is recommended, I'm pretty sure, for adequate stamina regeneration; Ayaka has time for about four basic attacks before you should dash again to avoid falling into the water.
 
 **Evidence:**  
 [Video](https://youtu.be/n475K-3MN50)
@@ -84,7 +84,7 @@ You can switch fishing baits in mid-air.
 Note that bait cannot be switched once the bobber enters the water.
 
 **Evidence:**  
-[Youtube](https://youtu.be/S5MWl6yO5V8): Skip to 1:50 for a somewhat practical demonstration
+[YouTube](https://youtu.be/S5MWl6yO5V8): Skip to 1:50 for a somewhat practical demonstration
 
 **Significance:**  
 Unnecessarily advanced fishing technique for those trying to catch multiple species of fish.
@@ -112,9 +112,9 @@ Unnecessarily advanced fishing technique for those trying to catch multiple spec
 * Regional Rods do only work in their own region
 
 **Evidence:**  
-[Youtube](https://youtu.be/3tolOoUnucg): Liyue fishing  
-[Youtube](https://youtu.be/fK7lkgrhuME): Inazuma fishing  
-[Youtube](https://youtu.be/69O5BJGHmXU): Pufferfish fishing  
+[YouTube](https://youtu.be/3tolOoUnucg): Liyue fishing  
+[YouTube](https://youtu.be/fK7lkgrhuME): Inazuma fishing  
+[YouTube](https://youtu.be/69O5BJGHmXU): Pufferfish fishing  
 [Imgur](https://imgur.com/a/9Xca0HA): Calculations  
 [Imgur](https://imgur.com/a/oceZzZi): Calculations 2
 
@@ -133,9 +133,9 @@ Pixel count plots:
 **HQ Videos and Frames**  
 HQ Videos:  
 Pufferfish with different rods (render res 1.0, AA off, OBS lossless, reencoded for youtube):  
-Wilderness: [Youtube](https://youtu.be/cgnRslB3kXQ)  
-Regional: [Youtube](https://youtu.be/5VDzmitRINU)  
-Event: [Youtube](https://youtu.be/n3uCYM33SU0)
+Wilderness: [YouTube](https://youtu.be/cgnRslB3kXQ)  
+Regional: [YouTube](https://youtu.be/5VDzmitRINU)  
+Event: [YouTube](https://youtu.be/n3uCYM33SU0)
 
 Frames used:
 wilderness: [Video](https://drive.google.com/file/d/10TwxUKf5YRbUQL_Tgmf_MSNRUO77UDez/view?usp=sharing)  
@@ -158,7 +158,7 @@ short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJ
 You can grief people trying to fish in co-op with multiple methods. You can either interrupt the fisher, or scare the fish away.
 
 1. There is always collision in co-op, but fishers are prone to movement from this collision. Moving them far enough from their original fishing position will cancel their fishing.
-2. Using Albedo, you can plant an elevator under their feet to cancel their fishing, as long as the albedo elevator is able to rise unimpeded. As of 2.2, other geo constructs do not seem to interrupt fishing as they do not force player movement.
+2. Using Albedo, you can plant an elevator under their feet to cancel their fishing, as long as the albedo elevator is able to rise unimpeded. As of 2.2, other Geo constructs do not seem to interrupt fishing as they do not force player movement.
 3. Drawing enemy aggro: Fishers are intangible to enemy projectiles and attacks and immune to environmental damage, but aggro'ed mobs can physically collide and move the traveler to cancel fishing. Enemies that charge at the player, such as Mitachurls, are optimal for doing so. This is a more "innocent" method of trolling -- you may be able to pass of aggroing the mobs to push the fisher as a mistake. Also, you cannot start fishing while in combat, so if you can get them aggro'ed onto the fisher before fishing can even begin, they have to kill the mobs first. This is probably more reliable than getting a mob to push them away.
 4. Scare the fish off by just moving into the water (swimming, using Waverider, etc), or attacking the fish (Aimed Shots, Klee bombs, etc). Do not do this early because there will be no fish left for your co-op partner to fish for, meaning the grief will be final for the fishing spot until the fish come back. Use previous methods to their full griefing potential before employing this technique.
 
@@ -264,7 +264,7 @@ Don't waste food
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902597789102518323_903669906694864936_transcript-boat-buff-effects.html)
 
 **Finding:**  
-The Waverider is unaffected by any buffs that directly affect it, such as ATK buffs, movement speed, and stamina reduction. In comparison, buffs that affect enemies and not the Waverider itself, such as phys shred, DEF shred, and Mona's Omen do work.
+The Waverider is unaffected by any buffs that directly affect it, such as ATK buffs, movement speed, and stamina reduction. In comparison, buffs that affect enemies and not the Waverider itself, such as phys shred, DEF Shred, and Mona's Omen do work.
 
 **Evidence:**  
 Buffs to the Waverider:
@@ -277,12 +277,12 @@ Buffs to the Waverider:
 Enemy Debuffs:
 
 * With phys shred applied: NA = 2570 / E = 5141: Source - Rosaria Burst (C6 Active)
-* With DEF shred applied: NA = 2381 / E = 4762: Source - Lisa A4
+* With DEF Shred applied: NA = 2381 / E = 4762: Source - Lisa A4
 * Mona's Omen applied: NA = 3525 / E = 7051: Source - Mona Omen, Talent Lv. 10
 
 Media:
 
-* Unbuffed + DEF shred clip/images: [YouTube](https://youtu.be/LXr0si5Dhc0) + [Imgur](https://imgur.com/a/3fynwFD)
+* Unbuffed + DEF Shred clip/images: [YouTube](https://youtu.be/LXr0si5Dhc0) + [Imgur](https://imgur.com/a/3fynwFD)
 * ATK buff clip/images: [YouTube](https://youtu.be/3CVkCwtMdcc) + [Imgur](https://imgur.com/a/StIOKhx)
 * Phys shred clip/images: [YouTube](https://youtu.be/VZTHG3k7Paw) + [Imgur](https://imgur.com/a/IA3UjSu)
 * Mona omen clip/images: [YouTube](https://youtu.be/MIIDYot_XL0) + [Imgur](https://imgur.com/a/yBXSkEQ)

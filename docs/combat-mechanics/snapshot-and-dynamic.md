@@ -14,7 +14,7 @@ Healing effects also snapshot based on the user's stats at the time of activatio
 
 In general, stats that are **not** in a character's "Details" page **do not snapshot**. However, the exception is that "Increases All DMG" effects do snapshot, except for the exceptions to this exception: Alley Hunter, Fading Twilight, and Geo Resonance don't snapshot their "Increases All DMG".
 
-Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow generated when A1 is active is a completely different internal object than the Frostflake Arrow generated when A1 is inactive. (Additionally, it's not just CA Crit Rate, because her uncharged CAs don't get the 20% CR buff).
+Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow generated when A1 is active is a completely different internal object than the Frostflake Arrow generated when A1 is inactive. (Additionally, it's not just CA CRIT Rate, because her uncharged CAs don't get the 20% CR buff).
 
 ## Buffs
 
@@ -44,7 +44,7 @@ Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow g
   * Ascension 4 Passive: Flutter By - CRIT Rate
   * Constellation 4: Garden of Eternal Rest - CRIT Rate
 * Kazuha
-  * Ascension 4 Passive: Poetics of Fuubutsu - Elemental Damage Bonus
+  * Ascension 4 Passive: Poetics of Fuubutsu - Elemental DMG Bonus
   * Constellation 2: Yamaarashi Tailwind - Elemental Mastery
 * Klee
   * Constellation 6: Blazing Delight - Pyro DMG Bonus
@@ -52,7 +52,7 @@ Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow g
   * Constellation 6: Sango Isshin - Hydro DMG Bonus
 * Kujou Sara
   * Elemental Skill: Tengu Stormcall - ATK Bonus
-  * Constellation 6: Sin of Pride - Electro CRIT Damage
+  * Constellation 6: Sin of Pride - Electro CRIT DMG
 * Mona
   * Constellation 4: Prophecy of Oblivion - CRIT Rate
 * Ningguang
@@ -61,7 +61,7 @@ Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow g
   * Elemental Burst: Sweeping Time - ATK Bonus
   * Constellation 6: Must Be Spotless - ATK Bonus
 * Raiden
-  * Elemental Skill: Transcendence: Baleful Omen - Elemental Burst Damage Bonus
+  * Elemental Skill: Transcendence: Baleful Omen - Elemental Burst DMG Bonus
 * Rosaria
   * Ascension 1 Passive: Regina Probationum - CRIT Rate
   * Ascension 4 Passive: Shadow Samaritan - CRIT Rate
@@ -77,7 +77,7 @@ Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow g
 * Xinyan
   * Ascension 4 Passive: "...Now That's Rock 'N' Roll!" - Phys DMG Bonus
 * Yelan
-  Ascension 4 Passive: Adapt With Ease - Damage Bonus
+  Ascension 4 Passive: Adapt With Ease - DMG Bonus
 
 </details>
 
@@ -85,9 +85,9 @@ Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow g
 <summary>Dynamic Buffs</summary>
 
 * Shenhe
-  * Elemental Skill: Spring Spirit Summoning - Damage Bonus of Cryo Attacks
+  * Elemental Skill: Spring Spirit Summoning - DMG Bonus of Cryo Attacks
 * Yun Jin
-  * Elemental Burst: Cliffbreaker's Banner - Damage Bonus of Normal Attacks
+  * Elemental Burst: Cliffbreaker's Banner - DMG Bonus of Normal Attacks
 
 </details>
 
@@ -95,14 +95,14 @@ Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow g
 <summary>Direct Buffs</summary>
 
 * Raiden
-  * Elemental Skill: Transcendence: Baleful Omen - Elemental Burst Damage Bonus
+  * Elemental Skill: Transcendence: Baleful Omen - Elemental Burst DMG Bonus
 * Shenhe
 
-  * Elemental Skill: Spring Spirit Summoning - Damage Bonus of Cryo Attacks
+  * Elemental Skill: Spring Spirit Summoning - DMG Bonus of Cryo Attacks
   * 4th Ascension Passive: Spirit Communion Seal (Press) - Elemental Skill and Elemental Burst DMG Bonus
-  * Constellation 2: Centered Spirit - Cryo CRIT Damage
+  * Constellation 2: Centered Spirit - Cryo CRIT DMG
 
-* 4pc [Blizzard Strayer](../equipment/artifacts.md#blizzard-strayer) passive - CRIT Rate
+* 4-Piece [Blizzard Strayer](../equipment/artifacts.md#blizzard-strayer) passive - CRIT Rate
 * Cryo Elemental Resonance (Shattering Ice) - CRIT Rate
 
 </details>
@@ -113,7 +113,7 @@ Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow g
 
 ## Dynamic Transformative Reactions
 
-[Transformative Reactions](elemental-effects/transformative-reactions.md) do not snapshot EM as of patch 1.4. Even if a skill snapshots, their EM will update real time.  
+[Transformative Reactions](elemental-effects/transformative-reactions.md) do not snapshot EM as of patch 1.4. Even if a Skill snapshots, their EM will update real time.  
 Transformative Reactions include: [Overload](elemental-effects/transformative-reactions.md#overloaded), [Superconduct](elemental-effects/transformative-reactions.md#superconduct), [Electro-Charged](elemental-effects/transformative-reactions.md#electro-charged), [Shatter](elemental-effects/transformative-reactions.md#shatter), [Swirl](elemental-effects/transformative-reactions.md#swirl), and [Crystallize](elemental-effects/transformative-reactions.md#crystallize).
 
 > Fischl summons Oz outside of Bennett's Burst. Oz deals 920 Electro damage and 1870 on Overloads. Sucrose shares EM with Fischl and Fischl steps into Bennett's Burst. Oz **still** deals 920 Electro damage, but **Overload damage has been increased** to 1900.

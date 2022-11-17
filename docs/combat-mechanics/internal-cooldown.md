@@ -53,7 +53,7 @@ Some general properties of ICD are:
 
 ## Advanced Overview
 
-Here we give a more precise framework for ICD. While the intuitive overview gives perspective about what kinds of observable effects ICD has, it does not give a precise detailing of how ICD actually works internally. Furthermore, the intuitive explanation does not explain anomalies such as why Ayaka, at C2 and above, can only melt 16 times over the duration of her Elemental Burst (assuming all attacks hit) when 20 would be expected by the intuitive understanding of ICD.
+Here we give a more precise framework for ICD. While the intuitive overview gives perspective about what kinds of observable effects ICD has, it does not give a precise detailing of how ICD actually works internally. Furthermore, the intuitive explanation does not explain anomalies such as why Ayaka, at C2 and above, can only Melt 16 times over the duration of her Elemental Burst (assuming all attacks hit) when 20 would be expected by the intuitive understanding of ICD.
 
 Let $(g_n) = g_1, g_2, \ldots, g_n$ be a sequence and let $t_{\text{reset}}$ be the timer reset interval of ICD. The sequence $(g_n)$ is called a *gauge sequence*. We also define $t_0$ to be the time at which the timer is started and $t$ to be the time at which the $k$-th attack occurs.
 * If $t_\text{reset} \le (t - t_0)$, then $k$ is reset to $1$ and $t_0$ is set to the time at which the most recent attack occured.

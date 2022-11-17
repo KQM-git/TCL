@@ -57,7 +57,7 @@ All of her attacks will cause Frosted Floor: the floor will become patched with 
 * Summons a group of ice shards in a straight line, dealing Cryo DMG.
 * Imbues three ice flowers which will explode after a short period of time.
 * Hurls in a wheel of ice shards that travels in a circular arc, dealing rapid Cryo DMG. This is usually done as a follow up to her Ice Shards attack.
-* Signora teleports to the player character's position, releasing a small AoE burst of Cryo upon impact.
+* Signora teleports to the player character's position, releasing a small AoE Burst of Cryo upon impact.
   * She may also perform this attack if the player lingers too close to her.
 * Signora launches five icy spears that home in on the player character one after another.
 * Signora conjures six icy spears that surround the player character before converging on them, dealing Cryo damage.
@@ -68,5 +68,5 @@ La Signora will relocate at the center of the arena in order to encase herself i
 * During this phase, Sheer Cold will accumulate much rapidly and she will attack the player with homing icicles, lock-on target ice shards, and ice flowers.
 * This phase is similar to the Cryo Hypostasis's Glacial Shield.
 * Crimson Lotus Moths will spawn which can be picked up. This will imbue your attacks will Pyro, dealing bonus DMG against her cocoon.
-  * The character dealing damage must be on-field for the Crimson Lotus Moth's effect to melt Signora's cocoon.
+  * The character dealing damage must be on-field for the Crimson Lotus Moth's effect to Melt Signora's cocoon.
 * Using Elemental Reactions, especially Melt, will also help destroy her cocoon.

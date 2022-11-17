@@ -117,7 +117,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Oz** is able to target Baron Bunny after Fischl’s Ascension 1 passive, **Stellar Predator** is triggered, despite having no enemies nearby. The passive may or may not deliver a **Thundering Retribution** onto the Baron Bunny.
-* When **Oz** is repositioned via the use of this elemental skill, it counts as a use of an elemental skill and it re-snapshots Fischl's stats.
+* When **Oz** is repositioned via the use of this elemental Skill, it counts as a use of an elemental Skill and it re-snapshots Fischl's stats.
 * **Oz's** normal attacks shares ICD with her **C6**.
 
 </TabItem>
@@ -148,10 +148,10 @@ import Skill from '@site/src/components/char/Skill'
 * Fischl may not attack, cast, or dash during the duration of this ability.
 * Summons **Oz** when the effect ends.
 * If **Oz** is already on the field, this will reset his duration instead.
-* You can swap characters during Fischl's **Midnight Phantasmagoria** to exit the burst early.
+* You can swap characters during Fischl's **Midnight Phantasmagoria** to exit the Burst early.
 * **Midnight Phantasmagoria** only has invulnerability frames \(iframes\) on startup.
 * After summoning **Oz** with Midnight Phantasmagoria and swapping off of Fischl, **Oz** will snapshot Fischl's stats right before she leaves the field.
-* **Midnight Phantasmagoria** is considered a blunt attack and will shatter frozen enemies.
+* **Midnight Phantasmagoria** is considered a blunt attack and will shatter Frozen enemies.
 
 </TabItem>
 </Tabs>
@@ -265,9 +265,9 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* C4 can crit and has separate crit rolls from Q.
+* C4 can CRIT and has separate CRIT rolls from Q.
 * C4 damage occurs before Q (higher priority)
-* C4 is not a blunt attack and will not shatter frozen enemies.
+* C4 is not a blunt attack and will not shatter Frozen enemies.
 
 </TabItem>
 
