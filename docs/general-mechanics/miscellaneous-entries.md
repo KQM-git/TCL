@@ -113,6 +113,13 @@ description: For entries that have little practical use.
 
 * Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some [odd properties](../evidence/general-mechanics/miscellaneous-entries.md#kuki-shinobus-melons).
 
+## Bad Device Co-op Experience
+
+* The experiences of players using bad devices (either poor connection, processing power) have many peculiarities. 
+* These mostly involves the properties of enemies, such as when they spawn, reaction procing, HP of shields, etc.
+* Going into certain menus can also get the player stuck inside them until enemies "spawn" for them.
+* For more details, check out this entry in the [Evidence Vault](../evidence/general-mechanics/miscellaneous-entries.md#bad-device-co-op-domain-experience).
+
 ## 100K Tickets Event Hall of Fame
 
 The winning "TC" entries of our **KQM 100K Event**, as well as some of our Scholars personal favourites.

@@ -1179,80 +1179,76 @@ weapons have are in a constant state of seizure pain or pleasure.
 ## Bad Device Co Op Domain Experience
 
 **By:** Casdela\#5121, aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\#3860  
-**Added:** <Version date="2022-11-09" />  
+**Added:** <Version date="2022-11-18" />  
 **Last tested:** <VersionHl date="2022-11-04" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/bad-device-co-op-domain-experience)
 
-**Theory:**  
-Dying while sticking or close to the barrier, counts as being within the barrier and you don't respawn  
-The domain's special effect has no delay  
-Sometimes enemies spawn where they spawn at start when they finally spawn in for bad connection player, sometimes they spawn THERE for a second and teleport where they have been for other players when they were fighting each other  
-  
-Need checking from other players with no bad connection and played with players with bad connection according to what other Co-op members have told:  
-* Enemies are standing still  
-* Enemies have no shield (not sure if it's Cryo/Electro Abyss Mage or Cryo Lawachurl they were referring)  
-   
-**Evidence:**  
-Barrier doesn't spawn(it spawns late) can run out of barrier  
-Enemies be attacking co-op members with no connection issue as usual (but sometimes enemies just stand still, uncertain)  
-Electro/Cryo Lawachurl floor slam attacks spawn all at once when they load in and one shot me  
-Certain enemies' attacks can hit me even when they have not load in for me:  
-* Electro Abyss Mage Electro ring attack can hit when the enemy haven't spawn in  
-* Ruin Drakes nuke bomb attack, flying Ruin Drake machine gun attack  
-* Cryo Lawachurl ice bombs on the ground  
-Overload AoE DMG caused by enemies onto Co-op members can hurt the bad connection player  
-Enemies can die and challenge can be finished before enemies spawn in on bad connection player side  
-Energy particles doesn't spawn until enemies have spawn (but I got particles from Nilou in Deepwood Memories domain)  
-Energy regen from Raiden Burst Dori Burst works  
-Players outside the barrier can respawn after dying but not sure t
-  
-**Bug:**  
-Domain enemies don't spawn for players playing on bad device(?) and random things happen  
-  
-**Evidence:**  
-There are enemies who look normal when "spawned" and doesn't teleport and switch to attacking within a short and unusual interval from spawning (this description for bad device player) (from other players' perspective the enemies are just standing still)*  
-* Their HP bar reset upon "spawn"  
+**Finding:**  
+Domain enemies don't spawn immediately for players playing on low-end device and the following things happen during that time.
+
+**Evidence:**
+When you see a "spawn" with the "", it means when the enemies spawn for the player with bad connection.
+
+From the perspective of the player with low-end device enemies look like they just spawned in(normal unshielded lawachurl within spawn, and they do not teleport around after spawning on player's side with a low-end device.  
+From the perspective of other players with no issues, the enemies are just standing still, not aggro'd.  
+
+* Their HP bar reset upon "spawn".  
   * [YouTube](https://youtu.be/MAvshovJABs)  
-* They were standing still before the "spawn"
-* Cryo Abyss Mage has no shield and shield spawn at "spawn"  
-* Enemies DON'T have aura (even Electro Slimes) and can't be apllied aura  
-* Because enemies don't have and can't be applied aura, Kazuha and Venti Burst won't get infusion unless it's a self infusion  
+* They were standing still before the "spawn".  
+* Cryo Abyss Mage has no shield and shield spawn at "spawn".  
+* Enemies DON'T have aura (even Electro Slimes) and auras cannot be even applied.  
+* Because enemies don't have and can't be applied aura, Kazuha Venti Burst won't get infusion unless it's a self infusion.  
   * [YouTube](https://youtu.be/9EwDlO7_tU4)  
   * [YouTube](https://youtu.be/HhDsfJLlb10)  
-* Enemies can't be debuffed  
+* Enemies can't be debuffed.  
   * [YouTube](https://youtu.be/X20VrVkdPII)  
   * [YouTube](https://youtu.be/dehTzMs7pT4)  
   * [YouTube](https://youtu.be/SdyT479CWcg)  
-* Zhongli Burst don't petrify enemy before "spawn"  
+* Zhongli Burst don't petrify enemy before "spawn".  
   * [YouTube](https://youtu.be/Q4dhYPQaGIw)  
   * [YouTube](https://youtu.be/X20VrVkdPII)  
-* Lisa Burst doesn't attack enemy, don't know why  
+* Lisa Burst doesn't attack enemies.   
   * [YouTube](https://youtu.be/FNbQwfvBMv8)  
-  
-* Opening Co-op menu/Adventurer Handbook/BP/Map/Wish Menu will get you stuck, all buttons on mobile gone, but don't know if it always continues until enemy "spawn" though  
+
+From the perspective of player on low-end device, sometimes enemies teleports shortly after spawning for them and are attacking as soon as they spawn for that player, and below are what happens in this condition:  
+
+* They are attacking other players before spawning on the side of the player with bad connection/device/internet/ping/signal.  
+* Their HP bar don't reset.  
+* Abyss Mage shield HP don't reset.  
+* Certain enemy attacks can hit you before "spawn" or the attacks spawn when the enemy "spawn".  
+  * [YouTube](https://youtu.be/QlSkn2T0qH4)  
+  * [YouTube](https://youtu.be/YV9qphxt4KA)  
+* Overload damage triggered on your teammates by enemy can damage you, not sure about other reactions.  
+  * [YouTube](https://youtu.be/4ytvwR0KJWo)  
+* They stand straight at where they spawn at their usual spawning spot for a moment before teleporting and continue the fight before the "spawn".
+  * [YouTube](https://youtu.be/ubhtZC_yhnU)  
+* Particles doesn't spawn until enemies spawn (Raiden Burst energy regen still works).
+  * [YouTube](https://youtu.be/YV9qphxt4KA)  
+  * [YouTube](https://youtu.be/At5-Ig2mdvM)  
+
+* Opening Co-op menu/Adventurer Handbook/BP/map/wish menu will get you stuck, all buttons on mobile gone. Not sure if it always continues until enemy "spawn".  
   * [YouTube](https://youtu.be/hyk0Td2j8U4)  
   * [YouTube](https://youtu.be/8LDCDsD7Nzc)  
   * [YouTube](https://youtu.be/Vv8FU_mZROM)  
   * [YouTube](https://youtu.be/DAdsgiwD4QE)  
   * [YouTube](https://youtu.be/vYiWjhV0hPA)  
-  
-* Events menu did got me stuck but not until enemies have spawned  
+
+* Events menu did got me stuck but not until enemies have spawned.  
   * [YouTube](https://youtu.be/8xvMMS0aj-c)  
-  
-* Characters menu did not get me stuck but can't switch Weapons and Artifacts due to the list/menu of other Weapons/Artifacts to switch with doesn't show up  
+
+* Characters menu did not get me stuck but can't switch weapons and artifacts cuz the list/menu of other weapons/artifacts to switch with doesn't show up.  
   * [YouTube](https://youtu.be/-LE6rJvTCSA)  
   * [YouTube](https://youtu.be/DAdsgiwD4QE)  
-  
-* The inventory won't get stuck and can switch Gadgets  
+
+* The inventory won't get me stuck and can switch gadgets.  
   * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
-  
-* You can use Klee confetti Gadget, Wind Current Gadget, and Windblume Balloon Gadget (maybe Xiao Lantern too) and your pet won't hide before enemies "spawn" while Co-op teammates are fighting  
+
+* You can use Klee confetti gadget, wind current gadget, and windblume balloon gadget (maybe xiao lantern too) and your pet won't hide before enemies "spawn" while Co-op teammates are fighting.  
   * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
   * [YouTube](https://youtu.be/At5-Ig2mdvM)  
   * [YouTube](https://youtu.be/qbRN_ZktJpk)  
-  
-* Sheer Cold accumulate as usual but walking out of the battle square will make the sheer cold meter go down  
+
+* Sheer cold accumulate as usual but I can walk out of the battle square and sheer cold meter will go down.  
   * [YouTube](https://youtu.be/Gk83vsL7k3I)  
-  
-**significance:**  
-Help prepare your heart 💓💗 when these happen in Co-op, hopefully (PS: it doesn't help).
+
+**Significance:** Help prepare your heart 💓💗 when these happen in Co-op, hopefully (ps: it doesn't help).  
