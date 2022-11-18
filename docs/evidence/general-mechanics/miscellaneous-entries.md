@@ -1189,7 +1189,7 @@ Domain enemies don't spawn immediately for players playing on low-end device and
 **Evidence:**
 When you see a "spawn" with the "", it means when the enemies spawn for the player with bad connection.
 
-From the perspective of the player with low-end device enemies look like they just spawned in(normal unshielded lawachurl within spawn, and they do not teleport around after spawning on player's side with a low-end device.  
+From the perspective of the player with low-end device enemies look like they just spawned in, like a Lawachurl will be unshielded, and they do not teleport around after spawning on player's side with a low-end device.  
 From the perspective of other players with no issues, the enemies are just standing still, not aggro'd.  
 
 * Their HP bar reset upon "spawn".  
@@ -1233,10 +1233,10 @@ From the perspective of player on low-end device, sometimes enemies teleports sh
   * [YouTube](https://youtu.be/DAdsgiwD4QE)  
   * [YouTube](https://youtu.be/vYiWjhV0hPA)  
 
-* Events menu did got me stuck but not until enemies have spawned.  
+* Events menu will get you stuck but not until enemies have spawned.  
   * [YouTube](https://youtu.be/8xvMMS0aj-c)  
 
-* Characters menu did not get me stuck but can't switch weapons and artifacts cuz the list/menu of other weapons/artifacts to switch with doesn't show up.  
+* Characters menu will not get you stuck but can't switch weapons and artifacts cuz the list/menu of other weapons/artifacts to switch with doesn't show up.  
   * [YouTube](https://youtu.be/-LE6rJvTCSA)  
   * [YouTube](https://youtu.be/DAdsgiwD4QE)  
 
@@ -1248,7 +1248,7 @@ From the perspective of player on low-end device, sometimes enemies teleports sh
   * [YouTube](https://youtu.be/At5-Ig2mdvM)  
   * [YouTube](https://youtu.be/qbRN_ZktJpk)  
 
-* Sheer cold accumulate as usual but I can walk out of the battle square and sheer cold meter will go down.  
+* Sheer cold accumulate as usual but walking out of the battle square makes the sheer cold meter go down.  
   * [YouTube](https://youtu.be/Gk83vsL7k3I)  
 
 **Significance:** Help prepare your heart 💓💗 when these happen in Co-op, hopefully (ps: it doesn't help).  
