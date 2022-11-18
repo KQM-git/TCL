@@ -84,7 +84,7 @@ import Skill from '@site/src/components/char/Skill'
 | Shield DMG Absorption \(T9%\)     | 12.24% Max HP + 1410 |
 | Max Shield DMG Absorption \(T9%\) | 33.32% Max HP + 3838 |
 | Shield Element                    | Pyro                 |
-| Shield Duration                   | 8 s                  |
+| Shield Duration                   | 8s                   |
 | CD                                | 15s                  |
 
 </div>
