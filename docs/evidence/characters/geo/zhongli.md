@@ -10,13 +10,26 @@ search: false
 
 ## Basic Mechanics
 
+[Discussion](https://tickets.deeznuts.moe/transcripts/963331426504278026)  
+
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1NPOothWseChb-OzOHQqunBdi-M3udmQPqPop0kf7H-w/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
-* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
-* Elemental Skill gauges:
-  * [Press E](https://imgur.com/a/eTkLPB9): 2U
-  * [Hold E](https://imgur.com/a/8QO4f8V): 1U
+* Burst frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
+* Gauges:
+  * Press E: 2U - [Imgur](https://imgur.com/a/eTkLPB9)
+  * Hold E: 1U - [Imgur](https://imgur.com/a/8QO4f8V)
+  * Q: 4U - [YouTube](https://youtu.be/AMkgPqhXEt0) - RazorClaws\#4343
+* ICDs:
+  * Resonance from Zhongli's pillar and other Geo Constructs share ICD. - [YouTube](https://youtu.be/UOKUs-NrP4M) - Potade\#9775
+  * Resonance and Burst share ICD. - [YouTube](https://youtu.be/j5Cpv-xtuOQ) - Bobrokrot\#0111
+  * Resonance from the first pillar and C1 pillar share ICD. - [YouTube](https://youtu.be/PJ9PBEpEvrM) - Potade\#9775
 
 ## Skill Mechanics
+
+* Pillar Pulse Range - [Imgur](https://imgur.com/grcz2j9) - Coronaus\#0001
+  * 1.5 Abyss Tiles.
+  * The radius range for construct resonance is 3 tiles (meaning the distance of a construct from a pillar that will resonate).
+* Pillar placement is 1 Abyss Tile in front of Zhongli - [Imgur](https://imgur.com/8lXEghG) - Latiwings\#3308
+* Pillar pulses suffer from FPS dependence, it triggers 15 times at 60 FPS and 14 times at 59 FPS or lower. - [Google Sheets](https://docs.google.com/spreadsheets/d/182KPzD5g2ThH1vIB9VNTYBt7UmY6T_kW23Z6YZhqZMk/edit#gid=630579272) - Tibo\#4309
 
 ### Construct Resonance Mechanics
 
@@ -29,21 +42,21 @@ search: false
 Construct resonance hits as many times as there are constructs
 
 **Evidence:**  
-[Video:](https://youtu.be/6mUqRTjVgBE) With 1 Stele and 2 geo constructs, there are 3 instances of geo damage on the ruin guard per pulse
+[Video:](https://youtu.be/6mUqRTjVgBE) With 1 Stele and 2 Geo Constructs, there are 3 instances of geo damage on the ruin guard per pulse
 
 **Significance:**  
-The greater the number of geo constructs on the field the more damage resonance will deal (of course counting on the fact that each resonance hits the target)
+The greater the number of Geo Constructs on the field the more damage resonance will deal (of course counting on the fact that each resonance hits the target)
 
 **Finding 2:**  
-The resonance produced by each Stele is independant of each other
+The resonance produced by each Stele is independent of each other.
 
 **Evidence**  
-This was tested using two steles and one geo construct. As can be seen clearly from the [targetless example](https://youtu.be/5tU76Qn7V_U), the geo construct pulses twice in 2s - once for each steele.
-This is further shown in the [example with a target](https://youtu.be/naC-dy0jECw). There are two Steles present, A and B as well as one geo construct C. As shown, the pulses AC and BC hit separately in a 2s window, each doing two instances of damage for a total of 4 instances of damage in 2s.
+This was tested using two steles and one Geo Construct. As can be seen clearly from the [targetless example](https://youtu.be/5tU76Qn7V_U), the Geo Construct pulses twice in 2s - once for each Stele.
+This is further shown in the [example with a target](https://youtu.be/naC-dy0jECw). There are two Steles present, A and B as well as one Geo Construct C. As shown, the pulses AC and BC hit separately in a 2s window, each doing two instances of damage for a total of 4 instances of damage in 2s.
 
 **Significance:**  
-This shows that with c1 Zhongli or during co-op, the presence of more than one Zhongli pillar allows more resonance damage within a given window. With b being the resonance damage with one seele in one 2s window and n being the number of steeles, the total resonance damage would be nb.
-In other words having two pillars from c1 will double the damage from resonance.
+This shows that with C1 Zhongli or during Co-Op, the presence of more than one Zhongli pillar allows more resonance damage within a given window. With b being the resonance damage with one Stele in one 2s window and n being the number of steeles, the total resonance damage would be nb.
+In other words having two pillars from C1 will double the damage from resonance.
 
 ### Zhongli RES Shred Lingers
 
@@ -177,6 +190,8 @@ Knowing more about Geo Construct spawn conditions at different heights.
 
 ### A1: Resonant Waves
 
+* Fortify gets procced by Aura Checks. - [YouTube](https://youtu.be/6FT0zG3VrfI) - Beast Boy\#2560
+
 #### Zhongli's Ascension 1 broken down
 
 **By:** 3b00d_09\#2235  
@@ -204,7 +219,7 @@ As we can see in this video, Zhongli was able to fully absorb 6 rockets, losing 
 
 _Scenario 2:_
 
-Further Evidence: Lets take another example, Zhongli this time has 9570 Base Shield Absorption. A single swing from a level 85 Ruin Guard will hit for 3388 Damage.
+Further Evidence: Let's take another example, Zhongli this time has 9570 Base Shield Absorption. A single swing from a level 85 Ruin Guard will hit for 3388 Damage.
 
 * If the +5% Shield Bonus is applied after damage calculation, then Jade Shield should full absorb two swings, breaking at the third and sustaining 137 damage: [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178529971044372_unknown.png)
 * If the +5% Shield Bonus is applied during damage calculation, then Jade Shield should fully absorb 3 hits with 364 Shield Strength remaining: [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178650636845076_unknown.png)
@@ -213,7 +228,7 @@ Further Evidence: Lets take another example, Zhongli this time has 9570 Base Shi
 
 We can see that Zhongli's Jade Shield was able to fully absorb 2 swings, with the third swing breaking his shield and dealing 143 damage to him.
 
-In case you cant tell how many swings _actually_ hit Zhongli, _if_ the shield fully absorbed 3 hits, then in the case where the +5% Fortification is applied during damage step, Zhongli should sustain ~3k direct damage from the instance the shield breaks, no matter what hit it was. Clearly, he took 143 direct damage from the hit that broke Jade Screen.
+In case you can't tell how many swings _actually_ hit Zhongli, _if_ the shield fully absorbed 3 hits, then in the case where the +5% Fortification is applied during damage step, Zhongli should sustain ~3k direct damage from the instance the shield breaks, no matter what hit it was. Clearly, he took 143 direct damage from the hit that broke Jade Screen.
 
 On a side note, recasting Jade Screen before it breaks will reset the Fortification bonus back to 0.
 
@@ -245,13 +260,13 @@ Zhongli's shield is ridiculously effective against DoT as it stacks immediately 
 **Finding:**  
 Zhongli's shield tech
 
-1. Shield Strength gained from A4 persist upon swap
+1. Shield Strength gained from A4 persists upon swap
 
 2. However, it does not persist upon refresh.  
-   2b. Above also applies if it's refresh from C2.
+   2b. Above also applies if it's refreshes from C2.
 
 **Evidence:**  
-Shield Strength from gained from A4 persist upon swap [Imgur](https://imgur.com/LBixuhT)
+Shield Strength gained from A4 persists upon swap [Imgur](https://imgur.com/LBixuhT)
 
 Shield Strength doesn't persist upon refresh [Imgur](https://imgur.com/AtSNAE3)
 
@@ -262,6 +277,10 @@ Shield management.
 
 ## Constellation Mechanics
 
+### C1: Rock, the Backbone of Earth
+
+* C1 pillars pulse independently from the first pillars. - [YouTube](https://youtu.be/PJ9PBEpEvrM) - Potade\#9775
+
 ### C2: Stone, the Cradle of Jade
 
 #### Zhongli C2 Mechanics
@@ -271,20 +290,28 @@ Shield management.
 **Last tested:** <VersionHl date="2021-04-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834400006948782090_834658055391150150_transcript-zhongli-c2-mechanics.html)
 
-**Finding:** Zhongli c2 affects his own burst when casting as do the 15% DMG bonus from Geo resonance but not the Geo resistance down unless it is applied first.
+**Finding:**  
+Zhongli C2 affects his own Burst when casting as do the 15% DMG bonus from Geo Resonance but not the Geo resistance down unless it is applied first.
 
 **Evidence:**  
-[This video shows the damage of his burst in specific circumstances](https://www.youtube.com/watch?v=Uv9ZNUz5vHE)
+[This video shows the damage of his Burst in specific circumstances](https://www.youtube.com/watch?v=Uv9ZNUz5vHE)
 
 * Burst with shield already applied: 48k
 * Burst with no shield: 48k
 * Burst with Geo resonance and no shield: 52k
 * Burst with Geo resonance and shield: 52k
 * Burst with Geo resonance shield and res down: 57k
-* The shield is formed at the end of the burst animation.
+* The shield is formed at the end of the Burst animation.
 
 **Significance:**  
 For the highest damage apply the Geo res down before pressing Burst.
+
+### C6: Chrysos, Bounty of Dominator
+
+* Healing is not procced by environmental damage. - [YouTube](https://youtu.be/s7gzPvOUvag) - Coronaus\#0001
+* Healing is not procced by corrosion. - [YouTube](https://youtu.be/qoO_6I3xyxg) - Coronaus\#0001
+* Healing proc has no ICD. - [YouTube](https://youtu.be/8TlVMGw3iJU) - Coronaus\#0001
+* Healing does count for Clam set. - [Vault Entry](../../equipment/artifacts.md#extensive-look-at-what-heals-count-for-ohc) - Juslin\#7989
 
 ## Interactions/Synergies
 
@@ -295,15 +322,15 @@ For the highest damage apply the Geo res down before pressing Burst.
 **Last tested:** <VersionHl date="2021-01-07" />
 
 **Bug/Finding:**  
-Fischl C6 does not always proc on Zhongli's first normal attack. When chaining multiple Zhongli attack sequences together, after the first sequence, the c6 does not proc on the first normal of the subsequent sequences.
+Fischl C6 does not always proc on Zhongli's first normal attack. When chaining multiple Zhongli attack sequences together, after the first sequence, the C6 does not proc on the first normal of the subsequent sequences.
 
 **Evidence:**  
-[https://youtu.be/\_hEXbDqPtfo](https://youtu.be/_hEXbDqPtfo), as we can see Zhongli's first normal attack in the second and third attack sequence does not proc a fischl c6 proc
+[https://youtu.be/\_hEXbDqPtfo](https://youtu.be/_hEXbDqPtfo), as we can see Zhongli's first normal attack in the second and third attack sequence does not proc a Fischl C6 proc
 
-Pausing between sequences \([https://youtu.be/QmN3a94XPBI](https://youtu.be/QmN3a94XPBI)\), and dash canceling after the sequence \([https://youtu.be/JBQUbJp0hks](https://youtu.be/JBQUbJp0hks)\) seems to avoid the problem and the c6 proc occurs as normal.
+Pausing between sequences \([https://youtu.be/QmN3a94XPBI](https://youtu.be/QmN3a94XPBI)\), and dash canceling after the sequence \([https://youtu.be/JBQUbJp0hks](https://youtu.be/JBQUbJp0hks)\) seems to avoid the problem and the C6 proc occurs as normal.
 
 **Significance:**  
-Allows for more accurate DPS calculations when using Zhongli and c6 fischl together.
+Allows for more accurate DPS calculations when using Zhongli and C6 Fischl together.
 
 ### 4 TOM Passive on Zhongli Procs With Other Geo Constructs
 
@@ -313,7 +340,7 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839089619743539230_840068304864280586_transcript-4pc-tom-zhongli-interaction.html)
 
 **Finding:**  
-4pc ToM passive can be triggered by other geo constructs when it is in range of zhongli's pillar
+4pc ToM passive can be triggered by other Geo Constructs when it is in range of zhongli's pillar
 
 **Evidence:**
 
