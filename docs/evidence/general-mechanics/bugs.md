@@ -196,7 +196,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **Significance:** You can view aimed mode shots in third person without any friends
 
-### 4-Piece set bonuses on environment reactions
+### 4-Piece Set Bonuses on Environment Reactions
 
 **By:** Aluminum#5462  
 **Added:** <Version date="2021-06-22" />  
@@ -462,7 +462,8 @@ Just another one amongst annoying Fatui _mechanics_.
 * [YouTube](https://youtu.be/7H84lGcZf8s)
 * [YouTube](https://imgur.com/a/770PQ9Y)
 
-**Significance:** Allows characters to quickly absorb Particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
+**Significance:**  
+Allows characters to quickly absorb Particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
 
 ### Xiangling's Burst can Stack in Contending Tides Event
 
@@ -470,7 +471,8 @@ Just another one amongst annoying Fatui _mechanics_.
 **Added:** <Version date="2021-04-09" />  
 **Last tested:** <VersionHl date="2021-04-09" />
 
-**Bug:** Xiangling's Burst can stack in the Contending Tides event.
+**Bug:**  
+Xiangling's Burst can stack in the Contending Tides event.
 
 [Imgur](https://i.imgur.com/pHOzDAr.png)
 
@@ -566,7 +568,8 @@ When Elemental absorption happens late into a Venti Q, the damage from Elemental
 
 **Bug:** Venti's Hold Elemental Skill will always lift you vertically up
 
-**Evidence:** [YouTube](https://www.youtube.com/watch?v=N-4qXvyX75A)
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=N-4qXvyX75A)
 
 Step 1. Use Venti's Hold E on a flat surface, see what direction you go  
 Step 2. Repeat but have Venti on an incline  
@@ -574,18 +577,31 @@ Step 3. Repeat but have Venti on the very edge of the box
 
 This may be considered a bug due to the visual indication being tilted, but the actual windstream being vertical.
 
-**Significance:** When exploring, Venti's Hold Elemental Skill will always lift you up, so positioning or angle of Venti does not matter.
+**Significance:**  
+When exploring, Venti's Hold Elemental Skill will always lift you up, so positioning or angle of Venti does not matter.
 
-### Mona Elemental Skill bug
+### Mona Elemental Skill Bug
 
 **By:** Childe C6 is overrated-Toro\#1035  
 **Added:** <Version date="2021-05-25" />  
 **Last tested:** <VersionHl date="2021-05-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842575899408203846_846689845517877268_transcript-mona-e-bug.html)
 
-**Bug:** There is a small chance that when you use Mona's Press E, the explosion damage and Particle generation also happens during cast
+**Bug:**  
+There is a small chance that when you use Mona's Press E, the explosion damage and Particle generation also happens during cast.
 
-**Evidence:** [Gif](https://imgur.com/OUu1msK) [Gif](https://imgur.com/LsbvMJE) [Gif](https://imgur.com/6LG5Weq) [Gif](https://imgur.com/bssKdg2) [Gif](https://imgur.com/xjG8lzt) [Gif](https://imgur.com/1qsjnyV) [Gif](https://imgur.com/05vmozO) [Gif](https://imgur.com/3U1WAbi) As we can see in all the videos, when Mona used Press E, it did damage to the enemy and also generated Particles \(the same amount of damage and Particles as the Phantom explosion\).
+**Evidence:**  
+
+* [Gif](https://imgur.com/OUu1msK)
+* [Gif](https://imgur.com/LsbvMJE)
+* [Gif](https://imgur.com/6LG5Weq)
+* [Gif](https://imgur.com/bssKdg2)
+* [Gif](https://imgur.com/xjG8lzt)
+* [Gif](https://imgur.com/1qsjnyV)
+* [Gif](https://imgur.com/05vmozO)
+* [Gif](https://imgur.com/3U1WAbi)
+
+ As we can see in all the videos, when Mona used Press E, it did damage to the enemy and also generated Particles \(the same amount of damage and Particles as the Phantom explosion\).
 
 It can happen against any enemy, and it seems to be a random occurrence. It doesn't seems to follow any pattern \(in some tests it would happen 1 time in 10 mins, in others it would happen 2 times in 2 mins\). It doesn't seems to be related to Mona's Cons, Weapons, Artifacts, neither to mechanical input or ping. It doesn't happens if you use Hold E, only on Press E. Don't know if this bug happened in previous patches. Thanks to @Aluminum \| Harbinger of Jank for one of the clips.
 

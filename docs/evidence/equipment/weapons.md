@@ -186,7 +186,7 @@ Offers an easy way to visualize how the probability changes with the CRIT Rate. 
 
 ## Infusion Series
 
-### Crescent Pike Procs Benefit From All Relevant DMG Bonuses
+### Crescent Pike Procs Benefit From All Relevant Damage Bonuses
 
 **By:** Xreejan\#1180  
 **Added:** <Version date="2022-07-19" />  
@@ -614,7 +614,8 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 **Last tested:** <VersionHl date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855433084420489252_858194419470303252_transcript-library-completion-2.html)
 
-**Finding:** Skyward Pride's vacuum blades can CRIT.
+**Finding:**  
+Skyward Pride's vacuum blades can CRIT.
 
 **Evidence:** [YouTube](https://www.youtube.com/watch?v=S7EN0Kl3l9A)
 
@@ -631,9 +632,11 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
 **Finding:** Skyward Atlas' weapon proc can CRIT.
 
-**Evidence:** https://www.youtube.com/watch?v=PcVPrTAAdu0&ab_channel=Arco
+**Evidence:**  
+[YouTube](https://youtu.be/PcVPrTAAdu0)
 
-**Significance:** calculations should account for the CRIT possibility of weapon procs.
+**Significance:**  
+Calculations should account for the CRIT possibility of weapon procs.
 
 ## Specific Weapon Mechanics
 
@@ -645,7 +648,7 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
 [Gaining a new seed will refresh the duration of previously gained seeds.](https://www.youtube.com/watch?v=JCYVDeqXUr8)
 
-#### Flat Energy confirmation
+#### Flat Energy Confirmation
 
 **By:** Sylfae\#1210
 
@@ -760,7 +763,7 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 
 * Albedo + Zhongli: [YouTube video](https://youtu.be/xmc9olmaSqk)
 * Solo Albedo: [YouTube video](https://youtu.be/voJ3-z8mlIo)
-* Solo Albedo: [Reddit post](https://www.reddit.com/r/Albedomains/comments/R5e4ds/cinnabar_spindle_bug_recreation/)
+* Solo Albedo: [Reddit post](https://www.reddit.com/r/Albedomains/comments/r5e4ds/cinnabar_spindle_bug_recreation/)
 * Burning + shield causing deactivation: [YouTube video](https://youtu.be/teu-GqSLgO8)
 
 **Significance:**  
@@ -1099,7 +1102,7 @@ Key users must have some dedicated field time to refresh the stacks of the buff,
 
 ### Kitain Cross Spear
 
-#### Kitain Spear Energy drain delay
+#### Kitain Spear Energy Drain Delay
 
 **By:** Episodde\#8962  
 **Added:** <Version date="2021-08-28" />  
@@ -1119,7 +1122,7 @@ Rosaria able to perform E->Q with Kitain Spear equipped.
 Some characters actually do not need to change their rotation, because as long as you can cast your Burst within about 23 frames after the Elemental Skill hit an opponent, your character will still be able to use Elemental Burst to spend all your Energy before getting drained by the weapon passive.  
 Rosaria can hit enemy with her E to get her A1 CRIT Rate buff and still be able to cast Burst with Q afterward to share the CRIT before the Energy is drained.
 
-#### Kitain passive will proc even if carrier has 0 Energy.
+#### Kitain Passive Will Proc Even if Carrier Has 0 Energy.
 
 **By:** ItzSomebody\#0029
 
@@ -1129,7 +1132,7 @@ Also doesn't dip the unit's Energy into the negatives. [Video](https://youtu.be/
 
 ### Katsuragikiri Nagamasa
 
-#### Katsuragikiri Nagamasa Energy drain delay
+#### Katsuragikiri Nagamasa Energy Drain Delay
 
 **By:** Episodde\#8962  
 **Added:** <Version date="2021-08-28" />  
@@ -1614,7 +1617,8 @@ The passive procs as intended similar to the other mentioned previously. However
 
 **Finding:** Yes, it can CRIT
 
-**Evidence:** [Imgur](https://imgur.com/a/kWhXThT)
+**Evidence:**  
+[Imgur](https://imgur.com/a/kWhXThT)
 
 ---
 

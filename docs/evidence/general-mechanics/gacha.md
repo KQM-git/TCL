@@ -22,7 +22,7 @@ The second link shows that the probability of rolling a 5-Star massively increas
 
 **Significance:** fixing misconceptions that soft pity is 75/65, allowing players to save their primogems more effectively
 
-## Estimated 5-Star pulls for weapons/characters
+## Estimated 5-Star Pulls for Weapons/Characters
 
 **By:** KBphan\#0001  
 **Added:** <Version date="2021-04-19" />  
@@ -43,7 +43,8 @@ Average 5-Stars pulled for rate up 5-Star character
 * c6 character \(not starting with pity\) - 10.5
 * c6 character \(starting with pity\) - 10
 
-**Evidence:** [I made a program to brute force 10,000,000 trials](https://imgur.com/a/HastXBQ) of attempting to R5 a specific rate up 5-Star using the pity rules for the weapon banner. On average it will take a player 12.5 5-Star pulls to R5 their desired weapon if they only want one of the rate up 5-Star weapons. This leads to an average rate of 40% for a specific 5-Star weapon on the rate up banner.
+**Evidence:**  
+[I made a program to brute force 10,000,000 trials](https://imgur.com/a/HastXBQ) of attempting to R5 a specific rate up 5-Star using the pity rules for the weapon banner. On average it will take a player 12.5 5-Star pulls to R5 their desired weapon if they only want one of the rate up 5-Star weapons. This leads to an average rate of 40% for a specific 5-Star weapon on the rate up banner.
 
 **Significance:** This information can be useful for whales to figure out around how many pulls they will need to get a specific R5 on average.
 

@@ -75,7 +75,7 @@ Skill CRIT Rate: From [Festering Desire](https://youtu.be/0U32uJludm8)
 CA CRIT Rate: [4 Sojourners](https://youtu.be/bwIxrzUnhPE)  
 CA DMG%: From [4SR](https://youtu.be/fc8pdCPxTRU), [4WT](https://youtu.be/G0F9SThwDrk), [Amos](https://youtu.be/jWxUvehP47I)  
 DMG%: (usually snaps but these two do not) [Alley Hunter](https://youtu.be/GMZtnuvn3X0), [Geo Resonance](https://youtu.be/TpBFUvREWGo)  
-Electro CRIT DMG: From [Sara C6](https://www.youtube.com/watch?v=R4ENm19DOPY)
+Electro CRIT DMG: From [Sara C6](https://www.youtube.com/watch?v=r4ENm19DOPY)
 
 **Signifiance:**  
 More extensive knowledge on what does and does not snapshot.
