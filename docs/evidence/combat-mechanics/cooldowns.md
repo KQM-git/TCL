@@ -13,15 +13,15 @@ sidebar_position: 3000
 **Added:** <Version date="2021-04-18" />  
 **Last tested:** <VersionHl date="2021-04-18" />
 
-**Findings:** Multi-charge Elemental skills \(C0/C1 Xiao, C1 Sucrose, ...\) snapshot cooldown reduction at the time the Skill is cast, not the cooldown reduction at the time the next charge starts charging \(or appears to from in-game UI\). Additionally, held abilities \(Jean E, Childe E, ...\) use CDR at the time their cooldown starts, not on cast/hold start.
+**Findings:** Multi-charge Elemental Skills \(C0/C1 Xiao, C1 Sucrose, ...\) snapshot cooldown reduction at the time the Skill is cast, not the cooldown reduction at the time the next charge starts charging \(or appears to from in-game UI\). Additionally, held abilities \(Jean E, Childe E, ...\) use CDR at the time their cooldown starts, not on cast/hold start.
 
 **Evidence:**  
 [Testing with Xiao and Chongyun C2](https://youtu.be/MB_IR0OStgA)
 
 **Significance:**  
-CDR may be very beneficial for characters with multi-charge skills.
+CDR may be very beneficial for characters with multi-charge Skills.
 
-**Note:** The snapshotting ultimately does not matter for static sources of CDR, from gear, resonance, etc. The added benefit for multi-charge skills would be from on-demand sources like Chong, to be able to pop the CDR, blow your charges, and then not have to worry about the buff/field effect until your charges are back while retaining the reduced cooldown.
+**Note:** The snapshotting ultimately does not matter for static sources of CDR, from gear, resonance, etc. The added benefit for multi-charge Skills would be from on-demand sources like Chong, to be able to pop the CDR, blow your charges, and then not have to worry about the buff/field effect until your charges are back while retaining the reduced cooldown.
 
 ## Sacrificial Passive With Multiple E Stacks
 
@@ -39,7 +39,7 @@ When a character with multiple charges of their Elemental Skill procs the sacrif
 The same occurs for [Ganyu C2](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/cooldowns.md/discord/attachments_837514129479827490_837875906907209728_2021-04-30_22-17-45_Trim.mp4) and [Klee](https://www.youtube.com/watch?v=tLdhyD7hBHo&start=133).
 
 **Significance:**  
-Any serial-cooldown, multi-cast Skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first Skill cast out of the stack, and that Skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a Skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
+Any serial-cooldown, multi-cast Skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked Skills begins with the first Skill cast out of the stack, and that Skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a Skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
 
 ## CD reduction double bursts
 

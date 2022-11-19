@@ -79,11 +79,11 @@ Unlike when testing on an enemy, these are exact frame values. There seems to be
 
 On our own characters, the Element does not fade out, but immediately disappears between frames. This allows us to more precisely measure Elemental durations: for example, there are precisely 720 frames between the Electro appearing above my health bar when I am shot by an Electro Shooter, and the Electro disappearing from my health bar when it times out. So it lasts exactly 720 / 60 = 12s.
 
-Enemy skills also "fix" the decay rate the same as our skills. In this example, I am hit by a 2 unit Pyro, then 11 seconds later I am hit by a 1 unit Pyro. The Pyro aura lasts precisely 6 seconds from the point I am hit with the 1 unit Pyro. This matches the behaviour we see ourselves when going 2u -&gt; 1u; we have 1 unit still decaying at the 2 unit rate of 6s and 12s.[ ](https://youtu.be/cUWXy_PNO_E)
+Enemy Skills also "fix" the decay rate the same as our Skills. In this example, I am hit by a 2 unit Pyro, then 11 seconds later I am hit by a 1 unit Pyro. The Pyro aura lasts precisely 6 seconds from the point I am hit with the 1 unit Pyro. This matches the behaviour we see ourselves when going 2u -&gt; 1u; we have 1 unit still decaying at the 2 unit rate of 6s and 12s.[ ](https://youtu.be/cUWXy_PNO_E)
 
 [YouTube](https://youtu.be/cUWXy_PNO_E)
 
-Enemy skills follow the same reaction reductions we do. In this example, I use Hillichurl Shooters to perform a Reverse Melt on myself. The Pyro Shooter applies 2 Pyro to me, then the Cryo Shooter applies 2 Cryo. Since this is a Reverse Melt, the reduction is 0.5x2 so 1 unit reduced. The Pyro lasts a total of 4.5 seconds from initial application to falling off, so the Melt reaction reduced the timer by 7.5 seconds. This matches the behaviour for a 1 unit reduction.
+Enemy Skills follow the same reaction reductions we do. In this example, I use Hillichurl Shooters to perform a Reverse Melt on myself. The Pyro Shooter applies 2 Pyro to me, then the Cryo Shooter applies 2 Cryo. Since this is a Reverse Melt, the reduction is 0.5x2 so 1 unit reduced. The Pyro lasts a total of 4.5 seconds from initial application to falling off, so the Melt reaction reduced the timer by 7.5 seconds. This matches the behaviour for a 1 unit reduction.
 
 [YouTube](https://youtu.be/qjTTqPpujiM)
 
@@ -125,7 +125,7 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
 ### Why is decay rate significant?
 
 * Since character swaps and Skill animations take time, it is possible to lose out on the maximum number of reactions possible.
-  * For example, Beidou’s Q applies 4 units worth of Electro gauge. Theoretically, you can use 1U Cryo skills to trigger 4 consecutive  Superconducts. However, you must apply the 4th 1U Cryo Skill before 4.2s have elapsed or you lose 1 unit of Electro from time decay.
+  * For example, Beidou’s Q applies 4 units worth of Electro gauge. Theoretically, you can use 1U Cryo Skills to trigger 4 consecutive  Superconducts. However, you must apply the 4th 1U Cryo Skill before 4.2s have elapsed or you lose 1 unit of Electro from time decay.
     * 4U gauges will decay at a rate of 1 unit/4.2s, so after 4.2s have passed, you only have 3 units left to use for reactions.
 * However, it is possible to apply 2U or 4U gauges that have a 1U decay rate. In other words, you can apply a bigger gauge with a slower decay rate.
   * For example, 2 units at the 1U decay rate are equivalent to 2\*9.5s = 19s.
@@ -223,7 +223,7 @@ THE FOLLOWING SECTIONS ARE UNDER CONSTRUCTION
 * A measurement that categorizes the strength AND decay rate of an Elemental source
 * An Elemental gauge \(as previously mentioned above\) can be split into “units”.
 * Elemental sources apply elements in varying amounts or “units” to form an Elemental gauge.
-  * Different skills may apply more or fewer units
+  * Different Skills may apply more or fewer units
   * The number of units would then decay over time \(gauge emptying\)
 * Whenever a reaction is triggered, a certain number of units are deducted from the gauge.
   * For example, a Cryo Skill might apply 2 units of Cryo to an enemy. Then, using an Electro Skill may deduct 1 unit of Cryo, leaving you with 1 unit remaining.
@@ -416,7 +416,7 @@ Referring to elements by their 9.5s and 12s durations is a mistake, as a Weak ap
 
 Vaporize and Melt reduce their gauge by 0.5x or 2x \(presumed, no way to test, could be 3x or higher\) their usual reduction, depending on Element order.
 
-Anemo and Geo skills we currently have marked in the Database as 6s are actually 0.5GU reductions. Those marked as 9.5s are actually 1GU reductions.
+Anemo and Geo Skills we currently have marked in the Database as 6s are actually 0.5GU reductions. Those marked as 9.5s are actually 1GU reductions.
 
 ### Hoyo Changed Pyro Why
 

@@ -520,7 +520,7 @@ C4 Mona bonus (+15% CRIT Rate) applies only to targets affected by the Omen.
 1. Showcase, 87.8% CRIT Rate Mona, display of activated C4.
 2. Picked a Spiral Abyss floor with seperated enemies.
 3. Start the chamber, apply Q to one enemy and hit it in order to activate the Omen and hit it once again to "activate" the C4 bonus.
-4. Start hitting the unaffected enemy with Normal Attacks until a non-CRITical hit (1092) appears while the Omen is still visible on the first enemy.
+4. Start hitting the unaffected enemy with Normal Attacks until a non-Critical hit (1092) appears while the Omen is still visible on the first enemy.
 
 **Significance:**  
 This information is not displayed in the C4 or the Q description in-game.

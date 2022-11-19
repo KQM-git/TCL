@@ -368,7 +368,7 @@ There is a limit to how much movement speed decreases one can do onto a mob. The
 
 * The maximum seems to cave towards 80~85% (82% being closer towards the max.) So unless there is a much much higher movement speed decrease Skill, getting anywhere close to 80% movement speed decrease is nigh impossible without at least another movement speed decrease debuff.
 
-* Speed increasing skills stack alongside these, although this is outside of the scope of this TC, it can be seen with the samuchurl in the first stage being sped up while being in a slow down tower.
+* Speed increasing Skills stack alongside these, although this is outside of the scope of this TC, it can be seen with the samuchurl in the first stage being sped up while being in a slow down tower.
 
 * Frame = .033ms for my video editor, thus the frames counted may be within +-.17ms off (unless otherwise stated)
 

@@ -598,16 +598,16 @@ There is no quick method to reset tree resources beyond hitting an 11th tree and
 **Findings:**  
 Attacks that shake untouched trees, including enemy attacks, can allow them to be harvested using a small number of Elemental Skills in a short window. We explored this to find several things.
 
-* Shaking a tree marks it as a target for a wider variety of skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
-* All Physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
+* Shaking a tree marks it as a target for a wider variety of Skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
+* All Physical damage sources & an odd assortment of character Skills \(Jean's E, Kaeya's Q\) can shake/mark
 * Marks last a very short time
-* Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload.
+* Some Skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E Skills, while Razor can harvest with E only if he uses Overload.
 
 **Evidence:**  
 Summary post with multiple videos here [https://imgur.com/a/RnevAeW](https://imgur.com/a/RnevAeW)
 
 **Significance:**  
-Attacks are not equal in terms player-environment interaction. Most skills can never harvest nor shake tress; some can shake trees, others can harvest directly, while others can harvest indirectly via Overloading burning grass. Most importantly for combat, damage sources appear to be treated differently depending on the character, attack, and reaction source. Overloading via E to harvest a marked tree works for Razor and Beidou, but not Xiangling or Fischl's Elemental arrow. Overload seems to work on burning grass but not self-overloads. Dealing phys damage with Xinyan harvests using a Normal Attack, but only shakes during her Burst. More broadly, the game appears to be conserving resources by limiting the player's kit unless certain enabling actions are taken. After enabling these attacks, the game shuts them down after a short window. Enemies appear to be permanently enabled for all attacks, but the player must fight enemies within a specific area, otherwise they will teleport back and reset.
+Attacks are not equal in terms player-environment interaction. Most Skills can never harvest nor shake tress; some can shake trees, others can harvest directly, while others can harvest indirectly via Overloading burning grass. Most importantly for combat, damage sources appear to be treated differently depending on the character, attack, and reaction source. Overloading via E to harvest a marked tree works for Razor and Beidou, but not Xiangling or Fischl's Elemental arrow. Overload seems to work on burning grass but not self-overloads. Dealing phys damage with Xinyan harvests using a Normal Attack, but only shakes during her Burst. More broadly, the game appears to be conserving resources by limiting the player's kit unless certain enabling actions are taken. After enabling these attacks, the game shuts them down after a short window. Enemies appear to be permanently enabled for all attacks, but the player must fight enemies within a specific area, otherwise they will teleport back and reset.
 
 ### Missed Attacks Still Mark Trees For Unholy Harvesting
 

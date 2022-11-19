@@ -68,4 +68,4 @@ Head.
 
 * Mirror Maiden can be CCed, staggered, and yeeted by Jean during her "weak" state. Her teleportation can also be prevented during this tate.
 * However, once the player got "marked" with the Refraction status, Mirror Maiden will enter the Polarization state, granting her new abilities as well as complete immunity to CC, stagger, and yeet by Jean.
-* Some characters' skills & abilities can escape the Mirror Maiden's Glass Cage.
+* Some characters' Skills & abilities can escape the Mirror Maiden's Glass Cage.

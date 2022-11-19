@@ -4,7 +4,7 @@ sidebar_position: 6000
 
 # Constructs and Summons
 
-Certain skills create objects that stay on the field, which are called **constructs.**
+Certain Skills create objects that stay on the field, which are called **constructs.**
 
 ## Geo Constructs
 

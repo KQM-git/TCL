@@ -41,7 +41,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-kazuha-plunge-mechanics)
 
 **Finding:**  
-Kazuha's n5 generates enough hitlag that allows him to Dragonstrike.
+Kazuha's N5 generates enough hitlag that allows him to Dragonstrike.
 
 **Evidence:**  
 [Imgur](https://imgur.com/bS1rs1T)

@@ -254,7 +254,7 @@ Consider the following Electro-Charged concepts:
 **Last tested:** <VersionHl date="2021-02-04" />
 
 **Finding:**  
-Skills with hitlag behave differently for Electrocharged than skills without hitlag. This may also affect other elements, only tested with Electrocharge.
+Skills with hitlag behave differently for Electrocharged than Skills without hitlag. This may also affect other elements, only tested with Electrocharge.
 
 **Evidence**:
 
@@ -268,7 +268,7 @@ In Beidou's video on the right, there is a lingering Electro after 4 ticks. This
 
 Going 1u Electro into either type of Skill still produces a 19s duration Electro aura, so the duration of both cases are the same. They both still apply 2u Electro.
 
-The only difference between these that I know of is hitlag. Is it possible the Hitlag is somehow causing these skills to skip Aura Tax, or to extend the 2u in some other way?
+The only difference between these that I know of is hitlag. Is it possible the Hitlag is somehow causing these Skills to skip Aura Tax, or to extend the 2u in some other way?
 
 EDIT: My current belief is that doing this order of 1u Electro -&gt; 2u Razor/Beidou E -&gt; 2u Hydro is bugged, and causes the 4th tick of Electrocharged to not consume any Electro gauge. The remaining duration on the lingering Electro matches this hypothesis.
 
@@ -1240,7 +1240,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 * A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2 x 1.92 = 3.84x \(2027\*3.84≈7783\)
 * A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.92 = 2.88x \(2027\*2.88≈5837\)
 
-[https://www.youtube.com/watch?v=MmRm0zO1C6Q](https://www.youtube.com/watch?v=MmRm0zO1C6Q) In this video, Sucrose has over 100% CRIT Rate, but the Swirl chain reaction she causes does not score CRITical hits against the enemy, which proves that the chain amplifying reactions caused by Swirl cannot CRIT. In the video, Sucrose has 194 Elemental Mastery, giving her a 33.9% damage bonus to Melt.
+[https://www.youtube.com/watch?v=MmRm0zO1C6Q](https://www.youtube.com/watch?v=MmRm0zO1C6Q) In this video, Sucrose has over 100% CRIT Rate, but the Swirl chain reaction she causes does not score Critical hits against the enemy, which proves that the chain amplifying reactions caused by Swirl cannot CRIT. In the video, Sucrose has 194 Elemental Mastery, giving her a 33.9% damage bonus to Melt.
 
 * A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.339 = 2.0085x \(1146\*2.0085≈2303\)
 * The 2.0085x multiplier seen in the video comes solely from the Melt reaction, which proves that Swirl chain reactions that cause amplifying reactions can't CRIT.

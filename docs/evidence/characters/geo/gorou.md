@@ -114,7 +114,7 @@ Better understanding of Gorou's buff application to snapshot the full DEF bonus 
 
 ### A1: Heedless of the Wind and Weather
 
-* Gorou's **Heedless of the Wind and Weather** (A1) only scales off of base defense stat. A1 will not scale off of additional defense values gained from artifacts and/or skills. [Trosalio\#0420](https://www.youtube.com/watch?v=iXI92moZFRc)
+* Gorou's **Heedless of the Wind and Weather** (A1) only scales off of base defense stat. A1 will not scale off of additional defense values gained from artifacts and/or Skills. [Trosalio\#0420](https://www.youtube.com/watch?v=iXI92moZFRc)
 
 ## Constellation Mechanics
 

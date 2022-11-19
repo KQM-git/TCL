@@ -442,7 +442,7 @@ Oneshot can not be parried - [YouTube](https://youtu.be/v9RGPc2ka7I)
 Oneshot can not be dash i-framed - [YouTube #1](https://youtu.be/N2CxwCyj_0E), [YouTube #2](https://youtu.be/MeHqO7vBNRo), [YouTube #3](https://youtu.be/zDV-d6j7k0s)  
 Oneshot can be Burst I-framed - [YouTube](https://youtu.be/wD7pgFGhPvc)  
 100% damage reduction does not reduce damage taken by oneshot - [YouTube](https://www.youtube.com/watch?v=gd_DmaXBE_I)  
-Some skills with I-frames can dodge the oneshot (mona hold E) - [YouTube](https://youtu.be/Ht_yDNwAihQ)  
+Some Skills with I-frames can dodge the oneshot (mona hold E) - [YouTube](https://youtu.be/Ht_yDNwAihQ)  
 Taunts can not be marked by oneshot - [YouTube](https://youtu.be/r4Wwpv6XFYE)  
 Unmarked oneshot damage can be absorbed by shields - [YouTube](https://youtu.be/Iz6P-7AZRp4)  
 Marked target is not affected by Proximity - [YouTube #1](https://youtu.be/SBQ95dMyNtA), [YouTube #2](https://youtu.be/giHeChuMfoY), [YouTube #3](https://youtu.be/5VuGjdqyqh0)  
@@ -457,7 +457,7 @@ Bubble shield must be triggered before oneshot slash animation - [YouTube](https
 
 **Significance:**  
 The person who gets marked is not rng and is instead based on either number of hits or damage contribution in a non-specified set of time. Requires more testing.  
-On marked targets, the usage of shields, taunts, parries, damage reduction, and dashes will not prevent/reduce oneshot damage. Other forms of invincibility frames from both Bursts and skills can prevent oneshot damage.  
+On marked targets, the usage of shields, taunts, parries, damage reduction, and dashes will not prevent/reduce oneshot damage. Other forms of invincibility frames from both Bursts and Skills can prevent oneshot damage.  
 On other unmarked co-op targets, a shield does help absorb oneshot damage.  
 Inside the bubble barrier, the fixed 1 damage makes 1hp runs hard or impossible on some characters.  
 The oneshot in and out of shield share different mechanics. Parries will not work but the shields created can absorb the “1” damage taken.  

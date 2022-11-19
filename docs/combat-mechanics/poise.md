@@ -36,7 +36,7 @@ $$
 #### Some attacks or abilities can change vulnerability
 
 > The vulnerability when a Cryogunner is generating their shield is less than when the Cryogunner is spraying.  
-> "Increasing resistance to interruption" skills take effect via decreasing vulnerability. The same goes for shields.
+> "Increasing resistance to interruption" Skills take effect via decreasing vulnerability. The same goes for shields.
 
 #### Different sources of interrupt resistance can stack
 
@@ -46,7 +46,7 @@ You can stack Poise and allow your characters to further avoid being staggered.
 
 ### Factors that affect Poise Damage
 
-#### Different attacks/skills have different poise damage.
+#### Different attacks/Skills have different poise damage.
 
 > Zhongli's Elemental Skill does more poise damage than his N1.
 

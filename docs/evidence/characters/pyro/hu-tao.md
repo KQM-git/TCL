@@ -111,7 +111,7 @@ TLDR
 
 N1 in all combos didn't react at a consistent rate of 60-66% \(the N1 in N2CJ actually got lower at 56%, but that could be down to sample size variance\) melt% and vape% were inconsistent but Melt% was generally higher at 20-30%, vape% under that on Melt DB proc% inconsistent and rare, but clearly possible.
 
-N2 in N2CJ results similar Melt% as n1 with around 30%, but vape% approximately halves compared to n1, with its share of the % going to more no reactions, which are around 66%\)
+N2 in N2CJ results similar Melt% as N1 with around 30%, but vape% approximately halves compared to N1, with its share of the % going to more no reactions, which are around 66%\)
 
 **Significance:** Dragon's bane \(potentially confirmed?\) to have much more power than initially thought. Not everyone has a staff of homa, and many thought it would only work in vape teams. Potentially her best 4-Star weapon, would be interesting if someone could compare dps vs deathmatch in Melt comps. Also interesting that this Melt team is also 3x 4-Star supports, and kaeya is f2p with both diona and xingqiu available free from events \(as of 1.5\). If this is all accepted by an editor then these findings would be good to promote to f2p/low spenders.
 

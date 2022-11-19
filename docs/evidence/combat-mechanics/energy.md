@@ -76,7 +76,7 @@ Attacking enemies with normal/charged attacks can give extra Energy. Although in
 
 **Evidence:** Tests on various character were recorded to ensure that the data were right.
 
-Elemental skills that has a fixed production value will be cast for at least 50 times, while Elemental skills that has a chance based production value will be cast for at least 200 times until the average stabilize to double confirm the ratio.
+Elemental Skills that has a fixed production value will be cast for at least 50 times, while Elemental Skills that has a chance based production value will be cast for at least 200 times until the average stabilize to double confirm the ratio.
 
 In addition, several new conditions to trigger Particle generation had been added to specific character notes.
 

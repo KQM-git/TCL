@@ -1546,7 +1546,7 @@ Fluff. This could also explain the fact that when you switch from child to adult
 
 * Glide
 * Roll off a cliff \(counts as landing, you don't take damagedmg for roll but the next landing won't be soft\)
-* Use mid\-air skills e.g. Xiao
+* Use mid\-air Skills e.g. Xiao
 * Plunge \(normal reduced fall DMG for plunge, capped at 40% max HP\)
 
 Side-on collisions while jumping don't hurt and don't remove the fall damage reduction.

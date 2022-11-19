@@ -62,8 +62,8 @@ Nilou's E cooldown starts on initial cast, but the infusion duration does not st
 **Significance:** 
 Smoother Vape Nilou rotations.
 1. Q can be used before the 3rd slash so that it does not eat into E infusion uptime.
-2. Since the first 3 hits (E n2) are technically not part of her infusion duration, Key can be fully stacked by slowing down the opening n2 to account for Key's 0.3s stack CD, allowing for maximum Q vape damage.
-3. Using the E n2 Q n1 combo, Nilou's c4 buffs the 2nd Q hit without taking away from infusion uptime.
+2. Since the first 3 hits (E N2) are technically not part of her infusion duration, Key can be fully stacked by slowing down the opening N2 to account for Key's 0.3s stack CD, allowing for maximum Q vape damage.
+3. Using the E N2 Q N1 combo, Nilou's c4 buffs the 2nd Q hit without taking away from infusion uptime.
 
 ### Nilou Tranquility Aura Counts as 0 DMG Hit
 

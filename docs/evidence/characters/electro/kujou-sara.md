@@ -122,7 +122,7 @@ We can actually predict what pressing E will do now.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884708643151446026_891204580174610442_transcript-sara-feather-interaction-with-on-damage-effects.html)
 
 **Finding:**  
-Sara's ambush is the first 0 damage hit in the game for the purpose of triggering its buff on the player character (also AFAIK the first instance of friendly fire). This is exposing the difference between what skills care about being hit versus what skills care about taking damage. One (hard financially cause needs Jean c6) avenue to test this is to try out the 100% damage reduction team
+Sara's ambush is the first 0 damage hit in the game for the purpose of triggering its buff on the player character (also AFAIK the first instance of friendly fire). This is exposing the difference between what Skills care about being hit versus what Skills care about taking damage. One (hard financially cause needs Jean c6) avenue to test this is to try out the 100% damage reduction team
 
 **Evidence:**  
 Does trigger:
@@ -143,7 +143,7 @@ Unknown:
 Alley flash
 
 **Significance:**  
-Insights into feather application mechanics (maybe first 0 damage and friendly fire in game?) as well as clarification on what skills are actually on hit vs. taking damage.
+Insights into feather application mechanics (maybe first 0 damage and friendly fire in game?) as well as clarification on what Skills are actually on hit vs. taking damage.
 
 ## Burst Mechanics
 

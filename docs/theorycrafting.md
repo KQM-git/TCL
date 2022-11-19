@@ -132,10 +132,10 @@ Short for Energy Recharge.
 Short for Elemental Mastery.
 
 **CD:**
-Short for CRITical Damage.
+Short for Critical Damage.
 
 **CR:**
-Short for CRITical Rate.
+Short for Critical Rate.
 
 **CV:**
 CV = (2 × CR) + CD, it refers to the total amount of CRIT an artifact/character has. It's an indirect method of measuring a character's investment.
@@ -238,11 +238,11 @@ Many attacks in Genshin Impact can be cancelled by inputting a movement command,
 
 **PP \(Pure Pyro\)** = A team centered around maximizing Pyro uptime on enemies to capitalize on the 4-pc. Lavawalker's bonus.
 
-**Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. These teams deal damage through the use of swapping between characters to use lower cooldown Elemental skills and bursts.
+**Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. These teams deal damage through the use of swapping between characters to use lower cooldown Elemental Skills and Bursts.
 
-**Sub-DPS** = Characters outside of the main carry that deal damage, usually through their skills/burst
+**Sub-DPS** = Characters outside of the main carry that deal damage, usually through their Skills/Burst
 
-**Enabler** = A character that deploys a Skill or Burst that works even when the character is off-field. Usually, they apply elements to "enable" reactions.
+**Enabler** = A character that deploys a Skill or Burst that works even when the character is off-field. Usually, they apply Elements to "enable" reactions.
 
 **Support** = Characters whose value to the team isn’t to deal damage, but to provide utility.
 
@@ -260,7 +260,7 @@ For a more in-depth look at reactions, there is a whole [section](./combat-mecha
 
 **Aura Tax** = The aura tax reduces the gauge application from Elemental sources by a multiplier of 0.8.
 
-**Coexisting/Underlying Aura** = In certain situations (e.g. Electro-Charged) multiple auras of different elements may exist on the same entity.
+**Coexisting/Underlying Aura** = In certain situations (e.g. Electro-Charged) multiple auras of different Elements may exist on the same entity.
 
 **Elemental Decay** = An aura will persist a certain duration depending on the type of Elemental source. Think of the duration as a gauge that can decay or be reduced in 2 ways:
 
@@ -310,7 +310,7 @@ As the theorycrafting library is being migrated, many of these terms do not have
 **Hitlag** = Whenever a character hits a target, frames get Frozen to give the player a sense of "weight" behind each attack.
 
 * The amount of hitlag depends on the target hit
-* Range characters and skills aren't affected by hitlag
+* Range characters and Skills aren't affected by hitlag
 
 **Poise/Interruption Resistance** = A system that determines how difficult it is for a character to be staggered, see our poise page for more information.
 

@@ -236,7 +236,7 @@ You cannot do sprint with this, it automatically converts to "W".
 [Imgur](https://i.imgur.com/LSdr8yo.mp4)
 
 **Significance:**  
-You can go to the toilet while traversing through Teyvat using your new autowalk skills.
+You can go to the toilet while traversing through Teyvat using your new autowalk Skills.
 
 ## Waverider
 

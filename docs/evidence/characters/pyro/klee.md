@@ -55,9 +55,9 @@ Klee's jumpty dumpty's split mines shares an ICD on Pyro application with her no
 
 **Evidence:** Frame counting was done on 2 separate conditions
 
-[Condition 1](https://imgur.com/cFw1iqd): Throw klee's jumpty dumpty down, lure Cryo abyss mage in, then use Jean's E to gather all 8 bombs into the shield
+[Condition 1](https://imgur.com/cFw1iqd): Throw Klee's jumpty dumpty down, lure Cryo Abyss Mage in, then use Jean's E to gather all 8 bombs into the shield
 
-[Condition 2](https://imgur.com/1cxyfmv): Throw klee's jumpty dumpty down, lure Cryo abyss mage in, having 1 split mine to blow off onto the shield, then do a n1 onto the shield.
+[Condition 2](https://imgur.com/1cxyfmv): Throw Klee's jumpty dumpty down, lure Cryo Abyss Mage in, having 1 split mine to blow off onto the shield, then do a N1 onto the shield.
 
 On both conditions, the very first frame is the frame where the first Melt reaction occurs with Klee's split mine
 
@@ -72,7 +72,7 @@ In condition 1, the following data were collected
 * Mine 7: frame 98, reaction occurs
 * Mine 8: frame 128, no reaction occurs
 
-In condition 2, the n1 attack connects 72 frames after the first split mine connect and no reaction occurs.
+In condition 2, the N1 attack connects 72 frames after the first split mine connect and no reaction occurs.
 
 Both of these conditions lines up with the current ICD theory.
 
@@ -317,7 +317,7 @@ Yes they do.
 [https://youtu.be/VM6uiOfE8z4](https://youtu.be/VM6uiOfE8z4)
 
 **Significance:**  
-2NO + 2 witch might be a viable set for an at least C1 Klee and makes animation cancelling more worth it as it triggers \(Klee’s C1\) by AAing and skills.
+2NO + 2 witch might be a viable set for an at least C1 Klee and makes animation cancelling more worth it as it triggers \(Klee’s C1\) by AAing and Skills.
 
 ### Klee 4CW 3 stacks
 

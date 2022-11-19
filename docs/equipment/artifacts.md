@@ -215,7 +215,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Tenacity of the Millelith">
 
-* The 4 piece effect of Tenacity of the Millelith activates with Elemental skills hitting shielded enemies and dealing no damage.
+* The 4 piece effect of Tenacity of the Millelith activates with Elemental Skills hitting shielded enemies and dealing no damage.
 * The 4 piece effect does not stack but its duration can be reset if there are multiple 4ToM wielders.
 * The active bonus timer will remain even when any piece is removed or the character equipping the set is swapped out of the team.
 

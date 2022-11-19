@@ -19,9 +19,9 @@ These are the damaging effects that are tied to specific enemies within domains/
 
 Monster Skill effects deal flat damage. The amount of damage dealt scales similarly to transformative reactions, it's based purely off a base multiplier corresponding to each Skill effect \(for example, **Ice Cage** and **Discharge** deals twice as much damage as **Rumbling Stone**\). Also, the damage is unaffected by your character level or defense; it will always deal the same amount of damage regardless.
 
-The damage from monster Skill effects cannot be reduced by skills like **Xingqiu's E/Q** and **Beidou's Q** that grant damage reduction. This means that comps like Beidou + Xingqiu Electro-charge that can usually tank enemy attacks by stacking damage reduction cannot benefit from the damage reduction here.
+The damage from monster Skill effects cannot be reduced by Skills like **Xingqiu's E/Q** and **Beidou's Q** that grant damage reduction. This means that comps like Beidou + Xingqiu Electro-charge that can usually tank enemy attacks by stacking damage reduction cannot benefit from the damage reduction here.
 
-However, damage from monster Skill effects is affected by character resistance and can be negated via shields. This means that while the damage can be shielded, damage reduction skills that normally reduce the amount of shield damage taken will not apply.
+However, damage from monster Skill effects is affected by character resistance and can be negated via shields. This means that while the damage can be shielded, damage reduction Skills that normally reduce the amount of shield damage taken will not apply.
 
 Monster Skill effects can be taunted. In general, these Skill effects target the same thing that the corresponding monster is also targeting. In some cases the target will "snapshot" \(i.e. if the monster changes its target during the effect, the effect will not update\) and in other cases it will not. This mechanic will require further testing, it seems to be inconsistent as of now.
 
@@ -34,7 +34,7 @@ Monster Skill effects can be taunted. In general, these Skill effects target the
 
 ## Targeting Ignores Enemy Hitbox Location
 
-The targeting point for targeted skills is not the center of the enemy hitbox. Instead, the target point is set arbitrarily per enemy, per animation. This can make some attacks whiff during certain enemy states. For more details see: [Targeting Ignores Enemy Hitbox Location](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#targeting-ignores-enemy-hitbox-location)
+The targeting point for targeted Skills is not the center of the enemy hitbox. Instead, the target point is set arbitrarily per enemy, per animation. This can make some attacks whiff during certain enemy states. For more details see: [Targeting Ignores Enemy Hitbox Location](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#targeting-ignores-enemy-hitbox-location)
 
 ## Evidence Vault
 

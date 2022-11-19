@@ -253,7 +253,7 @@ There are pages on the wiki that already detail this information, however I crea
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846051562517168218_854022298591821844_transcript-blocked-crit-hit-procs.html)
 
 **Finding:**  
-Attacks blocked by enemy shields are still counted at scoring a CRITical hit and therefore activate abilities with a CRIT hit as condition
+Attacks blocked by enemy shields are still counted at scoring a Critical hit and therefore activate abilities with a CRIT hit as condition
 
 **Evidence:**
 
@@ -285,7 +285,7 @@ Favonius Sword
 * [vs Stone Shield](https://youtu.be/o_8OeT1iGkY)
 
 **Significance:**  
-Despite all of the tested talents/abilities/passives stating a CRIT Hit as the condition for activation, it still worked even if the attack was blocked entirely or even immunized. However this does only apply to character abilities. The Favonius sword did not activate on scoring CRITical hits vs shields
+Despite all of the tested talents/abilities/passives stating a CRIT Hit as the condition for activation, it still worked even if the attack was blocked entirely or even immunized. However this does only apply to character abilities. The Favonius sword did not activate on scoring Critical hits vs shields
 
 **Yanfei:** Getting A4 procs is highly useful especially vs Elemental shields to apply more U Pyro, which makes quicker work of these shields. Abyss Lectors are the most important, but also double Pyro application and the charged attack being heavy can become useful for dealing with stone shields and proccing Overload more often
 

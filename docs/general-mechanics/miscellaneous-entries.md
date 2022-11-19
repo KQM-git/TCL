@@ -10,7 +10,7 @@ description: For entries that have little practical use.
 * You can juggle fruits that are freshly harvested from trees. Unfortunately, once they have been on the ground for a certain amount of time, nothing will affect it anymore.
 * At least two of the birds (one near Azhdaha and one in Guyun) die very often of drowning, usually before the player even sees them, though their death is also occasionally observed, and they may even sometimes survive.
   * You can use this to get free fowl.
-* Without using any Elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
+* Without using any Elemental Skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 * The Kamuijima Cannons in Inazuma can cause friendly damage to yourself, as well as other players in Co-op.
 * Average party level warning/zone level/enemy level color warning is a lie, only highest level character is accounted for.
 * Every character model is capable of rolling in place.
@@ -67,7 +67,7 @@ description: For entries that have little practical use.
 
 * Sacrificial Weapons' passives and the 4-Piece Gambler effect can trigger on Wildlife that drop items (birds and beasts), but does not trigger on Wildlife that act as an interactable item pick-up (material sources).
 * Some debuffs will affect animals such as dogs, cats, and foxes. See this [Vault Entry](/evidence/general-mechanics/miscellaneous-entries.md#animals-can-be-debuffed) for details.
-* Some skills and passives (like Kazuha's A4 and Freedom-Sworn's) can affect certain species of fowl (Ducks & Cranes), but not on pigeons.
+* Some Skills and passives (like Kazuha's A4 and Freedom-Sworn's) can affect certain species of fowl (Ducks & Cranes), but not on pigeons.
 
 ## Photo Mode
 

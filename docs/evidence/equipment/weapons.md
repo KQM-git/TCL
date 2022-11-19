@@ -102,8 +102,8 @@ Lions Roar and other weapons that have similiar passive don’t increase transfo
 **Theory/Findings:**
 
 * Does Blackcliff bonus apply while the wielder is off field?
-* And can you still get the buff if you kill the enemy with your skills while you're in the off field?
-* The answer is **yes**, it does apply to any char skills that remains in the field even if the character already switched
+* And can you still get the buff if you kill the enemy with your Skills while you're in the off field?
+* The answer is **yes**, it does apply to any char Skills that remains in the field even if the character already switched
 
 **Evidence:**
 
@@ -113,7 +113,7 @@ Lions Roar and other weapons that have similiar passive don’t increase transfo
   * No, he does not
 
 **Significance:**  
-From the test we can conclude that the buff can be applied to their skills even if they are not in off field, **this also works on Fischl's Oz and Xiangling's Guoba.**
+From the test we can conclude that the buff can be applied to their Skills even if they are not in off field, **this also works on Fischl's Oz and Xiangling's Guoba.**
 
 * For example, you can get a kill on Blackcliff Fischl, cast Oz, then swap off and Oz will still receive the Blackcliff buff
 
@@ -388,7 +388,7 @@ The passive of royal weapons continues to stack even when a snapshotting Skill d
 
 **Significance:**  
 For Royal weapons it means that they can potentially have an increased efficiency given a right rotation. Although you can't gain multiple stacks with an AoE ability, what you can do is take advantage of the stacks you already gained through single-target attacks. Damage dealt to all targets is guaranteed to have an increased constant CRIT Rate, although it requires further analysis whether it actually yields better efficient CRIT Rate or not for different rotations and combinations of base CRIT Rate and Royal refinements.
-One particular character that could take advantage of this that comes to mind is Yanfei since her typical attack pattern consists of 2-3 single-target attacks followed by an AoE attack (which coincidentally cares about CRITting).
+One particular character that could take advantage of this that comes to mind is Yanfei since her typical attack pattern consists of 2-3 single-target attacks followed by an AoE attack (which coincidentally cares about scoring CRIT hits).
 
 **Finding:**  
 Mechanics of Royal weapon stacks:
@@ -475,7 +475,7 @@ It was found that the CRIT Rate that the weapons’ passive had decreased the hi
 **Last tested:** <VersionHl date="2021-02-04" />
 
 **Evidence:**  
-Testing was done with Diona hold E with R1 sacrificial bow and XQ E with R1 sacrificial sword. Both units used 50 E skills on shielded Pyro abyss mages and shielded Geo slimes with 0 procs for both cases. When shields were broken, sac weapon procs were as expected. \(40% chance per hit on R1\)
+Testing was done with Diona hold E with R1 sacrificial bow and XQ E with R1 sacrificial sword. Both units used 50 E Skills on shielded Pyro abyss mages and shielded Geo slimes with 0 procs for both cases. When shields were broken, sac weapon procs were as expected. \(40% chance per hit on R1\)
 
 **Short Demonstration:** _Streamable video lost to the sands of time_
 
@@ -498,7 +498,7 @@ When a character with multiple charges of their Elemental Skill procs the sacrif
 The same occurs for [Ganyu C2](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/cooldowns.md/discord/attachments_837514129479827490_837875906907209728_2021-04-30_22-17-45_Trim.mp4) and [Klee](https://www.youtube.com/watch?v=tLdhyD7hBHo&start=133).
 
 **Significance:**  
-Any serial-cooldown, multi-cast Skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first Skill cast out of the stack, and that Skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a Skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
+Any serial-cooldown, multi-cast Skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked Skills begins with the first Skill cast out of the stack, and that Skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a Skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
 
 ### Sacrificial Weapons Interactions
 
@@ -514,7 +514,7 @@ I documented every Sacrificial Weapons' interactions with characters that have E
 [Google Sheet](https://docs.google.com/spreadsheets/d/1WJgHM0VXPrBrwMQbCX27Asm5EKWhGHM4aFFkewDbxhA/edit?usp=sharing)
 
 **Significance:**  
-Helpful for character building, documents which characters are able to proc sacrificial weapons with multi-hit skills
+Helpful for character building, documents which characters are able to proc sacrificial weapons with multi-hit Skills
 
 ### Sacrificial Weapons Procs On Multiple Enemies
 
@@ -541,7 +541,7 @@ Result : 137 attempts, 114 proc, 23 non-proc
 * [Video 3](https://youtu.be/K7lhvmV2-ZM) (56 attempts)
 
 **Significance:**  
-Sacrificial Weapons are more effective on character with large AOE skills/against multiple targets
+Sacrificial Weapons are more effective on character with large AOE Skills/against multiple targets
 
 ## Skyward Series
 
@@ -554,12 +554,12 @@ Sacrificial Weapons are more effective on character with large AOE skills/agains
 **Last tested:** <VersionHl date="2021-01-31" />
 
 **Finding:**  
-When shooting with the Skyward Harp, it is possible to achieve a CRITical hit on the passive ability.
+When shooting with the Skyward Harp, it is possible to achieve a Critical hit on the passive ability.
 
 **Evidence:**  
 User Cola Sen was discussing in theory crafting about the Skyward Harp when its ability to CRIT came into the conversation. Afterwards they decided to test out their hypothesis and reported on their findings:
 
-[\[video\] Skyward Harp passive CRITting](https://www.youtube.com/watch?v=0ZGKgwEZ0Ww)
+[\[video\] Skyward Harp passive scoring CRIT hits](https://www.youtube.com/watch?v=0ZGKgwEZ0Ww)
 
 **Significance:**  
 When using the Skyward Harp, it is now apparent that it is slightly better then we originally thought as its own passive gains benefits from the CRIT Rate and CRIT DMG that the Harp provides.

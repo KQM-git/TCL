@@ -28,7 +28,7 @@ Getting Frozen mid Searing Onslaught 2 will allow you to extend the Skill. This 
 
 Diluc is Frozen mid Searing Onslaught 2 and the Skill is changed to Searing Onslaught 3. However, he is still able to recast Searing Onslaught 2 multiple times after getting out of the Freeze. I could not get this to replicate for Searing Onslaught 1 and 3.
 
-Other testing was done with other characters with multi-use skills and none of them have been able to reuse their skills out of Freeze. This is likely due to how Diluc's Searing Onslaught does not have extra charges and does not have a reset mechanic \(i.e. xiao or ningguang\)
+Other testing was done with other characters with multi-use Skills and none of them have been able to reuse their Skills out of Freeze. This is likely due to how Diluc's Searing Onslaught does not have extra charges and does not have a reset mechanic \(i.e. xiao or ningguang\)
 
 **Significance:**  
 When running Barbara or Xingqiu, self Freeze can be an upside in certain situations \(i.e. waiting for XQ's Q to come off CD or regain Energy\) allowing you to get bonus damage off for free if done correctly.

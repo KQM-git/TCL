@@ -118,7 +118,7 @@ Empty jump: [Imgur](https://imgur.com/l4CxYj8)
 Plunge attack: [Imgur](https://imgur.com/uoVg569)  
 Switch cooldown: [Imgur](https://imgur.com/arv4hoG)
 
-Various skills:  
+Various Skills:  
 [Imgur 1](https://imgur.com/lzqfuLG)  
 [Imgur 2](https://imgur.com/b0Kb9Kw)  
 [Imgur 3](https://imgur.com/UwWgrFH)  

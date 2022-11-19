@@ -7,7 +7,7 @@ The Abyss Herald's cooldown increase debuff is triggered when you are hit by the
 1. [A cross Hydro beam.](https://www.youtube.com/watch?v=E06M0AiW5gM&t=26s)
 2. [Flurry of slashes before firing Hydro beams in all directions](https://www.youtube.com/watch?v=E06M0AiW5gM&t=186s), only happens in phase 2 \(after he shields up\)
 
-The cooldown debuff increases all current Elemental Skill/Burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is **additive** and independent of how long the original cooldown of the Skill/Burst is. The cooldown debuff also only affect Elemental skills/Bursts that are already on cooldown, so skills/Bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat \(unlike Slowing Waters\).
+The cooldown debuff increases all current Elemental Skill/Burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is **additive** and independent of how long the original cooldown of the Skill/Burst is. The cooldown debuff also only affect Elemental Skills/Bursts that are already on cooldown, so Skills/Bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat \(unlike Slowing Waters\).
 
 The cooldown debuff can be avoided by shield and Elemental Burst iframes.
 
@@ -41,7 +41,7 @@ Triggering a Freeze reaction on a boss entity does not create a Frozen aura on t
 
 ## Ruin Guards
 
-* Some attacks other than fully-charged bow CAs can stun Ruin Guards. This includes various skills, Bursts and melee attacks. The list can be found [here](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#melee-can-stun-ruin-guard).
+* Some attacks other than fully-charged bow CAs can stun Ruin Guards. This includes various Skills, Bursts and melee attacks. The list can be found [here](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#melee-can-stun-ruin-guard).
 * Polearm Charged Attacks, with the exception of Xiao, don't register on stunned Ruin Guards because of the "leaping forward" animation that occurs.
   * [Hu Tao vs Ruin Guard](https://youtu.be/5y6GCZar_2g)
   * Tartaglia's melee charged attack also has the same issue, however it's because their charged attack pushes them back, making them unable to reach the hitbox.

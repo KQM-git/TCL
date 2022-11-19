@@ -56,7 +56,7 @@ The exception to this is Itto’s N1, which allows you to hold LMB during its hi
 
 **Significance:**  
 Greater and more quantitative understanding of Itto’s CA buffers, as well as potentially opening up an easier way to do certain combos with the N1 exception.  
-The most consistent way to buffer Itto’s combos is to click once during or a bit after hitlag for each NA, then hold click as soon as the final NA animation begins. Starting to hold click at least 14 frames before the earliest possible CA (which is 4f/6f after hitlag for n2/3) will result in a frame perfect CA.
+The most consistent way to buffer Itto’s combos is to click once during or a bit after hitlag for each NA, then hold click as soon as the final NA animation begins. Starting to hold click at least 14 frames before the earliest possible CA (which is 4f/6f after hitlag for N2/N3) will result in a frame perfect CA.
 
 ## Skill Mechanics
 

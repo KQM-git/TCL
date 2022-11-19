@@ -305,7 +305,7 @@ If MHY told you to pick an damage type to tank the most damage from a level ∞ 
 **Added:** <Version date="2021-03-23" />  
 **Last tested:** <VersionHl date="2021-03-23" />
 
-**Theory:** Without using any Elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
+**Theory:** Without using any Elemental Skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 
 **Evidence:** Kaeya, a free character, is used. This is not to imply that other free characters cannot climb the tree, and it is highly likely that other characters can also perform this feat. This evidence merely demonstrates that climbing the tree under the previously mentioned limitations is indeed possible. No food buffs/resonances/etc are used.
 
@@ -319,7 +319,7 @@ Step 4. Jump to the area just below the peak of the tree. Both the butterfly and
 
 Step 5. Jump to the peak of the tree from the butterfly. It is possible that normal attacking immediately after landing helps to stay on the branch. This step is very precise, and failing this step may lead to falling to ground level. [https://www.youtube.com/watch?v=kPmyIS7A3SY](https://www.youtube.com/watch?v=kPmyIS7A3SY)
 
-**Significance:** By mastering these skills, you can climb the intimidating heights of the Frostbearing Tree with nothing but your bare hands. No Vision, Elemental powers, or even a glider, are necessary. Indeed, rolling for anything is unnecessary, as the free characters provided to any player are adequate, meaning not even whales have an insurmountable advantage. Climbing to the peak of the tree has incredible significance due to the fact that the local surroundings of the Frostbearing Tree are of a generally lower height. Thus, climbing the Frostbearing tree allows you to get the height advantage, and doing so under these limitations means you can perform such strategic maneuvers under the most dire and desperate of situations.
+**Significance:** By mastering these Skills, you can climb the intimidating heights of the Frostbearing Tree with nothing but your bare hands. No Vision, Elemental powers, or even a glider, are necessary. Indeed, rolling for anything is unnecessary, as the free characters provided to any player are adequate, meaning not even whales have an insurmountable advantage. Climbing to the peak of the tree has incredible significance due to the fact that the local surroundings of the Frostbearing Tree are of a generally lower height. Thus, climbing the Frostbearing tree allows you to get the height advantage, and doing so under these limitations means you can perform such strategic maneuvers under the most dire and desperate of situations.
 
 Being at a greater height confers immense benefits. Those at a significant height over others possess a birds-eye view of the battlefield, allowing them to observe their enemies from afar. The great military strategist Sun Tzu once said, "If you know the enemy and know yourself, you need not fear the result of a hundred battles." Furthermore, the advantage of height is not merely backed by military theory. In fact, it is has been a deciding factor throughout history. For example, Obi Wan cleverly defeated Anakin by utilising this intrinsic advantage unique to the high ground.
 
@@ -466,7 +466,7 @@ Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918035789865156618_919908365172363385_transcript-fruit-changes-on-hitting-ground.html)
 
-**Finding:** Fruit can be affected by Anemo suction as long as it doesn't stay on the ground for too long. Once they have been on the ground for a certain amount of time, nothing will affect it anymore. You can also indefinitely keep fruit in the air with enough Anemo skills, and **even import Mondstadt fruit into Liyue**.
+**Finding:** Fruit can be affected by Anemo suction as long as it doesn't stay on the ground for too long. Once they have been on the ground for a certain amount of time, nothing will affect it anymore. You can also indefinitely keep fruit in the air with enough Anemo Skills, and **even import Mondstadt fruit into Liyue**.
 
 **Evidences:** [Fruit juggle](https://imgur.com/a/FKJoulw)
 
@@ -570,7 +570,7 @@ Traveler does not accumulate friendship points, but does sort higher than other 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929809364825550901_936413828575559700_transcript-a-study-in-potions--retry-button-mechanics.html)
 
 **Finding:**  
-The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, Elemental skills, Burst skills and character constellations are fully reset as well as HP and Energy.
+The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, Elemental Skills, Burst Skills and character constellations are fully reset as well as HP and Energy.
 
 **Evidence:**  
 [Google Doc](https://docs.google.com/spreadsheets/d/1eYvgX2WSqEFXtQEuuwlI9nYveeaWUSe-grQ2Lx59zVY/edit?usp=sharing)  

@@ -35,7 +35,7 @@ Unfortunately this means a lot of our frame counts of Elemental durations will b
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835912799343476766_840072673961967646_transcript-hitlag-extension-testing.html)
 
 **Finding:**  
-Normal Attack hitlag can extend the duration of some skills/bursts, such as Xiao's Burst.
+Normal Attack hitlag can extend the duration of some Skills/bursts, such as Xiao's Burst.
 
 **Evidence:**  
 [YouTube](https://youtu.be/2HpPqt7Jh2A)
@@ -56,7 +56,7 @@ Hitlag extension should be taken into account when simulating Skills/Bursts such
 
 **Findings:**
 
-* Deployables \(skills and constructs that stay on the field for a set amount of time\) do NOT have duration extended by normal attack hitlag.
+* Deployables \(Skills and constructs that stay on the field for a set amount of time\) do NOT have duration extended by normal attack hitlag.
   * The duration is only affected by their own activation hitlag \(i.e. Xiangling's melee hits on her Burst\) and single-player world pauses \(menu, character death, etc\).
 * The buffs caused by deployables, such as Chongyun's Cryo infusion, do have their durations extended by normal attack hitlag.
 
@@ -212,7 +212,7 @@ These additional iFrames may prove useful in dodging/iFraming incoming attacks w
 [Discussion](https://tickets.deeznuts.moe/transcripts/catalyst-n1-buffer)
 
 **Finding:**  
-All catalyst characters have 3 distinct lengths for their n1. Under normal circumstances, they will always use their regular (short) version. However, inputting a normal attack immediately out of a dash or sometimes on the first few frames of a walk input will lead to the n1 having significantly increased animation frames (long version). Inputting a normal attack out of a previous normal attack string leads to a slightly lengthened animation (medium version).
+All catalyst characters have 3 distinct lengths for their N1. Under normal circumstances, they will always use their regular (short) version. However, inputting a normal attack immediately out of a dash or sometimes on the first few frames of a walk input will lead to the N1 having significantly increased animation frames (long version). Inputting a normal attack out of a previous normal attack string leads to a slightly lengthened animation (medium version).
 
 The exact frames for the short and long versions for all catalyst characters are:
 

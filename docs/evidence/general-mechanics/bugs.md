@@ -56,7 +56,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 [YouTube](https://youtu.be/3_QlBz5P5B8)
 
-**Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much Energy Recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on Elemental skills or bursts.
+**Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much Energy Recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on Elemental Skills or bursts.
 
 ## Artifacts
 
@@ -347,7 +347,7 @@ Fast shield-breaking tech, can apply Hydro very fast to allow more vapes in Xing
 **Last tested:** <VersionHl date="2021-04-19" />  
 _\*\*_[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_826181971545292880_834198195352764446_transcript-lag-and-snapshot-interactions.html)
 
-**Finding:** Skills that snapshot character stats like attack and HP are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
+**Finding:** Skills that snapshot character stats like attack and HP are probably snapshotted client side and sent to server to be confirmed. The same applies to Skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
 
 Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are applied server-side, and from the findings lag doesn't cause any unexpected damage numbers. This probably implies all damage done is calculated by the server, but using the stats sent from the player client.
 

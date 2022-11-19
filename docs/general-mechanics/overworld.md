@@ -189,7 +189,7 @@ As of 3.0, coordinates are no longer available in the feedback url.
 * Regardless of the height difference, no fall damage will be taken after jumping from a spoutrock unless you:
   * Glide
   * Roll off a cliff \(counts as landing, you don't take damage for roll but the next landing won't be soft\)
-  * Use mid-air skills e. g. Xiao
+  * Use mid-air Skills e. g. Xiao
   * Plunge \(normal reduced fall damage for plunge, capped at 40% max HP\)
 * Geo Active Pillars in The Chasm have the following properties:
   * The basics:

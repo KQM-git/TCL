@@ -5,7 +5,7 @@ sidebar_position: 9001
 
 # Simultaneous Reaction Priorities
 
-Simultaneous reaction priority theory is an expansion of the Elemental Gauge Theory. The findings here have validated EGT and this presents a few practical uses of the findings. The EGT has been CRITical in understanding what happens when simultaneous reactions occur.
+Simultaneous reaction priority theory is an expansion of the Elemental Gauge Theory. The findings here have validated EGT and this presents a few practical uses of the findings. The EGT has been Critical in understanding what happens when simultaneous reactions occur.
 
 Mandatory reading:
 <Card item={require('./elemental-gauge-theory.md')} />

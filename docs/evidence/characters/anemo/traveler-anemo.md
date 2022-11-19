@@ -236,9 +236,9 @@ Although a minor damage source, Anemo Traveler's A1 Passive damage is increased 
 **Theory:**  
 The Elemental proc \(Slitting Wind\) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's Elemental proc happens some time after the last frame of her N5 attack string, while Aether's Elemental proc happens before his N5 attack string occurs.
 
-The possible explanations for this is that the Elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's n5 but before Aether's n5.
+The possible explanations for this is that the Elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's N5 but before Aether's N5.
 
-Lumine's entire N5 sequence takes ~148 frames while Aether's n5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.
+Lumine's entire N5 sequence takes ~148 frames while Aether's N5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.
 
 **Evidence:**
 

@@ -12,7 +12,7 @@ Energy is the resource that allows you to cast Elemental Bursts.
 
 ### Elemental Skills
 
-If an Elemental Skill hits an enemy, **Elemental Particles** will be generated \(with some exceptions such as Barbara or Noelle's Elemental Skill\). For details on how many **Elemental Particles** specific skills/characters generate, this [table](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit?usp=sharing) has it all.
+If an Elemental Skill hits an enemy, **Elemental Particles** will be generated \(with some exceptions such as Barbara or Noelle's Elemental Skill\). For details on how many **Elemental Particles** specific Skills/characters generate, this [table](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit?usp=sharing) has it all.
 
 ### Auto Attacking
 

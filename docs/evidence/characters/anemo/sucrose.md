@@ -177,7 +177,7 @@ _credits to fragile💤#7777 for finding and documenting the first instance of t
 
 **Significance:**  
 For those who still want the Particles while doing Sucrose E dash cancel (this is mostly for pre-funnelling Xiao, but could be useful in other situations), have Skill issue and stay on Sucrose a bit longer before switching characters.  
-This might also be a bug on other characters when they dash cancel their skills...
+This might also be a bug on other characters when they dash cancel their Skills...
 
 ### Sucrose E Dash E Bug
 
@@ -242,7 +242,7 @@ As there was only a single reaction, unlike the expected two Swirls if Sucrose's
 **By:** Katsune\#4691  
 **Added:** <Version date="2021-10-17" />  
 **Last tested:** <VersionHl date="2021-10-17" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898471465438027806_898489236662132756_transcript-sucrose-a1-doesnt-proc-on-swirling-guobaenvironmental-objects.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898471465438027806_898489236662132756_transcript-sucrose-a1-doesnt-proc-on-swirling-guoba-environmental-objects.html)
 
 **Findings:**  
 Sucrose's A1 talent, Catalyst Conversion, does not proc on Swirling Guoba or environmental objects.

@@ -92,7 +92,7 @@ Enemy movement manipulation when using Geo Traveler in a team comp.
 **By:** Blank#4561  
 **Added:** <Version date="2021-09-10" />  
 **Last tested:** <VersionHl date="2021-09-10" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864157638828490762_864440105296592906_transcript-traveler-ascension-skills.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864157638828490762_864440105296592906_transcript-traveler-ascension-Skills.html)
 
 **Finding:**  
 Anemo Traveler A4 counts as Normal Attack Damage.
@@ -113,11 +113,11 @@ Although a minor damage source, Geo Traveler's A4 Passive damage is increased by
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955996204477612072_transcript-mc-elemental-proc-diff.html)
 
 **Theory:**  
-The Elemental proc (Frenzied Rockslide) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's Elemental proc happens some time after the last frame of her N5 attack string, while Aether's Elemental proc happens before his n5 attack string occurs.
+The Elemental proc (Frenzied Rockslide) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's Elemental proc happens some time after the last frame of her N5 attack string, while Aether's Elemental proc happens before his N5 attack string occurs.
 
 The possible explanations for this is that the Elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's N5 but before Aether's N5.
 
-Lumine's entire n5 sequence takes ~148 frames while Aether's N5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.
+Lumine's entire N5 sequence takes ~148 frames while Aether's N5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.
 
 **Evidence:**
 
@@ -146,7 +146,7 @@ Geo MC C1 10% CRIT Rate buff becomes active after stone wall is created and does
 
 **Evidence:**
 [https://youtu.be/DBMJEKuABes](https://youtu.be/DBMJEKuABes)  
-Video shows Geo MC with c6 and >90% CRIT Rate not CRITting on 3rd hit of his Q.
+Video shows Geo MC with c6 and >90% CRIT Rate not scoring CRIT hits on 3rd hit of his Q.
 If the CRIT bonus applied to Burst damage, it would be impossible to not CRIT.
 
 **Significance**

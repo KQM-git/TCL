@@ -52,7 +52,7 @@ Hereinafter, all aura applications will be referred to with this unit modifier a
 
 ## Character Elemental Gauge Application
 
-Each character has a set amount of Elemental gauge applied by each individual attack or Skill. A full list of character skills and their corresponding Elemental gauges can be found below:  
+Each character has a set amount of Elemental gauge applied by each individual attack or Skill. A full list of character Skills and their corresponding Elemental gauges can be found below:  
 <Card item={require('../../resources/compendiums/elemental-gauges.md')} />
 
 ## Decay Rate

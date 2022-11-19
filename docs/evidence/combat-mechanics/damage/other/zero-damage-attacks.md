@@ -70,7 +70,7 @@ Talent tags - BowTae\#0141:
 * [Xingqiu Q activation](https://youtu.be/Z5nbPX1dMDE)
 * [Converted attacks retain tags](https://youtu.be/eLiyC9brA0Q)
 
-Converted attacks CRITting:
+Converted attacks scoring CRIT hits:
 
 * [YouTube Playlist](https://youtube.com/playlist?list=PLENtasv0WJZdFCLw5YrLyrvj0dgGO1wl1)
 * [Klee A4](https://youtu.be/WRDvOfUysRs) - CQLQRS\#7853

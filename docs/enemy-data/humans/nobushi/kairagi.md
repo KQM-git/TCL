@@ -64,7 +64,7 @@ They practiced martial arts since they were young, but lost the opportunity to s
 * Clenches and raise their fist to taunt their opponents, said taunt is identical to that of the Maguu Kenki.
   * They will not perform this move if they are in an Avenger state.
 * When an ally Kairagi dies in battle, the other Kairagi will attempt to avenge their fallen comrade. The Kairagi imbues itself with a fiery-orange aura, as well as infusing its' blade with Pyro.
-  * While in this state, the Kairagi is also immune to all stun skills, including Frozen Elemental reactions and Zhongli's Planet Befall Petrified.
+  * While in this state, the Kairagi is also immune to all stun Skills, including Frozen Elemental reactions and Zhongli's Planet Befall Petrified.
   * The Kairagi will then gain a 30-second 50% max HP increase (this will also heal the Kairagi if it is under its max HP) and will then enter the Avenger state permanently.
   * While in this state the Kairagi has increased interruption resistance and will always prioritize infusing their blade if the blade's infusion ends.
 * Points its' blade towards the player and charge towards them once.
@@ -80,7 +80,7 @@ They practiced martial arts since they were young, but lost the opportunity to s
 
 ## Kairagi: Dancing Thunder
 
-They possess highly advanced martial art skills but found no use for them for various reasons. Out of desperation, they have fallen onto the path of evil. They use paper seals, created from a Kamuna art that has been lost for centuries, to infuse their blades with the power of lightning.
+They possess highly advanced martial art Skills but found no use for them for various reasons. Out of desperation, they have fallen onto the path of evil. They use paper seals, created from a Kamuna art that has been lost for centuries, to infuse their blades with the power of lightning.
 
 ## Attacks
 
@@ -93,7 +93,7 @@ They possess highly advanced martial art skills but found no use for them for va
 * Clenches and raise their fist to taunt their opponents, said taunt is identical to that of the Maguu Kenki.
   * They will not perform this move if they are in an Avenger state.
 * When an ally Kairagi dies in battle, the other Kairagi will attempt to avenge their fallen comrade. The Kairagi imbues itself with a dark-purple aura, as well as infusing its' blade with Electro.
-  * While in this state, the Kairagi is also immune to all stun skills, including Frozen Elemental reactions and Zhongli's Planet Befall Petrified.
+  * While in this state, the Kairagi is also immune to all stun Skills, including Frozen Elemental reactions and Zhongli's Planet Befall Petrified.
   * The Kairagi will then gain a 30-second 50% max HP increase (this will also heal the Kairagi if it is under its max HP) and will then enter the Avenger state permanently.
   * While in this state the Kairagi has increased interruption resistance and will always prioritize infusing their blade if the blade's infusion ends.
 * Points its' blade towards the player and charge towards them once.

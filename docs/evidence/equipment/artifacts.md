@@ -627,7 +627,7 @@ valorha's Spreadsheet: [Google Sheets](https://docs.google.com/spreadsheets/d/10
 Additional data about Zhongli's spear kick, performed at 140-150ms ping  
   
 **Evidence:**  
-160 full combos (plus some partial ones because I can't click properly) against Ruin Guard. First three hits of n5 were linked, except for once instance where only the first two were linked.  
+160 full combos (plus some partial ones because I can't click properly) against Ruin Guard. First three hits of N5 were linked, except for once instance where only the first two were linked.  
   
 [Spreadsheet (includes links to videos): docs.google.com](https://docs.google.com/spreadsheets/d/1sPWn7gCcHv3s30gEitw1WG7AWsuGx-nXe5PNdBSaFo0/edit?usp=sharing)  
   
@@ -691,14 +691,14 @@ Long Range: [YouTube](https://youtu.be/67Ta1R5ZSbo)
 **Last tested:** <VersionHl date="2022-04-04" />  
   
 **Finding:**  
-Kazuha's 3-hit n5 is "linked"  
-Kaz's 2-hit n3 is not "linked"  
+Kazuha's 3-hit N5 is "linked"  
+Kaz's 2-hit N3 is not "linked"  
   
 **Evidence:**  
 I analysed 107 full N5 strings against a downed Ruin Guard over 2 sessions  
 N5:
 * The first 2 hits display the same proc (i.e NN or PP) in 105/107 trials
-* The 3rd hit only procced in 6/107 trials, and those 6 were all NNP overall for n5. If you assume even the minimum 36% proc chance for n5-3, the chance to get only 6 procs in 107 trials is in the region of 6x10-14
+* The 3rd hit only procced in 6/107 trials, and those 6 were all NNP overall for N5. If you assume even the minimum 36% proc chance for N5-N3, the chance to get only 6 procs in 107 trials is in the region of 6x10-14
 
 N3:
 * Every combination has been observed multiple times (NN, NP, PN, PP)
@@ -1166,7 +1166,7 @@ Values were tested and compared with sheet calcs at multiple ping levels, but I 
 **Last tested:** <VersionHl date="2021-05-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842423144845541446_845513030804832296_transcript-4pc-tom-procs-against-shielded-enemies.html)
 
-**Theory:** The 4 piece effect of Tenacity of the Millelith activates with Elemental skills hitting shielded enemies and dealing no damage
+**Theory:** The 4 piece effect of Tenacity of the Millelith activates with Elemental Skills hitting shielded enemies and dealing no damage.
 
 **Evidence:**
 

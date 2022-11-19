@@ -94,7 +94,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * The explosion has the blunt attribute that lets it damage shields and Shatter Frozen enemies like claymores.
-* **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their Elemental skills.
+* **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their Elemental Skills.
 * The explosion radius is smaller than the animation so take care when aiming it.
 * Baron Bunny is allowed to have a Hydro or Cryo aura, as well as be Frozen.
   * Only environmental effects may apply the Hydro aura.

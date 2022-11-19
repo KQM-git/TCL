@@ -29,7 +29,7 @@ Note: Since the official names for these are incredibly difficult to find, I wil
 
 [YouTube video](https://www.youtube.com/watch?v=iwYAHJzqfos) \(Crimson Witch domain\)
 
-2\) The damage from monster Skill effects cannot be reduced by skills like **Xingqiu's E/Q** and **Beidou's Q**. This means that comps like **Beidou Xingqiu** Electro-charge that can usually tank enemy attacks by stacking damage reduction cannot tank these effects easily.
+2\) The damage from monster Skill effects cannot be reduced by Skills like **Xingqiu's E/Q** and **Beidou's Q**. This means that comps like **Beidou Xingqiu** Electro-charge that can usually tank enemy attacks by stacking damage reduction cannot tank these effects easily.
 
 [YouTube video](https://www.youtube.com/watch?v=IUgeUMhIUq8) \(Crimson Witch domain\)
 
@@ -39,7 +39,7 @@ Note: Since the official names for these are incredibly difficult to find, I wil
 
 [YouTube video](https://www.youtube.com/watch?v=ElFNtz8QrnU) \(Tested with a lvl 21 Razor with and without 2-Piece lavawalkers set\)
 
-4\) The damage from monster Skill effects can be shielded. This also means that while the damage can be shielded, damage reduction skills that normally reduce the amount of shield damage taken will not apply.
+4\) The damage from monster Skill effects can be shielded. This also means that while the damage can be shielded, damage reduction Skills that normally reduce the amount of shield damage taken will not apply.
 
 [YouTube video](https://www.youtube.com/watch?v=d9THhkkdFwY)
 
@@ -155,7 +155,7 @@ Early understanding about this strange **Black Aura**, now known officially as "
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897826161055379466_904520062487126027_transcript-targeting-ignores-hitbox.html)
 
 **Finding/Theory:**  
-The targeting point for targeted skills (which is everything except bow aim shot as far as I am aware) is not the center of the enemy hitbox. Instead, the target point is set arbitrarily per enemy per animation.
+The targeting point for targeted Skills (which is everything except bow aim shot as far as I am aware) is not the center of the enemy hitbox. Instead, the target point is set arbitrarily per enemy per animation.
 
 **Evidence:**  
 [Imgur](https://imgur.com/a/hShlJ7r)
