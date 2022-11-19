@@ -6,4 +6,4 @@
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/equipment/gadgets/wind-blessed-harpastem.md')} />
+<Card item={require('../../evidence/equipment/gadgets/wind-blessed-harpastum.md')} />
