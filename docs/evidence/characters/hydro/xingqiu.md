@@ -23,7 +23,8 @@ search: false
 
 How to Vaporize both of Xingqiu’s E slashes with either Guoba or Amber
 
-**Evidence:** [Video](https://www.youtube.com/watch?v=-03MNwss9UI)
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=-03MNwss9UI)
 
 There are 2 methods of doing it. You can use Xiangling’s E and time it on Guoba’s attack. The easier method is by using Amber’s ult, you only need to cast E to do it.
 

@@ -423,7 +423,7 @@ Anemo and Geo Skills we currently have marked in the Database as 6s are actually
 **By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-10-13" />  
 **Last tested:** <VersionHl date="2022-08-27" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/hoyo-changed-Pyro-why-1012654762715516988)
+[Discussion](https://tickets.deeznuts.moe/transcripts/hoyo-changed-pyro-why-1012654762715516988)
 
 **Finding:**  
 As of 3.0, decay rate of Pyro aura updates differently than other auras. Every time Pyro is applied, the decay rate either:  

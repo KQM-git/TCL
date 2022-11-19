@@ -213,7 +213,7 @@ Clarification on in-game Skill description—Breastplate's description says that
 
 ## Burst Mechanics
 
-### How does Noelle’s Elemental Burst interact with temporary defence buffs?
+### How Does Noelle’s Elemental Burst Interact With Temporary Defence Buffs?
 
 **By:** JonahFarc\#7056 and Midori\#2173
 

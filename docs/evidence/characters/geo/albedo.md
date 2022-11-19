@@ -50,7 +50,8 @@ I've experienced placing Albedo's flower on top of Electro Hypostasis' summons d
 
 Albedo's Skill does not get affected by Ningguang's Jade Screen buff, since Albedo cast the Skill before walking through the screen.
 
-**Signifiance:** Will help improve rotations to deal more damage. In rotations, Albedo should only cast his Skill after getting buffed.
+**Significance:**  
+Will help improve rotations to deal more damage. In rotations, Albedo should only cast his Skill after getting buffed.
 
 ### Albedo's Elemental Skill Triggering is Pepega
 

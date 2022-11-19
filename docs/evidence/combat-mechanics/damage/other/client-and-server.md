@@ -26,7 +26,7 @@ Numerous interactions/findings that happen with high ping, listed below.
 * Crystallize: [Video](https://youtu.be/iDmUZz6fmeU)
 * Superconduct: [Video](https://youtu.be/Y9GIvuNkPog) (Works on high latency)
 
-Conclusion: Elemental reactions are updated on client, and Superconduct shred still works in high latency.
+Conclusion: Elemental reactions are updated on client, and Superconduct RES Shred still works in high latency.
 
 **HP**
 

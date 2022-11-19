@@ -16,11 +16,13 @@ search: false
 
 **By:** Neptunya\#8291
 
-**Finding:** The shield C2 Xinyan creates on Burst can proc Sac GS's passive.
+**Finding:**  
+The shield C2 Xinyan creates on Burst can proc Sac GS's passive.
 
 **Evidence:** [YouTube](https://youtu.be/Q_5qqGYf8DI)
 
-**Significance:** More chances for sacrificial procs never hurts. Also, there's less worry if you want to pop Skill when sac GS is on CD or if the passive doesn't proc at all, because Burst can also proc sac GS if your Xinyan is C2.
+**Significance:**  
+More chances for sacrificial procs never hurts. Also, there's less worry if you want to pop Skill when sac GS is on CD or if the passive doesn't proc at all, because Burst can also proc sac GS if your Xinyan is C2.
 
 ## Xinyan C6 affects her Skill and Burst
 

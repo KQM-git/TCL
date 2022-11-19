@@ -329,7 +329,7 @@ Co-op cannot be used to have a more favorable/easier Elemental matchup against a
 
 ### La Signora
 
-#### You can't Melt signora off field
+#### You Can't Melt Signora Off Field
 
 **By:** Puffin\#9920  
 **Added:** <Version date="2022-04-04" />  
@@ -1096,7 +1096,7 @@ This list is not exhaustive and any attack can theoretically stun the Ruin Guard
 **Significance:**  
 Limited practical usage, mostly fluff.
 
-#### Polearm Charged Attacks Don't Register On Stunned Ruin Guards
+#### Polearm Charge Attacks Don't Register On Stunned Ruin Guards
 
 **By:** itskhoi\#0013  
 **Added:** <Version date="2021-05-07" />  
@@ -1240,7 +1240,7 @@ If Anemo slimes are ever introduced to the abyss, this information could be usef
 **By:** Rainfury\#8343  
 **Added:** <Version date="2021-10-25" />  
 **Last tested:** <VersionHl date="2021-10-25" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883264842931257425_902081518808203324_transcript-Hydro-slimes-apply-wet-to-surrounding-in-certain-situations.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883264842931257425_902081518808203324_transcript-hydro-slimes-apply-wet-to-surrounding-in-certain-situations.html)
 
 **Finding:**  
 Hydro slimes will apply Hydro to both enemies and allies in their surroundings when they land from bouncing (after three hops for small slimes, every hop for large slimes), when they are hit by an attack, including attacks which they are immune to, and when they are unfrozen or Shatter removes them from a Frozen state. Hydro slimes will not apply Hydro if they are Frozen. This Elemental application will not trigger damaging reactions.

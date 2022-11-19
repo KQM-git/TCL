@@ -245,7 +245,7 @@ Damage to enemy shields is affected by three main formulas, which are summed for
 **Evidence:**  
 There are pages on the wiki that already detail this information, however I created a [google document](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit?usp=sharing) which aims to compile it all into one source which is easy to digest. All references are included in the document.
 
-## CRITial-hit triggered abilities interactions with shields
+## Critial-Hit Triggered Abilities Interactions With Shields
 
 **By:** Silvershine2#5439  
 **Added:** <Version date="2021-06-14" />  

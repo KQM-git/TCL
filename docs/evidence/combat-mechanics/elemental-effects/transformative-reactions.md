@@ -309,9 +309,11 @@ One step closer to understanding Electro-Charged I guess.
 **Added:** <Version date="2021-04-05" />  
 **Last tested:** <VersionHl date="2021-04-05" />
 
-**Finding:** Electro-Charged + heavy hit instances can stagger lock.
+**Finding:**  
+Electro-Charged + heavy hit instances can stagger lock.
 
-**Evidence:** _YouTube video lost to the sands of time_
+**Evidence:**  
+_YouTube video lost to the sands of time_
 
 1. Apply Electro-Charged and deal heavy hits to target
 2. Stagger resistance will be reduced
@@ -1215,7 +1217,8 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 
 **Evidence:** \(from Terrapin's Swirl Guide [here](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit)\): [YouTube](https://imgur.com/a/sFnA4YH)
 
-**Significance:** better understanding of Swirl, assisting in teambuilding
+**Significance:** 
+Better understanding of Swirl, assisting in teambuilding
 
 ### Swirl Chain Reactions
 

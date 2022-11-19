@@ -192,7 +192,7 @@ The 15% Pyro DMG bonus from Bennett C6 doesn't stack in coop when inside multipl
 **Conclusion:**  
 Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been Shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.
 
-#### C6 Bennett Pyro DMG Bonus affects Catalyst and Bow-wielders
+#### C6 Bennett Pyro Damage Bonus affects Catalyst and Bow-wielders
 
 **By:** bloodreign616#4766  
 **Added:** <Version date="2021-08-19" />  

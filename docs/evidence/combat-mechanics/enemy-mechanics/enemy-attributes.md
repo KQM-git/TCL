@@ -12,7 +12,8 @@ search: false
 
 **By:** Steno\#6940
 
-**Finding:** In-depth look at monster Skill effects in abyss/domains \(Ice Cage, Pursuing Fireball, etc.\)
+**Finding:**  
+In-depth look at monster Skill effects in abyss/domains \(Ice Cage, Pursuing Fireball, etc.\)
 
 Note: Since the official names for these are incredibly difficult to find, I will list them here
 

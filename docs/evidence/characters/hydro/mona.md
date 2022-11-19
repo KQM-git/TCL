@@ -271,7 +271,7 @@ ZL's ability to extend omen with petrify is more conditional than previously tho
 **Last tested:** <VersionHl date="2021-04-09" />
 
 **Finding:**  
-Rosaria's Passive affects Mona's alternate sprint and stacks on top of Anemo resonance.
+Rosaria's Passive affects Mona's alternate sprint and stacks on top of Anemo Resonance.
 
 **Evidence:**
 
@@ -340,7 +340,7 @@ While I sincerely doubt that 4 TotM Mona will become a viable build path for her
 
 ### A4: Waterborne Destiny
 
-#### Mona A4 Passive only shows when she's active
+#### Mona A4 Passive Only Shows When She's Active
 
 **By:** 2ri#0945  
 **Added:** <Version date="2021-08-31" />  
@@ -468,7 +468,7 @@ Mona's C1 does not work party-wide in Co-op.
 
 ### C2: Lunar Chain
 
-#### Can Mona’s 2nd Constellation allow you to trigger Vaporize on a Pyro inflicted target twice?
+#### Can Mona’s 2nd Constellation Allow You to Trigger Vaporize on a Pyro Inflicted Target Twice?
 
 **By:** Kimmu\#0007  
 **Added:** <Version date="2020-12-05" />  

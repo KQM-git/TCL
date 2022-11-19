@@ -21,15 +21,18 @@ sidebar_position: 3000
 **Last tested:** <VersionHl date="2020-12-07" />  
 **Updated:** 2021-04-03
 
-**Finding:** Energy Recharge gained through Normal Attacking only applies to the character on field
+**Finding:**  
+Energy Recharge gained through Normal Attacking only applies to the character on-field.
 
-**Evidence:** The original author didn't provide video evidence, but it was approved due to being easily replicated**.** Special thanks go to Pinupski\#9999 for validating this entry with video evidence.
+**Evidence:**  
+The original author didn't provide video evidence, but it was approved due to being easily replicated. Special thanks go to Pinupski\#9999 for validating this entry with video evidence.
 
 1. Enemy's health was depleted to ~5% and let to reset to full HP, removing the variable of HP Particles
 2. [Autoattacking](https://youtu.be/yMstsGRLy5s): Used all Bursts to reset the Burst meter, then Normal Attacked with Zhongli until Burst was charged
 3. [Conclusion](https://youtu.be/3W_Gjd5LfDM): Characters other than Zhongli still had 0 Energy.
 
-**Significance:** Off-field characters cannot gain Energy via Normal Attacks from the active character .
+**Significance:**  
+Off-field characters cannot gain Energy via Normal Attacks from the active character.
 
 ## Energy Recharge Does NOT Have a Softcap \(at least up to 300 ER\)
 
@@ -47,7 +50,8 @@ sidebar_position: 3000
 0.6 Energy per Particle * 3.001 ER * 33 Particles = 59.420
 ```
 
-**Significance:** Helpful when figuring out how much Energy Recharge is needed to build on a character in a specific team.
+**Significance:**  
+Helpful when figuring out how much Energy Recharge is needed to build on a character in a specific team.
 
 ## Auto Attack Energy Mechanics
 
