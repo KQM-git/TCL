@@ -31,7 +31,7 @@ The decay notation number indicates the original system of Elemental units that 
 | 2U                | 2GU               | 2B             | 7.5s per B            |
 | 4U                | 4GU               | 4C             | 5.3125s per C         |
 
-Day 5 Fayz Trials enhanced Skill applies 8 Gauge Units of Cryo/Hydro/Pyro, for more details see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#8gu-auras).  
+Day 5 Fayz Trials Supersense Skill applies 8 Gauge Units of Cryo/Hydro/Pyro, for more details see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#8gu-auras).  
 
 ## Aura Application
 

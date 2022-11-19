@@ -73,11 +73,11 @@ His attacks will gain special effects depending on the infused Element.
   * Hydro: Damage type converted to Hydro, and launches water streams in multiple directions from Azhdaha's location.
   * Pyro: Damage type converted to Pyro and leave several fireballs midair, that will hit the ground randomly and leave a burning circle, which continuously damages players in its AoE.
 * Slams his tail once if target is behind him.
-  * Electro: Damage type converted to Cryo. Slower tha Normal Tail Slam, but cause two Electro explosions around the impact area. (Phase 3)
-  * Cryo: Damage type converted to Cryo. Slower tha Normal Tail Slam, but will summon several Ice Spikes around the impact area that will explode twice. (Phase 3)
+  * Electro: Damage type converted to Cryo. Slower than the normal Tail Slam, but causes two Electro explosions around the impact area. (Phase 3)
+  * Cryo: Damage type converted to Cryo. Slower than the normal Tail Slam, but summons several Ice Spikes around the impact area that will explode twice. (Phase 3)
 * Performs a quick sweep attack. This attack cannot be avoided using dash i-frames.
-  * Electro: Damage type converted to Electro. Leaves multiple Electro Orbs that deal damage upon contact with the player. (Phase 3)
-  * Cryo: Damage type converted to Cryo. Leaves 3 Cryo Orbs that will explode after a short while. (Phase 3)
+  * Electro: Damage type converted to Electro. Leaves multiple Electro orbs that deal damage upon contact with the player. (Phase 3)
+  * Cryo: Damage type converted to Cryo. Leaves 3 Cryo orbs that will explode after a short while. (Phase 3)
 * Rushes forward, goring enemy units on with his tusks and tossing them into the air. This attack cannot be avoided using dash i-frames.
   * Electro: Damage type converted to Electro. (Phase 3)
   * Cryo: Damage type converted to Cryo. (Phase 3)
@@ -100,7 +100,7 @@ Azhdaha can still use any ability from Phase 1. These Phase 1 abilities will be 
   * Hydro: Damage type will be converted into Hydro. AoE is increased. Six lines of water streams splinting evenly on each sides will follow instantly after the final huge shockwave.
   * Pyro: Damage type will be converted into Pyro. AoE is increased. Leaves several fireballs in the air, that will hit the ground randomly upon impact shortly after the final huge shockwave and leave burning circles on the ground, damaging players who step on it.
 * Roars and initiates a large AoE attack of the infused Element.
-  * Hydro: Summons several moving large Hydro Orbs, that will slowly rotate around the arena and deal damage per second upon impact.
+  * Hydro: Summons several moving large Hydro orbs, that will slowly rotate around the arena and deal damage per second upon impact.
   * Pyro: Summons several meteors that fall from the sky. The meteors leave a large pool of lava upon impact, that lasts for a period of time and deals continuous Pyro DoT to characters in the affected area.
 
 ### Phase 3: Dual Elemental Infusion

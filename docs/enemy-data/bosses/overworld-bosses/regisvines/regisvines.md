@@ -56,7 +56,7 @@ Gains +100% resistance to all while shield is up.
 
 A monster formed from a vine that was imbued with the essence of biting frost within the Ley Lines.
 
-Some studies hold that plants are like organs of the world, harmonizing the turbulent elemental energies of the Ley Lines. Concrete examples of this phenomena are Mist Flowers, Whopperflowers and the like, which brim over with elemental Energy.
+Some studies hold that plants are like organs of the world, harmonizing the turbulent elemental energies of the Ley Lines. Concrete examples of this phenomena are Mist Flowers, Whopperflowers and the like, which brim over with elemental energy.
 
 In certain circumstances, certain plants will turn into creatures of monstrous size and intent — such as the Cryo Regisvines — over the course of many years.
 

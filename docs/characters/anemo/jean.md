@@ -136,7 +136,7 @@ import Skill from '@site/src/components/char/Skill'
   * With precise timing, Anemo can be the aura for self-swirls occasionally.
   * This self-swirl interaction does not count as a reaction for Freedom\-Sworn Passive stacks and 4-Piece Instructor set effect.
   * In Sunfire \(when Jean's Burst and Bennett's Burst overlap\), if Jean triggers Overload the Freedom\-Sworn Passive will be activated.
-  * In Sunfire, Bennett can trigger the 4-Piece VV effect set himself if he's the triggerer of Sunfire self-swirl.
+  * In Sunfire, Bennett can trigger the 4-Piece VV effect set himself if he's the one that triggers Sunfire self-Swirl.
 * If Jean casts her Burst right before the Final Calamity begins during the Raiden Shogun weekly boss fight, the Dandelion Breeze field exit damage at end of Burst duration will proc Electro Swirl off of invisible Raiden Shogun's shield.
 
 </TabItem>

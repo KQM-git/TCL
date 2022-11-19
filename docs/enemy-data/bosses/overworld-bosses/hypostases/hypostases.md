@@ -70,8 +70,8 @@ Code name: Beth. A high-purity Anemo entity. Elemental hypostases are life forms
 * Moves to a location away from the player and sends pieces of its shell into the sky. Over the next few seconds, three total shell pieces will fall from the sky towards the player, these leave updrafts where they fall.
   * The boss will not expose its core after this move, but its core will be exposed during the attack.
 * Moves to a location away from the player and floats into the sky, forming a rhombus with its shell pieces. Then, it sucks shell pieces into its core to form and fire wind blasts that deal AoE damage, it fires a total of 3 blasts. Move around to dodge (can dodge without dashing).
-* When HP is low (approx. 5%), moves to the center of the arena and forms 4 large floating Anemo Orbs along with several updrafts. After some time , absOrbs any Anemo Orbs that remain, healing a large portion of its HP for each Orb absOrbed.
-* If an Orb is absOrbed by the player it will not respawn the next time the Hypostasis uses Second Wind, and if all Orbs are absOrbed by the player it will become unable to reuse this ability and unable to heal.
+* When HP is low (approx. 5%), moves to the center of the arena and forms 4 large floating Anemo orbs along with several updrafts. After some time, absorbs any Anemo orbs that remain, healing a large portion of its HP for each orb absorbed.
+* If an orb is absorbed by the player it will not respawn the next time the Hypostasis uses Second Wind, and if all orbs are absorbed by the player it will become unable to reuse this ability and unable to heal.
 * The boss can't be killed without resolving this attack first.
 
 </TabItem>
@@ -144,7 +144,7 @@ Code name: Aleph. A high-purity Electro entity. Elemental hypostases are the hig
   * This attack is usually performed only when the player takes too long to defeat the Electro Hypostasis.
 * Forms a ring around its core with its shell pieces and fires lasers out in 4 directions. The ring will then rotate, the lasers moving with it. When the lasers turn off, the shell pieces quickly converge on the core.
   * The core will be exposed during this attack.
-* When HP is low (approx. 5%), teleports to the center of the arena and forms 3 Electro Prisms, which can only be damaged by Elemental aura application. After 15 seconds, absOrbs the Prisms and heals for 15%/35%/50% of its HP for 1/2/3 prisms absOrbed.
+* When HP is low (approx. 5%), teleports to the center of the arena and forms 3 Electro Prisms, which can only be damaged by Elemental aura application. After 15 seconds, absorbs the Prisms and heals for 15%/35%/50% of its HP for 1/2/3 prisms absorbed.
   * If a Prism is destroyed, it does not add to the healing and does not respawn next time the Electro Hypostasis uses this ability.
   * When the player destroys all three Electro Prisms, the Electro Hypostasis dies immediately.
   * The boss can't be killed without resolving this attack first.
@@ -177,12 +177,12 @@ Code name: Gimel. A high-purity Geo entity. Elemental hypostases are ultra-compa
   * This attack can only be used once all of the Hypostasis' pillars have been destroyed.
 * Quickly flies next to the player and forms a large wall, which folds in a "clapping" motion very quickly, dealing damage in an area in front of the wall.
 * Floats into the air and forms a sort of flat, plated formation out of shell pieces while channeling a Geo seal around the player. After a few seconds, it will break the seal and instantly summon a large, damaging pillar at the player's location.
-* Floats into the air and briefly channels Energy into the pillar it is floating on before emitting a single shockwave.
+* Floats into the air and briefly channels energy into the pillar it is floating on before emitting a single shockwave.
 * Causes shell chunks and Geo pellets to continuously rain down in various small areas around the arena. This attack will only be used when the Hypostasis is on the ground, and only seems to work the first time it is used.
-* Spirals into the air and channels Energy into its pillar, causing all pillars to emit continuous shockwaves for the duration of the attack.
+* Spirals into the air and channels energy into its pillar, causing all pillars to emit continuous shockwaves for the duration of the attack.
   * This attack is deadly and deals a massive amount of damage.
-  * Attacking the concentrated Geo Energy near the Hypostasis' pillar will create a Geo forcefield that blocks the shockwaves.
-* When HP is low (approx. 5%), the Hypostasis teleports to the center of the arena and forms 3 pillars that channel Geo Energy. After 15 seconds, the pillars are absOrbed to heal 15%/35%/50% of its HP for 1/2/3 pillars absOrbed.
+  * Attacking the concentrated Geo energy near the Hypostasis' pillar will create a Geo forcefield that blocks the shockwaves.
+* When HP is low (approx. 5%), the Hypostasis teleports to the center of the arena and forms 3 pillars that channel Geo energy. After 15 seconds, the pillars are absorbed to heal 15%/35%/50% of its HP for 1/2/3 pillars absorbed.
   * Destroying all pillars will immediately kill the Hypostasis.
   * If a pillar is destroyed, it will not respawn the next time this ability is used.
   * If if this move is completed, the Hypostasis will resummon 4 pillars in a triangle formation.
