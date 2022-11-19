@@ -166,7 +166,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * This Energy is not affected by ER.
-* This Energy can proc vs enemy shields
+* This Energy can proc vs enemy shields.
 
 </TabItem>
 </Tabs>

@@ -4,7 +4,7 @@ description: A mysterious "lord" of Hilichurls that walks in thunder storms..
 
 # Boltburst Lawachurl
 
-This huge Hilichurl is referred to as "Lawa" by its brethren. The giant body is saturated with Electro Energy, while the Elemental Energy seeps through its cracks in its body in the form of Electro Crystal growths.
+This huge Hilichurl is referred to as "Lawa" by its brethren. The giant body is saturated with Electro Energy, while the Elemental energy seeps through its cracks in its body in the form of Electro Crystal growths.
 
 ## Weakspot Details
 

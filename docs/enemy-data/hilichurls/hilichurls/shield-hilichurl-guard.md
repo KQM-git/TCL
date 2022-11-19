@@ -83,7 +83,7 @@ Hilichurls display a strong sense of adaptability to their surroundings. In icy 
 
 ## Attacks
 
-* Uses a Cryo hand Shield&Club. The shield can be destroyed using Pyro or blunt attacks, or dealing enough damage to it.
+* Uses a Cryo hand shield and club. The shield can be destroyed using Pyro or blunt attacks, or dealing enough damage to it.
 * Swings its club at the player.
 * Blocks attacks in the way of its shields. Attacks from the side and back can still go through. If the shield is destroyed, it will be unable to perform this attack.
 

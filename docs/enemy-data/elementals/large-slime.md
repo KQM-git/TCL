@@ -75,7 +75,7 @@ Anemo Slimes at any level will instantly die if they take any damage during thei
 
 ![](/img/enemy/elemental/Enemy_Large_Cryo_Slime_Icon.webp)
 
-Competitors once Spread malicious rumors that the Dawn Winery used Cryo Slimes to control the temperature of their wine cellar and preserve the quality of their alcohol.
+Competitors once spread malicious rumors that the Dawn Winery used Cryo Slimes to control the temperature of their wine cellar and preserve the quality of their alcohol.
 
 ## Attacks
 
@@ -133,7 +133,7 @@ Electro Slimes can undergo mutations to become bright yellow. Due to the abundan
 
 ![](/img/enemy/elemental/Enemy_Large_Geo_Slime_Icon.webp)
 
-Generally speaking, the crust of the earth is filled with Geo Energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling.
+Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling.
 
 ## Attacks
 

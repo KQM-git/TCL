@@ -1,7 +1,7 @@
 ---
 description: >-
   Lowly life forms of minimal intelligence, made from condensed elemental
-  Energy.
+  energy.
 sidebar_position: 2
 ---
 
@@ -116,7 +116,7 @@ Upon entering combat, they will first distance themselves from their target. Aft
 
 ![](/img/enemy/elemental/Enemy_Geo_Slime_Icon.webp)
 
-Generally speaking, the crust of the earth is filled with Geo Energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling.
+Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly "down-to-earth" sort of feeling.
 
 ## Attacks
 

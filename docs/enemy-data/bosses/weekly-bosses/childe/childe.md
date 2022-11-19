@@ -55,7 +55,7 @@ None.
 * Childe teleports instantly to any point of the arena.
   * This move is performed if the player is too far away.
 * Performs up to 4 consecutive charged shots with a bow, dealing Hydro DMG.
-* Vortex of Turmoil: Gathers Hydro Energy on his Glaive and launches it forwards, spearing anything in its path.
+* Vortex of Turmoil: Gathers Hydro energy on his Glaive and launches it forwards, spearing anything in its path.
   * Deals Hydro damage. May be used up to 3 times consecutively.
 * Releases hydrospouts in a straight line, dealing Hydro DMG and launching the player upwards.
 * Unleashes two flying crescent slashes, dealing Hydro DMG.
