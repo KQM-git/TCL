@@ -184,7 +184,7 @@ Lastly, it debunks the common belief that Anemo cannot be the aura for a Swirl r
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926758212236087337_929999851922538526_transcript-jean-burst-border-dmg-on-initial-cast-and-duration-end.html)
 
 **Finding:**  
-Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AOE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed Elemental application, the initial Burst cast can cause 2 Swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
+Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AoE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed Elemental application, the initial Burst cast can cause 2 Swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
 
 **Evidence:**
 

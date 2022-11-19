@@ -97,7 +97,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Ushi counts towards the Geo construct limit.
+* Ushi counts towards the Geo Constructs limit.
 * Ushi's duration starts at land, not on cast.
 * Hold E has a maximum 10s timer.
 * Ushi still persists and gains stacks after teleporting.

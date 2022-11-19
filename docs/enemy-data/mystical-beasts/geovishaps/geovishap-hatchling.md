@@ -47,7 +47,7 @@ None.
 
 ## Attacks
 
-* Approaches the player and performs a cross slash with its' claws.
+* Approaches the player and performs a cross slash with its claws.
 * Leaps into the air, curls up and starts spinning upon landing, coming into contact with a spinning Hatchling will result in taking continuous damage.
 * Curls up into a ball and starts rolling around at high speeds, dealing damage to the player on contact. The Hatchling does not target the player and instead rolls around randomly and only changes directions when bumping into something. If the Hatchling crashes into a player that is protected by a shield, it'll get knocked out of its rolling state and become stunned for a few seconds.
 * The Geovishap Hatchling burrows into the ground and pops up a fair distance away. When digging itself into the ground, the Hatchling digs up 2 Geo Crystallize crystals (the only way to get them), which will potentially protecting the player from the Hatchling's attacks if picked up.

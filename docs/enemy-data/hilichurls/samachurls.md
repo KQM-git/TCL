@@ -56,7 +56,7 @@ A wizened, mumbling hilichurl, one that spreads the message of Anemo.
 
 ## Attacks
 
-* If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
+* If the player gets too close, it will charge for a brief moment then strike the player with its staff. This attacks has very high knockback, able of scoring a home run.
 * Summons 3 tornados that will rotate around, seeking the player.
 * Summons a ground field that will pull the player towards the center continuously.
 
@@ -70,8 +70,8 @@ A wizened, mumbling hilichurl, one that calls upon the bite of Cryo.
 
 ## Attacks
 
-* If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
-* Creates one or more pillars under itself and its' allies. The pillar may be broken by Pyro or blunt attacks.
+* If the player gets too close, it will charge for a brief moment then strike the player with its staff. This attacks has very high knockback, able of scoring a home run.
+* Creates one or more pillars under itself and its allies. The pillar may be broken by Pyro or blunt attacks.
 * Summons a stalagmite at the player's feet multiple times in a row. This attack has a slight delay with an indicator to help dodge it.
 
 </TabItem>
@@ -84,7 +84,7 @@ A wizened, mumbling hilichurl, one that awakens the might of Dendro.
 
 ## Attacks
 
-* If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
+* If the player gets too close, it will charge for a brief moment then strike the player with its staff. This attacks has very high knockback, able of scoring a home run.
 * Summons multiple barricades of vines, composed of Dendro, which may be destroyed from burning via Pyro.
 * Creates a ground field that will continuously infuse the player inside it with Dendro.
 
@@ -98,7 +98,7 @@ A wizened, mumbling Hilichurl, one that prays to Electro.
 
 ## Attacks
 
-* If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
+* If the player gets too close, it will charge for a brief moment then strike the player with its staff. This attacks has very high knockback, able of scoring a home run.
 * Summons a lightning strike. At the location of impact a totem will be summoned.
 * Briefly creates an electricity circle around itself multiple times. If there are any totems on field they will mirror this field.
 
@@ -112,8 +112,8 @@ A wizened, mumbling hilichurl, one that listens to the strength of Geo.
 
 ## Attacks
 
-* If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
-* Creates one or more pillars under itself and its' allies. The pillar may be broken by Geo or blunt attacks.
+* If the player gets too close, it will charge for a brief moment then strike the player with its staff. This attacks has very high knockback, able of scoring a home run.
+* Creates one or more pillars under itself and its allies. The pillar may be broken by Geo or blunt attacks.
 * Summons a stalagmite at the player's feet multiple times in a row. This attack has a slight delay with an indicator to help dodge it.
 * While there are pillars on field, it will cause them to pulse in a cicle around themselves.
 
@@ -127,7 +127,7 @@ A wizened, mumbling hilichurl, one that chants of the power of Hydro..
 
 ## Attacks
 
-* If the player gets too close, it will charge for a brief moment then strike the player with its' staff. This attacks has very high knockback, able of scoring a home run.
+* If the player gets too close, it will charge for a brief moment then strike the player with its staff. This attacks has very high knockback, able of scoring a home run.
 * Summons a water droplet at the player's feet multiple times in a row. This attack has a slight delay with an indicator to help dodge it.
 * Summons a field of rain that will heal and apply wet to enemies inside it.
 

@@ -37,10 +37,10 @@ Venti Q - 0.4s
 
 Lisa Q - 0.5s
 
-Mona dash - Assumed 0.517s from video after frame analysis: [https://youtu.be/QqpqITYB5Fc](https://www.youtube.com/watch?v=QqpqITYB5Fc)  
+Mona dash - Assumed 0.517s from video after frame analysis: [YouTube](https://www.youtube.com/watch?v=QqpqITYB5Fc)  
 That's only 1 frame difference.
 
-Electro Crystal - 0.5s after frame analysis: [https://youtu.be/69BUuqOBhRo](https://www.youtube.com/watch?v=69BUuqOBhRo)
+Electro Crystal - 0.5s after frame analysis: [YouTube](https://www.youtube.com/watch?v=69BUuqOBhRo)
 
 **Significance:**  
 If you're in a rush and you want to save that extra second, you can min-max your life using techniques mentioned above

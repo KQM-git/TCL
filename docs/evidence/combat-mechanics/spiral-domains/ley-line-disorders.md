@@ -18,21 +18,21 @@ Leylines auras and duration documentation have been compiled in the video demos 
 
 **Evidence:**
 
-* [https://imgur.com/a/BnVJcM2](https://imgur.com/a/BnVJcM2)
-* [https://imgur.com/a/nyd8CG8](https://imgur.com/a/nyd8CG8)
-* [https://imgur.com/a/tSEf0F0](https://imgur.com/a/tSEf0F0)
-* [https://imgur.com/a/qWjj1SH](https://imgur.com/a/qWjj1SH)
-* [https://imgur.com/a/0KVddu8](https://imgur.com/a/0KVddu8)
-* [https://imgur.com/a/IfwvVZg](https://imgur.com/a/IfwvVZg)
-* [https://imgur.com/a/Ik09N24](https://imgur.com/a/Ik09N24)
-* [https://imgur.com/a/m4TznDh](https://imgur.com/a/m4TznDh)
-* [https://imgur.com/a/nDl7CiC](https://imgur.com/a/nDl7CiC)
-* [https://imgur.com/a/U9NFLhD](https://imgur.com/a/U9NFLhD)
-* [https://imgur.com/a/IjDl7Mu](https://imgur.com/a/IjDl7Mu)
-* [https://imgur.com/a/BofoLDl](https://imgur.com/a/BofoLDl)
-* [https://imgur.com/a/2EZqJZl](https://imgur.com/a/2EZqJZl)
-* [https://www.youtube.com/playlist?list=PLuS0r7YoEgG_SyZociLLuG_IQLuVEIC4Q](https://www.youtube.com/playlist?list=PLuS0r7YoEgG_SyZociLLuG_IQLuVEIC4Q)
-* [https://www.youtube.com/watch?v=fdT1fHL9y-g](https://www.youtube.com/watch?v=fdT1fHL9y-g)
+* [YouTube](https://imgur.com/a/BnVJcM2)
+* [YouTube](https://imgur.com/a/nyd8CG8)
+* [YouTube](https://imgur.com/a/tSEf0F0)
+* [YouTube](https://imgur.com/a/qWjj1SH)
+* [YouTube](https://imgur.com/a/0KVddu8)
+* [YouTube](https://imgur.com/a/IfwvVZg)
+* [YouTube](https://imgur.com/a/Ik09N24)
+* [YouTube](https://imgur.com/a/m4TznDh)
+* [YouTube](https://imgur.com/a/nDl7CiC)
+* [YouTube](https://imgur.com/a/U9NFLhD)
+* [YouTube](https://imgur.com/a/IjDl7Mu)
+* [YouTube](https://imgur.com/a/BofoLDl)
+* [YouTube](https://imgur.com/a/2EZqJZl)
+* [YouTube](https://www.youtube.com/playlist?list=PLuS0r7YoEgG_SyZociLLuG_IQLuVEIC4Q)
+* [YouTube](https://www.youtube.com/watch?v=fdT1fHL9y-g)
 
 **Significance:**  
 Understanding the strength and duration of leylines for the purposes of cleansing them with self-applied gauges

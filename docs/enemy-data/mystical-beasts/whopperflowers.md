@@ -55,11 +55,11 @@ These plants lurk under the surface and ambush unsuspecting prey. With the passa
 ## Attacks
 
 * Sinks into the ground and emerges nearby.
-* With a player in melee range of the Whopperflower, it may do a short animation spinning its' leaves and doing an AoE capable of hitting a maximum of three times.
+* With a player in melee range of the Whopperflower, it may do a short animation spinning its leaves and doing an AoE capable of hitting a maximum of three times.
 * If a player is not in melee range, the Whopperflower will instead shoot out spikes from the ground that goes to the target.
-* The Whopperflower will close its' leaves, consuming one of the "crystals" orbiting around it. When a "crystal" is finished, it will create a Cryo armor.
-  The armor can be broken to prevent its' attack and stun it for ~15 seconds. If the armor is not broken for ~10 seconds, it will finish charging up its' attack.
-  It will bend over, point its' top at the player, start spinning like a Gatling gun and shoot out a rapid volley of Cryo projectiles for a long period of time.
+* The Whopperflower will close its leaves, consuming one of the "crystals" orbiting around it. When a "crystal" is finished, it will create a Cryo armor.
+  The armor can be broken to prevent its attack and stun it for ~15 seconds. If the armor is not broken for ~10 seconds, it will finish charging up its attack.
+  It will bend over, point its top at the player, start spinning like a Gatling gun and shoot out a rapid volley of Cryo projectiles for a long period of time.
 * Once all three "crystals" are consumed, the Whopperflower will plunge into the ground and restore all three, creating a visual AoE but will not do any DMG.
 
 </TabItem>
@@ -72,10 +72,10 @@ The world of Teyvat plays host to plants infused with the elements. Having gaine
 ## Attacks
 
 * Sinks into the ground and emerges nearby.
-* With a player in melee range of the Whopperflower, it may do a short animation spinning its' leaves and doing an AoE capable of hitting a maximum of three times.
+* With a player in melee range of the Whopperflower, it may do a short animation spinning its leaves and doing an AoE capable of hitting a maximum of three times.
 * If a player is not in melee range, the Whopperflower will instead shoot out ranged homing attacks.
-* The Whopperflower will close its' leaves, consuming one of the "crystals" orbiting around it. When a "crystal" is finished, it will create a Pyro armor.
-  The armor can be broken to prevent its' attack and stun it for ~15 seconds. If the armor is not broken for ~10 seconds, it will finish charging up its' attack.
+* The Whopperflower will close its leaves, consuming one of the "crystals" orbiting around it. When a "crystal" is finished, it will create a Pyro armor.
+  The armor can be broken to prevent its attack and stun it for ~15 seconds. If the armor is not broken for ~10 seconds, it will finish charging up its attack.
   It will start launching a volley of fireballs in rapid succession at the player, each with a small AoE.
 * Once all three "crystals" are consumed, the Whopperflower will plunge into the ground and restore all three, creating a visual AoE. This will not do any damage.
 
@@ -89,11 +89,11 @@ When full of Electro Energy, they can unleash a strong electric current from the
 ## Attacks
 
 * Sinks into the ground and emerges nearby.
-* With a player in melee range of the Whopperflower, it may do a short animation spinning its' leaves and doing an AoE capable of hitting a maximum of three times.
+* With a player in melee range of the Whopperflower, it may do a short animation spinning its leaves and doing an AoE capable of hitting a maximum of three times.
 * The Whopperflower lobs out 3 Electro Orbs next to it that stay on the ground for a few seconds.
-* The Whopperflower will close its' leaves, consuming one of the "crystals" orbiting around it. When a "crystal" is finished, it will create an Electro armor.
-  The armor can be broken to prevent its' attack and stun it for ~15 seconds. If the armor is not broken for ~10 seconds, it will finish charging up its' attack.
-  It will bend over, point its' top at the player, and charge up a laser blast, sending out a line of electricity on the ground in front of where the laser hit.
+* The Whopperflower will close its leaves, consuming one of the "crystals" orbiting around it. When a "crystal" is finished, it will create an Electro armor.
+  The armor can be broken to prevent its attack and stun it for ~15 seconds. If the armor is not broken for ~10 seconds, it will finish charging up its attack.
+  It will bend over, point its top at the player, and charge up a laser blast, sending out a line of electricity on the ground in front of where the laser hit.
 * Once all three "crystals" are consumed, the Whopperflower will plunge into the ground and restore all three, creating a visual AoE. This will not do any damage.
 
 </TabItem>
@@ -102,7 +102,7 @@ When full of Electro Energy, they can unleash a strong electric current from the
 ## Interactions
 
 Whopperflowers will sometimes be found disguised as other flowers around the world.
-The dormant whopperflower will not attack on its' own, but if the player picks up the fake flower it will awaken and begin combat.
+The dormant whopperflower will not attack on its own, but if the player picks up the fake flower it will awaken and begin combat.
 Those fake flowers can be spotted easily as they:
 
 1. Have no shining sparkle effect to them.

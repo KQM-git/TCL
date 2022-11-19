@@ -32,11 +32,11 @@ On our own characters, the Element does not fade out, but immediately disappears
 
 Enemy Skills also "fix" the decay rate the same as our Skills. In this example, I am hit by a 2 unit Pyro, then 11 seconds later I am hit by a 1 unit Pyro. The Pyro aura lasts precisely 6 seconds from the point I am hit with the 1 unit Pyro. This matches the behaviour we see ourselves when going 2u -&gt; 1u; we have 1 unit still decaying at the 2 unit rate of 6s and 12s.[ ](https://youtu.be/cUWXy_PNO_E)
 
-[https://youtu.be/cUWXy_PNO_E](https://youtu.be/cUWXy_PNO_E)
+[YouTube](https://youtu.be/cUWXy_PNO_E)
 
 Enemy Skills follow the same reaction reductions we do. In this example, I use Hillichurl Shooters to perform a Reverse Melt on myself. The Pyro Shooter applies 2 Pyro to me, then the Cryo Shooter applies 2 Cryo. Since this is a Reverse Melt, the reduction is 0.5x2 so 1 unit reduced. The Pyro lasts a total of 4.5 seconds from initial application to falling off, so the Melt reaction reduced the timer by 7.5 seconds. This matches the behaviour for a 1 unit reduction.
 
-[https://youtu.be/qjTTqPpujiM](https://youtu.be/qjTTqPpujiM)
+[YouTube](https://youtu.be/qjTTqPpujiM)
 
 In addition, the reduction of 7.5s is a precise frame count. This is the "taxless" value, compared to the "taxed" value of 6s. This allows us to calculate the exact value of the so-called "Aura Tax": 6/7.5 = 0.8. This confirms our theory that the Tax is roughly 80%, that is exactly correct.
 

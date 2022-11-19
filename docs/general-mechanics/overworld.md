@@ -59,7 +59,7 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 ### Waverider vs Environment
 
 * Waverider can be hit by lightning (possibly only in shallow water)
-* Waverider takes Electro-charged damage if player is in the boat.
+* Waverider takes Electro-Charged damage if player is in the boat.
 * Waverider takes damage from the environment, such as Electro crystals and Cryo mistflowers. The player needs to be in the boat.
 * Waverider is not affected by Balethunder or "spicy water".
 
@@ -95,7 +95,7 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 * Water in Genshin exists only in horizontal, 2-dimensional sheets.
 * True water, water that can be reacted with, is not graphically represented at all times, additionally, graphically represented water is only an approximation.
 * Genshin's water is coded in a way where the visual water and actual layer are separate, thus there is an invisible field of water that does not apply wet in random places of the world, but can be infused.
-* Applying Electro to water does not produce Electro-charged, instead it creates an instance of Electrified.
+* Applying Electro to water does not produce Electro-Charged, instead it creates an instance of Electrified.
   * Some fountains and pools of water cannot create an instance of Electrified.
 * Overworld water applies Hydro with an ICD of 0.25 seconds, a strength of 10 durability per tick, up to a max of 50, and a duration of 8 seconds, regardless of durability.
 * Not all graphically represented water in waterfalls will apply the Wet status to the active character. See this [Vault Entry](../evidence/general-mechanics/overworld.md#not-all-falls-water-is-false-water) for a complete map.

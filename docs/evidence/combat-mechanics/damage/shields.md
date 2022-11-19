@@ -14,13 +14,13 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_848458542024622090_849942582167470090_transcript-shield-and-iframe-interactions.html)  
 [Update](https://tickets.deeznuts.moe/transcripts/update-for-shield-and-i-frame-interaction)
 
-**Finding:** Gaining I-frames by dashing through enemy attacks will allow both your unit and their shield to take no damage, but using an Elemental Burst to gain I-frames will only make your unit took no damage, while their shield will still take damage. As of version 3.2, shield would not take any damage if character is in i-frame.
+**Finding:** Gaining i-frames by dashing through enemy attacks will allow both your unit and their shield to take no damage, but using an Elemental Burst to gain i-frames will only make your unit took no damage, while their shield will still take damage. As of version 3.2, shield would not take any damage if character is in i-frame.
 
 **Evidence:**     
 [Original](https://www.youtube.com/watch?v=JoPfS5cqSJs)      
 [Update](https://www.youtube.com/watch?v=kMTfINpMXwc)
 
-**Significance:** better knowledge of how to preserve shields and how shields interact with I-frames.
+**Significance:** better knowledge of how to preserve shields and how shields interact with i-frames.
 
 ## Damage Reduction Applies Before Shields Are Calculated
 
@@ -50,7 +50,7 @@ With Cryo Absorption Bonus, Diona takes 2.5 points of Cryo Damage for every 1 po
 
 **Evidence:**
 
-My original math is in the description of the video. [https://www.youtube.com/watch?v=Gk41KCMjfCI&feature=youtu.be](https://www.youtube.com/watch?v=Gk41KCMjfCI&feature=youtu.be)
+My original math is in the description of the video. [YouTube](https://www.youtube.com/watch?v=Gk41KCMjfCI&feature=youtu.be)
 
 **Significance:**
 

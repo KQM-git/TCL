@@ -72,7 +72,7 @@ The 4 swords cannot shatter simultaneously, so you can have a very small window 
 
 Xingqiu's Rain Swords Do Snapshot
 
-**Evidence:** [https://youtu.be/WJUepUXbVmo](https://www.youtube.com/watch?v=WJUepUXbVmo&feature=youtu.be)
+**Evidence:** [YouTube](https://www.youtube.com/watch?v=WJUepUXbVmo&feature=youtu.be)
 
 Tested with C2 Barbara and compared the received damage with and without the Hydro buff.
 
@@ -281,7 +281,7 @@ We understand more about how XQ's damage reduction works. Additionally, this mea
 It is possible to trigger Xingqiu Burst Sword Rain multiple times on a single Normal Attack if the animation is long enough.
 
 **Evidence:**  
-All Testing was done on 2.6 at 60 fps. Did on both high ping and low ping and seems that its not ping dependant. Looks like if the animation is longer than 1 second, it can proc 2 sets of waves. Although some animations take a long time they don't trigger it like Keqing's one.
+All Testing was done on 2.6 at 60 FPS. Did on both high ping and low ping and seems that its not ping dependant. Looks like if the animation is longer than 1 second, it can proc 2 sets of waves. Although some animations take a long time they don't trigger it like Keqing's one.
 
 * Yae Low Ping - [Imgur](https://imgur.com/w26BRRB)
 * Yae High Ping - [YouTube](https://youtu.be/wZYb8-j8iMY)

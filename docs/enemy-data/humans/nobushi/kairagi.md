@@ -12,10 +12,10 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 75% HP       | 1 Particle | common  |
-| 50% HP       | 1 Particle | common  |
-| 25% HP       | 1 Particle | common  |
-| Death        | 1 Particle | common  |
+| 75% HP       | 1 Particle | Clear  |
+| 50% HP       | 1 Particle | Clear  |
+| 25% HP       | 1 Particle | Clear  |
+| Death        | 1 Particle | Clear  |
 
 ## Resistance Table
 
@@ -63,15 +63,15 @@ They practiced martial arts since they were young, but lost the opportunity to s
   * This weapon infusion cannot be neutralised by any Elemental Reactions.
 * Clenches and raise their fist to taunt their opponents, said taunt is identical to that of the Maguu Kenki.
   * They will not perform this move if they are in an Avenger state.
-* When an ally Kairagi dies in battle, the other Kairagi will attempt to avenge their fallen comrade. The Kairagi imbues itself with a fiery-orange aura, as well as infusing its' blade with Pyro.
+* When an ally Kairagi dies in battle, the other Kairagi will attempt to avenge their fallen comrade. The Kairagi imbues itself with a fiery-orange aura, as well as infusing its blade with Pyro.
   * While in this state, the Kairagi is also immune to all stun Skills, including Frozen Elemental reactions and Zhongli's Planet Befall Petrified.
   * The Kairagi will then gain a 30-second 50% max HP increase (this will also heal the Kairagi if it is under its max HP) and will then enter the Avenger state permanently.
   * While in this state the Kairagi has increased interruption resistance and will always prioritize infusing their blade if the blade's infusion ends.
-* Points its' blade towards the player and charge towards them once.
+* Points its blade towards the player and charge towards them once.
 * Performs a spin attack.
 * Jumps towards the player location and performs a downwards strike.
   * In the Avenger state, It is possible for the Kairagi to perform a double slash after this attack.
-* Enters a stance with its' blade held downwards, pointed diagonally, during which it will block player attacks from the direction they're facing.
+* Enters a stance with its blade held downwards, pointed diagonally, during which it will block player attacks from the direction they're facing.
 * Clenches its fist towards the player.
 
 </TabItem>
@@ -92,15 +92,15 @@ They possess highly advanced martial art Skills but found no use for them for va
   * This weapon infusion cannot be neutralised by any Elemental Reactions.
 * Clenches and raise their fist to taunt their opponents, said taunt is identical to that of the Maguu Kenki.
   * They will not perform this move if they are in an Avenger state.
-* When an ally Kairagi dies in battle, the other Kairagi will attempt to avenge their fallen comrade. The Kairagi imbues itself with a dark-purple aura, as well as infusing its' blade with Electro.
+* When an ally Kairagi dies in battle, the other Kairagi will attempt to avenge their fallen comrade. The Kairagi imbues itself with a dark-purple aura, as well as infusing its blade with Electro.
   * While in this state, the Kairagi is also immune to all stun Skills, including Frozen Elemental reactions and Zhongli's Planet Befall Petrified.
   * The Kairagi will then gain a 30-second 50% max HP increase (this will also heal the Kairagi if it is under its max HP) and will then enter the Avenger state permanently.
   * While in this state the Kairagi has increased interruption resistance and will always prioritize infusing their blade if the blade's infusion ends.
-* Points its' blade towards the player and charge towards them once.
+* Points its blade towards the player and charge towards them once.
 * Performs a spin attack.
 * Jumps towards the player location and performs a downwards strike.
   * In the Avenger state, It is possible for the Kairagi to perform a double slash after this attack.
-* Enters a stance with its' blade held downwards, pointed diagonally, during which it will block player attacks from the direction they're facing.
+* Enters a stance with its blade held downwards, pointed diagonally, during which it will block player attacks from the direction they're facing.
 * Clenches its fist towards the player.
   * This move is unique to the Kairagi Electro variant.
 

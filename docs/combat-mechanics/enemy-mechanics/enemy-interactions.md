@@ -9,7 +9,7 @@ The Abyss Herald's cooldown increase debuff is triggered when you are hit by the
 
 The cooldown debuff increases all current Elemental Skill/Burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is **additive** and independent of how long the original cooldown of the Skill/Burst is. The cooldown debuff also only affect Elemental Skills/Bursts that are already on cooldown, so Skills/Bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat \(unlike Slowing Waters\).
 
-The cooldown debuff can be avoided by shield and Elemental Burst iframes.
+The cooldown debuff can be avoided by shield and Elemental Burst i-frames.
 
 ## Bosses
 
@@ -61,7 +61,7 @@ Triggering a Freeze reaction on a boss entity does not create a Frozen aura on t
 
 ## Hydro Abyss Mage
 
-The bubble from the Hydro Abyss Mages and their Hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the Hydro bubble will persist on the character that was initially hit for approximately 5 seconds.
+The bubble from the Hydro Abyss Mages and their Hydro bubble spawning mechanic can be effectively i-framed by swapping characters at the precise moment. However, the Hydro bubble will persist on the character that was initially hit for approximately 5 seconds.
 
 ## Slimes
 

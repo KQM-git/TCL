@@ -23,7 +23,7 @@ To do ARCC: First, enter aim mode via aim toggle (R on PC, aim button on mobile,
 * PC and Mobile: Tap the Aim key (R) on the same frame you release Attack (M1).
 * Controller: Release both the Aim button and the Attack button on the same frame.
 
-ARCC is easier to do at 30 fps, as the frame lengths are longer.
+ARCC is easier to do at 30 FPS, as the frame lengths are longer.
 
 ARCC shots have some quirks that are different from normal charged shots:
 
@@ -84,7 +84,7 @@ The sequence to perform this tech is:
 Consistently possible at 30fps, very difficult at 60fps.
 
 **Evidence:**  
-Diona at 60 fps: [Imgur](https://imgur.com/itkCyVm)  
+Diona at 60 FPS: [Imgur](https://imgur.com/itkCyVm)  
 Venti (credit to GottaGoFast#7876): [Imgur](https://imgur.com/a/DCdea1n)  
 Tartaglia (credit to Sayline#5959): [YouTube](https://youtu.be/Z6WmXS8mo_o)  
 Yoimiya: [YouTube](https://youtu.be/0Q4jsgySdqU)

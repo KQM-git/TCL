@@ -52,7 +52,7 @@ This strongly caps the potential AoE damage from both reactions, making Supercon
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840502239248252928_850596327720484885_transcript-transformative-reaction-icd-parameters.html)
 
 **Finding:**  
-Overload, and so far Overload alone, seems to have a reaction specific icd of 0.5 sec \(15 frames in 30 fps and 30 frames in 60 fps\) where enemies overloaded or hit by the aoe caused by an Overload procced by one character is then immune to the damage caused by Overload procced by that character for 0.5 seconds. They still suffer the same effects except damage, such as gauge reduction and stagger.
+Overload, and so far Overload alone, seems to have a reaction specific icd of 0.5 sec \(15 frames in 30 FPS and 30 frames in 60 FPS\) where enemies overloaded or hit by the AoE caused by an Overload procced by one character is then immune to the damage caused by Overload procced by that character for 0.5 seconds. They still suffer the same effects except damage, such as gauge reduction and stagger.
 
 **Evidence:**
 
@@ -64,7 +64,7 @@ Overload, and so far Overload alone, seems to have a reaction specific icd of 0.
 * [clip 5:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840515478086483968_OverloadLimit6.mp4) bennett applies gauge 3 times from level 2 e, but only causes 2 overloads. the last hit is past the 0.5sec timer.
 * [clip 6:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840538987420188701_OL_different_targets_2.mp4) Klee n1cs 2 different enemies, and overloads twice.
 * [clip 7:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840513374496489492_Rosaria_E_Superconduct.mp4) Rosaria double Superconducts, proving Superconduct does not follow the same rules.
-* [clip 8:](https://youtu.be/_HM5Y3aru88) This shows that multiple overloads not happening within 0.5sec caused by the same character to the same enemy is not a visual glitch. Else, the fatui would have died.
+* [clip 8:](https://youtu.be/_HM5Y3aru88) This shows that multiple overloads not happening within 0.5sec caused by the same character to the same enemy is not a visual glitch. Else, the Fatui would have died.
 * [clip 9:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840743262305779712_OverloadLimit9.mp4) original vid
   * Overloads occur at: 0.5, 2.0, 2.5, 3.0, 3.5, 4.1, 5.0
   * As evidence of every enemy getting hit with Overload. Lisa ult is just above the icd, and proves that the icd is at least &lt;0.5 sec, as lisa attacks every 0.5 seconds, and she can cause overloads to all enemies every tick.
@@ -90,7 +90,7 @@ You can trigger Overload on electrocuted bodies of water.
 3. Apply Pyro to body of water \(e.g. Bennett E\)
 4. Observe overloaded sound effect and nearby ores breaking
 
-[https://youtu.be/27ynZ-Rkjuo](https://youtu.be/27ynZ-Rkjuo)
+[YouTube](https://youtu.be/27ynZ-Rkjuo)
 
 Credits to @Way for the initial finding.
 
@@ -146,7 +146,7 @@ Better understanding of Superconduct reaction.
 In Electro-Charged, **both Hydro and Electro auras may coexist and persist together**.
 
 * This means that when you use a Hydro/Electro trigger on a Electro/Hydro aura, you are simultaneously adding a second Elemental gauge and reducing the first Elemental gauge.
-* The Elemental trigger normally disappears after any reaction. In Electro-charged, it can persist as an aura.
+* The Elemental trigger normally disappears after any reaction. In Electro-Charged, it can persist as an aura.
 * Electro-Charged can also spread to adjacent targets if the following conditions are fulfilled
   * Trigger Electro-Charged on an enemy with Electro
   * Surrounding enemies have a Hydro aura
@@ -258,7 +258,7 @@ Skills with hitlag behave differently for Electrocharged than Skills without hit
 
 **Evidence**:
 
-[https://youtu.be/iPvFviMCX1c](https://youtu.be/iPvFviMCX1c)
+[YouTube](https://youtu.be/iPvFviMCX1c)
 
 It is possible to get 5 Electro-Charged ticks from a 19s \(1u -&gt; 2u\) aura using Razor or Beidou. In this video, we see this is not possible to do with Lisa's Held Skill. In this video, I have synced up the moment the 2u Electro Skill deals damage \(Beidou's actual Elemental application is a few frames earlier, but is difficult to measure due to hitlag\).
 
@@ -287,7 +287,7 @@ Gauge decay rates are separate for auras of different elements.
 
 **Evidence:**
 
-In the clip [https://youtu.be/bVB30BY10QE](https://youtu.be/bVB30BY10QE) provided by BowlSoldier\#3528 the following happens: 1U Electro followed by 2U Electro followed by 2U Hydro \(the Hydro application happens 59 frames after the 2U Electro application\). Then, after 4 Electro-Charged ticks the Hydro aura is completely removed whereas Electro aura persists for another 0.5 seconds despite the fact that it was applied before the Hydro.
+In the clip [YouTube](https://youtu.be/bVB30BY10QE) provided by BowlSoldier\#3528 the following happens: 1U Electro followed by 2U Electro followed by 2U Hydro \(the Hydro application happens 59 frames after the 2U Electro application\). Then, after 4 Electro-Charged ticks the Hydro aura is completely removed whereas Electro aura persists for another 0.5 seconds despite the fact that it was applied before the Hydro.
 
 This phenomenon can be explained by a theory that different auras have separate decay rates. That is, when we applied 2U Hydro it did not inherit the 1U decay rate of the Electro aura but rather has its own 2U decay rate.
 
@@ -344,7 +344,7 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 * Ruin guards can be disabled without weak point hits
 * Ruin guards can be more easily CC'd in close-quarters
-* AOE DMG can be more easily consolidated
+* AoE DMG can be more easily consolidated
 * Incoming DMG can be mitigated
 * Abyss teams can forgo the need for an archer to disable Ruin Guards
 
@@ -418,7 +418,7 @@ However keep in mind the limiting factor for Electro-Charged is usually the redu
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896132765072900146_899187533542481971_transcript-ec-snapshots-em-until-re-apply.html)
 
 **Abstract:**  
-Electro-charged is one of the most popular reactions, and due to its nature of dealing damage over time, its interactions with changes in Elemental mastery deserve investigation. This ticket will demonstrate possible interactions of characters applying Electro and Hydro with changing Elemental mastery.
+Electro-Charged is one of the most popular reactions, and due to its nature of dealing damage over time, its interactions with changes in Elemental mastery deserve investigation. This ticket will demonstrate possible interactions of characters applying Electro and Hydro with changing Elemental mastery.
 
 **Summary:**  
 Electro-charge deals damage over time and its snapshot interactions with changing Elemental mastery hasn't been noted in the library.
@@ -426,10 +426,10 @@ This method used was C2 Sara with 4-Piece Instructors to apply Electro twice alo
 The Electro-charge reaction snapshots the Elemental mastery value at the time of reaction, but the value is updated when aura is re-applied by any character to that of the applying character's.
 
 **Introduction:**  
-Electro-charged (EC) is one of the most popular reactions, being a key component behind many teams, such as the teams in the taser archetype. As it is a transformative reaction, its damage mainly scales with the Elemental mastery (EM) stat. While it's known to some that the reaction snapshots the EM stat of whoever reacted, it's not listed anywhere in the library (specifically the Transformative Reactions page, the Elemental Gauge Theory page, and the egt-rewrite draft). This ticket aims to remedy that and investigate its interactions deeper.
+Electro-Charged (EC) is one of the most popular reactions, being a key component behind many teams, such as the teams in the taser archetype. As it is a transformative reaction, its damage mainly scales with the Elemental mastery (EM) stat. While it's known to some that the reaction snapshots the EM stat of whoever reacted, it's not listed anywhere in the library (specifically the Transformative Reactions page, the Elemental Gauge Theory page, and the egt-rewrite draft). This ticket aims to remedy that and investigate its interactions deeper.
 
 **Hypothesis:**
-Electro-charged snapshots the EM value of the character that caused the reaction or re-applied aura.
+Electro-Charged snapshots the EM value of the character that caused the reaction or re-applied aura.
 
 **Method:**  
 To investigate this there are four tests that need to be completed.
@@ -474,7 +474,7 @@ From 1, we can see that the damage was constant despite the EM of Sara being inc
 
 Comparing 2 to 1, we see that re-applying the Element from the same source increases the damage as EM increased.
 
-From 3, we see that the damage increased when a difference source applied an aura, even if the words "Electro-charged" didn't appear.
+From 3, we see that the damage increased when a difference source applied an aura, even if the words "Electro-Charged" didn't appear.
 
 While the stat screen of 4 isn't shown, the damage doesn't change even after Barbara gets an increase in EM from Widsith. Even though that may not seem clear at a first viewing, going through the video frame-by-frame will show that the first 3352 Electro-Charged ticks appears when Beidou is on the field.
 
@@ -484,7 +484,7 @@ Test 5 aligns with the results of 4 and 2. When Barbara re-applies Hydro, it upd
 The current interpretation is that the Electro-Charged reaction snapshots the Elemental mastery value of whoever last applied an Element to the enemy when they applied it.
 
 **Conclusion:**  
-This ticket has thoroughly explored how Electro-Charged interacts with changing EM values, for both on- and off-field characters. The main finding is that it snapshots the EM of whoever last applied an Element for the reaction. This information can be used to more effectively build and play team comps that revolve around Electro-charged, and this can be added to the library.
+This ticket has thoroughly explored how Electro-Charged interacts with changing EM values, for both on- and off-field characters. The main finding is that it snapshots the EM of whoever last applied an Element for the reaction. This information can be used to more effectively build and play team comps that revolve around Electro-Charged, and this can be added to the library.
 
 **Limitations:**  
 A major concern would be that the water messes with reactions. While water cannot cause the Electro-Charged reaction, it still applies Hydro to the Ruin Guard. This can be fixed by testing on different enemies.
@@ -728,7 +728,7 @@ More knowledge about how Frozen interacts with underlying auras, possibly better
 Blunt attacks have no ICD, meaning they will always trigger Shatter. This makes it suboptimal to run Freeze with any character whose attacks have the "blunt" attribute.
 
 **Evidence:**  
-[https://youtu.be/3rAbh9Gp2jw](https://youtu.be/3rAbh9Gp2jw)
+[YouTube](https://youtu.be/3rAbh9Gp2jw)
 
 **Significance:**  
 Characters with blunt attribute attacks benefit significantly less from the 4 piece Blizzard Strayer's passive.
@@ -838,7 +838,7 @@ $$
 [Sheet](https://docs.google.com/spreadsheets/d/1N-4XyoVhiX0h2s07Ylrh1jBjAx3dhl7qPbyGDU2IOmQ/edit?usp=sharing) & [Videos](https://drive.google.com/drive/folders/1613wQOEuqRVqg6BFS8ExO_SJjE-ZhZE9?usp=sharing)
 
 **Significance:**
-The formula to find Freeze duration is accurate to 0.1s or 6 frames in 60 fps for both Cryo/Hydro and both swirled auras. However it seems Freeze duration is also affected by hitlag. Additionally ,It is unknown how Mona's c1 affects Freeze duration for now.
+The formula to find Freeze duration is accurate to 0.1s or 6 frames in 60 FPS for both Cryo/Hydro and both swirled auras. However it seems Freeze duration is also affected by hitlag. Additionally ,It is unknown how Mona's c1 affects Freeze duration for now.
 
 ### Various GU Values of Shatter based on Different Types of Attacks
 
@@ -850,17 +850,17 @@ Shatter reaction has different U values depending on the attack triggering it. P
 **Evidence:**  
 \(all of tests below were conducted with lvl1 weapons and only an upgraded flower among artifacts\)
 
-1\) 12 Ningguang basic attacks to break a Cryo Abyss mage shield with 2 shards hitting the enemy \[0.5U per attack + 0.5U total Shatter value\] \*12 = 12U total\) [https://youtu.be/jcTpDb2HNjg](https://youtu.be/jcTpDb2HNjg)
+1\) 12 Ningguang basic attacks to break a Cryo Abyss mage shield with 2 shards hitting the enemy \[0.5U per attack + 0.5U total Shatter value\] \*12 = 12U total\) [YouTube](https://youtu.be/jcTpDb2HNjg)
 
-2\) 16 Ningguang basic attacks to break a Cryo Abyss mage shield with only 1 shards hitting the enemy \(the other is blocked by a tree\) \[0.5U per attack + 0.25U Shatter value\] \* 16 = 12U total [https://youtu.be/XYo_22pvtkY](https://youtu.be/XYo_22pvtkY)
+2\) 16 Ningguang basic attacks to break a Cryo Abyss mage shield with only 1 shards hitting the enemy \(the other is blocked by a tree\) \[0.5U per attack + 0.25U Shatter value\] \* 16 = 12U total [YouTube](https://youtu.be/XYo_22pvtkY)
 
-3\) 7 Geo MC Es to break a Cryo Abyss mage shield \[1U per attack + 0.75U Shatter value\]\*7 =12.25U total [https://youtu.be/yhFv5ehwoog](https://youtu.be/yhFv5ehwoog)
+3\) 7 Geo MC Es to break a Cryo Abyss mage shield \[1U per attack + 0.75U Shatter value\]\*7 =12.25U total [YouTube](https://youtu.be/yhFv5ehwoog)
 
-4\) slightly less than 16 Chongyun Es to break a Cryo Abyss mage shield \(yes, despite Chongyun being Cryo character\) 0.75U Shatter \* 15 = 11.25U. Now here is where I am not sure because after 15 attacks there is a sliver of health left of the shield. 15 Shatters of a lvl 20 character deal 1785 damage which is not enough according to my previous submissions. But Ningguang Shatters are 0.25U. Maybe Chongyun's 0.75U deals 3 instances of 0.25U Shatter? \(specifically to Cryo Abyss shield since it never actually breaks; need further testing\) [https://youtu.be/xG9kDTl9O8g](https://youtu.be/xG9kDTl9O8g)
+4\) slightly less than 16 Chongyun Es to break a Cryo Abyss mage shield \(yes, despite Chongyun being Cryo character\) 0.75U Shatter \* 15 = 11.25U. Now here is where I am not sure because after 15 attacks there is a sliver of health left of the shield. 15 Shatters of a lvl 20 character deal 1785 damage which is not enough according to my previous submissions. But Ningguang Shatters are 0.25U. Maybe Chongyun's 0.75U deals 3 instances of 0.25U Shatter? \(specifically to Cryo Abyss shield since it never actually breaks; need further testing\) [YouTube](https://youtu.be/xG9kDTl9O8g)
 
-5\) less than 5 Beidou's Es to break a Cryo Abyss mage shield \[2U Electro + 0.75U Shatter\]4 = 11U [https://youtu.be/F2P0DcCls34](https://youtu.be/F2P0DcCls34)
+5\) less than 5 Beidou's Es to break a Cryo Abyss mage shield \[2U Electro + 0.75U Shatter\]4 = 11U [YouTube](https://youtu.be/F2P0DcCls34)
 
-6\) less than 4 Beidou's perfect parry to break a Cryo Abyss mage shield \[2U Electro + 1.75U\]3 = 11.25U [https://youtu.be/Kxm8hoKCLX4](https://youtu.be/Kxm8hoKCLX4)
+6\) less than 4 Beidou's perfect parry to break a Cryo Abyss mage shield \[2U Electro + 1.75U\]3 = 11.25U [YouTube](https://youtu.be/Kxm8hoKCLX4)
 
 7\) 24 claymore basic attacks to break a Cryo Abyss mage shield \[0.5U Shatter\] \(sorry, didn't bother recording this, I'll edit it later\) EDIT: claymore attack U values vary HEAVILY, see next submission
 
@@ -876,32 +876,32 @@ Preliminary findings on Shatter GU values of claymore attacks.
 
 **Evidence:**
 
-1.1\) Chongyun N1 has 0.65U Shatter: [https://youtu.be/DVpCJnOzuFI](https://youtu.be/DVpCJnOzuFI)
+1.1\) Chongyun N1 has 0.65U Shatter: [YouTube](https://youtu.be/DVpCJnOzuFI)
 
-1.2\) Chongyun N2 has 0.55U Shatter: 10x\(0.65+0.55\) = 12 exactly: [https://youtu.be/idYRG431Vo0](https://youtu.be/idYRG431Vo0)
+1.2\) Chongyun N2 has 0.55U Shatter: 10x\(0.65+0.55\) = 12 exactly: [YouTube](https://youtu.be/idYRG431Vo0)
 
-1.3\) Chongyun N3 has 0.75U Shatter: 6x\(0.65 + 0.55 + 0.75\) plus sliver = 11.7 + sliver: [https://youtu.be/BheadzaM3n8](https://youtu.be/BheadzaM3n8)
+1.3\) Chongyun N3 has 0.75U Shatter: 6x\(0.65 + 0.55 + 0.75\) plus sliver = 11.7 + sliver: [YouTube](https://youtu.be/BheadzaM3n8)
 
-2.1\) Razor N1 has 2/3\)or ~0.67U Shatter: [https://youtu.be/1cvoXeZ0cAc](https://youtu.be/1cvoXeZ0cAc)
+2.1\) Razor N1 has 2/3\)or ~0.67U Shatter: [YouTube](https://youtu.be/1cvoXeZ0cAc)
 
-2.2\) Razor N2 has 0.75U Shatter: 8x\(0.67 + 0.75\) +0.67 = 12 exactly: [https://youtu.be/\_J0O9K-Rgb8](https://youtu.be/_J0O9K-Rgb8)
+2.2\) Razor N2 has 0.75U Shatter: 8x\(0.67 + 0.75\) +0.67 = 12 exactly: [YouTube](https://youtu.be/_J0O9K-Rgb8)
 
-2.3\) Razor N3 has 0.55U Shatter: 6x\(0.67 + 0.75 + 0.55\) plus sliver = 11.8 plus sliver: [https://youtu.be/ZTnDrWT7AwY](https://youtu.be/ZTnDrWT7AwY)
+2.3\) Razor N3 has 0.55U Shatter: 6x\(0.67 + 0.75 + 0.55\) plus sliver = 11.8 plus sliver: [YouTube](https://youtu.be/ZTnDrWT7AwY)
 
-2.4\) Razor N4 has ~1U Shatter: 5x0.67 + 4x0.75 + 4x0.55 + 3x1 plus sliver = 11.533 plus sliver: [https://youtu.be/w-zaE5O9-3E](https://youtu.be/w-zaE5O9-3E)
+2.4\) Razor N4 has ~1U Shatter: 5x0.67 + 4x0.75 + 4x0.55 + 3x1 plus sliver = 11.533 plus sliver: [YouTube](https://youtu.be/w-zaE5O9-3E)
 
-3.1\) Beidou N1 has 0.5U Shatter: [https://youtu.be/OEYOMLn4f9w](https://youtu.be/OEYOMLn4f9w)
+3.1\) Beidou N1 has 0.5U Shatter: [YouTube](https://youtu.be/OEYOMLn4f9w)
 
-3.2\) Beidou N2 has 0.49U\(???\) Shatter \(Unsure of what is going on, it's 12N1, 11N2 plus sliver\): [https://youtu.be/XR4TGkBFAD4](https://youtu.be/XR4TGkBFAD4)
+3.2\) Beidou N2 has 0.49U\(???\) Shatter \(Unsure of what is going on, it's 12N1, 11N2 plus sliver\): [YouTube](https://youtu.be/XR4TGkBFAD4)
 
-4.1\) Noelle N1 probably has 0.65U Shatter \(Noelle is lvl 70 thus Shatter damage might be relevant though\): [https://youtu.be/EXaXEo9s0eU](https://youtu.be/EXaXEo9s0eU)
+4.1\) Noelle N1 probably has 0.65U Shatter \(Noelle is lvl 70 thus Shatter damage might be relevant though\): [YouTube](https://youtu.be/EXaXEo9s0eU)
 
-4.2\) Noelle N2 has 0.55U Shatter: 10x0.65 + 9x0.55 plus sliver = 11.45 plus sliver. It looks like it should've been exactly 0.55U, but lvl70 Shatter has taken it down slightly: [https://youtu.be/GfYGrEBtjnQ](https://youtu.be/GfYGrEBtjnQ)
+4.2\) Noelle N2 has 0.55U Shatter: 10x0.65 + 9x0.55 plus sliver = 11.45 plus sliver. It looks like it should've been exactly 0.55U, but lvl70 Shatter has taken it down slightly: [YouTube](https://youtu.be/GfYGrEBtjnQ)
 
-4.3\) Noelle N3 has 075U Shatter: 6x\(0.65 + 0.55 + 0.75\) plus sliver = 11.7: [https://youtu.be/MEIbwHi6d6w](https://youtu.be/MEIbwHi6d6w)
+4.3\) Noelle N3 has 075U Shatter: 6x\(0.65 + 0.55 + 0.75\) plus sliver = 11.7: [YouTube](https://youtu.be/MEIbwHi6d6w)
 
-4.4\) Noelle N4 has 1U Shatter: 12x0.65 + 2x0.55 + 2x0.75 + Beidou's 1x0.5 + N4 plus sliver = 10.9 + N4 + sliver: [https://youtu.be/hlpnQkNc-DQ](https://youtu.be/hlpnQkNc-DQ)  
-bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17iITal8Y) [https://youtu.be/xZRQhEZaO1A](https://youtu.be/xZRQhEZaO1A)
+4.4\) Noelle N4 has 1U Shatter: 12x0.65 + 2x0.55 + 2x0.75 + Beidou's 1x0.5 + N4 plus sliver = 10.9 + N4 + sliver: [YouTube](https://youtu.be/hlpnQkNc-DQ)  
+bonus clips for Noelle N4: [YouTube](https://youtu.be/xZRQhEZaO1A)
 
 **Significance:**  
 It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and Geo armor breaking \(although not all attacks that break Geo armor Shatter. Maybe threshold of 0.5U or smth?\)
@@ -1168,7 +1168,7 @@ The only part of the formula that doesn't work here is the "Cryo gauge/origin au
 On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura \(where both the Frozen icon and a Hydro icon show up above the target's head\), it is possible to get a "double Swirl," where both elements \(Electro and Hydro in the Electro-Charged case, or Cryo and Hydro in the Frozen case\) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double Swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge \(in the case of Electro-Charged\) or the Hydro gauge \(in Frozen/Hydro\). If two gauges are on the target, and Anemo is not stronger than one of the two, the Anemo attack will Swirl Electro \(for Electro-Charged\) or Hydro \(for Freeze/Hydro\).
 
 **Evidence:**  
-_Gauge reduction caused by Anemo must be greater than the Hydro gauge \(in the case where there is both a Hydro and Freeze aura present\) or the Electro aura \(in the case of Electro-charged\) in for a double Swirl to occur_
+_Gauge reduction caused by Anemo must be greater than the Hydro gauge \(in the case where there is both a Hydro and Freeze aura present\) or the Electro aura \(in the case of Electro-Charged\) in for a double Swirl to occur_
 
 * [2U Hydro, 2U Cryo, 1U Hydro, 2U Anemo](https://www.youtube.com/watch?v=taCemVj_O5U) \(double Swirl\)
 * [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(single Swirl\)
@@ -1204,16 +1204,16 @@ As far as I’m aware this was previously unconfirmed due to the difficulty or i
 **Significance:**  
 Better understanding of the mechanics behind Freeze to better set up rotations in the future.
 
-### Swirl AOE Limit
+### Swirl AoE Limit
 
 **By:** Terrapin\#8603  
 **Added:** <Version date="2021-04-30" />  
 **Last tested:** <VersionHl date="2021-04-30" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834419900104835122_837844958001758218_transcript-swirl-guide.html)
 
-**Finding:** Swirl has an AOE limit, where only two instances of AoE damage can happen for any swirled Element. For example, if there are four targets who are all infused with Electro, and an AOE Anemo Skill is used, only two instances of Electro damage will be dealt to the four targets.
+**Finding:** Swirl has an AoE limit, where only two instances of AoE damage can happen for any swirled Element. For example, if there are four targets who are all infused with Electro, and an AoE Anemo Skill is used, only two instances of Electro damage will be dealt to the four targets.
 
-**Evidence:** \(from Terrapin's Swirl Guide [here](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit)\): [https://imgur.com/a/sFnA4YH](https://imgur.com/a/sFnA4YH)
+**Evidence:** \(from Terrapin's Swirl Guide [here](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit)\): [YouTube](https://imgur.com/a/sFnA4YH)
 
 **Significance:** better understanding of Swirl, assisting in teambuilding
 
@@ -1224,28 +1224,28 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 **Last tested:** <VersionHl date="2021-04-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836234307764092988_836771613537206322_transcript-swirl-chain-reactions.html)
 
-**Finding:** When a Swirl reaction occurs and the AOE effect of the Swirl reaction meets another enemy with an aura, the swirled Element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
+**Finding:** When a Swirl reaction occurs and the AoE effect of the Swirl reaction meets another enemy with an aura, the swirled Element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
 **Evidence:**
 
-[https://www.youtube.com/watch?v=0JMdHidAFEk](https://www.youtube.com/watch?v=0JMdHidAFEk) From this video, using a level 89 Sucrose with 0 Elemental Mastery, we can see that Swirl chain amplifying reactions work in the same way as normal - scaling off the respective reaction multiplier.
+[YouTube](https://www.youtube.com/watch?v=0JMdHidAFEk) From this video, using a level 89 Sucrose with 0 Elemental Mastery, we can see that Swirl chain amplifying reactions work in the same way as normal - scaling off the respective reaction multiplier.
 
 * A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5x \(632\*1.5≈949\)
 * A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2x \(632\*2≈1265\)
 * A Hydro Swirl AoE that makes contact with an enemy with a Pyro aura causes the Wet application to Vaporise, doing no damage.
 * A Pyro Swirl AoE that makes contact with an enemy with a Hydro aura causes the Pyro damage to reverse Vaporise, becoming amplified by 1.5x \(632\*≈949\)
 
-[https://www.youtube.com/watch?v=sexFAXpYlcM](https://www.youtube.com/watch?v=sexFAXpYlcM) In this video, we can see that Elemental Mastery affects amplifying reactions as normal. Here, Sucrose has 692 Elemental Mastery, which should give her a 92% bonus to Melt.
+[YouTube](https://www.youtube.com/watch?v=sexFAXpYlcM) In this video, we can see that Elemental Mastery affects amplifying reactions as normal. Here, Sucrose has 692 Elemental Mastery, which should give her a 92% bonus to Melt.
 
 * A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2 x 1.92 = 3.84x \(2027\*3.84≈7783\)
 * A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.92 = 2.88x \(2027\*2.88≈5837\)
 
-[https://www.youtube.com/watch?v=MmRm0zO1C6Q](https://www.youtube.com/watch?v=MmRm0zO1C6Q) In this video, Sucrose has over 100% CRIT Rate, but the Swirl chain reaction she causes does not score Critical hits against the enemy, which proves that the chain amplifying reactions caused by Swirl cannot CRIT. In the video, Sucrose has 194 Elemental Mastery, giving her a 33.9% damage bonus to Melt.
+[YouTube](https://www.youtube.com/watch?v=MmRm0zO1C6Q) In this video, Sucrose has over 100% CRIT Rate, but the Swirl chain reaction she causes does not score Critical hits against the enemy, which proves that the chain amplifying reactions caused by Swirl cannot CRIT. In the video, Sucrose has 194 Elemental Mastery, giving her a 33.9% damage bonus to Melt.
 
 * A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.339 = 2.0085x \(1146\*2.0085≈2303\)
 * The 2.0085x multiplier seen in the video comes solely from the Melt reaction, which proves that Swirl chain reactions that cause amplifying reactions can't CRIT.
 
-[https://www.youtube.com/watch?v=m8yAPFLmMxA](https://www.youtube.com/watch?v=m8yAPFLmMxA) In this video, Sucrose triggers Swirl to cause transformative chain reactions, which are also calculated with Sucrose's Elemental Mastery and Level.
+[YouTube](https://www.youtube.com/watch?v=m8yAPFLmMxA) In this video, Sucrose triggers Swirl to cause transformative chain reactions, which are also calculated with Sucrose's Elemental Mastery and Level.
 
 **Significance:** Allows for better team-building and rotations, along with more understanding of how Swirl works.
 
@@ -1256,7 +1256,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 **Last tested:** <VersionHl date="2021-04-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_833831469373718568_834244407888314438_transcript-venti-and-sucrose-burst-will-infuse-hydro-against-ec-enemies.html)
 
-**Finding:** When Venti and Sucrose's Bursts make contact with a mob which is affected by Electro-charged, the Burst will infuse Hydro.
+**Finding:** When Venti and Sucrose's Bursts make contact with a mob which is affected by Electro-Charged, the Burst will infuse Hydro.
 
 **Evidence:** \(provided by Terrapin\)  
 [EC Absorption Test Sucrose - Hydro applied first](https://www.youtube.com/watch?v=tmv_IU2PqBQ)  
@@ -1273,7 +1273,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856103483316633610_856665866779623444_transcript-amped-swirl-snapshot.html)
 
 **Finding:**  
-Amplifying reactions derived from a Swirl from Pyro/Cryo/Hydro are not dynamic and WILL snapshot.
+Amplifying Reactions derived from a Swirl from Pyro/Cryo/Hydro are not dynamic and WILL snapshot.
 
 **Evidence:**
 
@@ -1348,7 +1348,7 @@ The third test shows Noelle's Crystallize on Noelle take a single hit, and then 
 **Finding:**  
 Shields created from a Crystallize reaction do not stack.
 
-**Evidence:** [https://www.youtube.com/watch?v=JBIWuMTYQQk](https://www.youtube.com/watch?v=JBIWuMTYQQk)
+**Evidence:** [YouTube](https://www.youtube.com/watch?v=JBIWuMTYQQk)
 
 The first test in the video shows Noelle picking up a Cryo Crystallize shield and then a Pyro Crystallize shield. She then takes several hits of Cryo damage which breaks the Pyro Crystallize shield. There is no remaining Cryo Crystallize shield.
 
@@ -1365,7 +1365,7 @@ The player should only pick up correct-Element Crystallize crystals when fightin
 
 **Finding:** Crystallizing an Electro-Charged enemy always results in an Electro crystal.
 
-**Evidence:** [https://youtu.be/Z9zOXsy_qUY](https://youtu.be/Z9zOXsy_qUY)
+**Evidence:** [YouTube](https://youtu.be/Z9zOXsy_qUY)
 
 I Electro charged in different orders with different application strengths. The result was always an Electro crystal.
 
@@ -1488,7 +1488,7 @@ _Burning deals damage every 0.25 sec. Burning does not stun._
 
 ---
 
-_Burning is contagious. Applies Pyro in AOE around Burning person/object_
+_Burning is contagious. Applies Pyro in AoE around Burning person/object_
 
 Can light the fire of a Dendro state subject if lay it near Dendro Burning subject (perfect for trolling… and more)
 

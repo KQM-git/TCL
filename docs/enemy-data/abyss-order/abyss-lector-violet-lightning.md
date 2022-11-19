@@ -58,13 +58,13 @@ Head.
 
 ## Attacks
 
-* Summons a falling bolt of Electro Energy to strike its' foe. When below 50% HP it will summon 2 bolts consecutively. When its' shield is active it will summon 3 bolts consecutively. The visual indicator for this attack will appear at the active character's feet.
+* Summons a falling bolt of Electro Energy to strike its foe. When below 50% HP it will summon 2 bolts consecutively. When its shield is active it will summon 3 bolts consecutively. The visual indicator for this attack will appear at the active character's feet.
 
-* Conjures a wave of lightning bolts striking down in a line towards the player. When its' shield is active, it will unleash two waves of lightning at once, usually from different directions but sometimes in a straight line.
+* Conjures a wave of lightning bolts striking down in a line towards the player. When its shield is active, it will unleash two waves of lightning at once, usually from different directions but sometimes in a straight line.
 
 * When a character strays near to the Abyss Lector, it will implode itself with a powerful electromagnetic blast.
 
-* After falling to 20% health, the Abyss Lector will remove its' remaining health to imbue itself with a powerful Electro shield. Breaking this shield will kill the Lector. Once the shield is activated, nearby players are knocked back from the Lector and damaged. The Lector also gains new/upgraded attacks when it is equipped with the Electro shield.
+* After falling to 20% health, the Abyss Lector will remove its remaining health to imbue itself with a powerful Electro shield. Breaking this shield will kill the Lector. Once the shield is activated, nearby players are knocked back from the Lector and damaged. The Lector also gains new/upgraded attacks when it is equipped with the Electro shield.
 
 * Conjures 3 Electro Orbs that launch towards the player's current position. If hit by these Orbs, your party's Energy will be depleted by a flat amount unless they're protected by a shield.
 

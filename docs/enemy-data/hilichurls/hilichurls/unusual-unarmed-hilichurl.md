@@ -12,8 +12,8 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 60% HP       | 1 Particle | common  |
-| Death        | 1 Particle | common  |
+| 60% HP       | 1 Particle | Clear  |
+| Death        | 1 Particle | Clear  |
 
 ## Resistance Table
 
@@ -44,6 +44,6 @@ Head.
 
 ## Attacks
 
-* Swings at the player using either its' claws or suitcase.
-* Rummages through its' suitcase, then throws projectiles at the player that look like primogems and cabbage.
-* Rummages through its' suitcase, then throws a doll at the player that will explode on impact into confetti, dealing AOE damage.
+* Swings at the player using either its claws or suitcase.
+* Rummages through its suitcase, then throws projectiles at the player that look like primogems and cabbage.
+* Rummages through its suitcase, then throws a doll at the player that will explode on impact into confetti, dealing AoE damage.

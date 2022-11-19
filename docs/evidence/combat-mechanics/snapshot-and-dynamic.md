@@ -17,12 +17,12 @@ sidebar_position: 1300
 
 **Comfy’s Findings** \(Comfy Seaweed\#3841\)
 
-**Evidence:** [https://youtu.be/-utEL05jfDg](https://youtu.be/-utEL05jfDg)
+**Evidence:** [YouTube](https://youtu.be/-utEL05jfDg)
 
 * Oz's damage with no Bennett's Ult: 1695 \(no CRIT\), 2879 \(CRIT\)
 * Oz's damage with Bennett's Ult: 2180 \(no CRIT\), 3705 \(CRIT\)
 
-We know that Bennett's ATK buff refreshes, and thus if Oz was Dynamic, Fischl would need to stay inside the AOE in order to obtain Bennett's ATK buff. However even when Fischl exits \(and thus losing ATK buff\), Oz's damage remains the same.
+We know that Bennett's ATK buff refreshes, and thus if Oz was Dynamic, Fischl would need to stay inside the AoE in order to obtain Bennett's ATK buff. However even when Fischl exits \(and thus losing ATK buff\), Oz's damage remains the same.
 
 **Significance:** All buffs are not applied to summon\(s\) if you cast the buffs AFTER the summon\(s\) is already on the field.
 
@@ -38,7 +38,7 @@ To add to Seaweed I tested this with Xiangling Pyronado along with c6 Diona Q. W
 
 **By:** JarJarThinks\#5411
 
-**Evidence:** [https://youtu.be/61GvXHVc0D8](https://youtu.be/61GvXHVc0D8)
+**Evidence:** [YouTube](https://youtu.be/61GvXHVc0D8)
 
 **Significance:** This means that you can potentially update Oz's snapshot to reflect any new buffs, however this also means that if you resummon Oz after losing buffs, Oz will become weaker if he was previously snapshotted with buffs.
 

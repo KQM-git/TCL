@@ -166,7 +166,7 @@ Fluff.
 
 **Editor's Note:** This same behavior can be observed for Venti. Venti was tested comprehensively by the theorycrafting community; pending submission.
 
-**Evidence:** [https://youtu.be/rBDMuzkVb54](https://youtu.be/rBDMuzkVb54)
+**Evidence:** [YouTube](https://youtu.be/rBDMuzkVb54)
 
 See the video. In the two clips I didn't change anything other than leveling up the character. I also tried putting more attack on her instead when she was level 71 with no effect.
 
@@ -174,12 +174,12 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 
 **Significance:** Anemo MC needs to be of a sufficiently high level relative to the enemy in order to be at all useful in combat at high enough levels.
 
-### AMC Burst AOE
+### AMC Burst AoE
 
 **By:** pai#3602  
 **Added:** <Version date="2022-01-27" />  
 **Last tested:** <VersionHl date="2022-01-27" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932713520880037960_936073712623583232_transcript-amc-burst-aoe.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932713520880037960_936073712623583232_transcript-amc-burst-AoE.html)
 
 **Finding:**  
 The Additional Elemental DMG has less AoE than the Tornado DMG.
@@ -265,7 +265,7 @@ Another possible significance is that this might be a clue to how the Travelers 
 
 **Finding:** Anemo Traveler C6 lasts 10 seconds.
 
-**Evidence:** [https://i.imgur.com/H7zQc6Y](https://imgur.com/H7zQc6Y)
+**Evidence:** [YouTube](https://imgur.com/H7zQc6Y)
 
 Final hit of Traveler Q at 3 seconds, Venti's Q stops doing extra damage at 13 seconds:
 

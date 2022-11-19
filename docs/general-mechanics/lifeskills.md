@@ -45,7 +45,7 @@ You can switch fishing baits when the bobber is in mid-air.
 
 ### Co-Op Trolling
 
-There are several ways to grief other people trying to fish in co-op:
+There are several ways to grief other people trying to fish in Co-op:
 
 * Use collision to move others far enough from their original fishing position to cancel their fishing.
 * Use Albedo's Elemental Skill to raise others off the ground and cancel their fishing.

@@ -116,8 +116,8 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Hits that resonate from other Geo constructs still proc the 4-Piece Tenacity of the Millileth set.
-* **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb.
+* Hits that resonate from other Geo Constructss still proc the 4-Piece Tenacity of the Millileth set.
+* **Stone Steles** are considered a Geo Constructs that can be used to block attacks, or climb.
 * Resonation can overlap to deal multiple instances of damage.
 * **Stone Steles** resonate independently and with Geo Constructs from enemies, but they do not resonate with each other.
 * The range for the resistance shred is ~3 Abyss tiles.

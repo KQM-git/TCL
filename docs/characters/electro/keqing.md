@@ -73,7 +73,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Keqing's N1C is her highest damage combo but is stamina hungry.
   * N4C is a comparable damage combo that is less stamina intensive.
-* Keqing's N4 does not give iframe.
+* Keqing's N4 does not give i-frame.
 
 </TabItem>
 

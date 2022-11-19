@@ -79,7 +79,7 @@ Rosaria can take advantage of her A1 Passive against the aforementioned bosses b
 
 This has been tested to work with Hu Tao's A1 and Geo MC's C1.
 
-**Evidence:** [https://youtu.be/TmSbqoUg0k0](https://youtu.be/TmSbqoUg0k0)
+**Evidence:** [YouTube](https://youtu.be/TmSbqoUg0k0)
 
 <Tabs>
 <TabItem value="stats" label="Stats">

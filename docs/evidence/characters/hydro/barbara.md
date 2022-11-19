@@ -27,8 +27,8 @@ Reducing Barbara E animation for optimizing the "first heal"
 
 **Evidence:**
 
-* Just Switch: [https://youtu.be/8d4SAxy2yrM](https://youtu.be/8d4SAxy2yrM)
-* Just Switch and Beyond: [https://youtu.be/yBNpbQNPVgg](https://youtu.be/yBNpbQNPVgg)
+* Just Switch: [YouTube](https://youtu.be/8d4SAxy2yrM)
+* Just Switch and Beyond: [YouTube](https://youtu.be/yBNpbQNPVgg)
 
 **Significance**
 

@@ -208,7 +208,7 @@ The duration of Rosaria's A4 buff does not consistently last to the end of Eula'
 * [Ruin Guard (TCL)](https://imgur.com/z49kY0s)
 * [Ruin Guard (Pines)](https://youtu.be/CCyULYIrCHc)
 
-Game setting at 60 fps, recorded in 60 fps.
+Game setting at 60 FPS, recorded in 60 FPS.
 
 In each of the videos, the rotation is Rosaria Q > Eula Q N4 hold E N4 (pop). Alt-swap is used for Eula's Burst. In the first two videos, we see that Rosaria's A4 Burst does not last through Eula's Lightfall sword popping while using Rainslasher. However in the TCL, there is evidence that Rosaria's A4 Burst can last through the pop. Both the currently-submitted videos and TCL video have a stable ping of roughly 50 ms. When tested using R1 Song of Broken Pines (which has an attack speed buff), A4 lasted through the pop.
 

@@ -40,7 +40,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **Bug/Exploit:** You're able to use your overworld team \(regardless of character overlap with first half team\) for the second half of Spiral Abyss by selecting retry at the same time as killing the last mob.
 
-**Evidence:** [https://youtu.be/XW_TDsyFkPA](https://youtu.be/XW_TDsyFkPA)
+**Evidence:** [YouTube](https://youtu.be/XW_TDsyFkPA)
 
 **Significance:** After you clear the second half it doesn't complete, it's unsure whether it would be possible to trick it to complete somehow. It could be useful for speedrun showcases or character highlights in abyss.
 
@@ -139,7 +139,7 @@ Looks cool
 [Discussion](https://tickets.deeznuts.moe/transcripts/ding-domain-ditch)
 
 **Finding:**  
-In a high ping scenario, you can run out of the domain arena before the walls appear, leaving your co-op teammates to complete it by themselves
+In a high ping scenario, you can run out of the domain arena before the walls appear, leaving your Co-op teammates to complete it by themselves
 
 **Evidence:**  
 [YouTube](https://youtu.be/K5bIioosMN8)
@@ -205,7 +205,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
 
-**Evidence:** [https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
+**Evidence:** [YouTube Playlist](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
 
 **Significance:** This explains some strange damage numbers when fighting enemies in the overworld
 
@@ -273,7 +273,7 @@ The damage is likely counted as from plunge, as it is close to the max plunge DM
 **Finding:**  
 By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a horizontal position (as long as they are in an animation or partially clipped into a surface)
 
-Also, by climbing into a firework precisely placed on Geo traveler's rock, it is possible to force the character into a 45 degree angle and plunge off, to the same effects as horizon tech, but at 45 degrees. (Currently only tested to be possible with the teen female character model)
+Also, by climbing into a firework precisely placed on Geo Traveler's rock, it is possible to force the character into a 45 degree angle and plunge off, to the same effects as horizon tech, but at 45 degrees. (Currently only tested to be possible with the teen female character model)
 
 Credit to the original [Horizon Tech](./bugs#horizon-tech)
 
@@ -459,8 +459,8 @@ Just another one amongst annoying Fatui _mechanics_.
 
 **Evidence:**
 
-* [https://youtu.be/7H84lGcZf8s](https://youtu.be/7H84lGcZf8s)
-* [https://imgur.com/a/770PQ9Y](https://imgur.com/a/770PQ9Y)
+* [YouTube](https://youtu.be/7H84lGcZf8s)
+* [YouTube](https://imgur.com/a/770PQ9Y)
 
 **Significance:** Allows characters to quickly absorb Particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
 
@@ -545,17 +545,17 @@ Fluff, annoying bug when you do it by accident.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
-Venti Burst's Elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
+Venti Burst's Elemental absorption creates an independent and invisible AoE field that always ticks for for the full number of ticks regardless of when absorption happens.
 
 **Evidence:**  
 [Video](https://www.youtube.com/watch?v=Jpxf7bD47ZY)
 
 Clips 1 and 2 show that even when absorption happens late, the Elemental infusion damage continues to tick even after Venti's Q ended. I counted 14 ticks in first clip and 15 ticks in second clip, which should be around the max total ticks of early infusion, but I'm not sure why the second clip showed 1 more tick.
 
-Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the Elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
+Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the Elemental infusion creates an invisible AoE field that does a set number of ticks before disappearing.
 
 **Significance:**  
-When Elemental absorption happens late into a Venti Q, the damage from Elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on Swirl damage if there's no Element to be swirled.
+When Elemental absorption happens late into a Venti Q, the damage from Elemental infusion ticks aren't lost as long as enemies stay inside the AoE. However you would still lose out on Swirl damage if there's no Element to be swirled.
 
 ### Venti E hold visual error
 

@@ -42,11 +42,11 @@ When testing and verifying damage calculations with Trial Characters, this inter
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904061168828702751_904585059061862430_transcript-swirl-chain-reactions-can-trigger-electro-resonance.html)
 
 **Finding:**  
-Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Swirl chain reactions can trigger the effect of Electro Resonance.
+Electro-related reactions (Electro-Charged, Overload, Superconduct) caused by Swirl chain reactions can trigger the effect of Electro Resonance.
 
 **Evidence:**
 
-* [Electro-charged](https://imgur.com/a/P97pcLa)
+* [Electro-Charged](https://imgur.com/a/P97pcLa)
 * [Overload](https://imgur.com/a/YRjVcgd)
 * [Superconduct](https://imgur.com/a/mjmdhhA)
 

@@ -52,7 +52,7 @@ None.
   * The sinking tiles may deal damage to the player if sinking along.
 * The Oceanid submerges for a period of time, before resurfacing again.
 * If the Hydro Mimics are not defeated in a certain amount of time, the Oceanid creates a whirlpool below the player that follows them, deals DoT damage, and explodes after a while, dealing massive damage.
-* Talks continuously, taunting the player with its' non-stop chatting and stalling the fight.
+* Talks continuously, taunting the player with its non-stop chatting and stalling the fight.
   * Muting audio is ineffective against this attack.
 
 ## Oceanid Mimics

@@ -23,4 +23,4 @@ In this [video](https://www.youtube.com/watch?v=6hIZghh6a-w&ab_channel=Ayzel), K
 
 In this [video](https://www.youtube.com/watch?v=YxlzUaaLVUw&ab_channel=Ayzel), filmed in my own teapot, Klee is unable to light grass on fire with a single 1U application of Pyro through her normal or charged attacks.
 
-**Significance:** Could be a bug, or could also signify that Elemental Gauges work differently in co-op.
+**Significance:** Could be a bug, or could also signify that Elemental Gauges work differently in Co-op.

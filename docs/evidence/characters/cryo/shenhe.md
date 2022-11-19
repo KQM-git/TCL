@@ -79,7 +79,7 @@ Understanding of quill mechanics.
 * Initial hit is Dynamic. DoT Snapshots. - [Video 1](https://youtu.be/6RERp-FRavI) / [Video 2](https://tinyurl.com/2p8bcsy3) - CC\#5588
   * DoT snapshots ATK Buffs and 2-Piece Noblesse but not Shenhe A1
   * DoT snapshots somewhere in the middle of Q animation, not on cast
-* Burst does not have enough iframes for explosive barrel immunity - [Video](https://www.youtube.com/watch?v=6LofNRtI9PA) - Mcpie\#8672
+* Burst does not have enough i-frames for explosive barrel immunity - [Video](https://www.youtube.com/watch?v=6LofNRtI9PA) - Mcpie\#8672
 * Shenhe's Burst shred persists 2 seconds after Burst ends - [Video](https://www.youtube.com/watch?v=bNCskLtK4MQ) - CrazyWeke123\#9720
   * Shenhe C2 extends the shred as well. - [Video](https://youtu.be/mOTmD6t9nw0) - TWICE\#9958
 

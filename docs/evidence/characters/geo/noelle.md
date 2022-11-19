@@ -223,7 +223,7 @@ Noelle's Elemental Burst snapshots the current defence value at the time of acti
 **Evidence:**  
 Burst was activated then a ATK value of 3,534 was observed. This value did not increase after 235 DEF was applied with a food buff.
 
-[https://www.youtube.com/watch?v=R6ACTJdKYS4](https://www.youtube.com/watch?v=R6ACTJdKYS4)
+[YouTube](https://www.youtube.com/watch?v=R6ACTJdKYS4)
 
 **Significance:**  
 This means that users of whiteblind needs to keep the stack at max or stack it before activating Burst for full value of the active effect.
@@ -239,7 +239,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 **Finding:** The 15% spin damage bonus on C2 behaves like most other DMG% sources, meaning it is additive and goes into the formula as \(1 + DMG%\).
 
-**Evidence:** [https://youtu.be/GvIoAdmNJUg](https://youtu.be/GvIoAdmNJUg) \(credits to JonahFarc\#7056\)
+**Evidence:** [YouTube](https://youtu.be/GvIoAdmNJUg) \(credits to JonahFarc\#7056\)
 
 <Tabs>
 <TabItem value="calculations" label="Calculations">
@@ -374,7 +374,7 @@ Noelle can maximize her Burst duration without getting a kill, reducing her batt
 
 **Finding:** Sacrificial can proc on either activation or the pop from C4. If reactivated while shield is already active, the first shield is replaced and you do not get the C4 pop.
 
-**Evidence:** Hit Lawachurl with C4 pop and cooldown reset. Hit Ruin Guard with a double E from Sacrificial and didn't get the C4 pop. [https://youtu.be/gPMwZswv-y4](https://youtu.be/gPMwZswv-y4)
+**Evidence:** Hit Lawachurl with C4 pop and cooldown reset. Hit Ruin Guard with a double E from Sacrificial and didn't get the C4 pop. [YouTube](https://youtu.be/gPMwZswv-y4)
 
 **Significance:** If you're C4, use the sacrificial reset after the shield pops, not while it's active.
 
@@ -386,7 +386,7 @@ Noelle can maximize her Burst duration without getting a kill, reducing her batt
 
 **Evidence:**
 
-* [https://youtu.be/IH-g6ek-wdo](https://youtu.be/IH-g6ek-wdo) - Noelle with NO
-* [https://youtu.be/Pq8qZ7mC-JU](https://youtu.be/Pq8qZ7mC-JU) - Noelle w/o NO
+* [YouTube](https://youtu.be/IH-g6ek-wdo) - Noelle with NO
+* [YouTube](https://youtu.be/Pq8qZ7mC-JU) - Noelle w/o NO
 
 **Result:** The only swing affected by NO is the one initiated by the ult. Interestingly, the activation of the ult creates a "shockwave" which does damage \(1st damage number in attached vids\). This damage is also affected by NO. Enhanced basic attacks are not affected by NO.

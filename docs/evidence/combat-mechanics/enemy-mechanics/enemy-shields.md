@@ -13,7 +13,7 @@ search: false
 Source: [https://bbs.mihoyo.com/ys/article/2204156](https://bbs.mihoyo.com/ys/article/2204156) \(Dated Oct 14, 2020\)  
 Translated by: @KluEvo, @sacstanxiang & @Azri K.
 
-Link: [https://docs.google.com/document/d/1_iXKQk-w91gt3Og1_r3NntHWXACiF6aPk-bI0irhySo/edit?usp=sharing](https://docs.google.com/document/d/1_iXKQk-w91gt3Og1_r3NntHWXACiF6aPk-bI0irhySo/edit?usp=sharing)
+Link: [Google Docs](https://docs.google.com/document/d/1_iXKQk-w91gt3Og1_r3NntHWXACiF6aPk-bI0irhySo/edit?usp=sharing)
 
 ## Bobrokrot’s Shield and Armor Guide
 
@@ -21,7 +21,7 @@ Link: [https://docs.google.com/document/d/1_iXKQk-w91gt3Og1_r3NntHWXACiF6aPk-bI0
 **Added:** <Version date="2021-02-12" />  
 **Last tested:** <VersionHl date="2021-02-12" />
 
-[https://docs.google.com/spreadsheets/d/1GZHd0eLAv8364QKnwtUpraqWmKipXeWQ7S-lsgi69hw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GZHd0eLAv8364QKnwtUpraqWmKipXeWQ7S-lsgi69hw/edit?usp=sharing)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1GZHd0eLAv8364QKnwtUpraqWmKipXeWQ7S-lsgi69hw/edit?usp=sharing)
 
 ## Preliminary Findings on Breaking Fatui Armor
 
@@ -34,10 +34,10 @@ Fatui armor breaks mostly off Elemental reactions and armor breaking effectivene
 
 **Evidence**
 
-* [Fischl E vs Hydro armor:](https://youtu.be/WF6gwtgneVw) We can see fatui armor breaking from Electro-charged procs, not Oz attacks.
-* [Lisa E hold vs Hydro shield:](https://youtu.be/m1_TGfRPfCY) Lisa E hold has a strong Electro aura application. It seems that strong Electro applications triggers Electro-charged twice for a total of 4 damage procs.
-* [Beidou E vs Hydro armor:](https://youtu.be/KfwM6vByBbI) Beidou E also has strong Electro application and it procs Electro-charged twice. Note that it takes a total of 10 Electro-charged damage procs to take down the armor.
-* [Fischl charged attack vs Hydro armor:](https://youtu.be/X_9wisV4ZcY) Fischl's charged attacks have weak aura application and it took a total of 5 shots \(10 Electro-charged damage procs\) to take down the armor.
+* [Fischl E vs Hydro armor:](https://youtu.be/WF6gwtgneVw) We can see Fatui armor breaking from Electro-Charged procs, not Oz attacks.
+* [Lisa E hold vs Hydro shield:](https://youtu.be/m1_TGfRPfCY) Lisa E hold has a strong Electro aura application. It seems that strong Electro applications triggers Electro-Charged twice for a total of 4 damage procs.
+* [Beidou E vs Hydro armor:](https://youtu.be/KfwM6vByBbI) Beidou E also has strong Electro application and it procs Electro-Charged twice. Note that it takes a total of 10 Electro-Charged damage procs to take down the armor.
+* [Fischl charged attack vs Hydro armor:](https://youtu.be/X_9wisV4ZcY) Fischl's charged attacks have weak aura application and it took a total of 5 shots \(10 Electro-Charged damage procs\) to take down the armor.
 * [Barbara vs Pyro armor:](https://youtu.be/sC2CV8Urnfw) Barbara normal attacks have weak application and it took 4 Vaporize procs to take down the armor. Note some attacks not procing Vaporize \(and thus not doing damage to the armor\) due to internal aura application cooldown.
 * [XQ vs Pyro armor:](https://youtu.be/TSzzZzM1Ii4) XQ has two weak aura applications on his E + his swords apply weak Hydro aura. In total it took 2 E swings + 2 touches with swords. I also did some testing with XQ ult but it was kinda inconsistent due to swords revolving around XQ also applying aura, need more testing.
 * Don't have footage but it is common knowledge that Kaeya's E has strong application and breaks Electro armor in 2 Es, but Kaeya's ult has weak aura applications and needs 4 Superconduct hits to break the armor.
@@ -47,7 +47,7 @@ Fatui armor breaks mostly off Elemental reactions and armor breaking effectivene
 
 * Pyro armor: The equivalent of 2 strong Hydro
 * Cryo armor: The equivalent of 2 strong Pyro
-* Hydro armor: ~10 Electro-charged ticks
+* Hydro armor: ~10 Electro-Charged ticks
 * Electro armor: The equivalent of 2 strong Cryo
 
 ## Fatui Armor and Aura Interactions
@@ -63,19 +63,19 @@ Some foreign auras can exist on certain Fatui when their armor is up. These aura
 **Evidence:**  
 [YouTube video](https://youtu.be/1WlakadhKXg)
 
-* Hydro on a Cryo fatui armor.
+* Hydro on a Cryo Fatui armor.
 * Your Pyro attacks will need to go through the Hydro aura in order to damage the Cryo armor.
 
 [YouTube video](https://youtu.be/OlUeCx5moqU)
 
-* Proving not only river water can apply Hydro on Cryo fatui armor.
-* Melting a Frozen Hydro fatui armor doesn't seem to do any noticeable damage even when using 2U Pyro 1U Electro gets eaten up super quickly by the Hydro fatui armor.
-* Pyro attacks seem to ignore the Electro aura of an Electro-Charged'd Hydro fatui.
+* Proving not only river water can apply Hydro on Cryo Fatui armor.
+* Melting a Frozen Hydro Fatui armor doesn't seem to do any noticeable damage even when using 2U Pyro 1U Electro gets eaten up super quickly by the Hydro Fatui armor.
+* Pyro attacks seem to ignore the Electro aura of an Electro-Charged'd Hydro Fatui.
 
 [YouTube video](https://youtu.be/zP5ibMlvqys)
 
 * More testing done for the above, proving that gauges matter.
-* 1U Pyro onto 2U Hydro seem to notbe able to damage the fatui armor at all.
+* 1U Pyro onto 2U Hydro seem to notbe able to damage the Fatui armor at all.
 * 2U Pyro on 1U Hydro break more armor than 2U on 2U.
 
 [YouTube video](https://youtu.be/mP6Qy1BAuFQ)
@@ -85,17 +85,17 @@ Some foreign auras can exist on certain Fatui when their armor is up. These aura
 
 [YouTube video](https://youtu.be/gkAciCrS7_0)
 
-* Trying to do testing with Electro-Charged'd Electro fatui armor (namely, Pyro onto Electro-Charged), but failed because the Hydro seem to be eaten up instantly.
-* Finding out crystalize breaks Geo fatui armor. Also a random test to show that Geo fatui can no doubt be Frozen when his armor is up.
+* Trying to do testing with Electro-Charged'd Electro Fatui armor (namely, Pyro onto Electro-Charged), but failed because the Hydro seem to be eaten up instantly.
+* Finding out crystalize breaks Geo Fatui armor. Also a random test to show that Geo Fatui can no doubt be Frozen when his armor is up.
 
 [YouTube video](https://youtu.be/kHlMVro_s-c)
 
 * More testing with Geo armor, however Geo gauges were not tested.
-* 1U, 2U, and 4U of gauge when crystalized breaks different amount of Geo fatui's armor.
+* 1U, 2U, and 4U of gauge when crystalized breaks different amount of Geo Fatui's armor.
 
 [YouTube video](https://youtu.be/6g5mCPkf7dQ)
 
-* Geo gauge don't matter when using crystalize to break Geo fatui armor?
+* Geo gauge don't matter when using crystalize to break Geo Fatui armor?
 
 [YouTube video](https://youtu.be/EIxKGzu825Y) (clip by makeway4pK\#3901)
 
@@ -119,10 +119,10 @@ Better understanding of Fatui armor. Most of the findings are about Fatui armor 
 **Evidence:**  
 Aside from Geo damage, there is also a number of attacks that break Geo Armor. As far as I can tell, all of these attacks have one thing in common — they push or stagger the enemy.
 
-* [https://youtu.be/L89uAN4E_xE](https://youtu.be/L89uAN4E_xE)
-* [https://youtu.be/RPL32qPYhGM](https://youtu.be/RPL32qPYhGM)
-* [https://youtu.be/k70_Ni1p3SU](https://youtu.be/k70_Ni1p3SU)
-* [https://youtu.be/FzMEho-V3rs](https://youtu.be/FzMEho-V3rs)
+* [YouTube](https://youtu.be/L89uAN4E_xE)
+* [YouTube](https://youtu.be/RPL32qPYhGM)
+* [YouTube](https://youtu.be/k70_Ni1p3SU)
+* [YouTube](https://youtu.be/FzMEho-V3rs)
 
 Here are some clips Jean breaking Geo Armor of Geo Fatui with charged attacks and her E, and also a clip of her breaking a crystal with her E \(her E and charged attacks also one-shot white iron ores\). The last clip features Amber E almost one-shoting the crystal and Anemo MC last tick of E dealing significant damage to the crystal.
 
@@ -132,7 +132,7 @@ Claymores are well known to be effective at breaking Geo Armor. Although Jean's 
 
 Sword basic attacks in particular are able to break Geo Armor, although ineffective. Also note that some attacks deal more damage to armor than others, in general, final attack in normal attacks string deals the most damage.
 
-Klee's basic attacks are effective at breaking Geo Armor and they indeed do stagger. Other catalyst users do not stagger enemies and indeed Lisa deals 0 damage to Geo Armor: [https://youtu.be/a0-sSrbViUs](https://youtu.be/a0-sSrbViUs)
+Klee's basic attacks are effective at breaking Geo Armor and they indeed do stagger. Other catalyst users do not stagger enemies and indeed Lisa deals 0 damage to Geo Armor: [YouTube](https://youtu.be/a0-sSrbViUs)
 
 **Significance:**  
 May significantly alter our Abyss clearing strategy. Geo and claymores are still best at breaking Geo Armor but Amber in particular with some Electro for Overload can be effective at dealing with Geo Fatui since her Bunny deals massive damage to the armor \(almost halves Geo Fatui armor\).
@@ -144,13 +144,13 @@ May significantly alter our Abyss clearing strategy. Geo and claymores are still
 **Theory:** INTRODUCING KAEYA'S N1 \(KN1\) AS A MEASURING TOOL FOR STAGGER VALUES
 
 **Evidence:**  
-Here is a clip of Kaeya hitting Geo slime's armor 140 times: [https://youtu.be/40VAHBX4ABw](https://youtu.be/40VAHBX4ABw) We will postulate that Geo slime's armor has durability of 140 Keaya's N1s \(KN1\). Note that it actually has from 139 to 140 KN1 health. The clip above was performed with lvl 80 Keaya with lvl 1 weapon and no artifacts. To make sure that the damage itself deals no damage to the armor, here are two clips of naked Razor and Razor with lvl 77 Wolf's Gravestone and +20 feather: [https://youtu.be/kMwSzxlZ1W0](https://youtu.be/kMwSzxlZ1W0) [https://youtu.be/OiRLK2LzAl4](https://youtu.be/OiRLK2LzAl4)
+Here is a clip of Kaeya hitting Geo slime's armor 140 times: [YouTube](https://youtu.be/OiRLK2LzAl4)
 
 From here we can calculate Razor's N1 capability to break Geo armor. I'll call it stagger value from now on since evidence tells as that they are correlated. Razor's N1 ranges from 27.8 to 28.0 KN1 \(plus-minus the last Kaeya's N1\).
 
-Chongyun's N1 ranges from 25.6 to 25.8 KN1 [https://youtu.be/tasOZkNXbTs](https://youtu.be/tasOZkNXbTs)
+Chongyun's N1 ranges from 25.6 to 25.8 KN1 [YouTube](https://youtu.be/tasOZkNXbTs)
 
-Beidou's N1 ranges from 21.0 to 21.167 KN1 [https://youtu.be/3uubYN2WP74](https://youtu.be/3uubYN2WP74)
+Beidou's N1 ranges from 21.0 to 21.167 KN1 [YouTube](https://youtu.be/3uubYN2WP74)
 
 Note that Beidou's N1 and Razor's N1 stagger values correlate to my findings on their Shatter values vs Cryo Abyss mage shield. I have lvl1 Razor so the result of ~0.66-0.67U of his N1 should be accurate \(since the damage to shield is neglectable\). Using average stagger values we can calculate Beidou's N1 Shatter value = 21.1/27.9\*0.66 = ~0.499 which correlates for my previous result of 0.5U. Also note that this is not the case for Chongyun. At first I assumed Chong's N1 to be 0.65U. Calculating it from stagger values it should be around 0.61U. 18 N1s is 10.98U which suggests that Chong should've had one more attack before breaking 12U shield which was not the case.
 
@@ -187,10 +187,10 @@ Don't use Geo or Anemo to break Cryo Abyss mage shields on water.
 **Last tested:** <VersionHl date="2021-02-04" />
 
 **Theory:**  
-Each Electro-charged tick consumes 0.4U. Abyss mage shields have 12GU HP \(regardless of the reactions\), Fatui armor has 4U HP.
+Each Electro-Charged tick consumes 0.4U. Abyss mage shields have 12GU HP \(regardless of the reactions\), Fatui armor has 4U HP.
 
 **Evidence:**  
-The detailed explanation with calculations can be found here: [https://docs.google.com/document/d/1WvF5MTMMdCCmfb90uJ2EXzTNfjGs_sZuaRDmgUgjL_U/edit?usp=sharing](https://docs.google.com/document/d/1WvF5MTMMdCCmfb90uJ2EXzTNfjGs_sZuaRDmgUgjL_U/edit?usp=sharing)
+The detailed explanation with calculations can be found here: [Google Docs](https://docs.google.com/document/d/1WvF5MTMMdCCmfb90uJ2EXzTNfjGs_sZuaRDmgUgjL_U/edit?usp=sharing)
 
 ## Breaking Childe's Shield with Stagger
 
@@ -202,9 +202,9 @@ The detailed explanation with calculations can be found here: [https://docs.goog
 
 **Evidence:** Childe has a separate poise value when shielded and unshielded. The hit that breaks his shield has no hitlag. The number of hits it takes to break his shield is unaffected by damage.
 
-* [https://youtu.be/n44JOFCmldY](https://youtu.be/n44JOFCmldY)
-* [https://youtu.be/-sit2hVKgCs](https://youtu.be/-sit2hVKgCs)
-* [https://youtu.be/M3fjfHBTOy4](https://youtu.be/M3fjfHBTOy4)
+* [YouTube](https://youtu.be/n44JOFCmldY)
+* [YouTube](https://youtu.be/-sit2hVKgCs)
+* [YouTube](https://youtu.be/M3fjfHBTOy4)
 
 **Significance:** Prioritize stagger over damage when hitting Childe's shield.
 

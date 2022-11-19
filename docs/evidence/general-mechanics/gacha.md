@@ -16,7 +16,7 @@ sidebar_position: 1000
 
 **Finding:** Soft pity is 74 on the featured character/standard banner, and 63 on the weapon banner.
 
-**Evidence:** [https://paimon.moe/wish/tally](https://paimon.moe/wish/tally), [https://paimon.moe/wish/tally/300012](https://paimon.moe/wish/tally/300012) and [https://paimon.moe/wish/tally/400011](https://paimon.moe/wish/tally/400011)
+**Evidence:** [Wish Tally 1](https://paimon.moe/wish/tally), [Wish Tally 2](https://paimon.moe/wish/tally/300012) and [Wish Tally 3](https://paimon.moe/wish/tally/400011)
 
 The second link shows that the probability of rolling a 5-Star massively increased on the 74th roll, as opposed to the 75th, and the third link shows that the probability for rolling a featured weapon on the weapon banner massively increased on the 63rd roll, not the 65th.
 

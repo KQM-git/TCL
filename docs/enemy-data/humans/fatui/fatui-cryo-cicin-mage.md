@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 66% HP       | 1 Orb | common  |
-| 33% HP       | 1 Orb | common  |
-| Death        | 1 Orb | common  |
+| 66% HP       | 1 Orb | Clear  |
+| 33% HP       | 1 Orb | Clear  |
+| Death        | 1 Orb | Clear  |
 
 ## Resistance Table
 

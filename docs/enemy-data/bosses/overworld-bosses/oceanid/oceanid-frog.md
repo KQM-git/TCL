@@ -42,4 +42,4 @@ Unknown.
 ## Attacks
 
 * Can use various Skills such as water splash, tackle, and pounce.
-* Upon death, the frog creates a water bomb that explodes in a massive AoE at its' height level.
+* Upon death, the frog creates a water bomb that explodes in a massive AoE at its height level.

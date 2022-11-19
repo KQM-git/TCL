@@ -14,10 +14,10 @@ Face.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 75% HP       | 1 Particle | common  |
-| 50% HP       | 1 Particle | common  |
-| 25% HP       | 1 Particle | common  |
-| Death        | 1 Orb      | common  |
+| 75% HP       | 1 Particle | Clear  |
+| 50% HP       | 1 Particle | Clear  |
+| 25% HP       | 1 Particle | Clear  |
+| Death        | 1 Orb      | Clear  |
 
 ## Resistance Table
 
@@ -48,7 +48,7 @@ Face.
 
 ## Attacks
 
-* Slowly charges up a swing of its' axe, followed up by a second slowly charged swing.
+* Slowly charges up a swing of its axe, followed up by a second slowly charged swing.
 * If the player can't be reached by other attacks, digs in the ground for a Pyro slime to throw at the player.
 * Spins with the axe wildly, dealing rapid damage.
-* Jumps up then slams the ground with its' axe, dealing AoE DMG. When the axe is ignited, it will emit multiple fiery blasts around it.
+* Jumps up then slams the ground with its axe, dealing AoE DMG. When the axe is ignited, it will emit multiple fiery blasts around it.

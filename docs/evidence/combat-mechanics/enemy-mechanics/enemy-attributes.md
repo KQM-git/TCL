@@ -78,7 +78,7 @@ Overall useful information for people looking to clear abyss/domains
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865014289025466392_865729755093008415_transcript-bubble-persists-on-swap.html)
 
 **Finding:**  
-The bubble from the Hydro Abyss Mages and their Hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the Hydro bubble will persist on the character that was initially hit for approximately 5 seconds
+The bubble from the Hydro Abyss Mages and their Hydro bubble spawning mechanic can be effectively i-framed by swapping characters at the precise moment. However, the Hydro bubble will persist on the character that was initially hit for approximately 5 seconds
 
 **Evidence:**  
 [Imgur](https://imgur.com/3gLxkSv)  
@@ -87,7 +87,7 @@ The bubble from the Hydro Abyss Mages and their Hydro bubble spawning mechanic c
 [Imgur](https://imgur.com/J2UXMr4)
 
 **Significance:**  
-Dash iframes do not always work against the bubbles, especially for the abyss mage ones which home onto the character even after iframing through it. While the character initially hit still takes damage from the bubble, the dangerous CC effect of the bubble can be ignored, which makes dealing with the bubbles without ult iframes a lot easier.
+Dash i-frames do not always work against the bubbles, especially for the abyss mage ones which home onto the character even after iframing through it. While the character initially hit still takes damage from the bubble, the dangerous CC effect of the bubble can be ignored, which makes dealing with the bubbles without ult i-frames a lot easier.
 
 ### CO-OP Hydro Abyss Mage Bubble
 

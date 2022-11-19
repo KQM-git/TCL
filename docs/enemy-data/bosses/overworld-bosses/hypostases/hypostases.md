@@ -99,7 +99,7 @@ Code name: Daleth. A high-purity Cryo entity.Research suggests that there are su
 * Creates a barrier of detonating icicles around itself while spawning icicles where the player is standing with a short delay.
 * Quickly flies next to the player and forms a large wall, which folds in a "clapping" motion very quickly, dealing damage in an area in front of the wall.
 * Transforms into a wheel that travels in a straight line towards the player that leaves a damaging Cryo trail behind it. This attack may turn up to three times in a row.
-* Flies into the air and forms a rhombus with its' shell pieces before firing each of them at the player.
+* Flies into the air and forms a rhombus with its shell pieces before firing each of them at the player.
   * The trajectory of these projectiles is curved.
   * The core is exposed during this attack.
 * Forms a "skirt" of icicles which it shoots in three rings of increasing diameter. The last ring creates an area of Cryo that damages the player when stood on or jumped over.
@@ -137,12 +137,12 @@ Code name: Aleph. A high-purity Electro entity. Elemental hypostases are the hig
 * Flies next to the player and turns into a giant fist, punching in the player's direction. Then, turns into giant scissors and deals damage in a "cutting" motion. Finally, turns into a giant hand and slaps the ground in front of it.
   * Sometimes only performs 1 or 2 of the attacks, but will always perform them in the given order.
 * Turns into a giant drill and spins across the arena.
-* Moves to the center of the arena and forms a spinning dome formation with its' shell while sending out many small waves of shell pieces.
+* Moves to the center of the arena and forms a spinning dome formation with its shell while sending out many small waves of shell pieces.
 * Sends shell pieces into the sky and rains them down in an octagon formation around the player, trapping them, before raining lightning in the cage.
   * The cage can be broken by attacking the pillars with Elemental damage.
   * The core will be exposed during this attack.
   * This attack is usually performed only when the player takes too long to defeat the Electro Hypostasis.
-* Forms a ring around its' core with its' shell pieces and fires lasers out in 4 directions. The ring will then rotate, the lasers moving with it. When the lasers turn off, the shell pieces quickly converge on the core.
+* Forms a ring around its core with its shell pieces and fires lasers out in 4 directions. The ring will then rotate, the lasers moving with it. When the lasers turn off, the shell pieces quickly converge on the core.
   * The core will be exposed during this attack.
 * When HP is low (approx. 5%), teleports to the center of the arena and forms 3 Electro Prisms, which can only be damaged by Elemental aura application. After 15 seconds, absOrbs the Prisms and heals for 15%/35%/50% of its HP for 1/2/3 prisms absOrbed.
   * If a Prism is destroyed, it does not add to the healing and does not respawn next time the Electro Hypostasis uses this ability.
@@ -172,8 +172,8 @@ Code name: Gimel. A high-purity Geo entity. Elemental hypostases are ultra-compa
 
 * For most of the attacks below, the core will be exposed for a few seconds after the boss uses the attack. Use this opportunity to deal damage to the boss.
 * Summons 4 pillars in a large triangle formation around the arena, it will sit on one at a time and teleport between them.
-* Flies into the air and forms a rhombus with its' shell pieces before absOrbing them all and using them to fire a continuous stream of stone pellets.
-* Teleports next to the player and forms its' shell pieces into a giant hammer that it smashes into the ground, sending out a shockwave in front of it.
+* Flies into the air and forms a rhombus with its shell pieces before absOrbing them all and using them to fire a continuous stream of stone pellets.
+* Teleports next to the player and forms its shell pieces into a giant hammer that it smashes into the ground, sending out a shockwave in front of it.
   * This attack can only be used once all of the Hypostasis' pillars have been destroyed.
 * Quickly flies next to the player and forms a large wall, which folds in a "clapping" motion very quickly, dealing damage in an area in front of the wall.
 * Floats into the air and forms a sort of flat, plated formation out of shell pieces while channeling a Geo seal around the player. After a few seconds, it will break the seal and instantly summon a large, damaging pillar at the player's location.
@@ -221,7 +221,7 @@ Code Name: Ayin. A high-purity Pyro entity. Elemental hypostases have the abilit
 * Arranges itself into a Pyro Serpent that fires 3 damaging fireballs at the player's general location.
 * Forms a giant ball that cracks open slowly. After some time, it causes a heavy explosion that does massive AoE Pyro DMG over the whole field.
   While in Extinguished State:
-* Flies into the air and forms a rhombus with its' shell pieces, firing them quickly from top to bottom.
+* Flies into the air and forms a rhombus with its shell pieces, firing them quickly from top to bottom.
   * The core will be exposed during this attack.
 * Creates a barrier of sorts around itself, targeting random areas and sending a Pyro pillar at said locations, before recalling them, leaving a patch of fire in said area.
 * Spins around while taking on the form of a rocket, deploying three Fire Seeds to reignite itself.

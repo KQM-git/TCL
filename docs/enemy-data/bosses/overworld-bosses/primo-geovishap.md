@@ -16,7 +16,7 @@ Unknown.
 
 Starts the battle with +200% Resistances for a few seconds.  
 Gains +30% Resistance to the infused Element.  
-Loses -50% Resistance to all after its' attack is reflected.
+Loses -50% Resistance to all after its attack is reflected.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |

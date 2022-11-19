@@ -338,7 +338,7 @@ The curious part is how 2 different crystal damages share the same level.
 
 * [I went and got hit by every single Electro crystal on the map with no stat change or effects to affect the damage taken](https://www.youtube.com/watch?v=R738dkn2A4Q)
 * [the last 3 are in a different video that might as well be excluded as it provides nothing new](https://www.youtube.com/watch?v=plkvuafVyKo)
-* [Electro-charged testing result proof](https://www.youtube.com/watch?v=MI7gNlhEmbg)
+* [Electro-Charged testing result proof](https://www.youtube.com/watch?v=MI7gNlhEmbg)
 
 **Significance:**  
 Ruining kid's trust in miHoYo's consistancy, fluff, learning how the world is made
@@ -609,7 +609,7 @@ Understanding the cursed overworld of Teyvat.
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854439111430635560_858186241102446602_transcript-cursed-terrain-electrified-environment-reaction.html)
 
 **Theory:**  
-Genshin's overworld works under a different set of reaction rules than the players, additionally supported by the entry [Overworld Entities Have Levels](../../evidence/general-mechanics/overworld.md#overworld-entities-have-levels), one of those different rules of reactions is Electrified water, when applying Electro to water, it does not produce Electro-charged, instead it infuses the water with Electro for a few seconds, which does not apply Electro, does not spread, and is not affected by 4TF set bonus, this electrified water can damage both the player and enemies. Water additionally is seen as friend to both player and enemy, which questions the nature of this Electrified reaction even further.
+Genshin's overworld works under a different set of reaction rules than the players, additionally supported by the entry [Overworld Entities Have Levels](../../evidence/general-mechanics/overworld.md#overworld-entities-have-levels), one of those different rules of reactions is Electrified water, when applying Electro to water, it does not produce Electro-Charged, instead it infuses the water with Electro for a few seconds, which does not apply Electro, does not spread, and is not affected by 4TF set bonus, this electrified water can damage both the player and enemies. Water additionally is seen as friend to both player and enemy, which questions the nature of this Electrified reaction even further.
 
 **Evidence:**  
 Electrified water evidence, including 4TF attempts, enemy taking damage, as well as water never being a trigger to any reaction, only aura, as it's friendly to both parties: [Video](https://www.youtube.com/watch?v=zuS2G0SUkHc)
@@ -1208,8 +1208,8 @@ Method used to get translation vector:
 6. If you managed to find the pin you created, it should have values `{ x_pos: 749.9086303710938), y_pos: 2329.9357585906982 }` - this represents the translation vector.
 
 **Images:**  
-Map center pin: [https://i.imgur.com/D43fqoJ.jpg](https://i.imgur.com/D43fqoJ.jpg)  
-Screenshot from this pin: [https://i.imgur.com/ym4TOvB.png](https://i.imgur.com/ym4TOvB.png)
+Map center pin: [YouTube](https://i.imgur.com/D43fqoJ.jpg)  
+Screenshot from this pin: [YouTube](https://i.imgur.com/ym4TOvB.png)
 
 Method used to figure out directions:
 
@@ -1219,7 +1219,7 @@ Method used to figure out directions:
 4. Perform the same action but for interactive map. Now play around with coordinates and decide whether you need to multiply scalar by (-1) or not in translation function.
 5. In our case, in-game -> interactive map requires (-1) on both scalars.  
    Image representing coordinate axises (assumes `center=x,y` format):  
-   [https://i.imgur.com/rEy06Mq.png](https://i.imgur.com/rEy06Mq.png)
+   [YouTube](https://i.imgur.com/rEy06Mq.png)
 
 Method used to get in-game -> interactive map scale:
 
@@ -1783,7 +1783,7 @@ Some things reflects, mostly fluff. Genshin is wonk game.
 
 **Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
 
-**Evidence:** [https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
+**Evidence:** [YouTube Playlist](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
 
 **Significance:** This explains some strange damage numbers when fighting enemies in the overworld
 
@@ -1798,7 +1798,7 @@ Some things reflects, mostly fluff. Genshin is wonk game.
 Environment uses a different set of reaction bases than players, thanks to the EM buffs and my prior testing of Electro crystal levels, we can conclude that although the value at release was the same as for the player, now it's different, with the player having a new one, and the Electro crystals using the old, unchanged base.
 
 **Evidence:**  
-The video shows a level 84 Electro-charged tick of the pre 1.6 base (1243)  
+The video shows a level 84 Electro-Charged tick of the pre 1.6 base (1243)  
 [Video](https://www.youtube.com/watch?v=ClyLEKYV6uI)
 
 **Significance:**  
@@ -1813,7 +1813,7 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 
 **Theory:** Genshin remembers your location and world state(such as bosses) in different map tabs separately.
 
-**Evidence:** Anemo hypostasis and other world bosses normally respawn after 3 minutes and teleporting away&back (as shown at the end), but doesn't respawn after going to the Archipelago, additionally teapot shows that it remembers your ogriginal location in Teyvat upon leaving: [Video](https://youtu.be/oeCJF5fXqqMkqm)
+**Evidence:** Anemo Hypostasis and other world bosses normally respawn after 3 minutes and teleporting away&back (as shown at the end), but doesn't respawn after going to the Archipelago, additionally teapot shows that it remembers your ogriginal location in Teyvat upon leaving: [Video](https://youtu.be/oeCJF5fXqqMkqm)
 
 **Significance:** It'll be relevant whenever more overworld mechanics are added which refresh when tping in/out or if we get more map tabs.
 

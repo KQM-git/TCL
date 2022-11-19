@@ -20,7 +20,7 @@ search: false
 **By:** Clear_Storm\#9388, Khezu\#4363  
 **Added:** <Version date="2022-09-04" />  
 **Last tested:** <Version date="2022-09-04" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-ATK-buff)
+[Discussion](https://tickets.deeznuts.moe/transcripts/mc-base-atk-buff)
 
 **Finding:**  
 After a certain quest chain in Chapter III: Act I of the Sumeru Archon Quest, the Traveler obtains a Base ATK buff of exactly 3 Base ATK. This buff persists on every Element and is permanent.  
@@ -56,7 +56,7 @@ For updated stats and calculation purposes.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876140744275005540_877470462693756928_transcript-geo-mc-boulder-can-be-manually-exploded.html)
 
 **Finding:**  
-Geo MC Starfell Swords can be manually detonated by over-capping on the maximum amount of Geo construct.
+Geo MC Starfell Swords can be manually detonated by over-capping on the maximum amount of Geo Constructs.
 
 **Evidence:**  
 Evidence 1: [Imgur](https://imgur.com/a/mACZf89)  
@@ -145,7 +145,7 @@ Another possible significance is that this might be a clue to how the Travelers 
 Geo MC C1 10% CRIT Rate buff becomes active after stone wall is created and does not affect the Burst itself upon activation
 
 **Evidence:**
-[https://youtu.be/DBMJEKuABes](https://youtu.be/DBMJEKuABes)  
+[YouTube](https://youtu.be/DBMJEKuABes)  
 Video shows Geo MC with c6 and >90% CRIT Rate not scoring CRIT hits on 3rd hit of his Q.
 If the CRIT bonus applied to Burst damage, it would be impossible to not CRIT.
 
@@ -187,7 +187,7 @@ Wake of Earth has some weird properties. Wake of Earth can go invisible if you t
 [Video 2](https://imgur.com/MsDWZ3s)
 
 **Significance:**  
-There's probably more things we don't understand about Geo construct behavior, and this might help us understand why the stone walls from Wake of Earth do not count for the Geo construct limit.
+There's probably more things we don't understand about Geo Constructs behavior, and this might help us understand why the stone walls from Wake of Earth do not count for the Geo Constructs limit.
 
 ---
 
@@ -253,7 +253,7 @@ It is possible for Xiao to not get the CRIT buff if he:
 
 * Jumps way too high \(such as through collision\).
 * Dash-jumps then lingers on the air slightly .
-* Takes off from Geo constructs such as Albedo's Solar Isotoma or Zhongli's Stone Stele, and potentially GMC's Meteorite if they linger on the air too long.
+* Takes off from Geo Constructss such as Albedo's Solar Isotoma or Zhongli's Stone Stele, and potentially GMC's Meteorite if they linger on the air too long.
 
 However, the CRIT buff reapplies itself when you get close to the ground.
 
@@ -308,7 +308,7 @@ Sayu: 12%
 ---
 
 **Finding 8:**  
-Standing on the meteorite does not remove the Stonewall buff. However, standing on taller Geo constructs such as Zhongli's Stone Stele means losing the CRIT buff as it is already out of range.
+Standing on the meteorite does not remove the Stonewall buff. However, standing on taller Geo Constructss such as Zhongli's Stone Stele means losing the CRIT buff as it is already out of range.
 
 **Evidence:**  
 CRIT Rate: 11.2% \-\> 21.2%  

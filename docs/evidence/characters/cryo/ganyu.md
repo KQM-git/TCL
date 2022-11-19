@@ -108,11 +108,11 @@ These distance calculations will allow for players to have a better understandin
 
 **Finding:**
 
-The Bloom damage from Ganyu’s frost flake arrow is considered to be a Charged Attack along with the initial arrow itself, meaning that both the Bloom and the arrow are affected by Charged Attack multipliers such as the ones received from 4-Piece Wanderers Troupe, Bolide, and Heart of Depth.
+The Bloom damage from Ganyu’s Frostflake Arrow is considered to be a Charged Attack along with the initial arrow itself, meaning that both the Bloom and the arrow are affected by Charged Attack multipliers such as the ones received from 4-Piece Wanderers Troupe, Bolide, and Heart of Depth.
 
 **Evidence:**
 
-User Poyo tested Ganyu’s frost flake arrow with the 4-Piece Wanderers Troupe set, then swapped out a piece of the set with similar sub stats to test if there would be a significant damage difference in Bloom damage between having the 35% charge ATK Bonus, and not. The following findings show that there is indeed a significant damage difference when equipping the 4-Piece Wanderer’s Troupe set, implying that the Bloom is considered a Charged Attack, and is in turn affected by Charged Attack multipliers.
+User Poyo tested Ganyu’s Frostflake Arrow with the 4-Piece Wanderers Troupe set, then swapped out a piece of the set with similar sub stats to test if there would be a significant damage difference in Bloom damage between having the 35% charge ATK Bonus, and not. The following findings show that there is indeed a significant damage difference when equipping the 4-Piece Wanderer’s Troupe set, implying that the Bloom is considered a Charged Attack, and is in turn affected by Charged Attack multipliers.
 
 [Wanderer Troupe Bloom damage test](https://youtu.be/b2F6swCa4pI)
 
@@ -305,7 +305,7 @@ Ganyu’s Q creates 50 icicles in 15 seconds, or 1 every 0.3 seconds.
 
 **Evidence:**
 
-Shard hit the ground in a 18 frame interval \(at 60 fps\) or 9 frames in 30 fps.
+Shard hit the ground in a 18 frame interval \(at 60 FPS\) or 9 frames in 30 FPS.
 
 [Icicle drop counting](https://youtu.be/RRHQGWOG-jg)
 
@@ -325,7 +325,7 @@ Ganyu’s Q, Celestial Shower, drops an icicle on a random enemy that has not be
 
 **Evidence:**
 
-User Artesians\#0002 walked into F12 and up to the hypostasis, used Ganyu’s Q, and counted the frames it took for an icicle to spawn above an enemy:
+User Artesians\#0002 walked into F12 and up to the Hypostasis, used Ganyu’s Q, and counted the frames it took for an icicle to spawn above an enemy:
 
 [Ganyu's Q against an isolated enemy in a group](https://imgur.com/a/BqGoWe2)
 
@@ -335,7 +335,7 @@ In the video, the icicle spawns at frames: 603, 710, and 818.
 
 108/60 = 1.8s
 
-It was tested against the hypostasis, and it took again 108 frames exactly for an icicle to spawn above it; however, these results were later disproved by other clips and testing where an ICD was seemingly 1.5s.
+It was tested against the Hypostasis, and it took again 108 frames exactly for an icicle to spawn above it; however, these results were later disproved by other clips and testing where an ICD was seemingly 1.5s.
 
 Thus, a series of experiments were conducted on groups of 1, 5, 6, and 7 enemies within Ganyu ultimate. At around 10 seconds, a hillichurl breaks out from the pack and 4 icicles are dropped randomly amongst the 6 other targets, but he is struck again by the 5th icicle:
 
@@ -381,7 +381,7 @@ This finding implies that Ganyu’s overall Elemental Burst damage spikes signif
 
 **Finding:**
 
-Ganyu’s A1 Passive does not apply to itself. Meaning the Bloom from the first frostflake arrow shown within 5 seconds will not have an increased CRIT Rate
+Ganyu’s A1 Passive does not apply to itself. Meaning the Bloom from the first Frostflake Arrow arrow shown within 5 seconds will not have an increased CRIT Rate
 
 **Evidence:**
 
@@ -409,7 +409,7 @@ With these two things in mind, as long as the FrostFlakeArrow is fired within 5 
 
 **Evidence:**
 
-The activation of the A1 Passive is visible after Ganyu shoots a frost flake arrow \(as can be seen from the yellow visual effect around Ganyu\) and the effect persists after swap:
+The activation of the A1 Passive is visible after Ganyu shoots a Frostflake Arrow \(as can be seen from the yellow visual effect around Ganyu\) and the effect persists after swap:
 
 [A1 Passive swap test](https://youtu.be/G_4Jn1xxwG0)
 
@@ -453,7 +453,7 @@ These findings are important for Ganyu players to know as their Elemental Bursts
 
 **Finding:**
 
-Both Ganyu’s frost flake arrow \(on release\) as well as Ganyu’s Elemental Burst \(on initial cast\) are snapshot in nature, meaning that any buffs or effects applied to the character will only affect them if they are on Ganyu during the initial release, and cast respectively
+Both Ganyu’s Frostflake Arrow \(on release\) as well as Ganyu’s Elemental Burst \(on initial cast\) are snapshot in nature, meaning that any buffs or effects applied to the character will only affect them if they are on Ganyu during the initial release, and cast respectively
 
 **Evidence:**
 
@@ -503,7 +503,7 @@ Ganyu's rng ult icycles are more likely to hit a target(beyond the base 10) if t
 Azhdaha 50 hits: [Video](https://www.bilibili.com/video/BV13N411Z7JM#reply4609628931)  
 Hilichurl 13/11/16/11/16/14 hits: [Video](https://www.youtube.com/watch?v=Q9o8kJpU-5Q)  
 Humanoid 11/12/10/13/10 hits: [Video](https://www.youtube.com/watch?v=OsArJAXUBsI)  
-Fat fatui 14/12/12/11/15/14 hits: [Video](https://www.youtube.com/watch?v=sCqHL1BjkBU)  
+Fat Fatui 14/12/12/11/15/14 hits: [Video](https://www.youtube.com/watch?v=sCqHL1BjkBU)  
 Geo Vishap 20/19/23/25/22/18 hits: [Video](https://www.youtube.com/watch?v=TOjnzXt-Thg)  
 Primo Vishap 25/24/23/24/19/26/22/23/21 hits: [Video](https://www.youtube.com/watch?v=CLAbZ-wppuE)  
 Geo Lawachurl 14(ran outside)/17/18/16/17 hits: [Video](https://www.youtube.com/watch?v=k6aLvC-MKKM)  
@@ -629,7 +629,7 @@ Ganyu’s Frostflake arrow when shot on water applies the ice effect for long en
 
 **Evidence:**
 
-User ColaSen tested shooting frostflake arrows repeatedly to try and travel across water and found that there was just enough time to be able to build a constant bridge if you are fast enough with your Frostflake arrows.
+User ColaSen tested shooting Frostflake Arrow arrows repeatedly to try and travel across water and found that there was just enough time to be able to build a constant bridge if you are fast enough with your Frostflake arrows.
 
 [Ice bridge building](https://youtu.be/UOwOaSW7bt4)
 

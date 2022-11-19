@@ -94,7 +94,7 @@ Fischl's Energy generation is better than previously thought. Most tools and gui
 **Last tested:** <VersionHl date="2021-05-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839862552401674240_839936289129365625_transcript-fischl-ult-can-iframe.html)
 
-**Finding:** Fischl ult has a tiny window that you can use to iframe through attacks.
+**Finding:** Fischl ult has a tiny window that you can use to i-frame through attacks.
 
 **Evidence:** [Video showing no HP loss when Ruin Guard lands](https://youtu.be/7RPfSWwUOLM0)
 
@@ -235,7 +235,7 @@ Fischl's a4 proc rate appears to be less than 1 second, and instead seems to be 
 
 [\[Video\] Appears to be about 0.5s-0.6s cooldown](https://www.youtube.com/watch?v=48Dg_i8PcYY) \(0.5s if judging from the first frame of each damage number appearing, 0.6s if judging from the first frame of the lightning bolt animation\)
 
-[\[\Video\] Using Swirl + Electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQ) \(judging from the first frame of the lightning bolt animation\)
+[\[\Video\] Using Swirl + Electro-Charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQ) \(judging from the first frame of the lightning bolt animation\)
 
 **Significance:**
 
@@ -331,7 +331,7 @@ Helps with accurate calculations as well as rotation crafting.
 **Finding/Bug:** Fischl's C6's joint attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like XQ Rain Swords.
 
 **Evidence:**  
-[https://youtu.be/ToUhrbPSKxc](https://youtu.be/ToUhrbPSKxc)
+[YouTube](https://youtu.be/ToUhrbPSKxc)
 
 **Significance:** Fairly important to calcs involving C6 Fischl
 
@@ -385,7 +385,7 @@ Helps with accurate calculations as well as rotation crafting.
 
 I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are Anemo which will Swirl the Electro debuff on the enemy.
 
-Upon testing, as expected: it works, and yes Lightning Smite also CRITs!
+Upon testing, as expected: it works, and Lightning Smite can also CRIT.
 
 **Evidence:**
 

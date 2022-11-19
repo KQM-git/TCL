@@ -38,7 +38,7 @@ Overloaded, also known as Overload, is an Elemental Reaction triggered by applyi
 
 * You can trigger Overload on electrocuted bodies of water.
 
-Overload has a reaction specific ICD of 0.5 sec where enemies overloaded or hit by the aoe caused by an Overload procced by one character are then immune to the damage caused by Overload procced by that character for 0.5 seconds. They still suffer gauge reduction and stagger, even without taking damage.
+Overload has a reaction specific ICD of 0.5 sec where enemies overloaded or hit by the AoE caused by an Overload procced by one character are then immune to the damage caused by Overload procced by that character for 0.5 seconds. They still suffer gauge reduction and stagger, even without taking damage.
 
 ## Superconduct
 
@@ -136,7 +136,7 @@ Swirl is an Elemental Reaction triggered by applying Anemo to a target already a
 * Environmental Element sources \(such as campfires and burning grass\) can be swirled.
 * Swirl is an separate effect from [Elemental Absorption](../../evidence/combat-mechanics/elemental-effects/elemental-absorption.md).
 
-When a Swirl reaction occurs and the AOE effect of the Swirl reaction meets another enemy with an aura, the swirled Element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
+When a Swirl reaction occurs and the AoE effect of the Swirl reaction meets another enemy with an aura, the swirled Element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
 It is possible to simultaneously trigger two swirls on one target from the same Anemo hit if the target has two Swirl-applicable auras, such as an Electro-Charged enemy or a Frozen enemy with an underlying Hydro aura. This double Swirl can only occur when the gauge reduction from the Anemo hit is greater than the Electro gauge \(in the case of Electro-Charged\) or the Hydro gauge \(in Frozen/Hydro\). If this condition is not met, the Anemo attack will only Swirl Electro \(for Electro-Charged\) or Hydro \(for Freeze/Hydro\).
 

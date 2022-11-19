@@ -113,13 +113,13 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
   * 4U: 16.8s duration, decays at 1 unit per 4.2s \(16.8/4\)
     * 4U has the highest duration, but also highest unit decay rate.
 
-### Transformative Reactions \(excluding Electro-charged, Crystallise, and Swirl\)
+### Transformative Reactions \(excluding Electro-Charged, Crystallise, and Swirl\)
 
 * When you apply an Elemental trigger, it subtracts the corresponding number of Elemental units from the enemy’s existing gauge.
 * For example, Kaeya E \(2U\) is casted onto a hilichurl. Then, it is hit by a Fischl Charged Shot \(1U\).
   * Fischl’s Charged Shot is a 1U Electro Skill so it will subtract 1 unit from the existing Cryo gauge. 1 unit of Cryo will remain.
 * Triggers will remove a certain number of units from the existing gauge. If the amount being subtracted is greater than the original amount, THE REACTION WILL STILL OCCUR. Afterwards, the status bar is cleared after the reaction.
-* Please note that triggers will not add any aura/gauge of their own \(Electro-charged is an exception\). Triggers will only remove units from existing gauges.
+* Please note that triggers will not add any aura/gauge of their own \(Electro-Charged is an exception\). Triggers will only remove units from existing gauges.
 * Remember that gauges also have a natural decay rate
 
 ### Why is decay rate significant?
@@ -181,9 +181,9 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
 * Significance
   * Geo/Anemo abilities generally allow for the existing Elemental aura to persist whereas other Elemental abilities would rapidly consume the aura and trigger other reactions.
 
-### \(WIP\) Electro-charged \(WIP\)
+### \(WIP\) Electro-Charged \(WIP\)
 
-* Electro-charged \(EC\) is unique because both Hydro and Electro simultaneously function as both auras and triggers. In addition, both auras can co-exist on an enemy.
+* Electro-Charged \(EC\) is unique because both Hydro and Electro simultaneously function as both auras and triggers. In addition, both auras can co-exist on an enemy.
 * In Electro-Charged, either an Electro or a Hydro aura is first applied to the enemy. Then, the other aura is applied which triggers the first “tick” of Electro-Charged.
 * EC will continue to tick at an interval of once per second as long as sufficient Electro and Hydro gauge remains except in the following cases
   * When either the Electro or Hydro gauge completely decays, the next Electro-Charged tick will prematurely occur at the moment at which the gauge completely decayed.
@@ -256,7 +256,7 @@ Please note that Gauge Units are not a direct conversion from Elemental aura dur
 ### How are Gauge Units consumed in Transformative reactions \(except Swirl and Crystallise\)?
 
 * Transformative reactions are Overload, Superconduct, Shatter, and Frozen
-  * \*\*\*We are still testing to see how Electro-charged fits into the Gauge Unit Theory
+  * \*\*\*We are still testing to see how Electro-Charged fits into the Gauge Unit Theory
 * The U aura dictates the maximum number of Elemental reactions possible.
   * A 2U aura allows for 2 x 1U triggers \(2 reactions\)
   * A 4U aura allows for 4 x 1U triggers \(4 reactions\)
@@ -268,9 +268,9 @@ Please note that Gauge Units are not a direct conversion from Elemental aura dur
   * Diluc E \(1U Pyro\) &gt; Fischl Charged shot \(1U Electro\) &gt; gauge emptied
   * Diluc applies 1 unit of Pyro. Fischl Charged shot deducts 1 unit of Pyro. Gauge is depleted and no aura remains.
 
-### How are Gauge Units consumed in Amplifying reactions?
+### How are Gauge Units consumed in Amplifying Reactions?
 
-* Amplifying reactions are Melt and Vaporize
+* Amplifying Reactions are Melt and Vaporize
 * Elemental triggers have a 0.5x or 2.0x gauge unit multiplier depending on the reaction.
 * Summary
   * In Melt
@@ -525,7 +525,7 @@ Better understanding of Freeze.
 Contrary to what is stated in the evidence linked on the [Gauge Unit Theory](../../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence), taxation does not cause you to lose 20% of the gauge in the first 5% of the duration (hereinafter Hypothesis 1), but is applied instantly (hereinafter Hypothesis 2). Both hypothesis use the same total aura duration when no reactions occur.
 
 **Evidence:**  
-Duration testing was done on a 4A aura with 3U subtracted: [https://youtu.be/0hHF4GHo7uw](https://www.youtube.com/watch?v=0hHF4GHo7uw)
+Duration testing was done on a 4A aura with 3U subtracted: [YouTube](https://www.youtube.com/watch?v=0hHF4GHo7uw)
 
 According to Hypothesis 1, the aura should last `4 * 9.5 * 0.05 + 0.2 / 3.2 * 4 * 9.5 * 0.95 = 4.15625s` after initial application
 whereas according to Hypothesis 2, the aura should last only `0.2 / 3.2 * 38 = 2.375s` after initial application.

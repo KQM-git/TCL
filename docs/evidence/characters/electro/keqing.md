@@ -18,7 +18,7 @@ search: false
 
 ## Attack Mechanics
 
-### Keqing N4 has no iframe
+### Keqing N4 has no i-frame
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
@@ -355,7 +355,7 @@ Calculating Keqing Energy needs with C2 in mind is hard to do with its inconsist
 Recording: Done at 60fps confirmed using Fraps  
 Command Input: Assisted by Logitech Gaming Software 9.02 to make sure there's no delay between attack inputs
 
-Key Frames during each attack were identified and used to line up the different attack strings \([https://youtu.be/caogb3dXsSM](https://youtu.be/caogb3dXsSM)\). The points at which the recordings diverged were marked and identified as the beginnings and ends of each attack. Some of which were quite noticeable due to the animation snapping from one frame to another.
+Key Frames during each attack were identified and used to line up the different attack strings \([YouTube](https://youtu.be/caogb3dXsSM)\). The points at which the recordings diverged were marked and identified as the beginnings and ends of each attack. Some of which were quite noticeable due to the animation snapping from one frame to another.
 
 It can be noted that a 1-2 Frame discrepancy has been observed, however it doesn't seem related to the point in which the Charged Attack is inserted into the string as the Charged Attack frames are observed to be consistent at 46 frames.
 
@@ -383,11 +383,11 @@ Damage Values based on Talent Level 7 Yunlai Swordsmanship
 
 **Resources:**
 
-* N5 [https://youtu.be/4dzdrxfiOIQ](https://youtu.be/4dzdrxfiOIQ)
-* N1C N5 [https://youtu.be/eEVagGjS4Gw](https://youtu.be/eEVagGjS4Gw)
-* N2C N5 [https://youtu.be/yG0GDcGz-vk](https://youtu.be/yG0GDcGz-vk)
-* N3C N5 [https://youtu.be/XLbdet5WHos](https://youtu.be/XLbdet5WHos)
-* N4C N5 [https://youtu.be/Xm3GwFof-O4](https://youtu.be/Xm3GwFof-O4)
+* N5 [YouTube](https://youtu.be/4dzdrxfiOIQ)
+* N1C N5 [YouTube](https://youtu.be/eEVagGjS4Gw)
+* N2C N5 [YouTube](https://youtu.be/yG0GDcGz-vk)
+* N3C N5 [YouTube](https://youtu.be/XLbdet5WHos)
+* N4C N5 [YouTube](https://youtu.be/Xm3GwFof-O4)
 
 **Conclusion:**
 
@@ -432,14 +432,14 @@ All Talent % Taken at T6
   * 125 Frames
   * 655.8% Talent DMG
   * 314.8 MV/s
-  * [https://youtu.be/aykrDOLMphY](https://youtu.be/aykrDOLMphY)
+  * [YouTube](https://youtu.be/aykrDOLMphY)
 * Stellar Restoration Throw:
   * 34-35 Frames \(Measured until the Blink became available\)
 * Stellar Restoration Blink
   * 83-84 Frames
   * 306.6% Talent DMG
   * 219 - 221.16 MV/s
-  * [https://youtu.be/8K7dJGzNWzM](https://youtu.be/8K7dJGzNWzM)
+  * [YouTube](https://youtu.be/8K7dJGzNWzM)
 * Stellar Restoration Blink AT C1 with only 1 extra instance of damage
   * 83-84 Frames
   * 356.6% Talent DMG
@@ -451,7 +451,7 @@ All Talent % Taken at T6
   * 306.6% Talent DMG+ 296.25% \(N1C\)
   * 602.85% Total
   * 401.9 MV/s
-  * [https://youtu.be/DuFRto4rY_Q](https://youtu.be/DuFRto4rY_Q)
+  * [YouTube](https://youtu.be/DuFRto4rY_Q)
 
 **Significance:**
 

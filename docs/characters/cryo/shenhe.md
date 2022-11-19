@@ -136,7 +136,7 @@ import Skill from '@site/src/components/char/Skill'
 * Energy Consumption is on press.
 * DoT snapshots ATK Buffs and 2-Piece Noblesse but not Shenhe's **Deific Embrace** \(A1\).
 * RES Shred persists 2 seconds after **Divine Maiden's Deliverance** ends.
-* **Divine Maiden's Deliverance** does not have enough iframes for explosive barrel immunity.
+* **Divine Maiden's Deliverance** does not have enough i-frames for explosive barrel immunity.
 
 </TabItem>
 </Tabs>

@@ -129,9 +129,9 @@ You cannot snapshot Cryo Resonance or the Blizzard Strayer set bonuses for abili
 
 **Evidence**:
 
-* [https://www.youtube.com/watch?v=L5L42frtjsw](https://www.youtube.com/watch?v=L5L42frtjsw)
-* [https://www.youtube.com/watch?v=EvB8-4rAtsQ](https://www.youtube.com/watch?v=EvB8-4rAtsQ)
-* [https://www.youtube.com/watch?v=d_Zrx0KasDg](https://www.youtube.com/watch?v=d_Zrx0KasDg)
+* [YouTube](https://www.youtube.com/watch?v=L5L42frtjsw)
+* [YouTube](https://www.youtube.com/watch?v=EvB8-4rAtsQ)
+* [YouTube](https://www.youtube.com/watch?v=d_Zrx0KasDg)
 
 ### Blizzard Strayer does not work on 1st Cryo hit
 
@@ -261,25 +261,25 @@ Better understanding of Blizzard Strayer for reaction comps.
 
 No, it does not even if you have dealt &gt;80% DMG to the enemy.
 
-[https://youtu.be/U2VhOcQTlw4](https://youtu.be/U2VhOcQTlw4)
+[YouTube](https://youtu.be/U2VhOcQTlw4)
 
 ### 4-Piece Bloodstained Chivalry effect Persists through a Character Swap
 
 **By:** Cenpi\#3224
 
-Yes, it does[https://youtu.be/3y4R64qxzOs](https://youtu.be/3y4R64qxzOs)
+Yes, it does[YouTube](https://youtu.be/3y4R64qxzOs)
 
 ### 4-Piece Bloodstained Chivalry effect doesn’t proc if an Off-Field character takes the Kill
 
 **By:** Cenpi\#3224
 
-No, it does not.[https://youtu.be/zgyVLeUkFwU](https://youtu.be/zgyVLeUkFwU)
+No, it does not.[YouTube](https://youtu.be/zgyVLeUkFwU)
 
 ### 4-Piece Bloodstained Chivalry effect doesn’t proc if Holder gets a Kill while Off-Field
 
 **By:** Cenpi\#3224
 
-No, it does not.[https://youtu.be/zaDYictHFTc](https://youtu.be/zaDYictHFTc)
+No, it does not.[YouTube](https://youtu.be/zaDYictHFTc)
 
 ### 4-Piece Bloodstained Chivalry effect can be Maintained by Chain Killing Enemies
 
@@ -299,7 +299,7 @@ t=10, buff is still active
 
 t=18, buff deactivates
 
-[https://youtu.be/ufe9B4JR44w](https://youtu.be/ufe9B4JR44w)
+[YouTube](https://youtu.be/ufe9B4JR44w)
 
 **Additional Notes:**
 
@@ -345,8 +345,8 @@ The 4CW set adds 40% DMG to Overload reactions. If the Pyro holder drops a persi
 
 **Video evidence**
 
-* [https://youtu.be/PLlq0yDy5Bo](https://youtu.be/PLlq0yDy5Bo) - Overload DMG while CW holder inactive
-* [https://youtu.be/Lwvv_ZaV7fU](https://youtu.be/Lwvv_ZaV7fU) - Overload DMG while CW holder active
+* [YouTube](https://youtu.be/PLlq0yDy5Bo) - Overload DMG while CW holder inactive
+* [YouTube](https://youtu.be/Lwvv_ZaV7fU) - Overload DMG while CW holder active
 * Damage is the same
 
 **Significance**
@@ -457,7 +457,7 @@ The set doesn't actually work as described in-game.
 [Discussion](https://tickets.deeznuts.moe/transcripts/echoes-basic-mechanics)
 
 **Finding:**  
-Further data that could point to the set working as intended but be subject to ping/possibly low fps/character multihits quick enough to take advantage of the lag between server and client (like Zhongli, or indicates that his spearkick is simply working differently compared to other multihits).  
+Further data that could point to the set working as intended but be subject to ping/possibly low FPS/character multihits quick enough to take advantage of the lag between server and client (like Zhongli, or indicates that his spearkick is simply working differently compared to other multihits).  
   
 **Evidence:**  
 - A typical N5D of Zhongli results in a higher proc rate than a full Ayato E sequence at 200+ ms, because of the spearkick all proccing together, while Ayato has no multihits (1500 hits Zhongli has 47% proc rate vs 1573 hits Ayato has ~34% proc rate)  
@@ -589,9 +589,9 @@ valorha's Spreadsheet: [Google Sheets](https://docs.google.com/spreadsheets/d/10
 In continuation to the finding above, lower framerate *might* have an effect on the behavior of the set on Zhongli, particularly the spearkick, possibly lowering the proc rate.  
   
 **Evidence:**  
-I recorded 2 encounters with the same enemy, with the same set pieces and weapon, but on 1st encounter I had 60 fps, and on second 30 fps, totaling 36 combos for the 1st encounter and 33 for the 2nd.  
-In 60 fps, 17/18 times, the 4 hits of the spearkick procced together.  
-However, in 30 fps, at most only 3 hits of the spearkick did so.  
+I recorded 2 encounters with the same enemy, with the same set pieces and weapon, but on 1st encounter I had 60 FPS, and on second 30 FPS, totaling 36 combos for the 1st encounter and 33 for the 2nd.  
+In 60 FPS, 17/18 times, the 4 hits of the spearkick procced together.  
+However, in 30 FPS, at most only 3 hits of the spearkick did so.  
   
 Spreadsheet (2nd tab): [Google Sheets](https://docs.google.com/spreadsheets/d/10yMcbn1AkAHiyaPcwqddvX3Int-atCX5wJVtROjuvDs/edit?usp=sharing)  
 Video: [YouTube](https://youtu.be/jxNZBW_-pTc)  
@@ -946,7 +946,7 @@ Whether you should run 4NO.
 * OHC is indeed independent of enemy DEF. - [MeCrush14\#2271](https://youtu.be/9zZGMw_QWoQ)
 * 4-Piece OHC doesn't proc from Bennett's Burst after HP reaches 70%. - [Chalotte#5673](https://youtu.be/nWslJYFtyPY)
 * OHC counts initial heal as part of the clamage - [JonahFarc#7056](https://i.imgur.com/9q5tj44.mp4)
-* OHC AOE range is 5.5m radius and it can hit multiple target at once. - r.rei\#2844
+* OHC AoE range is 5.5m radius and it can hit multiple target at once. - r.rei\#2844
   * Evidence: [Abyss tile distance 1](https://i.imgur.com/PVudoeF.mp4) | [2](https://i.imgur.com/T7uKEgM.mp4) | [Hitting Multiple targets](https://youtu.be/GxC6ERBSYHY) | [Abyss tile distance (YouTube)](https://youtu.be/H9Zf-T2eDtU)
 * Revives such as Barbara C6 and Qiqi C6 count for clamage healing. - JonahFarc\#7056
   * Evidence: [Album](https://imgur.com/a/sM2tosa) | [Barbara Res Video](https://i.imgur.com/fkbMS5f.mp4) | [Qiqi Res Video](https://i.imgur.com/EX8jBKH.mp4)
@@ -1130,8 +1130,8 @@ Better understanding of OHC and what it benefits from.
 4pc PF buff does NOT buff the hit that triggered it, nor any hits following the trigger within a small window. The timing for when the buff begins is ping dependent.
 
 **Evidence:**  
-[60 fps, ~170 ping](https://youtu.be/UsAGiDnSfDo): 1st Icewhirl does 4495 damage, 2nd does 4653  
-[60 fps, ~190 ping](https://youtu.be/lXum52FjDGM): 1st Icewhirl does 4495 damage, 2nd does 4495
+[60 FPS, ~170 ping](https://youtu.be/UsAGiDnSfDo): 1st Icewhirl does 4495 damage, 2nd does 4653  
+[60 FPS, ~190 ping](https://youtu.be/lXum52FjDGM): 1st Icewhirl does 4495 damage, 2nd does 4495
 
 Rotation: (prestack 2 Grimheart), with 0 PF stacks to start (let it expire before Hold E), Hold E (no buff), 1st Ice (no buff), 2nd Ice (9% ATK), A1 (Full buff) at ping from 0 to ~185. Above 185 ping, both Icewhirls are unbuffed.
 
@@ -1340,7 +1340,7 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to K
 
 * 4TF holders who trigger reactions while not on the field will not get the 1s CDR.
 
-### Frame Analysis of 4-Piece Thundering Fury and Electro-charged Interactions
+### Frame Analysis of 4-Piece Thundering Fury and Electro-Charged Interactions
 
 **By:** Doug\#8888, ayynish\#5408
 
@@ -1348,7 +1348,7 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to K
 
 4 set Thundering Fury has 2 effects
 
-* +40% reaction damage to Superconduct, Overload, and Electro-charged
+* +40% reaction damage to Superconduct, Overload, and Electro-Charged
 * Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.
 
 **Theory**
@@ -1367,7 +1367,7 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to K
 * Frame 0
   * 6.8 E CD becomes visible
 * Frame 3
-  * Electro-charged font becomes visible
+  * Electro-Charged font becomes visible
 * Frame 4
   * 4TF effect is triggered
   * This is denoted by the white flash on the E circle and reduction of the cooldown to 5.8s
@@ -1410,11 +1410,11 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to K
 
 **Evidence**:
 
-I have 2 examples where this can be observed. The first one uses XQ's Skill, where we see 4TF triggered repeatedly even without XQ doing any damaging moves \(Oz deals damage, but he is the aura, not trigger for Electro-Charged\). [https://youtu.be/qSEwlawImHU](https://youtu.be/qSEwlawImHU)
+I have 2 examples where this can be observed. The first one uses XQ's Skill, where we see 4TF triggered repeatedly even without XQ doing any damaging moves \(Oz deals damage, but he is the aura, not trigger for Electro-Charged\). [YouTube](https://youtu.be/qSEwlawImHU)
 
-The second example uses Barbara's Skill. Here, Oz was the trigger majority of the time, but during his ICD, Barbara was able to trigger 4TF \(at about 00:07\). [https://youtu.be/nPvpICUd7qY](https://youtu.be/nPvpICUd7qY)
+The second example uses Barbara's Skill. Here, Oz was the trigger majority of the time, but during his ICD, Barbara was able to trigger 4TF \(at about 00:07\). [YouTube](https://youtu.be/nPvpICUd7qY)
 
-Here is a third example, where we don't rely on Oz as our Electro crutch. Tested on Hidden Palace of Lianshan Formula I \(the weapon domain in Liyue\). [https://youtu.be/4FEWaKG7xJQ](https://youtu.be/4FEWaKG7xJQ)
+Here is a third example, where we don't rely on Oz as our Electro crutch. Tested on Hidden Palace of Lianshan Formula I \(the weapon domain in Liyue\). [YouTube](https://youtu.be/4FEWaKG7xJQ)
 
 **Significance**:
 
@@ -1431,7 +1431,7 @@ Here is a third example, where we don't rely on Oz as our Electro crutch. Tested
 
 **Evidence:**
 
-[https://youtu.be/4v-1j2LsxP4](https://youtu.be/4v-1j2LsxP4)
+[YouTube](https://youtu.be/4v-1j2LsxP4)
 
 **Significance:**
 
@@ -1493,7 +1493,7 @@ Test 2 - Tiara on, no Elemental resonance - Duration of the Debuff 12 seconds.
 
 **Finding:** 4-Piece Tiny Miracle doesn't proc on damage dealt to shields
 
-**Evidence:** [https://youtu.be/q8dE3UzBHVA](https://youtu.be/q8dE3UzBHVA)  
+**Evidence:** [YouTube](https://youtu.be/q8dE3UzBHVA)  
 Tiny Miracle is equipped and you don't get RES% buff until after shield is broken, shown in video
 
 **Significance:** Very important for Tiny Miracle users. Min max your shield by getting hit before the shield is up.
@@ -1588,7 +1588,7 @@ Proc Hydro Swirl, and then Electro Swirl. Check if both Hydro resist debuff AND 
 
 Theory was confirmed. See video for evidence.
 
-[https://youtu.be/FUnEjxmgJx4](https://youtu.be/FUnEjxmgJx4)
+[YouTube](https://youtu.be/FUnEjxmgJx4)
 
 **Conclusion:** This means that Anemo supports that can proc multiple Swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP
 
@@ -1603,11 +1603,11 @@ Theory was confirmed. See video for evidence.
 
 **Evidence:**
 
-[https://youtu.be/-6VU-qdN8Uw](https://youtu.be/-6VU-qdN8Uw)
+[YouTube](https://youtu.be/-6VU-qdN8Uw)
 
 In this video, Barbara's normals deal 34 damage when buffed by her C2 but not buffed by VV, and Beidou's Burst deals 960 damage. After Jean attacks the target with a single use of Gale Blade, Barbara's normals deal 44 damage and Beidou's Skill deals 1227 damage. Both Barbara's Hydro attacks and Beidou's Electro Burst were buffed by a single Anemo attack.
 
-[https://youtu.be/bQmPheaLGXE](https://youtu.be/bQmPheaLGXE)
+[YouTube](https://youtu.be/bQmPheaLGXE)
 
 In this video, Jean does 98 Cryo damage \(infused by Chongyun\) on her normals with the VV buff, and Barbara does 41 damage with her normals with both VV and Xingqiu's C2 buff. When a Frozen target is swirled, Jean does 98 damage and Barbara does 41 damage to the target, meaning that the target received both a Hydro resistance down and Cryo resistance down debuff from a single Anemo attack.
 
@@ -1623,13 +1623,12 @@ I wanted to see how Viridescent Venerer would increase final Swirl damage. The i
 
 **Evidence:**
 
-[https://www.youtube.com/watch?v=1v6av2DrCMM](https://www.youtube.com/watch?v=1v6av2DrCMM)
-
-[https://www.reddit.com/r/Genshin_Impact/comments/jovxl2/viridescent_venerer_4p_swirl_bonus_and_elemental/](https://www.reddit.com/r/Genshin_Impact/comments/jovxl2/viridescent_venerer_4p_swirl_bonus_and_elemental/)
+[YouTube](https://www.youtube.com/watch?v=1v6av2DrCMM)  
+[Reddit](https://www.reddit.com/r/Genshin_Impact/comments/jovxl2/viridescent_venerer_4p_swirl_bonus_and_elemental/)  
 
 **Significance:**
 
-The 4-Piece bonus increases a lot Swirl damage. Despite the low base damage of Swirl, this set will improve it in a way that sometimes it can be compared to 1 Electro-charged hit \(depending on char EM\).
+The 4-Piece bonus increases a lot Swirl damage. Despite the low base damage of Swirl, this set will improve it in a way that sometimes it can be compared to 1 Electro-Charged hit \(depending on char EM\).
 
 ### 4-Piece VV triggering mechanics
 
@@ -1674,7 +1673,7 @@ List of tests:
 * Anemo characters that have 4-Piece vv and are onfield during a Swirl they dont trigger CANNOT shred: [YouTube](https://www.youtube.com/watch?v=6cGhQPbbdns&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=11)
 
 Non-Anemo wearers that are onfield and trigger the Swirl:  
-Tests showed that they can shred with 4-Piece vv as long as they trigger the Swirl with any Element which is not Geo/Anemo \(which is only possible against enemies with an innate Anemo aura like the Anemo hypostasis\)
+Tests showed that they can shred with 4-Piece vv as long as they trigger the Swirl with any Element which is not Geo/Anemo \(which is only possible against enemies with an innate Anemo aura like the Anemo Hypostasis\)
 
 List of tests:
 
@@ -1845,7 +1844,7 @@ n is of sufficient size. When foddering artifacts, they might not be chosen at r
 
 **Result**
 
-Substats are distributed evenly except for flat Def for some reason, which is significantly overrepresented.
+Substats are distributed evenly except for flat DEFfor some reason, which is significantly overrepresented.
 
 ## Uneven Substats Distribution
 

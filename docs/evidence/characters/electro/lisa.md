@@ -149,7 +149,7 @@ Further application of Conductive Stacks when an enemy is already at 3 Stacks re
   * Swap In C6 > Stack 1, 2, 3 applied at 00:00 (Stack 1, 2, 3 will all dissipate at 00:15)
   * Tap E > Stack 1 reset at 00:02 (Stack 1 will disspate at 00:17, but Stack 2, 3 remain to dissipate at 00:15)
 
-Additionally, since having Conductive Stacks is an enemy attribute, other Players who use Lisa in co-op may consume Conductive Stacks should there be any Stacks on a given enemy, regardless if it was them or another Lisa who applied such Stacks.
+Additionally, since having Conductive Stacks is an enemy attribute, other Players who use Lisa in Co-op may consume Conductive Stacks should there be any Stacks on a given enemy, regardless if it was them or another Lisa who applied such Stacks.
 
 **Evidence:**
 
@@ -169,7 +169,7 @@ Additionally, since having Conductive Stacks is an enemy attribute, other Player
   * Calculatory evidence for the above two videos - [YouTube](https://imgur.com/a/GIiGwVc)
 
 **Significance:**  
-Documentation for information on Lisa's Conductive Stacks; whereby it lasts for 15s individually, can be reset, and can be consumed in co-op (regardless of source).
+Documentation for information on Lisa's Conductive Stacks; whereby it lasts for 15s individually, can be reset, and can be consumed in Co-op (regardless of source).
 
 ## Burst Mechanics
 

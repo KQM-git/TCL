@@ -49,7 +49,7 @@ All resistances +100% additive increase while armored.
 
 ## Attacks
 
-* Infues itself with a Pyro armor, gaining great resistance and empowering certain attacks. The armor will have its' resistance against most Elements increased, but has a great weakness to Electro Elemental application.
+* Infues itself with a Pyro armor, gaining great resistance and empowering certain attacks. The armor will have its resistance against most Elements increased, but has a great weakness to Electro Elemental application.
 * Takes aim then starts charging up a Pyro bullet at the player's location. The bullet will be shot at the location that was locked on at the start of the charge-up, not the current player location.
   * While armored: shoots 2 additional bullets after the first one.
 * Leaps backwards to gain distance from the player.

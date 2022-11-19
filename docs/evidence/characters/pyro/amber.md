@@ -173,8 +173,8 @@ There is another example of this happening in 4c, when one of the slimes jumps i
 
 **Evidence:**
 
-* Amber 3 overloads: [https://youtu.be/e1YCTAdjJ2A](https://youtu.be/e1YCTAdjJ2A)
-* Amber 4 overloads: [https://youtu.be/vXttP0fBsM0](https://youtu.be/vXttP0fBsM0)
+* Amber 3 overloads: [YouTube](https://youtu.be/e1YCTAdjJ2A)
+* Amber 4 overloads: [YouTube](https://youtu.be/vXttP0fBsM0)
 
 **Significance:** The random arrow distribution in Amber's Burst makes the reaction potential of her Burst as the trigger very inconsistent.
 

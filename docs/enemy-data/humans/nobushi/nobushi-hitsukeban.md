@@ -15,8 +15,8 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 60% HP       | 1 Particle | common  |
-| Death        | 1 Particle | common  |
+| 60% HP       | 1 Particle | Clear  |
+| Death        | 1 Particle | Clear  |
 
 ## Resistance Table
 
@@ -51,4 +51,4 @@ Head.
 * Lunges towards the player with their sword.
 * The Nobushi will spin their katanas to taunt their opponents.
   * They are left open while doing this.
-* Jumps back, leaving crackling fireworks at its' previous location.
+* Jumps back, leaving crackling fireworks at its previous location.

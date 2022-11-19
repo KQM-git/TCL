@@ -130,7 +130,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Cast also knocks away light enemies.
 * The **Dandelion Field** deals Anemo damage to enemies crossing the border of the field.
-* **Dandelion Breeze** deals Field Enter/Exit DMG to enemies within its AOE on initial cast and when the duration of the **Dandelion Field** ends.
+* **Dandelion Breeze** deals Field Enter/Exit DMG to enemies within its AoE on initial cast and when the duration of the **Dandelion Field** ends.
 * Heals and applies Anemo continuously to the active character inside the field cleansing debuffs.
   * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an Element.
   * With precise timing, Anemo can be the aura for self-swirls occasionally.

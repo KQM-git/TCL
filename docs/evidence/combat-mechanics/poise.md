@@ -11,7 +11,7 @@ sidebar_position: 5000
 
 ## A Deep Dive into Genshin's Stagger Mechanics
 
-Translated from: [https://bbs.nga.cn/read.php?tid=24216449&rand=913](https://bbs.nga.cn/read.php?tid=24216449&rand=913) by [Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Poise)
+Translated from: [NGA](https://bbs.nga.cn/read.php?tid=24216449&rand=913) by [Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Poise)
 
 The [Genshin Impact Fandom Wiki](https://genshin-impact.fandom.com/wiki/Interruption_Resistance#Practice_Data) has tables of poise data tested in game.
 

@@ -127,7 +127,7 @@ import LumineCA from '../_common/lumine_ca.md'
 
 * The **meteorite** is considered a **Geo Construct** and can be climbed or use to block attacks
 * Holding allows you to aim where the **meteorite** appears and has a faster animation time.
-* **Starfell Sword** can be manually detonated by over-capping the Geo construct limit (3 constructs).
+* **Starfell Sword** can be manually detonated by over-capping the Geo Constructs limit (3 constructs).
 * See this [Vault Entry](../../evidence/characters/geo/traveler-geo.md#rockstep-tech) for different techniques on using the **meteorite**.
 
 </TabItem>

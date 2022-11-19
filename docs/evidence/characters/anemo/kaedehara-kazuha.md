@@ -60,7 +60,7 @@ Potential for some interesting combos. Cool stuff. Very fun.
 * Skill can be slightly held for a minimal suction increase while keeping tap E's cooldown. - [helba\#0777](https://imgur.com/a/55baYSz)
 * Kazuha's Elemental Skill is an incredible tool for gathering loot in the overworld. - [Greyhound\#7836](https://www.youtube.com/watch?v=7ELY1kTC7AI)
 * Kazuha's hold E can jump over primo vishap's breath attack. - [jstern25\#1399](https://imgur.com/a/QSvOkph)
-* Kazuha's E jump does not have iframes. - [jstern25\#1399](https://imgur.com/a/4X56XWS)
+* Kazuha's E jump does not have i-frames. - [jstern25\#1399](https://imgur.com/a/4X56XWS)
 * Kazuha's E vertical reach is strangely long. - [Phana\#0420](https://imgur.com/1Sio3TA)
 * Chihayaburu's infused Element can be seen as a small circle around kazuha. - [Mcpie\#8672](https://youtu.be/rHSRe-IRrv8)
 * Kazuha can perform a 180 very quickly mid air. - [Mcpie\#8672](https://youtu.be/kfneyG6r4yA)
@@ -77,7 +77,7 @@ Kazuha's e Skill causes certain types of enemies to take fall damage.
 
 The Skill only works on enemies that can be lifted by kazuha's Skill, specifically enemies of weight ranges of anything lighter than and up to 80 arbitrary units used by the game. However, with that being said, some enemies suffer kazuha's fall damage easier than others.
 
-As per testing, fall damage has been proven to be caused to fatui cicin mages, the fatui agents and light treasure hoarders including the marksman rather consistently, with the type of floor not being a variable as it can be caused in both domains and the overworld.
+As per testing, fall damage has been proven to be caused to Fatui cicin mages, the Fatui agents and light treasure hoarders including the marksman rather consistently, with the type of floor not being a variable as it can be caused in both domains and the overworld.
 
 The cause of the fall damage seems to be an unnatural acceleration towards the floor after being sucked into the vortex caused by kazuha's Skill. The enemies that can suffer fall damage will be pulled away from the vacuum forcefully in the direction of the floor, causing them to gain enough velocity to suffer fall damage. Lighter enemies are less likely to take any damage this way.
 
@@ -89,7 +89,7 @@ It is not complicated to trigger this as it activates by just simply tapping/hol
 [Imgur](https://imgur.com/tPsC2kf)
 
 **Significance:**  
-This feature is most likely unintended, but not a bug due to the janky nature of fall damage. Unlike jean and sucrose who can consistently cause fall damage due to the stronger downward pull and yeet function on their kits, kazuha's Skill only has a weak vortex that causes the accelerated pull in specific situations. Hence he is unable to proc fall damage as consistent and as well as the 2 other characters mentioned.
+This feature is most likely unintended, but not a bug due to the janky nature of fall damage. Unlike jean and Sucrose who can consistently cause fall damage due to the stronger downward pull and yeet function on their kits, kazuha's Skill only has a weak vortex that causes the accelerated pull in specific situations. Hence he is unable to proc fall damage as consistent and as well as the 2 other characters mentioned.
 
 ### Kazuha Tap E Air Time Can Be Shortened
 
@@ -217,7 +217,7 @@ Kazuha's E > plunge Anemo infusion/conversion is not overtaken by weapon infuson
 
 **Evidence:**
 
-1. In the first [video](https://imgur.com/a/LLKsoO5), we can see kazuha doing ONLY ANEMO DMG on his plunge, even though his sword is infused with Cryo before going up. We can vaguely visualize his sword getting Anemo infused during plunge.
+1. In the first [video](https://imgur.com/a/LLKsoO5), we can see Kazuha doing ONLY ANEMO DMG on his plunge, even though his sword is infused with Cryo before going up. We can vaguely visualize his sword getting Anemo infused during plunge.
 
 2. In the second [video](https://imgur.com/a/hR36v3W), we get a better view of the Cryo infusion while going up which is then OVERRIDEN BY KAZUHA'S ANEMO INFUSION.
 
@@ -256,7 +256,7 @@ Timing Burst on certain cases.
 
 ### A1: Soumon Swordsmanship
 
-* Kazuha's 1st ascension passive applies aura before the plunge damage, allowing kazuha to Swirl off of no aura on enemies, but also adding the risk of not swirling if the applied aura reacts with an existing aura and removing. - [Vherax\#5321](https://i.imgur.com/7n0rlWE.mp4)
+* Kazuha's 1st ascension passive applies aura before the plunge damage, allowing Kazuha to Swirl off of no aura on enemies, but also adding the risk of not swirling if the applied aura reacts with an existing aura and removing. - [Vherax\#5321](https://i.imgur.com/7n0rlWE.mp4)
 
 ### A4: Poetics of Fuubutsu
 

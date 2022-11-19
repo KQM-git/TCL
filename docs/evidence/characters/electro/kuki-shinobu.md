@@ -39,7 +39,7 @@ search: false
   * 30 FPS - 12 hits - [Video](https://www.youtube.com/watch?v=Rh2aHifxL64)
   * 60 FPS - 12 hits - [Video](https://www.youtube.com/watch?v=7M3GwSCbHGg) - Prog\#0502
   * 60 FPS - 13 hits - [Video](https://www.youtube.com/watch?v=INA_H8Wly7M)
-* Elemental Burst hitcount at low HP and played at 30 fps appears to be somewhat RNG. - [Google Sheets](https://docs.google.com/spreadsheets/d/1PvFk2bDjM1VnLFty8DTkXG9CC8LXOPpyHhE4rjQJQNM/edit?usp=sharing) - mementomori\#0001
+* Elemental Burst hitcount at low HP and played at 30 FPS appears to be somewhat RNG. - [Google Sheets](https://docs.google.com/spreadsheets/d/1PvFk2bDjM1VnLFty8DTkXG9CC8LXOPpyHhE4rjQJQNM/edit?usp=sharing) - mementomori\#0001
   * Over 30 instances, an average of 11.7 damage ticks per Burst was counted, with each one being either 11 or 12 ticks.
 * Ping does not play a roll in how many damage ticks the Burst may have. - [Google Sheets](https://docs.google.com/spreadsheets/d/1PvFk2bDjM1VnLFty8DTkXG9CC8LXOPpyHhE4rjQJQNM/edit#gid=774661355) - mementomori\#0001
 

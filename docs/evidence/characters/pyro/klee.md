@@ -27,11 +27,11 @@ This is an independent verification of @Steph's findings, that Klee's mines that
 **Evidence/Method:**  
 I detonated all 8 of Klee's mines into a Hydro abyss mage using Anemo MC's Burst. Then I measured how many U's worth of shield was damaged by counting pixels. Note it takes 24U of Pyro to completely break a Hydro abyss mage's shield.
 
-1st Attempt: [https://i.imgur.com/mUlLZhI.jpeg](https://i.imgur.com/mUlLZhI.jpeg) note: the Anemo also damages the shield. I will make note if it did this. Here it didn't. Frame 1 is always one frame before the first bomb reaches & deals DMG to the abyss mage. on Frame 5 it dealt 2U's worth of Pyro damage. Total only 5U of shield damage.
+1st Attempt: [YouTube](https://i.imgur.com/mUlLZhI.jpeg) note: the Anemo also damages the shield. I will make note if it did this. Here it didn't. Frame 1 is always one frame before the first bomb reaches & deals DMG to the abyss mage. on Frame 5 it dealt 2U's worth of Pyro damage. Total only 5U of shield damage.
 
-2nd Attempt: [https://i.imgur.com/GmHWMON.jpg](https://i.imgur.com/GmHWMON.jpg) 1U of DMG on frame 2, 2U's worth on frame 4 and 6. Totalling 5U from bombs.
+2nd Attempt: [YouTube](https://i.imgur.com/GmHWMON.jpg) 1U of DMG on frame 2, 2U's worth on frame 4 and 6. Totalling 5U from bombs.
 
-3rd Attempt: [https://i.imgur.com/AYXWLT7.jpg](https://i.imgur.com/AYXWLT7.jpg) Anemo dealt 1U before the bombs reached. 1U on frame 2. 2U on frame 4. 1U on frame 8. Totalling only 4U from bombs.
+3rd Attempt: [YouTube](https://i.imgur.com/AYXWLT7.jpg) Anemo dealt 1U before the bombs reached. 1U on frame 2. 2U on frame 4. 1U on frame 8. Totalling only 4U from bombs.
 
 **Conclusion:**  
 If too many mines hit the mage in too short a span you waste the mines' ICDs. Also I could not observe a larger hit to the abyss mage's shield than 2U in one frame.
@@ -129,7 +129,7 @@ This tech will be useful for anybody that uses klee, since E wont go into cooldo
 Klee's Burst \(Q\) is snapshotted.
 
 **Evidence:**  
-[https://imgur.com/a/8TQUkYU](https://imgur.com/a/8TQUkYU)
+[YouTube](https://imgur.com/a/8TQUkYU)
 
 **Significance:**  
 You can leave Bennett Q after using Klee Burst and you also keep other ATK% buffs that were enabled before Klee Burst.
@@ -145,9 +145,9 @@ You can leave Bennett Q after using Klee Burst and you also keep other ATK% buff
 
 **Evidence:**
 
-youtube video of 6 waves occurring: [https://youtu.be/ObwKAFrc548](https://youtu.be/ObwKAFrc548)
+youtube video of 6 waves occurring: [YouTube](https://youtu.be/ObwKAFrc548)
 
-some data collected that about matches the expected distribution of 35%, 50%, 15%: [https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing)
+some data collected that about matches the expected distribution of 35%, 50%, 15%: [Google Sheets](https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing)
 
 **Significance:** Explanining how Klee's Burst works
 
@@ -281,7 +281,7 @@ No value in chain casting Burst shenanigans, and Klee C6 does apply to her own B
 
 **Finding:**
 
-* Klee's C1, like her Burst, has a (very) small aoe.
+* Klee's C1, like her Burst, has a (very) small AoE.
 * Klee's C1 has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs. Expected number of attempts before a proc is ~3.92.
 * Klee's C1 has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q. Self explanatory, but perhaps the only unusual trigger is pressing Q.
 * When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires. It seems happens consecutively: once a trigger misfires, the next trigger is likely to despawn.
@@ -314,7 +314,7 @@ Does Noblesse affect Klee's c1 procs.
 Yes they do.
 
 **Evidence:**  
-[https://youtu.be/VM6uiOfE8z4](https://youtu.be/VM6uiOfE8z4)
+[YouTube](https://youtu.be/VM6uiOfE8z4)
 
 **Significance:**  
 2NO + 2 witch might be a viable set for an at least C1 Klee and makes animation cancelling more worth it as it triggers \(Klee’s C1\) by AAing and Skills.

@@ -92,12 +92,12 @@ Combining the above findings, a player can save some clicks and time when healin
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938044007425146890_940718525121716254_transcript-suck-limit.html)
 
 **Finding:** Every ability / taunt that can pull mob has a limit. These limits differ from each other, ranging from 13-15.  
-Some can also be affected by In-game fps.
+Some can also be affected by In-game FPS.
 
 **Evidence:**
 
 * Jean E - 14
-* kazuha Hold/Tap E 14
+* Kazuha Hold/Tap E 14
   * [YouTube](https://youtu.be/poifmkFWvN0)
 * Jean E 13(30fps)
   * [YouTube](https://www.youtube.com/watch?v=IqnzPtPOFM0)
@@ -252,7 +252,7 @@ Razor has 80% Electro RES and was originally considered to be the best Electro T
 
 Building Beidou as the tank/shielder in one allows for a much larger shield the more investments there are into HP, though she has less base DEF than razor. Thus, Beidou scales better with HP and Razor scales better with DEF. But due to the nature of the DEF formula, where the benefit of defense decreases with enemy level increases, HP outscales DEF, and thus Beidou should and does outscale Razor.
 
-In order to calculate questions like: When does Beidou outscale Razor? Has Razor been outscaled from the very beginning? and What are the best artifacts/compositions to tank Electro DMG? a program coded in Turing \(available here: [https://pastebin.com/9ZHEnyCU](https://pastebin.com/9ZHEnyCU)\) was used.
+In order to calculate questions like: When does Beidou outscale Razor? Has Razor been outscaled from the very beginning? and What are the best artifacts/compositions to tank Electro DMG? a program coded in Turing \(available here: [Pastebin](https://pastebin.com/9ZHEnyCU)\) was used.
 
 **Results:**
 
@@ -311,13 +311,13 @@ If MHY told you to pick an damage type to tank the most damage from a level ∞ 
 
 Step 1. Climb the trunk by holding forward and spamming the jump button. This is precise and can take many attempts. [\(https://www.youtube.com/watch?v=GRvU5e4B7GA](https://www.youtube.com/watch?v=GRvU5e4B7GA)
 
-Step 1.5. Walk and jump up to scale the tree. [https://www.youtube.com/watch?v=OaGtJvQHBdQ](https://www.youtube.com/watch?v=OaGtJvQHBdQ)
+Step 1.5. Walk and jump up to scale the tree. [YouTube](https://www.youtube.com/watch?v=OaGtJvQHBdQ)
 
-Step 2, Step 3. While scaling the tree, the first two obstacles can be "jumped around" from the left, as demonstrated. In fact, carefully walking around the branch is sufficient for step 2. [https://www.youtube.com/watch?v=I8yQ7-Hsv8o](https://www.youtube.com/watch?v=I8yQ7-Hsv8o)
+Step 2, Step 3. While scaling the tree, the first two obstacles can be "jumped around" from the left, as demonstrated. In fact, carefully walking around the branch is sufficient for step 2. [YouTube](https://www.youtube.com/watch?v=I8yQ7-Hsv8o)
 
-Step 4. Jump to the area just below the peak of the tree. Both the butterfly and the branch can be landed on. This jump is also somewhat precise. [https://www.youtube.com/watch?v=A3L9tU8iDqs](https://www.youtube.com/watch?v=A3L9tU8iDqs)
+Step 4. Jump to the area just below the peak of the tree. Both the butterfly and the branch can be landed on. This jump is also somewhat precise. [YouTube](https://www.youtube.com/watch?v=A3L9tU8iDqs)
 
-Step 5. Jump to the peak of the tree from the butterfly. It is possible that normal attacking immediately after landing helps to stay on the branch. This step is very precise, and failing this step may lead to falling to ground level. [https://www.youtube.com/watch?v=kPmyIS7A3SY](https://www.youtube.com/watch?v=kPmyIS7A3SY)
+Step 5. Jump to the peak of the tree from the butterfly. It is possible that normal attacking immediately after landing helps to stay on the branch. This step is very precise, and failing this step may lead to falling to ground level. [YouTube](https://www.youtube.com/watch?v=kPmyIS7A3SY)
 
 **Significance:** By mastering these Skills, you can climb the intimidating heights of the Frostbearing Tree with nothing but your bare hands. No Vision, Elemental powers, or even a glider, are necessary. Indeed, rolling for anything is unnecessary, as the free characters provided to any player are adequate, meaning not even whales have an insurmountable advantage. Climbing to the peak of the tree has incredible significance due to the fact that the local surroundings of the Frostbearing Tree are of a generally lower height. Thus, climbing the Frostbearing tree allows you to get the height advantage, and doing so under these limitations means you can perform such strategic maneuvers under the most dire and desperate of situations.
 
@@ -681,7 +681,7 @@ Affects Favonius passive procs and if you want to kill enemies with the box.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953817891340435487_transcript-stoves-of-babel.html)
 
 **Finding:**  
-Using stoves and Geo Constructs, a traveler may near indefinitely ascend to Celestia until they are out of stoves.
+Using stoves and Geo Constructs, a Traveler may near indefinitely ascend to Celestia until they are out of stoves.
 
 Constructing the stairway to heaven:
 
@@ -696,7 +696,7 @@ Multiplayer:
   4\. A different player places stove2. Idling for some time before doing so is recommended, to make later timings more lenient.  
   5\. Place construct2 on stove2.  
   6\. Everyone in the party gets on construct2.  
-  7\. Repeat these steps until all co-op players have placed their stoves.  
+  7\. Repeat these steps until all Co-op players have placed their stoves.  
   8\. Continually replace the construct that the party is standing on until a player's stove expires \(5 minutes\). This allows for that player to place a new stove. So far, the only construct capable of this is Albedo E.  
   8\.5\. Optional step: if using Albedo E, place a Parametric Transformer to prevent the elevator from ascending to make refreshing the construct easier. When its time to place the next stove, retrieve the Parametric Transformer to gain more height from elevation.  
   9\. Repeat steps 1\-8. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.
@@ -1150,7 +1150,7 @@ Furthermore, her unwillingness to assist in fighting off the evil spirits while 
 [Discussion](https://tickets.deeznuts.moe/transcripts/anemo-and-cryo-skills-and-bursts-proc-grana)
 
 **Finding:**  
-Anemo units' Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.  
+Anemo units Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.  
 Anemograna are procced on Skill cast and do not have to be on solid ground to proc.
 
 **Evidence:**  

@@ -190,7 +190,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo RES reduction duration can only be refreshed by Anemo DMG ticks, while the infused Element's RES reduction duration is refreshed by that Element's DOT ticks.
+* The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo RES reduction duration can only be refreshed by Anemo DMG ticks, while the infused Element's RES reduction duration is refreshed by that Element's DoT ticks.
 
 </TabItem>
 </Tabs>

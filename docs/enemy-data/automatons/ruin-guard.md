@@ -14,10 +14,10 @@ Front Eye and Back Cover, the weakspot remains even when they're covered, but wi
 
 | HP Threshold | Type            | Element |
 | :----------- | :-------------- | :------ |
-| 75% HP       | 1 Particle+1orb | common  |
-| 50% HP       | 1 Particle+1orb | common  |
-| 25% HP       | 1 Particle+1orb | common  |
-| Death        | 1 Orb           | common  |
+| 75% HP       | 1 Particle + 1 Orb | Clear  |
+| 50% HP       | 1 Particle + 1 Orb | Clear  |
+| 25% HP       | 1 Particle + 1 Orb | Clear  |
+| Death        | 1 Orb           | Clear  |
 
 ## Resistance Table
 
@@ -48,12 +48,12 @@ Front Eye and Back Cover, the weakspot remains even when they're covered, but wi
 
 ## Attacks
 
-* It will raise one of its' feet and stomp the ground, damaging nearby characters within a small AoE.
+* It will raise one of its feet and stomp the ground, damaging nearby characters within a small AoE.
 
-* If any characters are still within melee range after a Stomp attack, the Ruin Guard may follow-up a Stomp by leaning down and using its' hands to clap powerfully in front of them.
+* If any characters are still within melee range after a Stomp attack, the Ruin Guard may follow-up a Stomp by leaning down and using its hands to clap powerfully in front of them.
 
 * Bringing both fists together before performing, it will do two spinning punches before jumping into the air and landing towards the player location with a moderate AoE in front of itself.
 
-* The Ruin Guard begins to spin its' upper body and further extending its' arms' reach. While spinning, it will continuously march towards the player. This attack lasts for about 7 seconds and deals heavy damage to characters caught in the attack.
+* The Ruin Guard begins to spin its upper body and further extending its arms' reach. While spinning, it will continuously march towards the player. This attack lasts for about 7 seconds and deals heavy damage to characters caught in the attack.
 
-* Players outside of the Ruin Guard's melee range will force the Ruin Guard to quickly swivel its' upper body around 180° and become stationary, exposing its' core on the back towards the player. Shortly after, a red crosshair will appear on the Ruin Guard's target, and it will then fire a swarm of homing missiles (6 each). Although the missiles are somewhat slow, they are able to change direction almost instantly, while locked onto their target. Once the crosshair disappears, the missiles no longer pursue their target and continue moving in a straight path.
+* Players outside of the Ruin Guard's melee range will force the Ruin Guard to quickly swivel its upper body around 180° and become stationary, exposing its core on the back towards the player. Shortly after, a red crosshair will appear on the Ruin Guard's target, and it will then fire a swarm of homing missiles (6 each). Although the missiles are somewhat slow, they are able to change direction almost instantly, while locked onto their target. Once the crosshair disappears, the missiles no longer pursue their target and continue moving in a straight path.

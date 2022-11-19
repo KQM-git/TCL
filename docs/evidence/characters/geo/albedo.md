@@ -29,7 +29,7 @@ Linked video showcases different flower positions on a wall and confirming if Al
 
 There was no point where it was possible to proc E underneath the flower versus on the outermost part of the AoE supporting that it is Cylindrical and not Spherical.
 
-[https://youtu.be/D7KwuJeSXRY](https://youtu.be/D7KwuJeSXRY)
+[YouTube](https://youtu.be/D7KwuJeSXRY)
 
 **Significance:**  
 It is possible to place Albedo's flower in an elevated position to avoid it getting destroyed.
@@ -46,7 +46,7 @@ I've experienced placing Albedo's flower on top of Electro Hypostasis' summons d
 
 **Finding:** Albedo's Elemental Skill snapshots, meaning that damage for its entire duration is calculated when the Skill is cast, so any buffs gained/lost after the Skill is cast will not affect the Skill's damage.
 
-**Evidence:** [https://youtu.be/BhfcSLmPW5s](https://youtu.be/BhfcSLmPW5s)
+**Evidence:** [YouTube](https://youtu.be/BhfcSLmPW5s)
 
 Albedo's Skill does not get affected by Ningguang's Jade Screen buff, since Albedo cast the Skill before walking through the screen.
 

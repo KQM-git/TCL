@@ -96,7 +96,7 @@ If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur
 
 > Fischl’s charged shot applies 0.8A Electro aura and is triggered by Kaeya’s E, applying 2B Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
 
-The AOE of these reactions have zero Elemental gauge.
+The AoE of these reactions have zero Elemental gauge.
 
 ## Freeze
 
@@ -151,7 +151,7 @@ Geo and Anemo can only be used as the trigger for Crystallize and Swirl reaction
 
 > Using a 1GU Geo trigger on a 0.8A Electro aura will result in Crystallize, subtracting 0.5GU and leaving 0.3A of Electro aura.
 
-Unlike other transformative reactions which have an AOE, the AOE of Swirl has a non-zero gauge, which shall be explored in the following
+Unlike other transformative reactions which have an AoE, the AoE of Swirl has a non-zero gauge, which shall be explored in the following
 section.
 
 ## Swirl Application
@@ -174,7 +174,7 @@ Barbara attacks (1A) an enemy and applies 0.8A Hydro. Venti's E (2GU Anemo) swir
 
 ## Electro-Charged
 
-Electro-charged \(EC\) is unique to all previously covered reactions. The current theory is that in Electro-Charged, both Hydro and Electro simultaneously function and coexist as both the aura and trigger.
+Electro-Charged \(EC\) is unique to all previously covered reactions. The current theory is that in Electro-Charged, both Hydro and Electro simultaneously function and coexist as both the aura and trigger.
 
 EC is triggered when an enemy with a Hydro or Electro aura has the other aura applied to it. EC will tick once per second so long as enough Electro and Hydro gauge remain, except in the following case:
 
@@ -182,7 +182,7 @@ EC is triggered when an enemy with a Hydro or Electro aura has the other aura ap
 
 Each tick of Electro-Charged **consumes 0.4GU from both gauges**. Once a gauge is empty, the Element will disappear from the enemy’s status, but the other Element will remain available to further reactions.
 
-AOE ticks of Electro-Charged have zero gauge.
+AoE ticks of Electro-Charged have zero gauge.
 
 ## Self Aura
 

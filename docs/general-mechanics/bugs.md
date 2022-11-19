@@ -20,7 +20,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 * Exiting or resetting a domain [will not reset a character's Skill cooldown.](../evidence/general-mechanics/bugs.md#resetting-or-exiting-a-domain-does-not-reset-elemental-skill-cooldowns)
 * A domain’s door can be kept open by [disconnecting internet while the door is being opened](../evidence/general-mechanics/bugs.md#keeping-domain-doors-open).
-* In a high-ping scenario, you can run to the Petrified Trees before the arena walls appear, leaving your co-op teammates to complete it by themselves.
+* In a high-ping scenario, you can run to the Petrified Trees before the arena walls appear, leaving your Co-op teammates to complete it by themselves.
 
 ## Overworld
 

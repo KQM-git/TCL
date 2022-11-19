@@ -268,8 +268,8 @@ It's possible to buff 2 different characters, with one Crowfeather from C2 and a
 **Evidence:**
 
 * [YouTube](https://youtu.be/614ud7vKz4Q)
-* [Imgur 30 fps](https://imgur.com/lDx2hSL)
-* [Imgur 60 fps](https://imgur.com/BjHFzqv)
+* [Imgur 30 FPS](https://imgur.com/lDx2hSL)
+* [Imgur 60 FPS](https://imgur.com/BjHFzqv)
 
 **Significance:**  
 This is possible to perform without cancels but the timing is extremely difficult.

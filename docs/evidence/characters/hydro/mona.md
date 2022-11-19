@@ -77,13 +77,13 @@ Mona's E gens 3 or 4 Hydro Particles on explosion, seemingly weighted towards 3 
 
 **Evidence:**
 
-[https://youtu.be/6FQ8SYuOgO4](https://youtu.be/6FQ8SYuOgO4)
+[YouTube](https://youtu.be/6FQ8SYuOgO4)
 
 **Significance:**
 
 The fact that Mona's Particle gen is seemingly random means there's an RNG aspect to getting her ult up consistently too. May warrant further testing on other characters to see if other fluctuations in Particle gen exists. May need to test whether the Particle generation is truly random or if there is a pattern.
 
-### Mona Hold E has iframes
+### Mona Hold E has i-frames
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-09-25" />  
@@ -91,7 +91,7 @@ The fact that Mona's Particle gen is seemingly random means there's an RNG aspec
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890797348635156531_891163963356758086_transcript-mona-hold-e-iframe.html)
 
 **Finding:**  
-Mona hold E has iframes.
+Mona hold E has i-frames.
 
 **Evidence:**  
 [Imgur](https://i.imgur.com/3oln5zw.mp4)
@@ -115,7 +115,7 @@ Utilizing for dodging.
 Mona’s Bubble Burst damage is determined at the time the bubble is actually triggered, rather than ‘snapshotting’ on the immediate cast.
 
 **Evidence:**  
-[https://www.youtube.com/watch?v=KikCv6_ooSI](https://www.youtube.com/watch?v=KikCv6_ooSI)
+[YouTube](https://www.youtube.com/watch?v=KikCv6_ooSI)
 
 **Significance:**
 
@@ -144,7 +144,7 @@ Yes, despite the talent description stating that Omen applies after the bubble p
 
 You can see when calculations INCLUDE the Omen Damage buff DMG% values, you get the correct damage calculation to 3 significant figures.
 
-**See also:** [https://www.youtube.com/watch?t=133&v=UUH8fygHJYQ](https://www.youtube.com/watch?t=133&v=UUH8fygHJYQ)
+**See also:** [YouTube](https://www.youtube.com/watch?t=133&v=UUH8fygHJYQ)
 
 In the first screenshot below. If I were to remove Omen from the calculations, the numbers become obscure and incorrect.
 
@@ -296,12 +296,12 @@ If you cast Mona's Skill, but then hit the dash key before Mona's taunt is out, 
 
 **Evidence:**
 
-[https://youtu.be/gDEZhioyCxs](https://youtu.be/gDEZhioyCxs)
+[YouTube](https://youtu.be/gDEZhioyCxs)
 
 **Signifiance:**  
 Mona shouldn't dash until her Skill is finished casting. This Skill cancellation may also occur in the future for future characters with Mona-style alternate sprints.
 
-### Mona dash iframe
+### Mona dash i-frame
 
 **By:** aui#3690  
 **Added:** <Version date="2021-09-17" />  
@@ -333,7 +333,7 @@ Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piec
 
 **Evidence:**
 
-[https://youtu.be/8ArWy-739TQ](https://youtu.be/8ArWy-739TQ)
+[YouTube](https://youtu.be/8ArWy-739TQ)
 
 **Significance:**  
 While I sincerely doubt that 4 TotM Mona will become a viable build path for her, knowing that her A1 can help proc Skill based effects is potentially very useful information for future weapons or artifact sets; while also being just funny for memey setups with 4ToM.
@@ -421,7 +421,7 @@ Mona’s 1st Constellation does not boost her Q Burst damage.
 
 **Evidence:**
 
-[https://youtu.be/x4m2IHwb0uc](https://youtu.be/x4m2IHwb0uc)
+[YouTube](https://youtu.be/x4m2IHwb0uc)
 
 **Significance:**
 
@@ -458,13 +458,13 @@ Mona's C1 buff only applies to your own party members in coop, and not other pla
 **Evidence:**
 
 [Coop Video](https://www.youtube.com/watch?v=ZkGeYka5EUc)  
-As shown in the video, Sucrose's Hydro Swirl is not changed from 3512 damage when a c1 Mona applies Omen. Fischl's 1230 Electro-charged damage is not changed, but Mona's 1172 Electro-charged damage increases to 1326.
+As shown in the video, Sucrose's Hydro Swirl is not changed from 3512 damage when a c1 Mona applies Omen. Fischl's 1230 Electro-Charged damage is not changed, but Mona's 1172 Electro-Charged damage increases to 1326.
 
 [Singleplayer Video](https://www.youtube.com/watch?v=LTBhTcl5TkY)  
 Venti's Hydro Swirl does 1157 damage without the buff, and 1255 with it.
 
 **Significance:**  
-Mona's C1 does not work party-wide in co-op.
+Mona's C1 does not work party-wide in Co-op.
 
 ### C2: Lunar Chain
 
@@ -480,7 +480,7 @@ Although **C2 Lunar Chain** reads that the Charged Attack will automatically fol
 
 **Evidence:**
 
-[https://youtu.be/q8lWAriXfVQ](https://youtu.be/q8lWAriXfVQ)
+[YouTube](https://youtu.be/q8lWAriXfVQ)
 
 **Significance:**
 
@@ -497,7 +497,7 @@ C2 is not as good as it could be, because the automatic Charged ATK cannot benef
 A C2 Mona using N2C applies enough Hydro to overtake the Pyro application of Xiangling's Pyronado, even if Pyro starts out as the aura.
 
 **Evidence:**  
-[https://youtu.be/UbqCR6t4fow](https://youtu.be/UbqCR6t4fow)
+[YouTube](https://youtu.be/UbqCR6t4fow)
 
 **Significance**:  
 Xiangling Q applies too much Pyro for Mona to successfully be the aura most of the time, although when the C2 proc goes off it DOES allow Xiangling to pryo vape.

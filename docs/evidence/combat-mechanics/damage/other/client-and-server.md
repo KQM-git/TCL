@@ -136,11 +136,11 @@ Conclusion: For conditional weapon passives, if condition is true, the passive w
 
 Conclusion: Taunts behave normally under high latency
 
-**Geo constructs**
+**Geo Constructss**
 
 * Zhongli E: [Video](https://youtu.be/RdzbYRaIdSw)
 
-Conclusion: Geo construct HP are calculated on client side
+Conclusion: Geo Constructs HP are calculated on client side
 
 **Significance:**  
 Bad ping breaks some mechanics in game on the server side and it could be used for meme abyss runs or be used for bad players for comfier clears if they own Energy reliant characters like xiao or eula or CA spam carries like phys keqing.
@@ -163,7 +163,7 @@ Client-side:
 
 * [Sucrose A1](https://youtu.be/ADkMT-1a9qw)
 * [Fischl A4](https://youtu.be/is7BsrPfUCM)
-* [Electro-charged](https://youtu.be/LjBSOXtd3RU)
+* [Electro-Charged](https://youtu.be/LjBSOXtd3RU)
 
 Server-side:
 

@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 66% HP       | 1 Orb | common  |
-| 33% HP       | 1 Orb | common  |
-| Death        | 1 Orb | common  |
+| 66% HP       | 1 Orb | Clear  |
+| 33% HP       | 1 Orb | Clear  |
+| Death        | 1 Orb | Clear  |
 
 ## Resistance Table
 
@@ -55,7 +55,7 @@ Head.
   * The Mage can use this ability immediately after recovering poise, allowing her to blink out of a stagger or knockback animation.
 * Consecutively teleports up to three times towards the target.
   * The Mage will only use this ability if far from the target. This is considered a different ability than the regular teleport, so the Mage can use them in succession.
-* Summons a falling bolt of Electro Energy to strike its' foe; leaves behind a static charge that deals Electro DoT to targets within.
+* Summons a falling bolt of Electro Energy to strike its foe; leaves behind a static charge that deals Electro DoT to targets within.
   * Certain versions are able to consecutively summon 3, 4, or 6 thunderbolts instead of just 1.
 * After ~40 seconds, absorbs all summoned Cicins, conjures an Electro Shield and then begins flying towards the player.
   * The Shield grants immunity to DMG and increased movement speed (faster than a player's base running speed, but slower than base sprinting speed) and prevents the Mage from being staggered or knocked down.

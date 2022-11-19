@@ -50,7 +50,7 @@ Eye.
 
 ## Attacks
 
-Like Specters, the Thunder Manifestation has a "Fury" bar which is initially empty. In its passive state, the Thunder Manifestation only unleashes strike probes and occasional shockwaves that increase its' fury if the player is caught in them.
+Like Specters, the Thunder Manifestation has a "Fury" bar which is initially empty. In its passive state, the Thunder Manifestation only unleashes strike probes and occasional shockwaves that increase its fury if the player is caught in them.
 
 ### While not Enraged:
 

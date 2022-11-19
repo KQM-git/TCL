@@ -62,7 +62,7 @@ His attacks will gain special effects depending on the infused Element.
   * Pyro: Damage type converted to Pyro, fires several fireballs into the air that will hit the ground randomly and leave a burning mark, which continuously damages players in its AoE. (Phase 2)
   * Hydro: Damage type converted to Hydro, leaves a moderately-sized Hydro mark on the ground which explodes shortly after. (Phase 2)
 * Slams his body sideways, dealing damage in a large AoE that extends towards the attack's direction.
-  * This attack cannot be avoided using dash iframes.
+  * This attack cannot be avoided using dash i-frames.
   * Electro: Damage type converted to Electro. (Phase 3)
   * Cryo: Damage type converted to Cryo. (Phase 3)
 * Slams his foreleg once and emits three consecutive shockwaves.
@@ -75,10 +75,10 @@ His attacks will gain special effects depending on the infused Element.
 * Slams his tail once if target is behind him.
   * Electro: Damage type converted to Cryo. Slower tha Normal Tail Slam, but cause two Electro explosions around the impact area. (Phase 3)
   * Cryo: Damage type converted to Cryo. Slower tha Normal Tail Slam, but will summon several Ice Spikes around the impact area that will explode twice. (Phase 3)
-* Performs a quick sweep attack. This attack cannot be avoided using dash iframes.
+* Performs a quick sweep attack. This attack cannot be avoided using dash i-frames.
   * Electro: Damage type converted to Electro. Leaves multiple Electro Orbs that deal damage upon contact with the player. (Phase 3)
   * Cryo: Damage type converted to Cryo. Leaves 3 Cryo Orbs that will explode after a short while. (Phase 3)
-* Rushes forward, goring enemy units on with his tusks and tossing them into the air. This attack cannot be avoided using dash iframes.
+* Rushes forward, goring enemy units on with his tusks and tossing them into the air. This attack cannot be avoided using dash i-frames.
   * Electro: Damage type converted to Electro. (Phase 3)
   * Cryo: Damage type converted to Cryo. (Phase 3)
 * Submerges underground and digs around the arena. This action will trigger a massive earthquake and many rocks will rains to the arena for a while.
@@ -96,7 +96,7 @@ Azhdaha can still use any ability from Phase 1. These Phase 1 abilities will be 
 * Slams his legs unto earth, unleashing continuous shockwaves around himself 5 times and ending with one final huge shockwave.
   * This ability will produce several effects, based off the current infused Element, and can potentially stun-lock the player.
   * Azhdaha only uses Tremors during a phase transition (when he gains an Elemental infusion) and in the final Phase 3.
-  * This attack cannot be avoided using dash iframes.
+  * This attack cannot be avoided using dash i-frames.
   * Hydro: Damage type will be converted into Hydro. AoE is increased. Six lines of water streams splinting evenly on each sides will follow instantly after the final huge shockwave.
   * Pyro: Damage type will be converted into Pyro. AoE is increased. Leaves several fireballs in the air, that will hit the ground randomly upon impact shortly after the final huge shockwave and leave burning circles on the ground, damaging players who step on it.
 * Roars and initiates a large AoE attack of the infused Element.

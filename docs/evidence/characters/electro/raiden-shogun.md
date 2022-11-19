@@ -47,7 +47,7 @@ search: false
   * Overload - [Nass008#8577](https://imgur.com/BFp3mF7)
   * Pyro Swirl - [Nass008#8577](https://imgur.com/HooDf8l)
 * Raiden's Elemental Skill cannot be triggered by:
-  * Electro-charged
+  * Electro-Charged
   * Hydro swirls
 
 ### Raiden E Transformative Interactions
@@ -61,8 +61,8 @@ search: false
 Raiden's Elemental Skill will trigger on transformative reactions if 2 condition are met:
 
 1. Inflicting damage to an enemy.
-2. The damaging reaction has AOE.  
-   This means that only Superconduct, Overload, and all AOE swirls except for Hydro will activate it, while Electro-charged, Shatter, single-target and Hydro Swirl won't.
+2. The damaging reaction has AoE.  
+   This means that only Superconduct, Overload, and all AoE swirls except for Hydro will activate it, while Electro-Charged, Shatter, single-target and Hydro Swirl won't.
 
 **Evidence:**  
 Working:  
@@ -85,7 +85,7 @@ Raiden's E coordinated attack CD starts with the triggering move's damage, _not_
 
 **Evidence:**  
 [YouTube](https://youtu.be/CfIZRJLvjNc)  
-Frames tracked using kdenlive, recorded in 60 fps with game setting at 60 fps.
+Frames tracked using kdenlive, recorded in 60 FPS with game setting at 60 FPS.
 
 * Initial setup: Raiden E beforehand, Zhongli shield to avoid staggers and such.
   * Frame 827: Raiden E's damage appears, triggers coordinated attack from the Raiden E in the setup.
@@ -107,7 +107,7 @@ This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks
 * Raiden's attacks during Elemental Burst can't trigger Beidou's Q. - [Peekays#2722](https://youtu.be/J-52Fr4WA3A)
 * Raiden's Elemental Burst does not snapshot. - [CC#5588](https://www.youtube.com/watch?v=2YKNl5OAPJE)
 * Raiden's CA during Elemental Burst work as a hitscan similar to Ayaka's. - [LittleFox#0906](https://youtu.be/yVQKrJq1VNI)
-* Raiden's interruption resistance during Musou Isshin is crazy high, her poise is practically unbreakable since she's also immune to Electro-charged. The only stun should be Freeze. - [Artesians#0002](https://imgur.com/3RzTN2a)
+* Raiden's interruption resistance during Musou Isshin is crazy high, her poise is practically unbreakable since she's also immune to Electro-Charged. The only stun should be Freeze. - [Artesians#0002](https://imgur.com/3RzTN2a)
 * Raiden's attacks during Elemental Burst, except for N5 can hit within Venti's vortex. - [LittleFox#0906](https://youtu.be/hQaK8AjIq7k) & [Sayline#5959](https://youtu.be/byDltFQ2X2I)
 * Raiden's Resolve Stacks apply to each damage instance of her multi strings during Elemental Burst (N4 & CA) - Reens#9389 & Greyhound#7836 [1](https://i.imgur.com/L4Ysc1f.png) [2](https://imgur.com/6bXq47R) [3](https://imgur.com/l9mGtEj) [4](https://imgur.com/0ADt5yQ)
 

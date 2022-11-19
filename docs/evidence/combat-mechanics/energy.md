@@ -80,7 +80,7 @@ Elemental Skills that has a fixed production value will be cast for at least 50 
 
 In addition, several new conditions to trigger Particle generation had been added to specific character notes.
 
-Elemental Particle production sheet here: [https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit\#gid=0](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0)
+Elemental Particle production sheet here: [Google Sheets](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0)
 
 **Conclusion:** Changes made to the sheet were as follow
 

@@ -4,7 +4,7 @@ description: For entries that have little practical use.
 
 # Miscellaneous Entries
 
-* Characters than can pull/suck items with their abilities (i.e Jean E, Venti Q), all have a limit. This limit can be affected by in-game fps, depending on the specific ability. For more information visit [our evidence page.](./../evidence/general-mechanics/miscellaneous-entries.md#item-suck-limits)
+* Characters than can pull/suck items with their abilities (i.e Jean E, Venti Q), all have a limit. This limit can be affected by in-game FPS, depending on the specific ability. For more information visit [our evidence page.](./../evidence/general-mechanics/miscellaneous-entries.md#item-suck-limits)
 * Almost all Elemental Bursts that have a zoom animation will reset the directional pad on mobile \(with the only known exception being Childe's Ranged Burst\).
   * Bursts that have no zoom animation \(either by design or by canceling the zoom\) will not reset the directional pad.
 * You can juggle fruits that are freshly harvested from trees. Unfortunately, once they have been on the ground for a certain amount of time, nothing will affect it anymore.
@@ -45,7 +45,7 @@ description: For entries that have little practical use.
 * Slimes that are in barrels or Frozen can blink.
 * Certain characters buffs and/or infusions are limited by a finite vertical range, while others showcase near unlimited vertical range. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#vertical-ranges-of-certain-abilities) for more information.
 * The birds inside the cages of The Chasm underground camps have some weird behavior. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#chasm-glitchy-bird) for more information.
-* Anemo units' Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.
+* Anemo units Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.
 
 ## Canceling
 

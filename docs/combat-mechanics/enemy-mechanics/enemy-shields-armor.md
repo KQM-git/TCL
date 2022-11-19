@@ -160,7 +160,7 @@ C = Numbers of Cicin alive.**
 </TabItem>
 </Tabs>
 
-**Elemental Shield strength varies from domains, abyss, co-op, and overworld. Testing was done in overworld using level 1 Weapons and no Artifacts.**
+**Elemental Shield strength varies from domains, abyss, Co-op, and overworld. Testing was done in overworld using level 1 Weapons and no Artifacts.**
 
 ## Elemental Armor
 
@@ -170,14 +170,14 @@ One thing to remember is that unlike **Elemental Shields**, it is possible to de
 
 ![](/img/enemy-shields-armor/zhongli_vs_fatui.png)
 
-The **Elemental Armor** surrounding specifically **Fatui Agents** works in a unique way. Unlike other shield types, they are only damaged by the **Specific Element** that counters them. For instance, an **Electro Fatui's Elemental Armor** will only take damage if inflicted by **Cryo Element.** Other elements deal extremely insignificant damage that it is practically negligible.
+The **Elemental Armor** surrounding specifically **Fatui Agents** works in a unique way. Unlike other shield types, they are only damaged by the **Specific Element** that counters them. For instance, an **Electro Fatuus' Elemental Armor** will only take damage if inflicted by **Cryo Element.** Other elements deal extremely insignificant damage that it is practically negligible.
 
 The following are tables consisting of different types of **Elemental Armor** as well as how to take them down:
 
 ### Fatui
 
 <Tabs>
-<TabItem value="fatui" label="Fatui Skirmishers">
+<TabItem value="Fatui" label="Fatui Skirmishers">
 
 | Fatui Skirmisher Type | Element + Gauge Units                     |
 | :-------------------- | :---------------------------------------- |

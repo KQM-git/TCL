@@ -39,7 +39,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * For conditional weapon passives (Lion's Roar, Dragon's Bane), if condition is true, the passive will be added into the damage calculation.
 * On-hit passives (Flute), sacrificial/favonius weapons cannot trigger under high latency, but Aquila Favonia seems to still work.
 * Taunts behave normally under high latency.
-* Geo construct HP work normally.
+* Geo Constructs HP work normally.
 
 ## Evidence Vault
 

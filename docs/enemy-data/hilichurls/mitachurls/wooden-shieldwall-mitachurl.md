@@ -14,10 +14,10 @@ Face.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 75% HP       | 1 Particle | common  |
-| 50% HP       | 1 Particle | common  |
-| 25% HP       | 1 Particle | common  |
-| Death        | 1 Orb      | common  |
+| 75% HP       | 1 Particle | Clear  |
+| 50% HP       | 1 Particle | Clear  |
+| 25% HP       | 1 Particle | Clear  |
+| Death        | 1 Orb      | Clear  |
 
 ## Resistance Table
 
@@ -50,6 +50,6 @@ Face.
 
 * Uses a large Dendro hand shield. The shield can be destroyed using Pyro attacks, or dealing enough damage to it.
 * Charges in a set direction until colliding with the player or a solid structure.
-* Blocks attacks in the way of its' shields. Attacks from the side and back can still go through. If the shield is destroyed, it will be unable to perform this attack.
+* Blocks attacks in the way of its shields. Attacks from the side and back can still go through. If the shield is destroyed, it will be unable to perform this attack.
 * If the player character strays too close, it can deliver a punch.
 * If the player can't be reached by other attacks, digs in the ground for a Dendro slime to throw at the player.

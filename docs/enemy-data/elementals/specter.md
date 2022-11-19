@@ -61,7 +61,7 @@ As reason might dictate, monsters made from coalesced Anemo already come equippe
   * Stronger attacks charge more fury.
   * When they have a full fury bar they will grow bigger and they do more damage.
 * Shoots two consecutive homing wind bolts that do Anemo DMG.
-  * If at max fury, instead shoots three non-homing bolts in a spread pattern and becomes its' only attack.
+  * If at max fury, instead shoots three non-homing bolts in a spread pattern and becomes its only attack.
 * Spins, puffs up, then releases a Swirl of wind dealing AoE Anemo DMG.
 * Explodes after a short pause when defeated dealing AoE Anemo DMG.
   * If at max fury, will instead create a Vacuum Field that sucks in players and deals Anemo DoT.

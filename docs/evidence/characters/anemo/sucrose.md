@@ -36,11 +36,11 @@ From what I can tell \(complaints about it on Hoyolab\), this has been in the ga
 
 I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are Anemo which will Swirl the Electro debuff on the enemy.
 
-Upon testing, as expected: it works, and yes Lightning Smite also CRITs!
+Upon testing, as expected: it works, and yes Lightning Smite can also CRIT.
 
 **Evidence:**
 
-[https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be](https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be)
+[YouTube](https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be)
 
 **Significance:**
 
@@ -373,7 +373,7 @@ When will we get more Anemo auras on enemies...
 [Instructor buff pre](https://www.youtube.com/watch?v=xXH_wWKpZg4)
 
 * A4 without buff -> 16 EM to other party members.
-* Swirl without A4 buff -> 170 EM to other party members, 120 to sucrose (200 total in sucrose).
+* Swirl without A4 buff -> 170 EM to other party members, 120 to Sucrose (200 total in Sucrose).
 * After instructors and A1 expires -> 40 EM on party members instead of 16.
 
 [Widsith post](https://www.youtube.com/watch?v=F5gj8iyodUs)
@@ -395,8 +395,8 @@ When will we get more Anemo auras on enemies...
 
 **Significance:**
 
-* Use buffs in the right order: Buff sucrose first (this only means albedo) to maximize EM share to rest of party.
-* Time your buffs. its possible to switch back to sucrose before these buffs end to extend the effective duration of A4.
+* Use buffs in the right order: Buff Sucrose first (this only means albedo) to maximize EM share to rest of party.
+* Time your buffs. its possible to switch back to Sucrose before these buffs end to extend the effective duration of A4.
 * Quickswap with Instructors set doesn't need proc the buff with a normal attack first before E.
 
 ## Constellation Mechanics
@@ -445,7 +445,7 @@ This very slightly makes on field enabler Sucrose comps better, as swapping on S
 **Finding:**  
 The buff provided by Sucrose's Constellation 6 \(granting party members a 20% Elemental DMG Bonus based on which Element is absorbed by Sucrose's Burst\) lasts for 10 seconds.
 
-**Evidence:** [https://www.youtube.com/watch?v=VNVnsEdh29c](https://www.youtube.com/watch?v=VNVnsEdh29c)
+**Evidence:** [YouTube](https://www.youtube.com/watch?v=VNVnsEdh29c)
 
 The first test in the video establishes that the Sucrose in question has her Constellation 6 active, and that the buff arrows on Sucrose correspond to a 20% Pyro DMG Bonus from her Burst absorbing Pyro from Guoba.
 
@@ -458,7 +458,7 @@ Teams with C6 Sucrose can plan their absorption time around when they want to ut
 
 ## Synergies/Interactions
 
-### Gambler's 4-Piece effect can stack with sacrificial weapons to refresh two of sucrose's Skill charges simultaneously
+### Gambler's 4-Piece effect can stack with sacrificial weapons to refresh two of Sucrose's Skill charges simultaneously
 
 **By:** Faranight\#0001
 
@@ -482,9 +482,9 @@ If running these together you should avoid triggering both while holding a spare
 **Evidence:**  
 Images are stored in:
 
-* Base Stats: [https://imgur.com/a/pQW7ujK](https://imgur.com/a/pQW7ujK)
-* Albedo Q then Sucrose E: [https://imgur.com/a/KJ5Cp3E](https://imgur.com/a/KJ5Cp3E)
-* Sucrose E then Albedo Q: [https://imgur.com/a/b3u2QhE](https://imgur.com/a/b3u2QhE)
+* Base Stats: [YouTube](https://imgur.com/a/pQW7ujK)
+* Albedo Q then Sucrose E: [YouTube](https://imgur.com/a/KJ5Cp3E)
+* Sucrose E then Albedo Q: [YouTube](https://imgur.com/a/b3u2QhE)
 
 **Setup:**  
 A team comprised of an artifact-less 0 EM Childe, 0 EM Albedo, and a 154 EM Sucrose.
@@ -520,7 +520,7 @@ As we can see from the images, Albedo's A4 must be active when Sucrose triggers 
 **Significance:** This means if you pair Diona into your team, you can either stack even more Elemental Mastery towards your team as Sub-DPS, or you can allocate your Sucrose stats to DPS while not losing too much EM into the team. This only works inside Diona's Burst range, get out of it and the buff is gone. Also the other characters can get the additional 200EM increase if you switch on top of the stack buff.  
 So in essence, Diona's em stacks twice. Same theorem works for Albedo's Burst as well and adding both of them altogether works too but as above, use Albedo first.  
 The above suggests the formula for final EM for a buffed party member after Sucrose’s A1 and A4 is  
-50 + \[\(&lt;sucrose em&gt; + &lt;additional party em buffs&gt;\)×0.2\] + &lt;additional em buffs&gt;.
+50 + \[\(&lt;Sucrose em&gt; + &lt;additional party em buffs&gt;\)×0.2\] + &lt;additional em buffs&gt;.
 
 ### Sucrose Freeze and petrify Burst interaction
 

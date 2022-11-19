@@ -32,7 +32,7 @@ search: false
 **Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_870326929893515314_874088594778771476_transcript-ayaka-hitscan-ca.html)
 
-**Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AOE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:
+**Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AoE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:
 
 * First: The gadget will stick to the target, following them even if running outside her range.
 * Second: After a short delay, all enemies inside the gadget range will be targetted for a hit.(Exact range and height unknown)
@@ -68,8 +68,8 @@ Ayaka's charged attacks do not necessarily do full damage. After a short delay, 
 [Video](https://youtu.be/jR38Uo03eZU)
 
 1. Enemies are not guaranteed to take full damage.
-2. Enemies can exit the AOE prematurely and take less damage.
-3. Enemies can enter the AOE late and still take some damage.
+2. Enemies can exit the AoE prematurely and take less damage.
+3. Enemies can enter the AoE late and still take some damage.
 4. The gadget is "dropped" the moment the damage starts, meaning it does not stick to the marked enemy for the entire duration (only sticks till enemies start getting hit) and stays at the position it was last at.
 
 **Conclusion:**  

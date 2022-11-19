@@ -32,30 +32,30 @@ since plunges do damage to it. Hard staggering an Abyss mage might be another us
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896163835248001034_902207648726908938_transcript-no-dash-dragonstrike.html)
 
 **Finding:**  
-You can jump right before the hitlag occurs on certain moves, giving you enough height to plunge. This is similar to Dragonstrike, but does not require dashing first. This is frame rate dependent as for some of the moves listed below, we were only able to do the tech at 30 fps and not 60 fps. The list is also not exhaustive and there may have been some that we missed out on.
+You can jump right before the hitlag occurs on certain moves, giving you enough height to plunge. This is similar to Dragonstrike, but does not require dashing first. This is frame rate dependent as for some of the moves listed below, we were only able to do the tech at 30 FPS and not 60 FPS. The list is also not exhaustive and there may have been some that we missed out on.
 
 **Evidence:**  
 Qiqi Skill
 
-* [30 fps](https://youtu.be/zumumTW6Yqc)
-* [60 fps](https://youtu.be/Um1oXMVAAXg)
+* [30 FPS](https://youtu.be/zumumTW6Yqc)
+* [60 FPS](https://youtu.be/Um1oXMVAAXg)
 
 Beidou Skill
 
-* [30 fps](https://youtu.be/td9VQrouKh4)
-* [60 fps](https://youtu.be/DiFl5ZQ_rUw)
+* [30 FPS](https://youtu.be/td9VQrouKh4)
+* [60 FPS](https://youtu.be/DiFl5ZQ_rUw)
 
 Raxor Skill
 
-* [30 fps only](https://youtu.be/OxBj-1oa2SQ)
+* [30 FPS only](https://youtu.be/OxBj-1oa2SQ)
 
 Keqing Tap Skill Teleport
 
-* [30 fps](https://youtu.be/SaA45XhNypU)
-* [60 fps with caveats](https://youtu.be/VPZlo9sSqGc)
+* [30 FPS](https://youtu.be/SaA45XhNypU)
+* [60 FPS with caveats](https://youtu.be/VPZlo9sSqGc)
 * [Keqing stays on the ground](https://youtu.be/UPlyT5bJiro)
 
-From many attempts with Keqing at 60fps, the stiletto must be placed ABOVE the ground in order for her to do No Dash DS. Regardless of Stiletto height, Keqing will teleport on the ground with Tap Skill, but the higher Stiletto placement lets Keqing gain height during her jump a couple frames earlier, which is just enough to get a plunge. Keqing can No Dash DS at 30 fps at any Stiletto height.
+From many attempts with Keqing at 60fps, the stiletto must be placed ABOVE the ground in order for her to do No Dash DS. Regardless of Stiletto height, Keqing will teleport on the ground with Tap Skill, but the higher Stiletto placement lets Keqing gain height during her jump a couple frames earlier, which is just enough to get a plunge. Keqing can No Dash DS at 30 FPS at any Stiletto height.
 
 **Significance:**  
 You are able to do the equivalent of Dragonstrike without needing to spend stamina for these moves. This may also provide better positioning in situations where doing a dash jump would move you too far away from the enemy for the plunge to hit.

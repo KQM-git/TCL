@@ -67,7 +67,7 @@ Hitlag extension should be taken into account when simulating Skills/Bursts such
 * 00:01:46 - CD start
 * NA spam \(should add ~1s via hitlag\)
 * 00:13:41 - last heal
-* 00:14:01 - AOE fully faded
+* 00:14:01 - AoE fully faded
 
 Q circle lasted 12s
 
@@ -77,7 +77,7 @@ Q circle lasted 12s
 * 00:09:28 - E CD Start
 * NA Spam \(should add ~1.5s hitlag\)
 * 00:19:32 - CD on Skill hits 4.9 seconds
-* 00:19:39 - AOE fully faded
+* 00:19:39 - AoE fully faded
 * 00:21:43 - CD on Chongyun's Skill hits 2.7s \(when the infusion effect _should_ end\)
 * 00:21:59 - Infused Weapon effect ends
 

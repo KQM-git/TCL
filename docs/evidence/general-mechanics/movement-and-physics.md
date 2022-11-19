@@ -36,10 +36,10 @@ Faster Travel.
 
 Test consists of 9 different positions next to a "launchable" cliff, each of them separate by two single 'taps' forward using Diona \(except for the last \#9 which is a single tap due to not enough space\). After marking both the starting and landing position of each character, it is clear that `dash-off` velocity is not linear and could reflect your character's velocity at the moment it loses it's ground.
 
-Comparison from top \(screenshots\) for each position - [https://imgur.com/a/Sr311lx](https://imgur.com/a/Sr311lx)  
-Comparison by position - [https://imgur.com/a/9kHirR3](https://imgur.com/a/9kHirR3)  
-Comparison by character - [https://imgur.com/a/XZu1Qni](https://imgur.com/a/XZu1Qni)  
-Raw video \(timestamps in description\) - [https://www.youtube.com/watch?v=D2km0PDWnVA](https://www.youtube.com/watch?v=D2km0PDWnVA)
+Comparison from top \(screenshots\) for each position - [YouTube](https://imgur.com/a/Sr311lx)  
+Comparison by position - [YouTube](https://imgur.com/a/9kHirR3)  
+Comparison by character - [YouTube](https://imgur.com/a/XZu1Qni)  
+Raw video \(timestamps in description\) - [YouTube](https://www.youtube.com/watch?v=D2km0PDWnVA)
 
 Results depending on position:
 

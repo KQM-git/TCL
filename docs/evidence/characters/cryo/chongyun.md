@@ -152,7 +152,7 @@ Damage calculations for Chongyun
 
 **Finding:** Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters.
 
-**Evidence:** [https://youtu.be/mlaGmZoQw7k](https://youtu.be/mlaGmZoQw7k)
+**Evidence:** [YouTube](https://youtu.be/mlaGmZoQw7k)
 
 C2 Chongyun reduces Qiqi’s E cooldown by 4.5 seconds. It continues to do so while in Cecilia Garden 2 which increases your Skill’s CD duration by 100%.
 
@@ -188,7 +188,7 @@ Bennett’s E CD w/ A1, A4, Slowing Waters and CY C2: 3.7 seconds
 4 - .3 = 3.7 seconds
 ```
 
-**Evidence:** [https://imgur.com/a/I8TM0uV](https://imgur.com/a/I8TM0uV)
+**Evidence:** [YouTube](https://imgur.com/a/I8TM0uV)
 
 **Significance:** This suggests that when another character grants a different character CDR it is treated as a separate buff that is applied without taking debuffs in account.
 

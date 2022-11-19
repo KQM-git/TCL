@@ -165,9 +165,9 @@ The findings firstly disprove that Gorou’s paw symbol must fully appear before
 Itto starts gaining SSS stacks 50 frames later than according to the C1 description.
 
 **Evidence:**  
-According to Itto's 1st Constellation description, "After using \[Q\] ... \[a\]fter 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s." If we assume that the game is in 60 fps, this means that we expect the first SSS stack to be gained 90 frames after Itto uses Q, and the second and third SSS stacks to be gained 30 and 60 frames after this, respectively. However, in-game testing shows that this isn't what really happens.
+According to Itto's 1st Constellation description, "After using \[Q\] ... \[a\]fter 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s." If we assume that the game is in 60 FPS, this means that we expect the first SSS stack to be gained 90 frames after Itto uses Q, and the second and third SSS stacks to be gained 30 and 60 frames after this, respectively. However, in-game testing shows that this isn't what really happens.
 
-Two trials were done in 60 fps and at different pings to check for ping-dependency:
+Two trials were done in 60 FPS and at different pings to check for ping-dependency:
 
 1. [Ping = 33ms](https://www.youtube.com/watch?v=sy_iIxdCXyA&ab_channel=GoldenMantis)
 

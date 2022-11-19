@@ -24,7 +24,7 @@ The difference between initiating a low plunge from the jet combo \(N1CJP\) is l
 
 **Evidence:**
 
-[https://imgur.com/fuC3rSh](https://imgur.com/fuC3rSh)
+[YouTube](https://imgur.com/fuC3rSh)
 
 **Significance:**
 
@@ -86,7 +86,7 @@ Xiao’s plunge does not hit enemies within Venti’s ult. When it does it’s w
 
 **Evidence:**
 
-[https://imgur.com/a/QpaSIns ](https://imgur.com/a/QpaSIns)
+[YouTube](https://imgur.com/a/QpaSIns)
 
 **Significance:**
 

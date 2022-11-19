@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 Particle | common  |
-| 33% HP       | 1 Particle | common  |
-| Death        | 1 Particle | common  |
+| 66% HP       | 1 Particle | Clear  |
+| 33% HP       | 1 Particle | Clear  |
+| Death        | 1 Particle | Clear  |
 
 ## Resistance Table
 
@@ -47,5 +47,5 @@ Head.
 
 ## Attacks
 
-* Swings its' oar over head at the player.
-* Starts charging forward, rapidly swinging its' oar.
+* Swings its oar over head at the player.
+* Starts charging forward, rapidly swinging its oar.

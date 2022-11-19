@@ -16,10 +16,10 @@ Face.
 
 | HP Threshold | Type               | Element |
 | :----------- | :----------------- | :------ |
-| 75% HP       | 1 Orb              | common  |
-| 50% HP       | 1 Orb              | common  |
-| 25% HP       | 1 Orb              | common  |
-| Death        | 1 Orb + 1 Particle | common  |
+| 75% HP       | 1 Orb              | Clear  |
+| 50% HP       | 1 Orb              | Clear  |
+| 25% HP       | 1 Orb              | Clear  |
+| Death        | 1 Orb + 1 Particle | Clear  |
 
 ## Resistance Table
 
@@ -59,7 +59,7 @@ Face.
 * Enters a stance and rushes toward the player while drawing its sword.
 * Enters Iai stance and charges for a while before quickly slashing around itself once.
 * Slashes three times, following the player's current location.
-* The Maguu Kenki will clench and raise its' fist to taunt its opponent if they are far away from it after an attack.
+* The Maguu Kenki will clench and raise its fist to taunt its opponent if they are far away from it after an attack.
   * It is vulnerable to attacks while in this state.
 * At 71% HP, it will become invincible, summon an additional sword, charging up before slamming the ground for a wide AoE, createing crystalline spikes around it, dealing Anemo and Cryo damage.
   * While in this animation, it will be invulnerable.

@@ -18,7 +18,7 @@ search: false
 **Findings and Evidence:**
 
 1. The Omni-Ubiquity Net (OUN) has a 1-animal-per-net limit. - [YouTube](https://youtu.be/0ZnybwvyPDA)
-2. If more than one animal is in the OUN's aoe, the animal closest to the player is captured. - ([YouTube](https://youtu.be/0vAt78Ie5U4), [imgur](https://imgur.com/a/7QrDRHe), [imgur](https://imgur.com/a/ilbkbsQ), [imgur](https://imgur.com/a/egQVxXd), [imgur](https://imgur.com/a/ZiGwoka))
+2. If more than one animal is in the OUN's AoE, the animal closest to the player is captured. - ([YouTube](https://youtu.be/0vAt78Ie5U4), [imgur](https://imgur.com/a/7QrDRHe), [imgur](https://imgur.com/a/ilbkbsQ), [imgur](https://imgur.com/a/egQVxXd), [imgur](https://imgur.com/a/ZiGwoka))
 3. Using the OUN near an animal will startle nearby animals, even if Sayu/Aloy are in the party, even if no animal is actually captured. - ([YouTube](https://youtu.be/OUBx9G5cVxo), [YouTube](https://youtu.be/Kv1Utj4YV50), [YouTube](https://youtu.be/NML6hmKToNE))
 4. The OUN does not seem to have a time limit on how long it can be held without capturing an animal (Additionally, you can rotate a full 360 degrees while holding it, but there is a maximum upper/lower angle that it can be aimed). - [YouTube](https://youtu.be/9HORkvTCyUA)
 5. The OUN can't be used in Domains or Abyss, like most other gadgets. - [YouTube](https://youtu.be/-D7_MHUTE_4)

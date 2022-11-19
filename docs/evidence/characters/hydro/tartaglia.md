@@ -25,9 +25,9 @@ Accounting for weak-spot hits, theoretical MV/s of aimed shot spam is more compe
 **Evidence:**
 
 * General calculations performed:
-  * [https://gyazo.com/56d0d5cd709c03426019390e0219e246](https://gyazo.com/56d0d5cd709c03426019390e0219e246)
+  * [Gyazo](https://gyazo.com/56d0d5cd709c03426019390e0219e246)
 * Footage analyzed for frame data on charged shots:
-  * [https://youtu.be/99qxCxSRWpg](https://youtu.be/99qxCxSRWpg)
+  * [YouTube](https://youtu.be/99qxCxSRWpg)
 
 For calculations, bow charge time averaged at 100 frames to accommodate for human error in practice. Aimed shot gap fill seems to lose out by 20% to N3C.
 
@@ -52,7 +52,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 **Finding:**  
 Childe's stance switch from ranged to melee triggers Shatter on Frozen targets and Unfreezes enemies**.**
 
-**Evidence:** [https://youtu.be/-JP-hYcHons](https://youtu.be/-JP-hYcHons)
+**Evidence:** [YouTube](https://youtu.be/-JP-hYcHons)
 
 **Significance:**  
 Potential interference in niche party combo situations.
@@ -173,7 +173,7 @@ We expected it to behave such that the riptide effects can only be triggered by 
 
 **Evidence:**
 
-[https://youtu.be/wtAl5aVZo1Y](https://youtu.be/wtAl5aVZo1Y)
+[YouTube](https://youtu.be/wtAl5aVZo1Y)
 
 **Significance:**
 
@@ -190,7 +190,7 @@ As multiple players had pointed out, Childe seems to have a fixed 3-second ICD o
 
 **Evidence:**
 
-[https://www.youtube.com/watch?v=bsxSsu1njkU](https://www.youtube.com/watch?v=sujHVSor-QY)  
+[YouTube](https://www.youtube.com/watch?v=sujHVSor-QY)  
 The link above is a video of Childe doing Melee N1 cancels on a marked Ruin Guard. It shows how both Riptide ICD and Particle Gen ICD interacts with one another.
 
 **Significance:**  
@@ -264,7 +264,7 @@ Childe's Melee Stance cooldown is shortened by 15% if he's standing in Chongyun 
 
 **Evidence:**
 
-[https://youtu.be/didYpfSR4CY](https://youtu.be/didYpfSR4CY)  
+[YouTube](https://youtu.be/didYpfSR4CY)  
 Shoutout to @Andelme
 
 **Significance:**
@@ -379,7 +379,7 @@ Childe can vape his normal attacks consistently if there are no riptide procs an
 Steps:
 
 1. Remove all CRIT Rate from Childe
-2. Apply Pyro on enemy. XL can reapply Pyro fast enough for Childe to vape consistently if he never CRITs and proc riptide
+2. Apply Pyro on enemy. XL can reapply Pyro fast enough for Childe to vape consistently if he never score CRIT hits and proc riptide
 3. Normal attack with childe and hope it doesn't CRIT and apply riptide
 
 **Evidence:**  

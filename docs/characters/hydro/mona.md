@@ -127,7 +127,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * **Illusory Torrent** isn't affected by stamina reduction passives from Kaeya or Razor
 * **Illusory Torrent** holds priority over Mona's Skill, meaning that if you dash before Mona's Skill is finished casting, the Skill cast will be cancelled and Mona will dash instead.
-* Her alternate sprint has the same iframes as other characters' normal sprint.
+* Her alternate sprint has the same i-frames as other characters' normal sprint.
 * Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
   * the same goes for Anemo Resonance
 

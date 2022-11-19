@@ -30,7 +30,7 @@ search: false
 
 ## Attack Mechanics
 
-* Clusterbloom arrows have a small aoe with a radius of 1m. - [Video](https://youtu.be/7cPd0ySqmUI) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊#9920
+* Clusterbloom arrows have a small AoE with a radius of 1m. - [Video](https://youtu.be/7cPd0ySqmUI) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊#9920
 * Tighnari’s Clusterblooms have a max range before they disappear. - [Video](https://youtu.be/nXZ0qsLbfco) - Wüolf#3334
 * If there is no target in range, clusterbloom arrows target where the wreath arrow hit. If there is a target in range, it prioritizes enemies over objects, even if the wreath arrow hits the object. If there are multiple targets, it only targets one of them. - [Video](https://youtu.be/WsiBn6Wzk78) - flamescion#9370
 * Clusterbloom arrows move in an upward and backward trajectory before homing towards the target. This can make them hit other objects like walls etc. - [Video](https://youtu.be/6rJq2vqFJHo) - flamescion#9370

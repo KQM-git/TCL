@@ -50,7 +50,7 @@ Equipping support characters with Lion's Roar/Dragon's Bane/Rainslasher that dea
 Can Lions Roar, 4TS, dragon's Bane, Raven's Bow increase reaction DMG?
 
 * The answer is no, for Transformative reactions
-* But yes for Amplifying reactions \(melt and Vaporize\)
+* But yes for Amplifying Reactions \(melt and Vaporize\)
 
 **Evidence:**  
 Test 1: EC
@@ -128,7 +128,7 @@ From the test we can conclude that the buff can be applied to their Skills even 
 **Last tested:** <VersionHl date="2021-02-04" />
 
 **Evidence:**  
-Testing was done using Diona @ around 40% CRIT Rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% CRIT Rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a Hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per CRIT\). Shielded fatui skirmishers on the other hand, does not prevent favonius from working since it does not block DMG completely like the others.
+Testing was done using Diona @ around 40% CRIT Rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% CRIT Rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a Hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per CRIT\). Shielded Fatui skirmishers on the other hand, does not prevent favonius from working since it does not block DMG completely like the others.
 
 **Short demonstration**: _Streamable link lost to the sands of time_
 
@@ -160,7 +160,7 @@ Result : 134 attempts, 123 proc, 11 non-proc
 [Video 3](https://youtu.be/UyUWYnMFCCE) (65 attempts)
 
 **Significance:**  
-Favonius Weapons are more effective on character with large AOE abilities/against multiple targets
+Favonius Weapons are more effective on character with large AoE abilities/against multiple targets
 
 ### Favonius Proc Calculator
 
@@ -300,7 +300,7 @@ This is not a method to trigger Freedom-Sworn's passive.
 **Evidence:**  
 <Tabs>
 <TabItem value="link" label="Link">
-This is the tool I used to run simulations for Royal weapon line CRITs.
+Tool used to run simulations for Royal weapon line CRIT hits.
 
 [Link](https://docs.google.com/spreadsheets/d/1v1hi6tUdFEC4SHM6_zwtlXOmCl_5paXqAD_d8uU6Umc/edit?usp=sharing)
 
@@ -382,7 +382,7 @@ The passive of royal weapons continues to stack even when a snapshotting Skill d
 
 * [Video 1](https://youtu.be/cUd-kFqAOSU)
 * [Video 2](https://youtu.be/eJijOEJs4L0)  
-  The tests were conducted as follows: gain 5 stacks of a Royal weapon, exit combat and then raise CRIT Rate up to >100%. Then use an AoE ability and counter the number of non-CRITs.
+  The tests were conducted as follows: gain 5 stacks of a Royal weapon, exit combat and then raise CRIT Rate up to >100%. Then use an AoE ability and counter the number of non-CRIT hits.
   If CRIT didn't "snapshot" and instead was calculated one by one, then after the first CRIT the CRIT Rate would drop to ~60% due to losing 5 stacks of a R1 Royal weapon and the 2nd instanse of damage would have a reasonable chance to not CRIT.
   In the above tests, not a single event of non-CRIT has been observed which allows us with a reasonable amount of confidence claim that AoE abilities do "snapshot" CRIT Rate.
 
@@ -414,7 +414,7 @@ Stacks can be gained when the character equipped with the Royal weapon is off-fi
    [YouTube video](https://youtu.be/mTEGm35iLmI)
 3. Superconduct and Swirl chain reactions
    [YouTube video](https://youtu.be/hWfeeU6b9tM)
-4. Overload and Electro-charged
+4. Overload and Electro-Charged
    [YouTube video](https://youtu.be/PrXV4em0ssc)
 
 **Significance:**  
@@ -541,7 +541,7 @@ Result : 137 attempts, 114 proc, 23 non-proc
 * [Video 3](https://youtu.be/K7lhvmV2-ZM) (56 attempts)
 
 **Significance:**  
-Sacrificial Weapons are more effective on character with large AOE Skills/against multiple targets
+Sacrificial Weapons are more effective on character with large AoE Skills/against multiple targets
 
 ## Skyward Series
 
@@ -590,7 +590,7 @@ When using the Skyward Harp, it is now apparent that it is slightly better then 
 
 ### Skyward Pride
 
-#### Skyward Pride Damage Interaction with 4 Set Gladiators
+#### Skyward Pride Damage Interaction with 4 Piece Gladiators
 
 **By:** Chiefy\#2036  
 **Added:** <Version date="2021-03-30" />  
@@ -702,8 +702,8 @@ There is some inconsistency with shielded sword characters and aquila favonia pr
 The videos show:
 
 1. How Aquila does not proc when protected by a shield
-2. How Aquila can proc while in Burst iframes, without a shield
-3. How Aquila can proc while in Burst iframes, while protected by a shield
+2. How Aquila can proc while in Burst i-frames, without a shield
+3. How Aquila can proc while in Burst i-frames, while protected by a shield
 
 **Significance:**  
 This interaction may affect other "triggers on taking DMG" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
@@ -753,7 +753,7 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 **Bug:**
 
 * After hitting a shield (Abyss Mage, Mitachurl Shield, Kairagii Parry, etc) Cinnabar Passive will deactivate indefinitely until party swap/unequip and reequip the weapon.
-* This bug only happens with Albedo due to his specific Skill trigger requiring a hit to deal damage first. It'll require a non-melee hit to trigger, whether it be a projectile, AOE attack, or even burning grass.
+* This bug only happens with Albedo due to his specific Skill trigger requiring a hit to deal damage first. It'll require a non-melee hit to trigger, whether it be a projectile, AoE attack, or even burning grass.
 * There is, however, some slight inconsistency. The bug will not trigger 100% of the time, it may trigger even without a shield, and it may even reactivate.
 
 **Evidence:**
@@ -783,9 +783,9 @@ The ATK or ATK/Def bonus of the Deathmatch snapshots the last effect when the ho
 **Evidence:**  
 [YouTube](https://www.youtube.com/watch?v=9Mc6ubPR8_U)
 
-When first equipping the Deathmatch, it will have the ATK boost passive active. Going to a group of enemies and swapping in will activate the split ATK/Def bonus for 2+ enemies. If you then swap her back off-field and teleport away, the stat screen will show the Def bonus is still active.
+When first equipping the Deathmatch, it will have the ATK boost passive active. Going to a group of enemies and swapping in will activate the split ATK/DEFbonus for 2+ enemies. If you then swap her back off-field and teleport away, the stat screen will show the DEFbonus is still active.
 
-Opening the menu as Yun Jin swaps on-field still displays the Def bonus at first, so there seems to be some sort of tickrate for the passive. Going back to the group of enemies with Yun Jin off-field, the passive still has the effect for 0-1 enemies.
+Opening the menu as Yun Jin swaps on-field still displays the DEFbonus at first, so there seems to be some sort of tickrate for the passive. Going back to the group of enemies with Yun Jin off-field, the passive still has the effect for 0-1 enemies.
 
 **Significance:**  
 When you can run Yun Jin on deathmatch, the passive snapshot can sometimes maintain her buff stats even when enemies start to die or spawn.
@@ -921,7 +921,7 @@ Confirmation that the bugfix introduced with the 3.1 update "Fixes an issue wher
 [Discussion](https://tickets.deeznuts.moe/transcripts/cursed-blade-reduction-mechanic)
 
 **Finding:**  
-The cursed blade you use in the kazuha story quest says the wielder deals 50% less DMG. This effect is additive with DMG bonus, and does not affect transformative damage.
+The cursed blade you use in the Kazuha story quest says the wielder deals 50% less DMG. This effect is additive with DMG bonus, and does not affect transformative damage.
 
 **Evidence:**  
 Kazuha a1 deals 2079 DMG, and Swirl does 2020 DMG.
@@ -937,7 +937,7 @@ Swirl calc with no reduction applied: 868.1 _ 2.586 _ 0.9 = 2020.42, same as vid
 (A1 CRITs here or otherwise it is doomed)
 
 **Significance:**  
-Assuming kazuhas level does not approach infinity while the enemy level and/or DEF does, and assuming DEF Shred/reduction does not approach 100%, the DMG reduction on the quest's cursed blade matters less and less because the DEF formula would make non transformative or true damage approach 0 anyways. It will not impact transformative or true damage, which both bypass DEF, so the effect of the DMG reduction is negligible. In such a case kazuha should probably use an em weapon, but at the very least the DMG reduction on the cursed blade will not be very detrimental in these scenarios.
+Assuming kazuhas level does not approach infinity while the enemy level and/or DEF does, and assuming DEF Shred/reduction does not approach 100%, the DMG reduction on the quest's cursed blade matters less and less because the DEF formula would make non transformative or true damage approach 0 anyways. It will not impact transformative or true damage, which both bypass DEF, so the effect of the DMG reduction is negligible. In such a case Kazuha should probably use an em weapon, but at the very least the DMG reduction on the cursed blade will not be very detrimental in these scenarios.
 
 ---
 
@@ -1487,7 +1487,7 @@ Losing Serpent Spine stacks has an ICD depending on the stack count.
 Getting hit by multi hit attacks will still only remove one stack thus increasing your overall uptime on stacks. 1 and 2 stacks have a better protection than higher stacks due to an increased ICD.
 
 * Relevant examples in the overworld only: environmental damage
-* Relevant examples: Ruin guard missiles or the Cryo gun attack from the Cryo fatui \([YouTube](https://youtu.be/qaxgPjY78YE)\)
+* Relevant examples: Ruin guard missiles or the Cryo gun attack from the Cryo Fatui \([YouTube](https://youtu.be/qaxgPjY78YE)\)
 
 #### Serpent Spine Damage Taken affects Shields
 
@@ -1598,17 +1598,17 @@ Eula A4 (by ZyronX#2720): [Imgur](https://imgur.com/NGaENqc)
 Eula off field (by ZyronX#2720): [Imgur](https://imgur.com/o9pwCEU)  
 Sayu on field (by ZyronX#2720): [Imgur](https://imgur.com/eWbY6Oo)  
 Sayu off field (by ZyronX#2720): [Imgur](https://imgur.com/wSb0g3M)  
-AOE finding part 1: [YouTube](https://youtu.be/oNb9mnl2aXA)  
-AOE finding part 2: [YouTube](https://youtu.be/GH2EAS-rcus)
+AoE finding part 1: [YouTube](https://youtu.be/oNb9mnl2aXA)  
+AoE finding part 2: [YouTube](https://youtu.be/GH2EAS-rcus)
 
 **Significance:**  
-The passive procs as intended similar to the other mentioned previously. However, ZyronX has confirmed that the passive has an aoe that can affect multiple targets with a single proc. It should be easier to do this if an Anemo cc such as venti Burst was used.
+The passive procs as intended similar to the other mentioned previously. However, ZyronX has confirmed that the passive has an AoE that can affect multiple targets with a single proc. It should be easier to do this if an Anemo cc such as venti Burst was used.
 
 ---
 
 ### The Flute
 
-#### The Flute’s AOE can CRIT
+#### The Flute’s AoE can CRIT
 
 **By:** Crome\#2644
 
@@ -1695,7 +1695,7 @@ This info has no practical application other than to test buff timings.
 WGS procs do not stack and the most recent proc overwrites the existing proc, even if it has duration left over
 
 **Evidence:**  
-[https://youtu.be/ZXYUcnA-80A](https://youtu.be/ZXYUcnA-80A)
+[YouTube](https://youtu.be/ZXYUcnA-80A)
 
 **Significance:**  
 Multiple WGS can kinda suck if they're not equal refine

@@ -8,7 +8,7 @@ Certain Skills create objects that stay on the field, which are called **constru
 
 ## Geo Constructs
 
-Geo Constructs are created by Geo characters, there is a **maximum of three Geo constructs on-field at once**. The moment a fourth construct is created, the oldest construct placed will be destroyed. This occurs even if the fourth construct fails to be created due to invalid placement. There is one exception to the construct limit, which are the walls created by the Geo Traveler's Wake of Earth, they are still considered Geo Constructs yet do not count towards the construct limit.
+Geo Constructs are created by Geo characters, there is a **maximum of three Geo Constructss on-field at once**. The moment a fourth construct is created, the oldest construct placed will be destroyed. This occurs even if the fourth construct fails to be created due to invalid placement. There is one exception to the construct limit, which are the walls created by the Geo Traveler's Wake of Earth, they are still considered Geo Constructs yet do not count towards the construct limit.
 
 There is also a distance limit, meaning when the player teleports too far away from a Geo Construct it will disappear. The exact distance is unknown, but from the Teleport Waypoint above Knights of Favonius HQ to the Teleport Waypoint in Cape Oath exceeds said limit.
 
@@ -37,7 +37,7 @@ All temporary buffs are snapshotted when cast and will affect the construct for 
 | Xiangling        | Skill  | Invulnerable    | Light          |
 | Zhongli          | Skill  | 1:1             | Geo, Climbable |
 
-* **Geo:** Construct towards Geo construct limit. See [Geo Constructs](#geo-constructs).
+* **Geo:** Construct towards Geo Constructs limit. See [Geo Constructs](#geo-constructs).
 * **Taunt:** Construct continuously taunts nearby enemies into attacking it.
 * **Light:** Construct can be lifted by vacuums \(such as Jean's Skill\)
 * **Climbable:** Construct can be climbed by character.

@@ -155,12 +155,12 @@ short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJ
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883181763143286884_903518750903504926_transcript-fish-trolling.html)
 
 **Finding:**  
-You can grief people trying to fish in co-op with multiple methods. You can either interrupt the fisher, or scare the fish away.
+You can grief people trying to fish in Co-op with multiple methods. You can either interrupt the fisher, or scare the fish away.
 
-1. There is always collision in co-op, but fishers are prone to movement from this collision. Moving them far enough from their original fishing position will cancel their fishing.
-2. Using Albedo, you can plant an elevator under their feet to cancel their fishing, as long as the albedo elevator is able to rise unimpeded. As of 2.2, other Geo constructs do not seem to interrupt fishing as they do not force player movement.
+1. There is always collision in Co-op, but fishers are prone to movement from this collision. Moving them far enough from their original fishing position will cancel their fishing.
+2. Using Albedo, you can plant an elevator under their feet to cancel their fishing, as long as the albedo elevator is able to rise unimpeded. As of 2.2, other Geo Constructss do not seem to interrupt fishing as they do not force player movement.
 3. Drawing enemy aggro: Fishers are intangible to enemy projectiles and attacks and immune to environmental damage, but aggro'ed mobs can physically collide and move the traveler to cancel fishing. Enemies that charge at the player, such as Mitachurls, are optimal for doing so. This is a more "innocent" method of trolling -- you may be able to pass of aggroing the mobs to push the fisher as a mistake. Also, you cannot start fishing while in combat, so if you can get them aggro'ed onto the fisher before fishing can even begin, they have to kill the mobs first. This is probably more reliable than getting a mob to push them away.
-4. Scare the fish off by just moving into the water (swimming, using Waverider, etc), or attacking the fish (Aimed Shots, Klee bombs, etc). Do not do this early because there will be no fish left for your co-op partner to fish for, meaning the grief will be final for the fishing spot until the fish come back. Use previous methods to their full griefing potential before employing this technique.
+4. Scare the fish off by just moving into the water (swimming, using Waverider, etc), or attacking the fish (Aimed Shots, Klee bombs, etc). Do not do this early because there will be no fish left for your Co-op partner to fish for, meaning the grief will be final for the fishing spot until the fish come back. Use previous methods to their full griefing potential before employing this technique.
 
 Note that enemy attacks do not seem to be able to scare away fish, which otherwise would have been a difficult but covert way of scaring fish away.
 

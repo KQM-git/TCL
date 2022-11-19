@@ -322,8 +322,8 @@ There are two types of artifact spots:
 Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
 
 **Evidence:**  
-[https://youtu.be/Z0VjSrFASLw](https://www.youtube.com/watch?v=Z0VjSrFASLw)  
-[https://youtu.be/Zx2MKX8Nv8E](https://www.youtube.com/watch?v=Zx2MKX8Nv8E)
+[YouTube](https://www.youtube.com/watch?v=Z0VjSrFASLw)  
+[YouTube](https://www.youtube.com/watch?v=Zx2MKX8Nv8E)
 
 **Significance:**  
 [Video](https://youtu.be/LDU_Txk06tM?t=75)
@@ -530,7 +530,7 @@ If you're about to hit the daily cap and go too far from the place you are at ri
 **Evidence:**  
 Timestamped: [Video](https://youtu.be/Uzs8yu6H1BI?t=1778) - gathered 99th spot, going north to get 100th which is the cap. There are 2 spots visible here to gather.  
 Timestamped: [Video](https://youtu.be/Uzs8yu6H1BI?t=2780) - gathered 174 spots, no investigation spots present even though there was no teleport/relog happening.  
-Area covered by black thick border shows the vicinity of where I was past 100th spot, while the dot displays timestamped above locations.
+Area covered by black thick border shows the vicinity of where I was past 100th spot, while the DoT displays timestamped above locations.
 
 **Significance:**  
 A test whether already rendered investigation spots get removed from your memory if you go too far or not - if it was allowed then it would be possible to walk through the entire inazuma (if you're some freaking absolute minmaxer), render all investigation spots at least once and then pick all of them up because everything is stored in your memory.
@@ -546,7 +546,7 @@ The above video displays that investigation spots are stored in your memory, and
 
 **Findings:**
 
-* 'Co-op helps': Investigates \(Artifacts, Weapons, Iron, Energy, Veggies\) don't despawn after reaching daily cap as long as a watcher \(host or co-op teammate\) is near them \[1\].
+* 'Co-op helps': Investigates \(Artifacts, Weapons, Iron, Energy, Veggies\) don't despawn after reaching daily cap as long as a watcher \(host or Co-op teammate\) is near them \[1\].
 * 'Order matters': Which spots are included in a cluster can change depending on which spot is being watched when 100th investigate is done \[2\]\[5\].
 * 'Wide clusters': Clusters can extend pretty far \[3\].
 * 'Merged!': Tatarasuna and the nearby spots \#7, \#8 & BK6 can be merged into a single cluster by placing watchers at certain locations. Same goes for Koseki and Seiraimaru \(Kosekimaru?\) \[4\].
@@ -604,7 +604,7 @@ Attacks that shake untouched trees, including enemy attacks, can allow them to b
 * Some Skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E Skills, while Razor can harvest with E only if he uses Overload.
 
 **Evidence:**  
-Summary post with multiple videos here [https://imgur.com/a/RnevAeW](https://imgur.com/a/RnevAeW)
+Summary post with multiple videos here [YouTube](https://imgur.com/a/RnevAeW)
 
 **Significance:**  
 Attacks are not equal in terms player-environment interaction. Most Skills can never harvest nor shake tress; some can shake trees, others can harvest directly, while others can harvest indirectly via Overloading burning grass. Most importantly for combat, damage sources appear to be treated differently depending on the character, attack, and reaction source. Overloading via E to harvest a marked tree works for Razor and Beidou, but not Xiangling or Fischl's Elemental arrow. Overload seems to work on burning grass but not self-overloads. Dealing phys damage with Xinyan harvests using a Normal Attack, but only shakes during her Burst. More broadly, the game appears to be conserving resources by limiting the player's kit unless certain enabling actions are taken. After enabling these attacks, the game shuts them down after a short window. Enemies appear to be permanently enabled for all attacks, but the player must fight enemies within a specific area, otherwise they will teleport back and reset.
@@ -656,11 +656,11 @@ Summary of Results, most efficient units for tree chopping:
 
 **Evidence:**
 
-* Inventory before and after farming wood over 3 days: [https://imgur.com/a/tNZP68q](https://imgur.com/a/tNZP68q)
-* Evidence that player cannot collect more bamboo, but can collect other wood: [https://youtu.be/f_eQfp1FWLM](https://youtu.be/f_eQfp1FWLM)
-* Same for pine wood: [https://youtu.be/yh4PodfeX7c](https://youtu.be/yh4PodfeX7c)
-* Hitting cap and testing teleport and logout/login \(and showing that neither reset the cap\): [https://youtu.be/pE-vHLpum6Q](https://youtu.be/pE-vHLpum6Q)
-* Collecting pine wood after server reset \(marked by new daily commission quest at 0:12\): [https://youtu.be/9WrYqapBFkU](https://youtu.be/9WrYqapBFkU)
+* Inventory before and after farming wood over 3 days: [YouTube](https://imgur.com/a/tNZP68q)
+* Evidence that player cannot collect more bamboo, but can collect other wood: [YouTube](https://youtu.be/f_eQfp1FWLM)
+* Same for pine wood: [YouTube](https://youtu.be/yh4PodfeX7c)
+* Hitting cap and testing teleport and logout/login \(and showing that neither reset the cap\): [YouTube](https://youtu.be/pE-vHLpum6Q)
+* Collecting pine wood after server reset \(marked by new daily commission quest at 0:12\): [YouTube](https://youtu.be/9WrYqapBFkU)
 
 Note that although I did need to teleport to get wood after reset, teleporting alone does not reset the cap, as shown above.
 

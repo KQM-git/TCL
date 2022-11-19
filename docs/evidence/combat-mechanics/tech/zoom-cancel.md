@@ -17,11 +17,11 @@ Many characters have a primary camera that normally tracks them and a secondary 
 
 **Evidence:**
 
-* [https://imgur.com/qH0k5sG](https://imgur.com/qH0k5sG)
-* [https://imgur.com/aAT0UX8](https://imgur.com/aAT0UX8)
-* [https://imgur.com/iEpCC5E](https://imgur.com/iEpCC5E)
-* [https://www.youtube.com/watch?v=4u0c-Pmfn5s](https://www.youtube.com/watch?v=4u0c-Pmfn5s)
-* [https://www.youtube.com/watch?v=LYxdAABh9F4](https://www.youtube.com/watch?v=LYxdAABh9F4)
+* [YouTube](https://imgur.com/qH0k5sG)
+* [YouTube](https://imgur.com/aAT0UX8)
+* [YouTube](https://imgur.com/iEpCC5E)
+* [YouTube](https://www.youtube.com/watch?v=4u0c-Pmfn5s)
+* [YouTube](https://www.youtube.com/watch?v=LYxdAABh9F4)
 * [Details on Raycasting](https://docs.unity3d.com/ScriptReference/Physics.Raycast.html)
 
 **Frames before recovery with Zoom Cancel:** These match exactly with ult dash cancel frames from Robin's sim.

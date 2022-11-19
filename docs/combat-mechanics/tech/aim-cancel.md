@@ -67,7 +67,7 @@ Hold Cancels take time to enter Aimed Shot mode, but have a significantly shorte
 
 * **PC/Mobile/Controller:** Shoot a CA with either Aim Toggle or Hold Attack, then dash after the CA is shot. Repeat.
 
-Dash Cancels shoot CAs at a similar rate to Hold Cancels, trading stamina for increased mobility and iframes.\
+Dash Cancels shoot CAs at a similar rate to Hold Cancels, trading stamina for increased mobility and i-frames.\
 An important note about Dash Canceling CAs is that if the dash happens on the same frame that the CA is shot, that CA will have the properties of ARCC (see below). To avoid getting an ARCC, dash at least 1 frame after shooting a CA.
 
 ## M1-R

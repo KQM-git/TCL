@@ -30,7 +30,7 @@ $$
 
 #### Different enemies/characters have different poise, vulnerability, and poise regeneration
 
-> A Fatui Cryogunner has more poise, vulnerability, and poise regeneration than a normal Hilichurl.  
+> A Fatuus Cryogunner has more poise, vulnerability, and poise regeneration than a normal Hilichurl.  
 > A melee character has more poise, vulnerability, and poise regeneration than a ranged character.
 
 #### Some attacks or abilities can change vulnerability
@@ -42,7 +42,7 @@ $$
 
 You can stack Poise and allow your characters to further avoid being staggered.
 
-#### The number of teammates in co-op mode will increase poise or decrease vulnerability.
+#### The number of teammates in Co-op mode will increase poise or decrease vulnerability.
 
 ### Factors that affect Poise Damage
 

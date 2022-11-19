@@ -49,8 +49,8 @@ All resistances +100% additive increase while armored.
 
 ## Attacks
 
-* Infues itself with a Hydro armor, gaining great resistance and empowering certain attacks. The armor will have its' resistance against most Elements increased, but has a great weakness to Electro Elemental application.
+* Infues itself with a Hydro armor, gaining great resistance and empowering certain attacks. The armor will have its resistance against most Elements increased, but has a great weakness to Electro Elemental application.
 * Charges up for a brief moment, then shoots a single bubble bullet at the player.
   * While armored: the bubble bullet is much faster.
-* Throws a Hydro bubble at its' ally, healing it.
+* Throws a Hydro bubble at its ally, healing it.
   * While armored: heals for more.

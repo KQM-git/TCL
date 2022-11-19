@@ -21,7 +21,7 @@ search: false
 **Last tested:** <VersionHl date="2020-12-06" />
 
 **Evidence:**  
-[https://www.youtube.com/watch?v=txxpy3-lrYM](https://www.youtube.com/watch?v=txxpy3-lrYM)
+[YouTube](https://www.youtube.com/watch?v=txxpy3-lrYM)
 
 **Significance:**
 
@@ -45,7 +45,7 @@ Input overlay to detect inputs, counting from 1 on the frame after the input is 
 
 * [2 fail - Video](https://drive.google.com/file/d/19A-8JJeoLCxcu5dWZzJXNuge2_PHvGWF/view?usp=sharing)
 * [3 success - Video](https://drive.google.com/file/d/1dwVDUyJ8-wTQtrnQG2du4EMfv0S4b3HC/view?usp=sharing)
-* [19 success - Video](https://drive.google.com/file/d/1k-R3PBdrcqM-fi-eZfSMp1LXularvnfM/view?usp=sharing)
+* [19 success - Video](https://drive.google.com/file/d/1k-r3PBdrcqM-fi-eZfSMp1LXularvnfM/view?usp=sharing)
 * [20 Fail - Video](https://drive.google.com/file/d/1DQ6qV63yQ6Bsc4Mq1j9LVbn2vGRSakxF/view?usp=sharing)
 
 **Significance:**
@@ -459,7 +459,7 @@ The bell will provide its damage bonus with concurrent abilities such as Beidouâ
 **Last tested:** <VersionHl date="2020-11-19" />
 
 **Evidence:**  
-[https://youtu.be/pqxLRoeWhyY](https://youtu.be/pqxLRoeWhyY)
+[YouTube](https://youtu.be/pqxLRoeWhyY)
 
 Sequence of Clips and DMG numbers:
 

@@ -117,7 +117,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * 1A Cryo is applied when Ayaka exits from her sprint.
 * This infusion causes Ayaka's attacks to apply 1A Cryo
-* Her Alternate Sprint has the same iframes as other characters' normal sprint.
+* Her Alternate Sprint has the same i-frames as other characters' normal sprint.
 
 </TabItem>
 

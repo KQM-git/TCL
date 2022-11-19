@@ -83,7 +83,7 @@ The first 2 \(tap\) and last 3 \(hold\) projectiles of Diona's Elemental Skill h
 
 **Evidence:**
 
-[https://youtu.be/MrN0FWlHcCo](https://youtu.be/MrN0FWlHcCo)
+[YouTube](https://youtu.be/MrN0FWlHcCo)
 
 After applying a strong fire aura \(Bennett E\), I applied a Cryo trigger from Diona's E.  
 Tested waiting between Bennett's E and Diona's E to downgrade the fire Element strength.
@@ -102,11 +102,11 @@ Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 Melt reaction + Cryo aura
 
 **Evidence:**
 
-* [https://www.youtube.com/watch?v=fdT1fHL9y-g](https://www.youtube.com/watch?v=fdT1fHL9y-g) \(Level 3 Domain at end of video\)
-* [https://imgur.com/a/rYbqJi1](https://imgur.com/a/rYbqJi1)
-* [https://imgur.com/a/nDl7CiC](https://imgur.com/a/nDl7CiC)
-* [https://imgur.com/a/yB74Dz5](https://imgur.com/a/yB74Dz5)
-* [https://www.youtube.com/watch?v=MfUORD9kvDY](https://www.youtube.com/watch?v=MfUORD9kvDY)
+* [YouTube](https://www.youtube.com/watch?v=fdT1fHL9y-g) \(Level 3 Domain at end of video\)
+* [YouTube](https://imgur.com/a/rYbqJi1)
+* [YouTube](https://imgur.com/a/nDl7CiC)
+* [YouTube](https://imgur.com/a/yB74Dz5)
+* [YouTube](https://www.youtube.com/watch?v=MfUORD9kvDY)
 
 **Significance:**
 

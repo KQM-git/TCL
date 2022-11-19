@@ -65,7 +65,7 @@ Anemo Slimes at any level will instantly die if they take any damage during thei
 ## Attacks
 
 * If the player is in melee range, it will momentarily inflate to hit the target, dealing Anemo damage.
-* If its' target is outside melee range, it will first wobble to indicate the start of its attack sequence, then jump into the air where it will inflate a second after reaching the max height of its jump. Shortly after it will start a barrage of Anemo projectiles at the players, one at a time, five projectiles in total. These projectiles deal Anemo damage and can interrupt player actions. If the slime takes any damage while in this state, it will deflate similar to poking a balloon, defeating it. It will also push the player away if too close, but not dealing any damage in the process.
+* If its target is outside melee range, it will first wobble to indicate the start of its attack sequence, then jump into the air where it will inflate a second after reaching the max height of its jump. Shortly after it will start a barrage of Anemo projectiles at the players, one at a time, five projectiles in total. These projectiles deal Anemo damage and can interrupt player actions. If the slime takes any damage while in this state, it will deflate similar to poking a balloon, defeating it. It will also push the player away if too close, but not dealing any damage in the process.
 
 </TabItem>
 
@@ -97,7 +97,7 @@ It has also taken on the weaknesses of the Dendro element, and will burn intense
 
 ## Attacks
 
-* Similarly to the small Dendro Slime, the large variant will hide underground, but is much easier to spot than it's smaller variant due to the large flower on its' head. They will remain hidden until the player turns their back and walks away, in which case it'll follow up with a jump attack, or if they are either forcefully pulled out of the earth, or burnt with a Pyro attack. The Dendro Slime will be ignited for large amounts of damage when entering contact with Pyro aura, and will eventually have its' flower hat destroyed.  
+* Similarly to the small Dendro Slime, the large variant will hide underground, but is much easier to spot than it's smaller variant due to the large flower on its head. They will remain hidden until the player turns their back and walks away, in which case it'll follow up with a jump attack, or if they are either forcefully pulled out of the earth, or burnt with a Pyro attack. The Dendro Slime will be ignited for large amounts of damage when entering contact with Pyro aura, and will eventually have its flower hat destroyed.  
   After being forced outside the ground, it will attack in one of the following ways:
 * If the player is in melee range, it will use an AoE poison field around itself which will deal Dendro damage over time, but will not affect the player with Dendro (this is possibly a bug).
 * If the player is outside melee range, it will use a ranged attack, shooting seeds at the player which will pop into lingering toxic clouds, dealing Dendro damage over time and inflicting the target with Dendro. If the inflicted target comes in contact with Pyro shortly after exposure, it will cause an explosion.
@@ -171,10 +171,10 @@ Its intelligence is very basic, but its uses are just as broad — well, for hil
 
 ## Attacks
 
-Similarly to its' small version, it will only attack when ignited.  
+Similarly to its small version, it will only attack when ignited.  
 While ignited it will attack in the following ways:
 
-* Attack by spewing three consecutive fireballs that have a parabolic trajectory to its' target.
+* Attack by spewing three consecutive fireballs that have a parabolic trajectory to its target.
 * Jump high into the air, then land at the player's location after a short delay, stomping on the landing spot.
   If it dies while affected by Pyro, a few seconds later, it will explode dealing AoE Pyro damage.  
   If extinguished, it will retreat and re-ignite after some time.

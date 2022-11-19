@@ -24,7 +24,7 @@ search: false
 Getting Frozen mid Searing Onslaught 2 will allow you to extend the Skill. This allows you to use the Skill multiple times for one rotation.
 
 **Evidence:**  
-[https://youtu.be/mjb41Yp2V_Y](https://youtu.be/mjb41Yp2V_Y)
+[YouTube](https://youtu.be/mjb41Yp2V_Y)
 
 Diluc is Frozen mid Searing Onslaught 2 and the Skill is changed to Searing Onslaught 3. However, he is still able to recast Searing Onslaught 2 multiple times after getting out of the Freeze. I could not get this to replicate for Searing Onslaught 1 and 3.
 

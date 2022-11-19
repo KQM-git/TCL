@@ -17,7 +17,7 @@ search: false
 
 **Theory/Finding:**  
 While in a wind current (such as Venti hold Skill), you can jump, glide, and land instantly.  
-This is done by jumping, then pressing jump again exactly 4 frames later at 60 fps, or 2 frames later at 30 fps (not sure but I tried counting how many frames the jump took).  
+This is done by jumping, then pressing jump again exactly 4 frames later at 60 FPS, or 2 frames later at 30 FPS (not sure but I tried counting how many frames the jump took).  
 Has worked with every character I've tried so far, but there may be examples where this doesn't work.
 Can be known as glide cancel, wave dash, or wavedash.
 
@@ -38,9 +38,9 @@ More examples: [Imgur](https://imgur.com/VnM0Rdm)
 Amber examples as an amber main: [Imgur](https://imgur.com/6XJeJzU)
 
 **Significance:**  
-Could be used in teams with Venti to do extremely fast cancels without using stamina. Possibly consistent at 30 fps, but usability at 60fps is very questionable.
+Could be used in teams with Venti to do extremely fast cancels without using stamina. Possibly consistent at 30 FPS, but usability at 60fps is very questionable.
 
-## Geo construct Wavedashing
+## Geo Constructs Wavedashing
 
 **By:** BowTae#0141  
 **Added:** <Version date="2021-10-09" />  
@@ -48,7 +48,7 @@ Could be used in teams with Venti to do extremely fast cancels without using sta
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890716522190880828_896135115158192168_transcript-geo-construct-wavedash.html)
 
 **Theory/Finding:**  
-With certain attacks, notably ones that move the character forwards or backwards, it's possible to instant glide cancel/wavedash off of edges, such as buildings and Geo constructs (Geo MC, Albedo, and Zhongli Skill).
+With certain attacks, notably ones that move the character forwards or backwards, it's possible to instant glide cancel/wavedash off of edges, such as buildings and Geo Constructss (Geo MC, Albedo, and Zhongli Skill).
 
 There are two ways to do this, the method used depends on the attack and the construct used.
 
@@ -69,4 +69,4 @@ building wavedash: [Imgur](https://imgur.com/nYu0w8l)
 Method 2 wavedash: [Imgur](https://imgur.com/wfqHnGO)
 
 **Significance:**  
-Requires precise positioning, only a limited number of attacks gain any frame advantage, and requires climbing and standing on a Geo construct, which greatly limits what enemies this can even work on. Nonetheless, it's a Venti-less way to wavedash (though a bit slower), and could potentially find niche uses for certain content.
+Requires precise positioning, only a limited number of attacks gain any frame advantage, and requires climbing and standing on a Geo Constructs, which greatly limits what enemies this can even work on. Nonetheless, it's a Venti-less way to wavedash (though a bit slower), and could potentially find niche uses for certain content.

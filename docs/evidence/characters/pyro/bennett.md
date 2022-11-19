@@ -42,7 +42,7 @@ search: false
 Xingqiu's sword damage with no Bennett's Ult: 286 \(no CRIT\), 900 \(CRIT\)  
 Xingqiu's sword damage with Bennett's Ult: 500\(no CRIT\), 1576 \(CRIT\)
 
-We can see in the video that after swapping Xingqiu out, the ATK buff remains for a short while and then expires, even though the active character remains in the AOE. Swapping back to Xingqiu gives him the buff again.
+We can see in the video that after swapping Xingqiu out, the ATK buff remains for a short while and then expires, even though the active character remains in the AoE. Swapping back to Xingqiu gives him the buff again.
 
 This means that the ATK buff does not persist throughout the duration of Bennett's Ult, but instead refreshes.
 

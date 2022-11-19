@@ -102,17 +102,17 @@ In more serious terms, this has little practical use for the majority of Venti u
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
-Venti Burst's Elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
+Venti Burst's Elemental absorption creates an independent and invisible AoE field that always ticks for for the full number of ticks regardless of when absorption happens.
 
 **Evidence:**  
 [Video](https://www.youtube.com/watch?v=Jpxf7bD47ZY)
 
 Clips 1 and 2 show that even when absorption happens late, the Elemental infusion damage continues to tick even after Venti's Q ended. I counted 14 ticks in first clip and 15 ticks in second clip, which should be around the max total ticks of early infusion, but I'm not sure why the second clip showed 1 more tick.
 
-Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the Elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
+Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the Elemental infusion creates an invisible AoE field that does a set number of ticks before disappearing.
 
 **Significance:**  
-When Elemental absorption happens late into a Venti Q, the damage from Elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on Swirl damage if there's no Element to be swirled.
+When Elemental absorption happens late into a Venti Q, the damage from Elemental infusion ticks aren't lost as long as enemies stay inside the AoE. However you would still lose out on Swirl damage if there's no Element to be swirled.
 
 ### Venti Burst Infusion Elemental Gauge Units
 
@@ -123,7 +123,7 @@ When Elemental absorption happens late into a Venti Q, the damage from Elemental
 
 **Finding:** Venti's infusion Elemental damage on his Burst applies 1U of the Element it absorbs.
 
-**Evidence:** [https://youtu.be/HcfgBlMjlLA](https://youtu.be/HcfgBlMjlLA)
+**Evidence:** [YouTube](https://youtu.be/HcfgBlMjlLA)
 
 The last tick of the Hydro damage caused by Venti's Burst Elemental infusion is at about 18 seconds. The Hydro aura fully disappears at about 27 seconds, which means that the damage caused is 1U.
 
@@ -160,26 +160,26 @@ Venti ult Anemo gauge is 1U.
 **Finding:** The Additional Elemental DMG from Venti's Burst Procs 13-15 Times.
 
 **Evidence:**  
-15 ticks | 60 fps
+15 ticks | 60 FPS
 
 * CC#5588 - [YouTube](https://youtu.be/q2HtOuYvDUM)
 * Sabrenn#8965 - [YouTube](https://youtu.be/Cd6IiIBUYuI)
 * CrazyWeke123#9720 - [YouTube](https://youtu.be/vTQXvxLGn_0)
 
-14 ticks | 60 fps
+14 ticks | 60 FPS
 
 * Sabrenn#8965 - [YouTube](https://youtu.be/AipBkL-HXUA)
 * CrazyWeke123#9720 - [YouTube](https://youtu.be/QhQYU3_tcA0)
 
-14 ticks | 120 fps
+14 ticks | 120 FPS
 
 * Asaki#9139 - [YouTube](https://youtu.be/pVmPlsXPylc)(1) | [YouTube](https://youtu.be/FDpUR3uzf6o)(2)
 
-14 ticks | 30 fps
+14 ticks | 30 FPS
 
 * CC#5588 - [YouTube](https://youtu.be/T_JDrnxGFh0)
 
-13 ticks | 30 fps mode
+13 ticks | 30 FPS mode
 
 * Puffin#9920 - [YouTube](https://youtu.be/v4PM5NY-fYA)
 * CC#5588 - [YouTube](https://youtu.be/eRl7PuVLPiU)
@@ -217,7 +217,7 @@ Damage calculations for Venti.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837587957828419594_838584790323298355_transcript-c6-venti-res-down-duration.html)
 
 **Finding:**  
-The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo RES reduction duration can only be refreshed by Anemo DMG ticks, while the infused Element's RES reduction duration is refreshed by that Element's DOT ticks.  
+The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo RES reduction duration can only be refreshed by Anemo DMG ticks, while the infused Element's RES reduction duration is refreshed by that Element's DoT ticks.  
 Venti's late infusion bug still exists in 1.5.
 
 **Evidence:**
@@ -231,12 +231,12 @@ Res reduction lasts 10s from last Anemo DMG tick.
 * Sucrose stopped dealing increased damage at 0:28.
 
 Elemental Res Reduction \(ft. Venti late infusion bug\): [YouTube](https://www.youtube.com/watch?v=JAVanCKpxIo)  
-Res reduction lasts 10s from last Hydro DOT tick.
+Res reduction lasts 10s from last Hydro DoT tick.
 
 * Barbara without RES reduction deals: 76, 71, 83, 111
 * Barbara with RES reduction deals: 89, 83, 97, 130
 * Last tick of Anemo DMG at 0:12
-* Last tick of Hydro DOT at 0:14
+* Last tick of Hydro DoT at 0:14
 * Barbara stopped dealing increased damage at 0:24.
 
 Anemo Res Reduction \(ft. Venti late infusion bug\): [YouTube](https://www.youtube.com/watch?v=Ix85zbuwves/)  
@@ -245,7 +245,7 @@ Anemo RES reduction lasts 10s from last Anemo DMG tick, not influenced by infusi
 * Sucrose without RES reduction deals: 25, 23, 29, 36
 * Sucrose with RES reduction deals: 42, 38, 48, 60
 * Last tick of Anemo DMG at 0:10
-* Last tick of Hydro DOT at 0:14
+* Last tick of Hydro DoT at 0:14
 * Sucrose stopped dealing increased damage at 0:20
 
 Venti's late infusion bug still exists in 1.5: [YouTube](https://www.youtube.com/watch?v=QIUdiR6p5TQ)
@@ -262,7 +262,7 @@ Venti's late infusion bug still exists in 1.5: [YouTube](https://www.youtube.com
 
 **Finding:** Venti's Vortex can be fired on top of Zhongli's Pillar
 
-**Evidence:** [https://www.youtube.com/watch?v=veVNQh7wtKs](https://www.youtube.com/watch?v=veVNQh7wtKs)
+**Evidence:** [YouTube](https://www.youtube.com/watch?v=veVNQh7wtKs)
 
 1. Stand 3 square tiles from your desired Venti firing location.
 2. Place Zhongli's pillar, it should be 4 tiles away from the Venti firing location.
