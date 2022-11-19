@@ -2134,3 +2134,20 @@ Hydro Fungus Bubble can create Blooms.
 
 **Significance:**  
 Better understanding of Dendro aura and Bloom creation mechanics.  
+
+### Overworld Constructs' Reaction to Different Elemental Application Sources  
+**By:** Isetfire\#0428  
+**Added:** <Version date="2022-11-19" />  
+**Last tested:** <VersionHl date="2022-07-30" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/overworlds-constructs-reaction-to-different-elemental-application-sources)  
+
+**Findings:**  
+Every single entity and construct has different properties about Elements that can (or can not) be applied and/or react to them.  
+The source of the elemental application also matters.  
+
+**Evidence:**   
+This sheet explains how every single construct in the overworld will react to Elements, and also specifies if it differs due to the Element's application source as well.
+[Google Docs](https://docs.google.com/document/d/1rXI4LPKA91vh0v9-zuOio2q-VTftGT-CI2QoPWL-Rck/edit?usp=sharing)
+
+**Significance:**  
+Finding out Entities and Constructs can choose which source of Elemental application it reacts to or ignores on a case by case basis.

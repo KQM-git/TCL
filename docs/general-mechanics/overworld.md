@@ -284,6 +284,8 @@ Maps:
   * Bubble attacks of Hydro Floating Fungi/Hydro Slime can be attacked with Dendro to break it and also produce a Dendro Core.
   * In addition to Electro Crystals being capable of holding Cryo and Hydro auras, they can also hold Dendro auras and be used to produce Dendro Cores.
   * Baron Bunny can create Dendro Cores in overworld water.
+* Overworld Constructs:
+  * Every single construct has different properties about Elements that can (or can not) be applied and/or react to them. Source of application also matters. For specific info, check out the Evidence Vault.
 
 ## Evidence Vault
 
