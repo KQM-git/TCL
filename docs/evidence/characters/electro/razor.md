@@ -238,7 +238,7 @@ To find if 3 hit + E press or 4 hit in terms of dps is better without Burst form
 **Conclusion**:  
 3 hit + E is better than 4 hit. An ideal combo would be to use E + 3 hits + 3 hits + E.
 
-### How many frames in E normal attack vs E Burst attack?
+### How Many Frames in E Normal Attack vs E Burst Attack?
 
 **By:** Avs\#5138
 

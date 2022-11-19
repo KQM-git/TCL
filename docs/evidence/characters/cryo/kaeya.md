@@ -74,7 +74,7 @@ These data sheds light onto Glacial Waltz mechanics and how to maximize their Bu
 * The Energy gained from Kaeya's A4 is worse in single-target resulting in a higher ER requirement.
 * Aiming Kaeya's E to hit multiple enemies at once in Freeze comps helps with his Energy generation.
 
-#### Kaeya A4 procs on Frozen targets
+#### Kaeya A4 Procs on Frozen Targets
 
 **By:** JonahFarc\#7056  
 **Added:** <Version date="2021-04-19" />  

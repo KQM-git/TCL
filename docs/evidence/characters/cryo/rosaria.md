@@ -75,7 +75,8 @@ Rosaria can take advantage of her A1 Passive against the aforementioned bosses b
 **Added:** <Version date="2021-04-09" />  
 **Last tested:** <VersionHl date="2021-04-09" />
 
-**Finding:** Rosaria's CRIT Rate Sharing is influenced by other direct CRIT boosters.
+**Finding:**  
+Rosaria's CRIT Rate sharing is influenced by other direct CRIT boosters.
 
 This has been tested to work with Hu Tao's A1 and Geo MC's C1.
 
@@ -94,7 +95,8 @@ Diona w/ Hu Tao A1 : 41.9%
 
 While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **52.5%** meaning that Rosaria's A4 is giving Diona **10.6%** CR. This is an **additional 1.8% CR** when compared to the CRIT sharing uninfluenced by Hu Tao.
 
-**Significance:** This confirms that anything which influences a characters CRIT stats found in the details tab will influence the CRIT Sharing which Rosaria offers
+**Significance:**  
+This confirms that anything which influences a character's CRIT stats found in the details tab will influence the CRIT Sharing that Rosaria offers
 
 ## Constellation Mechanics
 
@@ -106,11 +108,14 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 **Added:** <Version date="2021-04-15" />  
 **Last tested:** <VersionHl date="2021-04-15" />
 
-**Finding:** Rosaria's C6 debuff is also triggered by the DoT on her Burst.
+**Finding:**  
+Rosaria's C6 debuff is also triggered by the DoT on her Burst.
 
-**Evidence:** [Video](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/rosaria.md/discord/attachments_831212714416144434_831214571913347112_Genshin_Impact_2021-04-12_11-51-59_Trim.mp4)
+**Evidence:**  
+[Video](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/rosaria.md/discord/attachments_831212714416144434_831214571913347112_Genshin_Impact_2021-04-12_11-51-59_Trim.mp4)
 
-**Significance:** The description is misleading, and you can actually maintain 100% uptime on this Physical resistance shred.
+**Significance:**  
+The description is misleading, and you can actually maintain 100% uptime on this Physical RES Shred.
 
 ## Interactions/Synergies
 
@@ -121,11 +126,14 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 **Last tested:** <VersionHl date="2021-05-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836853492396195871_838339076746117120_transcript-pale-flame-on-rosaria.html)
 
-**Finding:** 2 stacks of the Pale Flame 4 piece set effect cannot be achieved by 1 use of Rosaria's Skill despite the Skill being 2 hits \(probably because the 2 hits are within 0.3s\), and requires back to back usage to achieve the full 4 piece effect.
+**Finding:**  
+2 stacks of the Pale Flame 4-Piece set bonus cannot be achieved by 1 use of Rosaria's Skill despite the Skill being 2 hits \(probably because the 2 hits are within 0.3s\), and requires back to back usage to achieve the full 4-Piece effect.
 
-**Evidence:** [YouTube](https://www.youtube.com/watch?v=GPQqnZv0qLk)  
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=GPQqnZv0qLk)  
 Also hitlag on Mitachurl shields [wooden](https://www.youtube.com/watch?v=8Jd4QWFFavY) and [geo](https://www.youtube.com/watch?v=klxD_F9Widg) still only grants you one stack per Skill use.
 
-**Significance:** This makes 4 piece Pale Flame stacks somewhat difficult to maintain for carry Rosaria with, since her Skill CD is 6s and Pale Flame stacks last for 7s.
+**Significance:**  
+This makes 4-Piece Pale Flame stacks somewhat difficult to maintain for carry Rosaria with, since her Skill CD is 6s and Pale Flame stacks last for 7s.
 
 * https://imgur.com/Ye5ro0C

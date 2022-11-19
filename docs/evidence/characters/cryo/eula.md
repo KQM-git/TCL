@@ -112,13 +112,13 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845173856271597578_854016900095016960_transcript-eula-swap-buff.html)
 
 **Finding:**  
-Eulas Burst does not snapshot even after she is swapped offield, allowing for the opportunity to apply team buffs after Eulas ult is used but before it hits (23 frame window) , thus increasing Eulas ult damage. This applies to 4NO, Rosarias CRIT buff and certain users of 4tom
+Eula's Burst does not snapshot even after she is swapped off-field, allowing for the opportunity to apply team buffs after Eula's Burst is used but before it hits (23 frame window), thus increasing Eula's Burst damage. This applies to 4NO, Rosaria's CRIT buff, and certain users of 4TotM.
 
 **Evidence:**
 
-* <https://youtu.be/oWJQOgDSJDk> and <https://youtu.be/6ThAiLjeSfA> for 4-Piece Noblesse Oblige proof
-* <https://youtu.be/1tor1JeT-Hg> for Rosaria CRIT share buff
-* <https://youtu.be/p_cr_tGKXV8> for Diona swap buff
+* 4-Piece Noblesse Oblige: [YouTube 1](https://youtu.be/oWJQOgDSJDk), [YouTube 2](https://youtu.be/6ThAiLjeSfA)
+* Rosaria's CRIT share buff: [YouTube](https://youtu.be/1tor1JeT-Hg)
+* Diona's swap buff: [YouTube](https://youtu.be/p_cr_tGKXV8)
 * <https://youtu.be/Efp8593Wrmk> for Xinyan buff
 
 **Signficance:**  

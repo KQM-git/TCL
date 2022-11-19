@@ -349,7 +349,7 @@ Helps with accurate calculations as well as rotation crafting.
 * C1 does not benefit from stringless
 * C1 can CRIT
 
-* C2 "200%" is added to your Skill (E) talent% (MV)
+* C2 "200%" is added to your Skill (E) Talent% (MV)
 * The Stringless benefits E and Oz' normals
 * The Stringless passive is added to DMG% in damage formula
 * Alley Hunter benefits E and Oz' normals

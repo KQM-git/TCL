@@ -55,7 +55,7 @@ It is possible for Keqing to perform a Dragonstrike from her second cast of her 
 **Significance:**  
 Not Particularly significant, but it is an interesting tech that can lead to satisfying combos if executed right.
 
-### Hurling the Stiletto does not generate Particles
+### Hurling The Stiletto Does Not Generate Particles
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
@@ -186,7 +186,7 @@ Keqing's E, Stellar Restoration, infuses her Normal Attacks, Charged Attacks and
 [YouTube](https://youtu.be/NODvk9cZsRA)
 
 **Significance:**  
-Not Particularly significant in combat, but it is worth noting that this _can_ happen.
+Not particularly significant in combat, but it is worth noting that this _can_ happen.
 
 ### Keqing 360 no scope
 
@@ -338,9 +338,11 @@ Calculating Keqing Energy needs with C2 in mind is hard to do with its inconsist
 **Last tested:** <VersionHl date="2021-05-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836981654962569267_838582070044655616_transcript-keqing-pale-flame-set-bonus.html)
 
-**Finding:** Keqing triggering the second hit of her E with a charged attack will add a stack for Pale Flame's set bonus.
+**Finding:**  
+Keqing triggering the second hit of her E with a charged attack will add a stack for Pale Flame's set bonus.
 
-**Evidence:** [YouTube](https://youtu.be/Nlp4amqkOSM)
+**Evidence:**  
+[YouTube](https://youtu.be/Nlp4amqkOSM)
 
 **Significance:** Pale Flame BiS for phys Keqing, 2BSC 2Glad dead. Also, pale flame stacks are gained when Elemental Skill damage is dealt.
 

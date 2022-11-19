@@ -235,7 +235,7 @@ Better understanding of Raiden C2, less gain from stacking defense shred.
 
 ## Energy findings:
 
-### Raiden self Energy Recharge formula
+### Raiden Self Energy Recharge Formula
 
 **By:** Sir_pick_the_prick#2209  
 **Added:** <Version date="2021-09-28" />  

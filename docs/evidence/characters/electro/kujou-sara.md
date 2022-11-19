@@ -173,7 +173,7 @@ Unlike what was previously documented in the TCL, Sara's Burst can only give her
 * [Diagonal 1](https://www.youtube.com/watch?v=zACGc8ovy2U) \(only one buffed\)
 * [Diagonal 2](https://www.youtube.com/watch?v=6Mz2rSns7yQ) \(only one buffed\)
 * [Diagonal 3](https://www.youtube.com/watch?v=Dh1QAZYkhGk) \(only one buffed\)
-* [Diagonal 4](https://www.youtube.com/watch?v=R3B9I12ngfY) \(only one buffed\)
+* [Diagonal 4](https://www.youtube.com/watch?v=r3B9I12ngfY) \(only one buffed\)
 * [No dash 1](https://www.youtube.com/watch?v=ZTGmeDFLcb0) \(only one buffed\)
 * [No dash 2](https://www.youtube.com/watch?v=sOSg8o4T414) \(only one buffed\)
 * [Mid-distance](https://www.youtube.com/watch?v=XRgPTySHUHo) \(double buff\)
@@ -276,7 +276,7 @@ This is possible to perform without cancels but the timing is extremely difficul
 
 ### C6: Sin of Pride
 
-* The effects of C6 do not get snapshot. - [Choatic#7774](https://www.youtube.com/watch?v=R4ENm19DOPY)
+* The effects of C6 do not get snapshot. - [Choatic#7774](https://www.youtube.com/watch?v=r4ENm19DOPY)
 
 ## Tech
 

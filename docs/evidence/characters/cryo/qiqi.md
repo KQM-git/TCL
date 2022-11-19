@@ -48,7 +48,7 @@ Shows how Qiqi's talisman interacts with sources of damage.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_889381442432409630_890102971847815228_transcript-qiqi-talisman-healing-doesnt-snapshot.html)
 
 **Finding:**  
-Qiqi healing from applying talisman is dynamically based on current ATK, and cannot snapshot ATK buffs
+Qiqi healing from applying talisman is dynamically based on current ATK, and cannot snapshot ATK buffs.
 
 **Evidence:**  
 Qiqi baseline healing: [YouTube](https://www.youtube.com/watch?v=gIx8FpS2BIM)  

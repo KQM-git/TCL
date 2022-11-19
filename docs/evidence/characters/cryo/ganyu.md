@@ -32,7 +32,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 Bloom has an innate travel time of 0.3s with Amos’ bow. Currently no record of Amos’ bow’s passive dropping below 3 stacks for FFB.
 
-With Ganyu’s C1, the 15% Cryo shred is applied to the FFB of the first shot so long as FFA hits.
+With Ganyu’s C1, the 15% Cryo RES Shred is applied to the FFB of the first shot so long as FFA hits.
 
 **Evidence:**
 
@@ -445,7 +445,7 @@ User SavageCabbage tested out using Ganyu’s Elemental Burst on a group of enem
 
 These findings are important for Ganyu players to know as their Elemental Bursts will deal less damage then they might assume on paper due to the common misconception that Ganyu’s ultimate is not snapcast in nature. Along with this due to the fact that the 20% bonus Cryo damage will apply if you Burst off of cooldown further incentivises players to do so.
 
-### Ganyu Elemental Burst and charge shots snapshot
+### Ganyu Elemental Burst and Charge Shots Snapshot
 
 **By:** Karzak\#7126 Nello\#1928 Neptunya\#8291  
 **Added:** <Version date="2021-01-28" />  
@@ -479,7 +479,8 @@ By the fact that both Ganyu’s CA and Elemental Burst are snapshot in nature, w
 
 **Finding:** Ganyu's ultimate cannot be duplicated or have 2 on the field at the same time
 
-**Evidence:** [YouTube](https://youtu.be/DhojXoaJfLU)
+**Evidence:**  
+[YouTube](https://youtu.be/DhojXoaJfLU)
 
 1. Slap on massive CDR via Chong's C2, Anemo Resonance, and a -20% CDR abyss card
 2. Ult repeatedly off cooldown
@@ -487,7 +488,8 @@ By the fact that both Ganyu’s CA and Elemental Burst are snapshot in nature, w
 4. Test whether casting outside of her ultimate field, but have the 2nd one overlap the ultimate, allows it to coexist
 5. Test whether casting completely outside her ultimate field allows it to coexist
 
-**Significance:** In a scenario where Ganyu has lots of cooldown reduction to the point where you can cast her ultimate before it ends, it is advised to wait until it has ended to cast her Burst again.
+**Significance:**  
+In a scenario where Ganyu has lots of cooldown reduction to the point where you can cast her Burst before it ends, it is advised to wait until it has ended to cast her Burst again.
 
 ### Ganyu Burst Frequency
 
