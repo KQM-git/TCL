@@ -54,6 +54,6 @@ Head.
 * Teleports summoned Cicins somewhere around the target, then commands them to sequentially charge to the target and release a burst of AoE Cryo DMG after a brief delay.
   * While charging, Cicins deal Cryo DMG on contact.
 * Swaps positions with summoned Cicin(s).
-* Conjures or completely replenishes a Cryo Shield with Energy from summoned Cryo Cicin(s).
+* Conjures or completely replenishes a Cryo Shield with energy from summoned Cryo Cicin(s).
   * The Shield disappears when all Cryo Cicins are defeated.
-* Channels Cryo Energy to disgorge ice shards from the ground in a small AoE.
+* Channels Cryo energy to disgorge ice shards from the ground in a small AoE.

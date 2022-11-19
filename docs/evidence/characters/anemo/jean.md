@@ -137,7 +137,7 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 * Dandelion Field & Border Entering/Exiting DMG gauge is 2U - Luci\#4980
   * [Burst Field is 2U](https://youtu.be/huQYjQoqFnI)
   * [Burst Border is 2U](https://youtu.be/ivneYMlnblE)
-  * [Jean Burst clearing 1A Aloy charged shot](https://youtu.be/vN9gsLFd9MA)
+  * [Jean Burst clearing 1A Aloy Charged Shot](https://youtu.be/vN9gsLFd9MA)
 
 ### Continuous Self-Swirl and Cleanse
 
@@ -162,7 +162,7 @@ Very consistent aura application. Can be used for Cryo or Hydro main carries or 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853336250898579476_854032596726972456_transcript-anemo-aura.html)
 
 **Finding:**  
-Anemo can be the aura for Swirl during Bennett-Jean Sunfire under very specific circumstances
+Anemo can be the aura for Swirl during Bennett-Jean Sunfire under very specific circumstances.  
 
 **Evidence:**  
 [YouTube](https://youtu.be/ZEQdmWjMBNM?t=16)
@@ -205,7 +205,7 @@ Finding is somewhat significant for team damage calculations. This gives Jean sl
 
 **Finding:**  
 Finding 1: For Jean Q -> Bennett Q, the approximate timing for ensuring that Bennett becomes the trigger of Sunfire self Swirl at 80ms ping is from ~2.035s to ~2.065s from pressing Q on Jean to pressing Q on Bennett.  
-Finding 2: Bennett can trigger VV if he's the trigger of Sunfire self Swirl
+Finding 2: Bennett can trigger VV if he's the trigger of Sunfire self-Swirl.  
 
 **Evidence:**  
 Example clip: [YouTube](https://youtu.be/EZ1gvuLaYCw)  
@@ -304,7 +304,7 @@ If Jean casts her Burst right before the Final Calamity begins during the Raiden
   
 **Evidence:**  
 Jean's Burst exit damage proc can Swirl invisible Raiden: [YouTube](https://youtu.be/bd_2UBFSon0)  
-2nd clip that shows Burst does not hit the Orb but still Swirls invisible Raiden: [YouTube](https://youtu.be/pCs8fqeoJuY)  
+2nd clip that shows Burst does not hit the orb but still Swirls invisible Raiden: [YouTube](https://youtu.be/pCs8fqeoJuY)  
   
 Other Jean attacks that do not Swirl invisible Raiden:  
 * Tap Skill: [YouTube](https://youtu.be/1-xkqEKoAiQ) \(no Swirl\)  
@@ -313,7 +313,7 @@ Other Jean attacks that do not Swirl invisible Raiden:
   
 These characters cannot Swirl Electro Raiden:  
 * Venti  
-    * Tap Skill: [YouTube](https://youtu.be/qPObJIBonag) \(no Swirl; auto-targets the Orb\)
+    * Tap Skill: [YouTube](https://youtu.be/qPObJIBonag) \(no Swirl; auto-targets the orb\)
     * Hold Skill: [YouTube](https://youtu.be/HXhcTbEb2-0) \(no Swirl\)
     * Burst: [YouTube](https://youtu.be/ueezGMbZEP0) \(no Swirl; Electro Absorption from before Raiden disappears\)
 * Xiao: Skill and Burst [YouTube](https://youtu.be/KljjxRbw2fE)

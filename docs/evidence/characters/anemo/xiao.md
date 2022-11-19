@@ -40,7 +40,7 @@ Xiao's vertical displacement is super quick. If you want to do the jet combo, yo
 [Discussion](https://tickets.deeznuts.moe/transcripts/xiao-e-plunge)
 
 **Bug:**  
-Xiao's Skill can allow him to plunge, even below jump level
+Xiao's Skill can allow him to plunge, even below jump level.  
 
 **Evidence:**  
 [YouTube](https://youtu.be/Dc6WEuvp4JE)

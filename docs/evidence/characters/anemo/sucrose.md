@@ -193,7 +193,7 @@ Doing Sucrose E > dash > E very fast only produces 1 Skill's worth of Elemental 
 [YouTube](https://www.youtube.com/watch?v=pheoEgyYIlg)
 
 **Significance:**  
-Making frame-perfect dash cancels isn't always a good thing. When doing E dash E, it is better to delay the 2nd E a bit more so that a total of 8 Orbs are produced.
+Making frame-perfect dash cancels isn't always a good thing. When doing E dash E, it is better to delay the 2nd E a bit more so that a total of 8 particles are produced.
 
 ## Elemental Burst Mechanics
 
@@ -522,7 +522,7 @@ So in essence, Diona's em stacks twice. Same theorem works for Albedo's Burst as
 The above suggests the formula for final EM for a buffed party member after Sucrose’s A1 and A4 is  
 50 + \[\(&lt;Sucrose em&gt; + &lt;additional party em buffs&gt;\)×0.2\] + &lt;additional em buffs&gt;.
 
-### Sucrose Freeze and petrify Burst interaction
+### Sucrose Freeze and Petrify Burst Interaction
 
 **By:** hz\#4084  
 **Added:** <Version date="2021-05-23" />  

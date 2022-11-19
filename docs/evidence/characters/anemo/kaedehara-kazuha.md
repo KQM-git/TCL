@@ -81,7 +81,7 @@ As per testing, fall damage has been proven to be caused to Fatui cicin mages, t
 
 The cause of the fall damage seems to be an unnatural acceleration towards the floor after being sucked into the vortex caused by kazuha's Skill. The enemies that can suffer fall damage will be pulled away from the vacuum forcefully in the direction of the floor, causing them to gain enough velocity to suffer fall damage. Lighter enemies are less likely to take any damage this way.
 
-It is not complicated to trigger this as it activates by just simply tapping/holding kazuha's e Skill without having to do any other action e.g charged attacks/glide in the air. It is also not platform specific (not sure for PS) as I have managed to proc it on both PC and mobile. One thing to take note is that the chance of fall damage has something to do with packet loss, poor frame rates and lag issues as I am unable to proc it when connection is unstable
+It is not complicated to trigger this as it activates by just simply tapping/holding kazuha's Skill without having to do any other action, e.g Charged Attacks/glide in the air. It is also not platform-specific (PlayStation was not tested) as it can be procced on both PC and mobile. One thing to take note is that the chance of fall damage has something to do with packet loss, poor frame rates, and lag issues as it can't be procced when the connection is unstable.
 
 **Evidence:**  
 [Imgur](http://imgur.com/a/bNoe7Gq)  
@@ -213,7 +213,7 @@ Understanding how Kazuha normally works. Plunging immediately after a tap E guar
 [Discussion](https://tickets.deeznuts.moe/transcripts/can-kazuha-infuse-element-during-plunge-from-benny-c6-and-chongers)
 
 **Finding:**  
-Kazuha's E > plunge Anemo infusion/conversion is not overtaken by weapon infuson from the likes of bennett or chongyun.
+Kazuha's E > plunge Anemo infusion/conversion is not overtaken by weapon infusion from the likes of Bennett or Chongyun.
 
 **Evidence:**
 
