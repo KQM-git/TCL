@@ -149,7 +149,7 @@ Freeze: [Video](https://youtu.be/Sxd89gKj26I)
 Cryo: [Video](https://youtu.be/hIcBg6aBnkg)
 
 CRIT counts: [Spreadsheet](https://docs.google.com/spreadsheets/d/1TjE6Po4mKUUlvWgG82wTmlNMoAQsF75zcsjTsM_yzgo/edit?usp=sharing)  
-Only 3 out of 46 hits CRIT, which is statistically improbable with a theoretical 30% critical chance. Although by no means conclusive, it strongly hints that 4BS does not work on the hit that applies Cryo.
+Only 3 out of 46 hits CRIT, which is statistically improbable with a theoretical 30% CRIT chance. Although by no means conclusive, it strongly hints that 4BS does not work on the hit that applies Cryo.
 
 **Significance**:  
 Blizzard Strayer literally abbreviates to BS.

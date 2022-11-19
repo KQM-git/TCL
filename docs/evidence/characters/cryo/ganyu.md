@@ -381,11 +381,11 @@ This finding implies that Ganyu’s overall Elemental Burst damage spikes signif
 
 **Finding:**
 
-Ganyu’s A1 Passive does not apply to itself. Meaning the Bloom from the first frostflake arrow shown within 5 seconds will not have an increased critical rate
+Ganyu’s A1 Passive does not apply to itself. Meaning the Bloom from the first frostflake arrow shown within 5 seconds will not have an increased CRIT Rate
 
 **Evidence:**
 
-Tests were run by user SavageCabbage with Ganyu at 80% critical rate on their artifacts. Due to this, if Ganyu’s A1 Passive applies to itself they would never experience a non-critical Bloom during testing, which was not the case.
+Tests were run by user SavageCabbage with Ganyu at 80% CRIT Rate on their artifacts. Due to this, if Ganyu’s A1 Passive applies to itself they would never experience a non-critical Bloom during testing, which was not the case.
 
 [Ascension 1 passive test](https://youtu.be/FHx_KToeyWU)
 
@@ -419,7 +419,7 @@ After shooting an arrow, moving inside/outside Bennett’s Burst does not change
 
 **Significance:**
 
-This proves that it is possible to use other character’s Elemental Bursts and/or Skills while maintaining Ganyu’s 20% critical rate buff which both improves her viability by making her significantly less of a selfish carry, and allows for potential usage \(although overall probably not optimal\) in swap comps with Ganyu.
+This proves that it is possible to use other character’s Elemental Bursts and/or Skills while maintaining Ganyu’s 20% CRIT Rate buff which both improves her viability by making her significantly less of a selfish carry, and allows for potential usage \(although overall probably not optimal\) in swap comps with Ganyu.
 
 ### A4: Harmony Between Heaven and Earth
 
