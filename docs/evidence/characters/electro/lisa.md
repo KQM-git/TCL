@@ -89,16 +89,16 @@ When Lisa's Press variant of Violet Arc strikes an opponent affected by Pyro or 
 
 If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment (the most common ones being Burning Grass and Frozen Water), the direct mob will obtain 3 Conductive stacks and it will radiate 2 stacks to nearby opponents.
 
-* The direct mob which had gained 3 Conductive Stacks was due to being in 3 total Radii; 1 from the Initial Press radius, 1 from the Overload or Superconduct caused from connecting the direct mob, and 1 from being within a "chained" radius from the elemental environment (in this case, the environment acts as if it was another entity/mob).
-* If there were other mobs present, they may be affected by 2 or 1 Conductive Stack(s) depending on their proximity in relation to the elemental environment and/or direct mob.
+* The direct mob which had gained 3 Conductive Stacks was due to being in 3 total Radii; 1 from the Initial Press radius, 1 from the Overload or Superconduct caused from connecting the direct mob, and 1 from being within a "chained" radius from the Elemental environment (in this case, the environment acts as if it was another entity/mob).
+* If there were other mobs present, they may be affected by 2 or 1 Conductive Stack(s) depending on their proximity in relation to the Elemental environment and/or direct mob.
   * A mob will have gained 2 Conductive Stacks in this scenario if they were within 2 Radii, which is only possible in these two cases:
-    * (a) Within Overload/Superconduct radius \[+1\], within "chained" elemental environment radius \[+1\], and outside of the Initial Press radius \[+0\]
-    * (b) Within Overload/Superconduct radius \[+1\], within Initial Press radius \[+1\], and outside of the "chained" elemental environment radius \[+0\]
+    * (a) Within Overload/Superconduct radius \[+1\], within "chained" Elemental environment radius \[+1\], and outside of the Initial Press radius \[+0\]
+    * (b) Within Overload/Superconduct radius \[+1\], within Initial Press radius \[+1\], and outside of the "chained" Elemental environment radius \[+0\]
   * A mob will have only gained 1 Conductive Stack from this scenario if and only if they were only within the Overload/Superconduct radius.
 
 If 2 opponents are nearby and only one is afflicted with a status, Violet Arc, if it directly hits the afflicted mob causing Overload/Superconduct, will add 3 stacks of Conductive to both enemies.
 
-* This scenario is fundamentally identical to the previous scenario, whereby instead of an elemental environment acting as a "mob", it is an actual mob. The previous rules apply similarly.
+* This scenario is fundamentally identical to the previous scenario, whereby instead of an Elemental environment acting as a "mob", it is an actual mob. The previous rules apply similarly.
 
 Can also work in conjunction with the effect described in a previous entry: Violet Arc's Press variant AoE is passed to all affected targets: [Violet Arc's Press variant AoE is passed to all affected targets](lisa.md#violet-arcs-press-variant-aoe-is-passed-to-all-affected-targets)
 

@@ -58,7 +58,7 @@ Could be detrimental to her role as a Beidou driver and make her lose procs. Das
   * 00:08 - proof of snapshot
   * 00:29 - Bake-Kurage damage changes upon Q cast
   * 00:53 - Bennett ATK buff remained snapshotted even after E timer refresh (as shown by the final tick at around 01:16)
-  * 01:28 - prematurely switching out of Kokomi during her Q results in Bake-Kurage bonus dmg from Q going away
+  * 01:28 - prematurely switching out of Kokomi during her Q results in Bake-Kurage bonus DMG from Q going away
 * The Bake-Kurage damage bonus when Q is active does not get snapshotted by Bake-Kurage - [Aetherpon#5730](https://www.youtube.com/watch?v=1NmAZBZsTDk) and [CC#5588](https://youtu.be/hOQVxguTCVg?t=88)
 * Kokomi E spawn has a fixed range. - [CC#5588](https://youtu.be/w2ouvQFhNkI)
 * Kokomi's Bake-Kurage only heals the active character and if they are within the Bake-Kurage's AoE - [CC#5588](https://www.youtube.com/watch?v=t8K8FUOai50)
@@ -170,7 +170,7 @@ Through watching this video a good amount of times over the last few months, bet
 Kokomi's Burst animation lasts 75 frames, which is around 1.25 seconds (at 60 FPS). Her jellyfish duration is 12 seconds with a 20s cooldown. However, the jellyfish does not end directly on the 8 second mark of the cooldown, but rather, somewhere between 7.65 and 7.6 seconds, through www.watchframebyframe.com (though I unfortunately lost the video). If you take 7.65 (the "safe zone") and add the 1.25 seconds of the Burst animation, (7.65 + 1.25), that would equal 8.9 seconds, matching the optimal "cutoff" time in the referenced video (It does state the first few frames of the 8.8 second mark is possible, albeit not reliable) Additionally, if it started from the frame Nereid's Ascension was casted, jellyfish uptime would also be shortened by 1.25 seconds, which is not the current case.
 
 **Significance:**  
-Affects Kokomi jellyfish rotations that retain 100% uptime, especially with the [burst snapshot](#snapshot-burst-dmg-bonus-onto-bake-kurage-by-switching) technique than what was previously thought.
+Affects Kokomi jellyfish rotations that retain 100% uptime, especially with the [Burst snapshot](#snapshot-burst-dmg-bonus-onto-bake-kurage-by-switching) technique than what was previously thought.
 
 ### Evidence for Dynamic Kokomi's Burst & A4
 

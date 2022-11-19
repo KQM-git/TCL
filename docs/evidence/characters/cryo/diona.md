@@ -15,7 +15,7 @@ search: false
 
 ## Attack Mechanics
 
-### Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves
+### Non-charged Aimed Shots share Elemental application ICD with Charged Aimed Shots, despite not having an Element themselves
 
 **By:** EternalDream\#5503  
 **Added:** <Version date="2020-11-19" />  
@@ -27,7 +27,7 @@ search: false
 
 **Significance:**
 
-For Diona, who's charged shot ICD is higher than the time it takes to fire a second charged shot, this prevents elemental reactions or aura application from occuring on a fully charged shot if you fire a normal aimed shot by accident before it, if the ICD was not active yet.
+For Diona, who's charged shot ICD is higher than the time it takes to fire a second charged shot, this prevents Elemental reactions or aura application from occuring on a fully charged shot if you fire a normal aimed shot by accident before it, if the ICD was not active yet.
 
 ### Diona Dash Aim Cancel
 
@@ -79,20 +79,20 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 **Finding:**
 
-The first 2 \(tap\) and last 3 \(hold\) projectiles of Diona's Elemental Skill have separate element application cooldowns.
+The first 2 \(tap\) and last 3 \(hold\) projectiles of Diona's Elemental Skill have separate Element application cooldowns.
 
 **Evidence:**
 
 [https://youtu.be/MrN0FWlHcCo](https://youtu.be/MrN0FWlHcCo)
 
 After applying a strong fire aura \(Bennett E\), I applied a Cryo trigger from Diona's E.  
-I also tested waiting between Bennett's E and Diona's E to downgrade the fire element strength.
+Tested waiting between Bennett's E and Diona's E to downgrade the fire Element strength.
 
 Bennett E + \(no wait\) + Diona E \(tap\) = 1 Melt reaction + weak Pyro aura remaining on enemy.
 
-Bennett E + \(no wait\) + Diona E \(hold\) = 2 Melt reactions + no element remaining on the enemy.
+Bennett E + \(no wait\) + Diona E \(hold\) = 2 Melt reactions + no Element remaining on the enemy.
 
-Bennett E + \(wait 5+ seconds\) + Diona E \(tap\) = 1 Melt reaction + no element remaining on the enemy.
+Bennett E + \(wait 5+ seconds\) + Diona E \(tap\) = 1 Melt reaction + no Element remaining on the enemy.
 
 Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 Melt reaction + Cryo aura remaining on the enemy.
 

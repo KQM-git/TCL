@@ -2,20 +2,20 @@
 
 ## Weakspot Details
 
-Head. This weakspot is temporarily lost while charging(armored up).
+Head. This weakspot is temporarily lost while charging (armored up).
 
 ## Energy Drops
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 75% HP       | 1 Particle | own element |
-| 50% HP       | 1 Particle | own element |
-| 25% HP       | 1 Particle | own element |
-| Death        | 1 Orb      | own element |
+| 75% HP       | 1 Particle | own Element |
+| 50% HP       | 1 Particle | own Element |
+| 25% HP       | 1 Particle | own Element |
+| Death        | 1 Orb      | own Element |
 
 ## Resistance Table
 
-All whopperflowers have +40% (75% total) resistance to their own element.
+All whopperflowers have +40% (75% total) resistance to their own Element.
 All resistances lose -25% while stunned.
 
 | Damage Type | Resistance |
@@ -106,5 +106,5 @@ The dormant whopperflower will not attack on its' own, but if the player picks u
 Those fake flowers can be spotted easily as they:
 
 1. Have no shining sparkle effect to them.
-2. Do not appear white under the elemental vision effect.
+2. Do not appear white under the Elemental vision effect.
 3. Once in range to pick up, their icon left from the name text will be replaced with a chatting bubble.

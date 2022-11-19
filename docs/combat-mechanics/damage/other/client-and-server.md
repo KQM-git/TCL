@@ -14,7 +14,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * Damage and hits
 * Character and enemy HP
 * All enemy stats
-* Energy Particles and character Energy
+* Elemental Particles and character Energy
 * Stamina
 * Weapon stacks
 

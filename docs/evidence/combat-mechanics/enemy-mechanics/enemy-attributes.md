@@ -119,14 +119,14 @@ Based on the evidence provided, it is clearly shown that other players (includin
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_874182515840155648_878190059038335056_transcript-black-aura-data.html)
 
 **Findings:**  
-This entry was opened to know the values of the black auras you can find in abyss and Inazuma bounties, which release a shockwave of a random element (although, just like with Geovishaps, this element is already determined before the battle even starts), so far, only Hydro, Electro and Cryo black auras have appeared in the game.
+This entry was opened to know the values of the black auras you can find in abyss and Inazuma bounties, which release a shockwave of a random Element (although, just like with Geovishaps, this Element is already determined before the battle even starts), so far, only Hydro, Electro and Cryo black auras have appeared in the game.
 
 Research made in-game proved that these black auras has the following properties:
 
 Cooldown: 15s  
 Gauge Units it inflicts: 2  
 Multiplier: 400%  
-Element: Depends (usually matches the element of the black aura's holder)
+Element: Depends (usually matches the Element of the black aura's holder)
 
 These properties are shared across the 3 black auras.
 
@@ -140,8 +140,8 @@ Note: Inazuma bounties seem to be an exception, as both Tier 2 and Tier 3 bounti
 [Video](https://www.youtube.com/watch?v=ioADUvIrhUM)
 
 How was all of this tested?  
-After seeing several factors that could affect the result, such as the Protective Canopy's 15% Elemental RES, all values in the doc were compiled by visiting all domains in Teyvat and taking damage several times with different characters and Anemo resonance, all of this while avoiding elemental reactions.  
-Cooldown and Gauge Units are easy to test, as you only need a timer, and avoid getting another element on you.  
+After seeing several factors that could affect the result, such as the Protective Canopy's 15% Elemental RES, all values in the doc were compiled by visiting all domains in Teyvat and taking damage several times with different characters and Anemo resonance, all of this while avoiding Elemental reactions.  
+Cooldown and Gauge Units are easy to test, as you only need a timer, and avoid getting another Element on you.  
 The 400% multiplier was somewhat easy to get, as the black aura damage always matches the one dealt by the Cryo one, and since the Cryo aura has a multiplier of 400%, then black auras should too.
 
 **Significance:**  

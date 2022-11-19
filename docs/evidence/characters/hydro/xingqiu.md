@@ -48,7 +48,7 @@ Xingqiu Rain Sword DMG reduction does not take the Hydro DMG bonus gained from K
 **Significance:**  
 A team consists of Kazuha and Xingqiu may have marginally less survivability than they would, because damage reduction did not count as a conferrable attribute.
 
-### XQ rain sword shattering cooldown
+### XQ rain sword Shattering cooldown
 
 **By:** Lee Roy Leoncio#3769  
 **Added:** <Version date="2021-09-06" />  
@@ -197,7 +197,7 @@ XQ ult is cast and used against an enemy to determine a baseline.
 * NingGuang holding 4 petra creates a Hydro crystal and picks it up, granting the team 35% Hydro damage.
 * Hydro sword damage then observed to increase.
 
-Note: Crystal is picked up after the 2nd wave of swords so Hydro res shred from C2 already accounted for.
+Note: Crystal is picked up after the 2nd wave of swords so Hydro RES Shred from C2 already accounted for.
 
 **Significance:**
 
@@ -235,7 +235,7 @@ After Xingqiu's Burst ends, there is a period where you can still imbue a Hydro 
 
 **Evidence:**
 
-* [Vid 1](https://youtu.be/3UBplhXNPdc): I used XQ's Burst here. Video was left to play a bit longer to show elemental aura gauge unit for "invisible" Hydro aura \(it is 1A\).
+* [Vid 1](https://youtu.be/3UBplhXNPdc): I used XQ's Burst here. Video was left to play a bit longer to show Elemental aura gauge unit for "invisible" Hydro aura \(it is 1A\).
 * [Vid 2](https://youtu.be/sxnnMq8ljKE): I used XQ's Skill here. Same "invisible" Hydro aura is observed as with his Burst.
 * [GIF 1](https://imgur.com/8EDEVxu): Portion of Vid 2 where XQ orbitals break, magnified. Using this clip, I counted 47 frames for Hydro Particle persistence, starting from the moment the swords blink prior to shattering, and ending at the few frames when XQ imbues Hydro on the Ruin Guard.
 * [GIF 2](https://imgur.com/cmsVCV9): Slowed down version of GIF 1. Here, the Hydro Particles are easier to observe.

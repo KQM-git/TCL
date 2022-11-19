@@ -92,7 +92,7 @@ The amount of health healed is snapshot based on the user's stats at the time of
 
 **Evidence:**  
 Evidence 1: [Video](https://youtu.be/PfNrhAX6wAQ)  
-Barbara's elemental Skill healing is based on her max HP. Barbara with a Twin Nephrite (CRIT Rate bonus) heals for 2204 HP per tick. After using the Skill, she switching to TTDS (hp% bonus), and the next tick is still 2204 HP.
+Barbara's Elemental Skill healing is based on her max HP. Barbara with a Twin Nephrite (CRIT Rate bonus) heals for 2204 HP per tick. After using the Skill, she switching to TTDS (hp% bonus), and the next tick is still 2204 HP.
 
 Evidence 2: [Video](https://youtu.be/xG_V_Mhj0LI)  
 Jean's Elemental Burst healing is based on her attack. Using an ER weapon and missing ATK% artifacts, each tick heals for 818 HP. Switching to Amenoma (ATK% bonus) and equipping artifacts with ATK% bonuses does not change the tick rate
@@ -104,12 +104,12 @@ Evidence 4: [Video](https://youtu.be/ieM7cBJBq2M)
 Diona's Elemental Burst healing is based on her max HP. Using the Burst with 25568 HP and 4-Piece maiden's beloved healed for 3957 HP per tick, changing artifacts that reduced her max HP to 19392 (keeping maiden's 4-Piece) does not reduce the tick rate.
 
 Evidence 5: [Video](https://youtu.be/jzn3R6p_LJQ)  
-Qiqi's elemental Skill healing over time is based on her attack. Using a level 1 Favonius sword then casting the Skill healed for 2065 HP, then changing to The Flute, an attack% weapon, did not change the tick amount.
+Qiqi's Elemental Skill healing over time is based on her attack. Using a level 1 Favonius sword then casting the Skill healed for 2065 HP, then changing to The Flute, an attack% weapon, did not change the tick amount.
 
 Evidence 6: [Video](https://youtu.be/6_VfeWEM-zE)  
 The healing effectiveness stat from 2-Piece maiden's beloved also snapshots. Diona with 15591 max HP with 2-Piece maiden's ticks for 2453 HP, taking off one piece of maiden's beloved, which did not reduce her max HP but makes her lose the set bonus, does not change the healing ticks
 
-Bonus - Noelle, Qiqi, and Barbara also have a healing-on-hit effect while their elemental Skill is active. Do on-hit healing effects from active skills snapshot?
+Bonus - Noelle, Qiqi, and Barbara also have a healing-on-hit effect while their Elemental Skill is active. Do on-hit healing effects from active skills snapshot?
 
 Evidence S1: [Video](https://youtu.be/N41DVWpP8z8)  
 Whiteblind grants Noelle 7.5% ATK and 7.5% DEF on-hit, and her on-hit healing scales on DEF. Here I use the Burst to ensure that she heals every hit. Each consecutive hit is shown to heal for an increasing amount, capping at hit 4 which corresponds to the max stacks of whiteblind. Noelle on-hit-healing does not snapshot on E activation.

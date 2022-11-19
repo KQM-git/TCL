@@ -134,21 +134,21 @@ Both the Slashing DMG from E2 and the Thundering Might DMG do not snapshot from 
 
 **_Keqing E1E2_**
 
-* E1 dmg = 2803
-* C1 dmg = 1636 (2)
-* E2 dmg = 9346
+* E1 DMG = 2803
+* C1 DMG = 1636 (2)
+* E2 DMG = 9346
 
 **_Keqing E1 - Sara E - Keqing E2_**
 
-* E1 dmg = 2803
-* C1 dmg = 2005 (2)
-* E2 dmg = 11457
+* E1 DMG = 2803
+* C1 DMG = 2005 (2)
+* E2 DMG = 11457
 
 **_Sara buff active - Keqing E1 - Sara buff expires - Keqing E2_**
 
-* E1 dmg = 3437
-* C1 dmg = 1636 (2)
-* E2 dmg = 9346
+* E1 DMG = 3437
+* C1 DMG = 1636 (2)
+* E2 DMG = 9346
 
 **_Thunderclap Slash DMG_**
 
@@ -156,18 +156,18 @@ Both the Slashing DMG from E2 and the Thundering Might DMG do not snapshot from 
 
 **_Keqing E1CA_**
 
-* E1 dmg = 2803
-* Thunderclap Slash dmg = 4673 (2)
+* E1 DMG = 2803
+* Thunderclap Slash DMG = 4673 (2)
 
 **_Keqing E1 - Sara E - Keqing CA_**
 
-* E1 dmg = 2803
-* Thunderclap Slash dmg = 4673 (2)
+* E1 DMG = 2803
+* Thunderclap Slash DMG = 4673 (2)
 
 **_Sara E - Keqing E1 - Sara buff expires - Keqing CA_**
 
-* E1 dmg = 3437
-* Thunderclap Slash dmg = 5728 (2)
+* E1 DMG = 3437
+* Thunderclap Slash DMG = 5728 (2)
 
 **Significance:**  
 This matters for rotation crafting. Better understanding of Keqing's kit.
@@ -235,7 +235,7 @@ Very poggers. Free Burst!
 **By:** r.rei\#2844  
 **Added:** <Version date="2021-11-10" />  
 **Last tested:** <VersionHl date="2021-11-10" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_907135831649685504_907902798795014194_transcript-keqing-CRIT-buff-duration.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_907135831649685504_907902798795014194_transcript-keqing-crit-buff-duration.html)
 
 **Finding:**  
 Keqing's CRIT Rate and ER buff duration from A4 includes Burst animation time.
@@ -342,7 +342,7 @@ Calculating Keqing Energy needs with C2 in mind is hard to do with its inconsist
 
 **Evidence:** [YouTube](https://youtu.be/Nlp4amqkOSM)
 
-**Significance:** Pale Flame BiS for phys Keqing, 2BSC 2Glad dead. Also, pale flame stacks are gained when elemental Skill damage is dealt.
+**Significance:** Pale Flame BiS for phys Keqing, 2BSC 2Glad dead. Also, pale flame stacks are gained when Elemental Skill damage is dealt.
 
 ## Resources
 
@@ -424,7 +424,7 @@ Blinking with 「Stellar Restoration」does less damage than doing an E-&gt;N1C,
 
 **Evidence and Methodology:**
 
-By use of the graying of the character bench, elemental Skill, and Elemental Burst as keyframes, total frames and MV/s are calculated.
+By use of the graying of the character bench, Elemental Skill, and Elemental Burst as keyframes, total frames and MV/s are calculated.
 
 All Talent % Taken at T6
 

@@ -47,9 +47,9 @@ Wangsheng Funeral Parlor, a Discord server that allows pre-TC and is partnered w
 ## General Mechanic Terms
 
 **ICD:**
-A hidden timer that starts when an elemental source applies an aura or trigger to an enemy. For more details, see our page on ICDs.
+A hidden timer that starts when an Elemental source applies an aura or trigger to an enemy. For more details, see our page on ICDs.
 
-* During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger.
+* During this ICD, repeated use of that specific Elemental source WILL do Elemental damage, but WILL NOT apply an aura/trigger.
 * Reactions also have ICD to them.
 
 **Snapshot:**
@@ -226,7 +226,7 @@ Many attacks in Genshin Impact can be cancelled by inputting a movement command,
 
 ## Team Composition Terms
 
-**Battery:** A character that generates Energy to fund another character’s Burst. Typically you battery using a character with the same Element for increased efficiency, and swap off the battery unit immediately after using their elemental Skill.
+**Battery:** A character that generates Energy to fund another character’s Burst. Typically you battery using a character with the same Element for increased efficiency, and swap off the battery unit immediately after using their Elemental Skill.
 
 **Burst Support** = A character that swaps onto the field to deal large damage with their Burst.
 
@@ -238,7 +238,7 @@ Many attacks in Genshin Impact can be cancelled by inputting a movement command,
 
 **PP \(Pure Pyro\)** = A team centered around maximizing Pyro uptime on enemies to capitalize on the 4-pc. Lavawalker's bonus.
 
-**Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. These teams deal damage through the use of swapping between characters to use lower cooldown elemental skills and bursts.
+**Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. These teams deal damage through the use of swapping between characters to use lower cooldown Elemental skills and bursts.
 
 **Sub-DPS** = Characters outside of the main carry that deal damage, usually through their skills/burst
 
@@ -246,9 +246,9 @@ Many attacks in Genshin Impact can be cancelled by inputting a movement command,
 
 **Support** = Characters whose value to the team isn’t to deal damage, but to provide utility.
 
-* **Cleanser** = A character that has a Skill/burst that applies an Element onto themselves to cleanse off leyline disorders.
+* **Cleanser** = A character that has a Skill/Burst that applies an Element onto themselves to cleanse off leyline disorders.
 * **Healers/Shielders** = As the name states, characters that increase the survivability of your other characters by providing healing or shields
-* **VV** = An Anemo character with 4 set Viridescent Venerer on to reduce the elemental res of the enemy
+* **VV** = An Anemo character with 4 set Viridescent Venerer on to reduce the Elemental RES of the enemy
 
 ## Reaction Terms
 
@@ -256,28 +256,28 @@ For a more in-depth look at reactions, there is a whole [section](./combat-mecha
 
 **Amplified\(Amped\)** = A category for reactions, which Melt and Vaporize fall into. Amped reactions multiply the trigger by a specific multiplier, for more details go to General Reaction Mechanics .
 
-**Aura** = If a targetable entity is currently not affected by any Element, the next elemental source will apply an aura.
+**Aura** = If a targetable entity is currently not affected by any Element, the next Elemental source will apply an aura.
 
-**Aura Tax** = The aura tax reduces the gauge application from elemental sources by a multiplier of 0.8.
+**Aura Tax** = The aura tax reduces the gauge application from Elemental sources by a multiplier of 0.8.
 
 **Coexisting/Underlying Aura** = In certain situations (e.g. Electro-Charged) multiple auras of different elements may exist on the same entity.
 
-**Elemental Decay** = An aura will persist a certain duration depending on the type of elemental source. Think of the duration as a gauge that can decay or be reduced in 2 ways:
+**Elemental Decay** = An aura will persist a certain duration depending on the type of Elemental source. Think of the duration as a gauge that can decay or be reduced in 2 ways:
 
 * Via time \(A, B, C\)
-  * The gauge will decay over time. Each letter represents a different decay rate, which can be referenced in Notation. Once the gauge empties, the elemental aura disappears.
+  * The gauge will decay over time. Each letter represents a different decay rate, which can be referenced in Notation. Once the gauge empties, the Elemental aura disappears.
 * Via reactions \(GU\)
-  * When you apply an elemental trigger to an existing elemental aura, a certain amount of the gauge is consumed. If an amount remains, then the aura will persist after the reaction. If the gauge is fully consumed, the aura disappears.
+  * When you apply an Elemental trigger to an existing Elemental aura, a certain amount of the gauge is consumed. If an amount remains, then the aura will persist after the reaction. If the gauge is fully consumed, the aura disappears.
 
-**Elemental Gauge / Gauge Units \(GU\)** = The strength of an elemental source, which dictates how much of the aura is consumed when a reaction occurs.
+**Elemental Gauge / Gauge Units \(GU\)** = The strength of an Elemental source, which dictates how much of the aura is consumed when a reaction occurs.
 
 * See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) to see each source’s U value
 
-**Elemental Source** = An Element-imbued attack or Skill that will apply an Element on the enemy. All elemental sources should have the decay and GU appended.
+**Elemental Source** = An Element-imbued attack or Skill that will apply an Element on the enemy. All Elemental sources should have the decay and GU appended.
 
-**Internal Cooldown \(ICD\)** = A hidden timer that occurs when an elemental source applies an aura or trigger to an enemy. For more details, see our page on [ICDs](combat-mechanics/internal-cooldown).
+**Internal Cooldown \(ICD\)** = A hidden timer that occurs when an Elemental source applies an aura or trigger to an enemy. For more details, see our page on [ICDs](combat-mechanics/internal-cooldown).
 
-* During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger
+* During this ICD, repeated use of that specific Elemental source WILL do Elemental damage, but WILL NOT apply an aura/trigger
 
 **Reverse \[Melt/Vaporize\]** = A Vaporize or Melt reaction where the trigger gets a 1.5x modifier.
 
@@ -289,9 +289,9 @@ For a more in-depth look at reactions, there is a whole [section](./combat-mecha
 
 * Transformative reactions deal damage based on the trigger character level and their EM, for more details go to General Reaction Mechanics
 
-**Trigger** = If a targetable entity has an existing aura, the next elemental source will act as a trigger for a reaction.
+**Trigger** = If a targetable entity has an existing aura, the next Elemental source will act as a trigger for a reaction.
 
-**Unit Modifier** = A system of modifiers that apply to elemental sources.
+**Unit Modifier** = A system of modifiers that apply to Elemental sources.
 
 * This modifier can increase or decrease how much of the aura is consumed in reactions.
 
@@ -305,7 +305,7 @@ As the theorycrafting library is being migrated, many of these terms do not have
 
 * Variants: Walk Cancel, Dash Cancel, Jump Cancel
 
-**Cleanse** = A method of cleaning auras off of characters by self-applying an Element from certain skills/bursts of characters. For more information see our page on cleanses
+**Cleanse** = A method of cleaning auras off of characters by self-applying an Element from certain Skills/Bursts of characters. For more information see our page on cleanses
 
 **Hitlag** = Whenever a character hits a target, frames get Frozen to give the player a sense of "weight" behind each attack.
 

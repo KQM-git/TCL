@@ -31,11 +31,11 @@ search: false
   * Yoimiya can still produce Energy even after infusion expiry **as long as the icd is off CD and the infused normal attack string arrow lands** - [Steph#3614](https://imgur.com/L7RiFfc)
 * Kindling Arrows
   * Yoimiya's Kindling Arrows last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range. - [xf3#3123](https://imgur.com/a/l8wot7Y)
-  * Yoimiya's Kindling Arrows can trigger a second overload if shot far away enough, because Kindling Arrows travel long enough to bypass the 0.5s ICD of overload - [Bobrokrot#0111](https://youtu.be/rlEAqvFFAfQ)
+  * Yoimiya's Kindling Arrows can trigger a second Overload if shot far away enough, because Kindling Arrows travel long enough to bypass the 0.5s ICD of Overload - [Bobrokrot#0111](https://youtu.be/rlEAqvFFAfQ)
   * Yoimiya can have all three Kindling Arrows up after Niwabi Fire Dance ends, so long as the required charging time is met. - nat#4502
     * [3 Kindling Arrows](https://youtu.be/XEAJ9ssLmv4)
     * [2 Kindling Arrows](https://youtu.be/G50c8wvMqL4)
-* Yoimiya can consistently trigger fall damage utilizing overload reactions. - [Bobrokrot#0111](https://youtu.be/T4niW6uCsC0)
+* Yoimiya can consistently trigger fall damage utilizing Overload reactions. - [Bobrokrot#0111](https://youtu.be/T4niW6uCsC0)
   * You have to trigger all 3 overloads across her NA string to do this, otherwise she can miss the target. Results may vary for other Electro applicators.
 * Yoimiya's auto-aim range for her normals is around 6 tiles (~15.3 meters) - [nat#4502](https://youtu.be/jUOaFM4R9AQ)
 * Kindling Arrows can home in on different targets. - [Mcpie#8672](https://i.imgur.com/sbQgjv8.mp4)
@@ -140,4 +140,4 @@ Better understanding of snapshotting - Even though Yoimiya's normal damage bonus
 
 ### Fluff
 
-* Yoimiya is also one of the few characters whom NPC will cheer for when using elemental Skill. - [itskhoi#0013](https://www.youtube.com/watch?v=9YkInN2GsUA)
+* Yoimiya is also one of the few characters whom NPC will cheer for when using Elemental Skill. - [itskhoi#0013](https://www.youtube.com/watch?v=9YkInN2GsUA)

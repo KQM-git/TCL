@@ -33,17 +33,17 @@ Conclusion: Elemental reactions are updated on client, and Superconduct shred st
 * No HP drain:
   * Xiao Q: [Video](https://youtu.be/4K7lYdrUvn4)
   * Hutao E: [Video](https://youtu.be/v9MgG98oZqc)
-* Resistance to dmg beyond death: [Video](https://youtu.be/8t0nx34i8s4)
+* Resistance to DMG beyond death: [Video](https://youtu.be/8t0nx34i8s4)
 
 Conclusion: Both player and enemy are granted immortality whilst under high ping but will be HP bar will be updated once switched back to normal latency. Damage can be dealt even when character is supposed to be dead. Therefore, HP is updated on the server.
 
 **Energy**
 
-* Energy Particles (Bennett E): [Video](https://youtu.be/mSHgKDCvqLk)
+* Elemental Particles (Bennett E): [Video](https://youtu.be/mSHgKDCvqLk)
 * AA Energy gain: [Video](https://youtu.be/1KZInSzButA)
 * Burst Gauge (Xiao Q): [Video](https://youtu.be/42BqRmrVRVc)
 
-Conclusions: Energy is not produced under high ping but will be generated when ping returns to normal. Energy Particles are updated on server. However AA Energy source is not refunded when back to low latency. Also, Energy is not consumed when under high ping. Energy is updated on server.
+Conclusions: Energy is not produced under high ping but will be generated when ping returns to normal. Elemental Particles are updated on server. However AA Energy source is not refunded when back to low latency. Also, Energy is not consumed when under high ping. Energy is updated on server.
 
 **AI malfunction**
 
@@ -69,7 +69,7 @@ Conclusion: AI gets skewered under high ping
 * Special cases:
   * Hutao HP <50% bonus:
     * Hutao number check: [Video](https://youtu.be/mS5Vh9-7XnU)
-  * No 33% Pyro dmg bonus: [Video](https://youtu.be/z5IKX7LrwQQ)
+  * No 33% Pyro DMG bonus: [Video](https://youtu.be/z5IKX7LrwQQ)
 
 Conclusion: DMG%, ATK%, EM buffs are updated live unless they are linked to stats that arent updated on client ie: HP thresholds
 
@@ -86,9 +86,9 @@ Conclusion: Resistance shred is updated on client
 
 **Fall/Collision DMG**
 
-* Fall dmg: [Video](https://youtu.be/nzmnOqrkH6o)
+* Fall DMG: [Video](https://youtu.be/nzmnOqrkH6o)
 
-Conclusion: Fall dmg is dealt under high ping
+Conclusion: Fall DMG is dealt under high ping
 
 **ICD, Elemental application**
 
@@ -127,7 +127,7 @@ Conclusion: Stamina is not consumed under high ping, nor will it regenerate. Sta
   * A.Favonia: [Video](https://youtu.be/pm4QUcvASW4)
   * WGS: [Video](https://youtu.be/WvxdoqIBP-4)
 
-Conclusion: For conditional weapon passives, if condition is true, the passive will be added into the dmg calculation. On-hit passives cannot trigger, shares similar trait as sacrificial and favonius weapons. Aquila passive behaves differently.
+Conclusion: For conditional weapon passives, if condition is true, the passive will be added into the DMG calculation. On-hit passives cannot trigger, shares similar trait as sacrificial and favonius weapons. Aquila passive behaves differently.
 
 **Taunts**
 

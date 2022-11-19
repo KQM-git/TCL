@@ -25,7 +25,7 @@ In the second example, Razor causes as much hitlag as possible. The Electro aura
 
 **Significance:**  
 We can extend aura durations with hitlag to give ourselves more time to cause reactions.  
-Unfortunately this means a lot of our frame counts of elemental durations will be off by a few frames, because of the hitlag on the moves that apply the element.
+Unfortunately this means a lot of our frame counts of Elemental durations will be off by a few frames, because of the hitlag on the moves that apply the Element.
 
 ### Normal Attack Hitlag can Extend Skill/Burst Duration
 
@@ -45,7 +45,7 @@ Timestamps: \(subtract 1:22:00; timestamps are from pre-editing\) [Google Doc](h
 The duration of Xiao's Burst appears to be calculated from the frame the CD starts, which matches with when Xiao's tattoos light up. Extended duration after the CD start is entirely due to hitlag, not remaining animation. Animation may only appear to extend duration because CD start is delayed.
 
 **Significance:**  
-Hitlag extension should be taken into account when simulating skills/bursts such as Xiao's Burst, as they cause the Skill to last longer.
+Hitlag extension should be taken into account when simulating Skills/Bursts such as Xiao's Burst, as they cause the Skill to last longer.
 
 ### Hitlag Extension Caveats
 
@@ -184,7 +184,7 @@ More accurate counts for the TCL.
 [Discussion](https://tickets.deeznuts.moe/transcripts/burst-idle-i-frames)
 
 **Finding:**  
-Certain characters' elemental bursts provide iFrames far beyond the first cancellable frame. However, these iFrames are only active until the player inputs any action, after which they are immediately cancelled, thus the name "Idle iFrames."
+Certain characters' Elemental Bursts provide iFrames far beyond the first cancellable frame. However, these iFrames are only active until the player inputs any action, after which they are immediately cancelled, thus the name "Idle iFrames."
 
 **Evidence:**
 

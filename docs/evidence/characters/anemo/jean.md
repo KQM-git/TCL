@@ -123,14 +123,14 @@ Further proves that fall damage is based on velocity, not height \(however great
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_850586648760549377_856383288956813342_transcript-jean-fall-dmg-60-pct-better-stagger.html)
 
 **Finding:**  
-The velocity from fall dmg can be influenced by interrupt resist or poise, and can increase fall dmg to 160%.
+The velocity from fall DMG can be influenced by interrupt resist or poise, and can increase fall DMG to 160%.
 
 **Evidence:**  
 Original clip is from xf3, then made to edit to make it side by side. In the video below it shows an abyss mage with 0 poise (stunned/staggered) vs an abyss mage with 2.25 poise. mage at 0 poise was launched at higher velocity than the mage who is dancing. This is easily reproducible.  
 [Video](https://www.youtube.com/watch?v=eVPetqEeJU4)
 
 **Significance:**  
-Before launching an opponent with Jean E, reduce its poise to 0 and stagger them first, then watch your fall dmg hit higher numbers.
+Before launching an opponent with Jean E, reduce its poise to 0 and stagger them first, then watch your fall DMG hit higher numbers.
 
 ## Burst Mechanics
 
@@ -146,7 +146,7 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 **Last tested:** <VersionHl date="2021-03-21" />
 
 **Findings:**  
-Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in the area if they have an Aura element on them. Should the same character stand on Bennett's Elemental Burst, Fantastic Voyage, it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
+Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in the area if they have an Aura Element on them. Should the same character stand on Bennett's Elemental Burst, Fantastic Voyage, it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
 
 **Evidence:**  
 [YouTube](https://youtu.be/f-fzwDOYL6I)
@@ -184,7 +184,7 @@ Lastly, it debunks the common belief that Anemo cannot be the aura for a Swirl r
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926758212236087337_929999851922538526_transcript-jean-burst-border-dmg-on-initial-cast-and-duration-end.html)
 
 **Finding:**  
-Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AOE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed elemental application, the initial Burst cast can cause 2 Swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
+Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AOE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed Elemental application, the initial Burst cast can cause 2 Swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
 
 **Evidence:**
 

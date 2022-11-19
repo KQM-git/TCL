@@ -48,7 +48,7 @@ You can stack Poise and allow your characters to further avoid being staggered.
 
 #### Different attacks/skills have different poise damage.
 
-> Zhongli's elemental Skill does more poise damage than his N1.
+> Zhongli's Elemental Skill does more poise damage than his N1.
 
 #### Poise damage can change depending on the character's status.
 
@@ -81,7 +81,7 @@ If an attack has enough force, the attack can both set the target’s status to 
 During the stagger animation, an enemy is **still considered vulnerable**. Meaning, you can attack an enemy in the stagger animation to **override** the previous **Stagger Level**.
 :::
 
-> C4 Bennett uses a fully-charged level 1 elemental Skill, causing a Stonehide Lawachurl to be staggered at **Stagger Level 4**. Bennett then performs an additional attack, causing the **Level 4 Stagger** animation to turn into a **Level 2 Stagger**.
+> C4 Bennett uses a fully-charged level 1 Elemental Skill, causing a Stonehide Lawachurl to be staggered at **Stagger Level 4**. Bennett then performs an additional attack, causing the **Level 4 Stagger** animation to turn into a **Level 2 Stagger**.
 
 ## Impulse Types
 
@@ -116,8 +116,8 @@ When a target is in the **vulnerable** status, the next attack received may stag
 
 * **Mass**
 
-> After using Venti’s elemental Skill, a hilichurl is thrown into the air and falls slowly, while an Anemoboxer falls quickly.  
-> After using Kaeya’s elemental Skill, a hilichurl is knocked back a large distance, while a Cryogunner is only knocked back a small step.
+> After using Venti’s Elemental Skill, a hilichurl is thrown into the air and falls slowly, while an Anemoboxer falls quickly.  
+> After using Kaeya’s Elemental Skill, a hilichurl is knocked back a large distance, while a Cryogunner is only knocked back a small step.
 
 * **Drag Force**
 

@@ -1,10 +1,10 @@
 ---
-description: The amount of elemental units applied by a character attack, skill or passive is referred to as elemental gauge.
+description: The amount of Elemental units applied by a character attack, skill or passive is referred to as Elemental gauge.
 ---
 
 # Elemental Gauge Database
 
-Elemental Gauge is denoted as a number and a letter. The number represents the amount of elemental units applied. Aura application has an Aura Tax (0.8x modifier). The letter \(A/B/C\) denotes the decay rate of an elemental aura:
+Elemental Gauge is denoted as a number and a letter. The number represents the amount of Elemental units applied. Aura application has an Aura Tax (0.8x modifier). The letter \(A/B/C\) denotes the decay rate of an Elemental aura:
 
 * A = 11.875s per A
 * B = 7.5s per B

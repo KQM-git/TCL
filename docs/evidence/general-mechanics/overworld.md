@@ -121,7 +121,7 @@ _Glitches:_
 **Significance:**
 
 * Furthering the knowledge of the cursed overworld of Teyvat.
-* Considering the island is called the Vishap Research Lab and the enclosure-like nature of the room, I can only surmise that Batyshmal Vishaps who were experimented on were kept in there at some point. The strange substance left behind on the ground is therefore most likely a reptile coprolite - the fossilized excrement of the Vishaps. The cobalt blue color is likely due to the elemental constitution of the beasts, and the crystal-like formation may be thanks to the uric acid that was present at the time of discharge. The easily flammable property further proves my point, since coprolite is mostly carbon. (Mr. Pillow\#0065)
+* Considering the island is called the Vishap Research Lab and the enclosure-like nature of the room, I can only surmise that Batyshmal Vishaps who were experimented on were kept in there at some point. The strange substance left behind on the ground is therefore most likely a reptile coprolite - the fossilized excrement of the Vishaps. The cobalt blue color is likely due to the Elemental constitution of the beasts, and the crystal-like formation may be thanks to the uric acid that was present at the time of discharge. The easily flammable property further proves my point, since coprolite is mostly carbon. (Mr. Pillow\#0065)
 
 ## Serenitea Pot
 
@@ -151,7 +151,7 @@ _Glitches:_
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930676749782634586_934050479892234280_transcript-teapot-dog-abuse-2.html)
 
 **Finding:**  
-Kageroumaru can hold non-elemental statuses, but not marks.
+Kageroumaru can hold non-Elemental statuses, but not marks.
 
 **Evidence:**
 
@@ -250,7 +250,7 @@ knowledge about open-world mechanics.
 General:
 
 * Waverider level is determined by world level.
-* The Waverider has 0 def and 0 elemental resistances.
+* The Waverider has 0 DEF and 0 Elemental resistances.
 * Waverider heals 0.65% when the player is outside of it, and 5% when inside and not in combat. Percentages are in terms of waverider max HP.
 
 Waverider-Terrain interactions:
@@ -281,11 +281,11 @@ Misc:
 **Evidence:**
 
 * [WR level](https://youtu.be/nwD3IjBDTBE)
-* [WR def + Hydro res + Cryo res](https://youtu.be/8hbYNa4jc3I)
+* [WR DEF + Hydro RES + Cryo RES](https://youtu.be/8hbYNa4jc3I)
   * [Calcs](https://imgur.com/HGiT2wq)
-* [WR Pyro + Geo + Phys + Anemo res](https://youtu.be/vq_U8dALl9w)
+* [WR Pyro + Geo + Phys + Anemo RES](https://youtu.be/vq_U8dALl9w)
   * [Calcs](https://docs.google.com/spreadsheets/d/1KWE7gCTxYZgcQXzIUn5BHLBHqJSNakOdHskCFcyWEBQ/edit#gid=0)
-* [WR Electro res](https://youtu.be/yu4Gqv6CsKk?t=106)
+* [WR Electro RES](https://youtu.be/yu4Gqv6CsKk?t=106)
 * [WR heals](https://youtu.be/BPGqP7eBnTA?t=102)
   * [Calcs](https://imgur.com/RYKM9aF)
 * [WR in shallow water](https://youtu.be/0wot3Rqb104)  
@@ -625,11 +625,11 @@ There might be more reactions unknown to the player coded into the game's files 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858433829143445615_858455416635392040_transcript-electrified-water-properties.html)
 
 **Finding:**  
-The duration of the environmental elemental reaction Electrified Water has varying duration based on the gauge strength of Electro applied. There are approximately 2 seconds between each tick. 1A of Electro lasts for 3 ticks, 2B lasts for 5 ticks, and 4C lasts for 10 ticks.  
+The duration of the environmental Elemental reaction Electrified Water has varying duration based on the gauge strength of Electro applied. There are approximately 2 seconds between each tick. 1A of Electro lasts for 3 ticks, 2B lasts for 5 ticks, and 4C lasts for 10 ticks.  
 The damage dealt by Electrified water is affected by Electro Resistance. For example, a character with 15% Electro Resistance will take 85% of the Electrified Water damage.
 
 **Evidence:**  
-Video contains Fischl and Lisa getting 3 ticks after applying 1A Electro with Charged Attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to Electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% Electro res) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% Electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)
+Video contains Fischl and Lisa getting 3 ticks after applying 1A Electro with Charged Attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to Electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% Electro RES) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% Electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)
 
 **Significance:**  
 Learning more about how environmental reactions are programmed/calculated. Also, don't bring Electro units if you're trying to get the achievement for Floor 2-2 of the Spiral Abyss.
@@ -836,7 +836,7 @@ Electro crystals' pulse range works in a rectangle range, with the crystal being
 * An electric crystal can have its aura removed, but it will be reapplied.
 * When it's raining, you can apply Hydro aura using 2B Cryo (Kaeya) then end rain (by time skipping) and the crystal will not apply Electro to itself again. It has to be 2B, 1A won’t work.
 * So far the crystal can hold Cryo, Hydro, and Electro.
-* Rain water Hydro is different from regular Hydro, and the game doesn’t recognize it as the same as Hydro from different sources (Such as player Hydro and Hydro from bodies of water). This is proved as the crystal doesn’t update and reapply Electro onto itself as it thinks no element was applied onto it, removing the Electro. Game does not recognize rain Hydro, as other sources of Hydro.
+* Rain water Hydro is different from regular Hydro, and the game doesn’t recognize it as the same as Hydro from different sources (Such as player Hydro and Hydro from bodies of water). This is proved as the crystal doesn’t update and reapply Electro onto itself as it thinks no Element was applied onto it, removing the Electro. Game does not recognize rain Hydro, as other sources of Hydro.
 
 **Evidence:**  
 * [YouTube](https://youtu.be/55cd-38Ja-Y) credit to NZPIEFACE\#8439
@@ -860,7 +860,7 @@ Rain Hydro isn’t the same as other Hydro sources. Electro crystals don’t hav
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851228691656736798_852776633731645470_transcript-bushes-take-1u-of-pyro-to-light.html)
 
 **Finding:**  
-Bushes take one unit of Pyro elemental application to light on fire.
+Bushes take one unit of Pyro Elemental application to light on fire.
 
 **Evidence:**  
 [YouTube](https://youtu.be/TTcHouqT-Qg)
@@ -926,7 +926,7 @@ We already know applying 2U Pyro on grass can light them on fire with single hit
 [Yoimiya Q initial hit](https://imgur.com/sPySW8G) (Credit to BowTae#0141)
 
 **Significance:**  
-Applying Pyro on grass is not a foolproof method for testing elemental gauge since not all attacks apply element to environment.
+Applying Pyro on grass is not a foolproof method for testing Elemental gauge since not all attacks apply Element to environment.
 
 ### Trees Pick Up Fruits
 
@@ -983,7 +983,7 @@ Putting out campfires with utmost efficiency
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885127802570039336_896138078912135228_transcript-structures-are-not-enemies.html)
 
 **Finding:**  
-Structures do not count as "opponents" for the purposes of triggering abilities like albedo's elemental Skill.
+Structures do not count as "opponents" for the purposes of triggering abilities like albedo's Elemental Skill.
 
 **Evidence:**  
 Hilichurl Tower: [YouTube](https://youtu.be/kY2MB81k8-0)  
@@ -1071,7 +1071,7 @@ Coefficients
 | | Estimate | Std. Error | t value | Pr\(>\|t\|\) |
 | :--- | :--- | :--- | :--- | :--- |
 | (Intercept) | 1.277e-04 | 1.953e-08 | 6536 | <2e-16 **_  
-| def | 1.443e-07 | 1.911e-11 | 7555 | <2e-16 _**
+| DEF | 1.443e-07 | 1.911e-11 | 7555 | <2e-16 _**
 
 Signif. codes: 0 ‘\*\*\*’ 0.001 ‘\*\*’ 0.01 ‘\*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -1100,12 +1100,12 @@ To figure out the level of the barrel:
 Incoming damage = Original damage * (1 - Damage reduction)  
 Damage reduction = DEF / (DEF + 5*Level + 500)
 
-Incoming dmg → Inf means  
+Incoming DMG → Inf means  
 Incoming damage = Original damage * (1 - Damage reduction) → Inf  
 which, given constant original damage translates as  
 -Damage reduction → Inf, then  
 Damage reduction = DEF / (DEF + 5*Level + 500) → -Inf  
-And this is only possible if the denominator (DEF + 5 \* Level + 500)→ 0⁻, given a constant def
+And this is only possible if the denominator (DEF + 5 \* Level + 500)→ 0⁻, given a constant DEF
 
 In practice, the negative value of the "x-intercept" (DEF when EHP approaches 0, or barrel damage approaches infinity) in the EHP vs DEF function is DEF + 5 \* Level + 500. Since the x-intercept is -884 defense, the level of the barrel is 76.9, or 77 when rounded to whole number levels.
 
@@ -1137,14 +1137,14 @@ Insight into the mechanics of overworld explosive barrels. Hopefully lays the fo
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918031384122114048_934045834268532736_transcript-stuff-can-infuse-cryo.html)
 
 **Finding:**  
-The Cryo element is able to be applied to many overworld objects, such as ores and animals. Additionally, it has been demonstrated that some overworld objects can hold Cryo without said Cryo being visible through elemental sight.
+The Cryo Element is able to be applied to many overworld objects, such as ores and animals. Additionally, it has been demonstrated that some overworld objects can hold Cryo without said Cryo being visible through Elemental sight.
 
 **Evidence:**  
 Sheet documenting which objects can and cannot be infused with Cryo: [Google Doc](https://docs.google.com/spreadsheets/d/1eDkENLmA9Fk7IJv3VSJ1H4LC5KDUcYfd-Y0WNd2s0kA/edit?usp=sharing)  
 It should be noted that some objects simply cannot be tested as they are destroyed even due to zero damage attacks, such as Ayaka's special sprint (an example being the Liyue screens in domains).
 
 **Significance:**  
-Largely fluff. However, the application of Cryo does mean that some elemental reactions can be performed on inanimate objects which can come with some side benefits. An example of this is that shatter can be trigged on rocks via this method, turning normally slow characters for mining into slightly more acceptable (such as Albedo).
+Largely fluff. However, the application of Cryo does mean that some Elemental reactions can be performed on inanimate objects which can come with some side benefits. An example of this is that Shatter can be trigged on rocks via this method, turning normally slow characters for mining into slightly more acceptable (such as Albedo).
 
 ## Coordinates
 
@@ -1547,7 +1547,7 @@ Fluff. This could also explain the fact that when you switch from child to adult
 * Glide
 * Roll off a cliff \(counts as landing, you don't take damagedmg for roll but the next landing won't be soft\)
 * Use mid\-air skills e.g. Xiao
-* Plunge \(normal reduced fall dmg for plunge, capped at 40% max HP\)
+* Plunge \(normal reduced fall DMG for plunge, capped at 40% max HP\)
 
 Side-on collisions while jumping don't hurt and don't remove the fall damage reduction.
 

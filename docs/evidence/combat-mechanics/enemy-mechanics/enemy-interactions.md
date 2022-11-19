@@ -243,7 +243,7 @@ Freeze teams and Melt/vape teams that function off the Freeze aura will perform 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905296096794902578_920219066747203654_transcript-boss-animations-can-be-cancelled-by-swapping.html)
 
 **Finding:**  
-The camera movement of some weekly boss animations can be skipped through elemental bursts, claymore CAs, or swapping characters.
+The camera movement of some weekly boss animations can be skipped through Elemental bursts, claymore CAs, or swapping characters.
 
 **Evidence:**
 
@@ -325,7 +325,7 @@ Data was collected using google forms, all submissions were checked with the scr
 [Google Doc](https://docs.google.com/spreadsheets/d/1o4A8OwyqFwq57pEQ1NTIpNJxGx7A-t809LkmzXotGXI/edit#gid=1836241029)
 
 **Significance:**  
-Co-op cannot be used to have a more favorable/easier elemental matchup against azhdaha as the his infused elements in a given week are the same for all players.
+Co-op cannot be used to have a more favorable/easier Elemental matchup against azhdaha as the his infused elements in a given week are the same for all players.
 
 ### La Signora
 
@@ -402,7 +402,7 @@ Stormterror's DoT floor attack has a damage cap. The damage is not based on the 
 
 [20970 Max HP, 733 DEF, Protective Canopy Elemental Resonance](https://youtu.be/lVLpSTf2jz4)
 
-* The DoT deals 3051 damage, showing that elemental RES affects damage.
+* The DoT deals 3051 damage, showing that Elemental RES affects damage.
 
 [Xingqiu with and without Rainswords](https://youtu.be/mHUs0j-7vmQ)
 
@@ -457,7 +457,7 @@ Bubble shield must be triggered before oneshot slash animation - [YouTube](https
 
 **Significance:**  
 The person who gets marked is not rng and is instead based on either number of hits or damage contribution in a non-specified set of time. Requires more testing.  
-On marked targets, the usage of shields, taunts, parries, damage reduction, and dashes will not prevent/reduce oneshot damage. Other forms of invincibility frames from both bursts and skills can prevent oneshot damage.  
+On marked targets, the usage of shields, taunts, parries, damage reduction, and dashes will not prevent/reduce oneshot damage. Other forms of invincibility frames from both Bursts and skills can prevent oneshot damage.  
 On other unmarked co-op targets, a shield does help absorb oneshot damage.  
 Inside the bubble barrier, the fixed 1 damage makes 1hp runs hard or impossible on some characters.  
 The oneshot in and out of shield share different mechanics. Parries will not work but the shields created can absorb the “1” damage taken.  
@@ -564,7 +564,7 @@ This speeds up the fight by making the Geo Hypostasis vulnerable, without having
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_908382648710348840_931069122559766528_transcript-resistances-and-elem-obj-durability-table.html)
 
 **Finding:**  
-Rifthounds skulls need 3 Geo GU to be charged. They also can be charged with other elements, but it requires 38 attacks to be charged and does not depend on GU at all. Physical dmg is useless.
+Rifthounds skulls need 3 Geo GU to be charged. They also can be charged with other elements, but it requires 38 attacks to be charged and does not depend on GU at all. Physical DMG is useless.
 
 **Evidence:**  
 38 sucrose attacks: [YouTube](https://youtu.be/Fq0zpru1Ej4)
@@ -601,7 +601,7 @@ This makes it way harder to dodge because the Audio Cue is now early, tricking t
 Maguu Kenki's 2nd phase doesn't start at 75% HP, but at 70%.
 
 **Evidence:**  
-[YouTube](https://youtu.be/ha2SvAc3YoY) - Maguu Kenki HP (lvl. 91, WL7) is 498640 according to the Genshin Impact Mob HP and Particle Threshold Database. In the video, Itto deals 55766 + 55766 + 19044 = 130576 total DMG, which translates to 26.2% of Maguu Kenki's total HP. Yet, the boss doesn't shift phases before more dmg is dealt, proving that the current threshold is incorrect. This is further supported by the fact that Maguu Kenki releases a Clear Orb at 75% HP in the video, but doesn't change phases then.  
+[YouTube](https://youtu.be/ha2SvAc3YoY) - Maguu Kenki HP (lvl. 91, WL7) is 498640 according to the Genshin Impact Mob HP and Particle Threshold Database. In the video, Itto deals 55766 + 55766 + 19044 = 130576 total DMG, which translates to 26.2% of Maguu Kenki's total HP. Yet, the boss doesn't shift phases before more DMG is dealt, proving that the current threshold is incorrect. This is further supported by the fact that Maguu Kenki releases a Clear Orb at 75% HP in the video, but doesn't change phases then.  
 [Imgur](https://imgur.com/a/aUEjWE0) - The correct threshold calculations: Looking at the HP bar, we see that the boss changes phases at approximately 713/1012 = 70.5% HP according to the attached image. In-game, the threshold is most likely exactly 70%.
 
 **Significance:**  
@@ -697,9 +697,9 @@ Let's call damage dealt by this attack "Reflect".
 Reflect values are (exactly!):
 
 * Geo Shield (Noelle E) -> 15%
-* Same element shield -> 15%
-* Different element shield -> 5%
-* Crystallized shield -> 5% or 15% - depending on element
+* Same Element shield -> 15%
+* Different Element shield -> 5%
+* Crystallized shield -> 5% or 15% - depending on Element
 * The Bell claymore -> 5%
 * Noelle A2 passive -> 15%
 
@@ -740,7 +740,7 @@ Sequence:
 * DEF reduction does not affect the damage - [Video](https://www.youtube.com/watch?v=oQ6DxAZWAJ8)
 * Reflect has a range - [Video](https://www.youtube.com/watch?v=LbaRkNlxky4)
 * WL does not matter - [Video](https://youtu.be/47jIZOXjka4)
-* C4 Kaeya shield on-dmg taken - no dmg reflected due to shield being too weak - [Video](https://www.youtube.com/watch?v=-IZwV5swjns)
+* C4 Kaeya shield on-dmg taken - no DMG reflected due to shield being too weak - [Video](https://www.youtube.com/watch?v=-IZwV5swjns)
 * Coop: 2x Zhongli, each with their own shield - 15% - [Video](https://www.youtube.com/watch?v=2thu72alIcQ)
 * Coop: Beidou + Zhongli dealt 5% + 15% percent - [Video](https://www.youtube.com/watch?v=d7q0MREFfhk)
 * Xinyan lvl 60, no artis/weapons - not enough shield HP for reflect - [Video](https://www.youtube.com/watch?v=9IJMSL-hM8c)
@@ -786,7 +786,7 @@ The Abyss Herald's cooldown increase debuff is triggered when you are hit by the
 1. A cross Hydro beam.
 2. Flurry of slashes before firing Hydro beams in all directions, only happens in phase 2 \(after he shields up\)
 
-The cooldown debuff increases all current elemental Skill/burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is an additive 6 seconds and independent of how long the original cooldown of the Skill/burst is. The cooldown debuff also only affect elemental skills/bursts that are already on cooldown, so skills/bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat \(unlike Slowing Waters\).
+The cooldown debuff increases all current Elemental Skill/Burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is an additive 6 seconds and independent of how long the original cooldown of the Skill/Burst is. The cooldown debuff also only affect Elemental Skills/Bursts that are already on cooldown, so Skills/Bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat \(unlike Slowing Waters\).
 
 The cooldown debuff can be avoided by shield and Elemental Burst iframes.
 
@@ -980,10 +980,10 @@ When MM uses her teleport move, she will randomly teleport in front of the activ
 
 **Evidence:**
 
-* [Video](https://youtu.be/G-YTYWHaays) - Jean can not cleanse "marked" state, even though she can cleanse Childe and Azhada's marks. This is because MM's mark is not tied to elemental aura being applied to you. It's just a permanent trigger.
+* [Video](https://youtu.be/G-YTYWHaays) - Jean can not cleanse "marked" state, even though she can cleanse Childe and Azhada's marks. This is because MM's mark is not tied to Elemental aura being applied to you. It's just a permanent trigger.
 * [Video](https://youtu.be/HfaAvuxg6q0) - Animation of Mirror Maiden entering "Strong" state. Note the 4-leaf thingamajig on Jean. it symbolizes the "marked" state on a character.
 * [Video](https://youtu.be/FaTd0dojIxM) - Mirror Maiden in "weak" state being yeet'ed by Jean.
-* [Video](https://youtu.be/IjLV6MIUoQQ) - Mirror Maiden in "weak" state being ragdoll'ed by overload.
+* [Video](https://youtu.be/IjLV6MIUoQQ) - Mirror Maiden in "weak" state being ragdoll'ed by Overload.
 * [Video](https://youtu.be/aZqpqjSGkWU) - MM's third attack in "weak" state where she auto-summons a mirror to punish greedy apes.
 
 **Significance:**  
@@ -1001,13 +1001,13 @@ Some characters and abilities can escape the Fatui mirror maiden's trap.
 
 * Albedo (elevator up, elevator despawn)
 * Ayaka (N5, alternate sprint)
-* Bennett (skill at charge level 2)
+* Bennett (Skill at charge level 2)
 * Fischl (burst)
 * Geo MC (climb pre-placed meteorite, meteorite despawn)
 * Hu Tao (charged attack, unique sprint)
 * Kaeya (N5)
 * Kazuha (skill)
-* Keqing (N5, skill recast)
+* Keqing (N5, Skill recast)
 * Lisa (N3/N4 teleport)
 * Mona (N3, hold Skill, alternate sprint)
 * Rosaria (charged attack, skill)
@@ -1211,8 +1211,8 @@ Some Anemo Units can Suck Mini-Dendro Slimes even if they are Hidden.
 
 1. Venti Elemental Burst
 2. Sucrose Elemental Burst
-3. Jean elemental Skill (Thanks fin\#1623)
-4. Anemo MC Skill & burst (Both unsuccessful)
+3. Jean Elemental Skill (Thanks fin\#1623)
+4. Anemo MC Skill & Burst (Both unsuccessful)
 
 **Significance:**  
 Provides an alternative method for eliminating annoying mini-Dendro slimes.
@@ -1243,7 +1243,7 @@ If Anemo slimes are ever introduced to the abyss, this information could be usef
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883264842931257425_902081518808203324_transcript-Hydro-slimes-apply-wet-to-surrounding-in-certain-situations.html)
 
 **Finding:**  
-Hydro slimes will apply Hydro to both enemies and allies in their surroundings when they land from bouncing (after three hops for small slimes, every hop for large slimes), when they are hit by an attack, including attacks which they are immune to, and when they are unfrozen or shatter removes them from a Frozen state. Hydro slimes will not apply Hydro if they are Frozen. This elemental application will not trigger damaging reactions.
+Hydro slimes will apply Hydro to both enemies and allies in their surroundings when they land from bouncing (after three hops for small slimes, every hop for large slimes), when they are hit by an attack, including attacks which they are immune to, and when they are unfrozen or Shatter removes them from a Frozen state. Hydro slimes will not apply Hydro if they are Frozen. This Elemental application will not trigger damaging reactions.
 
 **Evidence:**
 
@@ -1264,7 +1264,7 @@ Better understanding of enemy and character aura management in combat with Hydro
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881262532914974720_882077997841133618_transcript-slime-balloon-mechanics.html)
 
 **Finding:**  
-Slime Balloons from commissions can only receive a Cryo aura similar to Amber’s Baron Bunny. Cryo Swirl, Superconduct, Freeze, forward Melt, shatter, and Crystallize reactions can be triggered on them. However, Superconduct does not reduce Physical resistance, Cryo Swirl with 4-Piece VV does not reduce Cryo resistance, and Freeze does not actually stop the Slime Balloon from moving.
+Slime Balloons from commissions can only receive a Cryo aura similar to Amber’s Baron Bunny. Cryo Swirl, Superconduct, Freeze, forward Melt, Shatter, and Crystallize reactions can be triggered on them. However, Superconduct does not reduce Physical resistance, Cryo Swirl with 4-Piece VV does not reduce Cryo resistance, and Freeze does not actually stop the Slime Balloon from moving.
 
 **Evidence:**  
 [YouTube](https://youtu.be/ohQrwzEiTUE) - Kazuha’s Skill cannot infuse Pyro, Hydro, or Electro off of the Slime Balloon:
@@ -1272,7 +1272,7 @@ Slime Balloons from commissions can only receive a Cryo aura similar to Amber’
 Reactions: [YouTube](https://youtu.be/2W-3D2muB9c), [YouTube](https://youtu.be/Yj0XMOYfNCI)
 
 Kaeya’s Skill (noncrit) does 1339 damage both before and after Cryo is swirled with Kazuha. His N1 does not deal increased damage after Superconduct is triggered: [YouTube](https://youtu.be/fbWZhi2WRLE).  
-Zhongli's universal res shred also has no effect (tested Barbara's N1 and Kaeya's Skill): [YouTube](https://youtu.be/8p57ILh8YVg)
+Zhongli's universal RES Shred also has no effect (tested Barbara's N1 and Kaeya's Skill): [YouTube](https://youtu.be/8p57ILh8YVg)
 
 **Significance:**  
 With this knowledge you can finish your commissions 2 seconds faster.
@@ -1308,7 +1308,7 @@ Defeating a specter does not proc any of the kill-based effects in the game.
 
 * Passive: Defeating an opponent restores 16% HP.
   * HP before kill: 7102
-  * HP after kill: 7102 - 1389x2+1737 (Hydro dmg) = 2585
+  * HP after kill: 7102 - 1389x2+1737 (Hydro DMG) = 2585
   * No heals obtained from kill, no healing indicator.
 
 [AMC's Second Wind (A4) on Specter Kill - Credit to CellistiaCat#1700 for noting this](https://youtu.be/_KeAfcKTKAE):

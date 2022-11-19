@@ -60,5 +60,5 @@ Head.
 * After ~40 seconds, absorbs all summoned Cicins, conjures an Electro Shield and then begins flying towards the player.
   * The Shield grants immunity to DMG and increased movement speed (faster than a player's base running speed, but slower than base sprinting speed) and prevents the Mage from being staggered or knocked down.
   * The Shield continuously deals AoE Electro DMG to surrounding targets.
-  * The Shield depletes gradually over ~12 seconds, but can be depleted faster with elemental reactions.
+  * The Shield depletes gradually over ~12 seconds, but can be depleted faster with Elemental reactions.
   * Afterwards, the ability needs to recharge over another 40 seconds. The charge rate of this ability is affected by Energy charge rate modifiers.

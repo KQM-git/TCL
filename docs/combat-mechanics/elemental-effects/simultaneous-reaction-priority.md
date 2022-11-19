@@ -16,9 +16,9 @@ Hail is absolutely correct. In reality, nothing _is_ happening at the same time,
 might be many, and each with particular steps in its resolution. Simultaneous Reaction Priorities (SRP) examines exactly that,
 events that occur within short periods of time and the steps and order in which they are resolved.
 
-For example: Kazuha's Burst with an element absorbed will apply both that element and Anemo within a very short period of time.
-A major focus of current SRP is in the interactions involving Kazuha's Burst with an element absorbed. These interactions can be a bit
-unintuitive. One might assume that there are only two possibilities, that the Anemo damage and element is applied first or the
-absorbed damage and element is applied first, in all situations. However, this is not the case.
+For example: Kazuha's Burst with an Element absorbed will apply both that Element and Anemo within a very short period of time.
+A major focus of current SRP is in the interactions involving Kazuha's Burst with an Element absorbed. These interactions can be a bit
+unintuitive. One might assume that there are only two possibilities, that the Anemo damage and Element is applied first or the
+absorbed damage and Element is applied first, in all situations. However, this is not the case.
 
 SRP is examined on a case by case basis. This [document](https://docs.google.com/document/d/1nz2SNxzzeujDnWQdrKEvJbECHASmwZk53On84BOymTQ/edit) details our current knowledge on these interactions.

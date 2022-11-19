@@ -280,11 +280,11 @@ Shield management.
 * Burst with no shield: 48k
 * Burst with Geo resonance and no shield: 52k
 * Burst with Geo resonance and shield: 52k
-* Burst with Geo resonance shield and res down: 57k
+* Burst with Geo resonance shield and RES down: 57k
 * The shield is formed at the end of the Burst animation.
 
 **Significance:**  
-For the highest damage apply the Geo res down before pressing Burst.
+For the highest damage apply the Geo RES down before pressing Burst.
 
 ## Interactions/Synergies
 

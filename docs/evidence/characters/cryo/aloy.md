@@ -53,7 +53,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
     * Venti: E, Q
 * Chillwater Bomblets snapshot on Frozen Wilds cast - [Nass008#8577](https://imgur.com/oo2npIc)
 * Sacrificial bow interactions - [Vherax#5321](https://imgur.com/1NGlqTp)
-  * Chillwater Bomblets are able to trigger Sacrificial Bow's elemental Skill cooldown reset.
+  * Chillwater Bomblets are able to trigger Sacrificial Bow's Elemental Skill cooldown reset.
   * Recasting Frozen Wilds will make the remaining Chillwater Bomblets from the previous Frozen Wilds cast ~~disappear~~ explode. - [Raven#9205](./aloy.md#aloy-and-sac-bow-interaction)
 * Walls do not block Chillwater Bomblets - BowTae#0141
   * [Imgur](https://imgur.com/Rtkxko2): it's possible to push them through walls

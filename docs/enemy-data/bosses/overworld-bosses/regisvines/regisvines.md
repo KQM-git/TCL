@@ -63,7 +63,7 @@ In certain circumstances, certain plants will turn into creatures of monstrous s
 ## Attacks
 
 Upon either attacking it from range or after entering its arena, the Cryo Regisvine will unfurl from its resting position and stand outright.
-In this first phase, either its' Eye or its' Base Gem are glowing and covered in a shield. Upon breaking it(with either elemental reactions or enough damage dealt), the fight will be moved to the first transition phase and afterward cycle back and forth with the ranged and melee phases.
+In this first phase, either its' Eye or its' Base Gem are glowing and covered in a shield. Upon breaking it(with either Elemental reactions or enough damage dealt), the fight will be moved to the first transition phase and afterward cycle back and forth with the ranged and melee phases.
 
 In this initial phase, it can attack you with the following attacks:
 
@@ -115,7 +115,7 @@ Poets, bards and even some academics believe that elements also contain emotions
 ## Attacks
 
 Upon either attacking it from range or after entering its arena, the Pyro Regisvine will unfurl from its resting position and stand outright.
-In this first phase, either its' Eye or its' Base Gem are glowing and covered in a shield. Upon breaking it(with either elemental reactions or enough damage dealt), the fight will be moved to the first transition phase and afterward cycle back and forth with the ranged and melee phases.
+In this first phase, either its' Eye or its' Base Gem are glowing and covered in a shield. Upon breaking it(with either Elemental reactions or enough damage dealt), the fight will be moved to the first transition phase and afterward cycle back and forth with the ranged and melee phases.
 
 In this initial phase, it can attack you with the following attacks:
 

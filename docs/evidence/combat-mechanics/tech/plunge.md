@@ -21,7 +21,7 @@ If you dash into enemy and jump at the same time, you can perform a plunging att
 [Video](https://www.youtube.com/watch?v=jmRe7FS_T0Q)
 
 **Significance:**  
-The only practical significance on this is yet another way to break Fatui Geo Chanter Energy armour without claymore, Geo damage, or overload reactions;
+The only practical significance on this is yet another way to break Fatui Geo Chanter Energy armour without claymore, Geo damage, or Overload reactions;
 since plunges do damage to it. Hard staggering an Abyss mage might be another use for this. This move also looks really cool to execute.
 
 ## No Dash Dragonstrike

@@ -93,12 +93,12 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* The explosion has the blunt attribute that lets it damage shields and shatter Frozen enemies like claymores.
-* **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their elemental skills.
+* The explosion has the blunt attribute that lets it damage shields and Shatter Frozen enemies like claymores.
+* **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their Elemental skills.
 * The explosion radius is smaller than the animation so take care when aiming it.
 * Baron Bunny is allowed to have a Hydro or Cryo aura, as well as be Frozen.
   * Only environmental effects may apply the Hydro aura.
-  * Most reactions function properly on this aura, notably: crystalize, Swirl, Superconduct, and shatter.
+  * Most reactions function properly on this aura, notably: Crystallize, Swirl, Superconduct, and Shatter.
 * Multiple Baron Bunnies can be spawned without C4 when utilizing cooldown reduction effects.
 * **Baron Bunny**'s duration starts when it lands, not when the Skill is casted.
 * If **Baron Bunny** doesn't land on the ground within 10s of being casted, it disappears.

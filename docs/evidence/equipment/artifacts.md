@@ -170,10 +170,10 @@ Blizzard Strayer does not gain full CRIT Rate bonus against Frozen aura
 * It is known that some enemies in the game can have innate “frozen” auras.
 * This can be observed in both data-mined files and in-game UI.
 
-1. Data-mined files for Frostarm Lawachurl and Cryo Hypostasis (test subjects for this ticket). Their element type is defined as “Frozen”.  
+1. Data-mined files for Frostarm Lawachurl and Cryo Hypostasis (test subjects for this ticket). Their Element type is defined as “Frozen”.  
    [Github](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/MonsterAbilities/ConfigAbility_Monster_Brute_Ice.json#L926)  
    [Github](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/MonsterAbilities/ConfigAbility_Monster_Effigy_Ice.json#L351)
-2. Element symbols shown in-game. The two enemies both have same symbol as Frozen enemies instead of Cryo element symbol.  
+2. Element symbols shown in-game. The two enemies both have same symbol as Frozen enemies instead of Cryo Element symbol.  
    [Imgur](https://imgur.com/iWVdbrC)
 
 **Testing:**  
@@ -220,12 +220,12 @@ Blizzard Strayer gives CRIT Rate buff to reactions that would remove the Cryo/fr
 * For the Shatter test:
 
   * 61.5% CRIT Rate before BS
-  * 25 shatters = 25/25 CRIT
+  * 25 Shatters = 25/25 CRIT
   * 0.615 ^ 25 = 0.00000527 aka .0005% chance if BS wasn't activating
   * C1 CRIT = 405
   * C1 noncrit = 203
   * No c1 CRIT = 352
-  * No c1 noncrit = 177 (some of the diluc hits didnt create the shatter reaction so it wasn't counted those, they still CRIT but assuming the target just had Cryo and 81% CRIT was hit)
+  * No c1 noncrit = 177 (some of the diluc hits didnt create the Shatter reaction so it wasn't counted those, they still CRIT but assuming the target just had Cryo and 81% CRIT was hit)
 
 * For Superconduct test:
 
@@ -245,7 +245,7 @@ Blizzard Strayer gives CRIT Rate buff to reactions that would remove the Cryo/fr
 
 * For Crystallize test:
   * 81.8% CRIT before BS
-  * 21 crystallizes = 21/21 CRIT
+  * 21 Crystallizes = 21/21 CRIT
   * 0.818 ^ 21 = 0.014 aka 1.4% chance if BS wasn't activating
   * CRIT = 2882
   * Non CRIT = 1324
@@ -259,7 +259,7 @@ Better understanding of Blizzard Strayer for reaction comps.
 
 **By:** Cenpi\#3224
 
-No, it does not even if you have dealt &gt;80% dmg to the enemy.
+No, it does not even if you have dealt &gt;80% DMG to the enemy.
 
 [https://youtu.be/U2VhOcQTlw4](https://youtu.be/U2VhOcQTlw4)
 
@@ -338,21 +338,21 @@ t=18, buff deactivates
 
 **By:** Cenpi\#3224 and Boesik\#3192
 
-The 4CW set adds 40% dmg to overload reactions. If the Pyro holder drops a persistent Skill which triggers a reaction while the Pyro user is not on the field, will this 40% bonus apply?
+The 4CW set adds 40% DMG to Overload reactions. If the Pyro holder drops a persistent Skill which triggers a reaction while the Pyro user is not on the field, will this 40% bonus apply?
 
-* For example, if Keqing applies Electro &gt; Xiangling drops Guoba a distance away from the enemy &gt; Swap back to Keqing and lure the enemy into Guoba fire, will this overload reaction benefit from the 40% set bonus?
-* Yes, the overload reaction will benefit from the 40% bonus even though Xiangling is not on the field
+* For example, if Keqing applies Electro &gt; Xiangling drops Guoba a distance away from the enemy &gt; Swap back to Keqing and lure the enemy into Guoba fire, will this Overload reaction benefit from the 40% set bonus?
+* Yes, the Overload reaction will benefit from the 40% bonus even though Xiangling is not on the field
 
 **Video evidence**
 
-* [https://youtu.be/PLlq0yDy5Bo](https://youtu.be/PLlq0yDy5Bo) - Overload dmg while CW holder inactive
-* [https://youtu.be/Lwvv_ZaV7fU](https://youtu.be/Lwvv_ZaV7fU) - Overload dmg while CW holder active
+* [https://youtu.be/PLlq0yDy5Bo](https://youtu.be/PLlq0yDy5Bo) - Overload DMG while CW holder inactive
+* [https://youtu.be/Lwvv_ZaV7fU](https://youtu.be/Lwvv_ZaV7fU) - Overload DMG while CW holder active
 * Damage is the same
 
 **Significance**
 
-* Pyro supports can hold 4 set crimson witch and be quickly swapped in and out to drop their persistent Pyro abilities without losing the bonus damage to overload.
-* 4CW set effect applies even if the holder is not the active character. However, the holder must provide the triggering element.
+* Pyro supports can hold 4 set crimson witch and be quickly swapped in and out to drop their persistent Pyro abilities without losing the bonus damage to Overload.
+* 4CW set effect applies even if the holder is not the active character. However, the holder must provide the triggering Element.
 
 ## Echoes of an Offering
 
@@ -730,7 +730,7 @@ Actual ratio: 947/1257=.75
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876370102969327646_877095662821449748_transcript-4-piece-gambler-procs-without-skill-on-cd.html)
 
 **Finding:**  
-Cooldown of 4-Piece gambler effect starts on any dmg output from elemental Skill.  
+Cooldown of 4-Piece gambler effect starts on any DMG output from Elemental Skill.  
 For example, Sayu's roll does not trigger Sacrificial Greatsword effect - it does not reset the cooldown while using 4-Piece gambler as well, however it does proc the effect since 4-Piece gambler starts 15s cooldown timer.  
 Another example could be Fischl's Oz, however it's harder to test.
 
@@ -865,11 +865,11 @@ Damage calculation
 The 4-Piece Instructors set bonus will not be activated by reactions with non enemies triggered by the holder, including reactions triggered on characters.
 
 **Evidence:**  
-[Video](https://youtu.be/WBJCFpqSP1s): Sara has 97 EM before and after triggering overload on a stove fire.  
+[Video](https://youtu.be/WBJCFpqSP1s): Sara has 97 EM before and after triggering Overload on a stove fire.  
 [Video](https://youtu.be/Sv_sMy5EM1g): Chongyun has 110 EM before and after triggering Freeze on a river.  
 [Video](https://youtu.be/wecoNW3Y8RQ): Barbara has 141 EM before and after triggering Vaporize on a stove fire.  
-[Video](https://youtu.be/mkcNgkjgpAA): Bennett and Razor (both wearing 4ins bc I cba figuring out who triggers) have the same EM before and after triggering overload on themselves.  
-[Video](https://youtu.be/_BehqMrC0jw): Bennett and Razor (both wearing 4ins) have the same EM before and after triggering overload on themselves with an enemy within range to take damage.
+[Video](https://youtu.be/mkcNgkjgpAA): Bennett and Razor (both wearing 4ins bc I cba figuring out who triggers) have the same EM before and after triggering Overload on themselves.  
+[Video](https://youtu.be/_BehqMrC0jw): Bennett and Razor (both wearing 4ins) have the same EM before and after triggering Overload on themselves with an enemy within range to take damage.
 
 **Significance:**  
 Can't use environmental reactions to set up screenshots. Can't use self reactions to trigger 4ins for sunfire/Razor-Bennett self OL/other self reaction cheese teams.
@@ -925,7 +925,7 @@ Documentation for all units on whether their own 4no set affects their Burst.
 * Newly documented as inconsistent: AMC, Sayu, Aloy
 * Does not receive 4NO: Ganyu
 
-Non snapshot units are still tested to see if the buff applies in time for the first instance of damage from their Burst (like Eula, Keq), since there are other on-burst effects, like MSR, that do not consistently apply in time.
+Non snapshot units are still tested to see if the buff applies in time for the first instance of damage from their Burst (like Eula, Keq), since there are other on-Burst effects, like MSR, that do not consistently apply in time.
 
 **Evidence:**  
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1jhIP3C6B16nL1unX9DL_-LhSNaOy_wwhdr29pzikpcg/edit#gid=0)
@@ -943,7 +943,7 @@ Whether you should run 4NO.
 * All healing coming from the set wielder gets calculated for the Bubble Damage including overflow heals of any degree. - [CC\#5588](artifacts.md#all-healing-by-set-wielder-affects-bubble-damage-including-overflow)
 * The limit for bubble count on field for single-player mode is shared while the 3.5s bubble formation ICD is not. - [CC\#5588](artifacts.md#limit-for-bubble-count-on-field-is-shared-while-icd-is-not)
 * Ocean Hued set does not count healing from other party members, only from the initial set holder. This is also the case with multiple Ocean Hued sets on the same team. - [ceeeleste\#3568](https://www.youtube.com/watch?v=262eZBlWHCs)
-* OHC is indeed independent of enemy def. - [MeCrush14\#2271](https://youtu.be/9zZGMw_QWoQ)
+* OHC is indeed independent of enemy DEF. - [MeCrush14\#2271](https://youtu.be/9zZGMw_QWoQ)
 * 4-Piece OHC doesn't proc from Bennett's Burst after HP reaches 70%. - [Chalotte#5673](https://youtu.be/nWslJYFtyPY)
 * OHC counts initial heal as part of the clamage - [JonahFarc#7056](https://i.imgur.com/9q5tj44.mp4)
 * OHC AOE range is 5.5m radius and it can hit multiple target at once. - r.rei\#2844
@@ -1028,7 +1028,7 @@ This means that all healing from the set wielder, whether the set wielder is on 
 
 The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on the field even when there are 2 units that have the full set. However, the set description also states that only one bubble can form every 3.5s which implies that the bubble formation ICD is also shared, which isn't the case as shown by the clip from 0:18 - 0:26. The imgur link shows a frame by frame analysis where the bubble formed from Qiqi E popping animation started until the point where the bubble formed from Kokomi E is already visible enough happened all within 6 frames, which is way below the implied 0.5s/30f downtime of the bubble formation for a single full Ocean set per team scenario. This does not say anything about coop interactions and mechanics of the set however and may be worth testing idk
 
-### 4OHC does not shatter Frozen enemies
+### 4OHC does not Shatter Frozen enemies
 
 **By:** Juslin\#7989  
 **Added:** <Version date="2022-01-29" />  
@@ -1036,7 +1036,7 @@ The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936689990153408512_936792177617563698_transcript-ohc-will-not-shatter.html)
 
 **Finding:**  
-4OHC's Physical damage is not a blunt hit and will not shatter Frozen enemies.
+4OHC's Physical damage is not a blunt hit and will not Shatter Frozen enemies.
 
 **Evidence:**  
 [YouTube](https://youtu.be/_G8PiYPfGzQ)  
@@ -1100,7 +1100,7 @@ Better understanding of OHC and what it benefits from.
 **Last tested:** <VersionHl date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855433084420489252_858194419470303252_transcript-library-completion-2.html)
 
-**Finding:** the stacks (and their related effects) generated by hitting enemies with elemental Skill damage by the 4-Piece Pale Flame artifact set persist after swapping characters.
+**Finding:** the stacks (and their related effects) generated by hitting enemies with Elemental Skill damage by the 4-Piece Pale Flame artifact set persist after swapping characters.
 
 **Evidence:** https://www.youtube.com/watch?v=-EVE8RiCRls
 
@@ -1111,13 +1111,13 @@ Better understanding of OHC and what it benefits from.
 **By:** Zozer\#1782  
 **Added:** <Version date="2021-06-22" />  
 **Last tested:** <VersionHl date="2021-06-22" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854261942448554004_856798949322784788_transcript-4pc-pale-flame-duration-refresh.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854261942448554004_856798949322784788_transcript-4-piece-pale-flame-duration-refresh.html)
 
 **Finding:** Duration of 1st 4-Piece Pale Flame stack will reset upon receiving 2nd stack if the 1st stack hasn't expired yet.
 
 **Evidence:** [Video](https://youtu.be/MeFPHEGQ554)
 
-**Significance:** All character with elemental Skill cooldown + animation time < 7s can maintain Pale Flame 2 stack buff indefinitely.
+**Significance:** All character with Elemental Skill cooldown + animation time < 7s can maintain Pale Flame 2 stack buff indefinitely.
 
 ### 4-Piece Pale Flame Buff Activation Timing
 
@@ -1166,11 +1166,11 @@ Values were tested and compared with sheet calcs at multiple ping levels, but I 
 **Last tested:** <VersionHl date="2021-05-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842423144845541446_845513030804832296_transcript-4pc-tom-procs-against-shielded-enemies.html)
 
-**Theory:** The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage
+**Theory:** The 4 piece effect of Tenacity of the Millelith activates with Elemental skills hitting shielded enemies and dealing no damage
 
 **Evidence:**
 
-* [VS elemental shields](https://youtu.be/w57ROmhHYnQ)
+* [VS Elemental shields](https://youtu.be/w57ROmhHYnQ)
 * [Vs wood tower shields](https://youtu.be/Gfcc__WOHRw)
 
 **Significance:** 4-Piece Millelith can have 100% uptime even against enemies that block all incoming damage.
@@ -1237,14 +1237,14 @@ Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876725060554080287_880927102097055764_transcript-energy-drain-effects-have-a-delay.html)
 
 **Theory:**  
-Shimenawa Set Energy drain also do not happen immediately. There is about a 7-frame delay (can be more depend on latency) from the moment your character elemental Skill is used to when you character actually lose Energy.
+Shimenawa Set Energy drain also do not happen immediately. There is about a 7-frame delay (can be more depend on latency) from the moment your character Elemental Skill is used to when you character actually lose Energy.
 
 **Evidence:**  
 Frame count (from beginning till 2:00): [YouTube](https://www.youtube.com/watch?v=3esuFmKuwo0)
 
 Extra Razor, lisa, sayu, chongyun framecount: [YouTube](https://www.youtube.com/watch?v=BSztCPB5leY)
 
-[Imgur](https://imgur.com/a/pmYsziS) - Childe using Shimenawa, still able to cast E into Q while getting the Normal Attack damage buff. I attack at the beginning to showcase the dmg difference after the buff.
+[Imgur](https://imgur.com/a/pmYsziS) - Childe using Shimenawa, still able to cast E into Q while getting the Normal Attack damage buff. I attack at the beginning to showcase the DMG difference after the buff.
 
 [Imgur](https://imgur.com/a/4nqmqud) - Another example of Childe (credit to Seres from ChildeMains for this clip)
 
@@ -1253,7 +1253,7 @@ Extra Razor, lisa, sayu, chongyun framecount: [YouTube](https://www.youtube.com/
 [YouTube](https://www.youtube.com/watch?v=V9HhHNffa7c) - Example of Keqing at high ping (thanks to ProfHugo#6478)
 
 **Significance:**  
-If a character can cast their elemental Skill and then Burst in about less than 7 frame, they can spend the Energy before being drained, bypassing the large cost of using Shimenawa set. Childe walking E (thanks to Amadurim#8925) is currently the only Skill found to be fast enough for this tech to work, so this remains largely impractical in gameplay, but maybe future character can benefit more from Shimenawa with this finding. Also, with high ping (400-600ms) it is possible to extend the Energy drain delay long enough so other character can Burst before the drain.
+If a character can cast their Elemental Skill and then Burst in about less than 7 frame, they can spend the Energy before being drained, bypassing the large cost of using Shimenawa set. Childe walking E (thanks to Amadurim#8925) is currently the only Skill found to be fast enough for this tech to work, so this remains largely impractical in gameplay, but maybe future character can benefit more from Shimenawa with this finding. Also, with high ping (400-600ms) it is possible to extend the Energy drain delay long enough so other character can Burst before the drain.
 
 ## Thundering Fury
 
@@ -1261,9 +1261,9 @@ If a character can cast their elemental Skill and then Burst in about less than 
 
 **By:** Saizaku\#5569
 
-**4-Piece thundering fury gives +40% to damage caused by Overloaded, Electro-Charged, and Superconduct. We know that elemental mastery provides a multiplier to elemental reactions.**
+**4-Piece thundering fury gives +40% to damage caused by Overloaded, Electro-Charged, and Superconduct. We know that Elemental mastery provides a multiplier to Elemental reactions.**
 
-**Question:** Is the 4 set thundering fury effect additive or multiplicative to the bonus from elemental mastery?
+**Question:** Is the 4 set thundering fury effect additive or multiplicative to the bonus from Elemental mastery?
 
 [Data](https://i.imgur.com/youmor6.png)
 
@@ -1279,13 +1279,13 @@ If a character can cast their elemental Skill and then Burst in about less than 
 
 **The question is whether or not the holder must be the one proccing the reaction as opposed to a support.**
 
-* For example, if Keqing has 4TF, applies Electro, and Xiangling Guoba triggers overload, will this overload damage be increased by 40% or no?
+* For example, if Keqing has 4TF, applies Electro, and Xiangling Guoba triggers Overload, will this Overload damage be increased by 40% or no?
 * The answer is no. In order to benefit from the increased damage, Keqing must be the one triggering the reaction.
 * This also applies for the cooldown reduction effect; Keqing must be the one triggering in order to get the cooldown reduction.
 
 **Significance**
 
-* In solo PvE play, Keqing does NOT frequently trigger elemental reactions due to her high rate of application of Electro.
+* In solo PvE play, Keqing does NOT frequently trigger Elemental reactions due to her high rate of application of Electro.
 * Therefore, Keqing does not significantly benefit from the 4 set thundering fury effect.
 
 ### 4-Piece Thundering Fury’s 40% ReactionDMG Increase Works When Wearer is Off-Field
@@ -1298,16 +1298,16 @@ In short, yes. The 4 set TF increases reaction damage even if the holder is not 
 
 **The following tests were conducted on a lvl 71 Ruin Guard:**
 
-* Fischl proccing overload while present
+* Fischl proccing Overload while present
   * Overload does 2066 damage
     * [Evidence](https://drive.google.com/file/d/1Y0JE20gtA1KaUaRxjIBLMOXIpgPkt0hL/view?usp=sharing)
-* Fischl proccing overload while not present
+* Fischl proccing Overload while not present
   * Overload does 2066 damage
     * See above video as well.
-* Xiangling proccing overload
+* Xiangling proccing Overload
   * Overload does 1077 damage
     * [Evidence](https://drive.google.com/file/d/1ftweCspmafDCwRJE0CcKuopivYSaxZeK/view?usp=sharing)
-* Fischl \(with no 4 set\) proccing overload both while present and not present
+* Fischl \(with no 4 set\) proccing Overload both while present and not present
   * Overload does 1476 damage regardless of whether fischl is on field or not
     * [Evidence](https://drive.google.com/file/d/119FS4zyj0NYmpM9cHXguSrwGx6Zh6L-h/view?usp=sharing) \(for fischl on field\)
     * [Evidence](https://drive.google.com/file/d/1wr6goz63SzM4avsUuflDxP2HcGkggI5s/view?usp=sharing) \(for fischl not on field\)
@@ -1373,32 +1373,32 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to K
   * This is denoted by the white flash on the E circle and reduction of the cooldown to 5.8s
   * Observe the enemy and you can see a purple-white flash appear at the same time.
 * Frame 15
-  * 1713 \(KQ Electro-Charged dmg\) visible and HP reduction visible
+  * 1713 \(KQ Electro-Charged DMG\) visible and HP reduction visible
 * Frame 67
   * KQ autoattack and purple-white flash appears
   * E CDR occurs and CD changes from 4.7s to 3.7s
 * Frame 69
-  * 1713 \(KQ Electro-Charged dmg\) disappears 54 frames after becoming visible
+  * 1713 \(KQ Electro-Charged DMG\) disappears 54 frames after becoming visible
 * Frame 70
-  * 777 \(XQ Electro-Charged dmg\) visible and HP reduction visible
+  * 777 \(XQ Electro-Charged DMG\) visible and HP reduction visible
   * 55 frames after initial damage \(frame 15\)
 * Frame 123
-  * 777 \(XQ Electro-Charged dmg\) disappears 53 frames after becoming visible
+  * 777 \(XQ Electro-Charged DMG\) disappears 53 frames after becoming visible
 * Frame 129
-  * 777 \(XQ Electro-Charged dmg\) visible and HP reduction visible
+  * 777 \(XQ Electro-Charged DMG\) visible and HP reduction visible
   * 59 frames after previous tick \(frame 70\)
 * Frames 4, 15, 57, and 69 demonstrate that in Electro-Charged, the 4TF E CDR functions separately from the reaction damage
   * At frame 4, we obtained E CDR, but it wasn’t until frame 15 until the reaction damage actually went through.
   * At frame 57, we observe KQ trigger the 4TF E CDR, but there is no reaction damage
-  * At frame 69, we realise that XQ triggered the next tick of Electro-Charged because his orbital swords or Q swords were the last elemental source applied to the target.
+  * At frame 69, we realise that XQ triggered the next tick of Electro-Charged because his orbital swords or Q swords were the last Elemental source applied to the target.
 * Thus, we can conclude that KQ can trigger 4TF’s E CDR effect without actually triggering Electro-Charged reaction damage.
 
 **Significance**
 
 * There are only 2 conditions for KQ to trigger E CDR in the context of Electro-Charged.
   * 4TF must not be on CD \(0.8s ICD\)
-  * KQ must apply an Electro elemental source to an enemy with existing Hydro aura.
-* Therefore, 4TF is actually not hampered by Electro-Charged’s 1 second ICD. As long as you can keep constant Hydro aura on the enemy you can switch between different elemental sources \(E1, E2, Electro-imbued autoattacks, and Q\) to obtain E CDR.
+  * KQ must apply an Electro Elemental source to an enemy with existing Hydro aura.
+* Therefore, 4TF is actually not hampered by Electro-Charged’s 1 second ICD. As long as you can keep constant Hydro aura on the enemy you can switch between different Elemental sources \(E1, E2, Electro-imbued autoattacks, and Q\) to obtain E CDR.
 
 ### 4TF Passive Triggered can be Triggered on Non-Damaging Elemental Applications
 
@@ -1435,7 +1435,7 @@ Here is a third example, where we don't rely on Oz as our Electro crutch. Tested
 
 **Significance:**
 
-It does work for characters off screen, can be useful for pure Electro dmg parties using Fischl as extra damage source
+It does work for characters off screen, can be useful for pure Electro DMG parties using Fischl as extra damage source
 
 ## Tiara Sets
 
@@ -1447,7 +1447,7 @@ In this test, we see if the 1 set effect of Tiara is active even when not visual
 
 **Test:**
 
-For the test I used Venti Lvl. 40 with and without Tiara of Flame \(40% less time affected by Pyro\), and to apply the Pyro debuff I used Xiangling's elemental Skill with grass to create a fire surface.
+For the test I used Venti Lvl. 40 with and without Tiara of Flame \(40% less time affected by Pyro\), and to apply the Pyro debuff I used Xiangling's Elemental Skill with grass to create a fire surface.
 
 Test 1 **-** No Tiara on, both set slots filled - Pyro debuff lasts for aprox 10 seconds
 
@@ -1463,7 +1463,7 @@ The Tiara status resist 1-set effect applies even when not visually active.
 
 **By:** Tankex\#4275
 
-In this test, we see if the 1 set effect of the Tiara is active in Domains and if its stackable with elemental resonances \(Hydro resonance for this particular test\).
+In this test, we see if the 1 set effect of the Tiara is active in Domains and if its stackable with Elemental resonances \(Hydro resonance for this particular test\).
 
 **Tiara of Flame, Domain tests:**
 
@@ -1475,7 +1475,7 @@ Test 3 - Tiara on, buff showing - Pyro debuff lasts 25 seconds
 
 Test 4 - Tiara on, buff showing, Hydro resonance up - Pyro debuff lasts for only 8 seconds.
 
-**Conclusion:** the Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
+**Conclusion:** the Tiara works with Leyline disorders and is additive with Elemental resonances, so you are able to get up to 80% debuff resistance.
 
 **Additional testing was performed by Tankex regarding Electro debuff**
 
@@ -1483,7 +1483,7 @@ I decided to test if the "Affected by Element for 40% less time" bonus also work
 
 Test 1 - No tiara nor Elemental resonance - Duration of the Debuff 20 seconds.
 
-Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
+Test 2 - Tiara on, no Elemental resonance - Duration of the Debuff 12 seconds.
 
 ## Tiny Miracle
 
@@ -1514,7 +1514,7 @@ Viridescent Venerer’s RES Shred passive only buffs Swirl DMG against an enemy 
 Tested against 3 Hilichurls of the same level, with Lisa first applying Electro aura on one Hilichurl and swirling with Venti
 
 Things to know: Hilichurl base RES = 10%  
-Hilichurl RES (with VV shred) = 10% - 40% = -30% (BUT res shred is halved below zero, so -30/2 = -15%)  
+Hilichurl RES (with VV shred) = 10% - 40% = -30% (BUT RES Shred is halved below zero, so -30/2 = -15%)  
 RES% Multiplier = 1 - Enemy RES%  
 Incoming Swirl DMG = Outgoing Swirl DMG \* RES% Multiplier  
 Outgoing Swirl DMG = Incoming Swirl DMG / RES% Multiplier
@@ -1549,7 +1549,7 @@ All Hilichurls had their base RES, therefore each of them received the same Swir
 Viridescent Venerer’s RES Shred passive also works on surrounding enemies after being affected by Swirl’s AoE.
 
 **Evidence:**  
-Clip 1 was tested against the 3 same hilichurls using the same rotation and setup with Lisa + Venti (with ZL for shielding + res shred. https://youtu.be/bZOAH38YLMs
+Clip 1 was tested against the 3 same hilichurls using the same rotation and setup with Lisa + Venti (with ZL for shielding + RES Shred. https://youtu.be/bZOAH38YLMs
 
 With Zhongli’s shred in effect, Lisa’s 1-hit AA dealt 16 Electro DMG against one Hilichurl. Since all Hilichurls share the same base RES, we can assume Lisa will deal 16 DMG to the other two when paired with Zhongli’s RES Shred.
 
@@ -1568,11 +1568,11 @@ Viridescent Venerer continues to be a powerful set for Anemo supports. On 2021-0
 
 **Theory:**
 
-Viridescent Venerer 4set effect can trigger multiple times for different element, allowing you to stack different elemental resistances together.
+Viridescent Venerer 4set effect can trigger multiple times for different Element, allowing you to stack different Elemental resistances together.
 
 **Testing:**
 
-Used Barbara for Hydro debuff, Fischl for Electro debuff. Compared the dmg before and after Swirl takes place
+Used Barbara for Hydro debuff, Fischl for Electro debuff. Compared the DMG before and after Swirl takes place
 
 Barbara Normal Attack before Swirl : 63
 
@@ -1611,7 +1611,7 @@ In this video, Barbara's normals deal 34 damage when buffed by her C2 but not bu
 
 In this video, Jean does 98 Cryo damage \(infused by Chongyun\) on her normals with the VV buff, and Barbara does 41 damage with her normals with both VV and Xingqiu's C2 buff. When a Frozen target is swirled, Jean does 98 damage and Barbara does 41 damage to the target, meaning that the target received both a Hydro resistance down and Cryo resistance down debuff from a single Anemo attack.
 
-**Signifiance:** Improves rotations; Anemo characters don't need to be swapped in for each individual elemental debuff.
+**Signifiance:** Improves rotations; Anemo characters don't need to be swapped in for each individual Elemental debuff.
 
 ### 4-Piece Viridescent Venerer Explained
 
@@ -1619,7 +1619,7 @@ In this video, Jean does 98 Cryo damage \(infused by Chongyun\) on her normals w
 
 **Theory:**
 
-I wanted to see how Viridescent Venerer would increase final Swirl damage. The important thing about 4-Piece bonus is that Swirl damage will increase both from +60% Swirl % and also from -40% elemental resistance. Since it's damage depends on EM I made a graph for total increase as a function of EM \(attached here\).
+I wanted to see how Viridescent Venerer would increase final Swirl damage. The important thing about 4-Piece bonus is that Swirl damage will increase both from +60% Swirl % and also from -40% Elemental resistance. Since it's damage depends on EM I made a graph for total increase as a function of EM \(attached here\).
 
 **Evidence:**
 
@@ -1659,7 +1659,7 @@ Jean\(Q\):
 
 Sucrose\(Q\):
 
-* Normal 4-Piece vv proc dmg : [YouTube](https://www.youtube.com/watch?v=Kxh8kD6JFp8&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=16)
+* Normal 4-Piece vv proc DMG : [YouTube](https://www.youtube.com/watch?v=Kxh8kD6JFp8&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=16)
 * Offield when Swirl happens so 4-Piece vv doesnt proc: [YouTube](https://www.youtube.com/watch?v=-QwzOzdUO20&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=14)
 * Onfield so 4-Piece vv procs: [YouTube](https://www.youtube.com/watch?v=E4WG0wjG8Ig&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=15)
 
@@ -1674,11 +1674,11 @@ List of tests:
 * Anemo characters that have 4-Piece vv and are onfield during a Swirl they dont trigger CANNOT shred: [YouTube](https://www.youtube.com/watch?v=6cGhQPbbdns&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=11)
 
 Non-Anemo wearers that are onfield and trigger the Swirl:  
-Tests showed that they can shred with 4-Piece vv as long as they trigger the Swirl with any element which is not Geo/Anemo \(which is only possible against enemies with an innate Anemo aura like the Anemo hypostasis\)
+Tests showed that they can shred with 4-Piece vv as long as they trigger the Swirl with any Element which is not Geo/Anemo \(which is only possible against enemies with an innate Anemo aura like the Anemo hypostasis\)
 
 List of tests:
 
-* Stat page for "Pyro as trigger element for Swirl with 4-Piece vv, WILL IT SHRED": [YouTube](https://www.youtube.com/watch?v=IXaYPqGqzOw&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=12)
+* Stat page for "Pyro as trigger Element for Swirl with 4-Piece vv, WILL IT SHRED": [YouTube](https://www.youtube.com/watch?v=IXaYPqGqzOw&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=12)
 * With Pyro as Trigger for Swirl, 4-Piece vv procs the shred \(vs Anemo hypo\): [YouTube](https://www.youtube.com/watch?v=OOjnH_y59dM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=13)
 
 **Conclusion:** 4-Piece vv wearers can only shred if they fulfil the 2 requirements of being the trigger of the Swirl and being onfield during the Swirl. Other elements like Pyro/Cryo can also shred with 4-Piece vv with the same 2 requirements.
@@ -1720,8 +1720,8 @@ Recommended reading: [Simultaneous Reaction Priority](https://docs.google.com/do
 
 [4vv on Anemo Hypostasis](https://youtu.be/qilUEhPL0xQ)
 
-First vid shows Barbara's normals without res shred.
-Second vid shows that res shred happens for the second attack. (The slight increase in N1 was from a slight increase in ATK.)
+First vid shows Barbara's normals without RES Shred.
+Second vid shows that RES Shred happens for the second attack. (The slight increase in N1 was from a slight increase in ATK.)
 
 [4vv on raining Anemo Hypostasis](https://youtu.be/4k8CpitDLQw)
 
@@ -1835,7 +1835,7 @@ Collected data on 157 artifacts, Flower and Feather only to be able to account f
 
 **Limitations**
 
-n is of sufficient size. When foddering artifacts, they might not be chosen at random but may for some reason use def substats last. Ideally this would be further tested with a droprate table to be able to disregard the distortions from upgrading artifacts.
+n is of sufficient size. When foddering artifacts, they might not be chosen at random but may for some reason use DEF substats last. Ideally this would be further tested with a droprate table to be able to disregard the distortions from upgrading artifacts.
 
 **Evidence:**
 
@@ -1889,7 +1889,7 @@ Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames were teste
 
 * [Kokomi with 4-Piece HoD/SR/CW](../characters/hydro/sangonomiya-kokomi.md#kokomi-skill-triggers-artifact-effects-even-when-interrupted)
 * [4p CW set + Guoba](https://imgur.com/kZ8LXW5)
-  * Getting interrupted while casting Guoba still increases Pyro dmg%. Casting it for without getting interrupted later causes another stack of CW.
+  * Getting interrupted while casting Guoba still increases Pyro DMG%. Casting it for without getting interrupted later causes another stack of CW.
 * [4p CW + Hu Tao](https://imgur.com/T7NUI4U)
 * [4p CW + Yoimiya](https://imgur.com/Fy9zUJq)
 * [4p CW + Fischl](https://imgur.com/Pa4jUoP)

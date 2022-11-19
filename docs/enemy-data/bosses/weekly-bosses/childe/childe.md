@@ -49,7 +49,7 @@ None.
 
 * Unless otherwise noted, any attack that hits the player will leave a Riptide mark(Hydro or Electro).
 * Attacks that hit characters already marked by Riptide will deal additional AoE Hydro and AoE Electro DMG.
-  * This will also trigger the Electro-Charged elemental reaction.
+  * This will also trigger the Electro-Charged Elemental reaction.
   * The mark can be removed by touching the arena's barrier to trigger a Vaporize or Overloaded reaction. This reaction does not deal damage to the character.
   * The mark will persist even if you switch characters.
 * Childe teleports instantly to any point of the arena.

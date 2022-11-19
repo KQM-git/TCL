@@ -58,11 +58,11 @@ Potential for some interesting combos. Cool stuff. Very fun.
 * E can be used mid air to regain stamina when gliding after starting to fall. - [GottaGoFast\#7876](https://youtu.be/iboABc_eh60)
 * Kazuha's interruption resistance is greatly increased when mid-air. - [Bubba\#4619](https://imgur.com/a/BWEjMxq)
 * Skill can be slightly held for a minimal suction increase while keeping tap E's cooldown. - [helba\#0777](https://imgur.com/a/55baYSz)
-* Kazuha's elemental Skill is an incredible tool for gathering loot in the overworld. - [Greyhound\#7836](https://www.youtube.com/watch?v=7ELY1kTC7AI)
+* Kazuha's Elemental Skill is an incredible tool for gathering loot in the overworld. - [Greyhound\#7836](https://www.youtube.com/watch?v=7ELY1kTC7AI)
 * Kazuha's hold E can jump over primo vishap's breath attack. - [jstern25\#1399](https://imgur.com/a/QSvOkph)
 * Kazuha's E jump does not have iframes. - [jstern25\#1399](https://imgur.com/a/4X56XWS)
 * Kazuha's E vertical reach is strangely long. - [Phana\#0420](https://imgur.com/1Sio3TA)
-* Chihayaburu's infused element can be seen as a small circle around kazuha. - [Mcpie\#8672](https://youtu.be/rHSRe-IRrv8)
+* Chihayaburu's infused Element can be seen as a small circle around kazuha. - [Mcpie\#8672](https://youtu.be/rHSRe-IRrv8)
 * Kazuha can perform a 180 very quickly mid air. - [Mcpie\#8672](https://youtu.be/kfneyG6r4yA)
 
 ### Kazuha Hold E can cause fall DMG
@@ -103,10 +103,10 @@ By double tapping your glider as soon as you've tapped your Skill on Kazuha, you
 
 **Evidence:**  
 [YouTube](https://www.youtube.com/watch?v=Biw0_7STVK0)  
-This video shows the tech first and a normal fall second. Note the elemental Skill CD when kazuha's feet touches the ground, 4.8 without the tech and 5.1 with the tech, which means it may save around ~0.3 seconds.
+This video shows the tech first and a normal fall second. Note the Elemental Skill CD when kazuha's feet touches the ground, 4.8 without the tech and 5.1 with the tech, which means it may save around ~0.3 seconds.
 
 **Significance:**  
-This tech is useful if you only want to tap E with Kazuha without initiating a plunge attack. For example if you want to reapply VV shred to some Frozen enemies but you don't want to shatter them.
+This tech is useful if you only want to tap E with Kazuha without initiating a plunge attack. For example if you want to reapply VV shred to some Frozen enemies but you don't want to Shatter them.
 
 ### Kazuha Land Cancel
 
@@ -165,7 +165,7 @@ _Nothing Absorbed_:
 * [Imgur _(by Yume\#2875)_](https://imgur.com/a/RHLsjtj)
 
 **Significance:**  
-Kazuha's E aura check seems to be able to even ignore his own aura. Given that some rotations are tuned to Kazuha's E absorbing the expected element, one may want to avoid dashing+jumping before inputting his E. However, one might also be able to use this bug to intentionally avoid absorbing self auras onto his E.
+Kazuha's E aura check seems to be able to even ignore his own aura. Given that some rotations are tuned to Kazuha's E absorbing the expected Element, one may want to avoid dashing+jumping before inputting his E. However, one might also be able to use this bug to intentionally avoid absorbing self auras onto his E.
 
 As for an explanation to why this bug occurs, it's probably due to funky aura check mechanics in Kazuha's E. Perhaps the dash jump makes it so he can't detect his own aura due to the invincibility frames during the dash, with the jump allowing for E to be input while the invincibility frames are happening, although this is all just speculation.
 
@@ -261,7 +261,7 @@ Timing Burst on certain cases.
 ### A4: Poetics of Fuubutsu
 
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements. - [kingjohn23\#8694](https://youtu.be/3ryW4jG38y0)
-* Kazuha's 4th ascension passive overrides and refreshes buff each Swirl of the same element. - [kol\#1593](https://youtu.be/-D8IMtMAt48)
+* Kazuha's 4th ascension passive overrides and refreshes buff each Swirl of the same Element. - [kol\#1593](https://youtu.be/-D8IMtMAt48)
 
 ### Kazuha's Dynamically Changing Buff
 

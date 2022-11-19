@@ -56,7 +56,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 [YouTube](https://youtu.be/3_QlBz5P5B8)
 
-**Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much Energy Recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on elemental skills or bursts.
+**Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much Energy Recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on Elemental skills or bursts.
 
 ## Artifacts
 
@@ -96,7 +96,7 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 **Last tested:** <VersionHl date="2022-02-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_947163566954393671_transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)
 
-**Bug:** Resetting or exiting a domain does not reset elemental Skill cooldowns.
+**Bug:** Resetting or exiting a domain does not reset Elemental Skill cooldowns.
 
 **Evidence:**
 
@@ -251,7 +251,7 @@ Can be used to reach places normally inaccessible, especially by utilizing Benne
 
 **Finding:**  
 You take damage when you plunge on this spot at Dainichi island bridge, this happens with any type of weapon.  
-The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected.
+The damage is likely counted as from plunge, as it is close to the max plunge DMG, and Xiao is unaffected.
 
 **Evidence:**
 
@@ -310,7 +310,7 @@ Better understanding of how the bodies are modelled, fluff,... and suffering.
 **Finding:**  
 Diluc is hiring part time, so Diona applies, but little does he know that he has a workplace injury settlement coming his way.
 Take damage when you plunge behind the counter in Diluc's Tavern, the Angel's Share, any weapon type works
-The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected. Works the same way as [The Leg Break Bridge](#leg-break-bridge).
+The damage is likely counted as from plunge, as it is close to the max plunge DMG, and Xiao is unaffected. Works the same way as [The Leg Break Bridge](#leg-break-bridge).
 
 **Evidence:**
 
@@ -455,7 +455,7 @@ Just another one amongst annoying Fatui _mechanics_.
 **Added:** <Version date="2021-04-05" />  
 **Last tested:** <VersionHl date="2021-04-05" />
 
-**Finding:** Energy Particles don't stop moving even when you open a pause menu. You can absorb Particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
+**Finding:** Elemental Particles don't stop moving even when you open a pause menu. You can absorb Particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
 
 **Evidence:**
 
@@ -486,10 +486,10 @@ Just another one amongst annoying Fatui _mechanics_.
 1. **I**n the contending tides event, cast Xiangling's Burst.
 2. After casting Xiangling's Burst, immediately press M to enter the map, and then press P to abandon challenge.
 3. Teleport to a statue of the seven, wait a couple seconds, and then teleport back to the contending tides arena.
-4. Start a contending tides challenge, and any stacked bursts will appear. If you're on the first cycle, only one pyronado will appear.
+4. Start a contending tides challenge, and any stacked Bursts will appear. If you're on the first cycle, only one pyronado will appear.
 5. Quickly charge Xiangling's Burst \(I used 4 Pyro characters + around 250% ER to do this\) and cast Xiangling's Burst.
 6. After casting Xiangling's Burst, press M to enter map and press P to abandon challenge.
-7. Repeat until you have many bursts stacked.
+7. Repeat until you have many Bursts stacked.
 
 **Additional Notes:**
 
@@ -545,17 +545,17 @@ Fluff, annoying bug when you do it by accident.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
-Venti Burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
+Venti Burst's Elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
 
 **Evidence:**  
 [Video](https://www.youtube.com/watch?v=Jpxf7bD47ZY)
 
-Clips 1 and 2 show that even when absorption happens late, the elemental infusion damage continues to tick even after Venti's Q ended. I counted 14 ticks in first clip and 15 ticks in second clip, which should be around the max total ticks of early infusion, but I'm not sure why the second clip showed 1 more tick.
+Clips 1 and 2 show that even when absorption happens late, the Elemental infusion damage continues to tick even after Venti's Q ended. I counted 14 ticks in first clip and 15 ticks in second clip, which should be around the max total ticks of early infusion, but I'm not sure why the second clip showed 1 more tick.
 
-Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
+Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the Elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
 
 **Significance:**  
-When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on Swirl damage if there's no element to be swirled.
+When Elemental absorption happens late into a Venti Q, the damage from Elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on Swirl damage if there's no Element to be swirled.
 
 ### Venti E hold visual error
 

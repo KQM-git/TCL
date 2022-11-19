@@ -30,7 +30,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903997513890136085_904063136171167795_transcript-xinyan-c6-affects-skill-and-burst.html)
 
 **Finding:**  
-Xinyan C6 affects her Skill and Burst. The un-game description for Xinyan's C6 states that “Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.” However, the buff is simply added to the stats page as flat attack. Since Xinyan’s elemental Skill and Burst are dynamic, C6 buff can increase their damage.
+Xinyan C6 affects her Skill and Burst. The un-game description for Xinyan's C6 states that “Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.” However, the buff is simply added to the stats page as flat attack. Since Xinyan’s Elemental Skill and Burst are dynamic, C6 buff can increase their damage.
 
 **Evidence:**
 
@@ -62,4 +62,4 @@ Further evidence showing FPS is not the only deciding factor (15 FPS, usually pu
 Further evidence showing one pulse causing one Cryo shield Melt at 30fps: [YouTube](https://www.youtube.com/watch?v=dUnJg6940ws)  
 Further evidence showing three pulses causing three Cryo shield melts at 60fps: [YouTube](https://www.youtube.com/watch?v=cYc0MLsZh-Y)
 
-**Significance:** This causes Xinyan's Q to deal a tiny bit more damage than expected at C2, and thanks to her shield pulses not having an ICD, may allow players that are able to play at a higher frame-rate to overtake other elemental auras more easily. For calculations, 2 pulses should be assumed as that is the most common. Additionally, this shows that differences in frame rate can have an effect on individual skills, which may warrant further investigation.
+**Significance:** This causes Xinyan's Q to deal a tiny bit more damage than expected at C2, and thanks to her shield pulses not having an ICD, may allow players that are able to play at a higher frame-rate to overtake other Elemental auras more easily. For calculations, 2 pulses should be assumed as that is the most common. Additionally, this shows that differences in frame rate can have an effect on individual skills, which may warrant further investigation.

@@ -36,7 +36,7 @@ With Ganyu’s C1, the 15% Cryo shred is applied to the FFB of the first shot so
 
 **Evidence:**
 
-Tested with Ganyu, no artifact, R1 Amos, c6 and level 8 talent. consistent 889 dmg with 2090 Bloom in the first video. After the initial charged shot, the resulting Bloom dmg did not change at close range meaning that the Cryo shred was applied to the first Bloom. by running maths, we found out that the Bloom has 0.3 travel time. \(204.8% x 1.12 x 0.9\)/\(348.16% x \(1.12 + 0.24\) x 1.025\) = 889/2090.
+Tested with Ganyu, no artifact, R1 Amos, c6 and level 8 talent. consistent 889 DMG with 2090 Bloom in the first video. After the initial charged shot, the resulting Bloom DMG did not change at close range meaning that the Cryo shred was applied to the first Bloom. by running maths, we found out that the Bloom has 0.3 travel time. \(204.8% x 1.12 x 0.9\)/\(348.16% x \(1.12 + 0.24\) x 1.025\) = 889/2090.
 
 [Video 1](https://youtu.be/j1wfYTOYkDQ); [Video 2](https://youtu.be/JdyEOE2zECI)
 
@@ -72,7 +72,7 @@ Due to the fact that Viridescent Hunt can trigger on both the Bloom or the arrow
 
 **Finding:**
 
-The distance required in order to get an individual stack of the Amos’ passive buff of 8% dmg bonus per 0.1 seconds of travel time is approximately 5 in game meters per stack with the first stack applying at a distance of 3 in game meters. For reference, to get maximum stacks with the Amos bow, the distance is approximately half of Ganyu’s Elemental Burst in length.
+The distance required in order to get an individual stack of the Amos’ passive buff of 8% DMG bonus per 0.1 seconds of travel time is approximately 5 in game meters per stack with the first stack applying at a distance of 3 in game meters. For reference, to get maximum stacks with the Amos bow, the distance is approximately half of Ganyu’s Elemental Burst in length.
 
 **Evidence:**
 
@@ -132,7 +132,7 @@ Ganyu is unable to perform the ARCC tech with her Frostflake Arrow meaning that 
 
 **Evidence:**
 
-User SavageCabbage tested out trying to perform the ARCC tech with Ganyu’s Frostflake Arrow, which resulted in the arrow reverting back to a non-elemental aimed shot, meaning that it is not possible to perform the ARCC tech with Ganyu’s charged shot.
+User SavageCabbage tested out trying to perform the ARCC tech with Ganyu’s Frostflake Arrow, which resulted in the arrow reverting back to a non-Elemental aimed shot, meaning that it is not possible to perform the ARCC tech with Ganyu’s charged shot.
 
 [ARCC tech test](https://youtu.be/0QUL-yOl_CY)
 
@@ -357,7 +357,7 @@ Ganyu's Q is really bad against single-target enemies for Cryo application. Her 
 
 **Finding:**
 
-On subsequent casts of Ganyu’s Celestial Shower, if done in quick succession \(immediately after the cooldown generally\), Ganyu’s ascension 4 will actually trigger for the Elemental Burst unlike in the initial cast, and furthermore; Ganyu’s constellation 4 debuff will carry over to any enemy that is currently in the elemental bursts aura.
+On subsequent casts of Ganyu’s Celestial Shower, if done in quick succession \(immediately after the cooldown generally\), Ganyu’s ascension 4 will actually trigger for the Elemental Burst unlike in the initial cast, and furthermore; Ganyu’s constellation 4 debuff will carry over to any enemy that is currently in the Elemental Bursts aura.
 
 **Evidence:**
 
@@ -401,7 +401,7 @@ This knowledge allows for a clearer understanding of her talents, and implies th
 
 **Finding:**
 
-Ganyu’s A1 Passive persists after swapping characters, meaning that it is possible to maintain the 20% CRIT Rate from A1 while swapping to supports to activate their abilities and elemental bursts as long as the swap time is within the 5 second period. \(Note: the CRIT Rate increase does not apply to others\).
+Ganyu’s A1 Passive persists after swapping characters, meaning that it is possible to maintain the 20% CRIT Rate from A1 while swapping to supports to activate their abilities and Elemental Bursts as long as the swap time is within the 5 second period. \(Note: the CRIT Rate increase does not apply to others\).
 
 Additionally, Buffs applied to the character after an arrow has been released are not added to the fired arrow. The arrow's damage is “snapshot” from the state of the character when released.
 
@@ -419,7 +419,7 @@ After shooting an arrow, moving inside/outside Bennett’s Burst does not change
 
 **Significance:**
 
-This proves that it is possible to use other character’s elemental bursts and/or skills while maintaining Ganyu’s 20% critical rate buff which both improves her viability by making her significantly less of a selfish carry, and allows for potential usage \(although overall probably not optimal\) in swap comps with Ganyu.
+This proves that it is possible to use other character’s Elemental Bursts and/or Skills while maintaining Ganyu’s 20% critical rate buff which both improves her viability by making her significantly less of a selfish carry, and allows for potential usage \(although overall probably not optimal\) in swap comps with Ganyu.
 
 ### A4: Harmony Between Heaven and Earth
 
@@ -443,7 +443,7 @@ User SavageCabbage tested out using Ganyu’s Elemental Burst on a group of enem
 
 **Significance:**
 
-These findings are important for Ganyu players to know as their elemental bursts will deal less damage then they might assume on paper due to the common misconception that Ganyu’s ultimate is not snapcast in nature. Along with this due to the fact that the 20% bonus Cryo damage will apply if you Burst off of cooldown further incentivises players to do so.
+These findings are important for Ganyu players to know as their Elemental Bursts will deal less damage then they might assume on paper due to the common misconception that Ganyu’s ultimate is not snapcast in nature. Along with this due to the fact that the 20% bonus Cryo damage will apply if you Burst off of cooldown further incentivises players to do so.
 
 ### Ganyu Elemental Burst and charge shots snapshot
 

@@ -14,7 +14,7 @@ search: false
 
 ## Attack Mechanics
 
-### 3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)
+### 3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not Shattered\)
 
 **By:** shdwbld\#8103
 
@@ -46,7 +46,7 @@ search: false
 
 **Conclusion:** From 12 basic attacks
 
-5 shattered - \( E shattered\) Since initial slam to the ground of E has it's own ICD, you can have 2 shattered reactions on the 1st rotation. This will just make it so that you get 1 more reaction and by the end of the 3 rotations, end with a shattered reaction instead of an ICD.
+5 Shattered - \( E Shattered\) Since initial slam to the ground of E has it's own ICD, you can have 2 Shattered reactions on the 1st rotation. This will just make it so that you get 1 more reaction and by the end of the 3 rotations, end with a Shattered reaction instead of an ICD.
 
 ## Skill Mechanics
 
@@ -82,7 +82,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 **Findings:**  
 The various interactions between Chongyun’s A4 and E have been looked at and the findings are as follows:
 
-1. Chongyun’s A4 blade is considered as elemental Skill damage and as such can proc the effects of TotM 4-pc bonus and Sacrificial Greatsword.
+1. Chongyun’s A4 blade is considered as Elemental Skill damage and as such can proc the effects of TotM 4-pc bonus and Sacrificial Greatsword.
 2. Chongyun’s A4 blade snapshots the buffs received by the E Skill on cast and buffs received after do not take effect. This suggests that Chong’s E and A4 work similarly to Geo traveler’s E and C2 snapshot interaction.
 3. Chongyun’s E area is not a field but instead a cylinder of unknown (But large) height and depth. Chongyun’s A4 can target any enemy within this large cylindrical area.
 

@@ -15,12 +15,12 @@ No weakspot.
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 60% HP       | 1 Particle | Own element |
-| Death        | 1 Particle | Own element |
+| 60% HP       | 1 Particle | Own Element |
+| Death        | 1 Particle | Own Element |
 
 ## Resistance Table
 
-All slimes are immune to their respective element.
+All slimes are immune to their respective Element.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |

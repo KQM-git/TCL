@@ -51,7 +51,7 @@ Head.
   * Its' footsteps will show up on certain terrain as well.
   * When using attacks while invisible, the Agent will temporarily show itself.
 * After using Invisibility, it will create a clone of itself with certain attacks.
-  * Clones can be removed by any source of damage or elemental applications. Clones are resistant but not immune to Pyro attacks. All Clones are immediately removed if the Pyro Agent is staggered.
+  * Clones can be removed by any source of damage or Elemental applications. Clones are resistant but not immune to Pyro attacks. All Clones are immediately removed if the Pyro Agent is staggered.
 * At melee range, it can slash their target with a swift knife blow.
 * When out of melee range, it can dash towards and attack its' target with an upwards knife slash.
   * This attack can be used while invisible, and creates a clone.

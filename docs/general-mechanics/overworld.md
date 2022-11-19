@@ -24,7 +24,7 @@ Basic Mechanics and Known Locations:
 ### Teapot Dog Abuse
 
 * 0-poise attacks also register on Kageroumaru.
-* Kageroumaru can hold non-elemental statuses, but not marks.
+* Kageroumaru can hold non-Elemental statuses, but not marks.
 * Kageroumaru's parry does not have a cooldown. He reacts to all attacks inlicted on him, including every single hit of a multi-hit attack.
 
 ## Daily Commissions
@@ -65,9 +65,9 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 
 ### Waverider vs Player
 
-* Waverider cannot be CC'd with Anemo attacks such as Jean's or Venti's elemental Skill.
-* Waverider can be slightly shifted with Geo Traveler's elemental Skill.
-* You cannot raise the boat with Albedo's elemental Skill.
+* Waverider cannot be CC'd with Anemo attacks such as Jean's or Venti's Elemental Skill.
+* Waverider can be slightly shifted with Geo Traveler's Elemental Skill.
+* You cannot raise the boat with Albedo's Elemental Skill.
 * You cannot place Zhongli's Steles near the boat.
 * There is a zone around the Waverider where the water can't be Frozen.
 * If you use the Waverider TP to summon the Waverider when the "destination" is Frozen, it deconstructs.
@@ -107,7 +107,7 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 * If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
 * Overworld rain applies Hydro with an ICD of 0.5 seconds, and a strength of 10 durability per tick, up to a max of 30. The duration of Hydro aura applied by rain is currently unknown.
 * It is unknown if normal rain and thunderstorm rain have the same properties.
-* Rain water Hydro is different from regular Hydro, and the game doesn’t recognize it as the same as Hydro from different sources (Such as player Hydro and Hydro from bodies of water). This is proved as the crystal doesn’t update and reapply Electro onto itself as it thinks no element was applied onto it, removing the Electro. Game does not recognize rain Hydro, as other sources of Hydro.
+* Rain water Hydro is different from regular Hydro, and the game doesn’t recognize it as the same as Hydro from different sources (Such as player Hydro and Hydro from bodies of water). This is proved as the crystal doesn’t update and reapply Electro onto itself as it thinks no Element was applied onto it, removing the Electro. Game does not recognize rain Hydro, as other sources of Hydro.
 
 ### Electrified
 
@@ -134,7 +134,7 @@ Burning grass has standard ICD - 3 hits/2.5 seconds.
 ### Bushes
 
 * Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
-* Bushes take one unit of Pyro elemental application to light on fire.
+* Bushes take one unit of Pyro Elemental application to light on fire.
 
 ### Trees
 
@@ -271,7 +271,7 @@ Maps:
 * Treasure Compass range:
   * Treasure Compass detection depends on the chest rendering. Chest rendering suffers from an ItDepends™ .
   * Chest rendering seems to be square, off-set from chest, 360m x 360m for some while 180m x 180m for others.
-* The Cryo element is able to be applied to many overworld objects, such as ores and animals. Additionally, it has been demonstrated that some overworld objects can hold Cryo without said Cryo being visible through elemental sight.
+* The Cryo Element is able to be applied to many overworld objects, such as ores and animals. Additionally, it has been demonstrated that some overworld objects can hold Cryo without said Cryo being visible through Elemental sight.
 * Flying Anemo Slimes and Bloaty Floaty bubbles have hitboxes that can move characters.
 * It is possible to view the prompt \(but not catch fish\) from far above and below the fishing spot.
   * In addition to this, it is possible to catch fish from underwater.

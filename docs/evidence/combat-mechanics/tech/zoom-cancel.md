@@ -11,7 +11,7 @@ search: false
 **Last tested:** <VersionHl date="2021-04-18" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_815411615322341406_833576716701138984_transcript-elemental-burst-zoom-cancel.html)
 
-**Theory/Finding:** Zoom in for a 5-Star Elemental Burst and similar elemental bursts will not occur when there is potential clipping due to interference with another object.
+**Theory/Finding:** Zoom in for a 5-Star Elemental Burst and similar Elemental Bursts will not occur when there is potential clipping due to interference with another object.
 
 Many characters have a primary camera that normally tracks them and a secondary camera that manages the zoom in phase of the Elemental Burst. In order to detect collisions, the secondary camera casts a short ray in the direction of the character. If that ray collides with an object besides the character, it will switch to the primary camera in order to prevent clipping. Programmers can use layers to select what objects to ignore. If the secondary camera is within another object, such as behind a wall, raycasting won't register any collision and will return a null value. In which case, a ray in the opposite direction is cast in order to detect collisions and the camera will switch to the primary camera if collisions are detected.
 

@@ -129,10 +129,10 @@ import Skill from '@site/src/components/char/Skill'
 
 * Any active **Sigils** will be absorbed by Razor granting him 5 Energy for each **Sigil**.
 * Razor’s hold E does not cause a minor self-knockback unlike outside of **Lightning Fang**.
-* While the effects of **Elemental Burst: Lightning Fang** are active, the Energy Particle generation of **Elemental Skill: Claw and Thunder** is disabled.
+* While the effects of **Elemental Burst: Lightning Fang** are active, the Elemental Particle generation of **Elemental Skill: Claw and Thunder** is disabled.
 * The duration of **Lightning Fang** can be extended by hitlag
 * Superconduct triggered by enemy Cryo attacks while Razor's **Lightning Fang** is active will affect nearby enemies as well as Razor.
-* Bennett’s **Fantastic Voyage** self Pyro application can react with Razor’s self Electro application to proc overload on yourself.
+* Bennett’s **Fantastic Voyage** self Pyro application can react with Razor’s self Electro application to proc Overload on yourself.
   * This effect does not harm you, but it deals two ticks of damage and knocks small mobs back.
 
 </TabItem>

@@ -183,9 +183,9 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of Fr
 
 * It's impossible to pop Mona's Q bubble on enemies that are completely stagger resistant (aka gained hyper armor).
 
-* Certain Skill/burst cannot trigger the bubble. (Klee Q, Zhongli E).
+* Certain Skill/Burst cannot trigger the bubble. (Klee Q, Zhongli E).
 
-* Additionally, enemies that are "lift-able" by Jean's elemental Skill by default, then it will also get trapped in Mona's Q stasis. But your Mona needs to be no more than 20-level lower than your enemy for this to work.
+* Additionally, enemies that are "lift-able" by Jean's Elemental Skill by default, then it will also get trapped in Mona's Q stasis. But your Mona needs to be no more than 20-level lower than your enemy for this to work.
 
 * Stagger immunity spreadsheet by Myuwi#0001 from Mona Mains:  
   [Google Sheet](https://docs.google.com/spreadsheets/d/1AENU1fu_pChwc8b0nDPmsCo2qvfi4MXycme4JqjmstA)
@@ -224,9 +224,9 @@ Mona's Omen damage bonus can be extended due to a certain enemy's state(s). Thes
 **Stagger resistant** - During a certain enemy's animation(s) state, the enemy is completely immune to stagger/poise damage. (Object shield enemies have a block animation state which is associated with stagger resistance.)  
 For example, a Crackling axe Mitachurl has a stagger resistance animation window that extends for about 4 seconds. During this window, Mona's Illusory bubble will not pop. Once the animation ends, the enemy returns into an idle state, this then allows the enemy to take poise damage. Resulting in Mona's Illusory bubble also open to taking poise damage.
 
-**Elemental shields** - Enemies that apply an elemental shield, for example, Abyss Mages. Mona's Illusory bubble will not pop while an enemy is in this state. Mona's Omen damage bonus on a shielded enemy can provide a small benefit for all party members shield damage.
+**Elemental shields** - Enemies that apply an Elemental shield, for example, Abyss Mages. Mona's Illusory bubble will not pop while an enemy is in this state. Mona's Omen damage bonus on a shielded enemy can provide a small benefit for all party members shield damage.
 
-**Elemental/hyper armor** - An enemy's ability that infuses itself with an elemental/hyper armor. Enemies within this state can take damage and Mona's Illusory bubble will not pop on-demand, it will only time out.
+**Elemental/hyper armor** - An enemy's ability that infuses itself with an Elemental/hyper armor. Enemies within this state can take damage and Mona's Illusory bubble will not pop on-demand, it will only time out.
 
 Some enemies can possess more than one state. For example. Abyss Lector and Herald have one stagger resistant state and a Elemental shield state.
 
@@ -329,7 +329,7 @@ Alt and typical sprint i-frame mechanics are extremely similar, many people like
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855354855525580800_856384260121034752_transcript-4-tom-mona-a1-edition.html)
 
 **Finding:**  
-Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piece set bonus of Tenacity of the Millelith, thus is considered elemental Skill damage.
+Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piece set bonus of Tenacity of the Millelith, thus is considered Elemental Skill damage.
 
 **Evidence:**
 

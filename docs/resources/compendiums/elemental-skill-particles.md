@@ -42,7 +42,7 @@ Production ratio shows the rate of the amount of Particles that will be produced
 | Traveler<br />\(Anemo\) | Skill Hold                                                                                                                                                                              | 8              | 3~4 \(2:1\)         | 3.33              | 25.0          |
 | Venti                   |                                                                                                                                                                                         | 6              | 3 \(-\)             | 3.00              | 30.0          |
 | Venti                   | Skill Hold                                                                                                                                                                              | 15             | 4 \(-\)             | 4.00              | 16.0          |
-| Xiao                    | During **Bane of All Evil**, skill produces no Particles. Particle/min assumes 0% **Bane of All Evil** uptime                                                                           | 10             | 3 \(-\)             | 3.00              | 18.0          |
+| Xiao                    | During **Bane of All Evil**, Skill produces no Particles. Particle/min assumes 0% **Bane of All Evil** uptime                                                                           | 10             | 3 \(-\)             | 3.00              | 18.0          |
 
 </TabItem>
 <TabItem value="cryo" label="Cryo">

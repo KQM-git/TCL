@@ -520,7 +520,7 @@ There are different \(at least 4\) ways the game keeps track of time.
     * Example: Skill cooldowns 
 4. Entity time:  
     * The time that passes for an entity/the player, gets paused by menus when not in Co-Op, does have a max time that can get processed per frame, and it also gets affected by hitlag that gets applied to said entity. \(Not global, unique per enemy/the player\)  
-    * Example: Skills which duration get extended by hitlag \(e.g.: not deployables\), elemental auras
+    * Example: Skills which duration get extended by hitlag \(e.g.: not deployables\), Elemental auras
 
 **Evidence 3:**  
 1. Real time:

@@ -43,7 +43,7 @@ search: false
   - [Video](https://youtu.be/MfBSVHkc4Jk)  
 
 ## Burst Mechanics
-* Dori's self application is unlike any other we've had before. Other characters' self applications have always been self auras that don't have aura tax and have a set duration, but Dori's is a legit elemental attack, which means it has aura tax and uses standard decay rate. It also applies the Electro aura visual effect around the character which doesn't happen with other self auras. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+* Dori's self application is unlike any other we've had before. Other characters' self applications have always been self auras that don't have aura tax and have a set duration, but Dori's is a legit Elemental attack, which means it has aura tax and uses standard decay rate. It also applies the Electro aura visual effect around the character which doesn't happen with other self auras. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
   - [Video](https://youtu.be/unCIWxypvno)
 * Dori's Burst tether connects to and applies to all nearby players in multiplayer - Lefthandtaco\#6453
   - [Video](https://youtu.be/unCIWxypvno)

@@ -28,9 +28,9 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 
 **Evidence:**
 
-* [N1P with Anemo res](https://www.youtube.com/watch?v=ef8McW6VD4A)
-* [N1P with Anemo res and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
-* [N3D with Anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
+* [N1P with Anemo RES](https://www.youtube.com/watch?v=ef8McW6VD4A)
+* [N1P with Anemo RES and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
+* [N3D with Anemo RES and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
 
 <Tabs>
 <TabItem value="tldr" label="TLDR">
@@ -122,7 +122,7 @@ _An increase of 35.4% DPS._
 </TabItem>
 
 <TabItem value="ds2" label="DS: Jean C2 + Anemo Res">
-Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance &lt;--- I kind of fck'd up here, I shouldnt be using Anemo res. Thankfully the extra 10% move speed shouldn't mess up results here.
+Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance &lt;--- I kind of fck'd up here, I shouldnt be using Anemo RES. Thankfully the extra 10% move speed shouldn't mess up results here.
 
 **First String**
 
@@ -178,7 +178,7 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 
 **Question**: Why isn't there a version without Anemo resonance? Anemo characters are shit to run with Noelle.
 
-**Author**: I can't for the life of me get consistent plunges on these boomer hands without Anemo res. I whiff more than I succeed, and if it's not consistent for me, then it's not realistic to me. If you can do it without move speed then, by all means. You can also use anything that gives you move speed. Doesn't have to be Anemo res. Personally i just dont believe its worth doing atm, until we hav a good move speed buffer that doesn't gimp the comp. Tested with macros, even with macros I couldn't get consistent plunges without some form of move speed buff.
+**Author**: I can't for the life of me get consistent plunges on these boomer hands without Anemo RES. I whiff more than I succeed, and if it's not consistent for me, then it's not realistic to me. If you can do it without move speed then, by all means. You can also use anything that gives you move speed. Doesn't have to be Anemo RES. Personally i just dont believe its worth doing atm, until we hav a good move speed buffer that doesn't gimp the comp. Tested with macros, even with macros I couldn't get consistent plunges without some form of move speed buff.
 
 ## Skill Mechanics
 
@@ -237,7 +237,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 **By:** pikachusurprised \#6934  
 **Added:**: 2021-04-16
 
-**Finding:** The 15% spin damage bonus on C2 behaves like most other dmg% sources, meaning it is additive and goes into the formula as \(1 + dmg%\).
+**Finding:** The 15% spin damage bonus on C2 behaves like most other DMG% sources, meaning it is additive and goes into the formula as \(1 + DMG%\).
 
 **Evidence:** [https://youtu.be/GvIoAdmNJUg](https://youtu.be/GvIoAdmNJUg) \(credits to JonahFarc\#7056\)
 
@@ -283,13 +283,13 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 **Enemy stats:**
 
 * Level 83
-* 70% Physical res
+* 70% Physical RES
 * \(90 + 100\) / \(90 + 83 + 200\) = 0.509 defense multiplier
 
 </TabItem>
 </Tabs>
 
-**Significance:** With SS and no other dmg% sources, C2 increases spin damage by 11.11%. With other dmg% sources, this value will only get lower. At AA lv10, this means a full spin with dash cancel does \(190.67 × 1.111\) = 211.83 mv/s, and a full spin jump cancel, at \(183.26 × 1.111\) = 203.61 mv/s. [Frame data was taken from Artesians doc](https://docs.google.com/spreadsheets/d/1PN0WgqENUfV8i5hnrz1BOEU56fk7m8FYlFXzFzrsS3k/edit#gid=52721192).
+**Significance:** With SS and no other DMG% sources, C2 increases spin damage by 11.11%. With other DMG% sources, this value will only get lower. At AA lv10, this means a full spin with dash cancel does \(190.67 × 1.111\) = 211.83 mv/s, and a full spin jump cancel, at \(183.26 × 1.111\) = 203.61 mv/s. [Frame data was taken from Artesians doc](https://docs.google.com/spreadsheets/d/1PN0WgqENUfV8i5hnrz1BOEU56fk7m8FYlFXzFzrsS3k/edit#gid=52721192).
 
 Meanwhile, N3 dash sits at 208.24, and N4 dash at 215.26. This means that even a full spin into dash is only barely better than N3 dash, and a full spin into jump \(the more realistic option due to stamina management\) is slightly worse than N3 dash.
 

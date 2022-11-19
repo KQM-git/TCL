@@ -56,15 +56,15 @@ search: false
 
 * Lightfall stacks are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy. - [Faranight\#0001](https://youtu.be/PbZMPM23hk8)
 * The initial hit of Eula's Q does not grant a lightfall stack. - ColaSenami\#6861
-  * [Eula Q in front of Geovishap](https://www.youtube.com/watch?v=RoQ6NOXlmY4) - hit initial dmg & force lightfall Burst early
-  * [Eula Q away from Geovishap](https://www.youtube.com/watch?v=Ug5RHliBnBg) - initial dmg not hitting the geovishap & force lightfall Burst early
+  * [Eula Q in front of Geovishap](https://www.youtube.com/watch?v=RoQ6NOXlmY4) - hit initial DMG & force lightfall Burst early
+  * [Eula Q away from Geovishap](https://www.youtube.com/watch?v=Ug5RHliBnBg) - initial DMG not hitting the geovishap & force lightfall Burst early
 * Charged attacks don't grant lightfall stacks. - [Some Missionary\#8340](https://youtu.be/r3PActt3bqc)
 * Confirmation that lightfall stacks cannot be gained when hitting [abyss mage](https://youtu.be/RwXRC9ayx9I), [wooden](https://youtu.be/xyfB2P00tUA), and [geo](https://youtu.be/4gbZ9v2OlCQ) shields, because stacks are only gained on damage. - nat\#4502
 * Lightfall stacks are not gained when the Lightfall Sword lights up and is about to explode. - Eko\#6090
   * [Base Damage Check](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_844317292208848937_845032011386060820_Genshin_Impact_2021.05.20_-_15.56.24.02.DVR.mp4)
   * [Hits during the animation](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_844317292208848937_845032486214959164_Genshin_Impact_2021.05.20_-_15.59.20.05.DVR.mp4)
   * [Hits right before](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_844317292208848937_845032641145339964_Genshin_Impact_2021.05.20_-_15.58.21.04.DVR.mp4)
-* NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 Glacial Illumination stack. Every damage instance adds one Lightfall stack. This means that Eula's third normal attack, which hits twice, will add two stacks, as will her fifth. Eula's held elemental Skill, when it triggers base damage, two icewhirls, and an A4 trigger, will add four Lightfall stacks.- [Greyhound\#7836](https://www.youtube.com/watch?v=aaG8WuCSqBE)
+* NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 Glacial Illumination stack. Every damage instance adds one Lightfall stack. This means that Eula's third normal attack, which hits twice, will add two stacks, as will her fifth. Eula's held Elemental Skill, when it triggers base damage, two icewhirls, and an A4 trigger, will add four Lightfall stacks.- [Greyhound\#7836](https://www.youtube.com/watch?v=aaG8WuCSqBE)
   * [Table of full values](https://gyazo.com/7831cdd292a0c0a3fb9777ae30f15afe), below is summary of the linked image
 
 | Combo                  | Stacks |

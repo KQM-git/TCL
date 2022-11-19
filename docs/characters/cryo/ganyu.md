@@ -174,7 +174,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent bursts off cooldown within the radius of the prior Burst. This buff can be snapshotted.
+* **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent Bursts off cooldown within the radius of the prior Burst. This buff can be snapshotted.
 
 </TabItem>
 </Tabs>

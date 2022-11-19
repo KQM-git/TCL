@@ -80,7 +80,7 @@ These data sheds light onto Glacial Waltz mechanics and how to maximize their Bu
 **Added:** <Version date="2021-04-19" />  
 **Last tested:** <VersionHl date="2021-04-19" />
 
-**Findings:** Kaeya's A4 is phrased as "Opponents Frozen by **Frostgnaw** will drop additional Elemental Particles." However, enemies don't actually have to be Frozen by his elemental Skill for the additional Particles to be generated; as long as Kaeya's Skill hits a Frozen enemy, it will generate additional elemental Particles.
+**Findings:** Kaeya's A4 is phrased as "Opponents Frozen by **Frostgnaw** will drop additional Elemental Particles." However, enemies don't actually have to be Frozen by his Elemental Skill for the additional Particles to be generated; as long as Kaeya's Skill hits a Frozen enemy, it will generate additional Elemental Particles.
 
 **Evidence:** [Barbara freezes target and Kaeya uses his E afterwards. 4 Particles are received, which can only come from his A4 Passive.](https://youtu.be/RiTTnpQ44DA)
 

@@ -14,7 +14,7 @@ sidebar_position: 3001
 **Last tested:** <VersionHl date="2021-06-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839140280560255106_850180845259063296_transcript-sucrose-burst-absorption.html)
 
-**Finding:** Charged arrows can cause elemental absorption by hitting the 'core' of applicable Anemo abilities. This works for Pyro, Electro, Hydro, but not Cryo.
+**Finding:** Charged arrows can cause Elemental absorption by hitting the 'core' of applicable Anemo abilities. This works for Pyro, Electro, Hydro, but not Cryo.
 
 **Evidence:**  
 Venti Pyro absorption: [Video](https://youtu.be/6pMIzWzh5fg)  
@@ -30,7 +30,7 @@ Sucrose failed Cryo absorption: [Video](https://youtu.be/ntH3tRuJSXc)
 **Significance:**  
 This finding
 
-* Expands understanding of elemental absorption.
+* Expands understanding of Elemental absorption.
 * Provides further evidence that Cryo is unique in its infusion mechanics.
 * Introduces a new method to control absorption that does not depend on enemies, which could be useful in situations where enemies carry an innate aura undesired for absorption.
 
@@ -41,7 +41,7 @@ This finding
 **Last tested:** <VersionHl date="2021-07-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854304358921404448_862102016271712256_transcript-absorption-priority-correction.html)
 
-**Theory:** Anemo Absorption priority is dependent only on the type of element. Abilities with absorption fit into two priority orders:
+**Theory:** Anemo Absorption priority is dependent only on the type of Element. Abilities with absorption fit into two priority orders:
 
 Order 1:  
 Cryo > Pyro > Hydro > Electro  
@@ -58,11 +58,11 @@ The two above priority orders are given in data for each respective ability:
 _Has been lost to the sands of time_  
 Experimental verification:
 
-Existing theory (in TCL) has element type acting as a tie breaker and gauge strength acting as the dominant factor in determining absorption.  
+Existing theory (in TCL) has Element type acting as a tie breaker and gauge strength acting as the dominant factor in determining absorption.  
 This is refuted by the video below showing AMC E Cryo > Pyro > Electro priority:  
 https://www.youtube.com/watch?v=XOfI1K31RSk  
 Clearly for AMC E, 1U Pyro has priority over 4U Electro.  
-To eliminate the possibility of AMC E absorption preferring the element on the player rather than on an enemy a test of 1U Cryo vs 1U Pyro is also performed, in which the ability absorbs the 1U Cryo from the Ruin Guard rather than the fresher 1U Pyro.
+To eliminate the possibility of AMC E absorption preferring the Element on the player rather than on an enemy a test of 1U Cryo vs 1U Pyro is also performed, in which the ability absorbs the 1U Cryo from the Ruin Guard rather than the fresher 1U Pyro.
 
 AMC E priority for Pyro > Hydro:  
 https://www.youtube.com/watch?v=S3HYE-SPVZQ  
@@ -90,7 +90,7 @@ Ayzel's [submission](https://discord.com/channels/763583452762734592/76519198011
 Credit is given to Carrier5by5\#8394 for bringing forth the evidence of absorption priority and helping me understand it, and Clouded\#0427 for enabling the Co-op tests.
 
 **Significance:**  
-Understanding how elemental infusion operates allows for more extensive use of the mechanic for setting up reactions and breaking shields. It is now known that we can rely on the game data to determine the priority of new absorption abilities rather than test each one.
+Understanding how Elemental infusion operates allows for more extensive use of the mechanic for setting up reactions and breaking shields. It is now known that we can rely on the game data to determine the priority of new absorption abilities rather than test each one.
 
 ## Absorption Aura Check Inflicts Self Damage
 
@@ -99,7 +99,7 @@ Understanding how elemental infusion operates allows for more extensive use of t
 **Last tested:** <VersionHl date="2021-10-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902503398396538891_903470600062902332_transcript-absorption-aura-check-count-as-self-dmg.html)
 
-**Finding:** When Anemo abilities with elemental absorption check self aura on the active characters, it inflicts 0 damage to them. This can trigger some passive talents that activate on hit. However, they will stop hitting allies after absorbing any element.
+**Finding:** When Anemo abilities with Elemental absorption check self aura on the active characters, it inflicts 0 damage to them. This can trigger some passive talents that activate on hit. However, they will stop hitting allies after absorbing any Element.
 
 **Evidence:**  
 Venti Q triggering Beidou C4: [Video](https://imgur.com/ScuOXnH)  
@@ -114,7 +114,7 @@ Venti and Sucrose _not_ triggering Beidou C4 after Absorption: [Video](https://y
 
 **Significance:**  
 Some characters with passives that trigger on-hit have potential to take advantage of this interaction.  
-This may be used to further investigate the properties of elemental absorption (e.g., finding the tick rate of the aura check).
+This may be used to further investigate the properties of Elemental absorption (e.g., finding the tick rate of the aura check).
 
 ## Aura Check Properties
 
@@ -125,7 +125,7 @@ This may be used to further investigate the properties of elemental absorption (
 
 **Finding:**  
 Aura-checks are zero-damage attacks produced by Anemo Absorption attacks to check for Auras.  
-Aura-checks have different verticalities to their original attack, have set frequencies which differ per Skill/burst and explains how the Venti bug functions.  
+Aura-checks have different verticalities to their original attack, have set frequencies which differ per Skill/Burst and explains how the Venti bug functions.  
 This ticket explores the interesting properties that aura-checks have.
 
 **Evidence:**
@@ -133,7 +133,7 @@ This ticket explores the interesting properties that aura-checks have.
 * 1: Aura-checks will only happen if the attack has the ability to absorb elements, with the exception of the Anemo Traveler's Tap Elemental Skill, which triggers two aura-checks right after the final blast happens, despite not having Elemental Absorption. This is thought to be due to its transition into the Hold version of the Skill, which does have Elemental Absorption.
   * [Stats before final blast, 0% Shield Strength](https://imgur.com/a/kmWdCHz)
   * [Stats after final blast, 10% Shield Strength](https://imgur.com/a/wmuQ9iT)
-* 1A: Anemo Traveler's Elemental Skill \(Tap\) will only trigger one aura-check instead of two if an element is encountered. However, it will not deal absorbed elemental damage regardless.
+* 1A: Anemo Traveler's Elemental Skill \(Tap\) will only trigger one aura-check instead of two if an Element is encountered. However, it will not deal absorbed Elemental damage regardless.
   * [Stats after final blast, 5% Shield Strength](https://imgur.com/a/zNtigOD)
 * 1B: If the Elemental Skill is missing an ascension talent which allows it to absorb elements, as in the case of Kazuha's Elemental Skill, Chihayaburu, it will fail to trigger any aura-checks.
 
@@ -167,7 +167,7 @@ This ticket explores the interesting properties that aura-checks have.
 
 * 4: Aura-checks can also hit trees. When they hit Cuihua trees, they can make one more fruit drop in addition to the normal amount.
 
-  * [Anemo Traveler's Elemental Skill\(Tap\) with an element on a tree without the blast hitting the tree by itself](https://imgur.com/3tMbTrF)
+  * [Anemo Traveler's Elemental Skill\(Tap\) with an Element on a tree without the blast hitting the tree by itself](https://imgur.com/3tMbTrF)
   * [Anemo Traveler's Elemental Skill\(Tap\) without any elements](https://imgur.com/a/vUo4JWo)
   * [Kazuha's Elemental Skill\(Tap\) with A1](https://imgur.com/a/GgqW5Bz)
   * [Kazuha's Elemental Skill\(Hold\) with A1](https://imgur.com/a/kJdk4bp)

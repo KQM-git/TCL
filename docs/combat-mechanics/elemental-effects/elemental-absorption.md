@@ -4,7 +4,7 @@ sidebar_position: 3001
 
 # Elemental Absorption
 
-Elemental Absorption is the capability of certain Anemo abilities to be infused with either Hydro, Pyro, Cyro, or Electro. Such abilities can only be infused once with a single element per use, and will deal damage of that type periodically throughout the ability's duration.
+Elemental Absorption is the capability of certain Anemo abilities to be infused with either Hydro, Pyro, Cyro, or Electro. Such abilities can only be infused once with a single Element per use, and will deal damage of that type periodically throughout the ability's duration.
 
 ## Absorption Triggers
 
@@ -16,11 +16,11 @@ So far it is understood that Anemo abilities with Absorption will always absorb 
 * Environmental effects that inflict the above elements
 * Hydro, Pyro, and Electro but not Cryo charged arrows
 
-This means that it is insufficient to simply attack the Anemo ability with an elemental Skill or infused weapon. If the Skill has the capability to infuse the character with an absorbable element, then the character can then touch the ability to trigger absorption, or alternatively an enemy can be used as a carrier. The character touching the ability prior to Absorption can also trigger some on-hit-taken effects.
+This means that it is insufficient to simply attack the Anemo ability with an Elemental Skill or infused weapon. If the Skill has the capability to infuse the character with an absorbable Element, then the character can then touch the ability to trigger absorption, or alternatively an enemy can be used as a carrier. The character touching the ability prior to Absorption can also trigger some on-hit-taken effects.
 
 ## Absorption Priority
 
-When there are multiple elements in range of the Anemo ability it will absorb according to elemental priority only. This priority is different between abilities and is either one of two orders:
+When there are multiple elements in range of the Anemo ability it will absorb according to Elemental priority only. This priority is different between abilities and is either one of two orders:
 
 1. Cryo &gt; Pyro &gt; Hydro &gt; Electro
    * Anemo Traveler Skill

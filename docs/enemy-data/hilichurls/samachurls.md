@@ -13,12 +13,12 @@ Face.
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 60% HP       | 1 Particle | Own element |
-| Death        | 1 Orb      | Own element |
+| 60% HP       | 1 Particle | Own Element |
+| Death        | 1 Orb      | Own Element |
 
 # Resistance Table
 
-All samachurls have +40% (50% total) resistance to their own element.
+All samachurls have +40% (50% total) resistance to their own Element.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |

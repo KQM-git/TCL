@@ -21,7 +21,7 @@ Certain characters have a finite vertical range for the buffs and/or infusions f
 
 **Evidence:**
 
-* Bennett has either infinite or a very long range on his Burst healing Pyro infusion from c6, Pyro dmg bonus from c6. etc.
+* Bennett has either infinite or a very long range on his Burst healing Pyro infusion from c6, Pyro DMG bonus from c6. etc.
 
   * [YouTube](https://youtu.be/5EEAXYn3cn0)
 
@@ -152,7 +152,7 @@ Free fowl. Also whoever is coding the animals is probably trolling.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840459159656202250_845509708693635072_transcript-chair-cancelling.html)
 
 **Finding:**  
-For some characters, if they use an elemental Skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the Skill will not activate \(and as such the Skill cooldown will not start\), the game will still "treat" the Skill as if it activated, which causes effects like Crimson Witch 4-Piece to stack.
+For some characters, if they use an Elemental Skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the Skill will not activate \(and as such the Skill cooldown will not start\), the game will still "treat" the Skill as if it activated, which causes effects like Crimson Witch 4-Piece to stack.
 
 **Evidence:**  
 [Video](https://youtu.be/6nwbxIwk3Q8)
@@ -248,7 +248,7 @@ _VERY_ fluff, unless miHoYo decides to put Jeans Office in abyss this serves lit
 
 **Evidence:**
 
-Razor has 80% Electro RES and was originally considered to be the best Electro Tank. However, enemy level infinity calcs for each enemy revealed that Beidou was superior at level infinity. The main reason is that there is no good transferrable shield for Electro dmg, as well as the fact that RES caps at 140%. The best Electro shield is Beidou counter, and the best transferrable Electro shield is C1 Beidou, which is around half the size of Beidou counter.
+Razor has 80% Electro RES and was originally considered to be the best Electro Tank. However, enemy level infinity calcs for each enemy revealed that Beidou was superior at level infinity. The main reason is that there is no good transferrable shield for Electro DMG, as well as the fact that RES caps at 140%. The best Electro shield is Beidou counter, and the best transferrable Electro shield is C1 Beidou, which is around half the size of Beidou counter.
 
 Building Beidou as the tank/shielder in one allows for a much larger shield the more investments there are into HP, though she has less base DEF than razor. Thus, Beidou scales better with HP and Razor scales better with DEF. But due to the nature of the DEF formula, where the benefit of defense decreases with enemy level increases, HP outscales DEF, and thus Beidou should and does outscale Razor.
 
@@ -281,7 +281,7 @@ Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200%
 
 **Evidence:** Damage reduction from DEF is DEF/\(DEF + 5 _enemyLevel + 500\). This is 0 when enemyLevel = ∞. Thus DEF is negligible and the 'Tank' builds for shield%, RES%, and HP. Viable artifacts are 2-4Miracle, 2Bolide, and 2TS/2LW. Choices have tradeoffs \(eg Miracle is 4_ and thus trades HP for RES\). Shield characters simply max shield scaling stats.
 
-Zhong A2 +25% shield. A4 Diona decreases the enemy ATK by 10%, multiplying effective HP by 10/9. C4 Ning +10% element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when element RES% is limited \(dendro\). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
+Zhong A2 +25% shield. A4 Diona decreases the enemy ATK by 10%, multiplying effective HP by 10/9. C4 Ning +10% Element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when Element RES% is limited \(dendro\). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
 
 Razor has +80% RES but his BiS Shield C1 Beidou is small, and RES caps at 140%. Thus Beidou is BiS Electro Tank/Shield.
 
@@ -289,13 +289,13 @@ Each viable combination of artis/comp/etc is compared to find these conclusions 
 
 **Significance:** Why of course, this is incredibly significant and changes everything. In terms of things to build, Diona is a BiS char on every comp. Electro is the cheapest, as Beidou is both Tank and Shield, but is the most specialized. In general, Jean/Summit Shaper is used in 7/8 comps, while Zhong is used in 5/8 comps.
 
-More Significance to these already earth-shattering, mind-bending calculations, due to the discovery of spawning aura mechanics. Essentially, they ignore Damage Reduction and DEF, which is identical in execution to the previously hypothesized enemies that ignore DR and have a level of infinity, rendering DEF useless. For this reason, ATK% debuffs on enemies will also be ignored in calculations. This introduces slightly more practicality to these calculations, though the practicality of this work has already approached infinity so it makes little difference.
+More Significance to these already earth-Shattering, mind-bending calculations, due to the discovery of spawning aura mechanics. Essentially, they ignore Damage Reduction and DEF, which is identical in execution to the previously hypothesized enemies that ignore DR and have a level of infinity, rendering DEF useless. For this reason, ATK% debuffs on enemies will also be ignored in calculations. This introduces slightly more practicality to these calculations, though the practicality of this work has already approached infinity so it makes little difference.
 
 Thus, the question posed is no longer how much damage can you tank from a lv infinity enemy without DR. It is, how much damage can you tank from a spawning aura in one hit?
 
 In the first half of the 1.3 update, the Geo rework meant that Geo shields would become stronger for non-Geo elements, and weaker against Geo. The implications of this were that while Geo tanking ability became noticably worse, some other elements benefitted greatly. Thanks to Zhongli's new shield totally eclipsing Beidou's C1 shield, Razor became the best Electro tank by far. Due to the new nonspecificity of Geo shields, Geo joined the Hydro and Anemo group, being 72.36% of its former self. In the second half of the 1.3 update, the release of Hu Tao means that her C6 immunity to getting oneshot must also be banned, as it allows her to tank any single hit. However, her state afterwards where she gains +200% RES means she powercreeps every single other tank. Note that the RES cap seems to have been removed, though it is unclear whether it was during Xiao or Hu Tao banner's time period. Furthermore, Hu Tao also has the highest base HP in the game, though this is less significant than her C6 providing +200% RES.
 
-Note that as a result, Electro is no longer the undisputed king of the element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield \(Xinyan\), and so does Cryo, with a bigger shield \(Diona\) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set. Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
+Note that as a result, Electro is no longer the undisputed king of the Element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield \(Xinyan\), and so does Cryo, with a bigger shield \(Diona\) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set. Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
 
 If MHY told you to pick an damage type to tank the most damage from a level ∞ enemy without damage reduction, the tier list is Pyro &gt; Cryo &gt; Electro &gt; Geo = Hydro = Anemo &gt; Dendro &gt; Physical.
 
@@ -305,7 +305,7 @@ If MHY told you to pick an damage type to tank the most damage from a level ∞ 
 **Added:** <Version date="2021-03-23" />  
 **Last tested:** <VersionHl date="2021-03-23" />
 
-**Theory:** Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
+**Theory:** Without using any Elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 
 **Evidence:** Kaeya, a free character, is used. This is not to imply that other free characters cannot climb the tree, and it is highly likely that other characters can also perform this feat. This evidence merely demonstrates that climbing the tree under the previously mentioned limitations is indeed possible. No food buffs/resonances/etc are used.
 
@@ -319,7 +319,7 @@ Step 4. Jump to the area just below the peak of the tree. Both the butterfly and
 
 Step 5. Jump to the peak of the tree from the butterfly. It is possible that normal attacking immediately after landing helps to stay on the branch. This step is very precise, and failing this step may lead to falling to ground level. [https://www.youtube.com/watch?v=kPmyIS7A3SY](https://www.youtube.com/watch?v=kPmyIS7A3SY)
 
-**Significance:** By mastering these skills, you can climb the intimidating heights of the Frostbearing Tree with nothing but your bare hands. No Vision, elemental powers, or even a glider, are necessary. Indeed, rolling for anything is unnecessary, as the free characters provided to any player are adequate, meaning not even whales have an insurmountable advantage. Climbing to the peak of the tree has incredible significance due to the fact that the local surroundings of the Frostbearing Tree are of a generally lower height. Thus, climbing the Frostbearing tree allows you to get the height advantage, and doing so under these limitations means you can perform such strategic maneuvers under the most dire and desperate of situations.
+**Significance:** By mastering these skills, you can climb the intimidating heights of the Frostbearing Tree with nothing but your bare hands. No Vision, Elemental powers, or even a glider, are necessary. Indeed, rolling for anything is unnecessary, as the free characters provided to any player are adequate, meaning not even whales have an insurmountable advantage. Climbing to the peak of the tree has incredible significance due to the fact that the local surroundings of the Frostbearing Tree are of a generally lower height. Thus, climbing the Frostbearing tree allows you to get the height advantage, and doing so under these limitations means you can perform such strategic maneuvers under the most dire and desperate of situations.
 
 Being at a greater height confers immense benefits. Those at a significant height over others possess a birds-eye view of the battlefield, allowing them to observe their enemies from afar. The great military strategist Sun Tzu once said, "If you know the enemy and know yourself, you need not fear the result of a hundred battles." Furthermore, the advantage of height is not merely backed by military theory. In fact, it is has been a deciding factor throughout history. For example, Obi Wan cleverly defeated Anakin by utilising this intrinsic advantage unique to the high ground.
 
@@ -336,7 +336,7 @@ Note: This is a merge of 2 tickets
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842094899204587580_857414437437964348_transcript-all-the-cancelling.html)
 
 **Finding:**  
-For some characters, if they use an elemental Skill or Burst and use a dialogue box at the same time \(pressing F and E at the same time for PC users\), while the Skill will not activate \(and as such the Skill cooldown will not start\), the game will still "treat" the Skill or Burst as if it activated, which causes effects like Crimson Witch 4-Piece to stack or can trigger effects like 4-Piece Noblesse Oblige.
+For some characters, if they use an Elemental Skill or Burst and use a dialogue box at the same time \(pressing F and E at the same time for PC users\), while the Skill will not activate \(and as such the Skill cooldown will not start\), the game will still "treat" the Skill or Burst as if it activated, which causes effects like Crimson Witch 4-Piece to stack or can trigger effects like 4-Piece Noblesse Oblige.
 
 **Evidence:**  
 Chair cancel by Ayzel: [Video](https://youtu.be/6nwbxIwk3Q8)  
@@ -354,7 +354,7 @@ New theoretical highest DPS ceiling for some units who aren't able to typically 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853961397059059722_858414283258855464_transcript-harpastum-cancel.html)
 
 **Finding:**  
-Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, the cancel cannot be performed when your character is put into a state where elemental Skill is not usable, such as while performing a Charged Attack.
+Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, the cancel cannot be performed when your character is put into a state where Elemental Skill is not usable, such as while performing a Charged Attack.
 
 **Evidence:**  
 Harpastum cancel demo: [Video](https://imgur.com/g4VzQqE)  
@@ -570,7 +570,7 @@ Traveler does not accumulate friendship points, but does sort higher than other 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929809364825550901_936413828575559700_transcript-a-study-in-potions--retry-button-mechanics.html)
 
 **Finding:**  
-The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and Energy.
+The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, Elemental skills, Burst skills and character constellations are fully reset as well as HP and Energy.
 
 **Evidence:**  
 [Google Doc](https://docs.google.com/spreadsheets/d/1eYvgX2WSqEFXtQEuuwlI9nYveeaWUSe-grQ2Lx59zVY/edit?usp=sharing)  
@@ -662,7 +662,7 @@ Plunging provides a speedier way of getting down from a high place without dying
 **By:** melon\#9323  
 **Added:** <Version date="2022-03-03" />  
 **Last tested:** <VersionHl date="2022-03-03" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-CRIT-scales-off-character.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-crit-scales-off-character.html)
 
 **Finding:**  
 Bokuso Box CRIT Rate and damage scale off of character stats.
@@ -982,7 +982,7 @@ The birds inside the cages of The Chasm underground camps have some weird behavi
 **General Interactions**
 
 * All elements can be applied, can proc reactions - [Imgur](https://imgur.com/a/qZcX0p9)
-* Affected by res shred (visual effects, similar to other animals)
+* Affected by RES Shred (visual effects, similar to other animals)
 * Affected by Lisa's Conductive status, like other animals
 * Procs "on hit" stuff (like other non-enemy objects, expected)
 
@@ -1103,7 +1103,7 @@ Fluff.
 Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some odd properties.
 
 1. Unlike usual sources of overworld Pyro damage, like torches or burning grass or other campfires, this campfire only deals 4 damage per tick. Like other campfires, it is 1U transformative Pyro damage.
-2. The campfire has similar properties to other campfires \(hold Cryo gauge, pops Ayato E, and gets targetted by Oz if Fischl procs A1\) but does not light up under elemental sight, unlike regular campfires. This applies whether it holds Pyro, Cryo, or no element at all.
+2. The campfire has similar properties to other campfires \(hold Cryo gauge, pops Ayato E, and gets targetted by Oz if Fischl procs A1\) but does not light up under Elemental sight, unlike regular campfires. This applies whether it holds Pyro, Cryo, or no Element at all.
 3. Player constructs may be placed on top of the melons, but construct placements that would intersect with the melon hitboxes are invalid. Note that the hitbox is strange and somewhat unintuitive, and does not entirely match its appearance.
 4. The melons are "slippery" in the sense that while the player may stand on them, approaching the melons with more than an arbitrary small amount of speed will cause them to slip off. For example, one may drop down onto the melons via climbing a construct, but performing a directionless jump straight up will cause the character to fall off. Character attacks, as usual, will not lead to them falling off the melons either, and neither will swapping characters.  
    This is a very strange result. First, roasted melons would not be slippery, as any surface moisture would be evaporated due to the heat of the campfire. Second, sticks usually used to skewer fruit would not be sturdy enough to support someone's weight.
@@ -1112,7 +1112,7 @@ Kuki Shinobu's melons, and the campfire she uses to roast them in particular, ha
 
 **Evidence:**
 
-1. [4 Pyro transformative dmg \(1U\)](https://youtu.be/TbdxoFm5Wvo)
+1. [4 Pyro transformative DMG \(1U\)](https://youtu.be/TbdxoFm5Wvo)
 
 2. [Elemental sight, Cryo application, 1U Pyro](https://youtu.be/7q_j4ddv2WA)
 
@@ -1134,7 +1134,7 @@ Kuki Shinobu's melons, and the campfire she uses to roast them in particular, ha
 6. [No resonance](https://youtu.be/pKKYAoxd8Pk)
 
 **Significance:**  
-It is obvious that the melons and the campfire are a dark ritual tool of some kind, employed by religious heretic Kuki Shinobu. Hoyoverse is a Chinese company, and in Chinese, 4 is an unlucky number because it sounds similar to the Chinese word for death. The campfire dealing 4 damage is no coincidence. Furthermore, its absence from elemental sight and the non-Euclidean melon hitboxes are signs of a demonic rot setting in on the fabric of reality itself.
+It is obvious that the melons and the campfire are a dark ritual tool of some kind, employed by religious heretic Kuki Shinobu. Hoyoverse is a Chinese company, and in Chinese, 4 is an unlucky number because it sounds similar to the Chinese word for death. The campfire dealing 4 damage is no coincidence. Furthermore, its absence from Elemental sight and the non-Euclidean melon hitboxes are signs of a demonic rot setting in on the fabric of reality itself.
 
 One may argue that the melons are not foul or evil in nature, as Itto quite liked the taste in the quest. However, Itto's enjoyment of the suspicious "slippery" melons can be attributed to the fact that he is an evil Oni of legend. Similarly, the ability to strike the melons, producing a hitmarker and hitlag, is indicative that they are on the side of evil. This theory also explains Ushi's inability to find a way out or to resonate with Zhongli's pillar -- Ushi, as an expert exorcist, was resisting the overwhelming power of Shinobu's diabolism.
 

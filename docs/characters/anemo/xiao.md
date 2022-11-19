@@ -118,7 +118,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Xiao's attacks will be infused with 1GU Anemo.
-* While the effects of **Elemental Burst: Bane of All Evil** are active, the Energy Particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.
+* While the effects of **Elemental Burst: Bane of All Evil** are active, the Elemental Particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.
 * Xiao can keep his mask on if his Burst is canceled.
 
 </TabItem>

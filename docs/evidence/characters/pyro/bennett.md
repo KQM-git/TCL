@@ -21,7 +21,7 @@ search: false
 **Last tested:** <VersionHl date="2021-05-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844058207151325224_846702340642701323_transcript-bennetts-hold-e-counts-as-self-damage.html)
 
-**Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
+**Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding Skill for the full duration Bursts a sword.
 
 **Evidence:** [YouTube](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/bennett.md/discord/attachments_844058207151325224_844058535716192316_SVID_20210518_111047_1.mp4)
 
@@ -79,11 +79,11 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 **Added:** <Version date="2021-04-15" />  
 **Last tested:** <VersionHl date="2021-04-15" />
 
-**Finding:** Bennett's attack buff prioritizes the Burst that applied the attack buff first. This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
+**Finding:** Bennett's attack buff prioritizes the Burst that applied the attack buff first. This means that even when two Bennett Bursts overlap, the attack buff that was applied first will remain.
 
 **Evidence:** [YouTube](https://youtu.be/ooYtsZhYUxc)
 
-**Significance:** In the case of coop with multiple Bennetts, be sure to time your bursts so that the Bennett that applies the highest attack buff places their field first.
+**Significance:** In the case of coop with multiple Bennetts, be sure to time your Bursts so that the Bennett that applies the highest attack buff places their field first.
 
 ### Bennett Field Linger
 
@@ -146,7 +146,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 
 **Finding:**  
 If C6 is enabled, auto-attacks infused with Pyro have 1U worth of Pyro application.  
-\*1U \(or 1 gauge unit\) is the Keqing Mains theorycrafting standard for elemental auras.  
+\*1U \(or 1 gauge unit\) is the Keqing Mains theorycrafting standard for Elemental auras.  
 \*1U is about 9.5 seconds, and 2U is about 12 seconds. 4U auras exist, but only on Beidou.
 
 **Evidence:**
@@ -161,7 +161,7 @@ with Zhongli:
 
 Knowing this allows us to know which units to pair with C6 Bennett in order to reliably proc Vaporize or Melt.
 
-We want to have an elemental trigger that has more GUs than our elemental aura, so the Pyro infused auto will always Vaporize/Melt.
+We want to have an Elemental trigger that has more GUs than our Elemental aura, so the Pyro infused auto will always Vaporize/Melt.
 
 #### Duration of C6 Infusion
 
@@ -176,7 +176,7 @@ C6 Bennett Pyro infusion time when you step out of it is roughly 2 seconds.
 **Significance:**  
 Stepping out of a C6 Bennett Fantastic Voyage field has a left over Pyro infusion effect of roughly 2 seconds. Meaning that even if you are outside of it, you have that window to chase after an enemy and still have your weapon infused.
 
-#### C6 Bennett Pyro dmg bonus in coop
+#### C6 Bennett Pyro DMG bonus in coop
 
 **By:** Neptunya\#8291  
 **Added:** <Version date="2021-07-10" />  
@@ -184,13 +184,13 @@ Stepping out of a C6 Bennett Fantastic Voyage field has a left over Pyro infusio
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863515307363532850_863517152987185162_transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)
 
 **Finding:**  
-The 15% Pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.
+The 15% Pyro DMG bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.
 
 **Evidence:**  
 [Video](https://youtu.be/VOUNrvU_1ak)
 
 **Conclusion:**  
-Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.
+Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been Shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.
 
 #### C6 Bennett Pyro DMG Bonus affects Catalyst and Bow-wielders
 

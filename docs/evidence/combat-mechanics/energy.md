@@ -26,7 +26,7 @@ sidebar_position: 3000
 **Evidence:** The original author didn't provide video evidence, but it was approved due to being easily replicated**.** Special thanks go to Pinupski\#9999 for validating this entry with video evidence.
 
 1. Enemy's health was depleted to ~5% and let to reset to full HP, removing the variable of HP Particles
-2. [Autoattacking](https://youtu.be/yMstsGRLy5s): Used all bursts to reset the Burst meter, then Normal Attacked with Zhongli until Burst was charged
+2. [Autoattacking](https://youtu.be/yMstsGRLy5s): Used all Bursts to reset the Burst meter, then Normal Attacked with Zhongli until Burst was charged
 3. [Conclusion](https://youtu.be/3W_Gjd5LfDM): Characters other than Zhongli still had 0 Energy.
 
 **Significance:** Off-field characters cannot gain Energy via Normal Attacks from the active character .
@@ -40,7 +40,7 @@ sidebar_position: 3000
 **Evidence:**
 
 1. Bennett was given 300.1% ER
-2. Funneled non-Pyro elemental Particles to Bennett while off-field
+2. Funneled non-Pyro Elemental Particles to Bennett while off-field
 3. [Took 33 Particles](https://youtu.be/8WRgwQf-zh0), which is almost exactly what was expected
 
 ```python
@@ -72,11 +72,11 @@ Attacking enemies with normal/charged attacks can give extra Energy. Although in
 **Last tested:** <VersionHl date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845560562221056001_850107809877196870_transcript-energy-gen-numbers.html)
 
-**Finding:** Several Particle production number/ratio were wrong on the elemental Particle production sheet.
+**Finding:** Several Particle production number/ratio were wrong on the Elemental Particle production sheet.
 
 **Evidence:** Tests on various character were recorded to ensure that the data were right.
 
-Elemental skills that has a fixed production value will be cast for at least 50 times, while elemental skills that has a chance based production value will be cast for at least 200 times until the average stabilize to double confirm the ratio.
+Elemental skills that has a fixed production value will be cast for at least 50 times, while Elemental skills that has a chance based production value will be cast for at least 200 times until the average stabilize to double confirm the ratio.
 
 In addition, several new conditions to trigger Particle generation had been added to specific character notes.
 

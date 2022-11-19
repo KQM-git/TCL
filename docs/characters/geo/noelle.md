@@ -211,7 +211,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* C4 shares ICD with Noelle's elemental Skill damage.
+* C4 shares ICD with Noelle's Elemental Skill damage.
 * The damage from **To Be Cleaned** is calculated using Noelle’s current attack at the moment the shield breaks.
 
 </TabItem>

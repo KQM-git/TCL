@@ -38,14 +38,14 @@ Determining Fischl's Elemental Skill's ICD. Fischl's E \(Oz\) will apply Electro
 
 **Significance:** A better understanding of ICDs.
 
-### Resummoning Oz while he's still active counts as using an elemental Skill
+### Resummoning Oz while he's still active counts as using an Elemental Skill
 
 **By:** Peekays\#2722  
 **Added:** <Version date="2021-07-17" />  
 **Last tested:** <VersionHl date="2021-07-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865717842816532491_865808993149255710_transcript-fischl-c1-and-hod.html)
 
-**Finding/Bug:** Both the summoning and re-summoning of Oz with E count as using an elemental Skill.
+**Finding/Bug:** Both the summoning and re-summoning of Oz with E count as using an Elemental Skill.
 For example, they both trigger the 4-Piece heart of depth effect.
 
 **Evidence:**  
@@ -111,8 +111,8 @@ Fischl's Energy generation is better than previously thought. Most tools and gui
 When Fischl casts Midnight Phantasmagoria and then gets swapped out, she will leave Oz behind, who will take a snapshot of Fischl's stats the moment she leaves the field.
 
 **Evidence:**  
-I started off by casting Fischl Skill to show his current dmg which was 665. Then at 00:08, I used Fischl Burst and swapped off when she lost the ATK buff. As you can see, Oz dmg was also 665. [Video](https://www.youtube.com/watch?v=-SqSYT0QIb8)  
-For the second video, I used Fischl Burst, but swapped off before she lost the ATK buff. This time, Oz dmg was 1791 which was higher than his previously expected Skill dmg. [Video](https://www.youtube.com/watch?v=ZNS9SAwZY84)
+I started off by casting Fischl Skill to show his current DMG which was 665. Then at 00:08, I used Fischl Burst and swapped off when she lost the ATK buff. As you can see, Oz DMG was also 665. [Video](https://www.youtube.com/watch?v=-SqSYT0QIb8)  
+For the second video, I used Fischl Burst, but swapped off before she lost the ATK buff. This time, Oz DMG was 1791 which was higher than his previously expected Skill DMG. [Video](https://www.youtube.com/watch?v=ZNS9SAwZY84)
 
 **Significance:**  
 Not only do you need to be careful about Bennett's ATK buff tick interval, but also need to be careful not to let ATK buff ran out before swapping out of Fischl.
@@ -160,11 +160,11 @@ Clip: [YouTube](https://www.youtube.com/watch?v=_nwtPUXMIME)
 
 4. Fischl's Burst is considered as a Blunt attack and thus can cause Shatter while her C4 cannot.
 
-Burst shatters: [YouTube](https://www.youtube.com/watch?v=M1PyFkFDrw0)  
-C4 does not shatter: [YouTube](https://www.youtube.com/watch?v=i47KZPNuYmU)
+Burst Shatters: [YouTube](https://www.youtube.com/watch?v=M1PyFkFDrw0)  
+C4 does not Shatter: [YouTube](https://www.youtube.com/watch?v=i47KZPNuYmU)
 
 **Significance:**  
-Corrects incorrect elemental gauges (at the time this ticket was submitted) listed on the TCL, reports the discovery of a shared ICD between Fischl's Burst and C4, and the gauge for Fischl's C4.
+Corrects incorrect Elemental gauges (at the time this ticket was submitted) listed on the TCL, reports the discovery of a shared ICD between Fischl's Burst and C4, and the gauge for Fischl's C4.
 
 ## Ascension Mechanics
 

@@ -47,7 +47,7 @@ Equipping support characters with Lion's Roar/Dragon's Bane/Rainslasher that dea
 **Last tested:** <VersionHl date="2020-12-07" />
 
 **Findings:**  
-Can Lions Roar, 4TS, dragon's Bane, Raven's Bow increase reaction dmg?
+Can Lions Roar, 4TS, dragon's Bane, Raven's Bow increase reaction DMG?
 
 * The answer is no, for Transformative reactions
 * But yes for Amplifying reactions \(melt and Vaporize\)
@@ -57,13 +57,13 @@ Test 1: EC
 
 * [Lion's Roar](http://imgur.com/a/Okini6O)
 * [Favonius Sword](http://imgur.com/a/hZ65528)
-* both shown 1022 dmg, lion's roar doesn't boost Electro-Charged dmg
+* both shown 1022 DMG, lion's roar doesn't boost Electro-Charged DMG
 
 Test 2: Overload
 
 * [Lion's Roar](http://imgur.com/a/5gfDQKS)
 * [Favonius Sword](http://imgur.com/a/5gfDQKS)
-* Both shown 1296 dmg, lions Roar doesn't boost overload dmg
+* Both shown 1296 DMG, lions Roar doesn't boost Overload DMG
 
 Test 3: Vaporize
 
@@ -128,7 +128,7 @@ From the test we can conclude that the buff can be applied to their skills even 
 **Last tested:** <VersionHl date="2021-02-04" />
 
 **Evidence:**  
-Testing was done using Diona @ around 40% CRIT Rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% CRIT Rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a Hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per CRIT\). Shielded fatui skirmishers on the other hand, does not prevent favonius from working since it does not block dmg completely like the others.
+Testing was done using Diona @ around 40% CRIT Rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% CRIT Rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a Hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per CRIT\). Shielded fatui skirmishers on the other hand, does not prevent favonius from working since it does not block DMG completely like the others.
 
 **Short demonstration**: _Streamable link lost to the sands of time_
 
@@ -490,7 +490,7 @@ This has many applications in combat, especially in abyss where timed trials wil
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
-When a character with multiple charges of their elemental Skill procs the sacrificial passive, the elemental Skill cooldown shown on the timer is the cooldown that will be reset.
+When a character with multiple charges of their Elemental Skill procs the sacrificial passive, the Elemental Skill cooldown shown on the timer is the cooldown that will be reset.
 
 **Evidence:**  
 [I cast one Sucrose E](https://imgur.com/a/AKgnNoq), waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s \(minus 10% due to Anemo resonance in video\). So, whatever timer is currently showing is the one which will be reset.
@@ -602,10 +602,10 @@ Skyward Pride's vacuum blades count as raw Physical damage and not as normal or 
 **Evidence:**
 Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
-* 3 pc Glad: [2001 dmg](https://i.imgur.com/nsdFaA9.mp4)
-* 4 pc Glad: [2026 dmg](https://i.imgur.com/ugbvgCB.mp4)
+* 3 pc Glad: [2001 DMG](https://i.imgur.com/nsdFaA9.mp4)
+* 4 pc Glad: [2026 DMG](https://i.imgur.com/ugbvgCB.mp4)
 
-**Note:** The glad goblet had a bit of def, so the video of 4 pc Glad had a bit more ATK than the bottom from Noelle C6 Q, resulting in 25 more vacuum blade damage.
+**Note:** The glad goblet had a bit of DEF, so the video of 4 pc Glad had a bit more ATK than the bottom from Noelle C6 Q, resulting in 25 more vacuum blade damage.
 
 #### Vacuum Blades can CRIT
 
@@ -706,7 +706,7 @@ The videos show:
 3. How Aquila can proc while in Burst iframes, while protected by a shield
 
 **Significance:**  
-This interaction may affect other "triggers on taking dmg" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
+This interaction may affect other "triggers on taking DMG" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
 
 #### Aquila Healing is Affected by Healing Bonus
 
@@ -921,23 +921,23 @@ Confirmation that the bugfix introduced with the 3.1 update "Fixes an issue wher
 [Discussion](https://tickets.deeznuts.moe/transcripts/cursed-blade-reduction-mechanic)
 
 **Finding:**  
-The cursed blade you use in the kazuha story quest says the wielder deals 50% less dmg. This effect is additive with dmg bonus, and does not affect transformative damage.
+The cursed blade you use in the kazuha story quest says the wielder deals 50% less DMG. This effect is additive with DMG bonus, and does not affect transformative damage.
 
 **Evidence:**  
-Kazuha a1 deals 2079 dmg, and Swirl does 2020 dmg.
+Kazuha a1 deals 2079 DMG, and Swirl does 2020 DMG.
 
 [YouTube](https://youtu.be/4vgO4tkIYbQ)
 
 A1 calc with multiplicative reduction: 1.088 _ 0.5 _ (190/( 90 + 92 + 200)) _ 2 _ 2058 _ 1.919 _ 0.9 = 1923.45
 
-A1 calc with additive reduction with the Pyro dmg bonus from a2: (1.088 - 0.5) _ (190/( 90 + 92 + 200)) _ 2 _ 2058 _ 1.919 \* 0.9 = 2079.03, same as video
+A1 calc with additive reduction with the Pyro DMG bonus from a2: (1.088 - 0.5) _ (190/( 90 + 92 + 200)) _ 2 _ 2058 _ 1.919 \* 0.9 = 2079.03, same as video
 
 Swirl calc with no reduction applied: 868.1 _ 2.586 _ 0.9 = 2020.42, same as video
 
 (A1 CRITs here or otherwise it is doomed)
 
 **Significance:**  
-Assuming kazuhas level does not approach infinity while the enemy level and/or def does, and assuming def shred/reduction does not approach 100%, the dmg reduction on the quest's cursed blade matters less and less because the def formula would make non transformative or true damage approach 0 anyways. It will not impact transformative or true damage, which both bypass def, so the effect of the dmg reduction is negligible. In such a case kazuha should probably use an em weapon, but at the very least the dmg reduction on the cursed blade will not be very detrimental in these scenarios.
+Assuming kazuhas level does not approach infinity while the enemy level and/or DEF does, and assuming DEF Shred/reduction does not approach 100%, the DMG reduction on the quest's cursed blade matters less and less because the DEF formula would make non transformative or true damage approach 0 anyways. It will not impact transformative or true damage, which both bypass DEF, so the effect of the DMG reduction is negligible. In such a case kazuha should probably use an em weapon, but at the very least the DMG reduction on the cursed blade will not be very detrimental in these scenarios.
 
 ---
 
@@ -1107,7 +1107,7 @@ Key users must have some dedicated field time to refresh the stacks of the buff,
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876725060554080287_880927102097055764_transcript-energy-drain-effects-have-a-delay.html)
 
 **Finding:**  
-Kitain Spear Energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental Skill hit an enemy to when you character actually lose Energy.
+Kitain Spear Energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character Elemental Skill hit an enemy to when you character actually lose Energy.
 
 **Evidence**:  
 Frame count: [YouTube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
@@ -1137,7 +1137,7 @@ Also doesn't dip the unit's Energy into the negatives. [Video](https://youtu.be/
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876725060554080287_880927102097055764_transcript-energy-drain-effects-have-a-delay.html)
 
 **Finding:**  
-Katsuragikiri Nagamasa Energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental Skill hit an enemy to when you character actually lose Energy.
+Katsuragikiri Nagamasa Energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character Elemental Skill hit an enemy to when you character actually lose Energy.
 
 **Evidence**:  
 Frame count: [YouTube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
@@ -1146,7 +1146,7 @@ Beidou using dash cancel to perform E -> Q with Nagamasa equipped. Still able to
 [Imgur](https://imgur.com/a/1sEAzoa)
 
 **Significance:**  
-Some characters actually do not need to change their rotation, because as long as you can cast your Burst within about 23 frames after the elemental Skill hit an opponent, your character will still be able to use Elemental Burst to spend all your Energy before getting drained by the weapon passive.  
+Some characters actually do not need to change their rotation, because as long as you can cast your Burst within about 23 frames after the Elemental Skill hit an opponent, your character will still be able to use Elemental Burst to spend all your Energy before getting drained by the weapon passive.  
 Beidou can still do E into Q to funnel Energy, as long as you dash cancel the E and then Q immediately.
 
 ---
@@ -1244,11 +1244,11 @@ A Mistsplitter's Emblem stack that a character obtains when Normal Attack deals 
 **Evidence:**
 
 * Gaining NA stack using Ayaka's CA: [YouTube](https://www.youtube.com/watch?v=fKpQGsUUYI8)
-  * CA dmg with 0 stacks: 458 \* 3
-  * CA dmg with 1 stack: 491 \* 3
+  * CA DMG with 0 stacks: 458 \* 3
+  * CA DMG with 1 stack: 491 \* 3
 * Gaining NA stack using Keqing's CA: [YouTube](https://www.youtube.com/watch?v=DULX7uB-4D0)
-  * CA dmg with 0 stacks: 641 + 718
-  * CA dmg with 1 stack: 686 + 769
+  * CA DMG with 0 stacks: 641 + 718
+  * CA DMG with 1 stack: 686 + 769
 
 **Significance:**  
 You can gain said stack in a case where Normal Attacks cannot reach any enemies, but Charged Attacks can such as using Ayaka's CA to hit enemies in Venti's vortex.
@@ -1316,7 +1316,7 @@ Bring justice to Polar Star's name, in that it had no ICD all along.
 **Last tested:** <VersionHl date="2021-04-15" />
 
 **Finding:**  
-PJWS passive can be stacked from elemental Skill and Burst Skill hits on an enemy. The "on hit" portion of the passive does not refer to normal attack hits alone.
+PJWS passive can be stacked from Elemental Skill and Burst Skill hits on an enemy. The "on hit" portion of the passive does not refer to normal attack hits alone.
 
 **Evidence:**
 
@@ -1325,7 +1325,7 @@ PJWS passive can be stacked from elemental Skill and Burst Skill hits on an enem
 * [Off-field non-stacking](https://www.youtube.com/watch?v=RuvFx74qMXk)
 
 **Significance:**  
-Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate elemental Skill or Burst Skill like XL.
+Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate Elemental Skill or Burst Skill like XL.
 
 #### PJWS New Stacks Extend Duration
 
@@ -1428,7 +1428,7 @@ Affects stack uptime considerations for polearm users with Skill cooldowns less 
 **Last tested:** <VersionHl date="2021-04-05" />
 
 **Finding:**  
-Rust DMG reduction on charge shots is additive and is in the same category as dmg% when calculated.
+Rust DMG reduction on charge shots is additive and is in the same category as DMG% when calculated.
 
 **Evidence:**  
 Using level 50 Amber on Lv87 Hilichurl, with +20 Physical goblet
@@ -1440,7 +1440,7 @@ Using level 50 Amber on Lv87 Hilichurl, with +20 Physical goblet
 
 ```python
 1062 = Amber total attack
-1.583 = +20 Physical dmg bonus cup
+1.583 = +20 Physical DMG bonus cup
 0.439 = Amber T1 aimed shot
 
 ===
@@ -1458,10 +1458,10 @@ If multiplicative: 295.209 * 0.9 = 265.688
 If additive: 1062 * (1.583 - 0.1) * 0.439 * 0.400 = 276.560
 ```
 
-Truncating decimals aside, the dmg number of "If additive" is the same as in-game numbers, hence the dmg reduction of Rust is additive and falls under dmg% in calculations. The same result is also seen in Slingshot.
+Truncating decimals aside, the DMG number of "If additive" is the same as in-game numbers, hence the DMG reduction of Rust is additive and falls under DMG% in calculations. The same result is also seen in Slingshot.
 
 **Significance:**  
-The dmg reduction of Rust passive is pretty negligible.
+The DMG reduction of Rust passive is pretty negligible.
 
 --
 
@@ -1501,7 +1501,7 @@ The damage taken increase from Serpent Spine's passive does affect the damage sh
 
 **Evidence:** [YouTube](https://www.youtube.com/watch?v=EjYpIBPmNSQ)
 
-Explanation: The crystalize shield is created by a level 50 character with 0 EM, thus creating a ~786 health shield which has 2.5x effectiveness against its own element, meaning that it will block ~1965 Pyro damage. Both flower stamens are dealing the same damage, and give the same results, with Beidou equipped with SS (with 5 stacks) taking 1045 damage per tick, and with fav sword taking 908 damage per tick. Beidou with SS 5 stack's shield lasted for 2 ticks allowed Beidou to take 123 damage additional damage, while the shield with favonius greatsword equipped lasted for 3 ticks and allowed Beidou to take 759 additional damage.
+Explanation: The crystalize shield is created by a level 50 character with 0 EM, thus creating a ~786 health shield which has 2.5x effectiveness against its own Element, meaning that it will block ~1965 Pyro damage. Both flower stamens are dealing the same damage, and give the same results, with Beidou equipped with SS (with 5 stacks) taking 1045 damage per tick, and with fav sword taking 908 damage per tick. Beidou with SS 5 stack's shield lasted for 2 ticks allowed Beidou to take 123 damage additional damage, while the shield with favonius greatsword equipped lasted for 3 ticks and allowed Beidou to take 759 additional damage.
 
 **Significance:**  
 Explanation of how shields interaction with negative damage reduction
@@ -1867,7 +1867,7 @@ Catalyst effective attack comparisons - see spreadsheet below.
 [Imgur](https://imgur.com/a/TpQsJqS)
 
 **Methodology**  
-Effective attack was calculated with a simple piecewise function that takes into account CRIT Rate, CRIT DMG, attack, and damage % \(elemental damage\). Passives that cannot be quantified due to how they can differ in effectiveness with different playstyles are NOT included in the effective attack calculation.
+Effective attack was calculated with a simple piecewise function that takes into account CRIT Rate, CRIT DMG, attack, and damage % \(Elemental damage\). Passives that cannot be quantified due to how they can differ in effectiveness with different playstyles are NOT included in the effective attack calculation.
 
 The spreadsheet has three main columns - for low, medium, and high stats. Each one simulates the every possible substat combination with a total of 10, 20, or 30 offensive lines \(maximum possible rolls is 38, but nobody will ever get such lines - right?\). Royal weapon CRIT Rate is simulated on each possible combination of stats. The base stats used were that of a level 90 Klee using 2 piece Gladiator and 2 piece Witch set.
 

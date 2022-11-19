@@ -172,7 +172,7 @@ This provides more uptime for Superconduct in floor 12 and, if utilized, gives a
 **By:** Shifu02\#7738
 
 **Finding:**  
-Bennett’s ult cleanse can react with Razor’s ult cleanse to proc overload on yourself. This effect does not harm you, but it deals two ticks of damage and knocks small mobs back.
+Bennett’s ult cleanse can react with Razor’s ult cleanse to proc Overload on yourself. This effect does not harm you, but it deals two ticks of damage and knocks small mobs back.
 
 **Evidence:**
 
@@ -180,7 +180,7 @@ Bennett’s ult cleanse can react with Razor’s ult cleanse to proc overload on
 * [YouTube](https://www.youtube.com/watch?v=Gr5UVwdV4AA)
 
 **Significance:**  
-For those people who want to bring Bennett in the same team as Razor, this is one thing to consider in situations like overworld. The overload can knock back enemies out of Bennett’s ult, but it can also work as a little of extra damage to mobs that can’t be knocked back.
+For those people who want to bring Bennett in the same team as Razor, this is one thing to consider in situations like overworld. The Overload can knock back enemies out of Bennett’s ult, but it can also work as a little of extra damage to mobs that can’t be knocked back.
 
 ## Calculations/Resources
 

@@ -21,7 +21,7 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Primordial Jade Winged-Spear" weapons={polearms}>
 
-* PJWS passive can be stacked from elemental Skill and Burst Skill hits on an enemy.
+* PJWS passive can be stacked from Elemental Skill and Burst Skill hits on an enemy.
   * The "on hit" portion of the passive does not refer to normal attack hits alone.
 * Stacks cannot be gained while off-field.
 * New gained stacks will extend the duration of existing stacks, beyond the 6 seconds stipulated.

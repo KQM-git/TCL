@@ -15,7 +15,7 @@ search: false
 **Last tested:** <VersionHl date="2021-02-04" />
 
 **Finding:**  
-Enemies apply the same 1 unit, 2 unit system to us that we apply to them. They follow exactly the same elemental system we do.
+Enemies apply the same 1 unit, 2 unit system to us that we apply to them. They follow exactly the same Elemental system we do.
 
 **Evidence:**  
 I tested the number of frames that Elements last on my character, upon being hit by attacks from these enemies:
@@ -28,7 +28,7 @@ Hilichurl Berserker \(Pyro Club\): Single hit applied 12s \(2 units\), multi-hit
 
 Unlike when testing on an enemy, these are exact frame values. There seems to be a slight delay on when Elements appear over an enemy's head. For example, if you cause a reaction on an enemy, the reaction text will appear one or two frames before the Element appears over their head. Also, at the end of an Element's duration, it slowly pulses and fades out, making it difficult to find the exact frame at which it disappears.
 
-On our own characters, the Element does not fade out, but immediately disappears between frames. This allows us to more precisely measure elemental durations: for example, there are precisely 720 frames between the Electro appearing above my health bar when I am shot by an Electro Shooter, and the Electro disappearing from my health bar when it times out. So it lasts exactly 720 / 60 = 12s.
+On our own characters, the Element does not fade out, but immediately disappears between frames. This allows us to more precisely measure Elemental durations: for example, there are precisely 720 frames between the Electro appearing above my health bar when I am shot by an Electro Shooter, and the Electro disappearing from my health bar when it times out. So it lasts exactly 720 / 60 = 12s.
 
 Enemy skills also "fix" the decay rate the same as our skills. In this example, I am hit by a 2 unit Pyro, then 11 seconds later I am hit by a 1 unit Pyro. The Pyro aura lasts precisely 6 seconds from the point I am hit with the 1 unit Pyro. This matches the behaviour we see ourselves when going 2u -&gt; 1u; we have 1 unit still decaying at the 2 unit rate of 6s and 12s.[ ](https://youtu.be/cUWXy_PNO_E)
 

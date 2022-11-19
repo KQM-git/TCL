@@ -24,7 +24,7 @@ Due to the nature of how ICD works, it is recommended to use different character
 
 Before we get into how to deal with different types of shields, some types \(**whether its Elemental Shield or Armor**\) can be damaged through **Heavy Attacks** and **Light Attacks**. These types of attacks **deal bonus damage** due to their property of being Heavy or Light \(and some attacks are neither Heavy nor Light\). However, Light Attacks do insignificant damage, and it's advisable to avoid using **Light Attacks** to break **Shields**.
 
-Abyss mage shields, unlike other types of shields, take any damage directly. Any type of attack reduces Abyss mage shields HP by the amount of damage it deals **in addition** to bonus damage due to Elemental Aura application. However, Abyss mage shields have very large HP pools and it is not advisable to rely on direct damage compared to elemental damage.
+Abyss mage shields, unlike other types of shields, take any damage directly. Any type of attack reduces Abyss mage shields HP by the amount of damage it deals **in addition** to bonus damage due to Elemental Aura application. However, Abyss mage shields have very large HP pools and it is not advisable to rely on direct damage compared to Elemental damage.
 
 To add to that, **Geo Attacks** are considered **Heavy Attacks** and also can cause **Crystallize**. Meaning the **GU** required to break **Shields** that are susceptible to both **Geo and Heavy Attacks** is much less in practice.
 
@@ -266,7 +266,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 ### Regisvines
 
-**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
+**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each Element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
 
 <Tabs>
 <TabItem value="pyro" label="Pyro Regisvine">
@@ -334,7 +334,7 @@ During the Childe boss fight, he can enter into a shielded state where he takes 
 
 ## Shield Damage
 
-Genshin Impact does not use a generic single-variable HP system for enemy shields like other games. Instead, total Shield HP is in the form of its **Shield** **Gauge Units \(Shield GU\)**, a value which represents the shield’s “elemental strength”. This can be decreased to **0** \(thereby breaking the shield\) through reactions, character damage \(excluding Elemental Armor shields\) and the Poise values of your talents. _\(Poise values are explained in the document and affect Geo_ _/ Frozen shields only\)_
+Genshin Impact does not use a generic single-variable HP system for enemy shields like other games. Instead, total Shield HP is in the form of its **Shield** **Gauge Units \(Shield GU\)**, a value which represents the shield’s “Elemental strength”. This can be decreased to **0** \(thereby breaking the shield\) through reactions, character damage \(excluding Elemental Armor shields\) and the Poise values of your talents. _\(Poise values are explained in the document and affect Geo_ _/ Frozen shields only\)_
 
 Total Shield Damage = Reaction Cost + Damage Cost + Poise Cost
 
@@ -344,7 +344,7 @@ For an in-depth analysis on shield damage as of 2021-06-05, vibe checker\#5502 h
 
 Additional notes on shield damage:
 
-* Transformative damage is also applied in the damage cost of shield damage, and is affected by elemental mastery.
+* Transformative damage is also applied in the damage cost of shield damage, and is affected by Elemental mastery.
 
 ## Credits
 

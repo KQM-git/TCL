@@ -12,12 +12,12 @@ None.
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 60% HP       | 1 Particle | own element |
-| Death        | 1 Particle | own element |
+| 60% HP       | 1 Particle | own Element |
+| Death        | 1 Particle | own Element |
 
 ## Resistance Table
 
-All Cicins have +40% (50% total) resistance to their own element.
+All Cicins have +40% (50% total) resistance to their own Element.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |

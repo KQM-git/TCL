@@ -33,7 +33,7 @@ search: false
 
 ## Skill Mechanics
 
-* Tap and hold E are blunt. Tap E can shatter but hold E doesn't shatter despite it being blunt. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
+* Tap and hold E are blunt. Tap E can Shatter but hold E doesn't Shatter despite it being blunt. - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
   * [Imgur](https://imgur.com/a/CXxGhBq)
   * [Imgur](https://imgur.com/a/t2Wl7w0)
   * [Imgur](https://imgur.com/a/gW7sxZH)
@@ -63,11 +63,11 @@ search: false
 
 * Candace's infusion overrides C6 Bennett. - [Video](https://www.youtube.com/watch?v=xXE9ZbcmfIo) - Sew\#2409
 * Candace can't overwrite Chongyuns infusion. - [Video](https://www.youtube.com/watch?v=QjD49OckiVc) - Sew\#2409
-* Candace + Chongyun infusion = Frozen weapon (that does Cryo dmg) - [Video](https://youtu.be/N-ThOhYi6X8) - Mystathi#9705
-  * Significance: Chongyun doesn’t quite override Candace. What may happen is that the weapon infusions trigger Freeze on the weapon, which depletes both elements and leaves a Frozen aura. This Frozen aura is what deals Cryo dmg. This is more information on weapon infusions and can lead to questions like can a weapon do Cryo and Hydro dmg if there is enough Hydro on it (like how Swirl can Swirl Cryo and Hydro on a Frozen enemy).
-* Interaction between Candace and Keqing infusion results in weapon being Electro-Charged but deals Hydro dmg. - Nass008\#8577
+* Candace + Chongyun infusion = Frozen weapon (that does Cryo DMG) - [Video](https://youtu.be/N-ThOhYi6X8) - Mystathi#9705
+  * Significance: Chongyun doesn’t quite override Candace. What may happen is that the weapon infusions trigger Freeze on the weapon, which depletes both elements and leaves a Frozen aura. This Frozen aura is what deals Cryo DMG. This is more information on weapon infusions and can lead to questions like can a weapon do Cryo and Hydro DMG if there is enough Hydro on it (like how Swirl can Swirl Cryo and Hydro on a Frozen enemy).
+* Interaction between Candace and Keqing infusion results in weapon being Electro-Charged but deals Hydro DMG. - Nass008\#8577
   * After Keqing casts her Skill, her weapon gains Electro aura as usual but she still has visual effect of Candace's Hydro infusion.
-When using elemental sight, her weapon visually appears as Electro-infused. - [Video](https://imgur.com/W0LdtNj)
+When using Elemental sight, her weapon visually appears as Electro-infused. - [Video](https://imgur.com/W0LdtNj)
   * Even though her weapon has appearance of Electro infusion, Keqing normal attacks under Candace Burst deals Hydro damage. - [Video](https://imgur.com/WTnZFQY)
   * When applying infusions in order of “Candace Burst -> Keqing Skill -> Chongyun Skill”. Superconduct is triggered. Indicating Electro gauge is physically present (not just as a visual effect) even though it does not seem to affect damage type of attacks. - [Video](https://imgur.com/hjHzlpY)
 * Candace N4 string is able to get 12 procs of Beidou's Q pretty easily. Her Q and E timings allow for multiple variations. These combos do require a small amount of timing after the N4, since mashing LMB or dashing into an N1 will make you hit slightly too fast. - [Video](https://youtu.be/sGAyBp8IA5k)

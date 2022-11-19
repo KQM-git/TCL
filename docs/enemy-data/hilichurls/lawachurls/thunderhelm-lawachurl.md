@@ -60,4 +60,4 @@ Head&Shoulders.
   * Armor Upgrade: Grabs a single large Electro slime instead.
   * The slime thrown can be a normal or mutant slime. If a mutant slime is thrown, it will create additional explosions on impact.
 * The following attack can only be used while protected by the armor: Smashes the ground with both fists, Summoning multiple lightning strikes in a small radius around itself. Sometimes this will be combod with a 2nd smash which will summon a larger lightning strike in a medium radius around itself and summon 3 Electro shards.
-  * The Electro shards left on the ground can be destroyed by elemental reactions and heavy attacks. If they're not destroyed after a while, they'll explode in a moderate AOE.
+  * The Electro shards left on the ground can be destroyed by Elemental reactions and heavy attacks. If they're not destroyed after a while, they'll explode in a moderate AOE.

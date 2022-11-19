@@ -246,7 +246,7 @@ At high ping, Beidou can buffer a Normal Attack hit before activating Q to get a
 1. [YouTube](https://youtu.be/DxR7g3lDyDs) \(428ms\)  
    I decided to do Kenki fights to figure out what felt like randomly ocurring unusually high Stormbreaker damage at activation.
 2. [YouTube](https://youtu.be/4sfnDbdct8M) \(318ms\)  
-   First isolated test, confirms that buffering N1 is possible, ping is **high** and couldn't get all dmg texts on screen. Timing is very easy and seems to be hit confirmable after hitlag.
+   First isolated test, confirms that buffering N1 is possible, ping is **high** and couldn't get all DMG texts on screen. Timing is very easy and seems to be hit confirmable after hitlag.
 3. [YouTube](https://youtu.be/piNgap_Eiok) \(76ms\)  
    **Low** ping test by BowTae\#0141. Achieved once after several attempts, not easy.
 4. [YouTube](https://youtu.be/HgoAzERqbQI) \(147ms\)  
@@ -452,7 +452,7 @@ The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E 
 
 The bell will provide its damage bonus with concurrent abilities such as Beidou’s Tidecaller.
 
-### Beidou's 'E' skill shield triggers The Bell's passive for 12% increased DMG every time irrespective of cooldown
+### Beidou's 'E' Skill shield triggers The Bell's passive for 12% increased DMG every time irrespective of cooldown
 
 **By:** ASHOKA\#5672  
 **Added:** <Version date="2020-11-19" />  

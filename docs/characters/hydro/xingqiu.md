@@ -103,7 +103,7 @@ import Skill from '@site/src/components/char/Skill'
 * Increased resistance to interruption stacks with other skills of similar effects.
 * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply Hydro to enemies, even if the rain swords aren't visible
   * This occurs with the orbitals created by both Xingqiu's Skill and Burst
-* Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s.
+* Only one **Rain Sword** can be shattered at a time, and the Shattering has a cooldown of 1.5s.
 * Using **Guhua Sword: Fatal Rainscreen** applies a very brief 1U Hydro aura onto the character.
 * EQE is about 0.5 \- 1s slower on average compared to QEE or EEQ in teams where Xingqiu's E CD gates the rotation time. See more in this [Vault Entry](../../evidence/characters/hydro/xingqiu.md#xingqiu-eqe-vs-qee).
 * The DMG Reduction is affected by Mistsplitter's passive.

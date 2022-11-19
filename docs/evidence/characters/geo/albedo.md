@@ -44,7 +44,7 @@ I've experienced placing Albedo's flower on top of Electro Hypostasis' summons d
 **Last tested:** <VersionHl date="2021-04-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834274373493456976_834662830120239115_transcript-albedo-e-snapshot.html)
 
-**Finding:** Albedo's elemental Skill snapshots, meaning that damage for its entire duration is calculated when the Skill is cast, so any buffs gained/lost after the Skill is cast will not affect the Skill's damage.
+**Finding:** Albedo's Elemental Skill snapshots, meaning that damage for its entire duration is calculated when the Skill is cast, so any buffs gained/lost after the Skill is cast will not affect the Skill's damage.
 
 **Evidence:** [https://youtu.be/BhfcSLmPW5s](https://youtu.be/BhfcSLmPW5s)
 

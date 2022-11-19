@@ -136,7 +136,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Inspiration Field's** ATK Bonus and **C6: Fire Ventures With Me** Pyro DMG Bonus will apply on its own damage calculation.
 * The bonus ATK from **Inspiration Field** ONLY scales with Bennett's Base ATK.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
-  * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
+  * This means that even when two Bennett Bursts overlap, the attack buff that was applied first will remain.
 
 </TabItem>
 </Tabs>

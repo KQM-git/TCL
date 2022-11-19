@@ -47,5 +47,5 @@ Head.
 ## Attacks
 
 * Stands still and charges an arrow for 4 seconds before shooting at the player. The 4 second charge timer may be reset if its' animation is interrupted.
-  * Certain versions of the Shooter may use arrows infused with an element.
+  * Certain versions of the Shooter may use arrows infused with an Element.
   * Certain versions of the Shooter may use a 5 arrow volley instead of a single one.

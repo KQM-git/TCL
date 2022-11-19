@@ -162,9 +162,9 @@ import Skill from '@site/src/components/char/Skill'
   * See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#base-damage)
 * **Illusory Bubble**'s duration can be extended under specific circumstances:
   * Enemies that were applied Cryo beforehand, thus got Frozen after receiving the **Illusory Bubble** status.
-  * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an elemental shield/armor, etc.
+  * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an Elemental shield/armor, etc.
   * Petrify can extend the duration of the aforementioned stagger-resistant state, effectively extending the duration of the **Illusory Bubble**.
-* Certain Skill/bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
+* Certain Skills/Bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
 
 </TabItem>
 </Tabs>
@@ -191,7 +191,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * No ICD
-* Damage dealt by this **Phantom** is considered elemental Skill damage, and can thus trigger related artifact effects.
+* Damage dealt by this **Phantom** is considered Elemental Skill damage, and can thus trigger related artifact effects.
 
 </TabItem>
 

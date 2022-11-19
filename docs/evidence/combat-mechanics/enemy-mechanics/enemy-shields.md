@@ -30,7 +30,7 @@ Link: [https://docs.google.com/document/d/1_iXKQk-w91gt3Og1_r3NntHWXACiF6aPk-bI0
 **Last tested:** <VersionHl date="2020-12-06" />
 
 **Theory**  
-Fatui armor breaks mostly off elemental reactions and armor breaking effectiveness depends on strength of aura application.
+Fatui armor breaks mostly off Elemental reactions and armor breaking effectiveness depends on strength of aura application.
 
 **Evidence**
 
@@ -105,7 +105,7 @@ Some foreign auras can exist on certain Fatui when their armor is up. These aura
 
 * Pillar pulse and gorou charged attacks don't do damage to the armor.
 * Crystalize damages the armor even if the attack is poiseless.
-* The gauge of the element on the enemy decays overtime, and after waiting for a while, the aura decays and becomes weaker, which affects the amount of damage the shield takes as well.
+* The gauge of the Element on the enemy decays overtime, and after waiting for a while, the aura decays and becomes weaker, which affects the amount of damage the shield takes as well.
 
 **Significance:**  
 Better understanding of Fatui armor. Most of the findings are about Fatui armor being harder to break in certain situations, that certain situations don't affect shieldbreaking, while one just shows how weak and puny the Geo armor actually is when faced with **ROCK**.
@@ -152,7 +152,7 @@ Chongyun's N1 ranges from 25.6 to 25.8 KN1 [https://youtu.be/tasOZkNXbTs](https:
 
 Beidou's N1 ranges from 21.0 to 21.167 KN1 [https://youtu.be/3uubYN2WP74](https://youtu.be/3uubYN2WP74)
 
-Note that Beidou's N1 and Razor's N1 stagger values correlate to my findings on their shatter values vs Cryo Abyss mage shield. I have lvl1 Razor so the result of ~0.66-0.67U of his N1 should be accurate \(since the damage to shield is neglectable\). Using average stagger values we can calculate Beidou's N1 shatter value = 21.1/27.9\*0.66 = ~0.499 which correlates for my previous result of 0.5U. Also note that this is not the case for Chongyun. At first I assumed Chong's N1 to be 0.65U. Calculating it from stagger values it should be around 0.61U. 18 N1s is 10.98U which suggests that Chong should've had one more attack before breaking 12U shield which was not the case.
+Note that Beidou's N1 and Razor's N1 stagger values correlate to my findings on their Shatter values vs Cryo Abyss mage shield. I have lvl1 Razor so the result of ~0.66-0.67U of his N1 should be accurate \(since the damage to shield is neglectable\). Using average stagger values we can calculate Beidou's N1 Shatter value = 21.1/27.9\*0.66 = ~0.499 which correlates for my previous result of 0.5U. Also note that this is not the case for Chongyun. At first I assumed Chong's N1 to be 0.65U. Calculating it from stagger values it should be around 0.61U. 18 N1s is 10.98U which suggests that Chong should've had one more attack before breaking 12U shield which was not the case.
 
 Did lvl 20 Chong deal too much damage or there is something else I did not consider?
 
@@ -221,7 +221,7 @@ Pyro and Cryo appear to be equally effective in terms of efficiency at depleting
 Damage dealt \(artifact/weapon quality\) does not seem to matter with an exception of Ganyu. For Ganyu, it seems like with no artifacts & level 1 weapon, she takes the same amount of hits as Bennett, but starts to take less hits with a leveled weapon and artifacts. Units used to test Pyro were Bennett & Xiangling. Units used to test Cryo were Kaeya & Ganyu & Rosaria.
 
 **Significance:**  
-If you have Pyro or Cryo units that have fast elemental application, using one over another will not matter. Both should produce the same results given the same speed of elemental application.
+If you have Pyro or Cryo units that have fast Elemental application, using one over another will not matter. Both should produce the same results given the same speed of Elemental application.
 
 **Evidence:**
 
@@ -250,7 +250,7 @@ There are pages on the wiki that already detail this information, however I crea
 **By:** Silvershine2#5439  
 **Added:** <Version date="2021-06-14" />  
 **Last tested:** <VersionHl date="2021-06-14" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846051562517168218_854022298591821844_transcript-blocked-CRIT-hit-procs.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846051562517168218_854022298591821844_transcript-blocked-crit-hit-procs.html)
 
 **Finding:**  
 Attacks blocked by enemy shields are still counted at scoring a CRITical hit and therefore activate abilities with a CRIT hit as condition
@@ -268,7 +268,7 @@ Klee A4 team Energy Recharge by Raf#7220 (110% CRIT Rate Klee)
 * [vs Cryo Shield](https://youtu.be/3Pr0sAC0ANE)
 * [vs Gep Shield](https://youtu.be/4rRM7oEsB9E)
 
-Rosaria C1 Attack speed and normal attack dmg increase
+Rosaria C1 Attack speed and normal attack DMG increase
 
 * [vs Elemental Shield](https://youtu.be/jUg-hVDomds)
 * [vs Stone Shield](https://youtu.be/OkZz5x-HoGY)
@@ -287,13 +287,13 @@ Favonius Sword
 **Significance:**  
 Despite all of the tested talents/abilities/passives stating a CRIT Hit as the condition for activation, it still worked even if the attack was blocked entirely or even immunized. However this does only apply to character abilities. The Favonius sword did not activate on scoring CRITical hits vs shields
 
-**Yanfei:** Getting A4 procs is highly useful especially vs elemental shields to apply more U Pyro, which makes quicker work of these shields. Abyss Lectors are the most important, but also double Pyro application and the charged attack being heavy can become useful for dealing with stone shields and proccing overload more often
+**Yanfei:** Getting A4 procs is highly useful especially vs Elemental shields to apply more U Pyro, which makes quicker work of these shields. Abyss Lectors are the most important, but also double Pyro application and the charged attack being heavy can become useful for dealing with stone shields and proccing Overload more often
 
 **Xinyan:** Can maybe make a difference in destroying stone shields a little bit faster, but this is imo not a significant find
 
 **Klee:** Free Energy even if enemies block ore negate damage is always a good thing
 
-**Tartaglia:** Applying riptide through shields is highly usefull. Aids in destroying elemental shields faster and applying Electro-Charged AoE with riptide helps with poise damaging multiple shield enemies at once
+**Tartaglia:** Applying riptide through shields is highly usefull. Aids in destroying Elemental shields faster and applying Electro-Charged AoE with riptide helps with poise damaging multiple shield enemies at once
 
 **Rosaria:** Not very significant imo , similar to Xinyan
 
@@ -307,7 +307,7 @@ Despite all of the tested talents/abilities/passives stating a CRIT Hit as the c
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853125058965012500_857665782640803840_transcript-transformative-damage-on-shields.html)
 
 **Finding:**  
-Transformative damage is also applied in the damage cost of shield damage, and is affected by elemental mastery.
+Transformative damage is also applied in the damage cost of shield damage, and is affected by Elemental mastery.
 
 **Evidence:**  
 A borderline Geo slime shield destruction was observed on a 0 EM 70/70 fischl's overloads onto a large Geo slime's shield, with the shield almost being destroyed after 6 overloads. Increasing fischl's EM to 688 resulted in the shield not only breaking after 6 overloads, but almost breaking after 5. Relevant calculations and related videos show that these numbers make sense.
@@ -317,7 +317,7 @@ Fischl with 688 EM, 7019 overloads, leaving the shield at minimal health after 5
 
 Large Slimes have 4x cicin HP and 8GU Geo force shields.  
 `12466 (cicin at level 91) * 4 = 49864 (slime HP)`  
-Large Geo Slimes have 10% RES across the board excluding their element (immune), meaning a 0.9x damage multiplier to overload.
+Large Geo Slimes have 10% RES across the board excluding their Element (immune), meaning a 0.9x damage multiplier to Overload.
 
 For 0EM:  
 `[(0.2 * (1378 * 0.9) * 8) / 49864] + 1.26` = damage per shot against Geo slime = 1.2998 GU per shot  
@@ -327,7 +327,7 @@ For 688EM:
 `[(0.2 * (7019 * 0.9) * 8) / 49864] + 1.26` = damage per shot against Geo slime = 1.4627 GU per shot  
 1.4627 \* 5 = 7.3135 GU total damage
 
-Note: Character damage was not a factor in the shield breaking as the overloads were procced from burning grass. There may have been fluctuations based on weird mechanics with character or grass being the overload's trigger, but destruction of the Geo shield at 6 and 7 shots respectively was always consistent.
+Note: Character damage was not a factor in the shield breaking as the overloads were procced from burning grass. There may have been fluctuations based on weird mechanics with character or grass being the Overload's trigger, but destruction of the Geo shield at 6 and 7 shots respectively was always consistent.
 
 **Significance:**  
 It ensures that for shields where damage cost is a factor, we can assume that transformative reaction damages are also a factor, and interact in the way that one would expect from intuition (increasing damage with increasing EM).

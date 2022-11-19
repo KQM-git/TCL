@@ -22,14 +22,14 @@ search: false
 **Last tested:** <VersionHl date="2021-03-16" />
 
 **Theory:**  
-This is an independent verification of @Steph's findings, that Klee's mines that normally have separate ICD's have trouble applying their Pyro application \(for the purpose of breaking elemental shields\) if they detonate on an enemy too quickly i.e. on the same frame.
+This is an independent verification of @Steph's findings, that Klee's mines that normally have separate ICD's have trouble applying their Pyro application \(for the purpose of breaking Elemental shields\) if they detonate on an enemy too quickly i.e. on the same frame.
 
 **Evidence/Method:**  
 I detonated all 8 of Klee's mines into a Hydro abyss mage using Anemo MC's Burst. Then I measured how many U's worth of shield was damaged by counting pixels. Note it takes 24U of Pyro to completely break a Hydro abyss mage's shield.
 
-1st Attempt: [https://i.imgur.com/mUlLZhI.jpeg](https://i.imgur.com/mUlLZhI.jpeg) note: the Anemo also damages the shield. I will make note if it did this. Here it didn't. Frame 1 is always one frame before the first bomb reaches & deals dmg to the abyss mage. on Frame 5 it dealt 2U's worth of Pyro damage. Total only 5U of shield damage.
+1st Attempt: [https://i.imgur.com/mUlLZhI.jpeg](https://i.imgur.com/mUlLZhI.jpeg) note: the Anemo also damages the shield. I will make note if it did this. Here it didn't. Frame 1 is always one frame before the first bomb reaches & deals DMG to the abyss mage. on Frame 5 it dealt 2U's worth of Pyro damage. Total only 5U of shield damage.
 
-2nd Attempt: [https://i.imgur.com/GmHWMON.jpg](https://i.imgur.com/GmHWMON.jpg) 1U of dmg on frame 2, 2U's worth on frame 4 and 6. Totalling 5U from bombs.
+2nd Attempt: [https://i.imgur.com/GmHWMON.jpg](https://i.imgur.com/GmHWMON.jpg) 1U of DMG on frame 2, 2U's worth on frame 4 and 6. Totalling 5U from bombs.
 
 3rd Attempt: [https://i.imgur.com/AYXWLT7.jpg](https://i.imgur.com/AYXWLT7.jpg) Anemo dealt 1U before the bombs reached. 1U on frame 2. 2U on frame 4. 1U on frame 8. Totalling only 4U from bombs.
 
@@ -37,9 +37,9 @@ I detonated all 8 of Klee's mines into a Hydro abyss mage using Anemo MC's Burst
 If too many mines hit the mage in too short a span you waste the mines' ICDs. Also I could not observe a larger hit to the abyss mage's shield than 2U in one frame.
 
 **Significance:**  
-Only a maximum of 2U worth of shield dmg possible in one frame? \(inconclusive\)
+Only a maximum of 2U worth of shield DMG possible in one frame? \(inconclusive\)
 
-Klee can break Hydro abyss shields faster by abusing the fact that her mines are on separate ICD's so long as you have a way to gather them. However Anemo MC's Burst is not the best way for this because the bombs detonate on the mage at the same time, wasting U's. \(you waste 3 to 4 mines worth of dmg\). You are better off holding E as steph suggests. Same with Jean don't tap E, hold E so that the mines gather onto the mage \(also credit Steph\).
+Klee can break Hydro abyss shields faster by abusing the fact that her mines are on separate ICD's so long as you have a way to gather them. However Anemo MC's Burst is not the best way for this because the bombs detonate on the mage at the same time, wasting U's. \(you waste 3 to 4 mines worth of DMG\). You are better off holding E as steph suggests. Same with Jean don't tap E, hold E so that the mines gather onto the mage \(also credit Steph\).
 
 ### Klee Mines ICD Update
 
@@ -173,10 +173,10 @@ Tested for a few minutes on a world boss, but here's just a short clip.
 **Significance:**  
 Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow you to switch characters immediately after the second without any downside. However, as it stands, players looking to maximize the benefit from the talent's Charged Attack buff will want to look for the proc before swapping, bringing two grounded AA1s closer in-line to - AA1 &gt; AA2 &gt; jump cancel combo. As for why you would want to swap characters frequently from Klee in the first place, that would be to set up reactions manually, or refresh Viridescent Venerer 4-Piece effect. A rotation could run something like this:
 
-* Klee AAs until Explosive Spark proc
-* Sucrose Swirl
-* Swap to Cryo/Hydro unit and wait briefly for Pyro to elapse naturally due to the Swirl shortening its duration before proccing the aura element
-* Klee Charged Attack
+* Klee AAs until Explosive Spark proc;
+* Sucrose Swirl;
+* Swap to Cryo/Hydro unit and wait briefly for Pyro to elapse naturally due to the Swirl shortening its duration before proccing the aura Element;
+* Klee Charged Attack;
 * Repeat.
 
 ### Klee A1 Bug
@@ -267,7 +267,7 @@ Damage calc for Burst: (stats screen: [Imgur](https://imgur.com/BxSiIXT)) (set b
 0.5 = enemy defense multiplier  
 0.9 = enemy resist multiplier  
 2.681 = CRIT  
-.768 = burst lvl 10
+.768 = Burst lvl 10
 
 **Significance:**  
 No value in chain casting Burst shenanigans, and Klee C6 does apply to her own Burst despite some people saying otherwise.

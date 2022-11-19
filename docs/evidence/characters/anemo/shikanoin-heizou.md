@@ -21,7 +21,7 @@ search: false
   * Tap E: None. - [Video](https://youtu.be/DcwONCuqSOs) - Puffin\#9920
 * Snapshotting:
   * Q: Both parts snapshot. - [Video](https://imgur.com/a/Nk0w5Yv) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
-* Heizou’s Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst do not shatter. - [Video](https://imgur.com/a/MPhTuwO) - Magnus Artifex\#8719
+* Heizou’s Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst do not Shatter. - [Video](https://imgur.com/a/MPhTuwO) - Magnus Artifex\#8719
 * Heizou's Normal Attack, Charged Attack, and Elemental Skill can damage ores and Geo Constructs of enemies. His Elemental Burst can't. - [Video 1](https://youtu.be/PQlwFx2fIiY) - [Video 2](https://youtu.be/kf1ma37An1o) - [Video 3](https://youtu.be/Vo3qLF0n8m8) - emmaus\#9072
 * Heizou's N1C can dragon strike. - [Video](https://youtu.be/nYXj3RFvG6g) - Ramos\#7141
 * When swapping out of CA, it's slightly faster to N1 cancel into a swap than doing it normally. - [Video](https://youtu.be/l7AVyOa48Zk) - Aftermath\#7658

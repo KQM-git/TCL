@@ -15,13 +15,13 @@ Head.
 
 | HP Threshold | Type       | Element         |
 | :----------- | :--------- | :-------------- |
-| 66% HP       | 1 Particle | infused element |
-| 33% HP       | 1 Particle | infused element |
-| Death        | 1 Orb      | infused element |
+| 66% HP       | 1 Particle | infused Element |
+| 33% HP       | 1 Particle | infused Element |
+| Death        | 1 Orb      | infused Element |
 
 ## Resistance Table
 
-All geovishaps have +20% (30% total) resistance to the element they infuse with upon transformation.
+All geovishaps have +20% (30% total) resistance to the Element they infuse with upon transformation.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |
@@ -50,7 +50,7 @@ All geovishaps have +20% (30% total) resistance to the element they infuse with 
 
 ## Attacks
 
-* After losing enough health or enough time has passed, the geovishap will infuse itself with a pre-determined element. Depending on the element, its' attacks will be empowered.
+* After losing enough health or enough time has passed, the geovishap will infuse itself with a pre-determined Element. Depending on the Element, its' attacks will be empowered.
 * Curls up into a ball and charges towards your location. Subsequently, after charging, it will sometimes perform a single jump attack.
 * Performs two jump attacks, jumping in the air and landing on your location in a small AoE. After this attack, it will temporarily be stunned on its' back for a couple seconds.
   * Cryo: After landing, several spots will appear on the ground near the Geovishap that will deal Cryo damage after a few seconds.

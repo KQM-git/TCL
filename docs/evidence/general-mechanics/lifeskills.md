@@ -132,7 +132,7 @@ Pixel count plots:
 
 **HQ Videos and Frames**  
 HQ Videos:  
-Pufferfish with different rods (render res 1.0, AA off, OBS lossless, reencoded for youtube):  
+Pufferfish with different rods (render resolution 1.0, AA off, OBS lossless, reencoded for youtube):  
 Wilderness: [YouTube](https://youtu.be/cgnRslB3kXQ)  
 Regional: [YouTube](https://youtu.be/5VDzmitRINU)  
 Event: [YouTube](https://youtu.be/n3uCYM33SU0)

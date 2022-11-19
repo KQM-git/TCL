@@ -16,8 +16,8 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_859763876592877578_862607271769669652_transcript-parametric-transformer-speedrun.html)
 
 **Finding:**  
-Parametric Transformer has an internal cooldown of 0.4 seconds and it takes exactly 18 elemental hits to fill it from 0% to 100%.  
-It cannot receive any elemental source dmg for at least 0.4 seconds in order to reach another step, therefore adding more damage sources most of the time **_will not_** make it progress further, but will **_delay_** it.
+Parametric Transformer has an internal cooldown of 0.4 seconds and it takes exactly 18 Elemental hits to fill it from 0% to 100%.  
+It cannot receive any Elemental source DMG for at least 0.4 seconds in order to reach another step, therefore adding more damage sources most of the time **_will not_** make it progress further, but will **_delay_** it.
 
 That's why:
 

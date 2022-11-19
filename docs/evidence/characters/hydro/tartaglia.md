@@ -50,7 +50,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 **By:** Bioautomaton\#5054
 
 **Finding:**  
-Childe's stance switch from ranged to melee triggers shatter on Frozen targets and de-freezes enemies**.**
+Childe's stance switch from ranged to melee triggers Shatter on Frozen targets and Unfreezes enemies**.**
 
 **Evidence:** [https://youtu.be/-JP-hYcHons](https://youtu.be/-JP-hYcHons)
 
@@ -317,7 +317,7 @@ Refrain from attacking slimes in your melee form. An obvious fact, but not obvio
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_847145221426642985_848318293931589662_transcript-childe-melee-proc-prototype-crescent.html)
 
 **Finding:**  
-Childe's elemental Skill, Foul Legacy: Raging Tides' Charge attacks can proc prototype crescent's passive on Geovishap's weakspots.
+Childe's Elemental Skill, Foul Legacy: Raging Tides' Charge attacks can proc prototype crescent's passive on Geovishap's weakspots.
 
 **Evidence:**  
 Prototype Crescent's passive, Unreturning, will activate when a charged attack hits enemies' weakpoints. Since the descriptions never specify it must be a bow Charged Attack, any charged attacks theoretically can trigger the passive as long as it hits the weakspot of the enemy. Since Geovishaps doesn't get knocked back like other smaller enemies, and their head is luckily, ground level unlike Lectors and Heralds, it is possible to hit the Vishap's head and trigger the passive with Childe's melee cross slash. Evidence and testing is shown on the video below.  
@@ -325,7 +325,7 @@ Prototype Crescent's passive, Unreturning, will activate when a charged attack h
 [Video 2](https://youtu.be/nUIqqcqjOcI)
 
 **Significance:**  
-Hopefully, by knowing this, people can start twiddling around this and find much more unique interactions between Crescent's passive and its user, specifically Childe, but that's only because he is the only hybrid unit between melee and range so far. If there is a direct Crescent counterpart in the future\(swords, polearms, claymores\) and there's a unit that is also a hybrid like Childe, we can be sure that said unit's elemental Skill can proc said weapon's passive with their 'special' charged attack. This can also makes running Childe with prototype Crescent a lot more comfortable on abyss that consists of Vishaps, such as Floor 12-1, or Pale Flames Domain.
+Hopefully, by knowing this, people can start twiddling around this and find much more unique interactions between Crescent's passive and its user, specifically Childe, but that's only because he is the only hybrid unit between melee and range so far. If there is a direct Crescent counterpart in the future\(swords, polearms, claymores\) and there's a unit that is also a hybrid like Childe, we can be sure that said unit's Elemental Skill can proc said weapon's passive with their 'special' charged attack. This can also makes running Childe with prototype Crescent a lot more comfortable on abyss that consists of Vishaps, such as Floor 12-1, or Pale Flames Domain.
 
 ### Childe's Riptide Procs 4 Pale Flame
 
@@ -335,7 +335,7 @@ Hopefully, by knowing this, people can start twiddling around this and find much
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846872744032469012_856371265799716864_transcript-childe-4pf.html)
 
 **Finding:**  
-Childe can trigger 4 the 4-Piece Pale Flame passive with his riptide in melee form he and keeps buff when he switches back to ranged form since riptide is counted as elemental Skill.
+Childe can trigger 4 the 4-Piece Pale Flame passive with his riptide in melee form he and keeps buff when he switches back to ranged form since riptide is counted as Elemental Skill.
 
 **Evidence:**  
 [Video](https://www.bilibili.com/video/BV1Ry4y1g7Xv?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1621945518&unique_k=seCHWV)
@@ -386,7 +386,7 @@ Steps:
 [Video](https://youtu.be/1Z85uLvJn4A) (thx to Silvershine for helping me record it)
 
 **Significance:**  
-Just a fun little finding. Can be made into meme builds for a full ATK% childe (since shatter Childe is already becoming a meme build, so why not consistent vape Childe too)
+Just a fun little finding. Can be made into meme builds for a full ATK% childe (since Shatter Childe is already becoming a meme build, so why not consistent vape Childe too)
 
 ### Childe Double Forward Vape
 

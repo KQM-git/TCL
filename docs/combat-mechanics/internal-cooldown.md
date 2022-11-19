@@ -6,27 +6,27 @@ import YouTube from "@site/src/components/common/YouTube"
 
 # Internal Cooldown
 
-In Genshin, various abilities and mechanics exhibit the effects of limitations upon sequential instances of elemental application, damage, and poise damage. The system that imposes these limitations is most commonly referred to as *internal cooldown* (abbv. *ICD*) by the Genshin community.
+In Genshin, various abilities and mechanics exhibit the effects of limitations upon sequential instances of Elemental application, damage, and poise damage. The system that imposes these limitations is most commonly referred to as *internal cooldown* (abbv. *ICD*) by the Genshin community.
 
 ICD is a significant factor in theorycrafting as it drastically affects how a particular character's kit plays into team optimization and what team roles they can satisfy.
 
 ## Motivation
 
-For motivation, we use elemental application as intuitive example. Below is a video of Hu Tao attacking the Electro Hypostasis in its vulnerable state via her Pyro-converted Normal Attacks.
+For motivation, we use Elemental application as intuitive example. Below is a video of Hu Tao attacking the Electro Hypostasis in its vulnerable state via her Pyro-converted Normal Attacks.
 
 <YouTube id="FAaem0Lfg7A" title="ICD Motivation" />
 
-From the video, we observe that only two Overloads reactions are triggered yet Hu Tao attacks with Pyro damage four times. This leads to the conclusion that Genshin imposes a system that restricts how many times certain attacks can apply an element.
+From the video, we observe that only two Overloads reactions are triggered yet Hu Tao attacks with Pyro damage four times. This leads to the conclusion that Genshin imposes a system that restricts how many times certain attacks can apply an Element.
 
 This conjectured system also generalizes to damage (e.g. Transformative reaction damage) and poise damage, limiting the number of damage/poise damage instances that can occur over some span of time. This system is known as *internal cooldown* or *ICD* for short.
 
 ## Intuitive Overview
 
-Here we give a simplified but commonly accepted understanding of ICD. For most purposes of theorycrafting and general understanding, it is sufficient enough to apply the main ideas of ICD. Again, we use elemental application as an example keeping in mind that ICD also applies to damage and poise damage.
+Here we give a simplified but commonly accepted understanding of ICD. For most purposes of theorycrafting and general understanding, it is sufficient enough to apply the main ideas of ICD. Again, we use Elemental application as an example keeping in mind that ICD also applies to damage and poise damage.
 
 Generally speaking, ICD is controlled by two parameters: a **timer** and a **hit count**. For the sake of clarity, we will use *default ICD* (very common configuration for many character abilities). Default ICD results in the following:
-* A hit can apply an element once every 3 hits or
-* A hit can apply an element once every 2.5 seconds.
+* A hit can apply an Element once every 3 hits or
+* A hit can apply an Element once every 2.5 seconds.
 
 For this reason, it is common to say that default ICD is *2.5 seconds or 3 hits*. There is an additional component of ICD; however, that often leads to confusion for those new to ICD. That is
 
@@ -37,7 +37,7 @@ Because this concept tends to be very confusing when written out in text, we wil
 
 <YouTube id="wGab6lW2BfI" title="ICD Resets" />
 
-The timer and hit count rules for elemental application ICD can vary wildly and it is also possible for abilities to not have ICD at all (in which case, every hit will apply an element).
+The timer and hit count rules for Elemental application ICD can vary wildly and it is also possible for abilities to not have ICD at all (in which case, every hit will apply an Element).
 
 ICD for damage works in an identical way but instead limits the number of damage instances possible. Similarly, poise damage ICD limits the number of poise damage instances.
 
@@ -49,7 +49,7 @@ Some general properties of ICD are:
 * ICD is not shared between characters.
     * **Example**: If Sucrose triggers a Swirl reaction with her Elemental Skill and hits Swirl damage ICD, then Venti's Swirl damage will not be affected by the fact that Sucrose's Elemental Skill Swirls are on ICD.
 * Multiple abilities may share ICD.
-    * **Example**: Keqing's Normal and Charged Attacks share ICD. Thus, which instances of her Normal and Charged Attacks will apply an element is determined by default ICD (where both her Normal and Charged Attacks may contribute to the hit count and start the timer).
+    * **Example**: Keqing's Normal and Charged Attacks share ICD. Thus, which instances of her Normal and Charged Attacks will apply an Element is determined by default ICD (where both her Normal and Charged Attacks may contribute to the hit count and start the timer).
 
 ## Advanced Overview
 
@@ -85,7 +85,7 @@ $$
     (g_n) = 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0
 \end{aligned}
 $$
-and $t_{\text{reset}} = 2.5$ seconds. Since each hit of Ayaka's Burst is encoded to apply 1U Cryo (assuming it's not on ICD) and C2 Ayaka's Burst hits $30$ times over $2.5$ seconds (out of $60$ hits total over the entire duration of her Burst), we can define her sequence of elemental applications as
+and $t_{\text{reset}} = 2.5$ seconds. Since each hit of Ayaka's Burst is encoded to apply 1U Cryo (assuming it's not on ICD) and C2 Ayaka's Burst hits $30$ times over $2.5$ seconds (out of $60$ hits total over the entire duration of her Burst), we can define her sequence of Elemental applications as
 $$
 \begin{aligned}
     1\text{U} \times \varphi_g(1) &= 1\text{U} \times 1, \\
@@ -110,7 +110,7 @@ $$
     (d_n) = 1, 1, 0, 0, 0, 0, 0, 0, 0, 0
 \end{aligned}
 $$
-and $t_\text{reset} = 0.5$ seconds, not shared between different element Swirls. So we can define the sequence of damage instances dealt to the enemy as
+and $t_\text{reset} = 0.5$ seconds, not shared between different Element Swirls. So we can define the sequence of damage instances dealt to the enemy as
 $$
 \begin{aligned}
     \text{Damage} \times \varphi_d(1) &= \text{Damage} \times 1, \\

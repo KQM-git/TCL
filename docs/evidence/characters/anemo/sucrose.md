@@ -187,7 +187,7 @@ This might also be a bug on other characters when they dash cancel their skills.
 [Discussion](https://tickets.deeznuts.moe/transcripts/sucrose-e-dash-e-bug)
 
 **Bug:**  
-Doing Sucrose E > dash > E very fast only produces 1 Skill's worth of elemental Orbs
+Doing Sucrose E > dash > E very fast only produces 1 Skill's worth of Elemental Orbs
 
 **Evidence:**  
 [YouTube](https://www.youtube.com/watch?v=pheoEgyYIlg)
@@ -204,7 +204,7 @@ Making frame-perfect dash cancels isn't always a good thing. When doing E dash E
 **Last tested:** <VersionHl date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904089904416436264_920907095434473512_transcript-sucrose-absorbed-damage-simultaneous-or-sequential.html)
 
-**Finding:** The damage from Anemo and the absorbed element in Sucrose's Burst ticks happen simultaneously.
+**Finding:** The damage from Anemo and the absorbed Element in Sucrose's Burst ticks happen simultaneously.
 
 **Evidence:**  
 VV/Swirl testing: [Video](https://youtu.be/88FnnTmL2Hg),
@@ -218,8 +218,8 @@ An enemy was applied Pyro. Sucrose Burst was set up so it would absorb Pyro befo
 
 This was inconclusive, and there were two theories:
 
-* Anemo and the absorbed element are simultaneous, and AoE Swirl damage comes after the rest of damage is dealt.(Meaning it is also after when debuffs from reactions are applied).
-* Anemo and the absorbed element are sequential instances of damage, but AoE Swirls creates new instances of damage that are calculated after all instances of talent damage are finished calculating(and reacting).
+* Anemo and the absorbed Element are simultaneous, and AoE Swirl damage comes after the rest of damage is dealt.(Meaning it is also after when debuffs from reactions are applied).
+* Anemo and the absorbed Element are sequential instances of damage, but AoE Swirls creates new instances of damage that are calculated after all instances of talent damage are finished calculating(and reacting).
 
 Raining Anemo Hypostasis Testing
 
@@ -229,7 +229,7 @@ Raining Anemo Hypostasis Testing
 * Sucrose's Burst that has absorbed Hydro causes a single Swirl reaction on the Anemo Hypostasis while it is raining.
   [Some Proselytizer\#8340](https://youtu.be/AGLqrDXaD0A)
 
-As there was only a single reaction, unlike the expected two Swirls if Sucrose's Burst was sequential, there is a strong argument to say that the damage from the Anemo and the absorbed element in her Burst are simultaneous.
+As there was only a single reaction, unlike the expected two Swirls if Sucrose's Burst was sequential, there is a strong argument to say that the damage from the Anemo and the absorbed Element in her Burst are simultaneous.
 
 **Significance:** We better understand Sucrose's kit and how attacks in general work.
 
@@ -286,7 +286,7 @@ Sucrose's A1 Passive, A4 Passive, and C6 effect can be triggered even when she i
 **Evidence:** [YouTube](https://youtu.be/Fl3j9rp0N90)
 
 **Significance:**  
-More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*element you want to buff*] and continue with the rest of your rotations without having to imbue element first before Sucrose moves.
+More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*Element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*Element you want to buff*] and continue with the rest of your rotations without having to imbue Element first before Sucrose moves.
 
 #### A1 Triggers on Chain Reaction Swirls
 
@@ -339,7 +339,7 @@ Sucrose can utilize her A1 buff even when Swirling off of objects, as long as th
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917957994048782336_919114773902290964_transcript-sucrose-a1-trigger-mechanics.html)
 
 **Finding:**  
-Swirls caused by the absorbed element in Sucrose's Burst can trigger her A1.
+Swirls caused by the absorbed Element in Sucrose's Burst can trigger her A1.
 
 **Evidence:**  
 Infusing Sucrose Burst with Beidou hold Skill vs Anemo Cube: [YouTube](https://youtu.be/iwmDccAyoVA)
@@ -443,7 +443,7 @@ This very slightly makes on field enabler Sucrose comps better, as swapping on S
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840099295344197632_840821871901540362_transcript-sucrose-c6-buff-timer.html)
 
 **Finding:**  
-The buff provided by Sucrose's Constellation 6 \(granting party members a 20% Elemental DMG Bonus based on which element is absorbed by Sucrose's Burst\) lasts for 10 seconds.
+The buff provided by Sucrose's Constellation 6 \(granting party members a 20% Elemental DMG Bonus based on which Element is absorbed by Sucrose's Burst\) lasts for 10 seconds.
 
 **Evidence:** [https://www.youtube.com/watch?v=VNVnsEdh29c](https://www.youtube.com/watch?v=VNVnsEdh29c)
 

@@ -163,7 +163,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Ocean-Hued Clam">
 
 * The 4-Piece set bonus Bubble Damage is considered Physical Damage and can be boosted by Physical Resistance Reduction (eg: Superconduct).
-* The 4-Piece set bonus Bubble Damage is not a blunt hit and does not shatter Frozen enemies.
+* The 4-Piece set bonus Bubble Damage is not a blunt hit and does not Shatter Frozen enemies.
 * The 4-Piece set bonus Bubble Damage is independent of enemy defense.
 * All healing from the 4-Piece set holder gets calculated for the Bubble Damage including overflow heals.
   * The 4-Piece set bonus counts initial heal as part of the Sea-Dyed Foam bubble damage.
@@ -204,7 +204,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Shimenawa's Reminiscence">
 
 * The effect cannot be refreshed.
-* Energy will not be drained by using elemental Skill while the effect is active.
+* Energy will not be drained by using Elemental Skill while the effect is active.
 * The Energy drain effect has a 7-frame delay from when Elemental Skill is cast to when you actually lose Energy.
 * The effect, including the Energy drain, will still trigger even if the player is interrupted during Elemental Skill cast.
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
@@ -215,7 +215,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Tenacity of the Millelith">
 
-* The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage.
+* The 4 piece effect of Tenacity of the Millelith activates with Elemental skills hitting shielded enemies and dealing no damage.
 * The 4 piece effect does not stack but its duration can be reset if there are multiple 4ToM wielders.
 * The active bonus timer will remain even when any piece is removed or the character equipping the set is swapped out of the team.
 
@@ -228,8 +228,8 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
 * 40% additional damage to Electro-related reactions is only applied if the set holder triggers the reaction. However, the set holder doesn't have to be active on-field.
 * The 4-Piece set holder has to be active on-field to benefit from the cooldown reduction effect.
-* Regarding how Electro-charged works with 4TF, If the 4-Piece set bonus is not on cooldown \(0.8s\), then the set bonus is not hampered by Electro-Charged’s 1 second ICD. As long as you can keep constant Hydro aura on the enemy you can switch between different elemental sources \(E1, E2, Electro-imbued autoattacks, and Q\) to obtain E CDR.
-* 4-Piece set effect of cooldown reduction can be triggered by non-damaging elemental applications.
+* Regarding how Electro-charged works with 4TF, If the 4-Piece set bonus is not on cooldown \(0.8s\), then the set bonus is not hampered by Electro-Charged’s 1 second ICD. As long as you can keep constant Hydro aura on the enemy you can switch between different Elemental sources \(E1, E2, Electro-imbued autoattacks, and Q\) to obtain E CDR.
+* 4-Piece set effect of cooldown reduction can be triggered by non-damaging Elemental applications.
 
 </Artifact>
 
@@ -312,7 +312,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Prayers for Destiny">
 
 * The Tiara status resist 1-set effect applies even when not visually active.
-* The Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
+* The Tiara works with Leyline disorders and is additive with Elemental resonances, so you are able to get up to 80% debuff resistance.
 
 </Artifact>
 
@@ -321,7 +321,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Prayers for Illumination">
 
 * The Tiara status resist 1-set effect applies even when not visually active.
-* The Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
+* The Tiara works with Leyline disorders and is additive with Elemental resonances, so you are able to get up to 80% debuff resistance.
 
 </Artifact>
 
@@ -330,7 +330,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Prayers to Springtime">
 
 * The Tiara status resist 1-set effect applies even when not visually active.
-* The Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
+* The Tiara works with Leyline disorders and is additive with Elemental resonances, so you are able to get up to 80% debuff resistance.
 
 </Artifact>
 
@@ -339,7 +339,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Prayers for Wisdom">
 
 * The Tiara status resist 1-set effect applies even when not visually active.
-* The Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
+* The Tiara works with Leyline disorders and is additive with Elemental resonances, so you are able to get up to 80% debuff resistance.
 
 </Artifact>
 

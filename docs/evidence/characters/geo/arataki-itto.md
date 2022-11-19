@@ -96,8 +96,8 @@ Further understanding of Ushi as a Geo Construct.
   * [Hitlag - Q lasts 846 Frames](https://youtu.be/aw06dCXAnjg)
 * Itto's Q can expire during CA spam. - [ProfHugo\#6478](https://youtu.be/UPoTXD71MUs)
 * Burst duration can significantly extend past its normal duration by doing an attack at the end of Burst. This extension ends immediately on any action after the final attack, so it does not give you a meaningful Burst extension beyond that final attack. - BowTae\#0141
-  * [No attacks - burst ends at 6.0s CD](https://imgur.com/Pv6AMr4) \([Stats](https://imgur.com/OayN5yF)\)
-  * [CA at end - burst ends at 1.6s CD](https://imgur.com/8ufbM4d)
+  * [No attacks - Burst ends at 6.0s CD](https://imgur.com/Pv6AMr4) \([Stats](https://imgur.com/OayN5yF)\)
+  * [CA at end - Burst ends at 1.6s CD](https://imgur.com/8ufbM4d)
   * [Sky immediately fades at start of N1](https://imgur.com/PEEvcwu)
 
 ### Itto N1 Burst Cancel SS Stack

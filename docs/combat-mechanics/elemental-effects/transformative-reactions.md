@@ -38,7 +38,7 @@ Overloaded, also known as Overload, is an Elemental Reaction triggered by applyi
 
 * You can trigger Overload on electrocuted bodies of water.
 
-Overload has a reaction specific ICD of 0.5 sec where enemies overloaded or hit by the aoe caused by an overload procced by one character are then immune to the damage caused by overload procced by that character for 0.5 seconds. They still suffer gauge reduction and stagger, even without taking damage.
+Overload has a reaction specific ICD of 0.5 sec where enemies overloaded or hit by the aoe caused by an Overload procced by one character are then immune to the damage caused by Overload procced by that character for 0.5 seconds. They still suffer gauge reduction and stagger, even without taking damage.
 
 ## Superconduct
 
@@ -46,12 +46,12 @@ Superconduct is an Elemental Reaction triggered by applying Electro on a target 
 
 ## Electro-Charged
 
-Electro-Charged is a special Transformative reaction that deals Electro damage and breaks the normal convention of “one elemental aura on an enemy at a time". When an enemy is Electro-Charged, both the Hydro and Electro aura lies underneath the Electro-Charged status. It follows that when applying a third element, like Pyro, you can trigger **both** Vaporize and Overload in the same damage instance. Electro-Charged continues to tick every second until there is 0.5 seconds worth of Electro and Hydro aura remaining. For a more detailed description of Electro-Charged, refer to the [Evidence Vault.](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#electrocharged)
+Electro-Charged is a special Transformative reaction that deals Electro damage and breaks the normal convention of “one Elemental aura on an enemy at a time". When an enemy is Electro-Charged, both the Hydro and Electro aura lies underneath the Electro-Charged status. It follows that when applying a third Element, like Pyro, you can trigger **both** Vaporize and Overload in the same damage instance. Electro-Charged continues to tick every second until there is 0.5 seconds worth of Electro and Hydro aura remaining. For a more detailed description of Electro-Charged, refer to the [Evidence Vault.](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#electrocharged)
 
 * Electro-Charged duration can be extended by hitlag, presumably by extending the aura duration.
   * With an excessive amount of Hydro application and a lot of hitlag, 4 Electro-Charged procs are possible with only one application of Electro.
 * Electro-Charged ticks, however, are not affected by hitlag, and happen exactly every 60 frames.
-* Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger Electro-Charged damage without applying an elemental aura.
+* Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger Electro-Charged damage without applying an Elemental aura.
   * Electro-Charged ticks that spread to other enemies affect by Electro-Charged will take over Electro-Charged ownership on those enemies.
 * Electro-Charged, in combination with Heavy Hits, can stun a Ruin Guard similar to using an aimed shot on their weakpoint.
   * This is because both Electro-Charged and Heavy Hits deal a substantial amount of poise damage
@@ -85,9 +85,9 @@ Frozen is an Elemental Reaction triggered by applying Cryo on a target already a
 
 Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both Frozen and Hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by Frozen.
 
-Additionally, for some reactions, only one reaction can occur at a time. For example, if you apply non-heavy Pyro to a Frozen aura that has an underlying Hydro aura, only Melt occurs. If the underlying aura is Cryo (which can be melted), melt will occur and reduce both the Freeze and the original Cryo aura. It is possible for a reaction to affect both auras, while some reactions only affect one aura. For example, a sufficiently strong Anemo aura application can cause a double Swirl where both the underlying Hydro aura and the Frozen aura are swirled. This also occurs with heavy attacks, which can cause both shatter and a reaction based on the underlying aura. For example, if an enemy who is both Frozen and affected by underlying Hydro is hit with a heavy Pyro attack while Frozen, both shatter and Vaporize will occur. If the same enemy was affected by underlying Cryo instead, melt would occur. Both scenarios require an underlying aura to be applied to an enemy; without an underlying aura, only shatter will occur. This effect applies to all heavy elemental attacks.
+Additionally, for some reactions, only one reaction can occur at a time. For example, if you apply non-heavy Pyro to a Frozen aura that has an underlying Hydro aura, only Melt occurs. If the underlying aura is Cryo (which can be melted), melt will occur and reduce both the Freeze and the original Cryo aura. It is possible for a reaction to affect both auras, while some reactions only affect one aura. For example, a sufficiently strong Anemo aura application can cause a double Swirl where both the underlying Hydro aura and the Frozen aura are swirled. This also occurs with heavy attacks, which can cause both Shatter and a reaction based on the underlying aura. For example, if an enemy who is both Frozen and affected by underlying Hydro is hit with a heavy Pyro attack while Frozen, both Shatter and Vaporize will occur. If the same enemy was affected by underlying Cryo instead, melt would occur. Both scenarios require an underlying aura to be applied to an enemy; without an underlying aura, only Shatter will occur. This effect applies to all heavy Elemental attacks.
 
-* The order of elements applied and the gauge strength determines if a second reaction occurs and what reaction it is, whenever a blunt elemental attack is used against a Frozen target.
+* The order of elements applied and the gauge strength determines if a second reaction occurs and what reaction it is, whenever a blunt Elemental attack is used against a Frozen target.
 
 | Reaction     | Freeze Aura | Underlying Cryo | Underlying Hydro |
 | :----------- | :---------: | :-------------: | :--------------: |
@@ -128,7 +128,7 @@ $$
 
 ## Swirl
 
-Swirl is an Elemental Reaction triggered by applying Anemo to a target already affected by Hydro, Pyro, Cryo, or Electro. Swirl will cause AoE elemental damage of the same type as the original aura, spreading that Element to affected targets which can trigger additional reactions. Triggering Swirl in an AoE can cause up to two instances of _Swirl_ damage per Element for each enemy in the AoE. Note that this constraint does not include the Anemo hit or any damage dealt by reactions caused from the swirls, so it is possible to have more than eight total damage instances per target.
+Swirl is an Elemental Reaction triggered by applying Anemo to a target already affected by Hydro, Pyro, Cryo, or Electro. Swirl will cause AoE Elemental damage of the same type as the original aura, spreading that Element to affected targets which can trigger additional reactions. Triggering Swirl in an AoE can cause up to two instances of _Swirl_ damage per Element for each enemy in the AoE. Note that this constraint does not include the Anemo hit or any damage dealt by reactions caused from the swirls, so it is possible to have more than eight total damage instances per target.
 
 * In the special case of Hydro, only the target afflicted with the Hydro initially will take damage as the dispersion of Hydro will not harm enemies.
 * All reactions caused by swirling auras together use the stats of the character that triggered the Swirl in their damage calculation.
@@ -146,7 +146,7 @@ More detailed guides on Swirl:
 
 ## Crystallize
 
-Crystallize is an Elemental Reaction triggered by applying Geo on a target afflicted by Pyro/Hydro/Cryo/Electro that creates a shard of the given element. Picking up the shard grants a shield of the shard's element. Crystallize deals no damage, and instead the base health of the shield generated scales on Elemental Mastery and character level of the character that triggered the Crystallize reaction.
+Crystallize is an Elemental Reaction triggered by applying Geo on a target afflicted by Pyro/Hydro/Cryo/Electro that creates a shard of the given Element. Picking up the shard grants a shield of the shard's Element. Crystallize deals no damage, and instead the base health of the shield generated scales on Elemental Mastery and character level of the character that triggered the Crystallize reaction.
 
 * Triggering Crystallize on an Electro-Charged target will provide an Electro Crystal.
 * Picking up multiple crystals refreshes the duration of the shield and its Element type.

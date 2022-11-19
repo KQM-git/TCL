@@ -6,16 +6,16 @@ description: They are able to harness elemental energy from the Ley Lines of Tey
 
 ## Weakspot Details
 
-All abyss mages share the same weakspot on their **Head**, note that this weakspot is **disabled while protected by their elemental shield**.
+All abyss mages share the same weakspot on their **Head**, note that this weakspot is **disabled while protected by their Elemental shield**.
 
 ## Energy drops
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 75% HP       | 1 Particle | Own element |
-| 50% HP       | 1 Particle | Own element |
-| 25% HP       | 1 Particle | Own element |
-| Death        | 1 Orb      | Own element |
+| 75% HP       | 1 Particle | Own Element |
+| 50% HP       | 1 Particle | Own Element |
+| 25% HP       | 1 Particle | Own Element |
+| Death        | 1 Orb      | Own Element |
 
 ## Resistance Table
 
@@ -99,7 +99,7 @@ While studying at the Akademiya, researcher Alva Nicolai once conducted a system
 * Hurls an electric sphere towards the player.
 * Teleports closer to the player, the teleport can hurt the player if close enough.
 * Creates an Energy field around it's self.
-* Starts dancing while continously summoning waves of 4 orbs that will fly outwards, alternating between an X and cross shape, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
+* Starts dancing while continously summoning waves of 4 Orbs that will fly outwards, alternating between an X and cross shape, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
 
 </TabItem>
 

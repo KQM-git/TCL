@@ -150,7 +150,7 @@ import Passive from '@site/src/components/char/Passive'
 * This effect can be triggered even when Sucrose is not on the field.
 * This effect cannot be triggered by swirling off Guoba or environmental objects such as cooking pots.
 * This effect can be triggered by chain reaction Swirls.
-* Swirls caused by the absorbed element in **Forbidden Creation-Isomer 75/Type II** can trigger this effect.
+* Swirls caused by the absorbed Element in **Forbidden Creation-Isomer 75/Type II** can trigger this effect.
 
 </TabItem>
 

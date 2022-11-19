@@ -113,9 +113,9 @@ Although a minor damage source, Geo Traveler's A4 Passive damage is increased by
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955996204477612072_transcript-mc-elemental-proc-diff.html)
 
 **Theory:**  
-The elemental proc (Frenzied Rockslide) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's elemental proc happens some time after the last frame of her N5 attack string, while Aether's elemental proc happens before his n5 attack string occurs.
+The Elemental proc (Frenzied Rockslide) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's Elemental proc happens some time after the last frame of her N5 attack string, while Aether's Elemental proc happens before his n5 attack string occurs.
 
-The possible explanations for this is that the elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's n5 but before Aether's N5.
+The possible explanations for this is that the Elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's N5 but before Aether's N5.
 
 Lumine's entire n5 sequence takes ~148 frames while Aether's N5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.
 
@@ -126,7 +126,7 @@ Lumine's entire n5 sequence takes ~148 frames while Aether's N5 sequence takes ~
 * [Lumine](https://imgur.com/IKRNdps)
 
 **Significance:**  
-This means that it is possible for Aether to hit the elemental proc without/before connecting his fifth attack, while it is possible for Lumine to miss her elemental proc if she cancels her N5 too fast.
+This means that it is possible for Aether to hit the Elemental proc without/before connecting his fifth attack, while it is possible for Lumine to miss her Elemental proc if she cancels her N5 too fast.
 
 Another possible significance is that this might be a clue to how the Travelers are coded. They might share the same timings for other similar things that manifest at different moments just because of animation difference. As of writing this, no other application comes to mind.
 

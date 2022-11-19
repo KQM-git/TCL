@@ -206,7 +206,7 @@ import AdditiveReaction from '../\_formulas/additive.md'
 
 The damage dealt by weapon and ability procs when they trigger, such as Prototype Archaic or Xiangling's constellation 2. This is dealt as a separate instance of damage from the attack that triggered it.
 
-To calculate this damage, substitute the proc percentage (e.g. 240% for Prototype Archaic R1) for Talent in the damage formula. Note that weapon proc effects always deal Physical damage, and are therefore affected by Physical damage bonuses and Physical resistance, even if an elemental attack is used to trigger them.
+To calculate this damage, substitute the proc percentage (e.g. 240% for Prototype Archaic R1) for Talent in the damage formula. Note that weapon proc effects always deal Physical damage, and are therefore affected by Physical damage bonuses and Physical resistance, even if an Elemental attack is used to trigger them.
 
 ### Proc Damage Sources
 

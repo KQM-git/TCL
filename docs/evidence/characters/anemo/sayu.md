@@ -26,8 +26,8 @@ search: false
   * Sayu can do a hold E into an instant kick for 3 Particles - [DeFault#1802](https://youtu.be/rlztgVXikw4)
   * Sayu's Particle generation timer on roll does not reset after E is finished. - [DeFault#1802](https://youtu.be/H15YvXdoPB4)
 * Blunt?
-  * Sayu's Roll doesn't shatter - [Mcpie#8672](https://youtu.be/HawcofVHV6I)
-  * Tap E and Burst don't shatter (Cast damage and Daruma damage). - [채z#0007](https://youtu.be/p4LjYgzw74Q)
+  * Sayu's Roll doesn't Shatter - [Mcpie#8672](https://youtu.be/HawcofVHV6I)
+  * Tap E and Burst don't Shatter (Cast damage and Daruma damage). - [채z#0007](https://youtu.be/p4LjYgzw74Q)
 
 ### Skill Mechanics
 
@@ -75,7 +75,7 @@ Continuous Hold Skills have higher potential synergy with effects which stack ba
 * Sayu's Elemental Burst snapshots. - [Nass008#8577](https://youtu.be/rK3JGXBc-eo)
 * Sayu's Elemental Burst can reach Venti's ult & hit consistently. - [채z#0007](https://imgur.com/a/QPWqZbh)
 * The Daruma works the same way as Guoba - [Mcpie#8672](https://i.imgur.com/UweRgyV.mp4)
-  * Doesn't light up in elemental sight, is movable, cannot get infused, etc.
+  * Doesn't light up in Elemental sight, is movable, cannot get infused, etc.
 * Sayu's Burst has separate ICD on her Burst's initial hit and Daruma damage ticks - [DeFault#1802](https://youtu.be/KLy1f8aKkBg)
   * The summoned Daruma deals 7 ticks of Anemo Damage in a small AoE - [Zakharov#5645](https://imgur.com/a/wyIaelB)
   * The Daruma Damage ticks follow standard ICD
@@ -128,14 +128,14 @@ In the first video, Sayu rolls at 24s, kicks at 26s, and the resulting ~2s roll 
 In the second video, Sayu rolls at 8s, kicks at 18s, and the resulting ~max length roll deals 1137 Anemo and 398 Pyro.
 
 Rough napkin maths:  
-base Anemo hold kick dmg: 716  
-base absorbed element kick dmg: 251
+base Anemo hold kick DMG: 716  
+base absorbed Element kick DMG: 251
 
-2 roll ticks Anemo hold kick dmg: 716 _ (1 + 2 _ 0.033) = 763  
-2 roll ticks abs elem kick dmg: 251 _ (1 + 2 _ 0.033) = 267
+2 roll ticks Anemo hold kick DMG: 716 _ (1 + 2 _ 0.033) = 763  
+2 roll ticks abs elem kick DMG: 251 _ (1 + 2 _ 0.033) = 267
 
-20 roll ticks Anemo hold kick dmg: 716 _ (1 + 20 _ 0.033) = 1188  
-20 roll ticks abs elem kick dmg: 251 _ (1 + 20 _ 0.033) = 416
+20 roll ticks Anemo hold kick DMG: 716 _ (1 + 20 _ 0.033) = 1188  
+20 roll ticks abs elem kick DMG: 251 _ (1 + 20 _ 0.033) = 416
 
 [Video](https://www.youtube.com/watch?v=EeB9czD78KQ)  
 [Video](https://www.youtube.com/watch?v=-nyGLWR1pA0)

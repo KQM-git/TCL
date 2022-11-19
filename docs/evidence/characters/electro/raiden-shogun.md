@@ -58,20 +58,20 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885440525438685204_891171141287297095_transcript-raiden-e-transformative-interaction.html)
 
 **Finding:**  
-Raiden's elemental Skill will trigger on transformative reactions if 2 condition are met:
+Raiden's Elemental Skill will trigger on transformative reactions if 2 condition are met:
 
 1. Inflicting damage to an enemy.
 2. The damaging reaction has AOE.  
-   This means that only Superconduct, Overload, and all AOE swirls except for Hydro will activate it, while Electro-charged, shatter, single-target and Hydro Swirl won't.
+   This means that only Superconduct, Overload, and all AOE swirls except for Hydro will activate it, while Electro-charged, Shatter, single-target and Hydro Swirl won't.
 
 **Evidence:**  
 Working:  
-[superconduct](https://imgur.com/l8HTpLS), [overload](https://imgur.com/BFp3mF7), [Pyro Swirl](https://imgur.com/HooDf8l), [cyro Swirl](https://imgur.com/3KwFiLr), [electro Swirl](https://imgur.com/ElVwEd6), [multi-target swirls](https://imgur.com/ocEzBjq)  
+[Superconduct](https://imgur.com/l8HTpLS), [overload](https://imgur.com/BFp3mF7), [Pyro Swirl](https://imgur.com/HooDf8l), [Cryo Swirl](https://imgur.com/3KwFiLr), [Electro Swirl](https://imgur.com/ElVwEd6), [multi-target swirls](https://imgur.com/ocEzBjq)  
 Not Working:  
-[Hydro Swirl](https://imgur.com/Bqk9QQB), [single-target Swirl](https://imgur.com/IIXvCca), [aoe Hydro Swirl](https://imgur.com/Fa9YZgL), [shatter](https://imgur.com/vExbdig), [Electro-charged](https://imgur.com/qnuieNX)
+[Hydro Swirl](https://imgur.com/Bqk9QQB), [single-target Swirl](https://imgur.com/IIXvCca), [AoE Hydro Swirl](https://imgur.com/Fa9YZgL), [Shatter](https://imgur.com/vExbdig), [Electro-Charged](https://imgur.com/qnuieNX)
 
 **Significance:**  
-Better understanding of Raiden's elemental Skill.
+Better understanding of Raiden's Elemental Skill.
 
 ### Raiden Coordinated Attack Cooldown
 
@@ -148,7 +148,7 @@ Using Raiden's Burst against those enemies is not a total waste because you stil
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962722091747123210_transcript-raiden-normals-and-burst-do-not-share-icd.html)
 
 **Finding:**  
-Raiden's tachi attacks during Elemental Burst do _not_ share ICD with her out-of-burst polearm attacks.
+Raiden's tachi attacks during Elemental Burst do _not_ share ICD with her out of Burst polearm attacks.
 
 **Evidence:**  
 Near the end of the video, Raiden's Burst N1 applied Electro Aura to the enemy and the N1 after also applied Cryo for Superconduct. - [YouTube](https://youtu.be/36nspMTqRIE)
@@ -209,10 +209,10 @@ Raiden's C2 applies to Physical damage.
 
 Tested using a Dragonspine Spear, bursting right after a normal attack so that the icicle falls during the Burst window. As can be seen through the videos, a non Burst icicle CRIT hits for 448, whereas a bursted icicle CRIT lands for 644 damage.
 This makes sense mathematically as per the defence formula `190/(190+195x(0.4)) = 0.709` and `190 / (190+195) = 0.4935`.
-Finding the ratio between these two, we reach a 43.66% dmg increase, and `448 x 1.4366 = 644`, rounded up.  
+Finding the ratio between these two, we reach a 43.66% DMG increase, and `448 x 1.4366 = 644`, rounded up.  
 
 **Significance:**  
-It proves without a doubt that any and all damage during Raiden's Burst with C2 will ignore DEF by 60%. Including Physical damage. Outside of this one interaction there is no way to do normal/charged/weapon proc attacks on Raiden during her Burst, so this will serve as confirmation in the future if this becomes possible, that all damage done by Raiden herself during her Burst will undergo the defence ignore, and not just skills/burst/electro damage.
+It proves without a doubt that any and all damage during Raiden's Burst with C2 will ignore DEF by 60%. Including Physical damage. Outside of this one interaction there is no way to do normal/charged/weapon proc attacks on Raiden during her Burst, so this will serve as confirmation in the future if this becomes possible, that all damage done by Raiden herself during her Burst will undergo the defence ignore, and not just Skill/Burst/Electro damage.
 
 #### C2 defense ignore is multiplicative
 

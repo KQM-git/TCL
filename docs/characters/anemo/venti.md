@@ -126,7 +126,7 @@ import Skill from '@site/src/components/char/Skill'
 * The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
 * Venti cannot lift enemies that are more than 20 levels above his level.
 * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
-  * The additional elemental DMG will deal 13-15 ticks of damage in the original Burst area, no matter the time of absorption.
+  * The additional Elemental DMG will deal 13-15 ticks of damage in the original Burst area, no matter the time of absorption.
   * The absorption DMG does not share ICD with the DoT DMG
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.
 
@@ -190,7 +190,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by Anemo dmg ticks, while the infused element's res reduction duration is refreshed by that element's DOT ticks.
+* The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo RES reduction duration can only be refreshed by Anemo DMG ticks, while the infused Element's RES reduction duration is refreshed by that Element's DOT ticks.
 
 </TabItem>
 </Tabs>
