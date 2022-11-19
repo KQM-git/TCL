@@ -173,6 +173,25 @@ Zhongli's Geo Construct placement seems to have a specific height difference pas
 **Significance:**  
 Knowing more about Geo Construct spawn conditions at different heights.
 
+## Burst Mechanics
+
+### Zhongli Q Doesn't Shatter
+
+**By:** Rathalos\#2875  
+**Added:** <Version date="2022-11-19" />  
+**Last tested:** <VersionHl date="2022-11-18" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/zhongli-q-doesnt-shatter)
+
+**Finding:**  
+Zhongli's Burst, *Planet Befall*, does not shatter Frozen enemies. It also prevents enemies from being frozen while petrified, as well as preventing them from being shattered.  
+  
+**Evidence:**  
+* [YouTube](https://youtu.be/-i1faD6rtUE)  
+* [YouTube](https://youtu.be/-8LZNOBNIWw)  
+  
+**Significance:**  
+You don't get extra physical damage when using Burst in freeze teams.
+
 ## Ascension Mechanics
 
 ### A1: Resonant Waves
