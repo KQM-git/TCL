@@ -85,6 +85,32 @@ Since some effects will end instantly if the holder leaves the party, it's impor
 
 As we get new artifact sets, more options to pre-buff in the overworld may become available and as such, having access to a list of buffs that remain will be valuable for players trying to maximise output for a damage showcase.  
 
+## Adventurer
+
+### 4 Piece Adventurer Heal Trigger Conditions
+
+**By:** jamberry\#7142, Atomic\#3770  
+**Added:** <Version date="2022-11-20" />  
+**Last tested:** <VersionHl date="2022-11-19" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-piece-adventurer-heal-trigger-conditions)
+
+**Finding:**  
+Adventurer Set 4 piece interactions, what works is listed below.  
+  
+**Evidence:**  
+* Chests - [YouTube](https://youtu.be/ZGibxq4jEdk)  
+* Leyline - [YouTube](https://youtu.be/KAJCoMq5-h0)  
+* Wooden Crates - [YouTube](https://youtu.be/v_PHBjphSO4)  
+* Smashed Stones/Rock Piles - [YouTube](https://youtu.be/fMXtaKI8Gh8)  
+* Weekly/World Boss - [YouTube](https://youtu.be/MEYiChWnIS0,) [YouTube](https://youtu.be/1UMvqrIofMk)  
+* Any Investigation - 
+  * Conch - [YouTube](https://youtu.be/7_MEZ86rTjw)  
+  * Geo Sigils - [YouTube](https://youtu.be/NVQ8xBxLKBI)  
+  * Artifacts - [YouTube](https://youtu.be/3WaTgpa4KjA)  
+  
+**Significance:**  
+Best exploration set LMAO.
+
 ## Archaic Petra
 
 ### Geovishap Hatchling Shields with 4 Petra
