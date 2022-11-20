@@ -130,6 +130,7 @@ import EnemyDef from '../\_formulas/enemydef.md'
 * Kamisato Ayaka's [**Ebb and Flow**](../../characters/cryo/kamisato-ayaka.md#constellations) (C4): 30%
 * Klee's [**Explosive Frags**](../../characters/pyro/klee.md#constellations) (C2): 23%
 * Lisa's [**Static Electricity Field**](../../characters/electro/lisa.md#ascension-passives) (A4): 15%
+* Nahida's [**The Root of All Fullness**](../../characters/dendro/nahida.md#constellations) (C2): 30%
 * Razor's [**Bite**](../../characters/electro/razor.md#constellations) (C4): 15%
 
 ## Enemy Resistance
