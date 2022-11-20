@@ -98,15 +98,15 @@ As we get new artifact sets, more options to pre-buff in the overworld may becom
 Adventurer Set 4 piece interactions, what works is listed below.  
   
 **Evidence:**  
-* Chests - [YouTube](https://youtu.be/ZGibxq4jEdk)  
-* Leyline - [YouTube](https://youtu.be/KAJCoMq5-h0)  
-* Wooden Crates - [YouTube](https://youtu.be/v_PHBjphSO4)  
-* Smashed Stones/Rock Piles - [YouTube](https://youtu.be/fMXtaKI8Gh8)  
-* Weekly/World Boss - [YouTube](https://youtu.be/MEYiChWnIS0,) [YouTube](https://youtu.be/1UMvqrIofMk)  
-* Any Investigation - 
-  * Conch - [YouTube](https://youtu.be/7_MEZ86rTjw)  
-  * Geo Sigils - [YouTube](https://youtu.be/NVQ8xBxLKBI)  
-  * Artifacts - [YouTube](https://youtu.be/3WaTgpa4KjA)  
+* Chests : [YouTube](https://youtu.be/ZGibxq4jEdk)  
+* Leyline : [YouTube](https://youtu.be/KAJCoMq5-h0)  
+* Wooden Crates : [YouTube](https://youtu.be/v_PHBjphSO4)  
+* Smashed Stones/Rock Piles : [YouTube](https://youtu.be/fMXtaKI8Gh8)  
+* Weekly/World Boss : [YouTube](https://youtu.be/MEYiChWnIS0), [YouTube](https://youtu.be/1UMvqrIofMk)  
+* Any Investigation : 
+  * Conch : [YouTube](https://youtu.be/7_MEZ86rTjw)  
+  * Geo Sigils : [YouTube](https://youtu.be/NVQ8xBxLKBI)  
+  * Artifacts : [YouTube](https://youtu.be/3WaTgpa4KjA)  
   
 **Significance:**  
 Best exploration set LMAO.
