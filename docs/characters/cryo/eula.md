@@ -92,7 +92,7 @@ import Skill from '@site/src/components/char/Skill'
 | DEF Bonus                 | 30% per stack |
 | Phys RES Decrease \(T9%\) | 24%           |
 | Cryo Res Decrease \(T9%\) | 24%           |
-| RES Decrease Duration     | 7s per stack  |
+| RES Decrease Duration     | 7s            |
 | Grimheart Duration        | 18s           |
 
 **Notes**
