@@ -42,6 +42,42 @@ See the two below screenshots and comments. We already know that Swirl can only 
 **Significance:**  
 This strongly caps the potential AoE damage from both reactions, making Superconduct always strictly worse than Swirl and Overload in terms of damage.
 
+### Transformative Reactions Are Hits From Your Character
+
+**By:** NZPIEFACE\#8439, Hu taoist\#4112  
+**Added:** <Version date="2022-11-09" />  
+**Last tested:** <VersionHl date="2022-11-09" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/transformative-reactions-are-hits-from-your-character)
+
+**Finding:**  
+A few of the transformative reactions counts as hits/damage from your character.  
+- Overload  
+- Superconduct  
+- AoE Swirls  
+- Bloom  
+- Hyperbloom  
+- Burgeon  
+  
+**Evidence:**  
+It is possible to stack Royal weapons and trigger Favonius weapons with these sources of damage. For the Bloom series of reactions, they can trigger Favonius weapons with Nahida's C2.  
+  
+* Overload [YouTube](https://youtu.be/8UyAKHD4AzQ)  
+* Superconduct [YouTube](https://youtu.be/QRWXTvofJNo)  
+* AoE Swirl 
+  * [YouTube](https://youtu.be/XolgjgT9Bn4)
+  * [YouTube](https://youtu.be/PhlzlFT7xyE)  
+* Single-target Swirl [YouTube](https://youtu.be/t2Pi4cfNI9Y)  
+* Favonius [YouTube](https://youtu.be/qUZn2eGIPHI)
+  
+Notes: This list matches what Raiden's Skill triggers from. It was in our face the whole times <:Starege:965940930895036477>.  
+  
+Note for Royal weapons: If the talent scaling attack doesn't CRIT and one of the above reactions happen, it still only stacks a single time.  
+[YouTube](https://youtu.be/nUN2sOD1EbY)  
+[YouTube](https://youtu.be/tkRJEzjEz7Y)
+
+**Significance:**  
+Some stuff like Raiden's Skill or Fillet Blade, I guess.
+
 ## Overload
 
 ### Overload Reaction ICD

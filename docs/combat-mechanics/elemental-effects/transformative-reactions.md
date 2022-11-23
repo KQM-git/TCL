@@ -28,9 +28,11 @@ Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />
 | Swirl           | Direct Damage                    | 130          | 1               |
 | Swirl           | AoE \(6 meters\)                 | 30           | 1               |
 
-Transformative Reactions cannot CRIT and scale only on Elemental Mastery and character level. They are effected by Elemental Resistance to the type of damage the Reaction deals.
+Transformative Reactions cannot CRIT (except some with Nahida C2) and scale only on Elemental Mastery and character level. They are effected by Elemental Resistance to the type of damage the Reaction deals.  
 
-Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only deal damage once every 0.5 seconds.
+Transformative Reactions counts as hits from your character, and can be used to stack the Royal weapons and trigger Favonius weapons (through Nahida C2).  
+
+Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only deal damage once every 0.5 seconds.  
 
 ## Overloaded
 
