@@ -931,11 +931,11 @@ Kazuha a1 deals 2079 DMG, and Swirl does 2020 DMG.
 
 [YouTube](https://youtu.be/4vgO4tkIYbQ)
 
-A1 calc with multiplicative reduction: 1.088 _ 0.5 _ (190/( 90 + 92 + 200)) _ 2 _ 2058 _ 1.919 _ 0.9 = 1923.45
+A1 calc with multiplicative reduction: $1.088*0.5* \frac{190}{90+92+200}*2*2058*1.919*0.9=1923.45$
 
-A1 calc with additive reduction with the Pyro DMG bonus from a2: (1.088 - 0.5) _ (190/( 90 + 92 + 200)) _ 2 _ 2058 _ 1.919 \* 0.9 = 2079.03, same as video
+A1 calc with additive reduction with the Pyro DMG bonus from a4: $(1.088-0.5)*\frac{190}{90+92+200}*2*2058*1.919*0.9=2079.03$, same as video
 
-Swirl calc with no reduction applied: 868.1 _ 2.586 _ 0.9 = 2020.42, same as video
+Swirl calc with no reduction applied: $868.1*2.586*0.9=2020.42$, same as video
 
 (A1 CRITs here or otherwise it is doomed)
 

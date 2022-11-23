@@ -1,0 +1,452 @@
+{
+  "name": "Layla",
+  "star": 4,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 930.0268,
+    "attackBase": 18.16416,
+    "defenseBase": 54.936,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Sword of the Radiant Path",
+        "desc": "**Normal Attack**\nPerforms up to 3 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "51.2%",
+              "55.4%",
+              "59.6%",
+              "65.5%",
+              "69.7%",
+              "74.4%",
+              "81.0%",
+              "87.5%",
+              "94.1%",
+              "101.2%",
+              "108.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "48.5%",
+              "52.4%",
+              "56.4%",
+              "62.0%",
+              "66.0%",
+              "70.5%",
+              "76.7%",
+              "82.9%",
+              "89.1%",
+              "95.8%",
+              "102.6%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "73.0%",
+              "78.9%",
+              "84.9%",
+              "93.3%",
+              "99.3%",
+              "106.1%",
+              "115.4%",
+              "124.7%",
+              "134.1%",
+              "144.3%",
+              "154.4%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "47.7%+52.5%",
+              "51.6%+56.8%",
+              "55.5%+61.1%",
+              "61.0%+67.2%",
+              "64.9%+71.5%",
+              "69.4%+76.4%",
+              "75.5%+83.1%",
+              "81.6%+89.8%",
+              "87.7%+96.5%",
+              "94.3%+103.9%",
+              "101.0%+111.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Nights of Formal Focus",
+        "desc": "Puts forth a shield known as the Curtain of Slumber, dealing **AoE Cryo DMG**.\nThe Curtain of Slumber's DMG Absorption is based on Layla's Max HP and absorbs **Cryo DMG** with 250% effectiveness. When the shield is deployed, Layla will have **Cryo** applied to her briefly.\n\n**Night Stars and Shooting Stars**\nWhile the Curtain of Slumber is active, it will create 1 Night Star that will be attached to it every 1.5s. When a character protected by this shield uses an Elemental Skill, 2 Night Stars will be created. Night Stars can be created once every 0.3s in this way. A maximum of 4 Night Stars can be accumulated at any one time.\nOnce the Curtain of Slumber has accumulated 4 Night Stars and there are opponents nearby, these Night Stars will transform into homing Shooting Stars that will be fired off in sequence, dealing **Cryo DMG** to any opponents hit.\nIf the Curtain of Slumber's duration ends or it is destroyed, the Night Stars will disappear. If they are already being fired off as Shooting Stars, these Shooting Stars will last until this wave of shots ends.\n\nNew Night Stars cannot be created until the previous wave of Shooting Stars has been fired completely.\n\n**\"She and I are like two master artisans who have never met, yet who sit at the same cushioned seat, embroidering the same dream-flower.\"**",
+        "img": "Layla/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "12.8%",
+              "13.8%",
+              "14.7%",
+              "16.0%",
+              "17.0%",
+              "17.9%",
+              "19.2%",
+              "20.5%",
+              "21.8%",
+              "23.0%",
+              "24.3%",
+              "25.6%",
+              "27.2%"
+            ]
+          },
+          {
+            "name": "Shooting Star DMG",
+            "values": [
+              "14.7%",
+              "15.8%",
+              "16.9%",
+              "18.4%",
+              "19.5%",
+              "20.6%",
+              "22.1%",
+              "23.6%",
+              "25.0%",
+              "26.5%",
+              "28.0%",
+              "29.4%",
+              "31.3%"
+            ]
+          },
+          {
+            "name": "Base Shield DMG Absorption",
+            "values": [
+              "10.8% Max HP+1040",
+              "11.6% Max HP+1144",
+              "12.4% Max HP+1257",
+              "13.5% Max HP+1378",
+              "14.3% Max HP+1508",
+              "15.1% Max HP+1647",
+              "16.2% Max HP+1794",
+              "17.3% Max HP+1950",
+              "18.4% Max HP+2115",
+              "19.4% Max HP+2288",
+              "20.5% Max HP+2470",
+              "21.6% Max HP+2661",
+              "22.9% Max HP+2860"
+            ]
+          },
+          {
+            "name": "Shield Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "CD",
+            "value": "12.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Dream of the Star-Stream Shaker",
+      "desc": "Unleashes a Celestial Dreamsphere that constantly fires Starlight Slugs at opponents within its AoE, dealing **Cryo DMG**.\nWhen a Starlight Slug hits, it will generate 1 Night Star for nearby Curtains of Slumber. Each Curtain of Slumber can gain 1 Night Star this way every 0.5s.\n\n**\"Sleep now, sleep now; and may many destinies be revealed before your slumbering eyes, within your star-paved dreams.\"**",
+      "img": "Layla/ult",
+      "talentTable": [
+        {
+          "name": "Starlight Slug DMG",
+          "values": [
+            "4.6% Max HP",
+            "5.0% Max HP",
+            "5.3% Max HP",
+            "5.8% Max HP",
+            "6.2% Max HP",
+            "6.5% Max HP",
+            "7.0% Max HP",
+            "7.4% Max HP",
+            "7.9% Max HP",
+            "8.4% Max HP",
+            "8.8% Max HP",
+            "9.3% Max HP",
+            "9.9% Max HP"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "12.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "40"
+        }
+      ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Like Nascent Light",
+        "desc": "While the **Curtain of Slumber** is active, the Deep Sleep effect will activate each time the Curtain gains 1 Night Star:\n·The Shield Strength of a character under the effect of the Curtain of Slumber increases by 6%.\n·This effect can have a maximum of 4 stacks and persists until the Curtain of Slumber disappears.",
+        "img": "Layla/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Sweet Slumber Undisturbed",
+        "desc": "The DMG dealt by the Shooting Stars fired by **Nights of Formal Focus** is increased by 1.5% of Layla's Max HP.",
+        "img": "Layla/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Shadowy Dream-Signs",
+        "desc": "When Layla crafts Character Talent Materials, she has a 10% chance to receive double the product.",
+        "img": "Layla/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Fortress of Fantasy",
+        "desc": "The Shield Absorption of the Curtain of Slumber generated by **Nights of Formal Focus** is increased by 20%.\nAdditionally, when unleashing Nights of Formal Focus, she will generate a shield for any nearby party members who are not being protected by a Curtain of Slumber. This shield will have 35% of the absorption of a Curtain of Slumber, will last for 12s, and will absorb **Cryo DMG** with 250% effectiveness.",
+        "img": "Layla/const_0"
+      },
+      {
+        "name": "Light's Remit",
+        "desc": "When Shooting Stars from **Nights of Formal Focus** strike opponents, they will each restore 1 Energy to Layla. Each Shooting Star can restore Energy to her in this manner once.",
+        "img": "Layla/const_1"
+      },
+      {
+        "name": "Secrets of the Night",
+        "desc": "Increases the Level of **Nights of Formal Focus** by 3.\nMaximum upgrade level is 15.",
+        "img": "Layla/const_2"
+      },
+      {
+        "name": "Starry Illumination",
+        "desc": "When **Nights of Formal Focus** starts to fire off Shooting Stars, it will grant all nearby party members the Dawn Star effect, causing their Normal and Charged Attack DMG to increase based on 5% of Layla's Max HP.\nDawn Star can last up to 3s and will be removed 0.05s after dealing Normal or Charged Attack DMG.",
+        "img": "Layla/const_3"
+      },
+      {
+        "name": "Stream of Consciousness",
+        "desc": "Increases the Level of **Dream of the Star-Stream Shaker** by 3.\nMaximum upgrade level is 15.",
+        "img": "Layla/const_4"
+      },
+      {
+        "name": "Radiant Soulfire",
+        "desc": "Shooting Stars from **Nights of Formal Focus** deal 40% increased DMG, and Starlight Slugs from **Dream of the Star-Stream Shaker** deal 40% increased DMG.\nAdditionally, the interval between the creation of Night Stars via Nights of Formal Focus is decreased by 20%.",
+        "img": "Layla/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 694.7776489257812
+        },
+        {
+          "stat": "Base DEF",
+          "value": 41.04
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.569876
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1188.4354
+        },
+        {
+          "stat": "Base DEF",
+          "value": 70.2
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.21163
+        },
+        {
+          "stat": "HP%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1846.6459
+        },
+        {
+          "stat": "Base DEF",
+          "value": 109.08
+        },
+        {
+          "stat": "Base ATK",
+          "value": 36.06730270385742
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2340.3037109375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 138.24
+        },
+        {
+          "stat": "Base ATK",
+          "value": 45.70905685424805
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2833.96142578125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 167.4
+        },
+        {
+          "stat": "Base ATK",
+          "value": 55.35081
+        },
+        {
+          "stat": "HP%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3327.619384765625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 196.56
+        },
+        {
+          "stat": "Base ATK",
+          "value": 64.99256
+        },
+        {
+          "stat": "HP%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

@@ -156,7 +156,7 @@ import LumineCA from '../_common/lumine_ca.md'
   * Hydro: within 0.15s before or 0.37s after any tick.
   * Electro: within 0.87s after the 1st tick or between 1.15s and 1.75s after the 1st tick.
 * The **Lea Lotus Lamp** spawns ~1m directly in front of DMC in whatever direction they're facing.
-* The range is ~3 abyss tiles without Hydro Transfiguration and a bit over 5 with Hydro Transfiguration.
+* The radius of the **Lea Lotus Lamp** AoE is ~3 abyss tiles without Hydro Transfiguration and ~5 with Hydro Transfiguration.
 * The **Lea Lotus Lamp** can hold a Cryo aura before it's transfigured and can't be transfigured until the aura is gone.
   * It can also hold a Frozen aura and be Shattered.
 * Summons such as Oz and Guoba will target an untransfigured Lamp when there are no enemies nearby, but will target the enemies otherwise.

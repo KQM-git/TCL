@@ -74,8 +74,8 @@ For updated stats and calculation purposes.
     * if Hydro Transfiguration occurs within 0.15s before or 0.37s after any tick, it's 12 times in total \(instead of 11\).
     * if Electro Transfiguration occurs within 0.87s after the 1st tick or between 1.15s and 1.75s after the 1st tick, it's 18 times in total \(instead of 17\).
 * AoE:
-  * DMC Q spawns ~1m directly in front of MC in whatever direction they're facing, and its range is ~3 abyss tiles or 7.65 meters \(untransfigured, give or take bc of the scalloped edges of the circle\). - [Puffin#9920](https://youtu.be/YhOEblGPr-o)
-  * Hydro-Transfigured DMC Q has a range of 5 and a bit abyss tiles \(12.75-13 meters; again, rough estimates because of uneven scalloped edges\). - [Puffin#9920](https://youtu.be/0RdoS61-GHM)
+  * DMC Q spawns ~1m directly in front of MC in whatever direction they're facing, and the radius of its range is ~3 Abyss tiles or 7.65 meters \(untransfigured, give or take bc of the scalloped edges of the circle\). - [Puffin#9920](https://youtu.be/YhOEblGPr-o)
+  * Hydro-Transfigured DMC Q has a radius of ~5 Abyss tiles \(12.75 meters; again, rough estimates because of uneven scalloped edges\). - [Puffin#9920](https://youtu.be/0RdoS61-GHM)
 * Auras:
   * The Lamp can hold a Cryo aura before it's transfigured. - [graphten#1867](https://youtu.be/fG1czKbuWF8)
   * The Lamp can't hold a Cryo aura after it's transfigured. - [graphten#1867](https://youtu.be/etMTztnsvus)
