@@ -55,6 +55,11 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 342.25%   | 200          | 7            |
 
 </div>
+
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>

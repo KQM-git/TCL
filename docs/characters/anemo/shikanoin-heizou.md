@@ -62,6 +62,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * It is possible to dragon strike with N1C.
 * When swapping out of CA, it's slightly faster to N1 cancel into a swap than doing it normally.
 

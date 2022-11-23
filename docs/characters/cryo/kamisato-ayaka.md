@@ -67,6 +67,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:
   1. A hitscan occurs for enemies in a radius around her after the NA is over.
   2. After selecting an enemy (closest target or random?), Ayaka will spawn a gadget that locks onto that enemy and follows them regardless of her normal range.

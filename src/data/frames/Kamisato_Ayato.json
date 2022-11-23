@@ -3,35 +3,35 @@
         "name": "N1",
         "hitmark": 12,
         "hitlag": 0.03,
-        "default": 21,
+        "next_na": 21,
         "ca": 30
     }, 
     {
         "name": "N2",
         "hitmark": 19,
         "hitlag": 0.03,
-        "default": 33,
+        "next_na": 33,
         "ca": "?"
     },
     {
         "name": "N3",
         "hitmark": 20,
         "hitlag": 0.06,
-        "default": 38,
+        "next_na": 38,
         "ca": "?"
     },
     {
         "name": "N4",
         "hitmark": [22, 25],
         "hitlag": [0, 0],
-        "default": 27,
+        "next_na": 27,
         "ca": "?"
     },
     {
         "name": "N5",
         "hitmark":41 ,
         "hitlag": 0.08,
-        "default": 72,
+        "next_na": 72,
         "ca": "?"
     }],
     "NA (in E)": [
@@ -39,21 +39,21 @@
         "name": "N1 (in E)",
         "hitmark": 6,
         "hitlag": 0.03,
-        "default": 29,
+        "next_na": 29,
         "ca": "N/A"
     },
     {
         "name": "N2 (in E)",
         "hitmark": 6,
         "hitlag": 0.03,
-        "default": 29,
+        "next_na": 29,
         "ca": "N/A"
     },
     {
         "name": "N3 (in E)",
         "hitmark": 6,
         "hitlag": 0.06,
-        "default": 31,
+        "next_na": 31,
         "ca": "N/A"
     }],
     "CA": [{

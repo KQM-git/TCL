@@ -65,6 +65,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Itto can gain **Superlative Superstrength** stacks while off field.
 * Itto's **Superlative Superstrength** stacks persist through character swap.
 * **Arataki Kesagiri Combo Slash** and **Final Slash**'s hitbox can hit enemies located behind Itto.

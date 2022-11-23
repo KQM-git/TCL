@@ -63,6 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
 * Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kaedehara-kazuha.md#dragonstrike-of-n5).
 * Kazuha's 2-hit N3 is "not linked" but his 3-hit N5 is "linked" when it comes to [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering). For more information see this [Vault Entry](../../evidence/equipment/artifacts.md#kazuha-na-interaction-with-echoes).

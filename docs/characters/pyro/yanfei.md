@@ -64,6 +64,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * This stamina consumption reduction applies to all actions
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
 * Yanfei's Charged Attack shatters frozen targets.

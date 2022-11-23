@@ -99,6 +99,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * The DMG Reduction does not take the Hydro DMG% bonus gained from Kazuha's A4 into account.
 * Increased resistance to interruption stacks with other skills of similar effects.
 * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible

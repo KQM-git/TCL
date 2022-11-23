@@ -63,6 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * The Charged Attack visual and audio effect will appear on more than just enemies, as well as even appearing on enemies that don't get lifted at all.
 
 </TabItem>

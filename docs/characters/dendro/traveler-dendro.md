@@ -59,7 +59,8 @@ import AetherCA from '../_common/aether_ca.md'
 
 **Notes**
 
-* Aether is the male traveler.
+* Aether is the male Traveler.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -94,7 +95,8 @@ import LumineCA from '../_common/lumine_ca.md'
 
 **Notes**
 
-* Lumine is the female traveler.
+* Lumine is the female Traveler.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
