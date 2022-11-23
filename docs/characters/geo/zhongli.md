@@ -116,15 +116,19 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Hits that resonate from other Geo Constructss still proc the 4-Piece Tenacity of the Millileth set.
-* **Stone Steles** are considered a Geo Constructs that can be used to block attacks, or climb.
-* Resonation can overlap to deal multiple instances of damage.
+* On cast, **Stone Stele** is placed 1 Abyss Tile in front of Zhongli.
+* Hits that resonate from other Geo Constructs still proc the 4-Piece [Tenacity of the Millileth](../../equipment/artifacts.md#tenacity-of-the-millelith) set.
+* **Stone Steles** are considered Geo Constructs that can be used to block attacks, or climb.
+* **Resonance** can overlap to deal multiple instances of damage.
 * **Stone Steles** resonate independently and with Geo Constructs from enemies, but they do not resonate with each other.
 * The range for the resistance shred is ~3 Abyss tiles.
 * At C0, Hold E does not re-snapshot an existing pillar; at C1 each Stone Stele snapshots on cast, meaning it's possible to have 1 unbuffed **Stone Stele** and 1 buffed **Stone Stele** at the same time.
-* 4TotM does not increase the damage of the **Stone Stele** that procs the effect, because **Stone Stele** Snapshots.
+* 4TotM does not increase the damage of the **Stone Stele** that procs the effect, because **Stone Stele** snapshots.
 * **Stone Stele** will not be placed and will be destroyed instead when Zhongli is standing on a high platform.
-* The Resistance shred lingers for a bit after it breaks/ends.
+* The RES Shred lingers for a bit after it breaks/ends.
+* **Resonances** have a range of 1.5 Abyss Tiles, and the range for resonating with other Geo Constructs is 3 tiles.
+* **Resonance** ICD from **Stone Steles** is shared with other Geo Constructs, C1 **Stone Stele**, and **Planet Befall**.
+* The amount of **Resonance** ticks depends on FPS. For more information see this [Vault Entry](../../evidence/general-mechanics/movement-and-physics.md#tick-tock).
 
 </TabItem>
 
@@ -181,6 +185,7 @@ import Passive from '@site/src/components/char/Passive'
 * This Shield Strength increase occurs after damage is calculated.
 * There is no observable ICD on obtaining Shield Strength stacks.
 * Persists upon swap but not upon refresh.
+* Fortify gets triggered by Aura Checks.
 
 </TabItem>
 
@@ -199,7 +204,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Steles resonate independently and do not resonate with each other
+* Steles resonate independently and do not resonate with each other.
+* C1 **Stone Stele** shares ICD with the other **Stone Stele**.
 
 </TabItem>
 
@@ -226,6 +232,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
+
+* Healing is not triggered by environmental damage or Corrosion.
+* Healing does not have an ICD.
+* Healing triggers 4-Piece [Ocean-Hued Clam](../../equipment/artifacts.md#ocean-hued-clam).
+
 </TabItem>
 </Tabs>
 
