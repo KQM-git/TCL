@@ -157,6 +157,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.
 * Zhongli's Burst has 190 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(3.2s\).
+* Zhongli's Burst cannot shatter Frozen enemies. It also prevents Freeze when enemies are Petrified.
 
 </TabItem>
 </Tabs>
