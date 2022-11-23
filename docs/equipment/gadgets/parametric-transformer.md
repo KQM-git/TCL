@@ -4,14 +4,14 @@
 
 Mona Sprint, Lisa Q, and Electro Crystal are currently the best methods to speed run the Parametric Transformer
 
-Mona dash speedrun example: [https://youtu.be/7ed8Xd8HX24](https://www.youtube.com/watch?v=7ed8Xd8HX24)
+Mona dash speedrun example: [YouTube](https://www.youtube.com/watch?v=7ed8Xd8HX24)
 
 * Start at 3.433, 100% at 12.717, first tick at 3.667
 * 12.717 - 3.433 = 9.284 seconds - full time
 * 12.717 - 3.667 = 9.05 seconds - filling realtime
 
-The reason why no other units can do it faster because Parametric Transformer has an internal cooldown of 0.4 seconds and it takes exactly 18 elemental hits to fill it from 0% to 100%.  
-It cannot receive any elemental source dmg for at least 0.4 seconds in order to reach another step, therefore adding more dmg sources most of the time will not make it progress further, but will delay it.
+The reason why no other units can do it faster because Parametric Transformer has an internal cooldown of 0.4 seconds and it takes exactly 18 Elemental hits to fill it from 0% to 100%.  
+It cannot receive any Elemental source DMG for at least 0.4 seconds in order to reach another step, therefore adding more DMG sources most of the time will not make it progress further, but will delay it.
 
 That's why:
 

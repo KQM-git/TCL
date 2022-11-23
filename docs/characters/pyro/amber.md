@@ -93,12 +93,12 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* The explosion has the blunt attribute that lets it damage shields and shatter frozen enemies like claymores.
-* **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their elemental skills.
+* The explosion has the blunt attribute that lets it damage shields and Shatter Frozen enemies like claymores.
+* **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their Elemental Skills.
 * The explosion radius is smaller than the animation so take care when aiming it.
-* Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen.
-  * Only environmental effects may apply the hydro aura.
-  * Most reactions function properly on this aura, notably: crystalize, swirl, superconduct, and shatter.
+* Baron Bunny is allowed to have a Hydro or Cryo aura, as well as be Frozen.
+  * Only environmental effects may apply the Hydro aura.
+  * Most reactions function properly on this aura, notably: Crystallize, Swirl, Superconduct, and Shatter.
 * Multiple Baron Bunnies can be spawned without C4 when utilizing cooldown reduction effects.
 * **Baron Bunny**'s duration starts when it lands, not when the Skill is casted.
 * If **Baron Bunny** doesn't land on the ground within 10s of being casted, it disappears.
@@ -132,12 +132,12 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Applies 1A worth of pyro 6 times, following normal ICD rules.
+* Applies 1A worth of Pyro 6 times, following normal ICD rules.
 * Does 18 waves total over 2 seconds in the center of the AoE.
 * 8 of the waves cover approximately the outer half the size of the marker.
 * 10 waves cover the inner half of the marker.
 * Anything in the outer half is expected to get hit a random number of times, with closer to the edge being lower in the number of hits.
-* The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent.
+* The random arrow distribution in Amber's Burst makes the reaction potential of her Burst as the trigger very inconsistent.
 
 </TabItem>
 </Tabs>
@@ -170,7 +170,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
+* The second arrow is fired 10 degrees vertically below actual aiming, has separate CRIT, and also makes the primary shot travel further before it starts dropping down.
 * C1 damage instance is considered CA damage.
 * Shared ICD with Charged Attack.
 
@@ -182,7 +182,7 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * Explosion via manual detonation deals 200% additional DMG.
-* C2 damage instance is considered skill damage.
+* C2 damage instance is considered Skill damage.
 * Baron Bunny snapshots.
 * In CO-OP, teammates can manually detonate each other's Baron Bunnies, but the damage bonus will only apply if both players have C2.
 * It can be triggered using Transformative Reactions via Amber's Charged Attacks.  

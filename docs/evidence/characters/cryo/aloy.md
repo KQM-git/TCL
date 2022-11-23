@@ -25,7 +25,7 @@ search: false
   * Prophecies of Dawn: 2B - [BowlSoldier#3528](https://youtu.be/pHSSun_Ec5w)
 * ICD
   * Chillwater Bomblets
-    * Shared ICD on cryo application. - [BowlSoldier#3528](https://youtu.be/dR5p0D6-pp8)
+    * Shared ICD on Cryo application. - [BowlSoldier#3528](https://youtu.be/dR5p0D6-pp8)
     * Follow standard ICD (3 hits/2.5s) - [BowlSoldier#3528](https://youtu.be/mMh8_9bejIA)
   * Infused Normals follow standard ICD (3 hits/2.5s) - [Nass008#8577](https://imgur.com/J1CPb47)
 
@@ -42,7 +42,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 ### Skill Mechanics
 
 * Aloy can gain Coil Stacks while off-field - [anonpuffs#2537](https://youtu.be/3Cfa3apPBgM)
-* Aloy's skill generates 5 particles on Freeze Bomb hit. - [Nass008#8577](https://youtu.be/SaZyf_svcis)
+* Aloy's Skill generates 5 Particles on Freeze Bomb hit. - [Nass008#8577](https://youtu.be/SaZyf_svcis)
 * Interaction between Aloy Chillwater Bomblets and Anemo Characters - Nass008#8577
   * [Chillwater Bomblets can be moved by](https://youtu.be/KgzF-ullDno):
     * Jean: Tap E, Hold E
@@ -53,13 +53,13 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
     * Venti: E, Q
 * Chillwater Bomblets snapshot on Frozen Wilds cast - [Nass008#8577](https://imgur.com/oo2npIc)
 * Sacrificial bow interactions - [Vherax#5321](https://imgur.com/1NGlqTp)
-  * Chillwater Bomblets are able to trigger Sacrificial Bow's elemental skill cooldown reset.
+  * Chillwater Bomblets are able to trigger Sacrificial Bow's Elemental Skill cooldown reset.
   * Recasting Frozen Wilds will make the remaining Chillwater Bomblets from the previous Frozen Wilds cast ~~disappear~~ explode. - [Raven#9205](./aloy.md#aloy-and-sac-bow-interaction)
 * Walls do not block Chillwater Bomblets - BowTae#0141
   * [Imgur](https://imgur.com/Rtkxko2): it's possible to push them through walls
-  * [Imgur](https://imgur.com/CfQRY9d): they may also spawn inside the wall upon skill cast
+  * [Imgur](https://imgur.com/CfQRY9d): they may also spawn inside the wall upon Skill cast
 * Chillwater Bomblets do not float. - [BowTae#0141](https://imgur.com/qZngNjM)
-* Aloy skill cast can also be effected by Anemo abilities
+* Aloy Skill cast can also be effected by Anemo abilities
   * [Anemo MC](https://imgur.com/KsHMsWD): bomb goes to center of tornado then drops straight down and explodes.
 
 ### Burst Mechanics
@@ -93,7 +93,7 @@ The wording in the Aloy Section of the Theorycrafting Library was incorrect, if 
 1. Original evidence from the 'Sacrificial bow Interactions' section by Vherax\#5321  
    [Imgur](https://imgur.com/1NGlqTp)
 2. The author's own testing to corroborate Vherax's original footage  
-   [Youtube](https://youtu.be/G8GhOOIwIXQ)
+   [YouTube](https://youtu.be/G8GhOOIwIXQ)
 
 **Significance:**  
-The bombs explode rather than disappear, and Aloy can still recieve Coil stacks from the previous round of bombs exploding upon skill recast.
+The bombs explode rather than disappear, and Aloy can still recieve Coil stacks from the previous round of bombs exploding upon Skill recast.

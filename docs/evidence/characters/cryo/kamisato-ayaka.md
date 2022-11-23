@@ -32,7 +32,7 @@ search: false
 **Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_870326929893515314_874088594778771476_transcript-ayaka-hitscan-ca.html)
 
-**Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AOE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:
+**Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AoE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:
 
 * First: The gadget will stick to the target, following them even if running outside her range.
 * Second: After a short delay, all enemies inside the gadget range will be targetted for a hit.(Exact range and height unknown)
@@ -51,8 +51,8 @@ search: false
 * [Clips showing Ayaka's CA having a hitbox without gadget](https://www.youtube.com/watch?v=D08yx7p1iHo)
 
 **Significance:**  
-Significance: Knowing how Ayaka's Charge Attack works can help players come up with strats for specific situtaions to maximize damage output.  
-For example, the gadget is smaller than Geovishap's large collision box which means that even though they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are frozen while clipped inside one another they can both be hit.
+Significance: Knowing how Ayaka's Charged Attack works can help players come up with strats for specific situtaions to maximize damage output.  
+For example, the gadget is smaller than Geovishap's large collision box which means that even though they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are Frozen while clipped inside one another they can both be hit.
 
 ### Ayaka CA Conclusion
 
@@ -68,8 +68,8 @@ Ayaka's charged attacks do not necessarily do full damage. After a short delay, 
 [Video](https://youtu.be/jR38Uo03eZU)
 
 1. Enemies are not guaranteed to take full damage.
-2. Enemies can exit the AOE prematurely and take less damage.
-3. Enemies can enter the AOE late and still take some damage.
+2. Enemies can exit the AoE prematurely and take less damage.
+3. Enemies can enter the AoE late and still take some damage.
 4. The gadget is "dropped" the moment the damage starts, meaning it does not stick to the marked enemy for the entire duration (only sticks till enemies start getting hit) and stays at the position it was last at.
 
 **Conclusion:**  
@@ -81,7 +81,7 @@ Ayaka's charged attacks are the first to work in a special way, as follows: When
 * Fourth: A cut with a hitbox will be spawned for each enemy in range of the hitscans. This cut has a hitbox that can hit multiple enemies, but there is an ICD between each cut doing damage to the same enemy. If an enemy leaves the gadget's range while it is still performing the hitscans, the enemy will not be affected by the remaining hitscans. Conversely, the remaining hitscans will affect any enemy that enters the gadget's range even after it has started.
 
 Knowing how Ayaka's Charged Attack works can help players come up with strategies for specific situations to maximize damage output.
-For example, the gadget is smaller than the Geovishap's large collision box which means that even if they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are frozen while clipped inside one another they can both be hit.
+For example, the gadget is smaller than the Geovishap's large collision box which means that even if they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are Frozen while clipped inside one another they can both be hit.
 
 Because the gadget stops following the enemy when it begins its hitscans, it may also be worth waiting for enemies to finish being pulled in by characters such as Venti before using her charged attack. This helps to prevent damage loss by ensuring the hitscans start inside the vortex and not on an enemy that's still being pulled in.
 
@@ -98,7 +98,7 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/0KrA4O_esPo)  
+* [YouTube](https://youtu.be/0KrA4O_esPo)  
   There are timestamps in the comment if you want to skip quicker or instantly replay but the whole video was an attempt at recording this.
 
 * It’s important to note that only the subsequent slashes have this property. If the initial hit does not register onto an enemy, the following slashes will simply appear at around the same vertical height Ayaka used to be right before the animation of the subsequent slashes start. As seen here (provided by Nass008#8577) when she falls down, a few of the secondary slashes hit:  
@@ -119,13 +119,13 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 
 ## Burst Mechanics
 
-* Ayaka's burst is 20 ticks of damage - [Sitri#9504](https://youtu.be/viS7Nim4yMM)
+* Ayaka's Burst is 20 ticks of damage - [Sitri#9504](https://youtu.be/viS7Nim4yMM)
   * 19 ticks of Cutting DMG
     * which follow standard ICD rules - [Sitri#9504](https://youtu.be/0zRg5PCF7dw)
     * which apply 1A Cryo - [Sitri#9504](https://youtu.be/obmfOaYGjis)
   * And 1 tick of Bloom DMG at the end
-* Ayaka's burst snapshots. - [JenjenJL#6582](https://youtu.be/maB6T_h8Rnc)
-* Ayaka's burst stays in place against...
+* Ayaka's Burst snapshots. - [JenjenJL#6582](https://youtu.be/maB6T_h8Rnc)
+* Ayaka's Burst stays in place against...
   * Large enemies - [2ri#0945](https://imgur.com/a/yB126Ja)
   * Frozen enemies
     * Hydro Slime - [2ri#0945](https://imgur.com/ea0mhSl)
@@ -151,7 +151,7 @@ Two additional notes about the pushing effect:
 [Video](https://www.youtube.com/watch?v=oFTAa9vMehw)
 
 **Significance:**  
-Better understanding of Ayaka Q's mechanics to land more hits from her burst.
+Better understanding of Ayaka Q's mechanics to land more hits from her Burst.
 
 ## Constellation Mechanics
 

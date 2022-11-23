@@ -62,7 +62,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Klees's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
-* 3 hits / 2.5s ICD, shared with elemental skill
+* 3 hits / 2.5s ICD, shared with Elemental Skill
 * Enemies struck by Klee's charged attack will be staggered or launched.
 
 </TabItem>
@@ -94,7 +94,7 @@ import Skill from '@site/src/components/char/Skill'
 * Each mine has its own ICD on Pyro application however if they explode on the same frame the Pyro application will be inconsistent \(max 2A per frame\).
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
 * Klee's **Jumpty Dumpty**'s split mines shares an ICD on Pyro application with her Normal Attacks.
-* Can be cancelled before cooldown by **Sparks n&apos; Splash** to activate skill triggered passives for free.
+* Can be cancelled before cooldown by **Sparks n&apos; Splash** to activate Skill triggered passives for free.
 
 </TabItem>
 
@@ -165,8 +165,8 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* This energy is not affected by ER.
-* This energy can proc vs enemy shields
+* This Energy is not affected by ER.
+* This Energy can proc vs enemy shields.
 
 </TabItem>
 </Tabs>
@@ -191,11 +191,11 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * This is effected by Elemental Burst DMG% from Noblesse Oblige.
-* Has a very small AOE
+* Has a very small AoE
 * Has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs.
   * Has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q.
 * When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires.
-* Klee's C1 appears to have a standard ICD for elemental application, and is shared with her burst.
+* Klee's C1 appears to have a standard ICD for Elemental application, and is shared with her Burst.
 
 </TabItem>
 

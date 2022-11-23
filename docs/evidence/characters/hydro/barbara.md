@@ -27,8 +27,8 @@ Reducing Barbara E animation for optimizing the "first heal"
 
 **Evidence:**
 
-* Just Switch: [https://youtu.be/8d4SAxy2yrM](https://youtu.be/8d4SAxy2yrM)
-* Just Switch and Beyond: [https://youtu.be/yBNpbQNPVgg](https://youtu.be/yBNpbQNPVgg)
+* Just Switch: [YouTube](https://youtu.be/8d4SAxy2yrM)
+* Just Switch and Beyond: [YouTube](https://youtu.be/yBNpbQNPVgg)
 
 **Significance**
 
@@ -79,7 +79,7 @@ This was found in v. 3.0 and HoYoverse said that v. 3.1 "Fixes an issue whereby 
 Barbara's water ring triggers on entities.  
   
 **Evidence:**  
-Barbara skill ring is spawning ridiculous numbers of blooms due to an interaction around the classification of Dendro Cores as entities and her ring triggering damage on entering her AoE. This causes her ring to pulsate Hydro every time a Dendro Core enters, meaning that enemies nearby continuously are attempted to have Hydro applied to them, and in 3+ enemy scenarios, this causes the 3-hit condition for ICD to be met near instantaneously, applying Hydro again, making more seeds and creating an infinite loop for as long as there is a Dendro aura.  
+Barbara Skill ring is spawning ridiculous numbers of blooms due to an interaction around the classification of Dendro Cores as entities and her ring triggering damage on entering her AoE. This causes her ring to pulsate Hydro every time a Dendro Core enters, meaning that enemies nearby continuously are attempted to have Hydro applied to them, and in 3+ enemy scenarios, this causes the 3-hit condition for ICD to be met near instantaneously, applying Hydro again, making more seeds and creating an infinite loop for as long as there is a Dendro aura.  
   
 [YouTube](https://youtu.be/i31AYi5apIE)  
 [YouTube](https://youtu.be/tAKXkuK_03A)  

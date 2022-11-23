@@ -20,13 +20,13 @@ Properties of 0 damage attacks:
 * They hit.
 * They can deal poise damage.
 * They don't do damage.
-* They can't crit. (Maybe?)
+* They can't CRIT. (Maybe?)
 * They generally don't have talent tags.
 
 What are 0 damage attacks:
 
-* Some skill activations. (Hu Tao E, Xingqiu Q, Yoimiya Q, Zhongli Q)
-* Some skill's orbitals. (Barbara E, Xingqiu E/Q)
+* Some Skill activations. (Hu Tao E, Xingqiu Q, Yoimiya Q, Zhongli Q)
+* Some Skill's orbitals. (Barbara E, Xingqiu E/Q)
 * Alternate sprints.
 
 How do normal attacks turn into 0 damage attacks:
@@ -37,7 +37,7 @@ How do normal attacks turn into 0 damage attacks:
 What do these attacks still retain:
 
 * Attacks that are turned into 0 damage attacks retain their talent tags.
-* They can still crit.
+* They can still CRIT.
 
 **Evidence:**  
 Immune:
@@ -53,7 +53,7 @@ They don't damage - JonahFarc\#7056:
 
 * [Alt-dash with Royal](https://youtu.be/jCDT6Srrk7Q)
 
-Alt-dashes don't crit:
+Alt-dashes don't CRIT:
 
 * [Favonius](https://youtu.be/Dd30tLsroV8)
 
@@ -70,7 +70,7 @@ Talent tags - BowTae\#0141:
 * [Xingqiu Q activation](https://youtu.be/Z5nbPX1dMDE)
 * [Converted attacks retain tags](https://youtu.be/eLiyC9brA0Q)
 
-Converted attacks critting:
+Converted attacks scoring CRIT hits:
 
 * [YouTube Playlist](https://youtube.com/playlist?list=PLENtasv0WJZdFCLw5YrLyrvj0dgGO1wl1)
 * [Klee A4](https://youtu.be/WRDvOfUysRs) - CQLQRS\#7853

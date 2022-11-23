@@ -4,7 +4,7 @@ description: A horrifying dragon-shaped machine.
 
 # Ruin Drake: Earthguard
 
-It is said to be a war machine left behind by a now-destroyed nation. It mimics the appearance of the beings known as Vishaps, with some functional enhancements. Such machines have an even greater ability to “absorb” — or perhaps the right word is “counteract” — elemental powers than the vishaps.  
+It is said to be a war machine left behind by a now-destroyed nation. It mimics the appearance of the beings known as Vishaps, with some functional enhancements. Such machines have an even greater ability to “absorb” — or perhaps the right word is “counteract” — Elemental powers than the vishaps.  
 From this ability, one can glimpse the scale of the ambition that the civilization that made these machines must have once held…
 
 ## Weakspot Details
