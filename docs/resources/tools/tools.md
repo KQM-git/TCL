@@ -14,37 +14,37 @@ import DocCardList from '@theme/DocCardList';
 
 ### Genshin Optimizer
 
-[https://frzyc.github.io/genshin-optimizer/](https://frzyc.github.io/genshin-optimizer/)  
+[GitHub](https://frzyc.github.io/genshin-optimizer/)  
 _Input artifacts and weapons and let it build your characters for you._
 
 ### gcsim
 
-[https://gcsim.app/](https://gcsim.app/)  
+[GCSIM](https://gcsim.app/)  
 _Team DPS simulator with detailed damage breakdowns._
 
 ### Genshin Center
 
-[https://genshin-center.com](https://genshin-center.com)  
+[Genshin Center](https://genshin-center.com)  
 _Easy-to-use achievement tracker, character ascension planner, and simple damage calculcator._
 
 ### Paimon.moe
 
-[https://paimon.moe/](https://paimon.moe/)  
+[Paimon.moe](https://paimon.moe/)  
 _Wish tracker, character & weapon calculators, task lists, game database, and event timeline._
 
 ### ShinShin.moe
 
-[https://shinshin.moe/](https://shinshin.moe/)  
+[ShinShin.moe](https://shinshin.moe/)  
 _Collage generator for easy-to-share character build cards._
 
 ### Enka.Network
 
-[https://enka.network/](https://enka.network/)  
+[Enka Network](https://enka.network/)  
 _Automatically generated character build cards that use data from the in-game character showcase._
 
 ### Official Interactive Map
 
-[https://act.hoyolab.com/ys/app/interactive-map/index.html](https://act.hoyolab.com/ys/app/interactive-map/index.html)  
+[Hoyolab](https://act.hoyolab.com/ys/app/interactive-map/index.html)  
 _HoYoverse's official interactive map of Teyvat._
 
 ## Spreadsheet Calculators

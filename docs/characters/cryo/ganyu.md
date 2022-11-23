@@ -69,7 +69,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Frostflake Bloom** is considered a Charged Attack.
 * Both **Frostflake Arrow** and **Frostflake Bloom** will apply 1A Cryo.
 * **Frostflake Bloom** will damage enemies within a cylinder regardless of distance from the **Frostflake Arrow** on the same frame.
-* Ganyu's Charged Attacks snapshot on release, including the bloom.
+* Ganyu's Charged Attacks snapshot on release, including the Bloom.
 * Ganyu cannot perform the "ARCC" aimed shot animation cancel without Constellation 6.
 * Fully Charged Frostflake Arrows have an Airspeed Velocity of approximately 55 m/s.  
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
@@ -102,7 +102,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * The taunt applies to all enemies in the game that are not considered bosses.
-* **Ice Lotus** will generate particles on cast and when it expires or is destroyed.
+* **Ice Lotus** will generate Particles on cast and when it expires or is destroyed.
 * Multiple **Ice Lotuses** can be spawned without C2 Ganyu when using cooldown reduction effects.
 * **Ice Lotus** will be placed mid-air when Ganyu is standing on a high platform.
 
@@ -174,7 +174,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent bursts off cooldown within the radius of the prior burst. This buff can be snapshotted.
+* **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent Bursts off cooldown within the radius of the prior Burst. This buff can be snapshotted.
 
 </TabItem>
 </Tabs>

@@ -18,7 +18,7 @@ None.
 
 ## Resistance Table
 
-All res -50% while stunned.
+All RES -50% while stunned.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |

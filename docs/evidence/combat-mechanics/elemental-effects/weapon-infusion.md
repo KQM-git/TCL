@@ -16,12 +16,12 @@ sidebar_position: 6001
 
 **Finding:**  
 Weapon infusions that are not explicitly stated to be "unable to be overwritten" operate through applying
-elemental gauges to the weapon itself. The Pyro > Cryo > Electro paradigm of infusion overwriting is a result of gauges
+Elemental gauges to the weapon itself. The Pyro > Cryo > Electro paradigm of infusion overwriting is a result of gauges.
 interacting with each other in specific ways that yield the appearance of a hierarchy, but is not true.
 
 **Evidence:**
 
-* [Youtube infusion tests](https://youtu.be/rJKYkrvlnxg)
+* [YouTube infusion tests](https://youtu.be/rJKYkrvlnxg)
 * [Infusion Tests GIF](https://imgur.com/a/wAchZUi)
 * [Diluc/Chongyun Infusion](https://imgur.com/a/mbixEuJ)
 
@@ -29,7 +29,7 @@ interacting with each other in specific ways that yield the appearance of a hier
 Weapon Elemental Gauge Units or WU, can be used to describe the strength of Weapon infusions. Keqing infuses her
 weapon once on double casting E and Diluc infuses his weapon every 0.5 seconds if it isn't imbued with Pyro.
 The duration of these gauges differs between characters. Reactions on weapons follow the known reaction modifier rules
-from other types of elemental application, and similar to Self-auras, can oscillate directly between elements without shifting to physical.
+from other types of Elemental application, and similar to Self-auras, can oscillate directly between elements without shifting to Physical.
 
 # Arrow Infusion
 
@@ -47,6 +47,6 @@ Venti’s arrows are swirled in the rain and Amber’s arrows are vaporized in t
 
 * [Venti swirling twice in the rain](https://youtu.be/5hX2UeGsLXc)
 * [Amber vaporizing in the rain](https://youtu.be/qXwODL_xtuk)
-* [Rain swirl damage](https://youtu.be/yT7cYnd8wHo)
+* [Rain Swirl damage](https://youtu.be/yT7cYnd8wHo)
 
 **Conclusion:** Arrows are entities that are infused with the same aura they apply.

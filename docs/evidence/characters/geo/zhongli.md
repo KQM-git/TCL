@@ -66,13 +66,13 @@ In other words having two pillars from C1 will double the damage from resonance.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928609238002053131_931322938953728050_transcript-zhongli-shred-linger.html)
 
 **Finding:**  
-Zhongli's shield RES shred lingers for a bit after it breaks/ends.
+Zhongli's shield RES Shred lingers for a bit after it breaks/ends.
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=FwohwAKylSo) (credits: Kolibri\#7675)
+[YouTube](https://www.youtube.com/watch?v=FwohwAKylSo) (credits: Kolibri\#7675)
 
 **Significance:**  
-Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fischl, etc. if it breaks/ends early
+Zhongli's shred can last for more hits of Xingqiu's Rain Swords/Beidou procs/Fischl, etc. if it breaks/ends early
 
 ### Zhongli RES Shred Range
 
@@ -135,7 +135,7 @@ Zhongli Stats \(without 4TotM\):
   * Hold E damage: \(431\*136%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 719.7
   * Tap E damage: \(431\*27.20%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 451.6
   * Resonance damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 518.6
-  * Resonance w/RES shred damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*1.05\*0.49 = 605.0
+  * Resonance w/RES Shred damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*1.05\*0.49 = 605.0
 
 4TotM didn't apply to either of these:
 
@@ -242,10 +242,10 @@ This allows for more accurate Zhongli shield calculations, as well as any future
 **Last tested:** <VersionHl date="2021-04-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836279063760732201_836642776217026620_transcript-zhongli-a1-no-icd.html)
 
-**Finding:** Zhongli's A1 passive has either no ICD or an extremely negligible one
+**Finding:** Zhongli's A1 Passive has either no ICD or an extremely negligible one
 
 **Evidence:**  
-[Video:](https://youtu.be/nrML_xrMJPc) Walked into dendro samachurl burn and immediately checked character window to see shield strength maxed
+[Video:](https://youtu.be/nrML_xrMJPc) Walked into Dendro samachurl burn and immediately checked character window to see shield strength maxed
 
 **Significance:**  
 Zhongli's shield is ridiculously effective against DoT as it stacks immediately to maximum.
@@ -300,11 +300,11 @@ Zhongli C2 affects his own Burst when casting as do the 15% DMG bonus from Geo R
 * Burst with no shield: 48k
 * Burst with Geo resonance and no shield: 52k
 * Burst with Geo resonance and shield: 52k
-* Burst with Geo resonance shield and res down: 57k
+* Burst with Geo resonance shield and RES down: 57k
 * The shield is formed at the end of the Burst animation.
 
 **Significance:**  
-For the highest damage apply the Geo res down before pressing Burst.
+For the highest damage apply the Geo RES down before pressing Burst.
 
 ### C6: Chrysos, Bounty of Dominator
 
@@ -340,7 +340,8 @@ Allows for more accurate DPS calculations when using Zhongli and C6 Fischl toget
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839089619743539230_840068304864280586_transcript-4pc-tom-zhongli-interaction.html)
 
 **Finding:**  
-4pc ToM passive can be triggered by other Geo Constructs when it is in range of zhongli's pillar
+4pc TotM passive can be triggered by other Geo Constructs when it is in range of Zhongli's pillar
+
 
 **Evidence:**
 
@@ -349,4 +350,4 @@ Allows for more accurate DPS calculations when using Zhongli and C6 Fischl toget
 * [Test with Ningguang](https://www.youtube.com/watch?v=J7fJY0Q3Iqs)
 
 **Significance:**  
-This make triggering the 4pc ToM passive easier with Zhongli when playing with other geo characters
+This make triggering the 4-Piece TotM passive easier with Zhongli when playing with other Geo characters

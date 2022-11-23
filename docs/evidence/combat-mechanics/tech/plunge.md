@@ -21,7 +21,7 @@ If you dash into enemy and jump at the same time, you can perform a plunging att
 [Video](https://www.youtube.com/watch?v=jmRe7FS_T0Q)
 
 **Significance:**  
-The only practical significance on this is yet another way to break Fatui Geo Chanter energy armour without claymore, Geo damage, or overload reactions;
+The only practical significance on this is yet another way to break Fatui Geo Chanter Energy armour without claymore, Geo damage, or Overload reactions;
 since plunges do damage to it. Hard staggering an Abyss mage might be another use for this. This move also looks really cool to execute.
 
 ## No Dash Dragonstrike
@@ -32,30 +32,30 @@ since plunges do damage to it. Hard staggering an Abyss mage might be another us
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896163835248001034_902207648726908938_transcript-no-dash-dragonstrike.html)
 
 **Finding:**  
-You can jump right before the hitlag occurs on certain moves, giving you enough height to plunge. This is similar to Dragonstrike, but does not require dashing first. This is frame rate dependent as for some of the moves listed below, we were only able to do the tech at 30 fps and not 60 fps. The list is also not exhaustive and there may have been some that we missed out on.
+You can jump right before the hitlag occurs on certain moves, giving you enough height to plunge. This is similar to Dragonstrike, but does not require dashing first. This is frame rate dependent as for some of the moves listed below, we were only able to do the tech at 30 FPS and not 60 FPS. The list is also not exhaustive and there may have been some that we missed out on.
 
 **Evidence:**  
 Qiqi Skill
 
-* [30 fps](https://youtu.be/zumumTW6Yqc)
-* [60 fps](https://youtu.be/Um1oXMVAAXg)
+* [30 FPS](https://youtu.be/zumumTW6Yqc)
+* [60 FPS](https://youtu.be/Um1oXMVAAXg)
 
 Beidou Skill
 
-* [30 fps](https://youtu.be/td9VQrouKh4)
-* [60 fps](https://youtu.be/DiFl5ZQ_rUw)
+* [30 FPS](https://youtu.be/td9VQrouKh4)
+* [60 FPS](https://youtu.be/DiFl5ZQ_rUw)
 
 Raxor Skill
 
-* [30 fps only](https://youtu.be/OxBj-1oa2SQ)
+* [30 FPS only](https://youtu.be/OxBj-1oa2SQ)
 
 Keqing Tap Skill Teleport
 
-* [30 fps](https://youtu.be/SaA45XhNypU)
-* [60 fps with caveats](https://youtu.be/VPZlo9sSqGc)
+* [30 FPS](https://youtu.be/SaA45XhNypU)
+* [60 FPS with caveats](https://youtu.be/VPZlo9sSqGc)
 * [Keqing stays on the ground](https://youtu.be/UPlyT5bJiro)
 
-From many attempts with Keqing at 60fps, the stiletto must be placed ABOVE the ground in order for her to do No Dash DS. Regardless of Stiletto height, Keqing will teleport on the ground with Tap Skill, but the higher Stiletto placement lets Keqing gain height during her jump a couple frames earlier, which is just enough to get a plunge. Keqing can No Dash DS at 30 fps at any Stiletto height.
+From many attempts with Keqing at 60fps, the stiletto must be placed ABOVE the ground in order for her to do No Dash DS. Regardless of Stiletto height, Keqing will teleport on the ground with Tap Skill, but the higher Stiletto placement lets Keqing gain height during her jump a couple frames earlier, which is just enough to get a plunge. Keqing can No Dash DS at 30 FPS at any Stiletto height.
 
 **Significance:**  
 You are able to do the equivalent of Dragonstrike without needing to spend stamina for these moves. This may also provide better positioning in situations where doing a dash jump would move you too far away from the enemy for the plunge to hit.
@@ -71,18 +71,18 @@ You are able to do the equivalent of Dragonstrike without needing to spend stami
 Occasionally, tall characters are able to jump high enough on flat ground to plunge or glide. This can be done with all current tall characters (patch 2.1) and does not require any movement speed buffs. Works while in landing, idle, and jogging animation, with no specific frames that guarantee a plunge. Does not work while canceling an attack with jump, as the jump height is lower.
 
 **Evidence:**  
-Here's a video of all tall characters as of patch 2.1 doing a flat ground plunge: [Youtube](https://youtu.be/ZuXTD-lDX5M)
+Here's a video of all tall characters as of patch 2.1 doing a flat ground plunge: [YouTube](https://youtu.be/ZuXTD-lDX5M)
 
 Idle plunge: [Imgur](https://imgur.com/JzwCHFt)
 
-Jogging plunge: [Youtube](https://youtu.be/bwq6XVIYKw0)
+Jogging plunge: [YouTube](https://youtu.be/bwq6XVIYKw0)
 
 The exact frames that this works on are either ping related, or outside the player's control.
 
-Here is a video of raiden jumping and eventually plunging: [Youtube](https://youtu.be/33fDqBo-I7U)  
+Here is a video of raiden jumping and eventually plunging: [YouTube](https://youtu.be/33fDqBo-I7U)  
 Starting at 0:47, I counted the number of frames Raiden takes between landing and jumping. The plunge happens when Raiden lands for 7 frames before jumping. However, in this clip, I also land for 7 frames and jump four other times, without getting a plunge, so even being frame-perfect does not guarantee a plunge.
 
-Video of variable jump height: [Youtube](https://youtu.be/LglDsm3mX0U)  
+Video of variable jump height: [YouTube](https://youtu.be/LglDsm3mX0U)  
 Higher jumps happen at 0:11, 1:12, 1:21, 1:35, and 1:50  
 I include frame counts for the first few jumps, and then the jumps after the last high jump at 1:50. The high jump happens after 6 frames of landing. I jump 6 frames after landing several times at the beginning of the video, without getting a high jump.  
 My ping doesn't seem to fluctuate greatly at the moments these jumps occur.  
@@ -118,14 +118,14 @@ Empty jump: [Imgur](https://imgur.com/l4CxYj8)
 Plunge attack: [Imgur](https://imgur.com/uoVg569)  
 Switch cooldown: [Imgur](https://imgur.com/arv4hoG)
 
-Various skills:  
+Various Skills:  
 [Imgur 1](https://imgur.com/lzqfuLG)  
 [Imgur 2](https://imgur.com/b0Kb9Kw)  
 [Imgur 3](https://imgur.com/UwWgrFH)  
 [Imgur 4](https://imgur.com/xzRsK8E)
 
 Keqing Switch Plunge:  
-Keqing's hold skill allows her to teleport above the ground. If cast slightly above the ground, it is possible to switch characters in midair, allowing for the entering character to jump and plunge.  
+Keqing's hold Skill allows her to teleport above the ground. If cast slightly above the ground, it is possible to switch characters in midair, allowing for the entering character to jump and plunge.  
 [Imgur](https://imgur.com/fpnIttx)
 
 Evidence of 30ms ping switch plunge, courtesy of deaf#0246:

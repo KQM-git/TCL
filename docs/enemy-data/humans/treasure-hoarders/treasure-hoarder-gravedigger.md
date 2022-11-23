@@ -14,10 +14,10 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 75% HP       | 1 particle  | common  |
-| 50% HP       | 1 particle  | common  |
-| 25% HP       | 1 particle  | common  |
-| Death        | 2 particles | common  |
+| 75% HP       | 1 Particle  | Clear  |
+| 50% HP       | 1 Particle  | Clear  |
+| 25% HP       | 1 Particle  | Clear  |
+| Death        | 2 Particles | Clear  |
 
 ## Resistance Table
 
@@ -48,5 +48,5 @@ Head.
 
 ## Attacks
 
-* Does a short charge-up before swinging its' shovel at the player.
+* Does a short charge-up before swinging its shovel at the player.
 * Digs up some dirt, then throws it at the player. If the dirt hits the player, it will restrict the player's vision for a short while.

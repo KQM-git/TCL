@@ -17,7 +17,7 @@ search: false
 * Gauges - Nass008\#8577
   * E: 1U - [Imgur](https://imgur.com/etqEtrf)
   * Q Initial Hit: 2U - [Imgur](https://youtu.be/Od_n0SFK6x8)
-  * Q Coordinated Atk: 1U - [Imgur](https://imgur.com/uM78uT9)
+  * Q Coordinated ATK: 1U - [Imgur](https://imgur.com/uM78uT9)
 * ICD
   * NA follows standard ICD - [YouTube](https://youtu.be/GkWJO_tWn50) - Bobrokrot\#0111
   * Thoma Q follows standard ICD - [YouTube](https://youtu.be/L2y1hf-RqO4) / Deprecated frame data - [Imgur](https://imgur.com/MDSh99X) - Nass008\#8577
@@ -81,7 +81,7 @@ Evidence:
 
 ### C1: A Comrade's Duty
 
-* Some anemo abilities can activate Thoma C1 - [D.....K](https://youtu.be/8g6pn8LdQ0Q)
+* Some Anemo abilities can activate Thoma C1 - [D.....K](https://youtu.be/8g6pn8LdQ0Q)
   * Reliable: AMC hold E/Q, Sayu hold E
   * Unreliable: Kazuha hold/tap E, Q, Sucrose Q, AMC tap E
   * Cannot activate: Sucrose E, Sayu tap E, Sayu Q

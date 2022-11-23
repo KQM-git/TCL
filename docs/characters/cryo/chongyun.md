@@ -158,7 +158,7 @@ import Passive from '@site/src/components/char/Passive'
 
 * The **Spirit Blade** is considered Elemental Skill damage.
 * The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.
-* No ICD on elemental application
+* No ICD on Elemental application
 
 </TabItem>
 </Tabs>

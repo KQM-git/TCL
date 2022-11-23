@@ -85,7 +85,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Will only grant one stack of the Pale Flame artifact 4pc bonus per cast.
+* Will only grant one stack of the Pale Flame artifact 4-Piece bonus per cast.
 
 </TabItem>
 
@@ -145,7 +145,7 @@ import Passive from '@site/src/components/char/Passive'
 * Either damage instance of **Ravaging Confession** can trigger this passive.
 * This CRIT Rate increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the CRIT RATE sharing.
 * Rosaria doesn't gain the CRIT Rate bonus unless the use of **Ravaging Confession** lands her behind the enemy.
-  * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT Rate bonus.
+  * If Rosaria starts her Skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT Rate bonus.
   * For enemies who don’t have visual distinction between front and behind, Rosaria can still activate her A1 by hitting them from certain angles.
 
 </TabItem>

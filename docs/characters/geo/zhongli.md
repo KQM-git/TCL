@@ -214,7 +214,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The shield is visually granted after the burst, but all shield bonuses are active for the burst damage.
+* The shield is visually granted after the Burst, but all shield bonuses are active for the Burst damage.
 
 </TabItem>
 

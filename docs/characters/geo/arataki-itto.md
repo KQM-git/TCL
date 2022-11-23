@@ -97,7 +97,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Ushi counts towards the Geo construct limit.
+* Ushi counts towards the Geo Constructs limit.
 * Ushi's duration starts at land, not on cast.
 * Hold E has a maximum 10s timer.
 * Ushi still persists and gains stacks after teleporting.
@@ -131,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
   * Itto's converted Normal and Charged Attacks have standard 3 hit / 2.5s ICD.
 * **Royal Descent: Behold, Itto the Evil!**'s duration can be extended through hitlag.
 * **Royal Descent: Behold, Itto the Evil!** can expire in the middle of a CA string.
-* Burst duration can significantly extend past its normal duration by doing an attack at the end of burst. This extension ends immediately on any action after the final attack.
+* Burst duration can significantly extend past its normal duration by doing an attack at the end of Burst. This extension ends immediately on any action after the final attack.
 * Using **Royal Descent: Behold, Itto the Evil!** during N1 hitlag also gives **Superlative Strength** stacks.
 
 </TabItem>

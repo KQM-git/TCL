@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type        | Element |
 | :----------- | :---------- | :------ |
-| 66% HP       | 2 particles | cryo    |
-| 33% HP       | 2 particles | cryo    |
-| Death        | 2 particles | cryo    |
+| 66% HP       | 2 Particles | Cryo    |
+| 33% HP       | 2 Particles | Cryo    |
+| Death        | 2 Particles | Cryo    |
 
 ## Resistance Table
 
@@ -49,9 +49,9 @@ All resistances +100% additive increase while armored.
 
 ## Attacks
 
-* Infues itself with a cryo armor, gaining great resistance and empowering certain attacks. The armor will have its' resistance against most elements increased, but has a great weakness to pyro elemental application.
-* Stops in place and starts spraying around with its' gun around aiming at the player.
+* Infues itself with a Cryo armor, gaining great resistance and empowering certain attacks. The armor will have its resistance against most elements increased, but has a great weakness to Pyro Elemental application.
+* Stops in place and starts spraying around with its gun around aiming at the player.
   * While armored: Walks forward towards the player.
-* Leaps in the air for a great distance with the help of propulsion from its' cryo tubes, dealing damage on landing.
+* Leaps in the air for a great distance with the help of propulsion from its Cryo tubes, dealing damage on landing.
   * While armored: this attack is executed much faster.
 * Charges up for a brief moment before belly slamming into the player.
