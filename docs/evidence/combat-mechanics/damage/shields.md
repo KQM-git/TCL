@@ -40,7 +40,7 @@ Damage reduction applies before shields are calculated.
 
 **Shields are more effective on characters with high defense.**
 
-## How Elemental Shields having 250% Absorption Bonus to said element Work
+## How Elemental Shields having 250% Absorption Bonus to said Element Work
 
 **By:** Türin\#8565
 
@@ -52,8 +52,8 @@ With Cryo Absorption Bonus, Diona takes 2.5 points of Cryo Damage for every 1 po
 
 **Evidence:**
 
-My original math is in the description of the video. [https://www.youtube.com/watch?v=Gk41KCMjfCI&feature=youtu.be](https://www.youtube.com/watch?v=Gk41KCMjfCI&feature=youtu.be)
+My original math is in the description of the video. [YouTube](https://www.youtube.com/watch?v=Gk41KCMjfCI&feature=youtu.be)
 
 **Significance:**
 
-Other shield effectiveness is not accounted for, but it stands to reason that they work the same way. We can both say that a shield has 2.5x of its current value, or the damage is reduced by 2.5x, against it's effective element.
+Other shield effectiveness is not accounted for, but it stands to reason that they work the same way. We can both say that a shield has 2.5x of its current value, or the damage is reduced by 2.5x, against it's effective Element.

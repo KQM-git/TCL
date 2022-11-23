@@ -15,13 +15,13 @@ Head.
 
 | HP Threshold | Type       | Element         |
 | :----------- | :--------- | :-------------- |
-| 66% HP       | 1 particle | infused element |
-| 33% HP       | 1 particle | infused element |
-| Death        | 1 orb      | infused element |
+| 66% HP       | 1 Particle | infused Element |
+| 33% HP       | 1 Particle | infused Element |
+| Death        | 1 Orb      | infused Element |
 
 ## Resistance Table
 
-All geovishaps have +20% (30% total) resistance to the element they infuse with upon transformation.
+All geovishaps have +20% (30% total) resistance to the Element they infuse with upon transformation.
 
 | Damage Type | Resistance |
 | :---------- | :--------- |
@@ -50,22 +50,22 @@ All geovishaps have +20% (30% total) resistance to the element they infuse with 
 
 ## Attacks
 
-* After losing enough health or enough time has passed, the geovishap will infuse itself with a pre-determined element. Depending on the element, its' attacks will be empowered.
+* After losing enough health or enough time has passed, the geovishap will infuse itself with a pre-determined Element. Depending on the Element, its attacks will be empowered.
 * Curls up into a ball and charges towards your location. Subsequently, after charging, it will sometimes perform a single jump attack.
-* Performs two jump attacks, jumping in the air and landing on your location in a small AoE. After this attack, it will temporarily be stunned on its' back for a couple seconds.
+* Performs two jump attacks, jumping in the air and landing on your location in a small AoE. After this attack, it will temporarily be stunned on its back for a couple seconds.
   * Cryo: After landing, several spots will appear on the ground near the Geovishap that will deal Cryo damage after a few seconds.
   * Pyro: Deals AoE Pyro damage after landing.
   * Electro: After landing, it sends out several Electro orbs that fly around for a few seconds before dissipating, coming into contact with these orbs will deal Electro damage.
   * Hydro: Deals AoE Hydro damage after landing.
-* Approaches the player and performs a slash with its' right hand claws then punch its' left hand into the ground.
-  * Cryo: The slash deals physical damage and the punch deals Cryo damage.
+* Approaches the player and performs a slash with its right hand claws then punch its left hand into the ground.
+  * Cryo: The slash deals Physical damage and the punch deals Cryo damage.
   * Pyro: Both the slash and punch are infused with Pyro.
-  * Electro: The slash deals physical damage and the punch will send out several Electro orbs, similar to the jump attack.
-  * Hydro: The slash deals physical damage and the punch deals Hydro damage
-* Slams its' right hand onto the ground sending out a line of small spikes coming out of the ground towards player location, then its' left hand sending out another line of spikes, and finally, with both hands sending out two lines at once.
-  * Cryo: The spikes deal physical damage. A ring of spots appears around the Geovishap that will deal Cryo damage after a few seconds.
+  * Electro: The slash deals Physical damage and the punch will send out several Electro orbs, similar to the jump attack.
+  * Hydro: The slash deals Physical damage and the punch deals Hydro damage
+* Slams its right hand onto the ground sending out a line of small spikes coming out of the ground towards player location, then its left hand sending out another line of spikes, and finally, with both hands sending out two lines at once.
+  * Cryo: The spikes deal Physical damage. A ring of spots appears around the Geovishap that will deal Cryo damage after a few seconds.
   * Pyro: The spikes deal Pyro damage.
-  * Electro: The spikes deal physical damage. After the attack, several Electro orbs will be send out.
+  * Electro: The spikes deal Physical damage. After the attack, several Electro orbs will be sent out.
   * Hydro: The slashes deal Hydro damage.
 * Other abilities:
   * The Hydro variant will periodically and visibly mark the player. The mark will follow the player for several seconds before becoming stationary, giving the player the opportunity to avoid the attack, and then dealing some Hydro damage.

@@ -36,10 +36,10 @@ Faster Travel.
 
 Test consists of 9 different positions next to a "launchable" cliff, each of them separate by two single 'taps' forward using Diona \(except for the last \#9 which is a single tap due to not enough space\). After marking both the starting and landing position of each character, it is clear that `dash-off` velocity is not linear and could reflect your character's velocity at the moment it loses it's ground.
 
-Comparison from top \(screenshots\) for each position - [https://imgur.com/a/Sr311lx](https://imgur.com/a/Sr311lx)  
-Comparison by position - [https://imgur.com/a/9kHirR3](https://imgur.com/a/9kHirR3)  
-Comparison by character - [https://imgur.com/a/XZu1Qni](https://imgur.com/a/XZu1Qni)  
-Raw video \(timestamps in description\) - [https://www.youtube.com/watch?v=D2km0PDWnVA](https://www.youtube.com/watch?v=D2km0PDWnVA)
+Comparison from top \(screenshots\) for each position - [YouTube](https://imgur.com/a/Sr311lx)  
+Comparison by position - [YouTube](https://imgur.com/a/9kHirR3)  
+Comparison by character - [YouTube](https://imgur.com/a/XZu1Qni)  
+Raw video \(timestamps in description\) - [YouTube](https://www.youtube.com/watch?v=D2km0PDWnVA)
 
 Results depending on position:
 
@@ -136,7 +136,7 @@ Time stamps available in spreadsheet + video descriptions
 **Significance:**
 The fastest movement technique for a short distance is to chain dashes together with equal spacing between them with an adult male as they have the biggest strides. This will ensure your dash has more uptime than simply dash spamming. For long-distance you will do the same, dash chaining with maximum dash uptime on an adult male then switching to a teen male for the last dash of your stamina charge and chaining b-hops from thereon.
 
-Demonstration: [Youtube](https://youtu.be/H950uTOSTQs)
+Demonstration: [YouTube](https://youtu.be/H950uTOSTQs)
 
 A 10% movement speed buff does not cause b-hopping with other model types to be faster than a teen male with the same buff. However, I am still yet to test 20%/20% effects although not expected to change either.
 
@@ -240,19 +240,19 @@ f = (a, b) => Math.sqrt((a.x - b.x) ** 2 + (a.z - b.z) ** 2);
 sp = { x: 2556.41943359375, y: 226.09994506835938, z: 99.05547332763672 };
 // no bonus end
 ap = { x: 2447.570068359375, y: 226.08108520507812, z: 59.62977981567383 };
-// anemo end
+// Anemo end
 bp = { x: 2438.5205078125, y: 226.08163452148438, z: 56.352020263671875 };
 // c6 amber
 cp = { x: 2433.970947265625, y: 226.0803680419922, z: 54.70412063598633 };
-// anemo + c2 jean
+// Anemo + c2 jean
 dp = { x: 2422.114013671875, y: 226.08883666992188, z: 50.40952682495117 };
-// anemo + rosaria + c2 jean
+// Anemo + rosaria + c2 jean
 ep = { x: 2411.67822265625, y: 226.0984649658203, z: 46.56678771972656 };
-// anemo + rosaria + c6 amber
+// Anemo + rosaria + c6 amber
 fp = { x: 2413.02001953125, y: 226.0989227294922, z: 47.11567687988281 };
-// anemo + rosaria + c2 jean + c6 amber - ~1s downtime due to c6 amber
+// Anemo + rosaria + c2 jean + c6 amber - ~1s downtime due to c6 amber
 gp = { x: 2407.254638671875, y: 226.0986328125, z: 45.02743911743164 };
-// anemo + rosaria
+// Anemo + rosaria
 hp = { x: 2427.69140625, y: 226.08416748046875, z: 52.35829162597656 };
 
 qd = f(sp, ap);
@@ -262,7 +262,7 @@ rd = f(sp, dp);
 td = f(sp, ep);
 yd = f(sp, fp);
 ud = f(sp, gp);
-id = f(sp, hp);
+id = f(sp, HP);
 
 console.log(
   wd / qd,
@@ -356,7 +356,7 @@ Having increased movespeed is now potentially practical. It allows an additional
 **Finding:**  
 There is a limit to how much movement speed decreases one can do onto a mob. The limit seems to be an approximate of 80~85% decrease.
 
-* Adding up the different movement speeds, you would get a decrease of 150% speed with the usage of the Charity tower, Glacial bloom, and Banishment tower. However, this is not the case here. It seems that after a certain point the mob will not have their speed decreased. (This note was assuming additive decrease)
+* Adding up the different movement speeds, you would get a decrease of 150% speed with the usage of the Charity tower, Glacial Bloom, and Banishment tower. However, this is not the case here. It seems that after a certain point the mob will not have their speed decreased. (This note was assuming additive decrease)
 
 * Although the enemy's movement animations are slowed, and can be seen as though they are going through a slowed time; their knock back effects and being attacked animation's speeds are not changed (can be seen in the first two video links)
 
@@ -366,25 +366,25 @@ There is a limit to how much movement speed decreases one can do onto a mob. The
 
 * The slowness follows a log curve when following the highest movement speed stacking as a base, however, follows (loosely) an exponential decrease when simply following descriptive movement speed decrease.
 
-* The maximum seems to cave towards 80~85% (82% being closer towards the max.) So unless there is a much much higher movement speed decrease skill, getting anywhere close to 80% movement speed decrease is nigh impossible without at least another movement speed decrease debuff.
+* The maximum seems to cave towards 80~85% (82% being closer towards the max.) So unless there is a much much higher movement speed decrease Skill, getting anywhere close to 80% movement speed decrease is nigh impossible without at least another movement speed decrease debuff.
 
-* Speed increasing skills stack alongside these, although this is outside of the scope of this TC, it can be seen with the samuchurl in the first stage being sped up while being in a slow down tower.
+* Speed increasing Skills stack alongside these, although this is outside of the scope of this TC, it can be seen with the samuchurl in the first stage being sped up while being in a slow down tower.
 
 * Frame = .033ms for my video editor, thus the frames counted may be within +-.17ms off (unless otherwise stated)
 
 **Evidence:**  
 The first 5 are mainly visuals with numbers made through previous attempts to make a formula:  
-[Youtube](https://www.youtube.com/watch?v=cvrF9JW4mlE) - (Two Tower; “90%” reduction)  
-[Youtube](https://www.youtube.com/watch?v=z4Nw2NBjpiY) - (Three Tower: “150%” reduction)  
-[Youtube](https://www.youtube.com/watch?v=FcT9RVHOnas) - (Combinations tested)  
-[Youtube](https://www.youtube.com/watch?v=Spa1vVxpqpI) - (Comparison of 70% and 90%)  
-[Youtube](https://www.youtube.com/watch?v=XBRMR6vwT-8) - (Most likely multiplicative when multiple mov. decrease are stacked with each other)  
-[Youtube](https://www.youtube.com/watch?v=eFHZTdne2UQ) - (Frame counted and placed as SPM (Steps Per Minute.) The sheets below shows the overall data.)
+[YouTube](https://www.youtube.com/watch?v=cvrF9JW4mlE) - (Two Tower; “90%” reduction)  
+[YouTube](https://www.youtube.com/watch?v=z4Nw2NBjpiY) - (Three Tower: “150%” reduction)  
+[YouTube](https://www.youtube.com/watch?v=FcT9RVHOnas) - (Combinations tested)  
+[YouTube](https://www.youtube.com/watch?v=Spa1vVxpqpI) - (Comparison of 70% and 90%)  
+[YouTube](https://www.youtube.com/watch?v=XBRMR6vwT-8) - (Most likely multiplicative when multiple mov. decrease are stacked with each other)  
+[YouTube](https://www.youtube.com/watch?v=eFHZTdne2UQ) - (Frame counted and placed as SPM (Steps Per Minute.) The sheets below shows the overall data.)
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/12B-EM7xgonfF5xRLMpZCMW1s6jI3rPJXhd1hOjZGeZ8/edit?usp=sharing) - Sheets with contradictions for any specific formula for movement speed decrease on mobs and slightly conflicting information for certain movement speed decrease towers. Also contains graphs of best fit.
 
 **Significance:**  
-If there were ever characters that were able to decrease mob speed (and almost likewise, character speed from mobs) then without a bind, a freeze status, or similar, mobs will only be slowed and never not be able to ‘stay put’ or be unable to physically move.
+If there were ever characters that were able to decrease mob speed (and almost likewise, character speed from mobs) then without a bind, a Freeze status, or similar, mobs will only be slowed and never not be able to ‘stay put’ or be unable to physically move.
 
 ### Speed Comparsion Between Walk Jump And Continuous Walk
 
@@ -410,7 +410,7 @@ The ranking from fastest to slowest is:
 10. CW Child Female
 
 **Evidence:**  
-Video displaying side by side comparison of all body types: [Youtube](https://youtu.be/Z8ROXAgikn8)
+Video displaying side by side comparison of all body types: [YouTube](https://youtu.be/Z8ROXAgikn8)
 
 **Significance:**  
 Allows players to pick up best way to move while regenerating stamina.
@@ -427,7 +427,7 @@ Model skeleton height differences do not matter in movement (at least in walking
 Currently tested for adult male model.
 
 **Evidence:**  
-[Youtube](https://youtu.be/jdHZWQ5Pbd8)
+[YouTube](https://youtu.be/jdHZWQ5Pbd8)
 
 **Significance:**  
 Picking a taller character of the same skeleton model will not increase the velocity or distance covered. Be aware that height DOES matter in walk to swim transition and vice versa.
@@ -520,7 +520,7 @@ There are different \(at least 4\) ways the game keeps track of time.
     * Example: Skill cooldowns 
 4. Entity time:  
     * The time that passes for an entity/the player, gets paused by menus when not in Co-Op, does have a max time that can get processed per frame, and it also gets affected by hitlag that gets applied to said entity. \(Not global, unique per enemy/the player\)  
-    * Example: Skills which duration get extended by hitlag \(e.g.: not deployables\), elemental auras
+    * Example: Skills which duration get extended by hitlag \(e.g.: not deployables\), Elemental auras
 
 **Evidence 3:**  
 1. Real time:
@@ -550,7 +550,7 @@ This split could potentially be abused even further in the future.
 Game time and cursed time can get out of sync when pause spamming.  
   
 **Evidence 4:**  
-Spamming pause \(by opening a menu\) and closes it again while under the effect of Holy Water healing causes the healing timer to tick more than normally possible.  
+Spamming pause \(by opening a menu\) and closes it again while under the effect of Holy Water healing causes the healing timer to tick more tha Normally possible.  
 
 Videos:  
 * 170 HP Holy Water: [YouTube](https://youtu.be/Nk7nN2lJhG0)  
@@ -614,13 +614,13 @@ Push/pull effects are dynamic across team members
 
 Across these 3 videos, there is a consistent interaction of a push effect being generated on Venti, which is then completely nullified when Venti is switched off-field. The timing of the character switch is varied between the clips, but the result is the same.
 
-Practicality of this? Ehhhhhh, there are only two enemies I can think of that generate a force while not knocking the player to the floor- which are the anemo samachurls and Boreas during his 2nd phase cutscene.
+Practicality of this? Ehhhhhh, there are only two enemies I can think of that generate a force while not knocking the player to the floor- which are the Anemo samachurls and Boreas during his 2nd phase cutscene.
 
 In this [clip](https://imgur.com/a/1q4unpo), character swap ended up making the pull effect reapply for each character swapped in rather then nullifying it. Character swapping inside the little whirlwind made the pull stronger rather than weaker lmao.
 
 We can also see here that the boreas wolf push also applies multiple instances of pushes rather than a single big push, making the character swap ineffective here too. At this point, I realized that the devs probably knew players would probably find a method to negate push effects, so push effects were coded in a way to prevent negating them.
 
-**Significance:** Maybe when miHoYo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
+**Significance:** Maybe when miHoYo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an Anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
 
 ### Waypoint Teleport Variance
 

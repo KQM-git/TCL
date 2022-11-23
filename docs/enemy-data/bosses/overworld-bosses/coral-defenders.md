@@ -8,10 +8,10 @@ description: The herd consists of a particularly powerful Bolteater Bathysmal Vi
 
 | HP Threshold | Type       | Element     |
 | :----------- | :--------- | :---------- |
-| 75% HP       | 1 particle | Own Element |
-| 50% HP       | 1 particle | Own Element |
-| 25% HP       | 1 particle | Own Element |
-| Death        | 1 orb      | Own Element |
+| 75% HP       | 1 Particle | Own Element |
+| 50% HP       | 1 Particle | Own Element |
+| 25% HP       | 1 Particle | Own Element |
+| Death        | 1 Orb      | Own Element |
 
 ## Resistance Table
 

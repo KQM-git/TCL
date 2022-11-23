@@ -136,10 +136,10 @@ import Skill from '@site/src/components/char/Skill'
 * The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel.
 * **Titanbreaker** and **Stormcluster** do not share ICDs.
 * Both **Titanbreaker** and **Stormcluster** damage is snapshot on **Subjugation: Koukou Sendou** cast.
-* For Sara's ATK bonus to apply, a character needs to be hit by **Titanbreaker** or **Stormclusters**.
+* For Sara's ATK Bonus to apply, a character needs to be hit by **Titanbreaker** or **Stormclusters**.
   * Multiple characters can be buffed this way.
 * **Titanbreaker** targets closest enemy, then **Stormcluster** moves outward in a plus-shape with one branch directed at Sara’s location at time of cast, dealing 5 hits each.
-* **Subjugation: Koukou Sendou** does not benefit from its own attack bonus.
+* **Subjugation: Koukou Sendou** does not benefit from its own ATK Bonus.
 
 </TabItem>
 </Tabs>

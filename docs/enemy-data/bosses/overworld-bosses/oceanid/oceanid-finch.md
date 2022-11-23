@@ -43,4 +43,4 @@ Unknown.
 
 * Pounce from close range.
 * Can do small leaps or big leaps that deal heavy splash damage on hit.
-* Upon death, the finch creates a water bomb that explodes in a massive AoE on its' height level.
+* Upon death, the finch creates a water bomb that explodes in a massive AoE on its height level.

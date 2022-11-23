@@ -12,8 +12,8 @@ Picking up items from the bottom of the list is about 85% faster than from the t
 
 ### Ice Bridge
 
-* You can cross the water by applying cryo on water surface.
-  * Ayaka can infinitely sprint across large bodies of water using her Dash and infused Normal Attacks to freeze the water for herself. She has time for about four basic attacks before you should dash again to avoid falling into the water.
+* You can cross the water by applying Cryo on water surface.
+  * Ayaka can infinitely sprint across large bodies of water using her Dash and infused Normal Attacks to Freeze the water for herself. She has time for about four basic attacks before you should dash again to avoid falling into the water.
 
 ### Always wait for Mora before Teleporting
 
@@ -45,7 +45,7 @@ You can switch fishing baits when the bobber is in mid-air.
 
 ### Co-Op Trolling
 
-There are several ways to grief other people trying to fish in co-op:
+There are several ways to grief other people trying to fish in Co-op:
 
 * Use collision to move others far enough from their original fishing position to cancel their fishing.
 * Use Albedo's Elemental Skill to raise others off the ground and cancel their fishing.
@@ -72,7 +72,7 @@ Stamina restoration food doesn't restore stamina for the Waverider.
 ### Buff Effects on Waverider
 
 * The Waverider is unaffected by any buffs that directly affect it, such as ATK buffs, movement speed, and stamina reduction.
-* Buffs and debuffs that affect enemies and not the Waverider itself, such as RES shred, DEF shred, and Mona's Omen, do work on the Waverider's attacks.
+* Buffs and debuffs that affect enemies and not the Waverider itself, such as RES Shred, DEF Shred, and Mona's Omen, do work on the Waverider's attacks.
 
 ## Evidence Vault
 
