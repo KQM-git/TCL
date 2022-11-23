@@ -113,6 +113,10 @@ description: For entries that have little practical use.
 
 * Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some [odd properties](../evidence/general-mechanics/miscellaneous-entries.md#kuki-shinobus-melons).
 
+## A Strange Visual Effect That Only Shows Up When Holding Sprint
+
+* Holding down sprint in specific cases produces a [Strange Effect](../evidence/general-mechanics/miscellaneous-entries.md#a-strange-visual-effect-that-only-shows-up-when-holding-sprint).
+
 ## 100K Tickets Event Hall of Fame
 
 The winning "TC" entries of our **KQM 100K Event**, as well as some of our Scholars personal favourites.
