@@ -62,6 +62,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
 * 3 hits / 2.5s ICD, shared with tap Elemental Skill.
 

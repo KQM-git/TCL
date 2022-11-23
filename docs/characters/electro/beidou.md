@@ -65,6 +65,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
 * Beidou's normal attack string concludes with a kick to the sword with her foot. Whether her model makes contact with the claymore depends on the model size of the claymore. We can conclude that it is intended to be a kick to the claymore because a sound will play no matter what model size the claymore.
 

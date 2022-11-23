@@ -63,6 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Kokomi's Normal Attacks...
   * Apply Hydro and share a 3 hit / 2.5s ICD.
   * Have a range of ~6 tiles before it stops auto-targetting.

@@ -62,8 +62,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Charged Attack has a wind up of 89 frames.
-* All frame counts are done against Ruin Guards.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 

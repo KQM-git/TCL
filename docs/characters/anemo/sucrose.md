@@ -65,6 +65,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * N1 is bugged and sometimes will not exist, but there are ways to work around it. See this [Vault Entry](../../evidence/characters/anemo/sucrose.md#sucrose-n1-bug-misconceptions-and-workarounds) for more details.
 
 </TabItem>

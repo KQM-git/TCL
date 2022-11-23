@@ -70,6 +70,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
 * Hu Tao's [Vape MV/s](/img/hutaovapemvs.jpg)

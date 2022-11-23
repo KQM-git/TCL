@@ -71,6 +71,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Keqing's N1C is her highest damage combo but is stamina hungry.
   * N4C is a comparable damage combo that is less stamina intensive.
 * Keqing's N4 does not give i-frame.

@@ -3,98 +3,98 @@
         "name": "N1",
         "release": 17,
         "hitlag": 0,
-        "default": 26
+        "next_na": 26
     }, 
     {
         "name": "N2",
         "release": 8,
         "hitlag": 0,
-        "default": 27
+        "next_na": 27
     },
     {
         "name": "N3",
         "release": 15,
         "hitlag": 0,
-        "default": 33
+        "next_na": 33
     },
     {
         "name": "N4",
         "release": 19,
         "hitlag": 0,
-        "default": 32
+        "next_na": 32
     },
     {
         "name": "N5",
         "release": 11,
         "hitlag": 0,
-        "default": 33
+        "next_na": 33
     },
     {
         "name": "N6",
         "release": 14,
         "hitlag": 0,
-        "default": 66
+        "next_na": 66
     }],
     "NA (in E)": [{
         "name": "N1 (in E)",
         "hitmark": 8,
         "hitlag": 0.03,
-        "default": 16,
+        "next_na": 16,
         "ca": 29
     }, 
     {
         "name": "N2 (in E)",
         "hitmark": 6,
         "hitlag": 0.03,
-        "default": 17,
+        "next_na": 17,
         "ca": 29
     },
     {
         "name": "N3 (in E)",
         "hitmark": 16,
         "hitlag": 0.06,
-        "default": 40,
+        "next_na": 40,
         "ca": 45
     },
     {
         "name": "N4 (in E)",
         "hitmark": 7,
         "hitlag": 0.06,
-        "default": 41,
+        "next_na": 41,
         "ca": 45
     },
     {
         "name": "N5 (in E)",
         "hitmark": 7,
         "hitlag": 0.06,
-        "default": 30,
+        "next_na": 30,
         "ca": 31
     },
     {
         "name": "N6 (in E)",
         "hitmark": [4, 16],
         "hitlag": [0.03, 0.12],
-        "default": 82,
+        "next_na": 82,
         "ca": "N/A"
     }],
     "CA": [{
         "name": "CA (Physical)",
         "release": 15,
         "hitlag": 0,
-        "default": 25
+        "n1": 25
     },
     {
         "name": "CA (Elemental)",
         "release": 86,
         "hitlag": 0,
-        "default": 94,
+        "n1": 94,
         "notes": "Hitlag is 0.12s if it hits a weakspot"
     }],
     "CA (in E)": {
         "name": "CA (in E)",
         "hitmark": [14, 27],
         "hitlag": [0, 0],
-        "default": 55,
+        "n1": 55,
         "skill": 29,
         "burst": 29,
         "dash": 14,

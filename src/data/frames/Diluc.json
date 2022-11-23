@@ -3,25 +3,25 @@
         "name": "N1",
         "hitmark": 23,
         "hitlag": 0.10,
-        "default": 41
+        "next_na": 41
     }, 
     {
         "name": "N2",
         "hitmark": 37,
         "hitlag": 0.09,
-        "default": 56
+        "next_na": 56
     },
     {
         "name": "N3",
         "hitmark": 26,
         "hitlag": 0.09,
-        "default": 44
+        "next_na": 44
     },
     {
         "name": "N4",
         "hitmark": 48,
         "hitlag": 0.12,
-        "default": 111
+        "next_na": 111
     }],
     "Skill": [{
         "name": "1-Hit",

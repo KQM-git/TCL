@@ -63,7 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* All frame counts are done against Ruin Guards.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Enemies struck by Bennett's charged attack will be staggered or launched.
 
 </TabItem>

@@ -3,7 +3,7 @@
         "name": "N1",
         "release": 4,
         "hitlag": 0,
-        "default": 14,
+        "next_na": 14,
         "ca": 19,
         "walk": 30
     }, 
@@ -11,7 +11,7 @@
         "name": "N2",
         "release": 12,
         "hitlag": 0,
-        "default": 30,
+        "next_na": 30,
         "ca": 34,
         "walk": 35
     },
@@ -19,7 +19,7 @@
         "name": "N3",
         "release": 12,
         "hitlag": 0,
-        "default": 65,
+        "next_na": 65,
         "ca": 59,
         "walk": 61
     }],

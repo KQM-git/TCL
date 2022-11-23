@@ -3,70 +3,70 @@
         "name": "N1",
         "hitmark": 14,
         "hitlag": 0.02,
-        "default": 24,
+        "next_na": 24,
         "ca": 30
     }, 
     {
         "name": "N2",
         "hitmark": 9,
         "hitlag": 0.02,
-        "default": 19,
+        "next_na": 19,
         "ca": 32
     },
     {
         "name": "N3",
         "hitmark": 14,
         "hitlag": 0.02,
-        "default": 32,
+        "next_na": 32,
         "ca": 42
     },
     {
         "name": "N4",
         "hitmark": [14, 27],
         "hitlag": [0, 0],
-        "default": 41,
+        "next_na": 41,
         "ca": 57
     },
     {
         "name": "N5",
         "hitmark": 34,
         "hitlag": 0.02,
-        "default": 56,
+        "next_na": 56,
         "ca": "N/A"
     }],
     "NA (in Q)": [{
         "name": "N1",
         "hitmark": 12,
         "hitlag": 0.02,
-        "default": 25,
+        "next_na": 25,
         "ca": 30
     }, 
     {
         "name": "N2",
         "hitmark": 13,
         "hitlag": 0.02,
-        "default": 22,
+        "next_na": 22,
         "ca": 32
     },
     {
         "name": "N3",
         "hitmark": 11,
         "hitlag": 0.02,
-        "default": 22,
+        "next_na": 22,
         "ca": 40
     },
     {
         "name": "N4",
         "hitmark": [22, 33],
         "hitlag": [0, 0],
-        "default": 44,
+        "next_na": 44,
         "ca": 67
     },
     {
         "name": "N5",
         "hitmark": 33,
         "hitlag": 0.02,
-        "default": 65,
+        "next_na": 65,
         "ca": "N/A"
     }],
     "CA": {

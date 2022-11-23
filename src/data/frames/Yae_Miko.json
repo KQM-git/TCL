@@ -3,21 +3,21 @@
         "name": "N1",
         "release": 14,
         "hitlag": 0,
-        "default": 16,
+        "next_na": 16,
         "ca": 28
     }, 
     {
         "name": "N2",
         "release": 22,
         "hitlag": 0,
-        "default": 36,
+        "next_na": 36,
         "ca": 40
     },
     {
         "name": "N3",
         "release": 33,
         "hitlag": 0,
-        "default": 79,
+        "next_na": 79,
         "ca": 74
     }],
     "CA": {

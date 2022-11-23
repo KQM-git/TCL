@@ -67,7 +67,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Frame counts are done using M1 Spams.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Mona's 3rd Normal Attack has 2 different animations. She will either jump backwards or forward depending on the position of her target.
 * 3 hits / 2.5s ICD
 * Charged Attack frame counts are done using Timed M1 Spams

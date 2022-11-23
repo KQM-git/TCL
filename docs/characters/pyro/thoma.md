@@ -59,6 +59,11 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
+
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -84,7 +89,7 @@ import Skill from '@site/src/components/char/Skill'
 | Shield DMG Absorption \(T9%\)     | 12.24% Max HP + 1410 |
 | Max Shield DMG Absorption \(T9%\) | 33.32% Max HP + 3838 |
 | Shield Element                    | Pyro                 |
-| Shield Duration                   | 8 s                  |
+| Shield Duration                   | 8s                   |
 | CD                                | 15s                  |
 
 </div>

@@ -69,6 +69,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Xiao's Charged Attacks share an ICD on Anemo application with his Normal Attacks when under the effects of Bane of All Evil.
 * All of the stated Talent DMG% doesn't include the Normal Attack Modifier from Q.
 

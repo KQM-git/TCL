@@ -56,7 +56,9 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes:**
-* N2 is a blunt attack
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* N2 is a blunt attack.
   
 </TabItem>
 

@@ -3,25 +3,25 @@
         "name": "N1",
         "release": 16,
         "hitlag": 0,
-        "default": 24
+        "next_na": 24
     }, 
     {
         "name": "N2",
         "release": 14,
         "hitlag": 0,
-        "default": 25
+        "next_na": 25
     },
     {
         "name": "N3",
         "release": 22,
         "hitlag": 0,
-        "default": 43
+        "next_na": 43
     },
     {
         "name": "N4",
         "release": 32,
         "hitlag": 0,
-        "default": 65
+        "next_na": 65
     }],
     "Skill": {
         "name": "Cast",

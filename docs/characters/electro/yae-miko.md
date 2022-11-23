@@ -60,6 +60,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Normal Attacks have a 3 hit/2.5s ICD.
 * Charged Attacks have no ICD.
 * Charged Attacks can hit the same enemy twice if the hitbox is large enough. e.g. Azhdaha.

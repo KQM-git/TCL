@@ -60,6 +60,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Normal Attacks apply Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang's Normal Attacks can be cancelled as soon as the **Star Jades** appear by her side by jumping or dashing.
 * Charged Attacks and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.

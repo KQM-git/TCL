@@ -3,28 +3,28 @@
         "name": "N1",
         "hitmark": 13,
         "hitlag": 0.06,
-        "default": 28,
+        "next_na": 28,
         "ca": 29
     }, 
     {
         "name": "N2",
         "hitmark": 18,
         "hitlag": 0.09,
-        "default": 37,
+        "next_na": 37,
         "ca": 35
     },
     {
         "name": "N3",
         "hitmark": [10, 23],
         "hitlag": [0, 0],
-        "default": 31,
+        "next_na": 31,
         "ca": 32
     },
     {
         "name": "N4",
         "hitmark": 20,
         "hitlag": 0,
-        "default": 58,
+        "next_na": 58,
         "ca": "N/A"
     }],
     "CA": {
