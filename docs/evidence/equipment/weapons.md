@@ -815,7 +815,7 @@ When you can run Yun Jin on deathmatch, the passive snapshot can sometimes maint
 **Significance:**  
 Grasscutter + 4ESF have better synergy.
 
-#### Engulfing Lightning ER% Buff and Off-Field Interaction
+#### Engulfing Lightning ER% buff and off-field Interaction
 
 **By:** TWICE\#9958  
 **Added:** <Version date="2022-11-24" />  
