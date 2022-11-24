@@ -815,6 +815,23 @@ When you can run Yun Jin on deathmatch, the passive snapshot can sometimes maint
 **Significance:**  
 Grasscutter + 4ESF have better synergy.
 
+#### Engulfing Lightning ER% Buff and Off-Field Interaction
+
+**By:** TWICE\#9958  
+**Added:** <Version date="2022-11-24" />  
+**Last tested:** <VersionHl date="2022-11-24" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/el-passive)
+
+**Finding:**  
+Engulfing Lightning's ER% buff stays on the character even after switching.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/qiXb-Nf5Urw)  
+Shenhe has R1 EL equipped, as you can tell from the NAs. 201.1% ER before swapping, keeps the ER% buff (for 231.1% ER total) after swapping  
+  
+**Significance:**  
+In case people have questions of the buff not staying post-switch/off-field for some reason
+
 ---
 
 ### Fading Twilight
