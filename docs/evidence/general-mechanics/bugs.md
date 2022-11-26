@@ -420,50 +420,7 @@ This can be also done without the negative edge N1, but requires a 1 frame M1 cl
 **Significance:**  
 The Archer class really is made up of archers!
 
-## Enemies
-
-### Disappearing Fatui When They Shouldn't
-
-**By:** Asaki\#9139  
-**Added:** <Version date="2022-08-24" />  
-**Last tested:** <VersionHl date="2022-08-24" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/disappearing-fatuis-when-they-shouldnt)
-
-**Bug:**  
-_Occasionally_, Cryogunner Legionnaires will not fully land on the ground after their jump attack pattern while also producing janky hit & collision boxes.
-
-**Evidence:**  
-This is not simply a visual bug, but rather they physically stay in the air, while acting as if they’re grounded: Their collision box would be grounded \(as evidenced by Raiden’s inability to dash out of that spot due to hitbox collision\) while their hitbox would be in air \(as evidenced by Xingqiu’s tracking\).
-
-30FPS – [YouTube](https://youtu.be/9ymcQuMMF1k)  
-60FPS – [YouTube](https://youtu.be/cWvyfqh48XI)
-
-If you slow it frame by frame on the 60FPS video, you’ll see some numbers left in the air right before the Cryogunner re-materialises.
-
-Similarly, the collision of the Crackling Axe Mitachurl is grounded while it is performing the jump attack.
-
-Credits to makeway4pK\#3901 – [YouTube](https://youtu.be/UtVt4Z8Hbfs)
-
-**Significance:**  
-Just another one amongst annoying Fatui _mechanics_.
-
-## Miscellaneous
-
-### Particles Move While Game is Paused
-
-**By:** Anmol43\#1917 and paimonbukeyi\#4732  
-**Added:** <Version date="2021-04-05" />  
-**Last tested:** <VersionHl date="2021-04-05" />
-
-**Finding:** Elemental Particles don't stop moving even when you open a pause menu. You can absorb Particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
-
-**Evidence:**
-
-* [YouTube](https://youtu.be/7H84lGcZf8s)
-* [YouTube](https://imgur.com/a/770PQ9Y)
-
-**Significance:**  
-Allows characters to quickly absorb Particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
+## Characters
 
 ### Xiangling's Burst can Stack in Contending Tides Event
 
@@ -498,22 +455,6 @@ Xiangling's Burst can stack in the Contending Tides event.
 * This causes Xiangling's Burst to last for a REALLY long time \(about 45-ish seconds\)
 * These stacks can be maintained in the open world, so if you want to do something like kill the Cryo regisvine in 4 seconds you can do that
 * You have to press M and then P in quick succession, because you can't abandon challenge in the map so you have to buffer it by pushing M and then P quickly[ ](https://youtu.be/V9_AoUDVKaY)
-
-### Artifact Inventory size affects Wishing
-
-**By:** George#0766  
-**Added:** <Version date="2021-09-25" />  
-**Last tested:** <VersionHl date="2021-09-25" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890023724240216064_891163055684223016_transcript-artifact-inventory-size.html)
-
-**Finding:**  
-If your artifact inventory is near full (993/1000 in this case) you get an "No space left in inventory" when trying to 10-pull
-
-**Evidence:**  
-[Video](https://youtu.be/toy57DZwUhA): Skip to 1:40 after the beginning to see that 10-pulls are allowed after clearing up space
-
-**Significance:**  
-This check already exists if you try to collect artifacts with a near full inventory, wishes may operate similarly or this could just be a bug.
 
 ### Sprinting Bug
 
@@ -605,7 +546,140 @@ There is a small chance that when you use Mona's Press E, the explosion damage a
 
 It can happen against any enemy, and it seems to be a random occurrence. It doesn't seems to follow any pattern \(in some tests it would happen 1 time in 10 mins, in others it would happen 2 times in 2 mins\). It doesn't seems to be related to Mona's Cons, Weapons, Artifacts, neither to mechanical input or ping. It doesn't happens if you use Hold E, only on Press E. Don't know if this bug happened in previous patches. Thanks to @Aluminum \| Harbinger of Jank for one of the clips.
 
-**Significance:** If this bug can be replicated consistently, it can double Mona's Energy Generation + a minimal increase in damage.
+**Significance:**  
+If this bug can be replicated consistently, it can double Mona's Energy Generation + a minimal increase in damage.
+
+### Characters Steal Burst From Each Others
+
+**By:** yourmom\#3033  
+**Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/characters-can-steal-ults-from-each-other-and-do-dumb-stuff-with-it)
+
+**Finding:**  
+If you swap fast enough, the character you swap to can "steal" another characters ult  
+animation
+
+**Evidence:**  
+[YouTube](https://youtu.be/s1L-Cy3Pa_E)  
+This works for characters that "summons" objects such as childe, raiden, hutao, etc
+
+**Significance:**  
+You can make anyone the Geo Archon now.
+### Aimed Abilities Not Going Where Aimed
+
+**By:** Rathalos\#2875 and Casdela\#5121  
+**Added:** <Version date="2022-07-28" />  
+**Last tested:** <VersionHl date="2022-07-28" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/somewhat-360-no-scope)
+
+**Finding:**  
+It is possible for the aimed versions of certain abilities to spawn their respective objects in a different location from initially intended. This is done by rapidly panning/moving the camera after releasing it. It can vary depending on the execution, going so far as to appearing directly behind certain characters.
+
+This mechanic applies to the following:
+
+* Albedo's E, Solar Isotoma
+* Arataki Itto's E, Masatsu Zetsugi: Akaushi Burst
+* Gorou's E, Inuzaka All-Round Defense
+* Fischl's E, Nightrider
+* Keqing's E, Stellar Restoration
+
+**Evidence:**
+
+* [Albedo](https://youtu.be/K94bKHVg7U8)
+* [Gorou, Arataki Itto, Fischl](https://youtu.be/FRACwPMYlR4)
+* [Keqing](https://youtu.be/ZrYrZ2hTHng)
+* [GMC](https://youtu.be/MDdIv1bUkQc)
+* [GMC](https://youtu.be/WlN9nLtQ7SU)
+
+**Significance:**  
+Better understanding of these characters and aimed abilities. Possible tech for some players looking for some level of Skill expression, despite how benign it is.
+
+### Nahida Airlines
+
+**By:** Lilith✨\#1073  
+**Added:** <Version date="2022-11-24" />  
+**Last tested:** <VersionHl date="2022-11-24" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nahida-airlines)
+
+:::caution
+**3.2 Update Details:**  
+"Fixes an issue whereby some characters would stop swimming or float in the air abnormally under certain circumstances."  
+\- [HoYoverse](https://genshin.hoyoverse.com/en/news/detail/25356)
+:::
+
+**Bug:**  
+When a character is near the edge of a platform above a body of water and jump, their jump will be changed to a diving animation. However, if they're in the middle of an idle animation or camera pose, the dive animation doesn't happen until the character is back to normal pose, during this time the character is in some kind of floating state and can move indefinitely in any direction if pushed.  
+  
+**Evidence:**  
+* Float down: [YouTube](https://youtu.be/e_6eA3nzZl0)  
+* Float with the camera: [YouTube](https://youtu.be/Em5Fp1bM4D4)  
+* Elevator float and air walk: [YouTube](https://youtu.be/7vuOOWmYoC0)  
+  
+**Significance:**  
+Travel with style, and do it quickly before it's patched
+
+## Enemies
+
+### Disappearing Fatui When They Shouldn't
+
+**By:** Asaki\#9139  
+**Added:** <Version date="2022-08-24" />  
+**Last tested:** <VersionHl date="2022-08-24" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/disappearing-fatuis-when-they-shouldnt)
+
+**Bug:**  
+_Occasionally_, Cryogunner Legionnaires will not fully land on the ground after their jump attack pattern while also producing janky hit & collision boxes.
+
+**Evidence:**  
+This is not simply a visual bug, but rather they physically stay in the air, while acting as if they’re grounded: Their collision box would be grounded \(as evidenced by Raiden’s inability to dash out of that spot due to hitbox collision\) while their hitbox would be in air \(as evidenced by Xingqiu’s tracking\).
+
+30FPS – [YouTube](https://youtu.be/9ymcQuMMF1k)  
+60FPS – [YouTube](https://youtu.be/cWvyfqh48XI)
+
+If you slow it frame by frame on the 60FPS video, you’ll see some numbers left in the air right before the Cryogunner re-materialises.
+
+Similarly, the collision of the Crackling Axe Mitachurl is grounded while it is performing the jump attack.
+
+Credits to makeway4pK\#3901 – [YouTube](https://youtu.be/UtVt4Z8Hbfs)
+
+**Significance:**  
+Just another one amongst annoying Fatui _mechanics_.
+
+## Miscellaneous
+
+### Particles Move While Game is Paused
+
+**By:** Anmol43\#1917 and paimonbukeyi\#4732  
+**Added:** <Version date="2021-04-05" />  
+**Last tested:** <VersionHl date="2021-04-05" />
+
+**Finding:** Elemental Particles don't stop moving even when you open a pause menu. You can absorb Particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
+
+**Evidence:**
+
+* [YouTube](https://youtu.be/7H84lGcZf8s)
+* [YouTube](https://imgur.com/a/770PQ9Y)
+
+**Significance:**  
+Allows characters to quickly absorb Particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
+
+### Artifact Inventory size affects Wishing
+
+**By:** George#0766  
+**Added:** <Version date="2021-09-25" />  
+**Last tested:** <VersionHl date="2021-09-25" />  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890023724240216064_891163055684223016_transcript-artifact-inventory-size.html)
+
+**Finding:**  
+If your artifact inventory is near full (993/1000 in this case) you get an "No space left in inventory" when trying to 10-pull
+
+**Evidence:**  
+[Video](https://youtu.be/toy57DZwUhA): Skip to 1:40 after the beginning to see that 10-pulls are allowed after clearing up space
+
+**Significance:**  
+This check already exists if you try to collect artifacts with a near full inventory, wishes may operate similarly or this could just be a bug.
+
 
 ### Infinite Torch
 
@@ -639,24 +713,6 @@ Lightning Struck Trees have a high chance of breaking if you swap characters nea
 **Significance:**  
  Understanding overworld mechanics. May inhibit exploration of tatarasuna for new players.
 
-### Characters Steal Burst From Each Others
-
-**By:** yourmom\#3033  
-**Added:** <Version date="2022-07-21" />  
-**Last tested:** <VersionHl date="2022-07-21" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/characters-can-steal-ults-from-each-other-and-do-dumb-stuff-with-it)
-
-**Finding:**  
-If you swap fast enough, the character you swap to can "steal" another characters ult  
-animation
-
-**Evidence:**  
-[YouTube](https://youtu.be/s1L-Cy3Pa_E)  
-This works for characters that "summons" objects such as childe, raiden, hutao, etc
-
-**Significance:**  
-You can make anyone the Geo Archon now.
-
 ### Fishing Is Kinda Boring
 
 **By:** Aevean Leeow\#1362  
@@ -672,32 +728,3 @@ You can attack with fishing rod if you exit fishing while ping is turbo or you a
 
 **Significance:**  
 They should make fishing more engaging imo.
-
-### Aimed Abilities Not Going Where Aimed
-
-**By:** Rathalos\#2875 and Casdela\#5121  
-**Added:** <Version date="2022-07-28" />  
-**Last tested:** <VersionHl date="2022-07-28" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/somewhat-360-no-scope)
-
-**Finding:**  
-It is possible for the aimed versions of certain abilities to spawn their respective objects in a different location from initially intended. This is done by rapidly panning/moving the camera after releasing it. It can vary depending on the execution, going so far as to appearing directly behind certain characters.
-
-This mechanic applies to the following:
-
-* Albedo's E, Solar Isotoma
-* Arataki Itto's E, Masatsu Zetsugi: Akaushi Burst
-* Gorou's E, Inuzaka All-Round Defense
-* Fischl's E, Nightrider
-* Keqing's E, Stellar Restoration
-
-**Evidence:**
-
-* [Albedo](https://youtu.be/K94bKHVg7U8)
-* [Gorou, Arataki Itto, Fischl](https://youtu.be/FRACwPMYlR4)
-* [Keqing](https://youtu.be/ZrYrZ2hTHng)
-* [GMC](https://youtu.be/MDdIv1bUkQc)
-* [GMC](https://youtu.be/WlN9nLtQ7SU)
-
-**Significance:**  
-Better understanding of these characters and aimed abilities. Possible tech for some players looking for some level of Skill expression, despite how benign it is.
