@@ -382,6 +382,8 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 * The list of actions that can trigger the 4 Piece set effect can be seen in this [Vault Entry](/docs/evidence/equipment/artifacts.md#4-piece-adventurer-heal-trigger-conditions)
 
+</Artifact>
+
 ### Lucky Dog
 
 <Artifact artifact="Lucky Dog"/>
