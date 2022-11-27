@@ -648,6 +648,8 @@ Calculations should account for the CRIT possibility of weapon procs.
 
 [Gaining a new seed will refresh the duration of previously gained seeds.](https://www.youtube.com/watch?v=JCYVDeqXUr8)
 
+---
+
 #### Flat Energy Confirmation
 
 **By:** Sylfae\#1210
@@ -710,6 +712,8 @@ The videos show:
 
 **Significance:**  
 This interaction may affect other "triggers on taking DMG" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
+
+---
 
 #### Aquila Healing is Affected by Healing Bonus
 
@@ -809,7 +813,7 @@ When you can run Yun Jin on deathmatch, the passive snapshot can sometimes maint
 4ESF DMG% bonus works with the ER% from Engulfing Lightning's effect but does not snapshot.
 
 **Evidence:**  
-[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) - Vye's stats, shown in video, are calculated for Burst damage here assuming that the ER passive from Grasscutter does affect the 4-Piece ESF set: (804+899) _ (1+1.098) _ (1+0.466+0.582) _ (0.9) _ ((100+70)/((100+70)+(100+85))) \* 2.508 = 7909 Which about matches up with the damage number of 7906 in the video.  
+[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) - Vye's stats, shown in video, are calculated for Burst damage here assuming that the ER passive from Grasscutter does affect the 4-Piece ESF set: $(804+899) \times (1+1.098) \times (1+0.466+0.582) \times (0.9) \times \frac{100+70}{(100+70)+(100+85)} \times 2.508 = 7909$ Which about matches up with the damage number of 7906 in the video.  
 [No snapshot evidence](https://www.youtube.com/watch?v=asYD3tzpvC0) - In the video, Engulfing Lightning is being used. The ending hits of Xiangling's Burst are lower damage, indicating that the Burst DMG% from Engulfing Lightning's additional ER bonus on Burst cast has worn off.
 
 **Significance:**  
@@ -864,12 +868,16 @@ Can't keep the buff for the whole duration of a snapshottable Skill.
 **Significance:**  
 Better documentation of Hakushin Ring mechanics.
 
+---
+
 #### Crystalize, Swirl and Swirl chain reactions work for the effect.
 
 **By:** ProfHugo\#6478
 
 [Crystalize](https://www.youtube.com/watch?v=DS-osJvOAV0)  
 [Swirl and chain reactions](https://www.youtube.com/watch?v=PbjH7evrlg4)
+
+---
 
 #### Gaining a new buff does not refresh duration.
 
@@ -979,6 +987,8 @@ Assuming kazuhas level does not approach infinity while the enemy level and/or D
 * Similarly, fully depleting the 16s timer of any amount of Stacks erases the Stack count.
 * Additionally, Stacks of Kagura Dance are gained upon input, this applies to both Press and Hold variants to Elemental Skills. In particular for Hold Variants, the 16s timer begins when the Hold Skill is first casted/channeled.
 
+---
+
 #### Kagura Stacks Dynamic
 
 **By:** ArchedNosi\#1484  
@@ -1010,6 +1020,8 @@ Since the buff is yet still applied to Skills that produce it, it is conclusory 
 **Significance:**  
 Kagura's Verity's Skill% is dynamic and cannot be snapshotted. What this also implies is that Elemental Skills that were to produce a Stack of Kagura Dance would also get it’s buff applied to itself. Which further leads to the conclusion that every Elemental Skill used, if Kagura’s Verity is equipped, will have at least 1 Stack of Kagura Dance applied.  
 The Skill% buff being dynamic also fits in line with other Skill% buffs which are also dynamic (Solar Pearl).
+
+---
 
 #### Klee and Kagura Stacks
 
@@ -1067,6 +1079,8 @@ Key of Khaj-Nisut + Kazuha A4 interaction
 **Significance:**  
 Elemental Mastery provided by Key of Khaj-Nisut (self-buff and party-buff both) is not used in abilities which use Elemental Mastery for providing other stats, like Kazuha A4.  
 
+---
+
 #### Key of Khaj-Nisut Stacks Remains After Switching Out
 
 **By:** Alpha Flyte\#2031  
@@ -1082,6 +1096,8 @@ Key of Khaj-Nisut stacks remain even after switching out, and they share their d
 **Significance:**  
 No real demerit to switching out the Key user once stacks have been gained.  
 Key user must periodically refresh stacks to maintain uptime of the buff, since the buff once maxed is either 100% up or 100% down, meaning all 3 stacks must be gained again.  
+
+---
 
 #### Key of Khaj-Nisut Stacks Cannot be Gained while Off-Field
 
@@ -1121,6 +1137,8 @@ Rosaria able to perform E->Q with Kitain Spear equipped.
 **Significance:**  
 Some characters actually do not need to change their rotation, because as long as you can cast your Burst within about 23 frames after the Elemental Skill hit an opponent, your character will still be able to use Elemental Burst to spend all your Energy before getting drained by the weapon passive.  
 Rosaria can hit enemy with her E to get her A1 CRIT Rate buff and still be able to cast Burst with Q afterward to share the CRIT before the Energy is drained.
+
+---
 
 #### Kitain Passive Will Proc Even if Carrier Has 0 Energy.
 
@@ -1227,12 +1245,16 @@ The Burst stack seems to obey the same rules as the 4NO effect, as the only char
 **Significance:**  
 Damage calculations.
 
+---
+
 #### Infused plunge attacks do not gain a stack.
 
 **By:** MkO\#1192
 
 [Standard infused plunge](https://www.youtube.com/watch?v=P3zldXa20lY)  
 [Kazuha's Midare Ranzan](https://youtu.be/qwLvlKGQErM)
+
+---
 
 #### Mistsplitter NA Stack From CA
 
@@ -1330,6 +1352,8 @@ PJWS passive can be stacked from Elemental Skill and Burst Skill hits on an enem
 **Significance:**  
 Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate Elemental Skill or Burst Skill like XL.
 
+---
+
 #### PJWS New Stacks Extend Duration
 
 **By:** hawtlava\#2461  
@@ -1369,6 +1393,8 @@ Sucrose equipped with R1 Prototype Amber - max HP 15082 (4% rounded down is 603 
 
 **Significance:**  
 Stacking HP on a Prototype Amber wielder will not increase its healing.
+
+---
 
 #### Multiple Prototype Amber Heals Don't Stack
 
@@ -1491,6 +1517,8 @@ Getting hit by multi hit attacks will still only remove one stack thus increasin
 
 * Relevant examples in the overworld only: environmental damage
 * Relevant examples: Ruin guard missiles or the Cryo gun attack from the Cryo Fatui \([YouTube](https://youtu.be/qaxgPjY78YE)\)
+
+---
 
 #### Serpent Spine Damage Taken affects Shields
 
@@ -1726,6 +1754,8 @@ WGS procs do not stack and the most recent proc overwrites the existing proc, ev
 **Significance:**  
 Multiple WGS can kinda suck if they're not equal refine
 
+---
+
 #### Wolf's Gravestone Passive Does Not Affect the Attack That Procs It
 
 **By:** Goden\#2155  
@@ -1741,6 +1771,8 @@ Beidou's N1 is shown to CRIT prior to the buff for 1859. On the hit that procs W
 
 **Significance:**  
 Setup your WGS buff before a big nuke or you lose out on potential damage.
+
+---
 
 ### Xiphos' Moonlight
 
@@ -1764,6 +1796,8 @@ The final hit of Raiden's 5-hit string is 2240 in both videos, meaning Emblem's 
 **Significance:**  
 Expected results.
 
+---
+
 #### Xiphos Buff Duration and CD Reset
 
 **By:** Casdela\#5121  
@@ -1784,6 +1818,8 @@ Using Noblesse as control test, enter/exit domain removes all effects but doesn'
 **Significance:**  
 Mostly fluff, just to confirm that the Tulaytullah Weapon Series that Xiphos and Evenstar belongs in have 100% buff up-time regardless of the situations, except for the 1.067s delay at the start.
 This info has no practical application other than to test buff timings.
+
+---
 
 #### Xiphos Buff Snapshotting
 
