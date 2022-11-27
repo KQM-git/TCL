@@ -1558,6 +1558,28 @@ Characters need more field time to get optimal use of the weapon. Characters tha
 
 ---
 
+#### Staff of the Scarlet Sands Stacks Snapshot
+
+**By:** nico\#7748  
+**Added:** <Version date="2022-11-26" />  
+**Last tested:** <VersionHl date="2022-11-26" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/staff-of-the-scarlet-sands-stacks-snapshot)
+
+**Finding:**  
+The Dream of the Scarlet Sands stacks (which turn EM into ATK) from the Staff of the Scarlet Sands (SotSS) snapshot the character's current EM when obtaining each stack.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/KYzDUjN5XJo)  
+  
+$1283 \ \text{(total ATK without SotSS passive)} + 203 \ \text{(EM before diona C6)} \times .52 \ \text{(static SotSS buff)} + 203 \ \text{(EM before diona C6)} \times .28 \times 3 \ \text{(SotSS stack buff)} = ~1560$  
+
+$1283 \ \text{(total ATK without SotSS passive)} + 403 \ \text{(EM after diona C6)} \times .52 \ \text{(static SotSS buff)} + \mathbf{203} \ \textbf{(EM before diona C6)} \times .28 \times 3 \ \text{(SotSS stack buff)} = ~1663$  
+  
+**Significance:**  
+Pre-stacking SotSS will not give you the full value of the Dream of the Scarlet Sands effect if EM buffs are obtained after the stacks.
+
+---
+
 ### The Bell
 
 #### Bell’s %Increased Damage Passive Works With Any Shield
