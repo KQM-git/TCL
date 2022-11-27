@@ -2,7 +2,6 @@
 description: A Rtawahist student who always looks sleep-deprived. Her dark eye circles have been worsening due to academic stress.
 ---
 
-
 import char from '@site/src/data/characters/Layla.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
@@ -32,7 +31,6 @@ import Skill from '@site/src/components/char/Skill'
 <SkillIcon char={char} skill='na' />
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
-
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
