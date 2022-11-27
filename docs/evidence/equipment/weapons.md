@@ -1594,7 +1594,7 @@ Characters need more field time to get optimal use of the weapon. Characters tha
 [Discussion](https://tickets.deeznuts.moe/transcripts/staff-of-the-scarlet-sands-stacks-snapshot)
 
 **Finding:**  
-The Dream of the Scarlet Sands stacks (which turn EM into ATK) from the Staff of the Scarlet Sands (SotSS) snapshot the character's current EM when obtaining each stack.  
+The Dream of the Scarlet Sands stacks (which increase ATK based on EM) from the Staff of the Scarlet Sands (SotSS) snapshot the character's current EM when obtaining each stack.  
 
 **Evidence:**  
 [YouTube](https://youtu.be/KYzDUjN5XJo)  
