@@ -63,6 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * The Charged Attack visual and audio effect will appear on more than just enemies, as well as even appearing on enemies that don't get lifted at all.
 
 </TabItem>
@@ -130,13 +131,13 @@ import Skill from '@site/src/components/char/Skill'
 
 * Cast also knocks away light enemies.
 * The **Dandelion Field** deals Anemo damage to enemies crossing the border of the field.
-* **Dandelion Breeze** deals Field Enter/Exit DMG to enemies within its AOE on initial cast and when the duration of the **Dandelion Field** ends.
+* **Dandelion Breeze** deals Field Enter/Exit DMG to enemies within its AoE on initial cast and when the duration of the **Dandelion Field** ends.
 * Heals and applies Anemo continuously to the active character inside the field cleansing debuffs.
-  * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an element.
+  * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an Element.
   * With precise timing, Anemo can be the aura for self-swirls occasionally.
-  * This self-swirl interaction does not count as a reaction for Freedom\-Sworn Passive stacks and 4pc Instructor set effect.
+  * This self-swirl interaction does not count as a reaction for Freedom\-Sworn Passive stacks and 4-Piece Instructor set effect.
   * In Sunfire \(when Jean's Burst and Bennett's Burst overlap\), if Jean triggers Overload the Freedom\-Sworn Passive will be activated.
-  * In Sunfire, Bennett can trigger the 4pc VV effect set himself if he's the triggerer of Sunfire self-swirl.
+  * In Sunfire, Bennett can trigger the 4-Piece VV effect set himself if he's the one that triggers Sunfire self-Swirl.
 * If Jean casts her Burst right before the Final Calamity begins during the Raiden Shogun weekly boss fight, the Dandelion Breeze field exit damage at end of Burst duration will proc Electro Swirl off of invisible Raiden Shogun's shield.
 
 </TabItem>

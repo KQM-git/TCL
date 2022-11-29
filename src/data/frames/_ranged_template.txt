@@ -3,42 +3,42 @@
         "name": "N1",
         "release": ,
         "hitlag": 0,
-        "default": ,
+        "next_na": ,
         "ca": 
     }, 
     {
         "name": "N2",
         "release": ,
         "hitlag": 0,
-        "default": ,
+        "next_na": ,
         "ca": 
     },
     {
         "name": "N3",
         "release": ,
         "hitlag": 0,
-        "default": ,
+        "next_na": ,
         "ca": 
     },
     {
         "name": "N4",
         "release": ,
         "hitlag": 0,
-        "default": ,
+        "next_na": ,
         "ca": 
     },
     {
         "name": "N5",
         "release": ,
         "hitlag": 0,
-        "default": ,
+        "next_na": ,
         "ca": 
     },
     {
         "name": "N6",
         "release": ,
         "hitlag": 0,
-        "default": ,
+        "next_na": ,
         "ca": 
     }],
     "CA": {

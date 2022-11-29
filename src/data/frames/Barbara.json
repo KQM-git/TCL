@@ -3,7 +3,7 @@
         "name": "N1",
         "hitmark": 6,
         "hitlag": 0,
-        "default": 15,
+        "next_na": 15,
         "ca": 18,
         "walk": 23,
         "notes": "Subtract 14f from N1 hitmark if N4 is prior"
@@ -12,7 +12,7 @@
         "name": "N2",
         "hitmark": 11,
         "hitlag": 0,
-        "default": 21,
+        "next_na": 21,
         "ca": 24,
         "walk": 28
     },
@@ -20,7 +20,7 @@
         "name": "N3",
         "hitmark": 12,
         "hitlag": 0,
-        "default": 22,
+        "next_na": 22,
         "ca": 28,
         "walk": 30
     },
@@ -28,7 +28,7 @@
         "name": "N4",
         "hitmark": 32,
         "hitlag": 0,
-        "default": 60,
+        "next_na": 60,
         "ca": "N/A",
         "walk": 57
     }],

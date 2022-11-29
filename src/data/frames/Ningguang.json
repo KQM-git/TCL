@@ -3,7 +3,7 @@
         "name": "N1 Left",
         "release": 29,
         "hitlag": 0,
-        "default": 61,
+        "next_na": 61,
         "ca": 43,
         "walk": 44
     },
@@ -11,7 +11,7 @@
         "name": "N1 Right",
         "release": 19,
         "hitlag": 0,
-        "default": 56,
+        "next_na": 56,
         "ca": 40,
         "walk": 41
     },
@@ -19,7 +19,7 @@
         "name": "N1 Twirl",
         "release": 29,
         "hitlag": 0,
-        "default": 66,
+        "next_na": 66,
         "ca": 40,
         "walk": 42
     }],

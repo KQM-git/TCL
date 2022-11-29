@@ -72,6 +72,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 * Both **Riptide Flash** and **Riptide Burst** do not snapshot.
 * [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering) works weirdly with Tartaglia, for more information see this [Vault Entry](../../evidence/equipment/artifacts.md#echoes-triggering-is-weird-and-inconsistent-for-tartaglia).
@@ -142,10 +143,10 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
+* Gives 1 Hydro Particle upon proc. However, this Particle generation has an ICD of 3 seconds.
 * **Riptide** and **Riptide Slash** can be applied and triggered by Aimed Shot, both Physical and Hydro, by switching to melee stance before the arrow hits an enemy.
-* Using this skill in quick succession after a partial **Bow Stance** attack string allows Childe to continue the attack string in **Melee Stance**.
-* Using this skill on the same frame as an attack or burst input can result in a **Ranged Burst** while in **Melee Stance**, a **Melee N1** in **Ranged Stance**,[ among other effects.](../../evidence/characters/hydro/tartaglia.md#elemental-skill-and-attack-or-burst-on-the-same-frame)
+* Using this Skill in quick succession after a partial **Bow Stance** attack string allows Childe to continue the attack string in **Melee Stance**.
+* Using this Skill on the same frame as an attack or Burst input can result in a **Ranged Burst** while in **Melee Stance**, a **Melee N1** in **Ranged Stance**,[ among other effects.](../../evidence/characters/hydro/tartaglia.md#elemental-skill-and-attack-or-burst-on-the-same-frame)
 * Preemptive CD scales discretely, floored to an integer before cooldown reduction calculations.
 
 </TabItem>

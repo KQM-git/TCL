@@ -28,10 +28,10 @@ To calculate **Shield BA**, simply head over to your Shield Talent and take a lo
 
 There are multiple ways to increase how much damage your Shield absorbs without directly affecting the Talent Value. Before we get into how Shield Strength Bonuses work, we must know the following:
 
-**All Shields have an innate 250% Bonus Absorption towards their element.** For example, If I cast a **Pyro Shield**, or obtain one through **Crystallize**, the shield has an innate **250%** Bonus Shield Absorption towards **Pyro** attacks.
+**All Shields have an innate 250% Bonus Absorption towards their Element.** For example, If I cast a **Pyro Shield**, or obtain one through **Crystallize**, the shield has an innate **250%** Bonus Shield Absorption towards **Pyro** attacks.
 
 So now that we know that, our **Total Shield Strength** will be  
-**\(BA\)\*\(2.5 For same element\)\*\(1.5 For Geo Shields\)\*\(1+Total Shield Bonuses from external sources\)**
+**\(BA\)\*\(2.5 For same Element\)\*\(1.5 For Geo Shields\)\*\(1+Total Shield Bonuses from external sources\)**
 
 **Diona is a special case that we will look at later down below.**
 

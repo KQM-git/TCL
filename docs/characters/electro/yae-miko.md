@@ -60,6 +60,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Normal Attacks have a 3 hit/2.5s ICD.
 * Charged Attacks have no ICD.
 * Charged Attacks can hit the same enemy twice if the hitbox is large enough. e.g. Azhdaha.
@@ -92,7 +93,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Each Sesshou Sakura hits up to 5 times, but only the first one generates particles \(1 particle on each hit and none on cast\).
+* Each Sesshou Sakura hits up to 5 times, but only the first one generates Particles \(1 Particle on each hit and none on cast\).
 * When casting E three times in a straight line only the one in the middle will be level 3.
 * It has a small AoE.
 * The dash does not have i-frames.

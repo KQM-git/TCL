@@ -58,6 +58,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -68,7 +72,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute                          | Pirouette    | Sword Dance \(Lunar Prayer\) | Whirling Steps \(Tranquility Aura\)                              |
 | :--------------------------------- | :----------- | :--------------------------- | :--------------------------------------------------------------- |
 | DMG \(T9%, 1-Hit/2-Hit/3-Hit\)     | 5.68% Max HP | 7.74/8.75/12.19% Max HP      | 5.55/6.73/8.60% Max HP                                           |
-| Particles \(1-Hit/2-Hit/3-Hit\)    | 1-2 \(1:1\)  | 0                            | Whriling Steps: 1/1/1<br />Tranquility Aura: 0                   |
+| Particles \(1-Hit/2-Hit/3-Hit\)    | 1-2 \(1:1\)  | 0                            | Whirling Steps: 1/1/1<br />Tranquility Aura: 0                   |
 | GU                                 | 1A           | 1A                           | 1A                                                               |
 | ICD                                | 3-hit / 2.5s | 3-hit / 2.5s                 | Whirling Steps: 3-hit / 2.5s<br />Tranquility Aura: 4-hit / 1.9s |
 | Snapshot                           | Dynamic      | Dynamic                      | Dynamic                                                          |
@@ -83,14 +87,14 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes:**  
 
-* **Dance of Haftkarsvar** generates a total of 4-5 particles each time.
+* **Dance of Haftkarsvar** generates a total of 4-5 Particles each time.
 * Nilou can enter both **Sword Dance** and **Whirling Steps** stances at the same time using Sacrificial Sword.
 * **Dance of Haftkarsvar** cooldown starts on initial cast, but the infusion duration does not start until the 3rd slash.
 * **Tranquility Aura** counts as a zero-damage hit.
 * While under the **Pirouette** or **Lunar Prayer** effects, Nilou's Normal Attack combo will not be reset.
 * All 3 **Sword Dance** hits can be canceled very early. Well-timed dash cancels does not cause her to lose infusion slashes, thus making her an extremely mobile on-fielder.
 * **Luminous Illusion** is considered a ranged attack.
-* E N2 Q N1 allows particle pre-funneling.
+* E N2 Q N1 allows Particle pre-funneling.
 * **Sword Dance** and **Luminous Illusion** can't trigger [Beidou's Burst](../electro/beidou.md#attacks) but can trigger [Xingqiu's Burst](../hydro/xingqiu.md#attacks).
 
 </TabItem>

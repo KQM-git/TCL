@@ -15,7 +15,7 @@ sidebar_position: 6000
 **Added:** <Version date="2021-04-11" />  
 **Last tested:** <VersionHl date="2021-04-11" />
 
-**Finding:** Confirming construct defensive stats\(HP/DEF/DR/RES\); All stats are taken at a 1:1 ratio \(except skills that state otherwise in description\) and snapshot on cast.
+**Finding:** Confirming construct defensive stats\(HP/DEF/DR/RES\); All stats are taken at a 1:1 ratio \(except Skills that state otherwise in description\) and snapshot on cast.
 
 The constructs tested:
 

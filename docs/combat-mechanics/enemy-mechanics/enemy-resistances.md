@@ -14,13 +14,13 @@ import EnemyRes from '../\_formulas/enemyres.md'
 
 <EnemyRes />
 
-All enemies have some innate base level of resistance. Resistance is elemental based and reduces damage from a certain type of element. Each enemy has individual resistances against each different type of element. The most common base amount of resistance is 10%. A list of enemy base resistances can be found [here](https://genshin-impact.fandom.com/wiki/Damage#Base_Enemy_Resistances).
+All enemies have some innate base level of resistance. Resistance is Elemental based and reduces damage from a certain type of Element. Each enemy has individual resistances against each different type of Element. The most common base amount of resistance is 10%. A list of enemy base resistances can be found [here](https://genshin-impact.fandom.com/wiki/Damage#Base_Enemy_Resistances).
 
 Resistance can be increased by the monster themselves from many sources such as Fatui Skirmisher armors providing +100% All RES. Similarly, monsters can also have their own resistances reduces such as when Whopperflower armors are broken.
 
 Players can shred monster resistances via means such as:
 
-* 4pc Viridescent Venerer \(-40% to any swirled element\)
+* 4-Piece Viridescent Venerer \(-40% to any swirled Element\)
 * Zhongli's Jade Shield \(-20% All elements\)
 * Superconduct \(-40% Physical\)
 * Geo Resonance \(-20% Geo\)

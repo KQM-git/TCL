@@ -65,6 +65,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
 * Beidou's normal attack string concludes with a kick to the sword with her foot. Whether her model makes contact with the claymore depends on the model size of the claymore. We can conclude that it is intended to be a kick to the claymore because a sound will play no matter what model size the claymore.
 
@@ -100,7 +101,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* **Tidecaller** will produce minimum 2 particles, if you get hit once while holding \(one charge\) it produces 3 particles and if you get hit two times \(two charges\) or perform a **perfect parry** it will produce 4 particles.
+* **Tidecaller** will produce minimum 2 Particles, if you get hit once while holding \(one charge\) it produces 3 Particles and if you get hit two times \(two charges\) or perform a **perfect parry** it will produce 4 Particles.
 * Beidou can perfect counter shots from the Inazuma Kamuijima Cannons.
 * The counter has 0/1 startup frames, depending on whether your input is registered immediately or with a 1 frame delay. [Vault Entry](../../evidence/characters/electro/beidou.md#beidou-counter-startup)
 * **Tidecaller** counter scaling information is tabulated in the table below.

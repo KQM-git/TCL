@@ -15,7 +15,7 @@ search: false
 
 **Findings:** You lose about 12.5% HP from taking the HP buff and resetting.
 
-**Evidence:** [https://youtu.be/iIL7Uk2qpC0](https://youtu.be/iIL7Uk2qpC0)
+**Evidence:** [YouTube](https://youtu.be/iIL7Uk2qpC0)
 
 **Significance:** Could use to reduce Hu Tao HP. Also just hurts the HP pool, so can be impactful.
 

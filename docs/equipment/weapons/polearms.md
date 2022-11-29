@@ -21,7 +21,7 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Primordial Jade Winged-Spear" weapons={polearms}>
 
-* PJWS passive can be stacked from elemental skill and burst skill hits on an enemy.
+* PJWS passive can be stacked from Elemental Skill and Burst Skill hits on an enemy.
   * The "on hit" portion of the passive does not refer to normal attack hits alone.
 * Stacks cannot be gained while off-field.
 * New gained stacks will extend the duration of existing stacks, beyond the 6 seconds stipulated.
@@ -71,7 +71,7 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <Weapon weapon="Crescent Pike" weapons={polearms}>
 
-* **Infusion Needle** benefits from all relevant Damage Bonuses since it's based off the characters' stats.
+* **Infusion Needle** benefits from all relevant DMG Bonuses since it's based off the characters' stats.
 
 </Weapon>
 
@@ -119,7 +119,7 @@ import FavSeries from './\_common/fav_series.md';
 
 <Weapon weapon="Kitain Cross Spear" weapons={polearms}>
 
-* Effect can be activated at 0 energy without going into the negative.
+* Effect can be activated at 0 Energy without going into the negative.
 * Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy.
 
 </Weapon>

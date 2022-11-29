@@ -14,9 +14,9 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 66% HP       | 1 orb      | Electro |
-| 33% HP       | 1 orb      | Electro |
-| Death        | 1 particle | Electro |
+| 66% HP       | 1 Orb      | Electro |
+| 33% HP       | 1 Orb      | Electro |
+| Death        | 1 Particle | Electro |
 
 ## Shield
 
@@ -58,14 +58,14 @@ Head.
 
 ## Attacks
 
-* Summons a falling bolt of Electro energy to strike its' foe. When below 50% HP it will summon 2 bolts consecutively. When its' shield is active it will summon 3 bolts consecutively. The visual indicator for this attack will appear at the active character's feet.
+* Summons a falling bolt of Electro Energy to strike its foe. When below 50% HP it will summon 2 bolts consecutively. When its shield is active it will summon 3 bolts consecutively. The visual indicator for this attack will appear at the active character's feet.
 
-* Conjures a wave of lightning bolts striking down in a line towards the player. When its' shield is active, it will unleash two waves of lightning at once, usually from different directions but sometimes in a straight line.
+* Conjures a wave of lightning bolts striking down in a line towards the player. When its shield is active, it will unleash two waves of lightning at once, usually from different directions but sometimes in a straight line.
 
 * When a character strays near to the Abyss Lector, it will implode itself with a powerful electromagnetic blast.
 
-* After falling to 20% health, the Abyss Lector will remove its' remaining health to imbue itself with a powerful Electro shield. Breaking this shield will kill the Lector. Once the shield is activated, nearby players are knocked back from the Lector and damaged. The Lector also gains new/upgraded attacks when it is equipped with the Electro shield.
+* After falling to 20% health, the Abyss Lector will remove its remaining health to imbue itself with a powerful Electro shield. Breaking this shield will kill the Lector. Once the shield is activated, nearby players are knocked back from the Lector and damaged. The Lector also gains new/upgraded attacks when it is equipped with the Electro shield.
 
-* Conjures 3 Electro orbs that launch towards the player's current position. If hit by these orbs, your party's energy will be depleted by a flat amount unless they're protected by a shield.
+* Conjures 3 Electro Orbs that launch towards the player's current position. If hit by these Orbs, your party's Energy will be depleted by a flat amount unless they're protected by a shield.
 
-* Summons many Electro orbs around itself, after a short delay the orbs will be sent out in all directions and then stop for a second before exploding. This attack is only used when the Lector has entered the Electro Shield form. If hit by any of these orbs will drain the active character's energy by a flat amount unless they're protected by a shield.
+* Summons many Electro Orbs around itself, after a short delay the Orbs will be sent out in all directions and then stop for a second before exploding. This attack is only used when the Lector has entered the Electro Shield form. If hit by any of these Orbs will drain the active character's Energy by a flat amount unless they're protected by a shield.

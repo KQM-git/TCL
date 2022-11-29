@@ -59,6 +59,11 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
+
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -177,8 +182,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental skill.
-* The effects of C2 also apply to all damage during her burst including physical damage procs from weapon passives.
+* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental Skill.
+* The effects of C2 also apply to all damage during her Burst including Physical damage procs from weapon passives.
 * The defense ignore is multiplicative with defense shred.
 
 </TabItem>

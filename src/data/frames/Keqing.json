@@ -3,35 +3,35 @@
         "name": "N1",
         "hitmark": 10,
         "hitlag": 0.03,
-        "default": 21,
+        "next_na": 21,
         "ca": 27
     }, 
     {
         "name": "N2",
         "hitmark": 10,
         "hitlag": 0.03,
-        "default": 22,
+        "next_na": 22,
         "ca": 30
     },
     {
         "name": "N3",
         "hitmark": 14,
         "hitlag": 0.06,
-        "default": 35,
+        "next_na": 35,
         "ca": 44
     },
     {
         "name": "N4",
         "hitmark": [11, 22],
         "hitlag": [0, 0.03],
-        "default": 37,
+        "next_na": 37,
         "ca": 64
     },
     {
         "name": "N5",
         "hitmark": 22,
         "hitlag": 0,
-        "default": 66,
+        "next_na": 66,
         "ca": "N/A"
     }],
     "CA": [{

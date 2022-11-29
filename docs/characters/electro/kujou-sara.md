@@ -65,6 +65,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
@@ -136,10 +137,10 @@ import Skill from '@site/src/components/char/Skill'
 * The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel.
 * **Titanbreaker** and **Stormcluster** do not share ICDs.
 * Both **Titanbreaker** and **Stormcluster** damage is snapshot on **Subjugation: Koukou Sendou** cast.
-* For Sara's ATK bonus to apply, a character needs to be hit by **Titanbreaker** or **Stormclusters**.
+* For Sara's ATK Bonus to apply, a character needs to be hit by **Titanbreaker** or **Stormclusters**.
   * Multiple characters can be buffed this way.
 * **Titanbreaker** targets closest enemy, then **Stormcluster** moves outward in a plus-shape with one branch directed at Sara’s location at time of cast, dealing 5 hits each.
-* **Subjugation: Koukou Sendou** does not benefit from its own attack bonus.
+* **Subjugation: Koukou Sendou** does not benefit from its own ATK Bonus.
 
 </TabItem>
 </Tabs>

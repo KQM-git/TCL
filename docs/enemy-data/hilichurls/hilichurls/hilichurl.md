@@ -15,8 +15,8 @@ Head.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 60% HP       | 1 particle | common  |
-| Death        | 1 particle | common  |
+| 60% HP       | 1 Particle | Clear  |
+| Death        | 1 Particle | Clear  |
 
 ## Resistance Table
 
@@ -47,5 +47,5 @@ Head.
 
 ## Attacks
 
-* Does not wield a weapon. Will attack the player with a basic jump attack using its' claws.
-* Occasionally, it will pick up a rock and throw it at its' target.
+* Does not wield a weapon. Will attack the player with a basic jump attack using its claws.
+* Occasionally, it will pick up a rock and throw it at its target.

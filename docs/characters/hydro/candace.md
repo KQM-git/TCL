@@ -56,7 +56,9 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes:**
-* N2 is a blunt attack
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* N2 is a blunt attack.
   
 </TabItem>
 
@@ -82,7 +84,7 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes:**
-* Tap and hold E are blunt. Tap E can shatter but hold E doesn't shatter despite it being blunt.
+* Tap and hold E are blunt. Tap E can Shatter but hold E doesn't Shatter despite it being blunt.
 * The counter has no startup, it is active as soon as the UI greys out.
   
 </TabItem>
