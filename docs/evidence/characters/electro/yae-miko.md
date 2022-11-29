@@ -24,7 +24,7 @@ search: false
   * NA, CA, E, and Q are all 1A. - [Video](https://youtu.be/oNX1Jbak8Ao) - pai\#3602
 * Snapshotting:
   * E: Dynamic - [Video](https://youtu.be/mCj_j_VGHIs) - Luno\#1337
-  * Q: Dynamic - [Video](https://clips.twitch.tv/SplendidScrumptiousQueleaPeanutButterJellyTime-NbpgSpv-oqOBIgIa) - Neptunya\#8291
+  * Q: Dynamic - [Google Sheets](https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing) - Bobrokrot\#0111
 
 ## Attack Mechanics
 
