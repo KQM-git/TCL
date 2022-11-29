@@ -498,6 +498,28 @@ It has been known that you can use self auras to infuse Anemo ults \(Venti/Sucro
 **Significance:**  
 With this technique you can infuse elements that are otherwise not present AT ALL within your team or the enemies, allowing for compositions to cheat the matching Element into their team at little cost. A current powerful application of this is using this to deal with Hydro Fatui gunner's shield in lieu of bringing an actual Electro unit, decreasing the number of constraints on floor 11 team construction if you can't simply kill the Fatui before they put up the shield.
 
+### Tcl Self Aura Correction
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-11-21" />  
+**Last tested:** <VersionHl date="2022-11-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/tcl-self-aura-correction)
+
+**Finding:**  
+Self aura section in TCL is pepega  
+  
+"When a reaction is triggered and the trigger application has a higher U value than the Self Gauge, the Self Aura transitions directly to the other element." is the opposite of what actually happens. It should be changed to "When a Self Aura application triggers a reaction, if the Self Aura's U value is higher than that of the existing aura, the aura directly transitions to the Self Aura."  
+  
+It should also be included that enemy shields, innate auras etc. are self auras.  
+  
+**Evidence:**  
+**  
+[Imgur](https://imgur.com/a/4oURXI9) Beidou's 4U is higher than the frozen left on the Abyss Mage shield (the self aura), but the aura does **not** transition to Electro  
+[Imgur](https://imgur.com/a/DY7paKx) Abyss mage's 12U self aura is higher than the electro aura, and the aura directly transitions to frozen self aura  
+  
+**Significance:**  
+Correcting misinformation in TCL  
+
 ## Reapplying Hydro on Freeze
 
 **By:** Some Proselytizer\#8340 and Aetherpon\#5730  

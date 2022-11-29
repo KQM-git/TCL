@@ -188,7 +188,7 @@ AoE ticks of Electro-Charged have zero gauge.
 
 Self Auras are elements applied to the player character. This can be from sources such as: leylines, taking Elemental damage from an enemy, or having an ability that imbues the character with an Element.
 
-These all have the ability to react with a slightly different ruleset from standard Gauge Theory. When a reaction is triggered and the trigger application has a higher U value than the Self Gauge, the Self Aura transitions directly to the other Element.
+When a Self Aura application triggers a reaction, if the Self Aura's U value is higher than that of the existing aura, the aura directly transitions to the Self Aura. It should also be included that enemy shields, innate auras etc. are Self Auras.  
 
 ## Credits
 
