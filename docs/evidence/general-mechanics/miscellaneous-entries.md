@@ -1222,33 +1222,35 @@ From the perspective of player on low-end device, sometimes enemies teleports sh
   * [YouTube](https://youtu.be/4ytvwR0KJWo)  
 * They stand straight at where they spawn at their usual spawning spot for a moment before teleporting and continue the fight before the "spawn".
   * [YouTube](https://youtu.be/ubhtZC_yhnU)  
-* Particles doesn't spawn until enemies spawn (Raiden Burst energy regen still works).
-  * [YouTube](https://youtu.be/YV9qphxt4KA)  
-  * [YouTube](https://youtu.be/At5-Ig2mdvM)  
 
-* Opening Co-op menu/Adventurer Handbook/BP/map/wish menu will get you stuck, all buttons on mobile gone. Not sure if it always continues until enemy "spawn".  
-  * [YouTube](https://youtu.be/hyk0Td2j8U4)  
-  * [YouTube](https://youtu.be/8LDCDsD7Nzc)  
-  * [YouTube](https://youtu.be/Vv8FU_mZROM)  
-  * [YouTube](https://youtu.be/DAdsgiwD4QE)  
-  * [YouTube](https://youtu.be/vYiWjhV0hPA)  
+* Miscellaneous:
+  * Particles doesn't spawn until enemies spawn (Raiden Burst energy regen still works).
+    * [YouTube](https://youtu.be/YV9qphxt4KA)  
+    * [YouTube](https://youtu.be/At5-Ig2mdvM)  
 
-* Events menu will get you stuck but not until enemies have spawned.  
-  * [YouTube](https://youtu.be/8xvMMS0aj-c)  
+  * Opening Co-op menu/Adventurer Handbook/BP/map/wish menu will get you stuck, all buttons on mobile gone. Not sure if it always continues until enemy "spawn".  
+    * [YouTube](https://youtu.be/hyk0Td2j8U4)  
+    * [YouTube](https://youtu.be/8LDCDsD7Nzc)  
+    * [YouTube](https://youtu.be/Vv8FU_mZROM)  
+    * [YouTube](https://youtu.be/DAdsgiwD4QE)  
+    * [YouTube](https://youtu.be/vYiWjhV0hPA)  
 
-* Characters menu will not get you stuck but can't switch weapons and artifacts cuz the list/menu of other weapons/artifacts to switch with doesn't show up.  
-  * [YouTube](https://youtu.be/-LE6rJvTCSA)  
-  * [YouTube](https://youtu.be/DAdsgiwD4QE)  
+  * Events menu will get you stuck but not until enemies have spawned.  
+    * [YouTube](https://youtu.be/8xvMMS0aj-c)  
 
-* The inventory won't get me stuck and can switch gadgets.  
-  * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
+  * Characters menu will not get you stuck but can't switch weapons and artifacts cuz the list/menu of other weapons/artifacts to switch with doesn't show up.  
+    * [YouTube](https://youtu.be/-LE6rJvTCSA)  
+    * [YouTube](https://youtu.be/DAdsgiwD4QE)  
 
-* You can use Klee confetti gadget, wind current gadget, and windblume balloon gadget (maybe xiao lantern too) and your pet won't hide before enemies "spawn" while Co-op teammates are fighting.  
-  * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
-  * [YouTube](https://youtu.be/At5-Ig2mdvM)  
-  * [YouTube](https://youtu.be/qbRN_ZktJpk)  
+  * The inventory won't get me stuck and can switch gadgets.  
+    * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
 
-* Sheer cold accumulate as usual but walking out of the battle square makes the sheer cold meter go down.  
-  * [YouTube](https://youtu.be/Gk83vsL7k3I)  
+  * You can use Klee confetti gadget, wind current gadget, and windblume balloon gadget (maybe xiao lantern too) and your pet won't hide before enemies "spawn" while Co-op teammates are fighting.  
+    * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
+    * [YouTube](https://youtu.be/At5-Ig2mdvM)  
+    * [YouTube](https://youtu.be/qbRN_ZktJpk)  
+
+  * Sheer cold accumulate as usual but walking out of the battle square makes the sheer cold meter go down.  
+    * [YouTube](https://youtu.be/Gk83vsL7k3I)  
 
 **Significance:** Help prepare your heart 💓💗 when these happen in Co-op, hopefully (ps: it doesn't help).  

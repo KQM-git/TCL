@@ -116,7 +116,10 @@ description: For entries that have little practical use.
 ## Bad Device Co-op Experience
 
 * The experiences of players using bad devices (either poor connection, processing power) have many peculiarities. 
-* These mostly involves the properties of enemies, such as when they spawn, reaction procing, HP of shields, etc.
+* For cases where players using bad devices can obverse enemies spawn in normally, enemies stand still and do not have shields until they fully spawn for every players, they don't have auras, can't be applied auras nor debuffs, their HP reset once they spawn fully for everyone.
+  * Lisa's Burst from other players don't attack enemies until they spawn fully for everyone
+* For cases where players using bad devices, they can obverse enemies teleport away shortly after spawn and are attacking as soon as they spawn, enemies do not stand still and they attack other players as normal, their HP and shields don't reset, some enemy attacks and reaction can still hit bad device players before spawning for them.
+* Particles doesn't spawn until enemies spawn (Raiden Burst energy regen still works)
 * Going into certain menus can also get the player stuck inside them until enemies "spawn" for them.
 * For more details, check out this entry in the [Evidence Vault](../evidence/general-mechanics/miscellaneous-entries.md#bad-device-co-op-domain-experience).
 
