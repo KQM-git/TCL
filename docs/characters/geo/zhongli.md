@@ -130,6 +130,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Resonances** have a range of 1.5 Abyss Tiles, and the range for resonating with other Geo Constructs is 3 tiles.
 * **Resonance** ICD from **Stone Steles** is shared with other Geo Constructs, C1 **Stone Stele**, and **Planet Befall**.
 * The amount of **Resonance** ticks depends on FPS. For more information see this [Vault Entry](../../evidence/general-mechanics/movement-and-physics.md#tick-tock).
+* **Stone Steles** can attract the Sprawling Shots when enemies trigger Hyperbloom, saving the player from a hit.
 
 </TabItem>
 
