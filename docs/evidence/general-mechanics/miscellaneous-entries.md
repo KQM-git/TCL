@@ -1242,7 +1242,7 @@ From the perspective of player on low-end device, sometimes enemies teleports sh
     * [YouTube](https://youtu.be/-LE6rJvTCSA)  
     * [YouTube](https://youtu.be/DAdsgiwD4QE)  
 
-  * The inventory won't get me stuck and can switch gadgets.  
+  * The inventory won't get you stuck and you can switch gadgets.  
     * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
 
   * You can use Klee confetti gadget, wind current gadget, and windblume balloon gadget (maybe xiao lantern too) and your pet won't hide before enemies "spawn" while Co-op teammates are fighting.  
