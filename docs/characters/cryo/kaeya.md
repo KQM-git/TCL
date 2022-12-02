@@ -91,6 +91,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Frostgnaw** does not have any hitlag.
+* **Frostgnaw** applies 4C Cryo to water, but 2B to enemies.
 
 </TabItem>
 

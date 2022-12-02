@@ -180,7 +180,7 @@ import Passive from '@site/src/components/char/Passive'
 | :------------- | :--------------------- |
 | Skill DMG      | 152.7%                 |
 | Particles      | 0                      |
-| GU             | 2B                     |
+| GU             | 1A                     |
 | Damage Element | Electro                |
 | Damage Type    | Charged Attack         |
 | Poise Damage   | 40                     |
