@@ -52,12 +52,12 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 </TabItem>
 <TabItem value="dendro" label="Dendro">
 
-| Character                | Normal Attack | Charged Attack | Skill Press                | Skill Hold | Burst                                                    | Misc   |
-| :----------------------- | :------------ | :------------- | :------------------------- | :--------- | :------------------------------------------------------- | :----- |
-| Collei                   | -             | 1A             | 1A                         | 1A         | On Cast: 1A<br />Leap: 1A                                | A1: 1A |
-| Nahida                   | 1A            | 1A             | On Cast: 1A<br />TKP: 1.5U | -          | -                                                        | C6: 1A |
-| Tighnari                 | -             | 1A             | 1A                         | -          | Tanglevine Shaft: 1A<br />Secondary Tanglevine Shaft: 1A | -      |
-| Traveler<br />\(Dendro\) | -             | -              | 1A                         | -          | Lamp AoE: 1A<br />Explosion: 2B                          | -      |
+| Character                | Normal Attack | Charged Attack | Skill Press                | Skill Hold | Burst                                                    | Misc               |
+| :----------------------- | :------------ | :------------- | :------------------------- | :--------- | :------------------------------------------------------- | :----------------- |
+| Collei                   | -             | 1A             | 1A                         | 1A         | On Cast: 1A<br />Leap: 1A                                | A1: 1A<br />C6: 1A |
+| Nahida                   | 1A            | 1A             | On Cast: 1A<br />TKP: 1.5U | -          | -                                                        | C6: 1A             |
+| Tighnari                 | -             | 1A             | 1A                         | -          | Tanglevine Shaft: 1A<br />Secondary Tanglevine Shaft: 1A | -                  |
+| Traveler<br />\(Dendro\) | -             | -              | 1A                         | -          | Lamp AoE: 1A<br />Explosion: 2B                          | -                  |
 
 </TabItem>
 <TabItem value="electro" label="Electro">
