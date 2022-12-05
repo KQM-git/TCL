@@ -75,7 +75,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------- | :------------ | :------------ | :------------------------------- |
 | DMG \(T9%\)    | 21.76% Max HP | 25.02% Max HP | 18.36 + 2114 Max HP (absorption) |
 | Particles      | 1~2 (2:1)     | -             | -                                |
-| GU             | 1A            | 1A            | 1A (self)                        |
+| GU             | 1U            | 1U            | 1U (self)                        |
 | ICD            | None          | 7 hit / 3s    | -                                |
 | Snapshot       | -             | Snapshot      | -                                |
 | Damage Element | Cryo          | Cryo          | Cryo                             |
@@ -97,7 +97,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst        |
 | :---------------- | :----------- |
 | Burst DMG \(T9%\) | 7.9% Max HP  |
-| GU                | 1A           |
+| GU                | 1U           |
 | ICD               | 3 hit / 2.5s |
 | Snapshot          | Snapshot     |
 | Damage Element    | Cryo         |
