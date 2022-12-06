@@ -1743,6 +1743,53 @@ Credits to Aevean Leeow\#1362 and pai\#3602 for testing, and BlueBery\#9054 for 
 **Significance:**  
 Better understanding of how Burning works by digging into whose ownership is it.  
 
+### Burning Snapshots EM
+
+**By:** milk tea romance\#9022  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)  
+
+**Finding:**  
+Burning snapshots the character's EM on trigger and refresh.  
+
+**Evidence:**  
+[YoUTube](https://www.youtube.com/watch?v=h3cRxXKhS3k)  
+We understand that 4-Piece Gilded Dreams does not apply bonus EM to the reaction that triggers the set bonus (with the exception of Hyperbloom).  
+  
+Klee's EM without 4GD bonus: 80  
+Klee's EM with 4GD bonus: 130  
+  
+When Klee triggers 4GD with Burning, Burning DMG is consistently 525, even though EM had been increased to 130 upon triggering the reaction. To demonstrate Burning with 130 EM, Klee refreshes Burning with the bonus EM, and Burning damage is now consistently 643.  
+  
+**Significance:**  
+Better understanding of the Burning reaction.  
+
+### Burning Refresh Mechanics
+
+**By:** Chronopolize\#6513  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)
+
+
+**Theory:**  
+Burning refreshes Pyro some time between 0.25s and 0.47s after the "Burning" text appears, then every 2s after.  
+
+**Evidence:**  
+* 0.8U Burning
+  * Cyro 0.25s after, Pyro refreshes: [YouTube](https://www.youtube.com/watch?v=_s9m1Z3t2OU)
+  * Cryo 0.42s after, Pyro doesn't refresh: [YouTube](https://www.youtube.com/watch?v=4oj5HtRzOKc)
+  * Cryo 0.9s after, Pyro doesn't refresh: [YouTube](https://www.youtube.com/watch?v=_tqTvbhiKbA)
+* 1.2U Burning
+  * Cryo after 0.3s, Pyro refreshes: [YouTube](https://www.youtube.com/watch?v=PXTfQUZmkSQ)
+    * Relative to Ganyu's first arrow, the Cyro applications occur at 0s, 0.3s, 1.96s, and 2.26s
+    * If the Pyro refresh occurred at 0s and 2s (slightly later because TKP hits a bit after trigger), then Ganyu's 2nd Bloom would reduce the Pyro to ~0.3U and it would fade in ~3.5 secs. Instead, the Pyro lasts for a long time.
+    * Pyro disappears 12.06s after the first Cryo application. Subtracting 9.5s (0.8U decay time) we get 2.56s. This seems to confirm that Burning refreshes at 2.5 sec.
+
+**Significance:**  
+Burning Reverse Melt, most significantly for Ganyu. Having residual Pyro that's >0.5U is necessary to reignite Burning by applying Cryo + triggering Nahida's TKP.  
+
 ## Bloom
 
 ### Chemistry 101 What Are Reactions
@@ -1781,3 +1828,142 @@ On-reaction effects can be activated through Hyperbloom and Burgeon on Dendro Co
   
 **Significance:**  
 Better understanding of on-reaction effects triggering requirements with the Dendro installment of the Elemental Reaction System. This changes everything.  
+
+### Bloom Does Not Snapshot EM
+
+**By:** Mystathi\#9705  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)
+
+**Finding:**  
+Bloom reaction does not snapshot EM on seed creation.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/-kMd20P5MWY)  
+[YouTube](https://youtu.be/H-yfORRyW2g)  
+*Childe Bloom DMG with and without EM buffs after seed creation*  
+  
+**Significance:**  
+Further understanding of the Bloom reaction and EM buffs, can potentially lead to interesting setups.  
+
+### Applying Dendro to an Electro-Charged Target Triggers 2 Blooms
+
+**By:** Kolibri\#7675  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)  
+
+**Finding:**  
+Applying Dendro to an Electro-Charged target once can result in 2 Bloom reactions if the Hydro aura on the target is high enough. First trigger is from the Dendro attack, second trigger is from Quicken itself. The reaction text for the second Bloom reaction does not show up.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/kjISsjV3EQ0)  
+
+**Significance:**  
+Further understanding of Quicken and Bloom.  
+
+
+### Bloom Reactions Count as Hits from Your Character
+
+**By:** NZPIEFACE\#8439  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)
+
+**Finding:**  
+Bloom Explosion, Burgeon, and Hyperbloom count as hits from your character.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/gBc3HUWpDmM)  
+Qiqi Talisman is triggered by Bloom Explosion.  
+  
+See also: [Nahida C2 allows these reactions to trigger Favonius](../../characters/dendro/nahida.md#c2-the-root-of-all-fullness).  
+
+**Significance:**  
+Further understanding of Bloom reactions in general.  
+
+### Bloom ICD Can Be Bypassed When Using Multiple Sources
+
+**By:** VanIna\#2859  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)
+
+**Finding:**  
+By using more than one Hydro/Pyro/Electro source, each unit could take more than 2 instances of Bloom Explosion/Burgeon/Hyperbloom damage within the 0.5 second window.  
+
+**Evidence:**  
+* Bloom Explosion: [YouTube](https://youtu.be/pSdZkmZkHh0) (0:13, Bloom ownership is unknown)
+  * 3 Blooms were triggered and dealt different amounts of damage to both the character and the Hydro Slime.
+* Burgeon: [YouTube](https://youtu.be/zDgpfQ-C0NU)
+  * Xiangling's Guoba and Bennett's E triggered 5 Burgeons almost at the same time, 3 of which dealt damage to both the character and Azhdaha.
+* Hyperbloom: [YouTube](https://youtu.be/-V-F9Lqf2Gs)
+  * Razor E and Sara E triggered 4 Hyperblooms, all of which dealt damage to the enemy.
+  * 1 of the Dendro Cores expired right before the other 4 Hyperblooms were triggered.
+
+**Significance:**  
+Previous knowledge about the reactions' ICD is insufficient. Further testing should be conducted to find out more about the actual mechanic of these reactions.  
+
+## Hyperbloom
+
+### Hyperbloom Damaging the Player
+
+**By:** KB\#1111  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)
+
+
+**Findings:**  
+1. Hyperbloom has a small AoE that can damage the player if you are hugging the enemy that is targeted.
+2. If there are no enemies nearby then the Hyperbloom will not target the player.
+
+**Evidence:**  
+1. [YouTube](https://youtu.be/Fqcp_czu7K0)
+2. [YouTube](https://youtu.be/kOLwqb0a8vc)
+
+**Significance:**  
+Better understanding of Hyperbloom targetting.
+
+### Hyperbloom Targets the Closest Enemy
+
+**By:** pai\#3602  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)
+
+**Finding:**  
+When triggering Hyperbloom, the Sprawling Shot targets the enemy that is closest to the Dendro Core.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/fpZj3hFTonk)  
+
+**Significance:**  
+Hyperbloom always targets the enemy that is closest to the Dendro Core at the time it's triggered, even if the enemy moves and ends up further than another enemy by the time Hyperbloom deals damage.  
+
+## Burgeon
+
+### Burgeon Self-Damage is Only Affected By Character RES
+
+**By:** igneus\#7654  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)
+
+**Finding:**  
+The Dendro self-damage from Burgeon is only affected by the character's resistance.  
+
+**Evidence:**  
+* No RES Shred: [Imgur](https://imgur.com/a/d5Dw1pt)
+  * Damage to enemy: 15425
+  * Damage to character: 856
+* Dendro RES Shred on enemy (4DM): [Imgur](https://imgur.com/a/yDHIEJ9)
+  * Damage to enemy: 18853
+  * Damage to character: 856
+* Dendro RES Shred on enemy (4DM) and character (Dendro RES Potion): [Imgur](https://imgur.com/a/WEH3Wxm)
+  * Damage to enemy: 18853
+  * Damage to character: 642
+
+**Significance:**  
+Useful to know.  

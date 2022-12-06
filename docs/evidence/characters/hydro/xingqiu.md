@@ -152,6 +152,22 @@ Xingqiu Orbital ICD is 2.25 Seconds
 **Significance:**  
 Better knowledge for teambuilding and rotations.
 
+### Rain Swords Don't Reduce Burgeon DMG
+
+**By:** igneus\#7654  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)  
+
+**Finding:**  
+Xingqiu's Rain Swords don't reduce the Burgeon DMG dealt to the player.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/r1oZlB8)  
+  
+**Significance:**  
+Further understanding of how the damage reduction from Rain Swords works.  
+
 ## Burst Mechanics
 
 ### Introverted Rainswords
