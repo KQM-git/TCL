@@ -1654,50 +1654,6 @@ Fluff. This passive sucks.
 
 ## Inazuma
 
-### Inazuma Artifact Spots
-
-**By:** Mcpie#8672  
-**Added:** <Version date="2021-12-16" />  
-**Last tested:** <VersionHl date="2021-12-16" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868098829361229834_920808595594043402_transcript-inazuma-artifact-spots.html)
-
-**Finding:** There are currently 214 (+1 or +2) respawnable investigation spots that drop artifacts.
-
-Pre 2.0:
-
-* Liyue (pre 2.0) - 48 spots.
-* Dragonspine - 7 spots.
-
-2.0:
-
-* Liyue (added in 2.0) - 6 spots.
-* Inazuma non-Tatarasuna - 24 spots.
-* Tatarasuna - 24 spots.
-* Bake-danukis - 11 spots.
-* Cannons - 5 spots.
-* Conch spots on the beach - either 1 or 2 spots - rng based.
-
-Patch 2.1 introduced 2 more islands. Each island has:
-
-* Seirai island: 44 spots.
-* Watatsumi island: 24 spots.
-* Bake-danukis - 6 spots.
-
-Patch 2.2 introduced Tsurumi Island:
-
-* Moshiri Kara: 1 spot (north of Tsurumi Island).
-* Tsurumi Island: 14 spots.
-
-Maps:
-
-* [Liyue + Dragonspine](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/liyue.jpg)
-* [Inazuma + Bake-danukis](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/inazuma.jpg)
-* [Cannons](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/cannon-guide.jpg) (by Miin from Hoyolab).
-
-**Evidence:**
-Transcript of this entire ticket + spreadsheet displaying each spot with a screenshot and video for each spot: [Spreadsheet](https://docs.google.com/spreadsheets/d/1zDMPfY8SKR7mb-tASNedWmj62wJOnDbSsVVR17ykg6I)  
-Unfortunately we're unable to tell if we managed to cover all of the spots, but based on our research (from the transcript) we managed to gather 144 (+1/+2) investigation spots that drop artifacts.
-
 ### Electro Seelie Electro Application Vertical Range
 
 **By:** EatYourVeggies#7493  
@@ -1938,6 +1894,56 @@ Summary:
 
 **Significance:**  
 Using the Treasure Compass to play ChestColle
+
+### Artifact Spots
+
+**By:** Mcpie#8672  
+**Added:** <Version date="2021-12-16" />  
+**Last tested:** <VersionHl date="2022-12-04" />  
+[Original Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868098829361229834_920808595594043402_transcript-inazuma-artifact-spots.html)  
+[Updated Discussion](https://tickets.deeznuts.moe/transcripts/artifact-spots-chasm) (2022-12-04)  
+
+**Finding:**  
+There are currently 233 (+1 or +2) respawnable investigation spots that drop artifacts.
+
+Pre 2.0:
+
+* Liyue (pre 2.0) - 48 spots.
+* Dragonspine - 7 spots.
+
+2.0:
+
+* Liyue (added in 2.0) - 6 spots.
+* Inazuma non-Tatarasuna - 24 spots.
+* Tatarasuna - 24 spots.
+* Bake-danukis - 11 spots.
+* Cannons - 5 spots.
+* Conch spots on the beach - either 1 or 2 spots - rng based.
+
+Patch 2.1 introduced 2 more islands. Each island has:
+
+* Seirai island: 44 spots.
+* Watatsumi island: 24 spots.
+* Bake-danukis - 6 spots.
+
+Patch 2.2 introduced Tsurumi Island:
+
+* Moshiri Kara: 1 spot (north of Tsurumi Island).
+* Tsurumi Island: 14 spots.
+
+Patch 2.6 introduced The Chasm:
+* Overworld: 4 spots.
+* Underground: 25 spots.
+
+Maps:
+
+* [Liyue + Dragonspine](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/liyue.jpg)
+* [Inazuma + Bake-danukis](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/inazuma.jpg)
+* [Cannons](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/cannon-guide.jpg) (by Miin from Hoyolab).
+* [The Chasm](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/chasm.jpg) (with help from Grimy#3720, Aspiring Trophy Husband#6937, Vandarf#6269, and HowLxxxx#4676)
+
+**Evidence:**  
+Transcript of this entire ticket + spreadsheet displaying each spot with a screenshot and video for each spot: [Spreadsheet](https://docs.google.com/spreadsheets/d/1zDMPfY8SKR7mb-tASNedWmj62wJOnDbSsVVR17ykg6I)  
 
 ### Flying Anemo Slimes Have Hitboxes
 

@@ -42,6 +42,49 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 
 * During the commission “Ahoy! A Pirate's Growth for Ye!” Little Meng throws a bottle into Bishui River. If you approach the middle of the river, you can find and read the bottle, and you can also climb and stand atop of it. 
 
+## Artifact Spots
+
+As of Version 2.6, there are 233 (+1 or +2) respawnable investigation spots that drop artifacts.
+
+### Additions
+
+Pre 2.0:
+
+* Liyue (pre 2.0) - 48 spots.
+* Dragonspine - 7 spots.
+
+2.0:
+
+* Liyue (added in 2.0) - 6 spots.
+* Inazuma non-Tatarasuna - 24 spots.
+* Tatarasuna - 24 spots.
+* Bake-danukis - 11 spots.
+* Cannons - 5 spots.
+* Conch spots on the beach - either 1 or 2 spots - rng based.
+
+Patch 2.1 introduced 2 more islands. Each island has:
+
+* Seirai island: 44 spots.
+* Watatsumi island: 24 spots.
+* Bake-danukis - 6 spots.
+
+Patch 2.2 introduced Tsurumi Island:
+
+* Moshiri Kara: 1 spot (north of Tsurumi Island).
+* Tsurumi Island: 14 spots.
+
+Patch 2.6 introduced The Chasm:
+* Overworld: 4 spots.
+* Underground: 25 spots.
+
+### Maps
+
+* [Liyue + Dragonspine](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/liyue.jpg)
+* [Inazuma + Bake-danukis](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/inazuma.jpg)
+* [Cannons](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/cannon-guide.jpg)
+  It is advised to leave Tatarasuna for last due to the [investigation spot daily limit](../general-mechanics/resources-and-efficiency.md#overworld-farming).
+* [The Chasm](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/chasm.jpg)
+
 ## Waverider Mechanics
 
 ### General
@@ -214,42 +257,6 @@ As of 3.0, coordinates are no longer available in the feedback url.
 
 * Electro seelie when on a mount, can apply Electro at any vertical range, but not when it has yet to reach its final destination. [Vault Entry](../evidence/general-mechanics/overworld.md#electro-seelie-electro-application-vertical-range)
 * During Daily Commissions, Phase Gates will be invisible but can still be used.
-
-### Artifact Spots
-
-There are currently 214 (+1 or +2) respawnable investigation spots that drop artifacts.
-
-Pre 2.0:
-
-* Liyue (pre 2.0) - 48 spots.
-* Dragonspine - 7 spots.
-
-2.0:
-
-* Liyue (added in 2.0) - 6 spots.
-* Inazuma non-Tatarasuna - 24 spots.
-* Tatarasuna - 24 spots.
-* Bake-danukis - 11 spots.
-* Cannons - 5 spots.
-* Conch spots on the beach - either 1 or 2 spots - rng based.
-
-Patch 2.1 introduced 2 more islands. Each island has:
-
-* Seirai island: 44 spots.
-* Watatsumi island: 24 spots.
-* Bake-danukis - 6 spots.
-
-Patch 2.2 introduced Tsurumi Island:
-
-* Moshiri Kara: 1 spot (north of Tsurumi Island).
-* Tsurumi Island: 14 spots.
-
-Maps:
-
-* [Liyue + Dragonspine](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/liyue.jpg)
-* [Inazuma + Bake-danukis](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/inazuma.jpg)
-* [Cannons](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/cannon-guide.jpg) (by Miin from Hoyolab).  
-  It is advised to leave Tatarasuna for last due to the [investigation spot daily limit](../general-mechanics/resources-and-efficiency.md#overworld-farming).
 
 ### Enkanomiya
 
