@@ -17,9 +17,9 @@ search: false
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1NCDFtvqFdXlVRd_0eH2tPw7xMD50AxUCvbWDh1XGhEw/edit?usp=sharing) - Shizuka\#7791
 * Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Gauges - Neptunya\#8291
-  * E Tap: [1A](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157553298243594_TapE_1A.mp4)
-  * E Hold: [1A](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157530572980244_HoldE_1A.mp4)
-  * Q: [2B](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157584881614858_Burst_2B.mp4)
+  * E Tap: [1U](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157553298243594_TapE_1A.mp4)
+  * E Hold: [1U](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157530572980244_HoldE_1A.mp4)
+  * Q: [2U](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157584881614858_Burst_2B.mp4)
 * Energy Gen - Steph\#3614
   * Tap E: 1~2 \(1:1\)
   * Hold E: 2~3 \(1:1\)

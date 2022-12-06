@@ -113,7 +113,7 @@ import LumineCA from '../_common/lumine_ca.md'
 | :---------------- | :----------- |
 | Skill DMG \(T9%\) | 133.73% x 3  |
 | Particles         | 1            |
-| GU                | 1A           |
+| GU                | 1U           |
 | ICD               | 3 hit / 2.5s |
 | Snapshot          | Snapshot     |
 | Damage Element    | Electro      |
@@ -151,7 +151,7 @@ import LumineCA from '../_common/lumine_ca.md'
 | Skill DMG \(T9%\)           | 194.48%                             |
 | Falling Thunder DMG \(T9%\) | 55.76%                              |
 | Energy Regeneration         | 1                                   |
-| GU                          | 1A                                  |
+| GU                          | 1U                                  |
 | ICD                         | 3 hit / 2.5s                        |
 | Snapshot                    | Snapshot                            |
 | Damage Element              | Electro                             |

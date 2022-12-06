@@ -13,9 +13,9 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/transcripts/candace-basic-mechanics-1024513911459946547)
 
 * Gauges - Puffin\#9920
-  * E (tap and hold): 1A - [Video](https://www.youtube.com/watch?v=hvcrj4nT-s0)
-  * Q: 1A
-  * Q (after swapping): 1A - [Video](https://www.youtube.com/watch?v=pfCoUt4Glto)
+  * E (tap and hold): 1U - [Video](https://www.youtube.com/watch?v=hvcrj4nT-s0)
+  * Q: 1U
+  * Q (after swapping): 1U - [Video](https://www.youtube.com/watch?v=pfCoUt4Glto)
 * ICDs:
   * E - Bobrokrot\#0111
     * Tap: No ICD - [Video](https://youtu.be/aAAwH6Cu25U)

@@ -81,7 +81,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------- | :--------------- |
 | Skill DMG (T9%) | 285.6% + 325.04% |
 | Particles       | 5 \(-\)          |
-| GU              | 1A \(x2\)        |
+| GU              | 1U \(x2\)        |
 | ICD             | None             |
 | Damage Element  | Hydro            |
 | Damage Type     | Skill            |
@@ -95,7 +95,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------ | :------------------ |
 | DMG Reduction (T9%) | 20% Hydro DMG + 28% |
 | Snapshot            | Snapshot            |
-| GU                  | 1A                  |
+| GU                  | 1U                  |
 | ICD                 | 2.25s               |
 | Duration            | 15s                 |
 
@@ -122,7 +122,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute            | Burst                             |
 | :------------------- | :-------------------------------- |
 | Sword Rain DMG (T9%) | 92.26%                            |
-| GU                   | 1A                                |
+| GU                   | 1U                                |
 | ICD                  | 3 hit / 2.5s                      |
 | Snapshot             | Dynamic                           |
 | Damage Element       | Hydro                             |

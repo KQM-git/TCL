@@ -131,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
 | Effect            | Slash         | DoT           | Elemental DMG    |
 | :---------------- | :------------ | ------------- | :--------------- |
 | Skill DMG \(T9%\) | 446.08%       | 204%          | 61.2%            |
-| GU                | 2U            | 1U            | 1A               |
+| GU                | 2U            | 1U            | 1U               |
 | ICD               | None          | None          | None             |
 | Snapshot          | Snapshot      | Snapshot      | Snapshot         |
 | Damage Element    | Anemo         | Anemo         | Absorbed Element |
@@ -173,7 +173,7 @@ import Passive from '@site/src/components/char/Passive'
 | Type           | Soumon Swordsmanship |
 | :------------- | :------------------- |
 | Skill DMG      | 200%                 |
-| GU             | 1A                   |
+| GU             | 1U                   |
 | Damage Element | Absorbed Element     |
 | Damage Type    | Plunge               |
 

@@ -13,11 +13,11 @@ search: false
 
 * Frame data - [Kolibri\#7675](https://docs.google.com/spreadsheets/d/1z0v3NT1o1iNrVppT_S0C542YDo6jhdKShLcPsnavfO8/edit?usp=sharing)
 * Gauges
-  * Skill Initial: 1A - [kxmndz#4700](https://youtu.be/ZR15KAix-kg)
-  * Skill Pirouette: 1A - [kxmndz#4700](https://youtu.be/XBOk6cE5B5A)
-  * Skill Sword Dance: 1A - [kxmndz#4700](https://youtu.be/se3VJP0jVG8)
-  * Burst 1st Hit: 1A - [kxmndz#4700](https://youtu.be/kAlX3Lz5lYY)
-  * Burst 2nd Hit: 1A - [kxmndz#4700](https://youtu.be/5T03ECdN2fc)
+  * Skill Initial: 1U - [kxmndz#4700](https://youtu.be/ZR15KAix-kg)
+  * Skill Pirouette: 1U - [kxmndz#4700](https://youtu.be/XBOk6cE5B5A)
+  * Skill Sword Dance: 1U - [kxmndz#4700](https://youtu.be/se3VJP0jVG8)
+  * Burst 1st Hit: 1U - [kxmndz#4700](https://youtu.be/kAlX3Lz5lYY)
+  * Burst 2nd Hit: 1U - [kxmndz#4700](https://youtu.be/5T03ECdN2fc)
 * ICD
   * Skill Tranquility Aura: 4-hit/1.9s - [Trosalio#0420](https://www.youtube.com/watch?v=DzMtLDZI4OM)
 * Snapshotting

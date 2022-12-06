@@ -4,10 +4,10 @@ Enemies apply Elemental Auras that use the same system as Elemental Gauge Theory
 
 | Enemy                            | Attack Gauge                          |
 | :------------------------------- | :------------------------------------ |
-| Electro Cicin Mage               | 2B Electro                            |
-| Electro Hilichurl Shooter        | 2B Electro                            |
-| Pyro Hilichurl Shooter           | 2B Pyro                               |
-| Cryo Hilichurl Shooter           | 2B Cryo                               |
-| Hillichurl Berserker (Pyro Club) | 2B Pyro Single Hit <br/> 1A Pyro Dash |
+| Electro Cicin Mage               | 2U Electro                            |
+| Electro Hilichurl Shooter        | 2U Electro                            |
+| Pyro Hilichurl Shooter           | 2U Pyro                               |
+| Cryo Hilichurl Shooter           | 2U Cryo                               |
+| Hillichurl Berserker (Pyro Club) | 2U Pyro Single Hit <br/> 1U Pyro Dash |
 
 <Card item={require('../../evidence/combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md')} />

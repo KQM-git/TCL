@@ -164,7 +164,7 @@ Patch 2.6 introduced The Chasm:
 * The area in which an Electro crystal can zap a player is [rectangular, with the crystal positioned off-center](./overworld.md#electro-crystal-range).
 * Electro crystals near a beach/water seem to have a special electric field with many irregular properties.
 * An electric crystal can have its aura removed, but it will be reapplied.
-* When it's raining, you can apply Hydro aura using 2B Cryo (Kaeya) then end rain (by time skipping) and the crystal will not apply Electro to itself again. It has to be 2B, 1A won’t work.
+* When it's raining, you can apply Hydro aura using 2U Cryo (Kaeya) then end rain (by time skipping) and the crystal will not apply Electro to itself again. It has to be 2U, 1U won’t work.
 * So far the crystal can hold Cryo, Hydro, and Electro.
 
 ## Plants

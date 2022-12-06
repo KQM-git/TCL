@@ -24,9 +24,9 @@ search: false
 
 * Gauges:
 
-  * [E](https://www.youtube.com/watch?v=LCa_MauVjYI) [1A](https://youtu.be/YVdFQI9LUXE) - CC#5588
-  * Q Initial Hit [2B](https://youtu.be/PTpFdCjjdWk) - CC#5588
-  * Q Attacks [1A](https://youtu.be/0gtPwtBK_WU) - CC#5588
+  * [E](https://www.youtube.com/watch?v=LCa_MauVjYI) [1U](https://youtu.be/YVdFQI9LUXE) - CC#5588
+  * Q Initial Hit [2U](https://youtu.be/PTpFdCjjdWk) - CC#5588
+  * Q Attacks [1U](https://youtu.be/0gtPwtBK_WU) - CC#5588
 
 * ICDs:
   * Raiden's polearm Charged Attacks have an ICD independent of normals, and its ICD is short enough that N1C spam causes a reacted Charged Attack consistently. - [Phana#0420](https://i.imgur.com/fevoAd5.mp4)

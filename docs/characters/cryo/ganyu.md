@@ -48,8 +48,8 @@ import Skill from '@site/src/components/char/Skill'
 | Type                     | Talent 9% | Frames | MV/s      | GU  | Poise Damage             | Impulse Type          |
 | :----------------------- | :-------- | :----- | :-------- | :-- | :----------------------- | :-------------------- |
 | Aimed Shot               | 80.58%    | 25     | 193.39%/s | -   | 10 \(Headshot: 30\)      | 2                     |
-| Charge Level 1           | 210.8%    | 85     | 148.80%/s | 1A  | 20 \(Headshot: 60\)      | 5                     |
-| Frostflake Arrow + Bloom | 217.6%    | 113    | 311.96%/s | 1A  | 20 \(Headshot: 60\) + 40 | 2 \(Headshot: 5\) + 1 |
+| Charge Level 1           | 210.8%    | 85     | 148.80%/s | 1U  | 20 \(Headshot: 60\)      | 5                     |
+| Frostflake Arrow + Bloom | 217.6%    | 113    | 311.96%/s | 1U  | 20 \(Headshot: 60\) + 40 | 2 \(Headshot: 5\) + 1 |
 
 </div>
 <div class='talent-columns'>
@@ -68,7 +68,7 @@ import Skill from '@site/src/components/char/Skill'
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * **Frostflake Bloom** is considered a Charged Attack.
-* Both **Frostflake Arrow** and **Frostflake Bloom** will apply 1A Cryo.
+* Both **Frostflake Arrow** and **Frostflake Bloom** will apply 1U Cryo.
 * **Frostflake Bloom** will damage enemies within a cylinder regardless of distance from the **Frostflake Arrow** on the same frame.
 * Ganyu's Charged Attacks snapshot on release, including the Bloom.
 * Ganyu cannot perform the "ARCC" aimed shot animation cancel without Constellation 6.
@@ -88,7 +88,7 @@ import Skill from '@site/src/components/char/Skill'
 | Inherited HP                   | 204% max HP                |
 | Cast Particles                 | 2                          |
 | Expiration/Destroyed Particles | 2                          |
-| GU                             | 1A                         |
+| GU                             | 1U                         |
 | ICD                            | None                       |
 | Snapshot                       | Snapshot                   |
 | Damage Element                 | Cryo                       |
@@ -117,7 +117,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute              | Ice Shard       |
 | :--------------------- | :-------------- |
 | Skill DMG \(T9%\)      | 119.46% \* 50   |
-| GU                     | 1A              |
+| GU                     | 1U              |
 | ICD                    | 3 hit / 2.5s    |
 | Snapshot               | Snapshot        |
 | Damage Element         | Cryo            |

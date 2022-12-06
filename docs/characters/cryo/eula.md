@@ -80,7 +80,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- | :---------- | :------------- |
 | Skill DMG \(T9%\) | 248.88%     | 417.52%     | 163.2%         |
 | Particles         | 1~2 \(1:1\) | 2~3 \(1:1\) | -              |
-| GU                | 1A          | 1A          | 1A             |
+| GU                | 1U          | 1U          | 1U             |
 | ICD               | None        | None        | 3 hits / 2.5s  |
 | Snapshot          | -           | -           | -              |
 | Damage Element    | Cryo        | Cryo        | Cryo           |
@@ -116,7 +116,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)                | 417.52%       | -               |
 | Lightfall Sword Base DMG \(T9%\) | -             | 674.34%         |
 | DMG Per Stack \(T9%\)            | -             | 137.78%         |
-| GU                               | 2B            | None            |
+| GU                               | 2U            | None            |
 | ICD                              | None          | None            |
 | Snapshot                         | Dynamic       | Dynamic         |
 | Damage Element                   | Cryo          | Physical        |

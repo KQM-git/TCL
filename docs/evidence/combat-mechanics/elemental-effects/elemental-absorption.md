@@ -80,7 +80,7 @@ These tests were repeated many times, the most clean of which are presented in t
 
 Experimental verification of Venti Q priority for Pyro > Electro:  
 https://www.youtube.com/watch?v=LDW9YJd9WFI  
-Note: These test was performed in Co-op as Venti's Q first infusion tick resolves before the player that fired it can get into the absorption range. In order to show that this method is conclusive the reverse case of the other player carrying Electro and the Ruin Guard carrying 2B Pyro is included below:  
+Note: These test was performed in Co-op as Venti's Q first infusion tick resolves before the player that fired it can get into the absorption range. In order to show that this method is conclusive the reverse case of the other player carrying Electro and the Ruin Guard carrying 2U Pyro is included below:  
 https://www.youtube.com/watch?v=vTxVtjGQ6WM  
 Electro > Cryo:  
 https://www.youtube.com/watch?v=c76r0Y16r_Y  
@@ -133,7 +133,7 @@ This ticket explores the interesting properties that aura-checks have.
 * 1: Aura-checks will only happen if the attack has the ability to absorb elements, with the exception of the Anemo Traveler's Tap Elemental Skill, which triggers two aura-checks right after the final blast happens, despite not having Elemental Absorption. This is thought to be due to its transition into the Hold version of the Skill, which does have Elemental Absorption.
   * [Stats before final blast, 0% Shield Strength](https://imgur.com/a/kmWdCHz)
   * [Stats after final blast, 10% Shield Strength](https://imgur.com/a/wmuQ9iT)
-* 1A: Anemo Traveler's Elemental Skill \(Tap\) will only trigger one aura-check instead of two if an Element is encountered. However, it will not deal absorbed Elemental damage regardless.
+* 1U: Anemo Traveler's Elemental Skill \(Tap\) will only trigger one aura-check instead of two if an Element is encountered. However, it will not deal absorbed Elemental damage regardless.
   * [Stats after final blast, 5% Shield Strength](https://imgur.com/a/zNtigOD)
 * 1B: If the Elemental Skill is missing an ascension talent which allows it to absorb elements, as in the case of Kazuha's Elemental Skill, Chihayaburu, it will fail to trigger any aura-checks.
 
@@ -151,7 +151,7 @@ This ticket explores the interesting properties that aura-checks have.
   * [Venti Burst](https://imgur.com/a/3x3HUvr)
   * [Anemo Traveler Hold Skill](https://imgur.com/a/nycRLzY)
   * [Framecounting](https://youtu.be/948xDebQw7I)
-* 2B: Aura-checks will always trigger/hit once regardless of if the user has an Aura to immediately absorb.
+* 2U: Aura-checks will always trigger/hit once regardless of if the user has an Aura to immediately absorb.
 
   * [Kazuha's Elemental Burst](https://imgur.com/a/ChwdjIY)
   * [Anemo Traveler's Elemental Skill\(Tap\)](https://imgur.com/a/zNtigOD)

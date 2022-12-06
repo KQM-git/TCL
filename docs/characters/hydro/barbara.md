@@ -34,10 +34,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 64.33%    | 15     | 257.32%/s | 1A  | 7.35         | 1            |
-| 2-Hit         | 60.38%    | 21     | 172.51%/s | 1A  | 7.5          | 1            |
-| 3-Hit         | 69.77%    | 22     | 190.28%/s | 1A  | 7.5          | 1            |
-| 4-Hit         | 93.84%    | 60     | 93.84%/s  | 1A  | 9.45         | 2            |
+| 1-Hit         | 64.33%    | 15     | 257.32%/s | 1U  | 7.35         | 1            |
+| 2-Hit         | 60.38%    | 21     | 172.51%/s | 1U  | 7.5          | 1            |
+| 3-Hit         | 69.77%    | 22     | 190.28%/s | 1U  | 7.5          | 1            |
+| 4-Hit         | 93.84%    | 60     | 93.84%/s  | 1U  | 9.45         | 2            |
 
 </div>
 <div class='talent-columns'>
@@ -45,7 +45,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9% | Frames | MV/s      | GU  | ICD  | Poise Damage | Impulse Type |
 | :------------- | :-------- | :----- | :-------- | :-- | :--- | :----------- | :----------- |
-| Charged Attack | 282.61%   | 89     | 190.52%/s | 1A  | 0.5s | 30           | 3            |
+| Charged Attack | 282.61%   | 89     | 190.52%/s | 1U  | 0.5s | 30           | 3            |
 
 </div>
 <div class='talent-columns'>
@@ -53,9 +53,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type            | Talent 9% | GU  | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :-- | :----------- | :----------- |
-| Plunge DMG      | 104.41%   | 1A  | 5            | 2            |
-| Low Plunge DMG  | 208.77%   | 1A  | 50           | 3            |
-| High Plunge DMG | 260.76%   | 1A  | 100          | 4            |
+| Plunge DMG      | 104.41%   | 1U  | 5            | 2            |
+| Low Plunge DMG  | 208.77%   | 1U  | 50           | 3            |
+| High Plunge DMG | 260.76%   | 1U  | 100          | 4            |
 
 </div>
 
@@ -77,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | Continuous Regen \(T9%\) | 6.8% Max HP + 783               |
 | Droplet DMG \(T9%\)      | 99.28%                          |
 | Particles                | 0                               |
-| GU                       | 1A                              |
+| GU                       | 1U                              |
 | Duration                 | 15s                             |
 | Cooldown                 | 32s                             |
 | Poise Damage             | Droplet: 40 <br/> Hydro app.: 0 |

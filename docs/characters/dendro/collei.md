@@ -42,7 +42,7 @@ import Skill from '@site/src/components/char/Skill'
 | Type             | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type      |
 | :--------------- | :-------- | :----- | :--------- | :-- | :------------------ | :---------------- |
 | Aimed Shot       |  80.58%   | ?      | ?          | -   | 10 \(Headshot: 40\) | 2 \(Headshot: 5\) |
-| Fully Charged    |  210.8%   | ?      | ?          | 1A  | 20 \(Headshot: 80\) | 2 \(Headshot: 5\) |
+| Fully Charged    |  210.8%   | ?      | ?          | 1U  | 20 \(Headshot: 80\) | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -72,7 +72,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-----------------------  | :------ |
 | DMG \(T9%\)               | 257.04% |
 | Particles                 | 3 \(-\) |
-| GU                        | 1A      |
+| GU                        | 1U      |
 | ICD                       | None    |
 | Snapshot                  |         |
 | Damage Element            | Dendro  |
@@ -98,7 +98,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Explosion       | Leap            |
 | :---------------- | :-------------- | :-------------- |
 | DMG \(T9%\)       | 343.1%          | 73.52%          |
-| GU                | 1A              | 1A              |
+| GU                | 1U              | 1U              |
 | ICD               | 3s              | 3s              |
 | Snapshot          | Snapshot        | Snapshot        |
 | Damage Element    | Dendro          | Dendro          |

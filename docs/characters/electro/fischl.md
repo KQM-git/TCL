@@ -50,7 +50,7 @@ import Skill from '@site/src/components/char/Skill'
 | Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
 | :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
 | Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1U  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -82,7 +82,7 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------- | :------ |
 | Cast DMG \(T9%\) | 196.25% |
 | Particles        | 0       |
-| GU               | 1A      |
+| GU               | 1U      |
 | ICD              | None    |
 | Damage Element   | Electro |
 | Damage Type      | Skill   |
@@ -105,7 +105,7 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------------- | :---------- |
 | Normal Attacks \(T9%\) | 150.96%     |
 | Particles              | 0~1 \(1:2\) |
-| GU                     | 1A          |
+| GU                     | 1U          |
 | ICD                    | 4 hits / 5s |
 | Snapshot               | Snapshot    |
 | Duration               | 10s         |
@@ -131,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst          |
 | :---------------- | :------------- |
 | Skill DMG \(T9%\) | 353.6%         |
-| GU                | 1A             |
+| GU                | 1U             |
 | ICD               | Shared With C4 |
 | Snapshot          | Snapshot       |
 | Damage Element    | Electro        |
@@ -180,7 +180,7 @@ import Passive from '@site/src/components/char/Passive'
 | :------------- | :--------------------- |
 | Skill DMG      | 152.7%                 |
 | Particles      | 0                      |
-| GU             | 1A                     |
+| GU             | 1U                     |
 | Damage Element | Electro                |
 | Damage Type    | Charged Attack         |
 | Poise Damage   | 40                     |
@@ -199,7 +199,7 @@ import Passive from '@site/src/components/char/Passive'
 | Attribute        | A4      |
 | :--------------- | :------ |
 | Skill DMG        | 80%     |
-| GU               | 1A      |
+| GU               | 1U      |
 | ICD              | None    |
 | Damage Elemental | Electro |
 | Damage Type      | Skill   |
@@ -259,7 +259,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | Attribute               | Burst                                   |
 | :---------------------- | :-------------------------------------- |
 | Her Pilgrimage of Bleak | 222%                                    |
-| GU                      | 2B                                      |
+| GU                      | 2U                                      |
 | ICD                     | Shared With **Midnight Phantasmagoria** |
 | Damage Type             | Elemental Burst                         |
 | Poise Damage            | 500                                     |
@@ -284,7 +284,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | :------------- | :---------- |
 | Joint Attack   | 30%         |
 | Particles      | 0           |
-| GU             | 1A          |
+| GU             | 1U          |
 | ICD            | 4 hits / 5s |
 | Snapshot       | Snapshot    |
 | Attack Speed   | No Limit    |

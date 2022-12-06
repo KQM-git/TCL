@@ -11,8 +11,8 @@ search: false
 ## Basic Mechanics
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1buBVBvlgfNcRA09XA3BLm-oA7hpCVRYkGt_7kPBYJu0/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
-* Rosaria's E is 1A Cryo on both hits and has [no ICD](https://imgur.com/vpy8JVR)
-* Rosaria's Q applies 1A Cryo on every damage tick with [no ICD](https://imgur.com/jwQ4MTn)
+* Rosaria's E is 1U Cryo on both hits and has [no ICD](https://imgur.com/vpy8JVR)
+* Rosaria's Q applies 1U Cryo on every damage tick with [no ICD](https://imgur.com/jwQ4MTn)
 * Rosaria's CRIT bonus from her A1 is included in her [A4 CRIT sharing](https://imgur.com/Gvmc6pN)
 * Rosaria's A1 CRIT bonus doesn't apply if you use her E while already [behind an enemy](https://imgur.com/Ye5ro0C)
 

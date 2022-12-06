@@ -104,7 +104,7 @@ $$
 &\text{Frozen Aura Gauge}=2 * \min\text{(Origin Aura Gauge when Frozen, Trigger Element Gauge)}\\\\
 &\text{Freeze Duration}=2 * \sqrt{5 * \text{Frozen Aura Gauge}+4}-4\\\\
 &\text{Time is in seconds}\\\\
-&\text{Gauge has to be 1A, 2B, or 4C}
+&\text{Gauge has to be 1U, 2U, or 4U}
 \end{align*}
 $$
 

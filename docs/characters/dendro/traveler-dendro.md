@@ -109,7 +109,7 @@ import LumineCA from '../_common/lumine_ca.md'
 | :------------- | :---------- |
 | DMG \(T9%\)    | 391.68%     |
 | Particles      | 2~3 \(1:1\) |
-| GU             | 1A          |
+| GU             | 1U          |
 | ICD            | None        |
 | Damage Element | Dendro      |
 | Damage Type    | Skill       |
@@ -135,7 +135,7 @@ import LumineCA from '../_common/lumine_ca.md'
 | DMG \(T9%\)    | 136.27%              | 136.27%              | 136.27%              | 681.36%                           |
 | Tick Rate      | 1.5s                 | 1.5s                 | 0.9s                 | -                                 |
 | Total Ticks    | C0: 9<br />C2: 11    | C0: 9<br />C2: 11    | C0: 15<br />C2: 17   | -                                 |
-| GU             | 1A                   | 1A                   | 1A                   | 2B                                |
+| GU             | 1U                   | 1U                   | 1U                   | 2U                                |
 | ICD            | 3 hit / 2.5s         | 3 hit / 2.5s         | 3 hit / 2.5s         | None                              |
 | Snapshot       | Snapshot             | Snapshot             | Snapshot             | Snapshot                          |
 | Damage Element | Dendro               | Dendro               | Dendro               | Dendro                            |

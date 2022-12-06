@@ -15,9 +15,9 @@ search: false
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1VL6nQvehIj8wTFC6ACC88p3i8lGUZnZV8Lx0G1dZp88/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
 * Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Gauges:
-  * E converted NA: 1A - [Video](https://youtu.be/CvKRbzzdiIc) - Sayline\#5959
-  * E explosion: 1A - [Video](https://youtu.be/8h5MWkg7aYg) - Sayline\#5959
-  * Q: 1A - [Video](https://youtu.be/HSg9-yRQ0zw) - mina\#4448
+  * E converted NA: 1U - [Video](https://youtu.be/CvKRbzzdiIc) - Sayline\#5959
+  * E explosion: 1U - [Video](https://youtu.be/8h5MWkg7aYg) - Sayline\#5959
+  * Q: 1U - [Video](https://youtu.be/HSg9-yRQ0zw) - mina\#4448
 * ICDs:
   * CA: None, and not shared with NA - [Video](https://youtu.be/LOYVwCCf-2g) - Bobrokrot\#0111
   * E: Standard - [Video](https://youtu.be/RkylH5GOyVw) - Bobrokrot\#0111
@@ -43,5 +43,5 @@ search: false
 ### C6: Boundless Origin
 
 * Ayato's C6 is considered Normal Attack damage. - [Video](https://youtu.be/fx9SuTIh55Y) - Bobrokrot\#0111
-* Ayato's C6 applies 1A Hydro and does not share ICD with Normal Attacks during Elemental Skill. - [Video 1](https://youtu.be/K_fwvuU8Jxg) / [Video 2](https://youtu.be/HLMO5PCbaO8) - Bobrokrot\#0111
+* Ayato's C6 applies 1U Hydro and does not share ICD with Normal Attacks during Elemental Skill. - [Video 1](https://youtu.be/K_fwvuU8Jxg) / [Video 2](https://youtu.be/HLMO5PCbaO8) - Bobrokrot\#0111
 * Ayato's C6 does not have ICD. - [Videos](https://youtube.com/playlist?list=PLrX6xqOxg3bRtVJUQxphYQW1yJd_vEPEl) - 『 ЯΞИ 』\#0001

@@ -49,7 +49,7 @@ import Skill from '@site/src/components/char/Skill'
 | Type          | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type      |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :---------------- |
 | Aimed Shot    | 80.58%    | 23     | 210.21%/s | -   | 10           | 2 \(Headshot: 5\) |
-| Fully Charged | 210.8%    | 94     | 134.55%/s | 1A  | 20           | 2 \(Headshot: 5\) |
+| Fully Charged | 210.8%    | 94     | 134.55%/s | 1U  | 20           | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -107,7 +107,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute       | Burst DoT    | Burst Additional Elemental DMG |
 | :-------------- | :----------- | :----------------------------- |
 | Skill DMG (T9%) | 63.92% \* 20 | 31.96% \* 15\*                 |
-| GU              | 1U           | 1A                             |
+| GU              | 1U           | 1U                             |
 | ICD             | 3 hits       | 3 hits                         |
 | Duration        | 8s           | 6.0s                           |
 | Total Ticks     | 20           | 15\* (FPS Dependent)           |

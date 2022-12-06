@@ -79,7 +79,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG Level 3 \(T9%\) | 161.16%        |
 | Skill DMG Level 4 \(T9%\) | 201.45%        |
 | Particles                 | 1 \(-\)        |
-| GU                        | 1A             |
+| GU                        | 1U             |
 | ICD                       | 3 hit / 2.5s   |
 | Snapshot                  | Dynamic        |
 | Damage Element            | Electro        |
@@ -110,7 +110,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------------------- | :---------------------------------- |
 | Skill DMG \(T9%\)             | 442%                                |
 | Tenko Thunderbolt DMG \(T9%\) | 567.49%                             |
-| GU                            | 1A                                  |
+| GU                            | 1U                                  |
 | ICD                           | None                                |
 | Snapshot                      | Dynamic                             |
 | Damage Element                | Electro                             |

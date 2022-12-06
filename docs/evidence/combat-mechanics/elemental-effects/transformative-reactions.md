@@ -416,9 +416,9 @@ The amount of Electro gauge should therefore not be enough to support 4 ticks of
 Electrocharged ticks are not affected by hitlag, and happen every 60 frames. The actual Electro and Hydro auras' decay rates, however, are affected by hitlag. Therefore causing lots of hitlag during Electrocharged effectively reduces the decay rate of the elements.
 
 **Evidence:**  
-[Video](https://youtu.be/CCTZ21dpV_E): 2B Duration with no hitlag: 728 frames
+[Video](https://youtu.be/CCTZ21dpV_E): 2U Duration with no hitlag: 728 frames
 
-[Video](https://youtu.be/uDmnx3mGaH0): 2B Duration with 3 Beidou Normal's hitlag: 749 frames  
+[Video](https://youtu.be/uDmnx3mGaH0): 2U Duration with 3 Beidou Normal's hitlag: 749 frames  
 Hitlag extension: 21 frames
 
 [Video](https://youtu.be/Zj_dfxLKnB4): EC Tick timing with no hitlag  
@@ -498,7 +498,7 @@ Barbara was chosen to re-apply Hydro. This is because she can apply it off-field
 
 What causes EM changes will be 4-Piece Instructors and Widsith. Instructors triggers on a reaction allowing for easy testing, and Widsith triggers on switching in (a third of the time).
 
-If test 5 is to be done, Razor will be applying Electro with his E as Sara's Electro application is only 1A for all her attacks.
+If test 5 is to be done, Razor will be applying Electro with his E as Sara's Electro application is only 1U for all her attacks.
 
 **Result:**
 
@@ -527,7 +527,7 @@ This ticket has thoroughly explored how Electro-Charged interacts with changing 
 **Limitations:**  
 A major concern would be that the water messes with reactions. While water cannot cause the Electro-Charged reaction, it still applies Hydro to the Ruin Guard. This can be fixed by testing on different enemies.
 
-An example would be the Ruin Guard by the teleport marker at Luhua Pool. However, this runs into the issue of keeping Hydro gauge filled consistently with few applications is difficult. Childe or Mona would be ideal, as Childe can apply 2B from entering his melee stance and Mona applies 2B on the pop of her Q's bubble.
+An example would be the Ruin Guard by the teleport marker at Luhua Pool. However, this runs into the issue of keeping Hydro gauge filled consistently with few applications is difficult. Childe or Mona would be ideal, as Childe can apply 2U from entering his melee stance and Mona applies 2U on the pop of her Q's bubble.
 
 A Hydro slime can be used for purposes of always having Hydro, but that encounters similar issues as using water.
 
@@ -868,7 +868,7 @@ $$
 &\text{Frozen Aura Gauge}=2 * \min\text{(Origin Aura Gauge when Frozen, Trigger Element Gauge)}\\\\
 &\text{Freeze Duration}=2 * \sqrt{5 * \text{Frozen Aura Gauge}+4}-4\\\\
 &\text{Time is in seconds}\\\\
-&\text{Gauge has to be 1A, 2B, or 4C}
+&\text{Gauge has to be 1U, 2U, or 4U}
 \end{align*}
 $$
 
@@ -1453,7 +1453,7 @@ Crystallize reaction has an Global Cooldown of 1s per monster.
   * Albedo's E cast and E Blossom trigger Crystallize only once when they are within 1s. - [YouTube](https://youtu.be/mmeOsWplHms)
   * Ningguang's NA and E both trigger Crystallize when they are 1s apart from each other. - [YouTube](https://youtu.be/iefXbzTAyzM)
   * Ningguang's NA and E trigger Crystallize only once when they are within 1s. - [YouTube](https://youtu.be/5EMMlZNFAFM)
-* GCD is shared across different characters. Here Ningguang procs Albedo's Blossom vs 2B Pyro, only 1 Crystallize occured. - [YouTube](https://youtu.be/x_64sntdO-g)
+* GCD is shared across different characters. Here Ningguang procs Albedo's Blossom vs 2U Pyro, only 1 Crystallize occured. - [YouTube](https://youtu.be/x_64sntdO-g)
 * GCD is not shared across different targets. Here Albedo succesfully triggers Crystallize on each of the 3 hilichurls. - [YouTube](https://youtu.be/S1GSVLXmGus)
 * GCD for the duration of the cooldown may disable the hit counter for standard ICD. Here Ningguang uses 3 Normal attacks (6 hits total) and trigger Crystallize only once on the first attack. - [YouTube](https://youtu.be/6nRXYxMkC_Y)
 * GCD is shared across different elements. Here Albedo triggers Pyro and Hydro Crystallize one after another (<1s), only 1 Crystallize occured. - [YouTube](https://youtu.be/M4XJPag4CNI)
@@ -1475,7 +1475,7 @@ The Crystallize Global Cooldown \(GCD\) not only prevents further crystals to ap
 
 1. [YouTube](https://youtu.be/x_64sntdO-g): This clip is already in the TCL. The last Amber shot was performed at 14.75s and the Pyro lasted until 22.93s, which matches the 1.1B gauge duration (meaning that only one gauge reduction from Crystallize occured).
 
-2. [YouTube](https://youtu.be/ybd5NyPfdhI): Razor applied 2U Electro at 2.54s (with A decay from Sara) and the Electro lasted until 15.75s which matches the 1.1A gauge duration (meaning that only one gauge reduction from Crystallize occured).
+2. [YouTube](https://youtu.be/ybd5NyPfdhI): Razor applied 2U Electro at 2.54s (with A decay from Sara) and the Electro lasted until 15.75s which matches the 1.1U gauge duration (meaning that only one gauge reduction from Crystallize occured).
 
 3. [YouTube](https://youtu.be/PWytHwr4Y38) \(bonus clip\): 2A Hydro -> 1U Electro -> 2U Geo. Hydro lasted from 11.32s to 25.53s which matches 1.2A (tax -0.4U).
 
@@ -1596,7 +1596,7 @@ Duration : 869 ~ 7.2 s
 
 _Gauge of Pyro after burning_
 
-1.  Apply 1A
+1.  Apply 1U
 
     [Evidence](https://youtu.be/VoGbzR3AdjE)
 
@@ -1622,24 +1622,24 @@ _Gauge of Pyro after burning_
     2289 duration >> 19.075s
     ```
 
-2.  Apply 2B
+2.  Apply 2U
     [Evidence](https://youtu.be/hvj5X4_3LT0)
 
     ```
-    First part 2B test
-    2B Pyro apply
+    First part 2U test
+    2U Pyro apply
     440 Pyro only
     1931 Pyro end
     1491 duration >> 12.425s
 
-    Second part 2B test
-    2B Pyro apply
+    Second part 2U test
+    2U Pyro apply
     4953 Pyro only
     6416 Pyro end
     1463 duration >> 12.2 s
 
-    Third part 2B test
-    This test is testing with 2B Pyro with Dendro applied twice
+    Third part 2U test
+    This test is testing with 2U Pyro with Dendro applied twice
     10720 Pyro only
     12145 Pyro end
     1425 duration >> 11.875s >> the change is insignificant >>
@@ -1656,13 +1656,13 @@ _Decay rate of Dendro while burning is the sum of the natural decay rates of Den
 Through the first part, we have more clues to try to solve this, the data below using the same videos.
 
 ```
-Section A: Apply 1A
+Section A: Apply 1U
 141 burning start-570 burning end >> duration 429
 277 burning start- 691 burning end >> duration 414
 231 burning start -701 burning end >> duration 470
 Avg: 437.67 ~ 3.64725s
 
-Section B: Apply 2B
+Section B: Apply 2U
 90 start burning – 439 burning end  >> duration 349
 2149 start burning – 2512 burning end >> duration 363
 6961 start burning – 7380 burning end >> duration 319
@@ -1700,7 +1700,7 @@ Notice the hilichurl takes no burning DMG but still burns any grass it stepped o
 Dendro Spread is deleted: [evidence 1](https://youtu.be/ve4noERYgi8), [evidence 2](https://youtu.be/FwCsLEBa5yY)  
 
 **Significance:**  
-Better understanding for the mechanics of burning. Dendro shields are be burnt down faster by 2B Pyro and 1A Pyro.
+Better understanding for the mechanics of burning. Dendro shields are be burnt down faster by 2U Pyro and 1U Pyro.
 
 ### Dendro Burning Ownership DMG
 

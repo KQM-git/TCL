@@ -625,11 +625,11 @@ There might be more reactions unknown to the player coded into the game's files 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858433829143445615_858455416635392040_transcript-electrified-water-properties.html)
 
 **Finding:**  
-The duration of the environmental Elemental reaction Electrified Water has varying duration based on the gauge strength of Electro applied. There are approximately 2 seconds between each tick. 1A of Electro lasts for 3 ticks, 2B lasts for 5 ticks, and 4C lasts for 10 ticks.  
+The duration of the environmental Elemental reaction Electrified Water has varying duration based on the gauge strength of Electro applied. There are approximately 2 seconds between each tick. 1U of Electro lasts for 3 ticks, 2U lasts for 5 ticks, and 4U lasts for 10 ticks.  
 The damage dealt by Electrified water is affected by Electro Resistance. For example, a character with 15% Electro Resistance will take 85% of the Electrified Water damage.
 
 **Evidence:**  
-Video contains Fischl and Lisa getting 3 ticks after applying 1A Electro with Charged Attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to Electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% Electro RES) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% Electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)
+Video contains Fischl and Lisa getting 3 ticks after applying 1U Electro with Charged Attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to Electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% Electro RES) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% Electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)
 
 **Significance:**  
 Learning more about how environmental reactions are programmed/calculated. Also, don't bring Electro units if you're trying to get the achievement for Floor 2-2 of the Spiral Abyss.
@@ -834,7 +834,7 @@ Electro crystals' pulse range works in a rectangle range, with the crystal being
 
 **Findings:**  
 * An electric crystal can have its aura removed, but it will be reapplied.
-* When it's raining, you can apply Hydro aura using 2B Cryo (Kaeya) then end rain (by time skipping) and the crystal will not apply Electro to itself again. It has to be 2B, 1A won’t work.
+* When it's raining, you can apply Hydro aura using 2U Cryo (Kaeya) then end rain (by time skipping) and the crystal will not apply Electro to itself again. It has to be 2U, 1U won’t work.
 * So far the crystal can hold Cryo, Hydro, and Electro.
 * Rain water Hydro is different from regular Hydro, and the game doesn’t recognize it as the same as Hydro from different sources (Such as player Hydro and Hydro from bodies of water). This is proved as the crystal doesn’t update and reapply Electro onto itself as it thinks no Element was applied onto it, removing the Electro. Game does not recognize rain Hydro, as other sources of Hydro.
 
@@ -848,7 +848,7 @@ Electro crystals' pulse range works in a rectangle range, with the crystal being
 * [YouTube](https://youtu.be/UuevVMvQfsg) credit to CrazyWeke123\#9720 (Proof works in 2.4)
 
 **Significance:**  
-Rain Hydro isn’t the same as other Hydro sources. Electro crystals don’t have infinite aura, it just constantly reapplies Electro aura, it’s more then 1A, but less then 2B.
+Rain Hydro isn’t the same as other Hydro sources. Electro crystals don’t have infinite aura, it just constantly reapplies Electro aura, it’s more then 1U, but less then 2U.
 
 ## Plants
 

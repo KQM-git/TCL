@@ -18,13 +18,13 @@ search: false
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
 * Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Gauges - [xf3#3123](https://imgur.com/a/cmgaCZm)
-  * Level 1 Charged Shot: 1A
-  * Level 2 Charged Shot: 1A
-  * Kindling Arrows: 1A
-  * Pyro-infused NA: 1A
-  * Charged shot during Niwabi Fire-Dance: 1A
-  * Burst initial hit: 2B
-  * Aurous Blaze Explosion: 1A
+  * Level 1 Charged Shot: 1U
+  * Level 2 Charged Shot: 1U
+  * Kindling Arrows: 1U
+  * Pyro-infused NA: 1U
+  * Charged shot during Niwabi Fire-Dance: 1U
+  * Burst initial hit: 2U
+  * Aurous Blaze Explosion: 1U
 * Energy Generation
   * Charged shot during E does not produce Particles - [Steph#3614](https://imgur.com/yml32cI)
   * Yoimiya's Particle generation triggers on-hit (ICD estimate is ~2s) - [Steph#3614](https://imgur.com/zUi3Gxq)

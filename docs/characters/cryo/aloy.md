@@ -46,7 +46,7 @@ import Skill from '@site/src/components/char/Skill'
 | Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
 | :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
 | Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1U  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -79,7 +79,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 301.92%     | 68%                 |
 | Particles         | 5 \(-\)     | -                   |
 | Frames            | 67          | -                   |
-| GU                | 1A          | 1A                  |
+| GU                | 1U          | 1U                  |
 | ICD               | -           | 3 hits / 2.5s       |
 | Snapshot          | Snapshot    | Snapshot            |
 | Damage Element    | Cryo        | Cryo                |
@@ -117,7 +117,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst    |
 | :---------------- | :------- |
 | Skill DMG \(T9%\) | 610.64%  |
-| GU                | 2B       |
+| GU                | 2U       |
 | ICD               | -        |
 | Snapshot          | Snapshot |
 | Damage Element    | Cryo     |

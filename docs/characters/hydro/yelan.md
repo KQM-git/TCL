@@ -90,7 +90,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------ | :------------------------- |
 | DMG \(T9%\)         | 38.44% Max HP              |
 | Particles           | 4 \(-\)                    |
-| GU                  | 1A                         |
+| GU                  | 1U                         |
 | ICD                 | Standard                   |
 | Snapshot            | -                          |
 | Damage Element      | Hydro                      |
@@ -122,7 +122,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Skill         | Exquisite Throw |
 | :------------- | :------------ | :-------------- |
 | DMG \(T9%\)    | 12.42% Max HP | 8.28% Max HP ×3 |
-| GU             | 2B            | 1A              |
+| GU             | 2U            | 1U              |
 | ICD            | 3-hit / 2.5s  | 3-hit / 2s      |
 | Snapshot       | -             | Dynamic         |
 | Damage Element | Hydro         | Hydro           |

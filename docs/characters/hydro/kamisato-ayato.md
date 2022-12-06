@@ -73,7 +73,7 @@ import Skill from '@site/src/components/char/Skill'
 | Namisen DMG Bonus \(T9%\)   | 1.03% Max HP/Stack |
 | Water Illusion DMG \(T9%\)  | 186.44%            |
 | Particles                   | 1-2 \(1:1\)        |
-| GU                          | 1A                 |
+| GU                          | 1U                 |
 | ICD                         | 3-hit / 2.5s       |
 | Snapshot                    | Snapshot           |
 | Damage Element              | Hydro              |
@@ -90,7 +90,7 @@ import Skill from '@site/src/components/char/Skill'
 | Shunsuiken 1-Hit | 97.17%    | 201.04%/s | 50           | 3            |
 | Shunsuiken 2-Hit | 108.23%   | 223.92%/s | 50           | 3            |
 | Shunsuiken 3-Hit | 119.29%   | 230.88%/s | 50           | 3            |
-| GU               | 1A        | -         | -            | -            |
+| GU               | 1U        | -         | -            | -            |
 
 **Notes**
 
@@ -108,7 +108,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------------------ | :------- |
 | Bloomwater Blade DMG \(T9%\)    | 112.98%  |
 | Normal Attack DMG Bonus \(T9%\) | 19%      |
-| GU                              | 1A       |
+| GU                              | 1U       |
 | ICD                             | -        |
 | Snapshot                        | Snapshot |
 | Damage Element                  | Hydro    |

@@ -48,8 +48,8 @@ import Skill from '@site/src/components/char/Skill'
 | String                    | Talent 9% | Frames        | MV/s                            | GU  | Poise Damage        | Impulse Type |
 | :------------------------ | :-------- | :------------ | :------------------------------ | :-- | :------------------ | :----------- |
 | Aimed Shot                | 80.58%    | 26            | 185.95%/s                       | -   | 10 \(Headshot: 30\) | 2            |
-| Charge Level 1            | 210.8%    | 97            | 130.39%/s                       | 1A  | 20 \(Headshot: 60\) | 5            |
-| Kindling Arrows (1, 2, 3) | 27.88%    | 114, 132, 150 | 125.62%/s, 121.16%/s, 117.78%/s | 1A  | 20                  | 2            |
+| Charge Level 1            | 210.8%    | 97            | 130.39%/s                       | 1U  | 20 \(Headshot: 60\) | 5            |
+| Kindling Arrows (1, 2, 3) | 27.88%    | 114, 132, 150 | 125.62%/s, 121.16%/s, 117.78%/s | 1U  | 20                  | 2            |
 
 </div>
 <div class='talent-columns'>
@@ -87,7 +87,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------------ | :------------------------ |
 | Blazing Arrow DMG \(T9%\) | 158.79% Normal Attack DMG |
 | Particles                 | 1 (-) per proc            |
-| GU                        | 1A                        |
+| GU                        | 1U                        |
 | ICD                       | 3 hit / 2.5s              |
 | Damage Element            | Pyro                      |
 | Damage Type               | Normal Attack             |
@@ -121,7 +121,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute       | Burst         | Aurous Blaze Explosion |
 | :-------------- | :------------ | ---------------------- |
 | Skill DMG (T9%) | 216.24%       | 207.4%                 |
-| GU              | 2B            | 1A                     |
+| GU              | 2U            | 1U                     |
 | ICD             | None          | 3 hit / 2.5s           |
 | Snapshot?       | Dynamic       | Dynamic                |
 | DMG Element     | Pyro          | Pyro                   |

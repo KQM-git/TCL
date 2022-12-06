@@ -77,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :-------------------- |
 | Skill DMG \(T9%\) | 99.28% + 231.2%       |
 | Particles         | 3                     |
-| GU                | 1A                    |
+| GU                | 1U                    |
 | ICD               | None                  |
 | Snapshot          | Snapshot              |
 | Damage Element    | Cryo                  |
@@ -103,7 +103,7 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------------- | :-------------- |
 | Skill DMG \(T9%\)      | 176.8% + 258.4% |
 | Ice Lance DoT \(T9%\)  | 224.4%          |
-| GU                     | 1A              |
+| GU                     | 1U              |
 | ICD                    | None            |
 | Snapshot               | Snapshot        |
 | Damage Element         | Cryo            |

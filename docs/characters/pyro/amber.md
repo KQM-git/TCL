@@ -48,7 +48,7 @@ import Skill from '@site/src/components/char/Skill'
 | Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
 | :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
 | Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| Fully Charged | 210.8%    | 96     | 131.75%/s  | 2B  | 20 \(Headshot: 60\) | 5            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s  | 2U  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -80,7 +80,7 @@ import Skill from '@site/src/components/char/Skill'
 | Explosion DMG \(T9%\)  | 209.44%   |
 | Inherited HP \(T9%\)   | 70.31%    |
 | Particles              | 4 \(-\)   |
-| GU                     | 2B        |
+| GU                     | 2U        |
 | ICD                    | None      |
 | Snapshot               | Snapshots |
 | Damage Element         | Pyro      |
@@ -118,7 +118,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------------------------------------------- |
 | Wave DMG \(T9%\)  | 47.74%                                          |
 | Total DMG \(T9%\) | 859.25% \(18 Waves\)                            |
-| GU                | 1A                                              |
+| GU                | 1U                                              |
 | ICD               | 3 hits / 1s                                     |
 | Snapshot          | Snapshots                                       |
 | Damage Element    | Pyro                                            |
@@ -133,7 +133,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Applies 1A worth of Pyro 6 times, following normal ICD rules.
+* Applies 1U worth of Pyro 6 times, following normal ICD rules.
 * Does 18 waves total over 2 seconds in the center of the AoE.
 * 8 of the waves cover approximately the outer half the size of the marker.
 * 10 waves cover the inner half of the marker.

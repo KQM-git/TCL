@@ -78,7 +78,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- | :-------------------------- |
 | Skill DMG \(T9%\) | 338.64%     | 501.84%                     |
 | Particles         | 3 \(-\)     | 4 \(-\)                     |
-| GU                | 2B          | 2B                          |
+| GU                | 2U          | 2U                          |
 | ICD               | None        | None                        |
 | Snapshot          | Dynamic     | Dynamic                     |
 | Damage Element    | Electro     | Electro                     |
@@ -113,7 +113,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attack Speed \(T9%\) | 39%     | -           |
 | Electro RES Bonus    | 80%     |
 | CD Frame             | 2       | -           |
-| GU                   | 2B      | 1A          |
+| GU                   | 2U      | 1U          |
 | ICD                  | -       | 3 hits/2.5s |
 | Snapshot             | Dynamic | Dynamic     |
 | Damage Element       | Electro | Electro     |
@@ -203,7 +203,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* C6 damage instance has no ability type scaling tags and applies 1A Electro.
+* C6 damage instance has no ability type scaling tags and applies 1U Electro.
 
 </TabItem>
 </Tabs>

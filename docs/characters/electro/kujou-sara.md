@@ -47,8 +47,8 @@ import Skill from '@site/src/components/char/Skill'
 | Type             | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type      |
 | :--------------- | :-------- | :----- | :--------- | :-- | :------------------ | :---------------- |
 | Aimed Shot       | 80.58%    | 55     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged    | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| A1 Fully Charged | 210.8%    | 60     | 210.80%/s  | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| Fully Charged    | 210.8%    | 96     | 131.75%/s  | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| A1 Fully Charged | 210.8%    | 60     | 210.80%/s  | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -81,7 +81,7 @@ import Skill from '@site/src/components/char/Skill'
 | ATK Bonus Ratio \(T9%\) | 73.03%   |
 | ATK Bonus Duration      | 6s       |
 | Particles               | 3        |
-| GU                      | 1A       |
+| GU                      | 1U       |
 | ICD (hits/timer)        | None     |
 | Snapshot                | Snapshot |
 | Damage Element          | Electro  |
@@ -120,7 +120,7 @@ import Skill from '@site/src/components/char/Skill'
 | :----------------------- | :--------------------------------------- |
 | Titanbreaker DMG \(T9%\) | 696.32%                                  |
 | Stormcluster DMG \(T9%\) | 58% (each)                               |
-| GU                       | 1A                                       |
+| GU                       | 1U                                       |
 | ICD (hits/timer)         | 3 hit/2.5s                               |
 | Snapshot                 | Snapshot                                 |
 | Damage Element           | Electro                                  |
@@ -191,14 +191,14 @@ import Constellation from '@site/src/components/char/Constellation'
 | Type         | Talent 9%       |
 | :----------- | :-------------- |
 | DMG          | 213.79% \* 0.3  |
-| GU           | 1A              |
+| GU           | 1U              |
 | Damage Type  | Elemental Skill |
 | Poise Damage | 30              |
 | Impulse Type | 3               |
 
 **Notes**
 
-* The **Weaker Crowfeather** applies 1A Electro and has separate ICD from **Tengu Stormcall**.
+* The **Weaker Crowfeather** applies 1U Electro and has separate ICD from **Tengu Stormcall**.
 * **Weaker Crowfeather** snapshots upon **Tengu Stormcall** cast.
 * The **Weaker Crowfeather** formed can trigger the effects of Sara's A4.
 

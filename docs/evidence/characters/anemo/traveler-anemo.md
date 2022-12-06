@@ -135,7 +135,7 @@ Fluff.
 
 ## Burst Mechanics
 
-### Anemo MC's Burst Absorption is 2B
+### Anemo MC's Burst Absorption is 2U
 
 **By:** Kourinn\#6001
 
@@ -144,19 +144,19 @@ Fluff.
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912926771412869150_919900426554454083_transcript-anemo-traveler-q-2b.html)
 
-**Finding:** Anemo MC's Burst is 1U Anemo, but the absorption is 2B.
+**Finding:** Anemo MC's Burst is 1U Anemo, but the absorption is 2U.
 
 **Evidence:**
 
-* With delayed absorption, the last absorption Element application matches expected aura duration for 2B absorption with 1U Anemo:
-  * [2B Absorption](https://youtu.be/yh4dH0WbA6A)
-* With 1A type decay transfer and immediate absorption, the last absorption Element application matches expected aura duration for 2U absorption:
-  * [2B Absorption with 1A Decay](https://youtu.be/2MtlaOVx904)
+* With delayed absorption, the last absorption Element application matches expected aura duration for 2U absorption with 1U Anemo:
+  * [2U Absorption](https://youtu.be/yh4dH0WbA6A)
+* With 1U type decay transfer and immediate absorption, the last absorption Element application matches expected aura duration for 2U absorption:
+  * [2U Absorption with 1U Decay](https://youtu.be/2MtlaOVx904)
 
 **Significance:** The increased absorption gauge may be useful for:
 
 * Shield breaking when able to absorb a counter Element.
-* Increased Freeze duration otherwise unavailable due to the rarity of 2B Hydro applicators (only Tartaglia and Kokomi as of patch 2.3)
+* Increased Freeze duration otherwise unavailable due to the rarity of 2U Hydro applicators (only Tartaglia and Kokomi as of patch 2.3)
 
 ### Anemo MC's Q ability to "pick up" enemies is dependent on level difference
 

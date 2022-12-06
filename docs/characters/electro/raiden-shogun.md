@@ -76,7 +76,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)                 | 199.24%         | 71.4%              |
 | Elemental Burst DMG Bonus \(T9%\) | 0.3% Per Energy | -                  |
 | Particles                         | -               | 0~1 (1:1)          |
-| GU                                | 1A              | 1A                 |
+| GU                                | 1U              | 1U                 |
 | ICD (hits/timer)                  | 3 hit / 2.5s    | 3 hit / 2.5s       |
 | Damage Element                    | Electro         | Electro            |
 | Damage Type                       | Skill           | Skill              |
@@ -106,7 +106,7 @@ import Skill from '@site/src/components/char/Skill'
 | Resolve Bonus \(T9%\)                     | 6.61% ATK DMG Per Stack                           | 1.23% ATK DMG Per Stack  |
 | Resolve Stacks Gained \(T9%\)             | 0.19 Per Energy Consumed                          | 0.19 Per Energy Consumed |
 | Musou Isshin Energy Restoration \(T9%\)   | -                                                 | 2.4                      |
-| GU                                        | 2B                                                | 1A                       |
+| GU                                        | 2U                                                | 1U                       |
 | ICD (hits/timer)                          | None                                              | 3 hit / 2.5s             |
 | Snapshot                                  | Dynamic                                           | Dynamic                  |
 | Damage Element                            | Electro                                           | Electro                  |

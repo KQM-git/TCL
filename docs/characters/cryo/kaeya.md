@@ -77,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Skill DMG \(T9%\) | 325.04%     |
 | Particles         | 2~3 \(1:2\) |
-| GU                | 2B          |
+| GU                | 2U          |
 | ICD               | None        |
 | Snapshot          | Snapshot    |
 | Damage Element    | Cryo        |
@@ -91,7 +91,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Frostgnaw** does not have any hitlag.
-* **Frostgnaw** applies 4C Cryo to water, but 2B to enemies.
+* **Frostgnaw** applies 4U Cryo to water, but 2U to enemies.
 
 </TabItem>
 
@@ -103,7 +103,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute           | Burst        |
 | :------------------ | :----------- |
 | Skill DMG \(T9%\)   | 131.92%      |
-| GU                  | 1A           |
+| GU                  | 1U           |
 | ICD                 | 3 hit / 2.5s |
 | Snapshot            | Snapshot     |
 | Damage Element      | Cryo         |
