@@ -604,8 +604,8 @@ Better understanding of these characters and aimed abilities. Possible tech for 
 
 :::caution
 **3.2 Update Details:**  
-"Fixes an issue whereby some characters would stop swimming or float in the air abnormally under certain circumstances."  
-\- [HoYoverse](https://genshin.hoyoverse.com/en/news/detail/25356)
+"There is an issue whereby under certain circumstances, some characters will move abnormally during their idle animations. This issue will be fixed in a later update. Please stay tuned for future notices."  
+\- [HoYoverse](https://www.hoyolab.com/article/13320649)
 :::
 
 **Bug:**  
