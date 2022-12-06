@@ -113,7 +113,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------------------------------ | :------------ | :------------ |
 | Skill DMG \(T9%\) | 346.8%                                            | 102%          | 346.8%        |
 | MV/s              | 413.63%/s                                         | -             | -             |
-| GU                | 2B                                                | 1A            | ?             |
+| GU                | 2B                                                | 2B            | 2B            |
 | ICD               | 5 hits/5s\*                                       | 5 hits/5s\*   | 5 hits/5s\*   |
 | Snapshot          | Dynamic                                           | Snapshot      | Snapshot      |
 | Damage Element    | Pyro                                              | Pyro          | Pyro          |
