@@ -104,7 +104,7 @@ Once Freeze is triggered, an enemy will be afflicted by a **frozen aura**. React
 
 Freeze is extended when the Cryo or Hydro is applied to Freeze with a coexisting Hydro or Cryo aura respectively.
 
-More details on the Frozen aura, including duration, coexisting Cryo/Hydro, and extension may be found in the advanced guide.
+More details on the Frozen aura, including duration, coexisting Cryo/Hydro, and extension may be found in the [Evidence Vault](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md).
 
 ## Melt and Vaporize
 
@@ -158,7 +158,7 @@ section.
 
 Swirl application occurs when an Elemental source is applied to an enemy through the use of Swirl spreading an Element. This may trigger additional reactions and or apply an aura following the same rules as any other Elemental source. Notably, tax is applied to any Swirl application that becomes an aura.
 
-The gauge amount and decay rate of the Swirl application depend on both the aura of the entity on which Swirl triggered as well as the gauge of the Anemo trigger. The specifics are beyond the scope of this document and may be found in the advanced guide. A few basic examples may be seen in the table here:
+The gauge amount and decay rate of the Swirl application depend on both the aura of the entity on which Swirl triggered as well as the gauge of the Anemo trigger. A few basic examples may be seen in the table here:
 
 | Elemental Gauge of Aura | Anemo Gauge | Gauge of Swirl | Aura Applied After Tax | Decay Rate Conversion |
 | :---------------------- | :---------- | :------------- | :--------------------- | :-------------------- |
