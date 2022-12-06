@@ -3,28 +3,28 @@
         "name": "N1",
         "hitmark": 12,
         "hitlag": 0.03,
-        "default": 26,
+        "next_na": 26,
         "ca": 30
     }, 
     {
         "name": "N2",
         "hitmark": 9,
         "hitlag": 0.03,
-        "default": 33,
+        "next_na": 33,
         "ca": 27
     },
     {
         "name": "N3",
         "hitmark": 17,
         "hitlag": 0.06,
-        "default": 66,
+        "next_na": 66,
         "ca": "N/A"
     }],
     "NA (in E)": [
     {
         "name": "N1 (in E)",
         "hitmark": 14,
-        "default": 18,
+        "next_na": 18,
         "skill": 20,
         "burst": 13,
         "dash": 14,
@@ -34,7 +34,7 @@
     {
         "name": "N2 (in E)",
         "hitmark": 12,
-        "default": 23,
+        "next_na": 23,
         "skill": 23,
         "burst": 11,
         "dash": 11,
@@ -44,7 +44,7 @@
     {
         "name": "N3 (in E)",
         "hitmark": 35,
-        "default": 55,
+        "next_na": 55,
         "skill": 60,
         "burst": 60,
         "dash": 35,

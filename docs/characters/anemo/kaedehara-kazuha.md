@@ -33,13 +33,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String              | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------------ | :------------------ | :----- | :-------- | :----------- | :----------- |
-| 1-Hit DMG           | 82.63%              | 22     | 225.35%/s | 47.7         | 3            |
-| 2-Hit DMG           | 83.11%              | 26     | 191.79%/s | 47.34        | 3            |
-| 3-Hit DMG           | 47.4% + 56.88%      | 41     | 152.60%/s | 29.7 x2      | 3 x2         |
-| 4-Hit DMG           | 111.55%             | 46     | 145.50%/s | 63.54        | 3            |
-| 5-Hit DMG           | 46.61% x3 (139.83%) | 80     | 104.87%/s | 26.55 x3     | 2 + 2 + 5    |
+| String    | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :------------------ | :----- | :-------- | :----------- | :----------- |
+| 1-Hit DMG | 82.63%              | 22     | 225.35%/s | 47.7         | 3            |
+| 2-Hit DMG | 83.11%              | 26     | 191.79%/s | 47.34        | 3            |
+| 3-Hit DMG | 47.4% + 56.88%      | 41     | 152.60%/s | 29.7 x2      | 3 x2         |
+| 4-Hit DMG | 111.55%             | 46     | 145.50%/s | 63.54        | 3            |
+| 5-Hit DMG | 46.61% x3 (139.83%) | 80     | 104.87%/s | 26.55 x3     | 2 + 2 + 5    |
 
 </div>
 <div class='talent-columns'>
@@ -63,8 +63,10 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
-* Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kaedehara-kazuha.md#dragonstrike-of-n5)
+* Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kaedehara-kazuha.md#dragonstrike-of-n5).
+* Kazuha's 2-hit N3 is "not linked" but his 3-hit N5 is "linked" when it comes to [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering). For more information see this [Vault Entry](../../evidence/equipment/artifacts.md#kazuha-na-interaction-with-echoes).
 
 </TabItem>
 
@@ -104,14 +106,14 @@ import Skill from '@site/src/components/char/Skill'
 | Plunge Poise Damage          | 25                |
 | Plunge Impulse Type          | 1                 |
 | Low/High Plunge Poise Damage | 100 / 150         |
-| Low/High Impulse Type        | 7                 |
+| Low/High Impulse Type        | 4 / 7             |
 
 </div>
 
 **Notes**
 
 * Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
-* By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them).
+* By double tapping your glider as soon as you've tapped your Skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some Frozen enemies but you don't want to Shatter them).
 * Some forms of interruption after casting **Chihayaburu** may cause the ability to cast **Midare Ranzan** to persist up to 10s without remaining airborne.
 * Plunging immediately after a tap E guarantees a high plunge while waiting might give low plunge damage.
 * Absorption priority: Pyro > Hydro > Electro > Cryo
@@ -177,7 +179,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl.
+* The Elemental damage is applied before Midare Ranzan, allowing it to Swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no Swirl.
 * Absorption priority: Pyro > Hydro > Electro > Cryo
 
 </TabItem>
@@ -189,7 +191,7 @@ import Passive from '@site/src/components/char/Passive'
 
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
 * Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
-* Kazuha's 4th ascension passive overrides previous instances on every swirl of the same element, using his current Elemental Mastery.
+* Kazuha's 4th ascension passive overrides previous instances on every Swirl of the same Element, using his current Elemental Mastery.
 
 </TabItem>
 </Tabs>
@@ -221,7 +223,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The energy gained while gliding is not affected by energy recharge.
+* The Energy gained while gliding is not affected by Energy Recharge.
 
 </TabItem>
 

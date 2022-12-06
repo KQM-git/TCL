@@ -3,25 +3,25 @@
         "name": "N1",
         "hitmark": 23,
         "hitlag": 0.10,
-        "default": 46
+        "next_na": 46
     }, 
     {
         "name": "N2",
         "hitmark": 29,
         "hitlag": 0.10,
-        "default": 58
+        "next_na": 58
     },
     {
         "name": "N3",
         "hitmark": [14, 26],
         "hitlag": [0, 0.08],
-        "default": 61
+        "next_na": 61
     },
     {
         "name": "N4",
         "hitmark": 35,
         "hitlag": 0.08,
-        "default": 80
+        "next_na": 80
     }],
     "Skill": [{
         "name": "Press",

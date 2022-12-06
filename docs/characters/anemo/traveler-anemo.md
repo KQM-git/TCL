@@ -64,7 +64,8 @@ import AetherCA from '../_common/aether_ca.md'
 
 **Notes**
 
-* Aether is the male traveler.
+* Aether is the male Traveler.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -99,7 +100,8 @@ import LumineCA from '../_common/lumine_ca.md'
 
 **Notes**
 
-* Lumine is the female traveler.
+* Lumine is the female Traveler.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -131,7 +133,7 @@ import LumineCA from '../_common/lumine_ca.md'
 * Absorption priority: Cryo > Pyro > Hydro > Electro
 * When held beyond the 2 Initial Cutting DMG hits, the Skill's damage, particle generation, and cooldown are all increased; and the last hit is Max Storm DMG instead of Initial Storm DMG.
 * There is either 0 or 1 instance of Additional Elemental DMG with the 2 instances of Initial Cutting DMG, it's random.
-* The duration of Palm Vortex can be extended when Anemo Traveler is frozen, resulting in many instances of Initial Cutting DMG.
+* The duration of Palm Vortex can be extended when Anemo Traveler is Frozen, resulting in many instances of Initial Cutting DMG.
 
 </TabItem>
 

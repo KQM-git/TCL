@@ -63,7 +63,8 @@ import AetherCA from '../_common/aether_ca.md'
 
 **Notes**
 
-* Aether is the male traveler.
+* Aether is the male Traveler.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -98,7 +99,8 @@ import LumineCA from '../_common/lumine_ca.md'
 
 **Notes**
 
-* Lumine is the female traveler.
+* Lumine is the female Traveler.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -132,7 +134,7 @@ import LumineCA from '../_common/lumine_ca.md'
 **Notes**
 
 * Different units can each pick up one **Abundance Amulet** generated from one **Lightning Blade** cast to gain its effects.
-* The Energy Recharge gained from **Abundance Amulets** does not affect Raiden's A4 passive, Mona's A4 passive, the 4-piece bonus from Emblem of Severed Fate or the Engulfing Lightning.
+* The Energy Recharge gained from **Abundance Amulets** does not affect Raiden's A4 Passive, Mona's A4 Passive, the 4-Piece bonus from Emblem of Severed Fate or the Engulfing Lightning.
 * The number of **Abundance Amulets** generated depends on the number of Lightning Blades hit AND number of enemies hit.
 * Hitting a shield will stil generate **Abundance Amulets**
 * There is a delay before the **Abundance Amulets** can be picked up, on average 1.79s.
@@ -164,7 +166,7 @@ import LumineCA from '../_common/lumine_ca.md'
 
 **Notes**
 
-* The energy regenerated from **Falling Thunder** is classified as flat energy.
+* The Energy regenerated from **Falling Thunder** is classified as flat Energy.
 * **Falling Thunder** DMG snapshots on **Bellowing Thunder** cast.
 
 </TabItem>
@@ -227,7 +229,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* This bonus will apply regardless of if the final energy gained exceeds said threshold.
+* This bonus will apply regardless of if the final Energy gained exceeds said threshold.
 
 </TabItem>
 

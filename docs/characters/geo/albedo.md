@@ -61,6 +61,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -86,7 +90,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Casting other constructs above **Solar Isotoma** will cause the construct to shatter.
+* Casting other constructs above **Solar Isotoma** will cause the construct to Shatter.
 * The area of **Solar Isotoma** that can generate **Transient Blossoms** is cylindrical and has a maximum height just above the elevator's maximum lift.
 * The DMG dealt by **Transient Blossoms** is snapshotted, so any buffs gained/lost after casting **Abiogenesis: Solar Isotoma** will not affect its damage.
 * Albedo can one extra proc of the Cinnabar Spindle passive with E N1, but this only occurs at high ping.

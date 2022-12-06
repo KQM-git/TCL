@@ -61,7 +61,7 @@ As reason might dictate, monsters made from coalesced Anemo already come equippe
   * Stronger attacks charge more fury.
   * When they have a full fury bar they will grow bigger and they do more damage.
 * Shoots two consecutive homing wind bolts that do Anemo DMG.
-  * If at max fury, instead shoots three non-homing bolts in a spread pattern and becomes its' only attack.
+  * If at max fury, instead shoots three non-homing bolts in a spread pattern and becomes its only attack.
 * Spins, puffs up, then releases a swirl of wind dealing AoE Anemo DMG.
 * Explodes after a short pause when defeated dealing AoE Anemo DMG.
   * If at max fury, will instead create a Vacuum Field that sucks in players and deals Anemo DoT.
@@ -81,7 +81,7 @@ A certain alchemist once studied these beings, speculating that they might be a 
   * Stronger attacks charge more fury.
   * When they have a full fury bar, they will grow bigger and do more damage.
 * Ice Missle: Shoots a slow homing projectile that deals 100% ATK as Cryo DMG on hit, after a couple of seconds the projectile will lose its homing property and start to travel in a straight line.
-* Frost Bomb: Spins before shooting out a downward snowball that bursts dealing 100% ATK as AoE Cryo DMG.
+* Frost Bomb: Spins before shooting out a downward snowball that Bursts dealing 100% ATK as AoE Cryo DMG.
 * Snowball Sling: Consecutively launches 6 snowballs at the player that burst on contact dealing AoE Cryo DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
 * Final Burst: Explodes after a short pause when defeated dealing 125% ATK as AoE Cryo DMG. If at max Fury, DMG is increased to 150% ATK, and leaves behind a patch of frost on the ground that deals 50% ATK as AoE Cryo DoT.
 
@@ -130,7 +130,7 @@ Geo Specters mimic the fruit of certain plants when their wings are closed toget
   * When they have a full fury bar, they will grow bigger and do more damage.
 * Shoots three small homing rocks that deal Geo DMG. The shots also knock the Specter backwards.
 * Spins before knocking into the player, dealing Geo DMG.
-* Shoots a projectile at the ground under it that bursts into an earthquake that deals AoE Geo DMG.
+* Shoots a projectile at the ground under it that Bursts into an earthquake that deals AoE Geo DMG.
   * This attack will only occur at max fury and will be the only attack it uses in that state.
 * Explodes after a short pause when defeated dealing AoE Geo DMG.
 * This attack is inevitable to happen, and negates the kill from the player, counting as killing itself instead, thus not activating any on kill effects (ex. the blackcliff weapon series).

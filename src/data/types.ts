@@ -92,6 +92,7 @@ export interface FrameTab {
     hitmark?: FrameInfo
     hitlag?: FrameInfo
     default?: FrameInfo
+    next_na?: FrameInfo
     n1?: FrameInfo
     plunge: FrameInfo
     ca?: FrameInfo

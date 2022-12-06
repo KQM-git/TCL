@@ -17,9 +17,9 @@ No weakspot.
 
 | HP Threshold | Type  | Element |
 | :----------- | :---- | :------ |
-| 66% HP       | 1 orb | Anemo   |
-| 33% HP       | 1 orb | Anemo   |
-| Death        | 1 orb | Anemo   |
+| 66% HP       | 1 Orb | Anemo   |
+| 33% HP       | 1 Orb | Anemo   |
+| Death        | 1 Orb | Anemo   |
 
 ## Resistance Table
 

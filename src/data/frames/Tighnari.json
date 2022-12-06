@@ -3,43 +3,43 @@
         "name": "N1",
         "release": 14,
         "hitlag": 0,
-        "default": 26
+        "next_na": 26
     }, 
     {
         "name": "N2",
         "release": 12,
         "hitlag": 0,
-        "default": 23
+        "next_na": 23
     },
     {
         "name": "N3",
         "release": [13, 25],
         "hitlag": [0, 0],
-        "default": 37
+        "next_na": 37
     },
     {
         "name": "N4",
         "release": 28,
         "hitlag": 0,
-        "default": 68
+        "next_na": 68
     }],
     "CA": [{
         "name": "CA Lv. 1",
         "release": 86,
         "hitlag": 0,
-        "default": 94
+        "n1": 94
     },
     {
         "name": "CA Lv. 2",
         "release": 175,
         "hitlag": 0,
-        "default": 183
+        "n1": 183
     },
     {
         "name": "CA Lv. 2 (in E)",
         "release": 33,
         "hitlag": 0,
-        "default": 41,
+        "n1": 41,
         "notes": "Hitlag is 0.12s if it hits a weakspot"
     }],
     "Skill": {

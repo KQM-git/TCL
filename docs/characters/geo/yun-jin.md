@@ -60,6 +60,11 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 293.36%   | 150          | 7                    |
 
 </div>
+
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -94,7 +99,7 @@ import Skill from '@site/src/components/char/Skill'
 * Yun Jin is considered shielded for the duration of her **Opening Flourish** stance.
   * This can be used to apply Geo Resonanace Geo Res Shred.
 * Yun Jin can perfect counter shots from the Inazuma Kamuijima Cannons.
-* Yun Jin's flags from her E persist for however long she's frozen.
+* Yun Jin's flags from her E persist for however long she's Frozen.
 
 </TabItem>
 

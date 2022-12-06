@@ -65,6 +65,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * N1 is bugged and sometimes will not exist, but there are ways to work around it. See this [Vault Entry](../../evidence/characters/anemo/sucrose.md#sucrose-n1-bug-misconceptions-and-workarounds) for more details.
 
 </TabItem>
@@ -90,8 +91,8 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
-* If you dash cancel Sucrose's Skill and switch characters too fast, no particles will be generated.
+* When cancelled by a dash, the Particles created by this Skill are spawned on the direction where Sucrose is facing.
+* If you dash cancel Sucrose's Skill and switch characters too fast, no Particles will be generated.
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.
 
 </TabItem>
@@ -150,7 +151,7 @@ import Passive from '@site/src/components/char/Passive'
 * This effect can be triggered even when Sucrose is not on the field.
 * This effect cannot be triggered by swirling off Guoba or environmental objects such as cooking pots.
 * This effect can be triggered by chain reaction Swirls.
-* Swirls caused by the absorbed element in **Forbidden Creation-Isomer 75/Type II** can trigger this effect.
+* Swirls caused by the absorbed Element in **Forbidden Creation-Isomer 75/Type II** can trigger this effect.
 
 </TabItem>
 
@@ -160,7 +161,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * A4 snapshots Sucrose's **Elemental Mastery**.
-* A4 also always activates _after_ **Instructor** 4pc set bonus within the same proc.
+* A4 also always activates _after_ **Instructor** 4-Piece set bonus within the same proc.
 * A4 effect can be triggered even when Sucrose is not on the field.
 * A4 effect is dynamic in multiswirl situations.
 * A4 shares 20% of Kazuha's C2 EM.
@@ -178,7 +179,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* If you cancel by a dash then use the skill again too quick, it won't produce extra particles.
+* If you cancel by a dash then use the Skill again too quick, it won't produce extra Particles.
 
 </TabItem>
 

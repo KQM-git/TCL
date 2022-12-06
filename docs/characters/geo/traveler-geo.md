@@ -63,7 +63,8 @@ import AetherCA from '../_common/aether_ca.md'
 
 **Notes**
 
-* Aether is the male traveler.
+* Aether is the male Traveler.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -98,7 +99,8 @@ import LumineCA from '../_common/lumine_ca.md'
 
 **Notes**
 
-* Lumine is the female traveler.
+* Lumine is the female Traveler.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -127,7 +129,7 @@ import LumineCA from '../_common/lumine_ca.md'
 
 * The **meteorite** is considered a **Geo Construct** and can be climbed or use to block attacks
 * Holding allows you to aim where the **meteorite** appears and has a faster animation time.
-* **Starfell Sword** can be manually detonated by over-capping the Geo construct limit (3 constructs).
+* **Starfell Sword** can be manually detonated by over-capping the Geo Constructs limit (3 constructs).
 * See this [Vault Entry](../../evidence/characters/geo/traveler-geo.md#rockstep-tech) for different techniques on using the **meteorite**.
 
 </TabItem>
@@ -214,7 +216,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**.
+* Note that this bonus does not apply to the Burst damage UNLESS it is cast within a prior **Wake of Earth**.
 * The buff stays even when the walls are destroyed by enemies or invisible from teleporting away.
 * The buff is not applied immediately when switching characters, instead it ticks once every ~1s and lingers for ~2s.
 * The buff has a vertical limit. When characters like Xiao jump from a construct such as Albedo's Solar Isotoma, they will no longer recieve the buff. See this [Vault Entry](../../evidence/characters/geo/traveler-geo.md#gmc-wake-of-earth-interactions) for visuals and further explanation.

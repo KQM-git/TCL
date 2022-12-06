@@ -65,14 +65,16 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 * Regular Charge Level 2 arrows have Impulse Type 2 and headshots have 5, Poise Damage is the same as Charge Level 1.
 * **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
 * Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.
 * **Kindling Arrows** are affected by [Amos' Bow](../../equipment/weapons/bows.md#amos-bow)'s passive and reach max stacks at low range.
-* When hitting a weakspot with **Kindling Arrows**, Yoimiya can activate the [Prototype Crescent](../../equipment/weapons/bows.md#prototype-crescent) passive but not always crit.
+* When hitting a weakspot with **Kindling Arrows**, Yoimiya can activate the [Prototype Crescent](../../equipment/weapons/bows.md#prototype-crescent) passive but not always CRIT.
+* How Yoimiya's N1 hits trigger [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering) differs depending on range.
 
 </TabItem>
 
@@ -98,12 +100,12 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* The Damage Bonus from **Niwabi Fire-Dance** is multiplicative.
-* Yoimiya's particle generation triggers on infused arrow hit and has an ICD of 2s on particle generation.
-  * Yoimiya's particle generation procs cannot be buffered, so Yoimiya will ideally generate 4 particles over the duration of **Niwabi Fire-Dance**
-* Charged Shots during the duration of **Niwabi Fire-Dance** do not generate particles.
-* Yoimiya can still produce energy even after **Niwabi Fire-Dance** expires as long as the ICD is off CD and the infused normal attack string arrow lands.
-* Blazing Arows snapshot the Damage Bonus from Niwabi Fire-Dance and still benefit from it even when Yoimiya swaps off-field right before the Blazing Arrows hit.
+* The DMG Bonus from **Niwabi Fire-Dance** is multiplicative.
+* Yoimiya's Particle generation triggers on infused arrow hit and has an ICD of 2s on Particle generation.
+  * Yoimiya's Particle generation procs cannot be buffered, so Yoimiya will ideally generate 4 Particles over the duration of **Niwabi Fire-Dance**
+* Charged Shots during the duration of **Niwabi Fire-Dance** do not generate Particles.
+* Yoimiya can still produce Energy even after **Niwabi Fire-Dance** expires as long as the ICD is off CD and the infused normal attack string arrow lands.
+* Blazing Arows snapshot the DMG Bonus from Niwabi Fire-Dance and still benefit from it even when Yoimiya swaps off-field right before the Blazing Arrows hit.
 
 **Interactions**
 

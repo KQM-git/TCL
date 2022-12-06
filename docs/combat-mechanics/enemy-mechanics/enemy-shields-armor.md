@@ -24,7 +24,7 @@ Due to the nature of how ICD works, it is recommended to use different character
 
 Before we get into how to deal with different types of shields, some types \(**whether its Elemental Shield or Armor**\) can be damaged through **Heavy Attacks** and **Light Attacks**. These types of attacks **deal bonus damage** due to their property of being Heavy or Light \(and some attacks are neither Heavy nor Light\). However, Light Attacks do insignificant damage, and it's advisable to avoid using **Light Attacks** to break **Shields**.
 
-Abyss mage shields, unlike other types of shields, take any damage directly. Any type of attack reduces Abyss mage shields HP by the amount of damage it deals **in addition** to bonus damage due to Elemental Aura application. However, Abyss mage shields have very large HP pools and it is not advisable to rely on direct damage compared to elemental damage.
+Abyss mage shields, unlike other types of shields, take any damage directly. Any type of attack reduces Abyss mage shields HP by the amount of damage it deals **in addition** to bonus damage due to Elemental Aura application. However, Abyss mage shields have very large HP pools and it is not advisable to rely on direct damage compared to Elemental damage.
 
 To add to that, **Geo Attacks** are considered **Heavy Attacks** and also can cause **Crystallize**. Meaning the **GU** required to break **Shields** that are susceptible to both **Geo and Heavy Attacks** is much less in practice.
 
@@ -160,7 +160,7 @@ C = Numbers of Cicin alive.**
 </TabItem>
 </Tabs>
 
-**Elemental Shield strength varies from domains, abyss, co-op, and overworld. Testing was done in overworld using level 1 Weapons and no Artifacts.**
+**Elemental Shield strength varies from domains, abyss, Co-op, and overworld. Testing was done in overworld using level 1 Weapons and no Artifacts.**
 
 ## Elemental Armor
 
@@ -170,14 +170,14 @@ One thing to remember is that unlike **Elemental Shields**, it is possible to de
 
 ![](/img/enemy-shields-armor/zhongli_vs_fatui.png)
 
-The **Elemental Armor** surrounding specifically **Fatui Agents** works in a unique way. Unlike other shield types, they are only damaged by the **Specific Element** that counters them. For instance, an **Electro Fatui's Elemental Armor** will only take damage if inflicted by **Cryo Element.** Other elements deal extremely insignificant damage that it is practically negligible.
+The **Elemental Armor** surrounding specifically **Fatui Agents** works in a unique way. Unlike other shield types, they are only damaged by the **Specific Element** that counters them. For instance, an **Electro Fatuus' Elemental Armor** will only take damage if inflicted by **Cryo Element.** Other elements deal extremely insignificant damage that it is practically negligible.
 
 The following are tables consisting of different types of **Elemental Armor** as well as how to take them down:
 
 ### Fatui
 
 <Tabs>
-<TabItem value="fatui" label="Fatui Skirmishers">
+<TabItem value="Fatui" label="Fatui Skirmishers">
 
 | Fatui Skirmisher Type | Element + Gauge Units                     |
 | :-------------------- | :---------------------------------------- |
@@ -266,7 +266,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 ### Regisvines
 
-**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
+**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each Element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
 
 <Tabs>
 <TabItem value="pyro" label="Pyro Regisvine">
@@ -334,7 +334,7 @@ During the Childe boss fight, he can enter into a shielded state where he takes 
 
 ## Shield Damage
 
-Genshin Impact does not use a generic single-variable HP system for enemy shields like other games. Instead, total Shield HP is in the form of its **Shield** **Gauge Units \(Shield GU\)**, a value which represents the shield’s “elemental strength”. This can be decreased to **0** \(thereby breaking the shield\) through reactions, character damage \(excluding Elemental Armor shields\) and the Poise values of your talents. _\(Poise values are explained in the document and affect Geo_ _/ Frozen shields only\)_
+Genshin Impact does not use a generic single-variable HP system for enemy shields like other games. Instead, total Shield HP is in the form of its **Shield** **Gauge Units \(Shield GU\)**, a value which represents the shield’s “Elemental strength”. This can be decreased to **0** \(thereby breaking the shield\) through reactions, character damage \(excluding Elemental Armor shields\) and the Poise values of your talents. _\(Poise values are explained in the document and affect Geo_ _/ Frozen shields only\)_
 
 Total Shield Damage = Reaction Cost + Damage Cost + Poise Cost
 
@@ -344,7 +344,7 @@ For an in-depth analysis on shield damage as of 2021-06-05, vibe checker\#5502 h
 
 Additional notes on shield damage:
 
-* Transformative damage is also applied in the damage cost of shield damage, and is affected by elemental mastery.
+* Transformative damage is also applied in the damage cost of shield damage, and is affected by Elemental mastery.
 
 ## Credits
 

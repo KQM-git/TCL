@@ -3,42 +3,42 @@
         "name": "N1",
         "hitmark": [4, 13],
         "hitlag": [0, 0.01],
-        "default": 25,
+        "next_na": 25,
         "ca": 26
     }, 
     {
         "name": "N2",
         "hitmark": 14,
         "hitlag": 0.01,
-        "default": 27,
+        "next_na": 27,
         "ca": 32
     },
     {
         "name": "N3",
         "hitmark": 14,
         "hitlag": 0.01,
-        "default": 31,
+        "next_na": 31,
         "ca": 43
     },
     {
         "name": "N4",
         "hitmark": [13, 17],
         "hitlag": [0.02, 0.02],
-        "default": 45,
+        "next_na": 45,
         "ca": 48
     },
     {
         "name": "N5",
         "hitmark": 15,
         "hitlag": 0.02,
-        "default": 29,
+        "next_na": 29,
         "ca": 36
     },
     {
         "name": "N6",
         "hitmark": 38,
         "hitlag": 0.04,
-        "default": 86,
+        "next_na": 86,
         "ca": "N/A",
         "notes": "NA in Q have the same frames and hitlag"
     }],

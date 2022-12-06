@@ -43,6 +43,24 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **Significance:** These findings identify that the most efficient use of Stardust \(outside of buying the 10 Fates, if the Traveler wishes to pay for them\) is to clear the limited amount of Mora, then the Magic Crystal Ores, then the Adventurer's Experience. Additionally, it is more Resin-efficient to be farming more Blue leylines than Gold ones.
 
+### 120 Original Resin Cap
+
+**By:** NZPIEFACE\#8439  
+**Added:** <Version date="2022-11-08" />  
+**Last tested:** <VersionHl date="2022-11-08" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/120-resin-cap)
+
+**Finding:**  
+120 Original Resin cap still exists for accounts that last logged in before the cap was updated to 160. It only updates after you log in.  
+  
+**Evidence:**  
+* Image proof: [Imgur](https://imgur.com/88BUAhR)
+* Record of Original Resin usage: [Imgur](https://imgur.com/bGGPsHq)  
+* Video proof: [YouTube](https://youtu.be/srnP21yZLac)
+
+**Significance:**  
+More information on the Original Resin Cap change.
+
 ## Artifacts
 
 ### Artifact EXP from Vendors Vs Domains
@@ -304,8 +322,8 @@ There are two types of artifact spots:
 Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
 
 **Evidence:**  
-[https://youtu.be/Z0VjSrFASLw](https://www.youtube.com/watch?v=Z0VjSrFASLw)  
-[https://youtu.be/Zx2MKX8Nv8E](https://www.youtube.com/watch?v=Zx2MKX8Nv8E)
+[YouTube](https://www.youtube.com/watch?v=Z0VjSrFASLw)  
+[YouTube](https://www.youtube.com/watch?v=Zx2MKX8Nv8E)
 
 **Significance:**  
 [Video](https://youtu.be/LDU_Txk06tM?t=75)
@@ -419,7 +437,7 @@ Special ores from The Chasm don't just look different, they also have different 
 * Cheapest Revive: Teyvat Fried Egg, 180 Mora if bought from restaurant
 * Most Mora-efficient sprinting stamina reduction: Lotus Seed and Bird Egg Soup, 850 Mora
 
-As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food. However, the cost calculations are included in the spreadsheet.
+As other effects such as ATK buffs and CRIT Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food. However, the cost calculations are included in the spreadsheet.
 
 **Significance:** players who frequently use food and are looking to save Mora can see which foods are cheapest/most Mora-efficient for their given effects.
 
@@ -512,7 +530,7 @@ If you're about to hit the daily cap and go too far from the place you are at ri
 **Evidence:**  
 Timestamped: [Video](https://youtu.be/Uzs8yu6H1BI?t=1778) - gathered 99th spot, going north to get 100th which is the cap. There are 2 spots visible here to gather.  
 Timestamped: [Video](https://youtu.be/Uzs8yu6H1BI?t=2780) - gathered 174 spots, no investigation spots present even though there was no teleport/relog happening.  
-Area covered by black thick border shows the vicinity of where I was past 100th spot, while the dot displays timestamped above locations.
+Area covered by black thick border shows the vicinity of where I was past 100th spot, while the DoT displays timestamped above locations.
 
 **Significance:**  
 A test whether already rendered investigation spots get removed from your memory if you go too far or not - if it was allowed then it would be possible to walk through the entire inazuma (if you're some freaking absolute minmaxer), render all investigation spots at least once and then pick all of them up because everything is stored in your memory.
@@ -528,7 +546,7 @@ The above video displays that investigation spots are stored in your memory, and
 
 **Findings:**
 
-* 'Co-op helps': Investigates \(Artifacts, Weapons, Iron, Energy, Veggies\) don't despawn after reaching daily cap as long as a watcher \(host or co-op teammate\) is near them \[1\].
+* 'Co-op helps': Investigates \(Artifacts, Weapons, Iron, Energy, Veggies\) don't despawn after reaching daily cap as long as a watcher \(host or Co-op teammate\) is near them \[1\].
 * 'Order matters': Which spots are included in a cluster can change depending on which spot is being watched when 100th investigate is done \[2\]\[5\].
 * 'Wide clusters': Clusters can extend pretty far \[3\].
 * 'Merged!': Tatarasuna and the nearby spots \#7, \#8 & BK6 can be merged into a single cluster by placing watchers at certain locations. Same goes for Koseki and Seiraimaru \(Kosekimaru?\) \[4\].
@@ -580,16 +598,16 @@ There is no quick method to reset tree resources beyond hitting an 11th tree and
 **Findings:**  
 Attacks that shake untouched trees, including enemy attacks, can allow them to be harvested using a small number of Elemental Skills in a short window. We explored this to find several things.
 
-* Shaking a tree marks it as a target for a wider variety of skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
-* All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
+* Shaking a tree marks it as a target for a wider variety of Skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
+* All Physical damage sources & an odd assortment of character Skills \(Jean's E, Kaeya's Q\) can shake/mark
 * Marks last a very short time
-* Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload.
+* Some Skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E Skills, while Razor can harvest with E only if he uses Overload.
 
 **Evidence:**  
-Summary post with multiple videos here [https://imgur.com/a/RnevAeW](https://imgur.com/a/RnevAeW)
+Summary post with multiple videos here [YouTube](https://imgur.com/a/RnevAeW)
 
 **Significance:**  
-Attacks are not equal in terms player-environment interaction. Most skills can never harvest nor shake tress; some can shake trees, others can harvest directly, while others can harvest indirectly via Overloading burning grass. Most importantly for combat, damage sources appear to be treated differently depending on the character, attack, and reaction source. Overloading via E to harvest a marked tree works for Razor and Beidou, but not Xiangling or Fischl's elemental arrow. Overload seems to work on burning grass but not self-overloads. Dealing phys damage with Xinyan harvests using a Normal Attack, but only shakes during her Burst. More broadly, the game appears to be conserving resources by limiting the player's kit unless certain enabling actions are taken. After enabling these attacks, the game shuts them down after a short window. Enemies appear to be permanently enabled for all attacks, but the player must fight enemies within a specific area, otherwise they will teleport back and reset.
+Attacks are not equal in terms player-environment interaction. Most Skills can never harvest nor shake tress; some can shake trees, others can harvest directly, while others can harvest indirectly via Overloading burning grass. Most importantly for combat, damage sources appear to be treated differently depending on the character, attack, and reaction source. Overloading via E to harvest a marked tree works for Razor and Beidou, but not Xiangling or Fischl's Elemental arrow. Overload seems to work on burning grass but not self-overloads. Dealing phys damage with Xinyan harvests using a Normal Attack, but only shakes during her Burst. More broadly, the game appears to be conserving resources by limiting the player's kit unless certain enabling actions are taken. After enabling these attacks, the game shuts them down after a short window. Enemies appear to be permanently enabled for all attacks, but the player must fight enemies within a specific area, otherwise they will teleport back and reset.
 
 ### Missed Attacks Still Mark Trees For Unholy Harvesting
 
@@ -638,11 +656,11 @@ Summary of Results, most efficient units for tree chopping:
 
 **Evidence:**
 
-* Inventory before and after farming wood over 3 days: [https://imgur.com/a/tNZP68q](https://imgur.com/a/tNZP68q)
-* Evidence that player cannot collect more bamboo, but can collect other wood: [https://youtu.be/f_eQfp1FWLM](https://youtu.be/f_eQfp1FWLM)
-* Same for pine wood: [https://youtu.be/yh4PodfeX7c](https://youtu.be/yh4PodfeX7c)
-* Hitting cap and testing teleport and logout/login \(and showing that neither reset the cap\): [https://youtu.be/pE-vHLpum6Q](https://youtu.be/pE-vHLpum6Q)
-* Collecting pine wood after server reset \(marked by new daily commission quest at 0:12\): [https://youtu.be/9WrYqapBFkU](https://youtu.be/9WrYqapBFkU)
+* Inventory before and after farming wood over 3 days: [YouTube](https://imgur.com/a/tNZP68q)
+* Evidence that player cannot collect more bamboo, but can collect other wood: [YouTube](https://youtu.be/f_eQfp1FWLM)
+* Same for pine wood: [YouTube](https://youtu.be/yh4PodfeX7c)
+* Hitting cap and testing teleport and logout/login \(and showing that neither reset the cap\): [YouTube](https://youtu.be/pE-vHLpum6Q)
+* Collecting pine wood after server reset \(marked by new daily commission quest at 0:12\): [YouTube](https://youtu.be/9WrYqapBFkU)
 
 Note that although I did need to teleport to get wood after reset, teleporting alone does not reset the cap, as shown above.
 
@@ -660,7 +678,7 @@ Even after farming one tree type to the cap, it will still register in the 11 tr
 
 **Evidence:**
 
-[Youtube](https://youtu.be/IQjXqPlfX5M)
+[YouTube](https://youtu.be/IQjXqPlfX5M)
 
 In the video, thoma hits 4 birch trees that do not drop wood, this is either caused by a.) being in memory as a tree 1-11 or b.) the daily wood cap was hit for birch specifically. Next, 5 fir trees and 2 cuihua trees were cut, all dropping wood. Going back to the birch trees resulted no new wood drops, and since those are 11 trees hit in total it is impossible for all of the birch trees to be "in memory", so the only reason they wouldn't drop wood is that birch daily limit has been reached. 2 additional fir trees were cut and dropped wood, so capped wood types do count in the tree chopping memory mechanics.
 
@@ -701,7 +719,7 @@ Melee attacks infused with elements usually cannot chop wood from trees.
 
 **Evidence:**  
 Chongyun and Ayaka infusions prevent wood chopping - [YouTube](https://youtu.be/cJEkFctLa4g)  
-Ayato _can_ chop wood during his skill's infusion _if_ activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation) - [YouTube](https://youtu.be/Bs80TnoJMyI)
+Ayato _can_ chop wood during his Skill's infusion _if_ activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation) - [YouTube](https://youtu.be/Bs80TnoJMyI)
 
 **Significance:**  
 Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at chopping wood.

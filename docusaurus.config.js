@@ -66,6 +66,7 @@ const config = {
           { from: '/damage', to: '/combat-mechanics/damage/damage-formula' },
           { from: '/egt', to: '/combat-mechanics/elemental-effects/elemental-gauge-theory' },
           { from: '/srp', to: '/combat-mechanics/elemental-effects/simultaneous-reaction-priority' },
+          { from: ['/icd', '/combat-mechanics/elemental-effects/internal-cooldown-of-elemental-application'], to: '/combat-mechanics/internal-cooldown' },
 
           // Extra character page redirects
           { from: ['/heizou', '/characters/anemo/heizou'], to: '/characters/anemo/shikanoin-heizou' },

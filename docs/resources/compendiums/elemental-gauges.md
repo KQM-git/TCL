@@ -1,10 +1,10 @@
 ---
-description: The amount of elemental units applied by a character attack, skill or passive is referred to as elemental gauge.
+description: The amount of Elemental units applied by a character attack, skill or passive is referred to as Elemental gauge.
 ---
 
 # Elemental Gauge Database
 
-Elemental Gauge is denoted as a number and a letter. The number represents the amount of elemental units applied. Aura application has an Aura Tax (0.8x modifier). The letter \(A/B/C\) denotes the decay rate of an elemental aura:
+Elemental Gauge is denoted as a number and a letter. The number represents the amount of Elemental units applied. Aura application has an Aura Tax (0.8x modifier). The letter \(A/B/C\) denotes the decay rate of an Elemental aura:
 
 * A = 11.875s per A
 * B = 7.5s per B
@@ -67,7 +67,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Cyno                      | -                    | -                    | 1A                                                                   | 1A         | On Cast: 1A<br />Converted Attacks: 1A   | A1: 1A<br />C6: 1A |
 | Dori                      | -                    | -                    | On Cast: 1A<br />After-Sale Service Round: 1A                        | -          | Connector: 1A<br />Self-Electro: 1A      | C2: 1A             |
 | Fischl                    | -                    | 1A                   | Initial AoE: 1A<br />On-Hit \(Normal & C6\): 1A<br />A1: 2B / A4: 1A | -          | 2B                                       | -                  |
-| Keqing                    | Electro Infusion: 1A | Electro Infusion: 1A | Initial E Cast: 1A<br />E+CA: 2B / E+E: 2B                           | -          | 1A                                       | -                  |
+| Keqing                    | Electro Infusion: 1A | Electro Infusion: 1A | Initial Cast: 1A<br />Recast: 2B<br />CA: 2B                         | -          | 1A                                       | -                  |
 | Lisa                      | 1A                   | 1A                   | 1A                                                                   | 2B         | Summon DMG: None<br />DoT: 1A            | -                  |
 | Razor                     | -                    | -                    | 2B                                                                   | 2B         | On Cast: 2B<br />Additional On-Hit: 1A   | -                  |
 | Raiden                    | -                    | -                    | Initial Cast: 1A<br />Proc: 1A                                       | -          | Initial Hit: 2B<br />Infused Attacks: 1A | -                  |

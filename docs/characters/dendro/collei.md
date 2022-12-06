@@ -57,6 +57,8 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes**  
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
@@ -134,10 +136,10 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
-  
+
 **Notes**
-  
-* A1 does 2 instances of damage, only the first applies dendro.
+
+* A1 does 2 instances of damage, only the first applies Dendro.
 * Collei's E can trigger her own A1 if it triggers a reaction.
 * Triggering A1 again resets the previous A1.
 

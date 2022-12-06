@@ -67,8 +67,15 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Zhongli's string has no hit lag on the spear kick \(N5\).
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* Zhongli's string has no hitlag on the spear kick \(N5\).
 * Zhongli's attack string does not always interact with C6 Fischl on his first attack.
+* How Zhongli's spearkick hits trigger [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering) differs depending on the tester. For more information see this [Vault Entry](../../evidence/equipment/artifacts.md#echoes-proc-on-zhongli-spearkick-attack-differs-between-tester).
+* Zhongli's spearkick combos can fail to proc Echoes after 7, 8, or even 9 hits.
+* For more testing results with Zhongli, see the following Vault Entries:
+  * [Potade\#9775](../../evidence/equipment/artifacts.md#more-zhongli-testing-data)
+  * [Xreejan\#1180](../../evidence/equipment/artifacts.md#more-zhongli-testing-data-at-160-ping)
+  * [Latiwings\#3308](../../evidence/equipment/artifacts.md#even-more-data-on-zhonglis-string-with-echoes)
 
 </TabItem>
 
@@ -110,15 +117,19 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Hits that resonate from other Geo constructs still proc the 4-piece Tenacity of the Millileth set.
-* **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb.
-* Resonation can overlap to deal multiple instances of damage.
+* On cast, **Stone Stele** is placed 1 Abyss Tile in front of Zhongli.
+* Hits that resonate from other Geo Constructs still proc the 4-Piece [Tenacity of the Millileth](../../equipment/artifacts.md#tenacity-of-the-millelith) set.
+* **Stone Steles** are considered Geo Constructs that can be used to block attacks, or climb.
+* **Resonance** can overlap to deal multiple instances of damage.
 * **Stone Steles** resonate independently and with Geo Constructs from enemies, but they do not resonate with each other.
 * The range for the resistance shred is ~3 Abyss tiles.
 * At C0, Hold E does not re-snapshot an existing pillar; at C1 each Stone Stele snapshots on cast, meaning it's possible to have 1 unbuffed **Stone Stele** and 1 buffed **Stone Stele** at the same time.
-* 4TotM does not increase the damage of the **Stone Stele** that procs the effect, because **Stone Stele** Snapshots.
+* 4TotM does not increase the damage of the **Stone Stele** that procs the effect, because **Stone Stele** snapshots.
 * **Stone Stele** will not be placed and will be destroyed instead when Zhongli is standing on a high platform.
-* The Resistance shred lingers for a bit after it breaks/ends.
+* The RES Shred lingers for a bit after it breaks/ends.
+* **Resonances** have a range of 1.5 Abyss Tiles, and the range for resonating with other Geo Constructs is 3 tiles.
+* **Resonance** ICD from **Stone Steles** is shared with other Geo Constructs, C1 **Stone Stele**, and **Planet Befall**.
+* The amount of **Resonance** ticks depends on FPS. For more information see this [Vault Entry](../../evidence/general-mechanics/movement-and-physics.md#tick-tock).
 
 </TabItem>
 
@@ -147,6 +158,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.
 * Zhongli's Burst has 190 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(3.2s\).
+* Zhongli's Burst cannot shatter Frozen enemies. It also prevents Freeze when enemies are Petrified.
 
 </TabItem>
 </Tabs>
@@ -175,6 +187,7 @@ import Passive from '@site/src/components/char/Passive'
 * This Shield Strength increase occurs after damage is calculated.
 * There is no observable ICD on obtaining Shield Strength stacks.
 * Persists upon swap but not upon refresh.
+* Fortify gets triggered by Aura Checks.
 
 </TabItem>
 
@@ -193,7 +206,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Steles resonate independently and do not resonate with each other
+* Steles resonate independently and do not resonate with each other.
+* C1 **Stone Stele** shares ICD with the other **Stone Stele**.
 
 </TabItem>
 
@@ -202,7 +216,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The shield is visually granted after the burst, but all shield bonuses are active for the burst damage.
+* The shield is visually granted after the Burst, but all shield bonuses are active for the Burst damage.
 
 </TabItem>
 
@@ -220,6 +234,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
+
+* Healing is not triggered by environmental damage or Corrosion.
+* Healing does not have an ICD.
+* Healing triggers 4-Piece [Ocean-Hued Clam](../../equipment/artifacts.md#ocean-hued-clam).
+
 </TabItem>
 </Tabs>
 

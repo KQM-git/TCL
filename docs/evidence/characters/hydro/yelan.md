@@ -90,7 +90,7 @@ Based on the [Xingqiu wave snapshot ticket](../../../evidence/characters/hydro/x
 **Evidence:**  
 [Video 1](https://youtu.be/XhkY52fzI8g)  
 [Video 2](https://youtu.be/TkpCRAk354A)  
-[Video 3](https://youtu.be/qPW0Tbi1yLI) \(switched between pyro and hydro potion in this video\)
+[Video 3](https://youtu.be/qPW0Tbi1yLI) \(switched between Pyro and Hydro potion in this video\)
 
 **Significance:**  
 Better understanding of how buffs interact with Yelan’s Burst, specifically noting that each of Yelan’s projectiles in a given wave can do different damage.

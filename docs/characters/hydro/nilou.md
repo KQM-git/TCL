@@ -32,19 +32,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :--------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 92.4%      | 26     | 213.3%/s  | 52.64        | 3            |
-| 2-Hit  | 83.5%      | 33     | 151.78%/s | 47.55        | 3            |
-| 3-Hit  | 129.3%     | 66     | 117.51%/s | 73.60        | 3            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 92.4%     | 26     | 213.3%/s  | 52.64        | 3            |
+| 2-Hit  | 83.5%     | 33     | 151.78%/s | 47.55        | 3            |
+| 3-Hit  | 129.3%    | 66     | 117.51%/s | 73.60        | 3            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 92.3% + 100.0%   | 42     | 274.69%/s | 60 ×2        | 2 + 6        |
+| String | Talent 9%      | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :------------- | :----- | :-------- | :----------- | :----------- |
+| CA     | 92.3% + 100.0% | 42     | 274.69%/s | 60 ×2        | 2 + 6        |
 
 </div>
 <div class='talent-columns'>
@@ -58,6 +58,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -65,7 +69,33 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
+| Attribute                          | Pirouette    | Sword Dance \(Lunar Prayer\) | Whirling Steps \(Tranquility Aura\)                              |
+| :--------------------------------- | :----------- | :--------------------------- | :--------------------------------------------------------------- |
+| DMG \(T9%, 1-Hit/2-Hit/3-Hit\)     | 5.68% Max HP | 7.74/8.75/12.19% Max HP      | 5.55/6.73/8.60% Max HP                                           |
+| Particles \(1-Hit/2-Hit/3-Hit\)    | 1-2 \(1:1\)  | 0                            | Whirling Steps: 1/1/1<br />Tranquility Aura: 0                   |
+| GU                                 | 1A           | 1A                           | 1A                                                               |
+| ICD                                | 3-hit / 2.5s | 3-hit / 2.5s                 | Whirling Steps: 3-hit / 2.5s<br />Tranquility Aura: 4-hit / 1.9s |
+| Snapshot                           | Dynamic      | Dynamic                      | Dynamic                                                          |
+| Damage Element                     | Hydro        | Hydro                        | Hydro                                                            |
+| Damage Type                        | Skill        | Skill                        | Skill                                                            |
+| Duration                           | 10s          | 8s                           | 12s                                                              |
+| Cooldown                           | 18s          | -                            | -                                                                |
+| Poise Damage \(1-Hit/2-Hit/3-Hit\) | 55.64        | 52.64/47.55/90.31            | 54.64/66.43/85                                                   |
+| Impulse Type \(1-Hit/2-Hit/3-Hit\) | 3            | 3/3/3                        | 3/3/4                                                            |
+
 </div>
+
+**Notes:**  
+
+* **Dance of Haftkarsvar** generates a total of 4-5 Particles each time.
+* Nilou can enter both **Sword Dance** and **Whirling Steps** stances at the same time using Sacrificial Sword.
+* **Dance of Haftkarsvar** cooldown starts on initial cast, but the infusion duration does not start until the 3rd slash.
+* **Tranquility Aura** counts as a zero-damage hit.
+* While under the **Pirouette** or **Lunar Prayer** effects, Nilou's Normal Attack combo will not be reset.
+* All 3 **Sword Dance** hits can be canceled very early. Well-timed dash cancels does not cause her to lose infusion slashes, thus making her an extremely mobile on-fielder.
+* **Luminous Illusion** is considered a ranged attack.
+* E N2 Q N1 allows Particle pre-funneling.
+* **Sword Dance** and **Luminous Illusion** can't trigger [Beidou's Burst](../electro/beidou.md#attacks) but can trigger [Xingqiu's Burst](../hydro/xingqiu.md#attacks).
 
 </TabItem>
 
@@ -74,20 +104,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute         | Burst         | Lingering Aeon |
-| :---------------- | :------------ | :------------- |
-| DMG \(T9%\)       | 18.4% Max HP  | 22.5% Max HP   |
-| Instances         | -             | ?              |
-| GU                | ?             | ?              |
-| ICD               | ?             | ?              |
-| Snapshot          | ?             | ?              |
-| Damage Element    | Hydro         | Hydro          |
-| Damage Type       | ?             | ?              |
-| Energy Cost       | 70            | -              |
-| Duration          | ?             | -              |
-| Cooldown          | 18s           | -              |
-| Poise Damage      | ?             | ?              |
-| Impulse Type      | ?             | ?              |
+| Attribute      | Burst        | Lingering Aeon |
+| :------------- | :----------- | :------------- |
+| DMG \(T9%\)    | 18.4% Max HP | 22.5% Max HP   |
+| GU             | 1A           | 1A             |
+| ICD            | None         | None           |
+| Snapshot       | Dynamic      | Dynamic        |
+| Damage Element | Hydro        | Hydro          |
+| Damage Type    | Burst        | Burst          |
+| Energy Cost    | 70           | -              |
+| Duration       | -            | 2s             |
+| Cooldown       | 18s          | -              |
+| Poise Damage   | 150          | 100            |
+| Impulse Type   | 3            | 3              |
 
 </div>
 
@@ -116,6 +145,11 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
+
+**Notes:**  
+
+* A4 is additive to the Bloom Reaction Bonus from EM.
+
 </TabItem>
 </Tabs>
 
@@ -138,6 +172,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
+
+**Notes:**  
+
+* C4 buffs **Lingering Aeon** with the combo: E N2 Q N1.
+
 </TabItem>
 
 <TabItem value='c5' label='C5'>

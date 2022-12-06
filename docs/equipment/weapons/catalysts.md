@@ -48,7 +48,7 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Skyward Atlas" weapons={catalysts}>
 
-* Skyward Atlas's passive can crit.
+* Skyward Atlas's passive can CRIT.
 
 </Weapon>
 
@@ -160,7 +160,11 @@ import SacSeries from './\_common/sac_series.md';
 
 ### Wandering Evenstar
 
-<Weapon weapon="Wandering Evenstar" weapons={catalysts} />
+<Weapon weapon="Wandering Evenstar" weapons={catalysts}>
+
+* Evenstar buff begins 64 frames after it's equipped, all timers are reset when removed or when enter/exit domains \(including challenge again, abyss try again, etc.\), allowing the buff to reapply 64 frames after re-equipping or enter/exit domains regardless of the previous timer.
+
+</Weapon>
 
 ### Wine and Song
 

@@ -63,7 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* All frame counts are done against Ruin Guards.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -118,7 +118,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* **Fortune-Preserving Talisman** is dynamic and does not snapshot any ATK bonus.
+* **Fortune-Preserving Talisman** is dynamic and does not snapshot any ATK Bonus.
   * The healing scales off Qiqi's ATK, not the active character's ATK.
   * The healing will occur as long as the attack hits, regardless dealing any DMG or not.
   * The healing has an ICD of approximately 1 second

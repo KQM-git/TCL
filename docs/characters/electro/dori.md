@@ -55,6 +55,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -76,6 +80,11 @@ import Skill from '@site/src/components/char/Skill'
 | Impulse Type              | 3            | 3                         |
 
 </div>
+
+**Notes**  
+
+- Dori's E Troubleshooter Shot and the After-Sales Service Rounds (including the additional round from C1) share ICD.
+- Contrary to her Skill talent description, Dori's E Troubleshooter Shot does not have to hit an enemy to trigger the After-Sales Service Rounds.
 
 </TabItem>
 
@@ -102,6 +111,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+- Dori's Burst tether connects to and applies to all nearby players in multiplayer
+
 </TabItem>
 </Tabs>
 
@@ -127,6 +140,11 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
+
+**Notes**
+
+- Dori's A4 directly scales with Energy Recharge, and does not require increments of 100% to increase the amount of Energy restored.
+
 </TabItem>
 </Tabs>
 
@@ -141,6 +159,12 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c2' label='C2'>
 <Constellation char={char} constellation={2} />
+
+**Notes**
+
+- C2 and Burst ICD are separate
+- C2 is not Burst damage
+
 </TabItem>
 
 <TabItem value='c3' label='C3'>

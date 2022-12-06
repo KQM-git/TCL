@@ -48,18 +48,18 @@ Shows how Qiqi's talisman interacts with sources of damage.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_889381442432409630_890102971847815228_transcript-qiqi-talisman-healing-doesnt-snapshot.html)
 
 **Finding:**  
-Qiqi healing from applying talisman is dynamically based on current atk, and cannot snapshot atk buffs
+Qiqi healing from applying talisman is dynamically based on current ATK, and cannot snapshot ATK buffs.
 
 **Evidence:**  
-Qiqi baseline healing: [Youtube](https://www.youtube.com/watch?v=gIx8FpS2BIM)  
-Qiqi buffed healing amount (Sara feather): [Youtube](https://www.youtube.com/watch?v=dzanV9B5Xjs)
+Qiqi baseline healing: [YouTube](https://www.youtube.com/watch?v=gIx8FpS2BIM)  
+Qiqi buffed healing amount (Sara feather): [YouTube](https://www.youtube.com/watch?v=dzanV9B5Xjs)
 
-Unbuffed: 2598 hp healed  
-Buffed by Sara: 3365 hp healed  
-Buffed and wait for bonus to wear off: 2598 hp healed
+Unbuffed: 2598 HP healed  
+Buffed by Sara: 3365 HP healed  
+Buffed and wait for bonus to wear off: 2598 HP healed
 
 **Significance:**  
-The timing of applying the talisman does not matter at all, all that matters is how much atk your character has when hitting the enemy
+The timing of applying the talisman does not matter at all, all that matters is how much ATK your character has when hitting the enemy
 
 ### Talisman Heals Regardless Dealing DMG Or Not
 
@@ -76,12 +76,12 @@ This behavior is different compared to Albedo E and Raiden E (both of them have 
 **Evidence:**
 
 1. Mona/Ayaka alternate sprints: [Imgur](https://imgur.com/WuUAXcA)
-2. Xingqiu/Barbara E hydro application: [Imgur](https://imgur.com/NWOh0qL)
-3. Jean Q self hydro swirls: [Imgur](https://imgur.com/vS8ueTt)
+2. Xingqiu/Barbara E Hydro application: [Imgur](https://imgur.com/NWOh0qL)
+3. Jean Q self Hydro swirls: [Imgur](https://imgur.com/vS8ueTt)
 4. Mona Q cast: [Imgur](https://imgur.com/3Qzy2My)
 5. Xingqiu Q activation: [Imgur](https://imgur.com/6FlHxOk)
-6. Hutao E activation: [Youtube](https://youtu.be/NHXlZiXdHhg) (credit to ItzSomebody#0029)
-7. Yoimiya E activation: [Youtube](https://youtu.be/O23CJGQtlCU) (credit to ItzSomebody#0029)
+6. Hutao E activation: [YouTube](https://youtu.be/NHXlZiXdHhg) (credit to ItzSomebody#0029)
+7. Yoimiya E activation: [YouTube](https://youtu.be/O23CJGQtlCU) (credit to ItzSomebody#0029)
 
 **Significance:**
 Additional insight on how game consider to be "taking damage" (which is not consistent between characters)
