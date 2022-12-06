@@ -1272,3 +1272,29 @@ A 💨 visual effect shows up when holding sprint while walking/running, and no 
 
 **Significance:**  
 Know how to make the cool effect show up, can make character 💨 fart...
+
+## Karkata Physics And Infinite Ascension Theory
+
+**By:** Aevean Leeow\#1362  
+**Added:** <Version date="2022-12-01" />  
+**Last tested:** <VersionHl date="2022-11-26" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/karkata-physics-and-infinite-ascension-theory)
+
+**Finding:**  
+Karkata has unique properties as an NPC. You can propel yourself off any NPC with the assistance of Geo Constructs to place yourself inside of their hitbox, but thanks to Karkata's unique NPC hitbox, it is much easier to achieve propulsion. Compared to regular NPC hitbox propulsion, characters will also be launched at greater speed and distance. It is also possible to move Karkata using Geo Constructs and to move Karkata by running into him with the assistance of Geo Constructs.
+
+You can also displace Karkata upwards, and you can place a solid object like a gadget to catch them and suspend them in the air.
+ 
+**Evidence:**  
+* Moving a character with a spider: [YouTube](https://youtu.be/s-634jOBPpc)
+* Moving a character with a spider and vice versa: [YouTube](https://youtu.be/Dntxc6JZEwA)
+* Moving spider: [YouTube](https://youtu.be/qiqdOf8anhw)
+* Moving cube with construct: [YouTube](https://youtu.be/Ei_lRukZBKE)
+* Moving cube with construct and catching with gadget: [YouTube](https://youtu.be/vfRxM2jkcdQ)  
+
+**Significance:**  
+It may seem to be the case that this knowledge of Karkata physics, in conjunction with the [Stoves of Babel](#stoves-of-babel) technique, allows one to hypothetically increase Karkata's height indefinitely until there are no more stoves to place. From the evidence, it is possible to displace Karkata onto a gadget. Once they are on a gadget, displace Karkata by using a Geo Construct (easiest is GMC E) to push Karkata. Use a stove in order to provide the surface for the construct. Use another gadget to 'catch' Karkata at their new position. Rinse and repeat in order to raise Karkata.
+
+However, this model does not account for several issues. The biggest issue is the capabilities of Stoves of Babel movement. Stoves of Babel ascend at a pace much greater than the rate at which Karkata ascends, based on the height gained in the videos. Furthermore, the Stoves of Babel are incapable of lowering their vertical height. Therefore, once the player gains too much height, the player will not be able to freely place gadgets and constructs in order to keep raising Karkata. The player must remain close to Karkata, or the gadgets and Karkata will probably despawn, so dropping to the ground and rebuilding a new Tower of Babel is not feasible.  
+  
+These issues could potentially be remedied in multiplayer, but as of now the behavior of the Stove gadget is currently not fully understood. It will persist after someone leaves in multiplayer, but the limit on the number of stoves is unknown. If players can indeed drop in at the current player location and place a stove and leave without limitations, then it would be possible to infinitely raise Karkata. There would be a large 'buffer zone' underneath Karkata, with many Stoves placed to allow for quick movement. With the help of the extra stoves to place constructs on, the players must raise Karkata a distance greater than the minimum height increase of the Stoves every 5 minutes.
