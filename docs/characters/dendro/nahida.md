@@ -86,6 +86,11 @@ import Skill from '@site/src/components/char/Skill'
 | Impulse Type   | 2       | 2       | 2                             |
 
 </div>
+
+**Notes**
+
+* **Tri-Karma Purification** can be triggered by the Shatter reaction.
+
 </TabItem>
 
 <TabItem value='q' label='Burst'>
