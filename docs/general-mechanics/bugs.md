@@ -1,7 +1,7 @@
 # Bugs
 
 :::info
-This page is for bugs, meaning they could get fixed by miHoYo at any time. If you find that a bug has been patched out, but is still on this page, go to [\#website-feedback](https://discord.gg/keqing) on the KQM Discord.
+This page is for bugs, meaning they could get fixed by HoYoverse at any time. If you find that a bug has been patched out, but is still on this page, go to [\#website-feedback](https://discord.gg/keqing) on the KQM Discord.
 :::
 
 ## Abyss
@@ -48,28 +48,24 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
   * The fist of [Tartaglia](../evidence/general-mechanics/bugs.md#childe-fist)
   * The fist of [Aether](../evidence/general-mechanics/bugs.md#aether-fist)
 
+## Characters
+
+* [Elemental Particles don't stop moving even when you open a pause menu](../evidence/general-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
+* [Xiangling's Burst can stack](../evidence/general-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
+* Venti's Burst will deal its full Elemental absorption damage [even if it is infused later in the Burst](../evidence/general-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
+* Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../evidence/general-mechanics/bugs.md#venti-e-hold-visual-error).
+* [There is a small chance](../evidence/general-mechanics/bugs.md#mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and Particle generation also happens when cast. Normally this only happens when her Skill construct expires, it doesn't happen if you use Hold E and only on Press E.
+* As of Version 3.2, if a character is in the middle of an idle animation or camera pose while jumping into a body of water, the dive animation doesn't happen until the character is back to normal pose, during this time the character is in some kind of floating state and can move [indefinitely in any direction](../evidence/general-mechanics/bugs.md#nahida-airlines) if pushed.
+
 ## Enemies
 
 * Occasionally, Cryogunner Legionnaires will not fully land on the ground after their jump attack pattern while also producing janky hit & collision boxes.
 
 ## Miscellaneous
 
-* [Elemental Particles don't stop moving even when you open a pause menu](../evidence/general-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
-
-* [Xiangling's Burst can stack](../evidence/general-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
-
-* Venti's Burst will deal its full Elemental absorption damage [even if it is infused later in the Burst](../evidence/general-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
-
-* Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../evidence/general-mechanics/bugs.md#venti-e-hold-visual-error).
-
-* [There is a small chance](../evidence/general-mechanics/bugs.md#mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and Particle generation also happens when cast. Normally this only happens when her Skill construct expires, it doesn't happen if you use Hold E and only on Press E.
-
 * If your Artifact Inventory is near full (from 990/1000), you'll get an "No space left in Inventory" when trying to do a Wish X10.
-
 * There is a bug that causes your character to [stop moving while sprinting](../evidence/general-mechanics/bugs.md#sprinting-bug), while still consuming stamina.
-
   * You can "break free" from this state by performing any action such as jump, attacks, dash, aim, swap, and entering a menu.
-
 * It is possible for the aimed versions of certain abilities to spawn their respective objects [in a different location from initially intended](../evidence/general-mechanics/bugs.md#aimed-abilities-not-going-where-aimed). This is done by rapidly panning/moving the camera after releasing it. It can vary depending on the execution, going so far as to appearing directly behind certain characters.
 
 ## Fixed Bugs
