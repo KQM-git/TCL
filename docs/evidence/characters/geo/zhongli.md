@@ -186,6 +186,26 @@ Zhongli's Geo Construct placement seems to have a specific height difference pas
 **Significance:**  
 Knowing more about Geo Construct spawn conditions at different heights.
 
+### Zhongli's Pillars Attract Enemies' Hyperbloom
+
+**By:** VanIna\#2859 and f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)
+
+**Finding:**  
+Zhongli's pillars can attract enemies' Hyperbloom, other Geo Constructs do not work.  
+
+**Evidence:**  
+* Zhongli E: [YouTube](https://youtu.be/BJ1EYOotRsc)
+* Ningguang E: [YouTube](https://youtu.be/1vgFVaKtYR8)
+* GMC E: [YouTube](https://youtu.be/XRtG1Bb_OvI)
+* GMC Q: [YouTube](https://youtu.be/ThW3fE9W9NA)
+* Albedo E: [Imgur](https://imgur.com/a/XOX4Umy)
+
+**Significance:**  
+Geo Archon will always protect us, in many ways.  
+
 ## Burst Mechanics
 
 ### Zhongli Q Doesn't Shatter

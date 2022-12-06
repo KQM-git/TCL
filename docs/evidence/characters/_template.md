@@ -10,8 +10,6 @@ search: false
 
 ## Basic Mechanics
 
-* Frame data - [Google Sheets]() - Kolibri\#7675
-
 ## Attack Mechanics
 
 ## Skill Mechanics

@@ -156,6 +156,10 @@ Bushes have a 8% chance to drop loot, they will drop:
 
 Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
 
+## Domains
+
+Selecting a Talent/weapon domain before the daily reset will freeze the material type until you leave the domain. This means that if you re-enter the domain using the Resin reward screen UI then you will receive the same material on consecutive runs.  
+
 ## Resource Limits
 
 ### Capped Enhancement Ores
@@ -215,6 +219,6 @@ Attacks that shake untouched trees, including enemy attacks, can allow them to b
 * Some Skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E Skills, while Razor can harvest with E only if he uses Overload.
 * Melee normal attacks can sometimes whiff on a tree. This still marks the tree and enables harvesting via Elemental Skill.
 
-## Evidence Vault:
+## Evidence Vault
 
 <Card item={require('../evidence/general-mechanics/resources-and-efficiency.md')} />

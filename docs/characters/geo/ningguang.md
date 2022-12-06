@@ -70,6 +70,9 @@ import Skill from '@site/src/components/char/Skill'
 * Additional resources for her animation cancels can be found in the [Ningguang Mains discord](https://discord.gg/ENcBMd86nD).
 * Star Jades are considered Charged Attacks and benefit from Charged Attack Bonuses.
 * Low/High Plunge applies Geo and has no ICD.
+* Star Jade creation and CA Stamina deduction are server-side, but the consumption of Star Jades to produce projectiles is client-side.
+* Ningguang does not benefit from her A1 if she gains Star Jades after a certain cutoff frame from the beginning of her CA animation. For more information on the cutoff frame see this [Vault Entry](../../evidence/characters/geo/ningguang.md#star-jade-creation-and-consumption).
+* Ningguang's NA projectiles generate Star Jades with an ICD dependent on ping, and can be triggered twice per NA (one for each projectile) by delaying their hit times.
 
 </TabItem>
 

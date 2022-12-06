@@ -66,7 +66,9 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Enemies struck by Xingqiu's charged attack will be staggered or launched.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* Enemies struck by Xingqiu's Charged Attack will be staggered or launched.
+
 
 </TabItem>
 
@@ -99,15 +101,16 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
-* The DMG Reduction does not take the Hydro DMG% bonus gained from Kazuha's A4 into account.
-* Increased resistance to interruption stacks with other Skills of similar effects.
-* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply Hydro to enemies, even if the rain swords aren't visible
-  * This occurs with the orbitals created by both Xingqiu's Skill and Burst
-* Only one **Rain Sword** can be shattered at a time, and the Shattering has a cooldown of 1.5s.
+* The DMG Reduction:
+  * Does not take the Hydro DMG Bonus% gained from Kazuha's A4 into account.
+  * Is affected by Mistsplitter's passive.
+  * Does not work for the self-damage from Burgeon.
+* Increased resistance to interruption stacks with other skills of similar effects.
+* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply Hydro to enemies, even if the rain swords aren't visible.
+  * This occurs with the orbitals created by both Xingqiu's Skill and Burst.
+* Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s.
 * Using **Guhua Sword: Fatal Rainscreen** applies a very brief 1U Hydro aura onto the character.
 * EQE is about 0.5 \- 1s slower on average compared to QEE or EEQ in teams where Xingqiu's E CD gates the rotation time. See more in this [Vault Entry](../../evidence/characters/hydro/xingqiu.md#xingqiu-eqe-vs-qee).
-* The DMG Reduction is affected by Mistsplitter's passive.
 
 </TabItem>
 

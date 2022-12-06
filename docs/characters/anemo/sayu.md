@@ -28,21 +28,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9%  | Frames   | MV/s      | Poise Damage | Impulse Type          |
-| :------- | :--------- | :------- | :-------- | :----------- | :-------------------- |
-| 1-Hit    | 132.72%    | 46       | 173.11%/s | 80.5         | 3                     |
-| 2-Hit    | 131.14%    | 58       | 135.66%/s | 79.35        | 3                     |
-| 3-Hit    | 79.79% x 2 | 61       | 156.96%/s | 48.3 x2      | 3 + \(Heavy, 500, 0\) |
-| 4-Hit    | 180.28%    | 80       | 135.21%/s | 109.71       | 5                     |
+| String | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type          |
+| :----- | :--------- | :----- | :-------- | :----------- | :-------------------- |
+| 1-Hit  | 132.72%    | 46     | 173.11%/s | 80.5         | 3                     |
+| 2-Hit  | 131.14%    | 58     | 135.66%/s | 79.35        | 3                     |
+| 3-Hit  | 79.79% x 2 | 61     | 156.96%/s | 48.3 x2      | 3 + \(Heavy, 500, 0\) |
+| 4-Hit  | 180.28%    | 80     | 135.21%/s | 109.71       | 5                     |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String    | Talent 9%   | Frames | MV/s      | Poise Damage | Impulse Type |
-| :-------- | :---------- | :----- | :-------- | :----------- | :----------- |
-| Spin      | 114.91% x 9 | ?      | ?         | 60           | 3            |
-| Final Hit | 207.77%     | ?      | ?         | 120          | 6            |
+| String    | Talent 9%   | Frames | MV/s | Poise Damage | Impulse Type |
+| :-------- | :---------- | :----- | :--- | :----------- | :----------- |
+| Spin      | 114.91% x 9 | ?      | ?    | 60           | 3            |
+| Final Hit | 207.77%     | ?      | ?    | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -75,7 +75,7 @@ import Skill from '@site/src/components/char/Skill'
 | Fuufuu Whirlwind Kick Absorption DMG \(T9%\) | ~            | 129.47%                                 |
 | Particles                                    | 2            | 2 + 1~4                                 |
 | GU                                           | 1U           | -                                       |
-| GU Absorption                                | -            | 1A                                      |
+| GU Absorption                                | -            | 1A against enemies<br />2B against water  |
 | ICD                                          | 3 hit / 2.5s | 3 hit / 2.5s                            |
 | Snapshot                                     | Snapshot     |                                         |
 | Damage Element                               | Anemo        | -                                       |

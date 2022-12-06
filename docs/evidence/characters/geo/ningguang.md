@@ -53,6 +53,41 @@ However, immediately targeting an enemy by attacking them can make the star jade
 **Significance:**  
 Ningguang's star jades constitute a relevant portion of her damage. Knowing how to manipulate these can potentially be helpful, and knowing how it works can mitigate damage loss from missing targets.
 
+### Star Jade Creation And Consumption
+
+**By:** an odd medium\#6288  
+**Added:** <Version date="2022-12-01" />  
+**Last tested:** <VersionHl date="2022-11-22" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/star-jade-creation-and-consumption)
+
+**Findings:**  
+1. Star Jade creation and CA Stamina deduction are server-side. The consumption of Star Jades to produce projectiles is client-side.
+2. Ningguang does not benefit from her A1 if she gains Star Jades after a certain cutoff frame from the beginning of her CA animation. This cutoff frame is dependent on the variant of CA she performs [1]. Despite this, Ningguang is still able to launch her Star Jades. [2]
+3. Ningguang's NA projectiles generate Star Jades with an ICD dependent on ping (6-10 frames on ~196ms) [3], and can be triggered twice per NA (one for each projectile) by delaying their hit times.
+   * As such, it is possible for a single NA to generate two Star Jades. [4]
+   * This is possible for all Constellations [5], however, the larger AOE from C1 makes registering hits easier.
+
+**Evidence:**  
+1. [YouTube](https://youtu.be/eUIJZH_O_e4): creation and consumption with and without an internet connection.
+2. Star Jades can be launched without benefiting from Ningguang's A1:
+   * \[1\] [Google Sheets](https://docs.google.com/spreadsheets/d/1b9VdFN5xyfgW19rSyuZfPUzDfJkc8CcSNTtZ31eP5Jg): See sheet "Star Jade Consumption (CA A1 Cutoff)".
+     * Frame for each CA variant after which A1 no longer applies:  
+       * CA Twirl: 15-16
+       * CA Left: 10
+       * CA Right: 10
+   * \[2\] [YouTube](https://www.youtube.com/watch?v=30Sw2fSPfwE): Instances of Stamina drain while in possession of Star Jades - 0:09, 0:34, 0:49.
+3. Star Jade Generation ICD:
+    * \[3\] [Google Sheets](https://docs.google.com/spreadsheets/d/1b9VdFN5xyfgW19rSyuZfPUzDfJkc8CcSNTtZ31eP5Jg): See sheet "NA Projectile ICD (Double Jade)".
+    * \[4\] [YouTube](https://youtu.be/9VY4NmX8YN8): Double Jade working on Inazuma stove, utilizing back wall for hit delay.
+    * \[5\] [YouTube](https://youtu.be/f0Q7xeWIAFg): Double Jade working as expected for C0, demonstrating that C1 AOE does not affect the ICD trigger.
+    * \[6\] [YouTube](https://youtu.be/Qhnk5-FX1Oc): Double Jade utilizing N2C in combat.
+
+**Significance:**  
+1. Better understanding of Star Jade creation and consumption and their dependence on ping.
+2. Clarifies why Stamina drain may still occur despite Ningguang being in possession of Star Jades before her CA projectile is fired [2]. As such, N1C spam is not guaranteed to be Stamina-less if her CA is cast too quickly.
+3. The low ICD can be used (situationally) to generate more than one Star Jade per NA against certain enemies. Improves the DPS of N1C and N2C combos; though it is more reliable when hitting overlapping hitboxes, or at an angle such that each Jade hit is delayed.
+   * E.g: N2C generating 3 Star Jades against a boss enemy hitbox (Aeonblight Drake). [6]
+
 ## Skill Mechanics
 
 ### Jade Screen ICD

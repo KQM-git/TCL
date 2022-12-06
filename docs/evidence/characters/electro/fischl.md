@@ -282,6 +282,22 @@ My ping during the tests is 43ms whereas Terrapin's ping in the tests in the TCL
 **Significance:**  
 Affects Diluc gameplay patterns in Overload comps with Fischl.
 
+#### Spread Does Not Trigger Fischl A4
+
+**By:** Kolibri\#7675  
+**Added:** <Version date="2022-11-29" />  
+**Last tested:** <VersionHl date="2022-11-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-basic-mechanics)  
+
+**Finding:**  
+Spread does not count as an Electro-related reaction for Fischl's A4.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/AmRiHirDgaU)  
+
+**Significance:**  
+Further understanding of the Spread reaction.  
+
 ## Constellation Mechanics
 
 ### C4: Her Pilgrimage of Bleak
