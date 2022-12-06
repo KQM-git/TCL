@@ -14,6 +14,7 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 <Weapon weapon="Engulfing Lightning" weapons={polearms}>
 
 * The bonus ER is transfered to DMG% by the 4 piece set bonus of ESF (artifact set) but will not be snapshotted.
+* The bonus ER stays even after the character goes off-field. - [TWICE\#9958](../../evidence/equipment/weapons.md#engulfing-lightning-er-buff-and-off-field-interaction)
 
 </Weapon>
 
@@ -43,6 +44,7 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 <Weapon weapon="Staff of the Scarlet Sands" weapons={polearms}>
 
 * Staff of the Scarlet Sands cannot gain stacks while off-field, but still retains stacks while off-field. - [\_Maxi#1776](../../evidence/equipment/weapons.md#staff-of-the-scarlet-sands)
+* Staff of the Scarlet Sands snapshots EM when stacks are obtained. - [nico\#7748](../../evidence/equipment/weapons.md#staff-of-the-scarlet-sands-stacks-snapshot)
 
 </Weapon>
 

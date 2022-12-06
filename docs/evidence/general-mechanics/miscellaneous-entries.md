@@ -1176,6 +1176,85 @@ Some characters can keep their weapons if you change them mid sheathing animatio
 **Significance:**  
 weapons have are in a constant state of seizure pain or pleasure.
 
+## Bad Device Co Op Domain Experience
+
+**By:** Casdela\#5121, aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\#3860  
+**Added:** <Version date="2022-11-18" />  
+**Last tested:** <VersionHl date="2022-11-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/bad-device-co-op-domain-experience)
+
+**Finding:**  
+Domain enemies don't spawn immediately for players playing on low-end device and the following things happen during that time.
+
+**Evidence:**
+When you see a "spawn" with the "", it means when the enemies spawn for the player with bad connection.
+
+From the perspective of the player with low-end device enemies look like they just spawned in, like a Lawachurl will be unshielded, and they do not teleport around after spawning on player's side with a low-end device.  
+From the perspective of other players with no issues, the enemies are just standing still, not aggro'd.  
+
+* Their HP bar reset upon "spawn".  
+  * [YouTube](https://youtu.be/MAvshovJABs)  
+* They were standing still before the "spawn".  
+* Cryo Abyss Mage has no shield and shield spawn at "spawn".  
+* Enemies DON'T have aura (even Electro Slimes) and auras cannot be even applied.  
+* Because enemies don't have and can't be applied aura, Kazuha Venti Burst won't get infusion unless it's a self infusion.  
+  * [YouTube](https://youtu.be/9EwDlO7_tU4)  
+  * [YouTube](https://youtu.be/HhDsfJLlb10)  
+* Enemies can't be debuffed.  
+  * [YouTube](https://youtu.be/X20VrVkdPII)  
+  * [YouTube](https://youtu.be/dehTzMs7pT4)  
+  * [YouTube](https://youtu.be/SdyT479CWcg)  
+* Zhongli Burst don't petrify enemy before "spawn".  
+  * [YouTube](https://youtu.be/Q4dhYPQaGIw)  
+  * [YouTube](https://youtu.be/X20VrVkdPII)  
+* Lisa Burst doesn't attack enemies.   
+  * [YouTube](https://youtu.be/FNbQwfvBMv8)  
+
+From the perspective of player on low-end device, sometimes enemies teleports shortly after spawning for them and are attacking as soon as they spawn for that player, and below are what happens in this condition:  
+
+* They are attacking other players before spawning on the side of the player with bad connection/device/internet/ping/signal.  
+* Their HP bar don't reset.  
+* Abyss Mage shield HP don't reset.  
+* Certain enemy attacks can hit you before "spawn" or the attacks spawn when the enemy "spawn".  
+  * [YouTube](https://youtu.be/QlSkn2T0qH4)  
+  * [YouTube](https://youtu.be/YV9qphxt4KA)  
+* Overload damage triggered on your teammates by enemy can damage you, not sure about other reactions.  
+  * [YouTube](https://youtu.be/4ytvwR0KJWo)  
+* They stand straight at where they spawn at their usual spawning spot for a moment before teleporting and continue the fight before the "spawn".
+  * [YouTube](https://youtu.be/ubhtZC_yhnU)  
+
+* Miscellaneous:
+  * Particles doesn't spawn until enemies spawn (Raiden Burst energy regen still works).
+    * [YouTube](https://youtu.be/YV9qphxt4KA)  
+    * [YouTube](https://youtu.be/At5-Ig2mdvM)  
+
+  * Opening Co-op menu/Adventurer Handbook/BP/map/wish menu will get you stuck, all buttons on mobile gone. Not sure if it always continues until enemy "spawn".  
+    * [YouTube](https://youtu.be/hyk0Td2j8U4)  
+    * [YouTube](https://youtu.be/8LDCDsD7Nzc)  
+    * [YouTube](https://youtu.be/Vv8FU_mZROM)  
+    * [YouTube](https://youtu.be/DAdsgiwD4QE)  
+    * [YouTube](https://youtu.be/vYiWjhV0hPA)  
+
+  * Events menu will get you stuck but not until enemies have spawned.  
+    * [YouTube](https://youtu.be/8xvMMS0aj-c)  
+
+  * Characters menu will not get you stuck but can't switch weapons and artifacts cuz the list/menu of other weapons/artifacts to switch with doesn't show up.  
+    * [YouTube](https://youtu.be/-LE6rJvTCSA)  
+    * [YouTube](https://youtu.be/DAdsgiwD4QE)  
+
+  * The inventory won't get you stuck and you can switch gadgets.  
+    * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
+
+  * You can use Klee confetti gadget, wind current gadget, and windblume balloon gadget (maybe xiao lantern too) and your pet won't hide before enemies "spawn" while Co-op teammates are fighting.  
+    * [YouTube](https://youtu.be/vlpDhqIfOfQ)  
+    * [YouTube](https://youtu.be/At5-Ig2mdvM)  
+    * [YouTube](https://youtu.be/qbRN_ZktJpk)  
+
+  * Sheer cold accumulate as usual but walking out of the battle square makes the sheer cold meter go down.  
+    * [YouTube](https://youtu.be/Gk83vsL7k3I)  
+
+**Significance:** Help prepare your heart 💓💗 when these happen in Co-op, hopefully (ps: it doesn't help).  
+
 ## A Strange Visual Effect That Only Shows Up When Holding Sprint
 
 **By:** aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\#3860  

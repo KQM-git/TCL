@@ -104,7 +104,7 @@ Once Freeze is triggered, an enemy will be afflicted by a **frozen aura**. React
 
 Freeze is extended when the Cryo or Hydro is applied to Freeze with a coexisting Hydro or Cryo aura respectively.
 
-More details on the Frozen aura, including duration, coexisting Cryo/Hydro, and extension may be found in the advanced guide.
+More details on the Frozen aura, including duration, coexisting Cryo/Hydro, and extension may be found in the [Evidence Vault](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md).
 
 ## Melt and Vaporize
 
@@ -158,7 +158,7 @@ section.
 
 Swirl application occurs when an Elemental source is applied to an enemy through the use of Swirl spreading an Element. This may trigger additional reactions and or apply an aura following the same rules as any other Elemental source. Notably, tax is applied to any Swirl application that becomes an aura.
 
-The gauge amount and decay rate of the Swirl application depend on both the aura of the entity on which Swirl triggered as well as the gauge of the Anemo trigger. The specifics are beyond the scope of this document and may be found in the advanced guide. A few basic examples may be seen in the table here:
+The gauge amount and decay rate of the Swirl application depend on both the aura of the entity on which Swirl triggered as well as the gauge of the Anemo trigger. A few basic examples may be seen in the table here:
 
 | Elemental Gauge of Aura | Anemo Gauge | Gauge of Swirl | Aura Applied After Tax | Decay Rate Conversion |
 | :---------------------- | :---------- | :------------- | :--------------------- | :-------------------- |
@@ -188,7 +188,7 @@ AoE ticks of Electro-Charged have zero gauge.
 
 Self Auras are elements applied to the player character. This can be from sources such as: leylines, taking Elemental damage from an enemy, or having an ability that imbues the character with an Element.
 
-These all have the ability to react with a slightly different ruleset from standard Gauge Theory. When a reaction is triggered and the trigger application has a higher U value than the Self Gauge, the Self Aura transitions directly to the other Element.
+When a Self Aura application triggers a reaction, if the Self Aura's U value is higher than that of the existing aura, the aura directly transitions to the Self Aura. It should also be included that enemy shields, innate auras etc. are Self Auras.  
 
 ## Credits
 

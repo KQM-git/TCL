@@ -113,6 +113,16 @@ description: For entries that have little practical use.
 
 * Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some [odd properties](../evidence/general-mechanics/miscellaneous-entries.md#kuki-shinobus-melons).
 
+## Bad Device Co-op Experience
+
+* The experiences of players using bad devices (either poor connection, processing power) have many peculiarities. 
+* For cases where players using bad devices can observe enemies spawn in normally, enemies stand still and do not have shields until they fully spawn for every players, they don't have auras, can't be applied auras nor debuffs, their HP reset once they spawn fully for everyone.
+  * Lisa's Burst from other players don't attack enemies until they spawn fully for everyone
+* For cases where players using bad devices, enemies will teleport away shortly after spawn and are attacking as soon as they spawn, enemies do not stand still and they attack other players as normal, their HP and shields don't reset, some enemy attacks and reaction can still hit bad device players before spawning for them.
+* Particles doesn't spawn until enemies spawn (Raiden Burst energy regen still works)
+* Going into certain menus can also get the player stuck inside them until enemies "spawn" for them.
+* For more details, check out this entry in the [Evidence Vault](../evidence/general-mechanics/miscellaneous-entries.md#bad-device-co-op-domain-experience).
+
 ## A Strange Visual Effect That Only Shows Up When Holding Sprint
 
 * Holding down sprint in specific cases produces a [Strange Effect](../evidence/general-mechanics/miscellaneous-entries.md#a-strange-visual-effect-that-only-shows-up-when-holding-sprint).
