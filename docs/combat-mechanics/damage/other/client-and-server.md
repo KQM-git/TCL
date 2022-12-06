@@ -8,6 +8,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * All character stats except for HP (including buffs)
 * Resistance Shred
 * Construct HP
+* Consumption of Ningguang's [Star Jades](../../../characters/geo/ningguang.md#attacks) to produce projectiles.
 
 ## Server side
 
@@ -17,6 +18,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * Elemental Particles and character Energy
 * Stamina
 * Weapon stacks
+* Ningguang's [Star Jade](../../../characters/geo/ningguang.md#attacks) creation.
 
 ## High Ping Interactions
 
