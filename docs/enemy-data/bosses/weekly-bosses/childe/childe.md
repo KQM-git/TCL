@@ -49,7 +49,7 @@ None.
 
 * Unless otherwise noted, any attack that hits the player will leave a Riptide mark(Hydro or Electro).
 * Attacks that hit characters already marked by Riptide will deal additional AoE Hydro and AoE Electro DMG.
-  * This will also trigger the Electro-Charged elemental reaction.
+  * This will also trigger the Electro-Charged Elemental reaction.
   * The mark can be removed by touching the arena's barrier to trigger a Vaporize or Overloaded reaction. This reaction does not deal damage to the character.
   * The mark will persist even if you switch characters.
 * Childe teleports instantly to any point of the arena.
@@ -61,18 +61,18 @@ None.
 * Unleashes two flying crescent slashes, dealing Hydro DMG.
 * Performs 2 consecutive attacks, dealing Electro DMG.
 * Performs a slash towards the player, dealing dealing a moderate amount of Electro DMG. This is an AoE attack that spans a 180° arc.
-* Performs 3 consecutive attacks (slash, cross-slash, horizontal slash), then throws a spinning polearm forward. All attacks in this skill deal Electro DMG.
+* Performs 3 consecutive attacks (slash, cross-slash, horizontal slash), then throws a spinning polearm forward. All attacks in this Skill deal Electro DMG.
 * Summons a lightning cloud that shoots 4 consecutive Electro blades at the player.
   * This move does not leave a Riptide mark or cause knockback.
 * Performs at least 1 and up to 5 consecutive charged forward dash attacks, dealing Electro DMG in his wake.
 * Unleashes attack in the form of a wheel, dashing forward and returning to its initial location and dealing Electro DMG.
-  * This attack is only performed if a target is marked with electro riptide.
+  * This attack is only performed if a target is marked with Electro riptide.
 * Charges for a while, then unleashes 4 arrows upward that fall to deal massive Hydro DMG in a huge AoE around him.
-  * This attack is only performed if a target is marked with hydro riptide.
+  * This attack is only performed if a target is marked with Hydro riptide.
 * Charges for a while, then unleashes a huge horned humpback whale-shaped Hydro attack with a bow in a huge AoE in front of him, dealing massive Hydro DMG.
-  * This attack is only performed if a target is marked with hydro riptide.
+  * This attack is only performed if a target is marked with Hydro riptide.
 * Marks the player with a circle of black lightning. Charges for a while, flies high slowly, and then strikes down at the player, dealing massive amount of Electro DMG around the landing point.
-  * This attack is only performed if a target is marked with electro riptide.
+  * This attack is only performed if a target is marked with Electro riptide.
 
 ## Forms
 

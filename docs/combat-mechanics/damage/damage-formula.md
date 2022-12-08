@@ -9,7 +9,7 @@ description: An explanation as to how outgoing damage is calculated.
 $$
 \text{Damage} = ((\text{BaseDamage} \times \text{SpecialMultiplier}) + \text{FlatDamage}) \\
 \times (1 + \text{DamageBonus} - \text{DamageReduction}) \\
-\times \text{Crit}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \times \text{AmplifyingReaction} \\
+\times \text{CRIT}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \times \text{AmplifyingReaction} \\
 + \text{TransformativeReaction} + \text{Proc}
 $$
 
@@ -20,9 +20,10 @@ See the sections below for the breakdown of each individual part of the formula.
 $$
 \text{BaseDamage} =
 \begin{cases}
-  \text{Talent \%} \times \text{ATK} & \text{if, Talent scales with ATK} \\
-  \text{Talent \%} \times \text{DEF} & \text{if, Talent scales with DEF} \\
-  \text{Talent \%} \times \text{Max HP} & \text{if, Talent scales with Max HP}
+  \text{Talent\%} \times \text{ATK} & \text{if, Talent scales with ATK} \\
+  \text{Talent\%} \times \text{DEF} & \text{if, Talent scales with DEF} \\
+  \text{Talent\%} \times \text{Max HP} & \text{if, Talent scales with Max HP} \\
+  \text{Talent\%} \times \text{EM} & \text{if, Talent scales with EM}
 \end{cases}
 $$
 
@@ -38,20 +39,21 @@ $$
 \text{Max HP} = \text{HealthCharacter} \times (1 + \text{HealthBonus}) + \text{FlatHealth}
 $$
 
-| Formula Variable      | Explanation                                                                                                                                                                                  |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Talent %**          | The scaling percentage of the Talent.                                                                                                                                                        |
-| **AttackCharacter**   | Character's Base ATK.                                                                                                                                                                     |
-| **AttackWeapon**      | Weapon's Base ATK.                                                                                                                                                                        |
-| **AttackBonus**       | Sum of all percentage-based attack bonuses from weapons, artifacts and other sources.                                                                                                        |
-| **FlatAttack**        | Sum of all non-percentage-based attack bonuses from artifacts and other sources.                                                                                                             |
-| **DefenseCharacter**  | Character's Base DEF.                                                                                                                                                                    |
-| **DefenseBonus**      | Sum of all percentage-based defense bonuses from artifacts, weapons and other sources.                                                                                                       |
-| **HealthCharacter**   | Character's Base HP.                                                                                                                                                                     |
-| **HealthBonus**       | Sum of all percentage-based HP bonuses from artifacts, weapons and other sources                                                                                                             |
-| **FlatDamage**        | Extra damage from [sources](damage-formula.md#flat-damage-sources) such as [Zhongli's A4](../../characters/geo/zhongli.md#ascension-passives) or [Additive Reactions](damage-formula.md#additive-reaction).                                                                 |
+| Formula Variable      | Explanation                                                                                                                                                                                                                                     |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Talent%**           | The scaling percentage of the Talent.                                                                                                                                                                                                           |
+| **AttackCharacter**   | Character's Base ATK.                                                                                                                                                                                                                           |
+| **AttackWeapon**      | Weapon's Base ATK.                                                                                                                                                                                                                              |
+| **AttackBonus**       | Sum of all percentage-based ATK Bonuses from weapons, artifacts, and other sources.                                                                                                                                                             |
+| **FlatAttack**        | Sum of all non-percentage-based ATK Bonuses from artifacts, and other sources.                                                                                                                                                                  |
+| **DefenseCharacter**  | Character's Base DEF.                                                                                                                                                                                                                           |
+| **DefenseBonus**      | Sum of all percentage-based defense bonuses from artifacts, weapons, and other sources.                                                                                                                                                         |
+| **HealthCharacter**   | Character's Base HP.                                                                                                                                                                                                                            |
+| **HealthBonus**       | Sum of all percentage-based HP bonuses from artifacts, weapons, and other sources                                                                                                                                                               |
+| **EM**                | Sum of all Elemental Mastery from ascension stat, weapons, artifacts, and other sources.                                                                                                                                                        |
+| **FlatDamage**        | Extra damage from [sources](damage-formula.md#flat-damage-sources) such as [Zhongli's A4](../../characters/geo/zhongli.md#ascension-passives) or [Additive Reactions](damage-formula.md#additive-reaction).                                     |
 | **DamageBonus**       | Sum of all percentage damage increases from goblets, weapons, set bonuses and other buffs. Excludes [Xingqiu's C4](../../characters/hydro/xingqiu.md#constellations) and [Yoimiya's Elemental Skill](../../characters/pyro/yoimiya.md#attacks). |
-| **SpecialMultiplier** | Applies to certain character Talents only. See the [Special Multiplier section](damage-formula.md#special-multiplier) for full details.                                                      |
+| **SpecialMultiplier** | Applies to certain character Talents only. See the [Special Multiplier section](damage-formula.md#special-multiplier) for full details.                                                                                                         |
 
 ### Flat Damage Sources
 
@@ -95,20 +97,20 @@ $$
 ## Critical Hits
 
 $$
-\text{Crit} = \begin{cases}
-  1 + \text{CritDamage} & \text{if, crit} \\
+\text{CRIT} = \begin{cases}
+  1 + \text{CRITDamage} & \text{if, CRIT} \\
   1 & \text{otherwise}
 \end{cases}
 $$
 
 $$
-\text{AverageCrit} = 1 + \text{clamp}\{0\%, \text{CritRate}, 100\% \} \times \text{CritDamage}
+\text{AverageCrit} = 1 + \text{clamp}\{0\%, \text{CRITRate}, 100\% \} \times \text{CRITDamage}
 $$
 
-| Formula Variable | Explanation                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-| **CritRate**     | The total CRIT Rate, including the 5% base CRIT Rate and bonuses from artifacts, etc.      |
-| **CritDamage**   | The total CRIT DMG, including the 50% base CRIT DMG and bonuses from artifacts, etc. |
+| Formula Variable | Explanation                                                                                    |
+| ---------------- | ---------------------------------------------------------------------------------------------- |
+| **CRITRate**     | The total CRIT Rate, including the 5% base CRIT Rate and bonuses from weapons, artifacts, etc. |
+| **CRITDamage**   | The total CRIT DMG, including the 50% base CRIT DMG and bonuses from weapons, artifacts, etc.  |
 
 ## Enemy Defense
 
@@ -116,12 +118,12 @@ import EnemyDef from '../\_formulas/enemydef.md'
 
 <EnemyDef />
 
-| Formula Variable   | Explanation                                                                                                                             |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **LevelCharacter** | The player character's level.                                                                                                           |
-| **LevelEnemy**     | The enemy's level.                                                                                                                      |
-| **DefReduction**   | The total defense (but not resistance) reduction from various [defense reduction effects](damage-formula.md#defense-reduction-effects). |
-| **DefIgnore**      | The total defense ignore from effects such as [Raiden Shogun's C2](../../characters/electro/raiden-shogun.md#constellations) or [Yae Miko's C6](../../characters/electro/yae-miko.md#constellations).                                                                 |
+| Formula Variable   | Explanation                                                                                                                                                                                           |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LevelCharacter** | The player character's level.                                                                                                                                                                         |
+| **LevelEnemy**     | The enemy's level.                                                                                                                                                                                    |
+| **DefReduction**   | The total defense (but not resistance) reduction from various [defense reduction effects](damage-formula.md#defense-reduction-effects).                                                               |
+| **DefIgnore**      | The total defense ignore from effects such as [Raiden Shogun's C2](../../characters/electro/raiden-shogun.md#constellations) or [Yae Miko's C6](../../characters/electro/yae-miko.md#constellations). |
 
 * DefReduction is hard capped at 90%
 
@@ -130,6 +132,7 @@ import EnemyDef from '../\_formulas/enemydef.md'
 * Kamisato Ayaka's [**Ebb and Flow**](../../characters/cryo/kamisato-ayaka.md#constellations) (C4): 30%
 * Klee's [**Explosive Frags**](../../characters/pyro/klee.md#constellations) (C2): 23%
 * Lisa's [**Static Electricity Field**](../../characters/electro/lisa.md#ascension-passives) (A4): 15%
+* Nahida's [**The Root of All Fullness**](../../characters/dendro/nahida.md#constellations) (C2): 30%
 * Razor's [**Bite**](../../characters/electro/razor.md#constellations) (C4): 15%
 
 ## Enemy Resistance
@@ -155,11 +158,11 @@ $$
 \end{cases}
 $$
 
-| Formula Variable                                                  | Explanation                                                                  |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [**Evilsoother**](../../characters/hydro/xingqiu.md#attacks)      | Xingqiu’s Constellation 4 ability applies a 1.5 buff to his Elemental Skill. |
-| [**Frozen Wilds**](../../characters/cryo/aloy.md#attacks) | Aloy's Elemental Skill applies a buff to her Normal Attacks depending on the amount of Coil stacks. |
-| [**Niwabi Fire-Dance**](../../characters/pyro/yoimiya.md#attacks) | Yoimiya's Elemental Skill applies a scaling buff to her Normal Attacks.      |
+| Formula Variable                                                  | Explanation                                                                                         |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [**Evilsoother**](../../characters/hydro/xingqiu.md#attacks)      | Xingqiu’s Constellation 4 ability applies a 1.5 buff to his Elemental Skill.                        |
+| [**Frozen Wilds**](../../characters/cryo/aloy.md#attacks)         | Aloy's Elemental Skill applies a buff to her Normal Attacks depending on the amount of Coil stacks. |
+| [**Niwabi Fire-Dance**](../../characters/pyro/yoimiya.md#attacks) | Yoimiya's Elemental Skill applies a scaling buff to her Normal Attacks.                             |
 
 ## Amplifying Reaction
 
@@ -167,9 +170,9 @@ import AmplifyingReaction from '../\_formulas/amplifying.md'
 
 <AmplifyingReaction />
 
-| Formula Variable  | Explanation                                                                                   |
-| ----------------- | --------------------------------------------------------------------------------------------- |
-| **EM**            | The character's total Elemental Mastery.                                                      |
+| Formula Variable  | Explanation                                                                                            |
+| ----------------- | ------------------------------------------------------------------------------------------------------ |
+| **EM**            | The character's total Elemental Mastery.                                                               |
 | **ReactionBonus** | Reaction damage bonuses such as the Crimson Witch 4-Piece set bonus and from Mona's C1 (for Vaporize). |
 
 ## Transformative Reaction
@@ -182,13 +185,13 @@ import player from '@site/src/data/elemental_curves/player.json'
 import enemy from '@site/src/data/elemental_curves/element.json'
 import LevelMultiplier from '@site/src/components/common/LevelMultiplier'
 
-| Formula Variable              | Explanation                                                                                                                                                                                                                                                                   |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **ECTriggers**                | The number of times Electro-Charged triggers, and depends on the Elemental Gauge strength of the Hydro and Electro Elements applied to the enemy.                                                                                                                             |
-| **EM**                        | The character's total Elemental Mastery.                                                                                                                                                                                                                                      |
-| **ReactionBonus**             | Includes reaction damage bonuses from the Thundering Fury and Viridescent Venerer 4-Piece set bonuses and from Mona's Constellation 1.                                                                                                                                               |
-| **LevelMultiplier**           | Player level multiplier at <LevelMultiplier curve={player} /> <br/> Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />                                                                                                                                   |
-| **EnemyResistanceMultiplier** | Uses the [Enemy Resistance](damage-formula.md#enemy-resistance) formula above, but for the Element of the Transformative Reaction \(Pyro for Overloaded, Physical for Shattered, Electro for Electro-Charged, Cryo for Superconduct, the Element being Swirled for Swirl, Dendro for Bloom, Bugeon, and Hyperbloom\). |
+| Formula Variable              | Explanation                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ECTriggers**                | The number of times Electro-Charged triggers, and depends on the Elemental Gauge strength of the Hydro and Electro Elements applied to the enemy.                                                                                                                                                                                               |
+| **EM**                        | The character's total Elemental Mastery.                                                                                                                                                                                                                                                                                                        |
+| **ReactionBonus**             | Includes reaction damage bonuses from the 4-Piece set bonuses of [Thundering Fury](../../equipment/artifacts.md#thundering-fury) and [Viridescent Venerer](../../equipment/artifacts.md#viridescent-venerer), [Mona's C1](../../characters/hydro/mona.md#constellations), and [Nilou's A4](../../characters/hydro/nilou.md#ascension-passives). |
+| **LevelMultiplier**           | Player level multiplier at <LevelMultiplier curve={player} /> <br/> Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />                                                                                                                                                                                                     |
+| **EnemyResistanceMultiplier** | Uses the [Enemy Resistance](damage-formula.md#enemy-resistance) formula above, but for the Element of the Transformative Reaction \(Pyro for Overloaded, Physical for Shattered, Electro for Electro-Charged, Cryo for Superconduct, the Element being Swirled for Swirl, and Dendro for Bloom, Bugeon, and Hyperbloom\).                       |
 
 ## Additive Reaction
 
@@ -196,17 +199,17 @@ import AdditiveReaction from '../\_formulas/additive.md'
 
 <AdditiveReaction />
 
-| Formula Variable              | Explanation                                                                                                                                                                                                                                                                   |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **EM**                        | The character's total Elemental Mastery.                                                                                                                                                                                                                                      |
-| **ReactionBonus**             | Includes reaction damage bonus from 4-Piece set bonus of Thundering Fury.                                                                                                                                               |
-| **LevelMultiplier**           | Player level multiplier at <LevelMultiplier curve={player} /> <br/> Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />                                                                                                                                   |
+| Formula Variable    | Explanation                                                                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **EM**              | The character's total Elemental Mastery.                                                                                                    |
+| **ReactionBonus**   | Includes reaction damage bonus from 4-Piece set bonus of Thundering Fury.                                                                   |
+| **LevelMultiplier** | Player level multiplier at <LevelMultiplier curve={player} /> <br/> Enemy/environment level multiplier at <LevelMultiplier curve={enemy} /> |
 
 ## Proc
 
 The damage dealt by weapon and ability procs when they trigger, such as Prototype Archaic or Xiangling's constellation 2. This is dealt as a separate instance of damage from the attack that triggered it.
 
-To calculate this damage, substitute the proc percentage (e.g. 240% for Prototype Archaic R1) for Talent in the damage formula. Note that weapon proc effects always deal physical damage, and are therefore affected by physical damage bonuses and physical resistance, even if an elemental attack is used to trigger them.
+To calculate this damage, substitute the proc percentage (e.g. 240% for Prototype Archaic R1) for Talent in the damage formula. Note that weapon proc effects always deal Physical damage, and are therefore affected by Physical damage bonuses and Physical resistance, even if an Elemental attack is used to trigger them.
 
 ### Proc Damage Sources
 
@@ -279,9 +282,9 @@ Any effect that scales off of a certain stat will not count any buffs that also 
 
 Examples of such buffs:
 
-* Sucrose's Ascension 4: **Mollis Favonius**: EM share
-* Kaedehara Kazuha's Ascension 4: **Poetics of Fuubutsu**: DMG % buff
-* Electro Traveler's Ascension 4: **Resounding Roar**: Energy Recharge buff
+* Sucrose's [**Mollis Favonius**](../../characters/anemo/sucrose.md#ascension-passives) (A4): EM share
+* Kaedehara Kazuha's [**Poetics of Fuubutsu**](../../characters/anemo/kaedehara-kazuha.md#ascension-passives) (A4): DMG% buff
+* Electro Traveler's [**Resounding Roar**](../../characters/electro/traveler-electro.md#ascension-passives) (A4): Energy Recharge buff
 
 ## Evidence Vault
 

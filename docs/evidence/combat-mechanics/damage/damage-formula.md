@@ -25,8 +25,8 @@ Defense shred caps at 90%.
 [Barbara with Lisa A4-Razor C4](https://youtu.be/lmoH0Bw4X3I)  
 [Barbara with Lisa A4-Razor C4-Ayaka C4](https://youtu.be/TbRbq1Og9h4)  
 [Barbara stats](https://youtu.be/jytK74xLZOQ)  
-[Expected vs actual damage from Barbara at various levels of def shred](https://i.imgur.com/SoXVYGs.png)  
-In game damage of 1442 for Barbara and 3389 for Klee matches up with calculated damage at 90% def shred of 1443 for Barbara and 3391 for Klee, error within expected range due to stat page rounding. [Proof of Klee](https://i.imgur.com/hQiWOkq.mp4)
+[Expected vs actual damage from Barbara at various levels of DEF Shred](https://i.imgur.com/SoXVYGs.png)  
+In game damage of 1442 for Barbara and 3389 for Klee matches up with calculated damage at 90% DEF Shred of 1443 for Barbara and 3391 for Klee, error within expected range due to stat page rounding. [Proof of Klee](https://i.imgur.com/hQiWOkq.mp4)
 
 **Significance**  
 Can't go past 100% damage increase.

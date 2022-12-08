@@ -3,37 +3,37 @@
         "name": "N1",
         "release": 13,
         "hitlag": 0,
-        "default": 15
+        "next_na": 15
     }, 
     {
         "name": "N2",
         "release": 13,
         "hitlag": 0,
-        "default": 21
+        "next_na": 21
     },
     {
         "name": "N3",
         "release": 18,
         "hitlag": 0,
-        "default": 38
+        "next_na": 38
     },
     {
         "name": "N4",
         "release": [15, 29],
         "hitlag": [0, 0],
-        "default": 67
+        "next_na": 67
     }],
     "CA": [{
         "name": "CA (Physical)",
         "release": 15,
         "hitlag": 0,
-        "default": 25
+        "n1": 25
     },
     {
         "name": "CA (Elemental)",
         "release": 86,
         "hitlag": 0,
-        "default": 96,
+        "n1": 96,
         "notes": "Hitlag is 0.12s if it hits a weakspot"
     },
     {

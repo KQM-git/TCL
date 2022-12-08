@@ -35,9 +35,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 116.24%   | 14     | 498.17%/s | 1A  | 12.82        | 1 / 3\*      |
-| 2-Hit         | 104.62%   | 30     | 209.24%/s | 1A  | 11.53        | 1 / 3\*      |
-| 3-Hit         | 160.32%   | 65     | 147.99%/s | 1A  | 17.68        | 1 / 3\*      |
+| 1-Hit         | 116.24%   | 14     | 498.17%/s | 1U  | 12.82        | 1 / 3\*      |
+| 2-Hit         | 104.62%   | 30     | 209.24%/s | 1U  | 11.53        | 1 / 3\*      |
+| 3-Hit         | 160.32%   | 65     | 147.99%/s | 1U  | 17.68        | 1 / 3\*      |
 
 </div>
 <div class='talent-columns'>
@@ -45,7 +45,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String             | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type      |
 | :----------------- | :-------- | :----- | :-------- | :-- | :----------- | :---------------- |
-| Charged Attack DMG | 252.14%   | 61     | 248.01%/s | 1A  | 100          | 1 / Air, 0, 600\* |
+| Charged Attack DMG | 252.14%   | 61     | 248.01%/s | 1U  | 100          | 1 / Air, 0, 600\* |
 
 </div>
 <div class='talent-columns'>
@@ -54,8 +54,8 @@ import Skill from '@site/src/components/char/Skill'
 | Type            | Talent 9% | GU  | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :-- | :----------- | :----------- |
 | Plunge DMG      | 104.41%   | -   | 5            | 2            |
-| Low Plunge DMG  | 208.77%   | 1A  | 50           | 3            |
-| High Plunge DMG | 260.76%   | 1A  | 100          | 4            |
+| Low Plunge DMG  | 208.77%   | 1U  | 50           | 3            |
+| High Plunge DMG | 260.76%   | 1U  | 100          | 4            |
 
 </div>
 
@@ -63,13 +63,14 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Kokomi's Normal Attacks...
-  * Apply hydro and share a 3 hit / 2.5s ICD.
+  * Apply Hydro and share a 3 hit / 2.5s ICD.
   * Have a range of ~6 tiles before it stops auto-targetting.
   * Hit in a small AoE.
 * Kokomi's 2nd Normal Attack sometimes has a delay before it comes out. This delay is inconsistent, but can usually be mitigated by performing Dash or Jump cancel.
-* Kokomi's Charged Attack applies hydro and has no ICD.
-* Kokomi's Low/High Plunge Attacks apply hydro and have no ICD.
+* Kokomi's Charged Attack applies Hydro and has no ICD.
+* Kokomi's Low/High Plunge Attacks apply Hydro and have no ICD.
 
 </TabItem>
 
@@ -82,7 +83,7 @@ import Skill from '@site/src/components/char/Skill'
 | :----------------- | :----------------------- |
 | Ripple DMG \(T9%\) | 185.62%                  |
 | Particles          | 0~1 (1:2)                |
-| GU                 | 1A                       |
+| GU                 | 1U                       |
 | ICD                | None                     |
 | Snapshot           | Snapshot                 |
 | Damage Element     | Hydro                    |
@@ -101,7 +102,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Does a 0~1 (1:2) check once on every instance of damage **Bake-Kurage** does as long as it stays on the field.
-  * If **Bake-Kurage** disappears before its final tick hits an enemy, the game will not check for particle production on that hit.
+  * If **Bake-Kurage** disappears before its final tick hits an enemy, the game will not check for Particle production on that hit.
 * **Bake-Kurage**'s range has a radius of ~2.5 tiles.
 * Kokomi is limited to one **Bake-Kurage** on-field at a time.
 * **Bake-Kurage** snapshots on **Kurage's Oath** cast and does not resnapshot upon **Nereid's Ascension** triggering the duration refresh effect from her Ascension 1.
@@ -119,7 +120,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst         |
 | :---------------- | :------------ |
 | Skill DMG \(T9%\) | 17.71% Max HP |
-| GU                | 2B            |
+| GU                | 2U            |
 | ICD               | None          |
 | Snapshot          | Dynamic       |
 | Damage Element    | Hydro         |
@@ -144,7 +145,7 @@ import Skill from '@site/src/components/char/Skill'
 * The DMG Bonus from **Ceremonial Garment** can be extended if an attack is buffered right before her **Nereid's Ascension** duration ends.
 * The Normal Attack/Charged Attack/Bake-Kurage DMG Bonus are all dynamic.
   * However, if Kokomi immediately switches after casting Q, the DMG bonus from **Ceremonial Garment** will be snapshotted by her E.
-* Kokomi cannot absorb pre-fed particles during her Elemental Burst animation.
+* Kokomi cannot absorb pre-fed Particles during her Elemental Burst animation.
 
 </TabItem>
 </Tabs>
@@ -173,8 +174,8 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* The **Bake-Kurage** Duration refresh from A1 does not refresh Heart of Depths 4pc passive, because it does not count as a "using an Elemental Skill"
-* The actual refresh timing requires the **Bake-Kurage** to be on field the frame her burst animation finishes, or else you will lose the refresh.
+* The **Bake-Kurage** Duration refresh from A1 does not refresh Heart of Depths 4-Piece passive, because it does not count as a "using an Elemental Skill"
+* The actual refresh timing requires the **Bake-Kurage** to be on field the frame her Burst animation finishes, or else you will lose the refresh.
 
 </TabItem>
 

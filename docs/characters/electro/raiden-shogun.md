@@ -59,6 +59,11 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
+
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -71,7 +76,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)                 | 199.24%         | 71.4%              |
 | Elemental Burst DMG Bonus \(T9%\) | 0.3% Per Energy | -                  |
 | Particles                         | -               | 0~1 (1:1)          |
-| GU                                | 1A              | 1A                 |
+| GU                                | 1U              | 1U                 |
 | ICD (hits/timer)                  | 3 hit / 2.5s    | 3 hit / 2.5s       |
 | Damage Element                    | Electro         | Electro            |
 | Damage Type                       | Skill           | Skill              |
@@ -101,7 +106,7 @@ import Skill from '@site/src/components/char/Skill'
 | Resolve Bonus \(T9%\)                     | 6.61% ATK DMG Per Stack                           | 1.23% ATK DMG Per Stack  |
 | Resolve Stacks Gained \(T9%\)             | 0.19 Per Energy Consumed                          | 0.19 Per Energy Consumed |
 | Musou Isshin Energy Restoration \(T9%\)   | -                                                 | 2.4                      |
-| GU                                        | 2B                                                | 1A                       |
+| GU                                        | 2U                                                | 1U                       |
 | ICD (hits/timer)                          | None                                              | 3 hit / 2.5s             |
 | Snapshot                                  | Dynamic                                           | Dynamic                  |
 | Damage Element                            | Electro                                           | Electro                  |
@@ -177,8 +182,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental skill.
-* The effects of C2 also apply to all damage during her burst including physical damage procs from weapon passives.
+* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental Skill.
+* The effects of C2 also apply to all damage during her Burst including Physical damage procs from weapon passives.
 * The defense ignore is multiplicative with defense shred.
 
 </TabItem>

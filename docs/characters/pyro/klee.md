@@ -35,9 +35,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | Motion Value | GU  | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :----------- | :-- | :----------- | :----------- |
-| 1-Hit  | 122.67%   | 31     | 237.43%/s    | 1A  | 65           | 3            |
-| 2-Hit  | 106.08%   | 38     | 167.49%/s    | 1A  | 65           | 3            |
-| 3-Hit  | 152.86%   | 77     | 119.11%/s    | 1A  | 130          | 5            |
+| 1-Hit  | 122.67%   | 31     | 237.43%/s    | 1U  | 65           | 3            |
+| 2-Hit  | 106.08%   | 38     | 167.49%/s    | 1U  | 65           | 3            |
+| 3-Hit  | 152.86%   | 77     | 119.11%/s    | 1U  | 130          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -45,7 +45,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | Motion Value | GU  | ICD  | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :----------- | :-- | :--- | :----------- | :----------- |
-| CA     | 267.51%   | 58     | 276.73%/s    | 1A  | 0.5s | 180          | 8            |
+| CA     | 267.51%   | 58     | 276.73%/s    | 1U  | 0.5s | 180          | 8            |
 
 </div>
 <div class='talent-columns'>
@@ -61,8 +61,9 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Klees's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
-* 3 hits / 2.5s ICD, shared with elemental skill
+* 3 hits / 2.5s ICD, shared with Elemental Skill
 * Enemies struck by Klee's charged attack will be staggered or launched.
 
 </TabItem>
@@ -76,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------------- | :-------- |
 | Skill DMG \(T9%\) | 161.84%                          | 55.76%    |
 | Particles         | 4 \(-\)                          | -         |
-| GU                | 1A \(1st & 2nd\)<br />2B \(3rd\) | 1A        |
+| GU                | 1U \(1st & 2nd\)<br />2U \(3rd\) | 1U        |
 | ICD               | 3 hits / 2.5s                    | Note      |
 | Snapshot          | Snapshots                        | Snapshots |
 | Damage Element    | Pyro                             | Pyro      |
@@ -94,7 +95,7 @@ import Skill from '@site/src/components/char/Skill'
 * Each mine has its own ICD on Pyro application however if they explode on the same frame the Pyro application will be inconsistent \(max 2A per frame\).
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
 * Klee's **Jumpty Dumpty**'s split mines shares an ICD on Pyro application with her Normal Attacks.
-* Can be cancelled before cooldown by **Sparks n&apos; Splash** to activate skill triggered passives for free.
+* Can be cancelled before cooldown by **Sparks n&apos; Splash** to activate Skill triggered passives for free.
 
 </TabItem>
 
@@ -107,7 +108,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------- |
 | Skill DMG \(T9%\) | 72.49%         |
 | Hits              | 22.8 (average) |
-| GU                | 1A             |
+| GU                | 1U             |
 | ICD               | 3 hits / 2.5s  |
 | Snapshot          | Snapshots      |
 | Damage Element    | Pyro           |
@@ -165,8 +166,8 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* This energy is not affected by ER.
-* This energy can proc vs enemy shields
+* This Energy is not affected by ER.
+* This Energy can proc vs enemy shields.
 
 </TabItem>
 </Tabs>
@@ -181,7 +182,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 | Attribute      | Chained Reactions                 |
 | -------------- | --------------------------------- |
-| GU             | 1A                                |
+| GU             | 1U                                |
 | ICD            | 3 hits / 2.5s (shared with Burst) |
 | Damage Element | Pyro                              |
 | Damage Type    | Elemental Burst                   |
@@ -191,11 +192,11 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * This is effected by Elemental Burst DMG% from Noblesse Oblige.
-* Has a very small AOE
+* Has a very small AoE
 * Has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs.
   * Has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q.
 * When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires.
-* Klee's C1 appears to have a standard ICD for elemental application, and is shared with her burst.
+* Klee's C1 appears to have a standard ICD for Elemental application, and is shared with her Burst.
 
 </TabItem>
 
@@ -212,7 +213,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 | Type              | GU  | ICD  |
 | :---------------- | :-- | :--- |
-| Sparkly Explosion | 2B  | None |
+| Sparkly Explosion | 2U  | None |
 | Poise Damage      | 120 |
 | Impulse Type      | 5   |
 

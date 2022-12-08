@@ -63,7 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* All frame counts are done against Ruin Guards.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -79,7 +79,7 @@ import Skill from '@site/src/components/char/Skill'
 | Continuous Regeneration \(T9%\) | 118.32% ATK + 916 |
 | Herald of Frost DMG \(T9%\)     | 61.2%             |
 | Particles                       | 0 \(-\)           |
-| GU                              | 1A                |
+| GU                              | 1U                |
 | ICD                             | 3 hit / 2.5s      |
 | Snapshot                        | Snapshots         |
 | Damage Element                  | Cryo              |
@@ -103,7 +103,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :-------------- |
 | Skill DMG \(T9%\) | 484.16%         |
 | Healing \(T9%\)   | 153% ATK + 1174 |
-| GU                | 2B              |
+| GU                | 2U              |
 | ICD               | None            |
 | Snapshot          | Dynamic         |
 | Damage Element    | Cryo            |
@@ -118,7 +118,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* **Fortune-Preserving Talisman** is dynamic and does not snapshot any ATK bonus.
+* **Fortune-Preserving Talisman** is dynamic and does not snapshot any ATK Bonus.
   * The healing scales off Qiqi's ATK, not the active character's ATK.
   * The healing will occur as long as the attack hits, regardless dealing any DMG or not.
   * The healing has an ICD of approximately 1 second

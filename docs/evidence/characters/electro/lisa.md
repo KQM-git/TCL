@@ -24,7 +24,7 @@ search: false
 Just like Mona, Lisa can have two different normal animations depending on the distance from the target.
 
 **Evidence:**  
-[Youtube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the ruin guard, second normal string has her teleporting backward.
+[YouTube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the Ruin Guard, second normal string has her teleporting backward.
 
 **Significance:**  
 Combat positioning for Lisa
@@ -89,16 +89,16 @@ When Lisa's Press variant of Violet Arc strikes an opponent affected by Pyro or 
 
 If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment (the most common ones being Burning Grass and Frozen Water), the direct mob will obtain 3 Conductive stacks and it will radiate 2 stacks to nearby opponents.
 
-* The direct mob which had gained 3 Conductive Stacks was due to being in 3 total Radii; 1 from the Initial Press radius, 1 from the Overload or Superconduct caused from connecting the direct mob, and 1 from being within a "chained" radius from the elemental environment (in this case, the environment acts as if it was another entity/mob).
-* If there were other mobs present, they may be affected by 2 or 1 Conductive Stack(s) depending on their proximity in relation to the elemental environment and/or direct mob.
+* The direct mob which had gained 3 Conductive Stacks was due to being in 3 total Radii; 1 from the Initial Press radius, 1 from the Overload or Superconduct caused from connecting the direct mob, and 1 from being within a "chained" radius from the Elemental environment (in this case, the environment acts as if it was another entity/mob).
+* If there were other mobs present, they may be affected by 2 or 1 Conductive Stack(s) depending on their proximity in relation to the Elemental environment and/or direct mob.
   * A mob will have gained 2 Conductive Stacks in this scenario if they were within 2 Radii, which is only possible in these two cases:
-    * (a) Within Overload/Superconduct radius \[+1\], within "chained" elemental environment radius \[+1\], and outside of the Initial Press radius \[+0\]
-    * (b) Within Overload/Superconduct radius \[+1\], within Initial Press radius \[+1\], and outside of the "chained" elemental environment radius \[+0\]
+    * (a) Within Overload/Superconduct radius \[+1\], within "chained" Elemental environment radius \[+1\], and outside of the Initial Press radius \[+0\]
+    * (b) Within Overload/Superconduct radius \[+1\], within Initial Press radius \[+1\], and outside of the "chained" Elemental environment radius \[+0\]
   * A mob will have only gained 1 Conductive Stack from this scenario if and only if they were only within the Overload/Superconduct radius.
 
 If 2 opponents are nearby and only one is afflicted with a status, Violet Arc, if it directly hits the afflicted mob causing Overload/Superconduct, will add 3 stacks of Conductive to both enemies.
 
-* This scenario is fundamentally identical to the previous scenario, whereby instead of an elemental environment acting as a "mob", it is an actual mob. The previous rules apply similarly.
+* This scenario is fundamentally identical to the previous scenario, whereby instead of an Elemental environment acting as a "mob", it is an actual mob. The previous rules apply similarly.
 
 Can also work in conjunction with the effect described in a previous entry: Violet Arc's Press variant AoE is passed to all affected targets: [Violet Arc's Press variant AoE is passed to all affected targets](lisa.md#violet-arcs-press-variant-aoe-is-passed-to-all-affected-targets)
 
@@ -149,7 +149,7 @@ Further application of Conductive Stacks when an enemy is already at 3 Stacks re
   * Swap In C6 > Stack 1, 2, 3 applied at 00:00 (Stack 1, 2, 3 will all dissipate at 00:15)
   * Tap E > Stack 1 reset at 00:02 (Stack 1 will disspate at 00:17, but Stack 2, 3 remain to dissipate at 00:15)
 
-Additionally, since having Conductive Stacks is an enemy attribute, other Players who use Lisa in co-op may consume Conductive Stacks should there be any Stacks on a given enemy, regardless if it was them or another Lisa who applied such Stacks.
+Additionally, since having Conductive Stacks is an enemy attribute, other Players who use Lisa in Co-op may consume Conductive Stacks should there be any Stacks on a given enemy, regardless if it was them or another Lisa who applied such Stacks.
 
 **Evidence:**
 
@@ -169,7 +169,7 @@ Additionally, since having Conductive Stacks is an enemy attribute, other Player
   * Calculatory evidence for the above two videos - [YouTube](https://imgur.com/a/GIiGwVc)
 
 **Significance:**  
-Documentation for information on Lisa's Conductive Stacks; whereby it lasts for 15s individually, can be reset, and can be consumed in co-op (regardless of source).
+Documentation for information on Lisa's Conductive Stacks; whereby it lasts for 15s individually, can be reset, and can be consumed in Co-op (regardless of source).
 
 ## Burst Mechanics
 
@@ -207,9 +207,9 @@ The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/
 
 **Evidence:**
 
-* Example of Lightning Rose connecting against a mob that is clearly above Lisa: [Youtube](https://youtu.be/PGObWVhwaWE)
-* Example of Lightning Rose connecting against a mob that is clearly below Lisa: [Youtube](https://youtu.be/_WG-Pc-9K2k)
-* Example of Lightning Rose connecting against a mob that is clearly out of Lisa's direct Line of Sight: [Youtube](https://youtu.be/-Mj_hx2sjOk)
+* Example of Lightning Rose connecting against a mob that is clearly above Lisa: [YouTube](https://youtu.be/PGObWVhwaWE)
+* Example of Lightning Rose connecting against a mob that is clearly below Lisa: [YouTube](https://youtu.be/_WG-Pc-9K2k)
+* Example of Lightning Rose connecting against a mob that is clearly out of Lisa's direct Line of Sight: [YouTube](https://youtu.be/-Mj_hx2sjOk)
 
 **Significance:** No obvious and major significance in Spiral Abyss, but its extreme capabilities are nice to know.
 
@@ -282,7 +282,7 @@ For Lisa specifically, knowing this is more useful than not as she would be able
 * This area is defined as either a flat circular plane or a small cylinder which shares the radius of Lightning Rose (7m).
 * The Summon DMG cannot deal damage to enemies whose hurtboxes are below or above near the suspended plane of which Lightning Rose was casted on, which is deceptive given its visual appears to give verticality.
 
-**Evidence:** (Youtube)
+**Evidence:** (YouTube)
 
 * [The VFX in Question](https://youtu.be/vc9sATF99JY)
 
@@ -404,7 +404,7 @@ By definition, this discovery technically invalidates/corrects all previous, pre
 The current description for Lisa's first constellation is currently limited, it states that:  
 _"Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time"_
 
-Additionally, other mechanics with regards to the generated energy from this constellation are as follows:
+Additionally, other mechanics with regards to the generated Energy from this constellation are as follows:
 
 * Energy is provided directly to Lisa in a delay after an opponent is hit with Violet Arc
 * If Lisa is not present in the field before Energy is to be provided to Lisa, it will have no effect

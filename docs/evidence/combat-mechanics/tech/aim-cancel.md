@@ -23,20 +23,20 @@ To do ARCC: First, enter aim mode via aim toggle (R on PC, aim button on mobile,
 * PC and Mobile: Tap the Aim key (R) on the same frame you release Attack (M1).
 * Controller: Release both the Aim button and the Attack button on the same frame.
 
-ARCC is easier to do at 30 fps, as the frame lengths are longer.
+ARCC is easier to do at 30 FPS, as the frame lengths are longer.
 
 ARCC shots have some quirks that are different from normal charged shots:
 
 * When out of normal attack range from any targets, ARCC shots have a fixed height, regardless of how high or low the player aims.
 * When within normal attack range of a target, ARCC shots will fire toward the target. (see arcc-autotarget )
-* Non-C6 Ganyu, Yoimiya, and Aloy are unable to fire a fully-charged ARCC shot. They will always get a physical charged shot, regardless of charge level before release.
-* C6 Ganyu can fire a fully-charged ARCC after using her skill.
+* Non-C6 Ganyu, Yoimiya, and Aloy are unable to fire a fully-charged ARCC shot. They will always get a Physical charged shot, regardless of charge level before release.
+* C6 Ganyu can fire a fully-charged ARCC after using her Skill.
 
 Fluff: Some characters will stay winking after ARCC
 
 **Evidence:**  
 Basic ARCC demonstration: [Imgur](https://imgur.com/BvuqB5g)  
-Yoimiya (failed) ARCC: [Youtube](https://youtu.be/YDub_dO1rKw)  
+Yoimiya (failed) ARCC: [YouTube](https://youtu.be/YDub_dO1rKw)  
 Winking: [Imgur](https://imgur.com/TPvTNjU)
 
 **Significance:**  
@@ -53,10 +53,10 @@ ARCC is the fastest known method for shooting a charged shot. When done rapidly,
 ARCC shots will autotarget objects when within range. This range is the same as the character's normal attack tracking range.
 
 **Evidence:**  
-Targeting on a pyro flower: [Imgur](https://imgur.com/NNt1YIS)  
+Targeting on a Pyro flower: [Imgur](https://imgur.com/NNt1YIS)  
 Targeting vs an enemy: [Imgur](https://imgur.com/VzxYzob)  
 Gully charged ARCC follows same rules: [Imgur](https://imgur.com/Psfl4nl)  
-Breaking cryo regisvine core backwards: [Imgur](https://imgur.com/eoFlflL)  
+Breaking Cryo regisvine core backwards: [Imgur](https://imgur.com/eoFlflL)  
 Unable to headshot Lawachurl, you can see the shot go to his left leg: [Imgur](https://imgur.com/MYgAQ65)
 
 **Significance:**  
@@ -84,14 +84,14 @@ The sequence to perform this tech is:
 Consistently possible at 30fps, very difficult at 60fps.
 
 **Evidence:**  
-Diona at 60 fps: [Imgur](https://imgur.com/itkCyVm)  
+Diona at 60 FPS: [Imgur](https://imgur.com/itkCyVm)  
 Venti (credit to GottaGoFast#7876): [Imgur](https://imgur.com/a/DCdea1n)  
-Tartaglia (credit to Sayline#5959): [Youtube](https://youtu.be/Z6WmXS8mo_o)  
-Yoimiya: [Youtube](https://youtu.be/0Q4jsgySdqU)
+Tartaglia (credit to Sayline#5959): [YouTube](https://youtu.be/Z6WmXS8mo_o)  
+Yoimiya: [YouTube](https://youtu.be/0Q4jsgySdqU)
 
 Proof that second shot is ARCC:  
 Has same targetting as ARCC: [Imgur](https://imgur.com/6XgzeiX)  
-Second shot has CA damage: [Youtube](https://youtu.be/WDjgMb6D6Ck)
+Second shot has CA damage: [YouTube](https://youtu.be/WDjgMb6D6Ck)
 
 **Significance:**  
 Straight DPS increase for bow attack strings that use hold M1 CAs (assuming it is one of the characters that can do this), as the extra shot theoretically does not add any more frames to the attack string.

@@ -60,6 +60,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Normal Attacks apply Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang's Normal Attacks can be cancelled as soon as the **Star Jades** appear by her side by jumping or dashing.
 * Charged Attacks and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.
@@ -69,6 +70,9 @@ import Skill from '@site/src/components/char/Skill'
 * Additional resources for her animation cancels can be found in the [Ningguang Mains discord](https://discord.gg/ENcBMd86nD).
 * Star Jades are considered Charged Attacks and benefit from Charged Attack Bonuses.
 * Low/High Plunge applies Geo and has no ICD.
+* Star Jade creation and CA Stamina deduction are server-side, but the consumption of Star Jades to produce projectiles is client-side.
+* Ningguang does not benefit from her A1 if she gains Star Jades after a certain cutoff frame from the beginning of her CA animation. For more information on the cutoff frame see this [Vault Entry](../../evidence/characters/geo/ningguang.md#star-jade-creation-and-consumption).
+* Ningguang's NA projectiles generate Star Jades with an ICD dependent on ping, and can be triggered twice per NA (one for each projectile) by delaying their hit times.
 
 </TabItem>
 
@@ -94,7 +98,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* **Jade Screen** has a 6s cooldown on generating particles, not affected by Elemental Skill cooldown reset or reduction.
+* **Jade Screen** has a 6s cooldown on generating Particles, not affected by Elemental Skill cooldown reset or reduction.
 * **Jade Screen** has no ICD for the detection of aura-checks.
 
 | Attribute | Construct (Talent 9%) |
@@ -160,7 +164,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
+* If Sacrificial Fragments procs on the same Skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
 
 </TabItem>

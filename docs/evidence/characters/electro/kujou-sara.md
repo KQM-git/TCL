@@ -17,10 +17,10 @@ search: false
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1B29Zceb_pl8FYfHtIrZeMttZtovmwE8tHEZud_kkbmo/edit?usp=sharing) - Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
 * Gauges
-  * [Charged Attack](https://imgur.com/eOG8f1B), [Skill, C2](https://imgur.com/IIFR5vv), [Burst](https://imgur.com/CxpW3dC): 1A - Nass008#8577
+  * [Charged Attack](https://imgur.com/eOG8f1B), [Skill, C2](https://imgur.com/IIFR5vv), [Burst](https://imgur.com/CxpW3dC): 1U - Nass008#8577
 * ICD - Nass008#8577
   * [E and C2](https://imgur.com/HQwwq5N): No ICD
-  * [Burst](https://imgur.com/WRO5A6k): Titanbreaker and Stormcluster have separate ICDs for electro application
+  * [Burst](https://imgur.com/WRO5A6k): Titanbreaker and Stormcluster have separate ICDs for Electro application
 
 ### Aimed Shot Damage Dropoff
 
@@ -39,8 +39,8 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
   * [Demo from above](https://www.youtube.com/watch?v=aCMwgcJCimA)
   * [Demo from below](https://www.youtube.com/watch?v=y-Vq-d-BLiU)
 * The damage hitbox of Tengu Juurai: Ambush is different from the hitbox to gain an ATK Buff. - [NZPIEFACE#8439](https://www.youtube.com/watch?v=BgB_AyLKUEc)
-* Sara generates 3 particles upon Tengu Juurai: Ambush hit.
-  * Sara does not have an ICD on particle generation. - [Wishiwashi#2548](https://imgur.com/a/pVlGncQ)
+* Sara generates 3 Particles upon Tengu Juurai: Ambush hit.
+  * Sara does not have an ICD on Particle generation. - [Wishiwashi#2548](https://imgur.com/a/pVlGncQ)
 * Sara does not lose the effects of Crowfeather Cover if swapped off. - [Soto#1629](https://i.imgur.com/NM7Xa9C.mp4)
 * Crowfeather will not stick to walls; it sticks to the closest walkable surface from the point of collision.
   * Crowfeather does not stick to walls. - [Wishiwashi#2548](https://imgur.com/a/UGHyQu1)
@@ -69,7 +69,7 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 **Finding:**  
 After the v2.2 update, Sara's Elemental Skill is much more consistent and predictable in its behaviour now:
 
-* The skill will move her almost 3m away from the point of origin.
+* The Skill will move her almost 3m away from the point of origin.
   * Without nearby enemies, it will teleport her backwards. This direction can be controlled with inputs.
   * If an enemy is within 15m, she will teleport away from them. She teleports away from the closest enemy.
 * The movement can generally be predicted by "if it can be walked onto/over, she can teleport onto/over it". There are still a few rare issues with geometry, but that shouldn't be an issue in Abyss.
@@ -90,7 +90,7 @@ After the v2.2 update, Sara's Elemental Skill is much more consistent and predic
   * [Ledge again](https://imgur.com/plRd8po)
   * [Ledge again, but failed](https://imgur.com/uHxfTVp)
 * [For walls that she can walk along diagonally, she will also teleport in that direction parallel to the wall](https://imgur.com/Q4nsiXM)
-* [Direction of skill can be controlled right after skill cast](https://imgur.com/nCyOemw)
+* [Direction of Skill can be controlled right after Skill cast](https://imgur.com/nCyOemw)
 * Direction cannot be controlled with nearby enemies:
   * [Nearby enemies, in combat](https://youtu.be/Cxr58A4gLk8)
   * [Nearby enemies, no combat](https://imgur.com/PT1BEHa)
@@ -109,7 +109,7 @@ After the v2.2 update, Sara's Elemental Skill is much more consistent and predic
   * [With hitlag (around 7s)](https://youtu.be/Mu61tiopAlY)
 * [Cooldown without C1](https://youtu.be/GQxJAkVRGpY)
 * [Cooldown with C1](https://youtu.be/wadJvqicW9w)
-* [Fluff](https://youtu.be/JrfYaCUFKwY): It is possible to use her skill in water, even at a depth that she would normally be swimming in. This is because the recovery animation from her skill stops stops her from swimming. Sadly, this cannot be used to go beneath water. Switching to another character will only cause them to start swimming.
+* [Fluff](https://youtu.be/JrfYaCUFKwY): It is possible to use her Skill in water, even at a depth that she would normally be swimming in. This is because the recovery animation from her Skill stops stops her from swimming. Sadly, this cannot be used to go beneath water. Switching to another character will only cause them to start swimming.
 
 **Significance:**  
 We can actually predict what pressing E will do now.
@@ -122,12 +122,12 @@ We can actually predict what pressing E will do now.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884708643151446026_891204580174610442_transcript-sara-feather-interaction-with-on-damage-effects.html)
 
 **Finding:**  
-Sara's ambush is the first 0 damage hit in the game for the purpose of triggering its buff on the player character (also AFAIK the first instance of friendly fire). This is exposing the difference between what skills care about being hit versus what skills care about taking damage. One (hard financially cause needs Jean c6) avenue to test this is to try out the 100% damage reduction team
+Sara's ambush is the first 0 damage hit in the game for the purpose of triggering its buff on the player character (also AFAIK the first instance of friendly fire). This is exposing the difference between what Skills care about being hit versus what Skills care about taking damage. One (hard financially cause needs Jean c6) avenue to test this is to try out the 100% damage reduction team
 
 **Evidence:**  
 Does trigger:
 
-* Diluc C2 and Beidou C4 even with shield on. Diluc vids: [Youtube](https://youtu.be/Xgh6EvQGX_k), Beidou vids: [Imgur](https://imgur.com/a/VwD3jNS)
+* Diluc C2 and Beidou C4 even with shield on. Diluc vids: [YouTube](https://youtu.be/Xgh6EvQGX_k), Beidou vids: [Imgur](https://imgur.com/a/VwD3jNS)
 * Zhongli A1 talent: [Imgur](https://imgur.com/a/VwD3jNS)
 
 Doesn't trigger:
@@ -136,20 +136,20 @@ Doesn't trigger:
 * Beidou parry: [Imgur](https://imgur.com/Fsh9oii)
 * Aquila: [Imgur](https://imgur.com/yAJWPC2)
 * The Bell: [Imgur](https://imgur.com/JtILNvC)
-* XQ rainswords: [Imgur](https://imgur.com/a/I64v06w)
-* Noelle A1: [Youtube](https://youtu.be/BgT_gpg288o)
+* XQ Rain Swords: [Imgur](https://imgur.com/a/I64v06w)
+* Noelle A1: [YouTube](https://youtu.be/BgT_gpg288o)
 
 Unknown:  
 Alley flash
 
 **Significance:**  
-Insights into feather application mechanics (maybe first 0 damage and friendly fire in game?) as well as clarification on what skills are actually on hit vs. taking damage.
+Insights into feather application mechanics (maybe first 0 damage and friendly fire in game?) as well as clarification on what Skills are actually on hit vs. taking damage.
 
 ## Burst Mechanics
 
 * Titanbreaker targets closest enemy, then Stormcluster moves outward in a plus-shape with one branch directed at Sara’s location at time of cast. - [Wishiwashi#2548](https://imgur.com/a/313LEY4)
 * Both Titanbreaker and Stormcluster damage is snapshot on Burst cast. - [Nass008#8577](https://imgur.com/skAgh1K)
-* Sara's energy drain after burst cast occurs very late into her animation, meaning she can't be pre-funneled - Nass008#8577
+* Sara's Energy drain after Burst cast occurs very late into her animation, meaning she can't be pre-funneled - Nass008#8577
   * [Keqing EE > Sara Q](https://imgur.com/oKrraKw)
   * [Beidou E > Sara Q](https://imgur.com/m72aQzM)
 * Sara's Burst does not benefit from its own attack buff - Veggie#0581
@@ -267,9 +267,9 @@ It's possible to buff 2 different characters, with one Crowfeather from C2 and a
 
 **Evidence:**
 
-* [Youtube](https://youtu.be/614ud7vKz4Q)
-* [Imgur 30 fps](https://imgur.com/lDx2hSL)
-* [Imgur 60 fps](https://imgur.com/BjHFzqv)
+* [YouTube](https://youtu.be/614ud7vKz4Q)
+* [Imgur 30 FPS](https://imgur.com/lDx2hSL)
+* [Imgur 60 FPS](https://imgur.com/BjHFzqv)
 
 **Significance:**  
 This is possible to perform without cancels but the timing is extremely difficult.
@@ -280,7 +280,7 @@ This is possible to perform without cancels but the timing is extremely difficul
 
 ## Tech
 
-* Sara turns to face nearby enemies after casting her skill. - [Wishiwashi#2548](https://imgur.com/a/DJJiGi0)
+* Sara turns to face nearby enemies after casting her Skill. - [Wishiwashi#2548](https://imgur.com/a/DJJiGi0)
   * PC and Controller players can take advantage of this to quickly turn the camera (e.g., with middle mouse button, PS4 R3 button) and CA to place the crowfeather towards the enemy.
 
 ## Fluff
@@ -297,7 +297,7 @@ This is possible to perform without cancels but the timing is extremely difficul
 Discussion in Basic Mechanics
 
 **Finding:**  
-It's possible to have two different characters snapshot Sara’s burst ATK buff by following Stormcluster with precise positioning/timing. See evidence below for video of 3 attempts.
+It's possible to have two different characters snapshot Sara’s Burst ATK buff by following Stormcluster with precise positioning/timing. See evidence below for video of 3 attempts.
 
 **Evidence:** [Imgur](https://imgur.com/a/DIYQPrQ)
 
@@ -316,7 +316,7 @@ It may be easier to pull off double snapshots with C2, or at C0/C1 with a rotati
 **Finding:**  
 Tengu Stormcall only buffs the on-field characters the frame before the Crowfeather Explosion.
 
-**Evidence:** [Youtube](https://youtu.be/YjWPpL-4TKw)
+**Evidence:** [YouTube](https://youtu.be/YjWPpL-4TKw)
 
 **Significance:**  
 Exact timing of the Crowfeather buff.
@@ -329,19 +329,19 @@ Exact timing of the Crowfeather buff.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903958677164294204_904776894841507850_transcript-emc-er-buff-interaction-with-saras-a4.html)
 
 **Finding:**  
-Pre-A4 EMC’s E’s skill ER buff does not affect Sara’s A4 passive.
+Pre-A4 EMC’s E’s Skill ER buff does not affect Sara’s A4 Passive.
 
 **Evidence:**  
-2 trials were conducted with Keqing, Sara, and pre-A4 EMC. Keqing starts at 0 energy and always stays off-field. Both trials have Sara E + EMC E done 13 times:
+2 trials were conducted with Keqing, Sara, and pre-A4 EMC. Keqing starts at 0 Energy and always stays off-field. Both trials have Sara E + EMC E done 13 times:
 
 * [Trial 1](https://youtu.be/-KujlEHy24I): Sara takes EMC’s E amulets every time before doing Sara’s E.
 * [Trial 2](https://youtu.be/Bn3tlTtNtIE): Sara does not take any amulets at all.
 
 Testing:  
-After 12 procs, the off-field Keqing should have 39.6 energy. If EMC’s ER buff actually affects Sara’s A4, one of the Keqings with EMC buffed Sara should have 20% _ 1.2 _ 12 (procs) = 2.88 more extra energy compared to the non-buffed Sara, and therefore should have her burst up after 12 procs.
+After 12 procs, the off-field Keqing should have 39.6 Energy. If EMC’s ER buff actually affects Sara’s A4, one of the Keqings with EMC buffed Sara should have 20% _ 1.2 _ 12 (procs) = 2.88 more extra Energy compared to the non-buffed Sara, and therefore should have her Burst up after 12 procs.
 
 Results:  
-Both Keqings got their burst after 13 procs, regardless of if Sara was buffed by EMC ER buff or not. This would not happen if the interaction actually worked.
+Both Keqings got their Burst after 13 procs, regardless of if Sara was buffed by EMC ER buff or not. This would not happen if the interaction actually worked.
 
 **Significance:**  
-Pre-A4 EMC Skill’s ER buff doesn’t make Sara’s A4 passive generate more energy.
+Pre-A4 EMC Skill’s ER buff doesn’t make Sara’s A4 Passive generate more Energy.

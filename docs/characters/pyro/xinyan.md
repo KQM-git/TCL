@@ -62,8 +62,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Charged Attack has a wind up of 89 frames.
-* All frame counts are done against Ruin Guards.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -77,7 +76,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 288.32% | 57.12% \* 6 |
 | Tick Rate         | -       | 2s          |
 | Particles         | 4       | -           |
-| GU                | 1A      | 1A          |
+| GU                | 1U      | 1U          |
 | ICD               | None    | None        |
 | Snapshot          | Dynamic | Dynamic     |
 | Damage Type       | Skill   | Skill       |
@@ -99,7 +98,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Rave** will deal Pyro DMG to nearby opponents once every 2 seconds for a total of 6 hits if the shield is active for the full duration.
-* A higher level shield can be overwritten by a lower level one when using Sacrificial greatsword or casting the shield while already having one from C2 burst.
+* A higher-level shield can be overridden by a lower-level one when using Sacrificial Greatsword or casting the shield while already having one from C2 Burst.
 
 </TabItem>
 
@@ -111,7 +110,7 @@ import Skill from '@site/src/components/char/Skill'
 | Effect            | Burst    | DoT                            |
 | :---------------- | :------- | :----------------------------- |
 | Skill DMG \(T9%\) | 579.36%  | 68% x 7                        |
-| GU                | -        | 1A                             |
+| GU                | -        | 1U                             |
 | ICD               | -        | 3 hit / 2.5s                   |
 | Damage Type       | Burst    | Burst                          |
 | Damage Element    | Physical | Pyro                           |

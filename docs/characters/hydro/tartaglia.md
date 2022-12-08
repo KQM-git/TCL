@@ -53,9 +53,9 @@ import Skill from '@site/src/components/char/Skill'
 | Type          | Talent 9%   | Frames | MV/s      | GU  | Poise Damage        | Impulse Type |
 | :------------ | :---------- | :----- | :-------- | :-- | :------------------ | :----------- |
 | Aimed Shot    | 80.58%      | 25     | 193.39%/s | -   | 10 \(Headshot: 30\) | 2            |
-| Fully Charged | 210.8%      | 94     | 134.55%/s | 1A  | 20 \(Headshot: 60\) | 5            |
-| Riptide Flash | 21.08% \* 3 | -      | -         | 1A  | -                   | -            |
-| Riptide Burst | 105.4%      | -      | -         | 2B  | -                   | -            |
+| Fully Charged | 210.8%      | 94     | 134.55%/s | 1U  | 20 \(Headshot: 60\) | 5            |
+| Riptide Flash | 21.08% \* 3 | -      | -         | 1U  | -                   | -            |
+| Riptide Burst | 105.4%      | -      | -         | 2U  | -                   | -            |
 
 </div>
 <div class='talent-columns'>
@@ -72,6 +72,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 * Both **Riptide Flash** and **Riptide Burst** do not snapshot.
 * [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering) works weirdly with Tartaglia, for more information see this [Vault Entry](../../evidence/equipment/artifacts.md#echoes-triggering-is-weird-and-inconsistent-for-tartaglia).
@@ -87,7 +88,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute                 | Skill    |
 | :------------------------ | :------- |
 | Stance Change DMG \(T9%\) | 122.4%   |
-| GU                        | 2B       |
+| GU                        | 2U       |
 | ICD                       | None     |
 | Damage Element            | Hydro    |
 | Damage Type               | Skill    |
@@ -109,7 +110,7 @@ import Skill from '@site/src/components/char/Skill'
 | 4-Hit  | 110.13%       | 41     | 161.17%/s | 62.73         | 3            |
 | 5-Hit  | 101.59%       | 30     | 203.18%/s | 57.87         | 3            |
 | 6-Hit  | 65.1% + 69.2% | 82     | 98.27%/s  | 37.08 + 39.42 | 6 x2         |
-| GU     | 1A            | -      | -         | -             | -            |
+| GU     | 1U            | -      | -         | -             | -            |
 
 </div> 
 <div class='talent-columns'>
@@ -117,10 +118,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9%       | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------- | :-------------- | :----- | :-------- | :-- | :----------- | :----------- |
-| Charged Attack | 110.6% + 132.25 | 55     | 264.93%/s | 1A  | 63 + 75.33   | 2 + 6        |
-| N1C            | 314.27%         | 84     | 224.48%/s | 1A  | -            | -            |
-| N2C            | 390.74%         | 100    | 234.44%/s | 1A  | -            | -            |
-| N3C            | 494.23%         | 133    | 222.96%/s | 1A  | -            | -            |
+| Charged Attack | 110.6% + 132.25 | 55     | 264.93%/s | 1U  | 63 + 75.33   | 2 + 6        |
+| N1C            | 314.27%         | 84     | 224.48%/s | 1U  | -            | -            |
+| N2C            | 390.74%         | 100    | 234.44%/s | 1U  | -            | -            |
+| N3C            | 494.23%         | 133    | 222.96%/s | 1U  | -            | -            |
 
 </div> 
 <div class='talent-columns'>
@@ -130,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------ |
 | Skill DMG \(T9%\) | 110.6%        |
 | Particles         | 1 per proc    |
-| GU                | 1A            |
+| GU                | 1U            |
 | ICD               | None          |
 | Snapshot          | No            |
 | Damage Element    | Hydro         |
@@ -142,10 +143,10 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
+* Gives 1 Hydro Particle upon proc. However, this Particle generation has an ICD of 3 seconds.
 * **Riptide** and **Riptide Slash** can be applied and triggered by Aimed Shot, both Physical and Hydro, by switching to melee stance before the arrow hits an enemy.
-* Using this skill in quick succession after a partial **Bow Stance** attack string allows Childe to continue the attack string in **Melee Stance**.
-* Using this skill on the same frame as an attack or burst input can result in a **Ranged Burst** while in **Melee Stance**, a **Melee N1** in **Ranged Stance**,[ among other effects.](../../evidence/characters/hydro/tartaglia.md#elemental-skill-and-attack-or-burst-on-the-same-frame)
+* Using this Skill in quick succession after a partial **Bow Stance** attack string allows Childe to continue the attack string in **Melee Stance**.
+* Using this Skill on the same frame as an attack or Burst input can result in a **Ranged Burst** while in **Melee Stance**, a **Melee N1** in **Ranged Stance**,[ among other effects.](../../evidence/characters/hydro/tartaglia.md#elemental-skill-and-attack-or-burst-on-the-same-frame)
 * Preemptive CD scales discretely, floored to an integer before cooldown reduction calculations.
 
 </TabItem>
@@ -161,7 +162,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Ranged Burst |
 | :---------------- | :----------- |
 | Skill DMG \(T9%\) | 643.28%      |
-| GU                | 2B           |
+| GU                | 2U           |
 | ICD               | None         |
 | Damage Element    | Hydro        |
 | Damage Type       | Burst        |
@@ -182,7 +183,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Melee Burst | Riptide Blast |
 | :---------------- | :---------- | :------------ |
 | Skill DMG \(T9%\) | 788.8%      | 204%          |
-| GU                | 2B          | 2B            |
+| GU                | 2U          | 2U            |
 | ICD               | None        | None          |
 | Damage Element    | Hydro       | Hydro         |
 | Damage Type       | Burst       | Burst         |
@@ -209,7 +210,7 @@ A chart of Tartgalia's different Riptide effects
 | Source            | Charge shot on mark | Melee hit on mark | Enemy death with mark | Melee Burst with mark |
 | Skill DMG \(T6%\) | 17.63% \* 3         | 86.5%             | 86.8%                 | 168%                  |
 | Particles         | --                  | 1 per proc        | --                    | --                    |
-| GU                | 1A                  | 1A                | 2B                    | 2B                    |
+| GU                | 1U                  | 1U                | 2U                    | 2U                    |
 | ICD               | 3 Hit / 2.5s        | None              | None                  | None                  |
 | Snapshot          | --                  | Dynamic           | --                    | --                    |
 | Damage Element    | Hydro               | Hydro             | Hydro                 | Hydro                 |

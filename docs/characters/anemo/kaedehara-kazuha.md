@@ -63,6 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
 * Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kaedehara-kazuha.md#dragonstrike-of-n5).
 * Kazuha's 2-hit N3 is "not linked" but his 3-hit N5 is "linked" when it comes to [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering). For more information see this [Vault Entry](../../evidence/equipment/artifacts.md#kazuha-na-interaction-with-echoes).
@@ -112,7 +113,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
-* By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them).
+* By double tapping your glider as soon as you've tapped your Skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some Frozen enemies but you don't want to Shatter them).
 * Some forms of interruption after casting **Chihayaburu** may cause the ability to cast **Midare Ranzan** to persist up to 10s without remaining airborne.
 * Plunging immediately after a tap E guarantees a high plunge while waiting might give low plunge damage.
 * Absorption priority: Pyro > Hydro > Electro > Cryo
@@ -130,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
 | Effect            | Slash         | DoT           | Elemental DMG    |
 | :---------------- | :------------ | ------------- | :--------------- |
 | Skill DMG \(T9%\) | 446.08%       | 204%          | 61.2%            |
-| GU                | 2U            | 1U            | 1A               |
+| GU                | 2U            | 1U            | 1U               |
 | ICD               | None          | None          | None             |
 | Snapshot          | Snapshot      | Snapshot      | Snapshot         |
 | Damage Element    | Anemo         | Anemo         | Absorbed Element |
@@ -172,13 +173,13 @@ import Passive from '@site/src/components/char/Passive'
 | Type           | Soumon Swordsmanship |
 | :------------- | :------------------- |
 | Skill DMG      | 200%                 |
-| GU             | 1A                   |
+| GU             | 1U                   |
 | Damage Element | Absorbed Element     |
 | Damage Type    | Plunge               |
 
 **Notes**
 
-* The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl.
+* The Elemental damage is applied before Midare Ranzan, allowing it to Swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no Swirl.
 * Absorption priority: Pyro > Hydro > Electro > Cryo
 
 </TabItem>
@@ -190,7 +191,7 @@ import Passive from '@site/src/components/char/Passive'
 
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
 * Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
-* Kazuha's 4th ascension passive overrides previous instances on every swirl of the same element, using his current Elemental Mastery.
+* Kazuha's 4th ascension passive overrides previous instances on every Swirl of the same Element, using his current Elemental Mastery.
 
 </TabItem>
 </Tabs>
@@ -222,7 +223,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The energy gained while gliding is not affected by energy recharge.
+* The Energy gained while gliding is not affected by Energy Recharge.
 
 </TabItem>
 

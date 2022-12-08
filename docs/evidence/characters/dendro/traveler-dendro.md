@@ -26,7 +26,7 @@ search: false
       * Without Electro Transfiguration - [Zakharov#5645](https://youtu.be/qmH4FxLHWmU)
       * With Electro Transfiguration - [Zakharov#5645](https://youtu.be/PaaM0a2eknY)
 * Gauges:
-  * E: 1A - [Puffin#9920](https://youtu.be/sUkw-tIAL2I)
+  * E: 1U - [Puffin#9920](https://youtu.be/sUkw-tIAL2I)
 * Q snapshots on cast - Bobrokrot\#0111
   * Unbuffed and buffed damage: [YouTube](https://youtu.be/qEDSHPB69rM)
   * Sara's feather buffs DMC in the middle of animation. Buff persists through entire Burst duration: [YouTube](https://youtu.be/3wVlyYkoifo)
@@ -81,7 +81,7 @@ For updated stats and calculation purposes.
   * The Lamp can't hold a Cryo aura after it's transfigured. - [graphten#1867](https://youtu.be/etMTztnsvus)
   * While the Lamp has a Cryo aura, it will not transfigure until the aura has been removed/decays. - [graphten#1867](https://youtu.be/kqDvO4p041o)
   * The Lamp can hold Frozen aura. It can also Shatter from this. - [NZPIEFACE#8439](https://youtu.be/OPiJYAu33Rw)
-  * Triggering a Superconduct reaction with DMC's Lamp doesn't count as a reaction for Electro Resonance or 4pc Instructor. - [Luna#0188](https://youtu.be/0QpAC7OS0f8)
+  * Triggering a Superconduct reaction with DMC's Lamp doesn't count as a reaction for Electro Resonance or 4-Piece Instructor. - [Luna#0188](https://youtu.be/0QpAC7OS0f8)
 * Damage of the Spreads triggered by DMC's Burst ticks. - [mina#4448](https://youtu.be/yBj6R-wJGxs)
   * AdditiveReactionDamage \(flat number added to multiplier\) is calculated dynamically with respect to DMC's A1.
   * The Spread's total damage is calculated with the snapshotted A4 DMG Bonus% for that Lamp tick.

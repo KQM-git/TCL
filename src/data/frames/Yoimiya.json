@@ -3,61 +3,61 @@
         "name": "N1",
         "release": [15, 24],
         "hitlag": 0,
-        "default": 35
+        "next_na": 35
     }, 
     {
         "name": "N2",
         "release": 17,
         "hitlag": 0,
-        "default": 26
+        "next_na": 26
     },
     {
         "name": "N3",
         "release": 25,
         "hitlag": 0,
-        "default": 39
+        "next_na": 39
     },
     {
         "name": "N4",
         "release": [11, 26],
         "hitlag": 0,
-        "default": 44
+        "next_na": 44
     },
     {
         "name": "N5",
         "release": 17,
         "hitlag": 0,
-        "default": 51
+        "next_na": 51
     }],
     "CA": [{
         "name": "CA (Physical)",
         "release": 15,
         "hitlag": 0,
-        "default": 26
+        "next_na": 26
     },
     {
         "name": "CA Lv. 1",
         "release": 86,
         "hitlag": 0,
-        "default": 97
+        "n1": 97
     },
     {
         "name": "CA Lv. 2 (1 Kindling Arrow)",
         "release": 103,
         "hitlag": 0,
-        "default": 114
+        "n1": 114
     },
     {
         "name": "CA Lv. 2 (2 Kindling Arrows)",
         "release": 121,
         "hitlag": 0,
-        "default": 132
+        "n1": 132
     },
     {
         "name": "CA Lv. 2 (3 Kindling Arrows)",
         "release": 139,
         "hitlag": 0,
-        "default": 150,
+        "n1": 150,
         "notes": "Hitlag is 0.12s if it hits a weakspot"
     }],
     "Skill": {

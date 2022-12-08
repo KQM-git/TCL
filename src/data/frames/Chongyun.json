@@ -3,25 +3,25 @@
         "name": "N1",
         "hitmark": 26,
         "hitlag": 0.10,
-        "default": 40
+        "next_na": 40
     }, 
     {
         "name": "N2",
         "hitmark": 24,
         "hitlag": 0.09,
-        "default": 40
+        "next_na": 40
     },
     {
         "name": "N3",
         "hitmark": 41,
         "hitlag": 0.12,
-        "default": 69
+        "next_na": 69
     },
     {
         "name": "N4",
         "hitmark": 53,
         "hitlag": 0.12,
-        "default": 113
+        "next_na": 113
     }],
     "Skill": {
         "name": "Cast",

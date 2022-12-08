@@ -49,7 +49,7 @@ import Skill from '@site/src/components/char/Skill'
 | Type          | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type      |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :---------------- |
 | Aimed Shot    | 80.58%    | 23     | 210.21%/s | -   | 10           | 2 \(Headshot: 5\) |
-| Fully Charged | 210.8%    | 94     | 134.55%/s | 1A  | 20           | 2 \(Headshot: 5\) |
+| Fully Charged | 210.8%    | 94     | 134.55%/s | 1U  | 20           | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -66,6 +66,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
@@ -92,7 +93,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Doing an auto attack as soon as possible after using the press version of **Skyward Sonnet** allows the user to swap to a different character faster.
+* Doing a Normal Attack as soon as possible after using the press version of **Skyward Sonnet** allows the user to swap to a different character faster.
 * Venti can shorten the starting animation of the press version of **Skyward Sonnet** by holding Elemental Skill for 9 frames, which starts the animation for the hold version of **Skyward Sonnet**, and then releasing, which cancels the Hold version into a Press version of **Skyward Sonnett**. This allows Venti to perform an action immediately after. In total, the **Skyward Sonnet** cast can be cancelled to be only 10 frames.
 * Using the Press version of **Skyward Sonnett** immediately after shooting a non-ARCC Charged Attack will reduce essentially all of the Skill's animation frames.
 
@@ -106,7 +107,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute       | Burst DoT    | Burst Additional Elemental DMG |
 | :-------------- | :----------- | :----------------------------- |
 | Skill DMG (T9%) | 63.92% \* 20 | 31.96% \* 15\*                 |
-| GU              | 1U           | 1A                             |
+| GU              | 1U           | 1U                             |
 | ICD             | 3 hits       | 3 hits                         |
 | Duration        | 8s           | 6.0s                           |
 | Total Ticks     | 20           | 15\* (FPS Dependent)           |
@@ -126,7 +127,7 @@ import Skill from '@site/src/components/char/Skill'
 * The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
 * Venti cannot lift enemies that are more than 20 levels above his level.
 * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
-  * The additional elemental DMG will deal 13-15 ticks of damage in the original burst area, no matter the time of absorption.
+  * The additional Elemental DMG will deal 13-15 ticks of damage in the original Burst area, no matter the time of absorption.
   * The absorption DMG does not share ICD with the DoT DMG
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.
 
@@ -190,7 +191,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by anemo dmg ticks, while the infused element's res reduction duration is refreshed by that element's DOT ticks.
+* The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo RES reduction duration can only be refreshed by Anemo DMG ticks, while the infused Element's RES reduction duration is refreshed by that Element's DoT ticks.
 
 </TabItem>
 </Tabs>

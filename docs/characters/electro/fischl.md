@@ -50,7 +50,7 @@ import Skill from '@site/src/components/char/Skill'
 | Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
 | :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
 | Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1U  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -66,6 +66,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Fischl's max damage ceiling is 245.81% MV/s for a N2-LMB combo, but reaching this level is not realistic for humans.
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
@@ -81,7 +82,7 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------- | :------ |
 | Cast DMG \(T9%\) | 196.25% |
 | Particles        | 0       |
-| GU               | 1A      |
+| GU               | 1U      |
 | ICD              | None    |
 | Damage Element   | Electro |
 | Damage Type      | Skill   |
@@ -104,7 +105,7 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------------- | :---------- |
 | Normal Attacks \(T9%\) | 150.96%     |
 | Particles              | 0~1 \(1:2\) |
-| GU                     | 1A          |
+| GU                     | 1U          |
 | ICD                    | 4 hits / 5s |
 | Snapshot               | Snapshot    |
 | Duration               | 10s         |
@@ -117,7 +118,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Oz** is able to target Baron Bunny after Fischl’s Ascension 1 passive, **Stellar Predator** is triggered, despite having no enemies nearby. The passive may or may not deliver a **Thundering Retribution** onto the Baron Bunny.
-* When **Oz** is repositioned via the use of this elemental skill, it counts as a use of an elemental skill and it re-snapshots Fischl's stats.
+* When **Oz** is repositioned via the use of this Elemental Skill, it counts as a use of an Elemental Skill and it re-snapshots Fischl's stats.
 * **Oz's** normal attacks shares ICD with her **C6**.
 
 </TabItem>
@@ -130,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst          |
 | :---------------- | :------------- |
 | Skill DMG \(T9%\) | 353.6%         |
-| GU                | 1A             |
+| GU                | 1U             |
 | ICD               | Shared With C4 |
 | Snapshot          | Snapshot       |
 | Damage Element    | Electro        |
@@ -148,10 +149,10 @@ import Skill from '@site/src/components/char/Skill'
 * Fischl may not attack, cast, or dash during the duration of this ability.
 * Summons **Oz** when the effect ends.
 * If **Oz** is already on the field, this will reset his duration instead.
-* You can swap characters during Fischl's **Midnight Phantasmagoria** to exit the burst early.
+* You can swap characters during Fischl's **Midnight Phantasmagoria** to exit the Burst early.
 * **Midnight Phantasmagoria** only has invulnerability frames \(iframes\) on startup.
 * After summoning **Oz** with Midnight Phantasmagoria and swapping off of Fischl, **Oz** will snapshot Fischl's stats right before she leaves the field.
-* **Midnight Phantasmagoria** is considered a blunt attack and will shatter frozen enemies.
+* **Midnight Phantasmagoria** is considered a blunt attack and will Shatter Frozen enemies.
 
 </TabItem>
 </Tabs>
@@ -179,7 +180,7 @@ import Passive from '@site/src/components/char/Passive'
 | :------------- | :--------------------- |
 | Skill DMG      | 152.7%                 |
 | Particles      | 0                      |
-| GU             | 2B                     |
+| GU             | 1U                     |
 | Damage Element | Electro                |
 | Damage Type    | Charged Attack         |
 | Poise Damage   | 40                     |
@@ -198,7 +199,7 @@ import Passive from '@site/src/components/char/Passive'
 | Attribute        | A4      |
 | :--------------- | :------ |
 | Skill DMG        | 80%     |
-| GU               | 1A      |
+| GU               | 1U      |
 | ICD              | None    |
 | Damage Elemental | Electro |
 | Damage Type      | Skill   |
@@ -211,6 +212,7 @@ import Passive from '@site/src/components/char/Passive'
 * At edges of long range attacks, it may not trigger since they must be within a certain range of the active character.
 * The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
 * **Undone By Thy Sinful Hex** uses snapshotted stats on Oz cast and recast.
+* Spread does not trigger **Undone Be Thy Sinful Hex**.
 
 </TabItem>
 </Tabs>
@@ -257,7 +259,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | Attribute               | Burst                                   |
 | :---------------------- | :-------------------------------------- |
 | Her Pilgrimage of Bleak | 222%                                    |
-| GU                      | 2B                                      |
+| GU                      | 2U                                      |
 | ICD                     | Shared With **Midnight Phantasmagoria** |
 | Damage Type             | Elemental Burst                         |
 | Poise Damage            | 500                                     |
@@ -265,9 +267,9 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* C4 can crit and has separate crit rolls from Q.
+* C4 can CRIT and has separate CRIT rolls from Q.
 * C4 damage occurs before Q (higher priority)
-* C4 is not a blunt attack and will not shatter frozen enemies.
+* C4 is not a blunt attack and will not Shatter Frozen enemies.
 
 </TabItem>
 
@@ -282,7 +284,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | :------------- | :---------- |
 | Joint Attack   | 30%         |
 | Particles      | 0           |
-| GU             | 1A          |
+| GU             | 1U          |
 | ICD            | 4 hits / 5s |
 | Snapshot       | Snapshot    |
 | Attack Speed   | No Limit    |

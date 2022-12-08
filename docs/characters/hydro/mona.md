@@ -37,10 +37,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 63.92%    | 18     | 213.07%/s | 1A  | 7.62         | 1            |
-| 2-Hit         | 61.2%     | 23     | 159.65%/s | 1A  | 7.35         | 1            |
-| 3-Hit         | 76.16%    | 39     | 117.17%/s | 1A  | 9.15         | 1            |
-| 4-Hit         | 95.47%    | 67     | 85.5%/s   | 1A  | 11.85        | 2            |
+| 1-Hit         | 63.92%    | 18     | 213.07%/s | 1U  | 7.62         | 1            |
+| 2-Hit         | 61.2%     | 23     | 159.65%/s | 1U  | 7.35         | 1            |
+| 3-Hit         | 76.16%    | 39     | 117.17%/s | 1U  | 9.15         | 1            |
+| 4-Hit         | 95.47%    | 67     | 85.5%/s   | 1U  | 11.85        | 2            |
 
 </div>
 <div class='talent-columns'>
@@ -48,7 +48,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------- | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| Charged Attack | 254.52%   | 113    | 135.14%/s | 1A  | 26.15        | 3            |
+| Charged Attack | 254.52%   | 113    | 135.14%/s | 1U  | 26.15        | 3            |
 | N1C            | 318.44%   | 142    | 134.55%/s | -   | -            | -            |
 | N2C            | 379.64%   | 161    | 141.48%/s | -   | -            | -            |
 | N3C            | 455.80%   | 208    | 131.48%/s | -   | -            | -            |
@@ -59,15 +59,15 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type            | Talent 9% | GU  | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :-- | :----------- | :----------- |
-| Plunge DMG      | 104.41%   | 1A  | 5            | 2            |
-| Low Plunge DMG  | 208.77%   | 1A  | 50           | 3            |
-| High Plunge DMG | 260.76%   | 1A  | 100          | 4            |
+| Plunge DMG      | 104.41%   | 1U  | 5            | 2            |
+| Low Plunge DMG  | 208.77%   | 1U  | 50           | 3            |
+| High Plunge DMG | 260.76%   | 1U  | 100          | 4            |
 
 </div>
 
 **Notes**
 
-* Frame counts are done using M1 Spams.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Mona's 3rd Normal Attack has 2 different animations. She will either jump backwards or forward depending on the position of her target.
 * 3 hits / 2.5s ICD
 * Charged Attack frame counts are done using Timed M1 Spams
@@ -86,7 +86,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 54.4%         | 225.76%     |
 | Tick Rate         | 1/s           | -           |
 | Particles         | -             | 3~4 \(2:1\) |
-| GU                | 1A            | 1A          |
+| GU                | 1U            | 1U          |
 | ICD               | 3 hits / 2.5s | None        |
 | Snapshot          | Snapshot      | Snapshot    |
 | Damage Element    | Hydro         | Hydro       |
@@ -116,7 +116,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------------- | :------------ |
 | Activation Stamina Cost | 10            |
 | Stamina Drain           | 15/s          |
-| Hydro Application GU    | 1A            |
+| Hydro Application GU    | 1U            |
 | ICD                     | 3 hits / 2.5s |
 | Poise Damage            | 0             |
 | Impulse Type            | 2             |
@@ -126,8 +126,8 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Illusory Torrent** isn't affected by stamina reduction passives from Kaeya or Razor
-* **Illusory Torrent** holds priority over Mona's skill, meaning that if you dash before Mona's skill is finished casting, the skill cast will be cancelled and Mona will dash instead.
-* Her alternate sprint has the same iframes as other characters' normal sprint.
+* **Illusory Torrent** holds priority over Mona's Skill, meaning that if you dash before Mona's Skill is finished casting, the Skill cast will be cancelled and Mona will dash instead.
+* Her alternate sprint has the same i-frames as other characters' normal sprint.
 * Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
   * the same goes for Anemo Resonance
 
@@ -141,7 +141,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Bubble                                             | Omen            |
 | :---------------- | :------------------------------------------------- | :-------------- |
 | Skill DMG \(T9%\) | 752.08%                                            | 58% \(scaling\) |
-| GU (Cast)         | 1A                                                 | 2B              |
+| GU (Cast)         | 1U                                                 | 2U              |
 | ICD               | 3 hits / 2.5s\*                                    | 3 hits / 2.5s\* |
 | Snapshot          | Dynamic                                            | Dynamic         |
 | Damage Element    | Hydro                                              | Hydro           |
@@ -162,9 +162,9 @@ import Skill from '@site/src/components/char/Skill'
   * See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#base-damage)
 * **Illusory Bubble**'s duration can be extended under specific circumstances:
   * Enemies that were applied Cryo beforehand, thus got Frozen after receiving the **Illusory Bubble** status.
-  * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an elemental shield/armor, etc.
+  * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an Elemental shield/armor, etc.
   * Petrify can extend the duration of the aforementioned stagger-resistant state, effectively extending the duration of the **Illusory Bubble**.
-* Certain skill/bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
+* Certain Skills/Bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
 
 </TabItem>
 </Tabs>
@@ -191,7 +191,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * No ICD
-* Damage dealt by this **Phantom** is considered elemental skill damage, and can thus trigger related artifact effects.
+* Damage dealt by this **Phantom** is considered Elemental Skill damage, and can thus trigger related artifact effects.
 
 </TabItem>
 

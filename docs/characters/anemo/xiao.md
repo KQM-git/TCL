@@ -69,6 +69,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Xiao's Charged Attacks share an ICD on Anemo application with his Normal Attacks when under the effects of Bane of All Evil.
 * All of the stated Talent DMG% doesn't include the Normal Attack Modifier from Q.
 
@@ -83,7 +84,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :----------- |
 | Skill DMG \(T9%\) | 429.76%      |
 | Particles         | 3            |
-| GU                | 2B           |
+| GU                | 2U           |
 | ICD               | 7 hit / 0.1s |
 | Snapshot          | Snapshot     |
 | Damage Element    | Anemo        |
@@ -118,7 +119,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Xiao's attacks will be infused with 1GU Anemo.
-* While the effects of **Elemental Burst: Bane of All Evil** are active, the energy particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.
+* While the effects of **Elemental Burst: Bane of All Evil** are active, the Elemental Particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.
 * Xiao can keep his mask on if his Burst is canceled.
 
 </TabItem>

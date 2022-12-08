@@ -70,6 +70,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * N4 appears behind Yelan and will not go through if she is standing with her back to a wall.
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
@@ -89,7 +90,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------ | :------------------------- |
 | DMG \(T9%\)         | 38.44% Max HP              |
 | Particles           | 4 \(-\)                    |
-| GU                  | 1A                         |
+| GU                  | 1U                         |
 | ICD                 | Standard                   |
 | Snapshot            | -                          |
 | Damage Element      | Hydro                      |
@@ -121,7 +122,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Skill         | Exquisite Throw |
 | :------------- | :------------ | :-------------- |
 | DMG \(T9%\)    | 12.42% Max HP | 8.28% Max HP ×3 |
-| GU             | 2B            | 1A              |
+| GU             | 2U            | 1U              |
 | ICD            | 3-hit / 2.5s  | 3-hit / 2s      |
 | Snapshot       | -             | Dynamic         |
 | Damage Element | Hydro         | Hydro           |

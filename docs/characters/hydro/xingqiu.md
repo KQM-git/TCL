@@ -66,7 +66,9 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Enemies struck by Xingqiu's charged attack will be staggered or launched.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* Enemies struck by Xingqiu's Charged Attack will be staggered or launched.
+
 
 </TabItem>
 
@@ -79,7 +81,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------- | :--------------- |
 | Skill DMG (T9%) | 285.6% + 325.04% |
 | Particles       | 5 \(-\)          |
-| GU              | 1A \(x2\)        |
+| GU              | 1U \(x2\)        |
 | ICD             | None             |
 | Damage Element  | Hydro            |
 | Damage Type     | Skill            |
@@ -93,20 +95,22 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------ | :------------------ |
 | DMG Reduction (T9%) | 20% Hydro DMG + 28% |
 | Snapshot            | Snapshot            |
-| GU                  | 1A                  |
+| GU                  | 1U                  |
 | ICD                 | 2.25s               |
 | Duration            | 15s                 |
 
 **Notes**
 
-* The DMG Reduction does not take the Hydro DMG% bonus gained from Kazuha's A4 into account.
+* The DMG Reduction:
+  * Does not take the Hydro DMG Bonus% gained from Kazuha's A4 into account.
+  * Is affected by Mistsplitter's passive.
+  * Does not work for the self-damage from Burgeon.
 * Increased resistance to interruption stacks with other skills of similar effects.
-* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
-  * This occurs with the orbitals created by both Xingqiu's Skill and Burst
+* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply Hydro to enemies, even if the rain swords aren't visible.
+  * This occurs with the orbitals created by both Xingqiu's Skill and Burst.
 * Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s.
 * Using **Guhua Sword: Fatal Rainscreen** applies a very brief 1U Hydro aura onto the character.
 * EQE is about 0.5 \- 1s slower on average compared to QEE or EEQ in teams where Xingqiu's E CD gates the rotation time. See more in this [Vault Entry](../../evidence/characters/hydro/xingqiu.md#xingqiu-eqe-vs-qee).
-* The DMG Reduction is affected by Mistsplitter's passive.
 
 </TabItem>
 
@@ -118,7 +122,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute            | Burst                             |
 | :------------------- | :-------------------------------- |
 | Sword Rain DMG (T9%) | 92.26%                            |
-| GU                   | 1A                                |
+| GU                   | 1U                                |
 | ICD                  | 3 hit / 2.5s                      |
 | Snapshot             | Dynamic                           |
 | Damage Element       | Hydro                             |

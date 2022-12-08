@@ -13,11 +13,11 @@ search: false
 
 * Frame data - [Kolibri\#7675](https://docs.google.com/spreadsheets/d/1z0v3NT1o1iNrVppT_S0C542YDo6jhdKShLcPsnavfO8/edit?usp=sharing)
 * Gauges
-  * Skill Initial: 1A - [kxmndz#4700](https://youtu.be/ZR15KAix-kg)
-  * Skill Pirouette: 1A - [kxmndz#4700](https://youtu.be/XBOk6cE5B5A)
-  * Skill Sword Dance: 1A - [kxmndz#4700](https://youtu.be/se3VJP0jVG8)
-  * Burst 1st Hit: 1A - [kxmndz#4700](https://youtu.be/kAlX3Lz5lYY)
-  * Burst 2nd Hit: 1A - [kxmndz#4700](https://youtu.be/5T03ECdN2fc)
+  * Skill Initial: 1U - [kxmndz#4700](https://youtu.be/ZR15KAix-kg)
+  * Skill Pirouette: 1U - [kxmndz#4700](https://youtu.be/XBOk6cE5B5A)
+  * Skill Sword Dance: 1U - [kxmndz#4700](https://youtu.be/se3VJP0jVG8)
+  * Burst 1st Hit: 1U - [kxmndz#4700](https://youtu.be/kAlX3Lz5lYY)
+  * Burst 2nd Hit: 1U - [kxmndz#4700](https://youtu.be/5T03ECdN2fc)
 * ICD
   * Skill Tranquility Aura: 4-hit/1.9s - [Trosalio#0420](https://www.youtube.com/watch?v=DzMtLDZI4OM)
 * Snapshotting
@@ -26,8 +26,8 @@ search: false
 ## Attack Mechanics
 
 ## Skill Mechanics
-* Nilou Skill generates particles on all 4 hits of her skill combo, initiating skill may give 1-2, rest give 1, for a total of 4-5 particles per skill.
-Additionally, Sword Dance attacks from ending the skill combo with NA do not generate particles, neither does Tranquility Aura making enemies Wet - [Alpha Flyte#2031](https://youtu.be/LMMrcmpUBg8)
+* Nilou Skill generates Particles on all 4 hits of her Skill combo, initiating Skill may give 1-2, rest give 1, for a total of 4-5 Particles per Skill.
+Additionally, Sword Dance attacks from ending the Skill combo with NA do not generate Particles, neither does Tranquility Aura making enemies Wet - [Alpha Flyte#2031](https://youtu.be/LMMrcmpUBg8)
 
 ### Nilou Entering Both Skill Stances
 
@@ -41,7 +41,7 @@ Additionally, Sword Dance attacks from ending the skill combo with NA do not gen
 * Initial Skill hit, Whirling Steps, Sword Dance, and Sword Dance hits outside Pirouette state can all proc Sacrificial Sword's passive.
 
 **Evidence:**
-[Youtube](https://youtu.be/sSvvg-SaEz0)
+[YouTube](https://youtu.be/sSvvg-SaEz0)
 
 **Significance:**  
 Further understanding of Nilou's Skill.  
@@ -57,13 +57,13 @@ Further understanding of Nilou's Skill.
 Nilou's E cooldown starts on initial cast, but the infusion duration does not start until the 3rd slash.
 
 **Evidence:**
-[Youtube](https://youtu.be/1wWaDfDkano)
+[YouTube](https://youtu.be/1wWaDfDkano)
 
 **Significance:** 
 Smoother Vape Nilou rotations.
 1. Q can be used before the 3rd slash so that it does not eat into E infusion uptime.
-2. Since the first 3 hits (E n2) are technically not part of her infusion duration, Key can be fully stacked by slowing down the opening n2 to account for Key's 0.3s stack CD, allowing for maximum Q vape damage.
-3. Using the E n2 Q n1 combo, Nilou's c4 buffs the 2nd Q hit without taking away from infusion uptime.
+2. Since the first 3 hits (E N2) are technically not part of her infusion duration, Key can be fully stacked by slowing down the opening N2 to account for Key's 0.3s stack CD, allowing for maximum Q vape damage.
+3. Using the E N2 Q N1 combo, Nilou's c4 buffs the 2nd Q hit without taking away from infusion uptime.
 
 ### Nilou Tranquility Aura Counts as 0 DMG Hit
 
@@ -136,13 +136,13 @@ Nilou is not effective as a miner nor a Geo shield breaker, certain effects that
 [Discussion](https://tickets.deeznuts.moe/transcripts/nilou-basic-mechanics-1030419980577153094)  
 
 **Finding:** 
-E N2 Q N1 allows particle pre-funneling.
+E N2 Q N1 allows Particle pre-funneling.
 
 **Evidence:**
 [YouTube](https://youtu.be/LUo5HcADJVw)
 
 **Significance:** 
-Opening rotation particle efficiency, allows C4 Energy refund to be used on the opening rotation.
+Opening rotation Particle efficiency, allows C4 Energy refund to be used on the opening rotation.
 
 ## Burst Mechanics
 

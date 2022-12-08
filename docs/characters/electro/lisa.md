@@ -35,10 +35,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 67.32%    | 30     | 134.64%/s | 1A  | 6.75         | 1            |
-| 2-Hit         | 61.06%    | 20     | 183.18%/s | 1A  | 6            | 1            |
-| 3-Hit         | 72.76%    | 34     | 128.40%/s | 1A  | 7.35         | 1            |
-| 4-Hit         | 93.43%    | 57     | 98.35%/s  | 1A  | 8.7          | 1            |
+| 1-Hit         | 67.32%    | 30     | 134.64%/s | 1U  | 6.75         | 1            |
+| 2-Hit         | 61.06%    | 20     | 183.18%/s | 1U  | 6            | 1            |
+| 3-Hit         | 72.76%    | 34     | 128.40%/s | 1U  | 7.35         | 1            |
+| 4-Hit         | 93.43%    | 57     | 98.35%/s  | 1U  | 8.7          | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -46,7 +46,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9% | Frames | MV/s      | GU  | ICD  | Poise Damage | Impulse Type |
 | :------------- | :-------- | :----- | :-------- | :-- | :--- | :----------- | :----------- |
-| Charged Attack | 301.1%    | 91     | 198.53%/s | 1A  | 0.5s | 15           | 3            |
+| Charged Attack | 301.1%    | 91     | 198.53%/s | 1U  | 0.5s | 15           | 3            |
 
 </div>
 <div class='talent-columns'>
@@ -62,8 +62,9 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
-* 3 hits / 2.5s ICD, shared with tap elemental skill.
+* 3 hits / 2.5s ICD, shared with tap Elemental Skill.
 
 </TabItem>
 
@@ -76,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------------------- | :------------------------------------------- |
 | Skill DMG \(T9%\) | 136%                                   | 544% / 625.6% / 720.8% / 828.24%             |
 | MV/s \(T9%\)      | 388.57%/s                              | 281.38%/s / 323.59%/s / 372.83%/s / 428.4%/s |
-| GU                | 1A                                     | 2B                                           |
+| GU                | 1U                                     | 2U                                           |
 | ICD               | 3 hits / 2.5s <br/> \(Shared with NA\) | None                                         |
 | Particles         | -                                      | 5 \(-\)                                      |
 | Damage Element    | Electro                                | Electro                                      |
@@ -92,7 +93,7 @@ import Skill from '@site/src/components/char/Skill'
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
   * This means in tight enough groups, it can apply all 3 stacks in a single Press E.
   * **Conductive** stacks last 15s with independent timers. Beyond 3 **Conductive** stacks, additional applications will refresh the stack(s) with the least remaining duration.
-  * As **Conductive** stacks are an enemy attribute, multiple players using Lisa in co-op share **Conductive** stacks consumption and stacking.
+  * As **Conductive** stacks are an enemy attribute, multiple players using Lisa in Co-op share **Conductive** stacks consumption and stacking.
 * The hitbox of Lisa's Hold E is a cylinder with the following dimensions/attributes:
   * Its Radius is indicated by its VFX and mobs' centers have to be inside said radius in order to take damage.
   * Its Height/Depth is either unlimited or absurdly large. This is difficult to properly quantize.
@@ -115,7 +116,7 @@ import Skill from '@site/src/components/char/Skill'
 | Discharge DMG \(T9%\) | 62.15% \* 29                 |
 | Tick Rate             | 0.5s                         |
 | MV/s                  | 102.4%/s                     |
-| GU                    | 1A                           |
+| GU                    | 1U                           |
 | ICD                   | 3 hits / 2.5s                |
 | Damage Element        | Electro                      |
 | Damage Type           | Burst                        |
@@ -132,7 +133,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Lightning Rose** has an unlisted instance of damage on initial summon
   * Summon damage is 10% at all talent levels.
   * Summon damage does not apply an Electro Aura.
-  * Summon damage does not apply the DEF shred from **Static Electricity Field** \(A4\).
+  * Summon damage does not apply the DEF Shred from **Static Electricity Field** \(A4\).
 * Enemy targeting seems fully randomized between all opponents in-range.
 * Discharges from **Lightning Rose** have a small AoE on impact. In tight enemy groups, a lightning bolt can deal damage to multiple enemies at once.
 * The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/attributes:
@@ -172,7 +173,7 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * This only applies to the Hold E variant.
-* This summons a single special particle that only provides energy if Lisa is on field.
+* This summons a single special Particle that only provides Energy if Lisa is on field.
 
 </TabItem>
 

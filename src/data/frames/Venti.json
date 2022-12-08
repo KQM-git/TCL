@@ -3,49 +3,49 @@
         "name": "N1",
         "release": [17, 27],
         "hitlag": 0,
-        "default": 30
+        "next_na": 30
     }, 
     {
         "name": "N2",
         "release": 19,
         "hitlag": 0,
-        "default": 38
+        "next_na": 38
     },
     {
         "name": "N3",
         "release": 28,
         "hitlag": 0,
-        "default": 33
+        "next_na": 33
     },
     {
         "name": "N4",
         "release": [15, 28],
         "hitlag": 0,
-        "default": 31
+        "next_na": 31
     },
     {
         "name": "N5",
         "release": 17,
         "hitlag": 0,
-        "default": 22
+        "next_na": 22
     },
     {
         "name": "N6",
         "release": 49,
         "hitlag": 0,
-        "default": 98
+        "next_na": 98
     }],
     "CA": [{
         "name": "CA (Physical)",
         "release": 15,
         "hitlag": 0,
-        "default": 23
+        "n1": 23
     },
     {
         "name": "CA (Elemental)",
         "release": 86,
         "hitlag": 0,
-        "default": 94,
+        "n1": 94,
         "notes": "Hitlag is 0.12s if it hits a weakspot"
     }],
     "Skill": [{

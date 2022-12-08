@@ -47,8 +47,8 @@ import Skill from '@site/src/components/char/Skill'
 | Type             | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type      |
 | :--------------- | :-------- | :----- | :--------- | :-- | :------------------ | :---------------- |
 | Aimed Shot       | 80.58%    | 55     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged    | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| A1 Fully Charged | 210.8%    | 60     | 210.80%/s  | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| Fully Charged    | 210.8%    | 96     | 131.75%/s  | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| A1 Fully Charged | 210.8%    | 60     | 210.80%/s  | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -65,6 +65,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
@@ -80,7 +81,7 @@ import Skill from '@site/src/components/char/Skill'
 | ATK Bonus Ratio \(T9%\) | 73.03%   |
 | ATK Bonus Duration      | 6s       |
 | Particles               | 3        |
-| GU                      | 1A       |
+| GU                      | 1U       |
 | ICD (hits/timer)        | None     |
 | Snapshot                | Snapshot |
 | Damage Element          | Electro  |
@@ -119,7 +120,7 @@ import Skill from '@site/src/components/char/Skill'
 | :----------------------- | :--------------------------------------- |
 | Titanbreaker DMG \(T9%\) | 696.32%                                  |
 | Stormcluster DMG \(T9%\) | 58% (each)                               |
-| GU                       | 1A                                       |
+| GU                       | 1U                                       |
 | ICD (hits/timer)         | 3 hit/2.5s                               |
 | Snapshot                 | Snapshot                                 |
 | Damage Element           | Electro                                  |
@@ -136,10 +137,10 @@ import Skill from '@site/src/components/char/Skill'
 * The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel.
 * **Titanbreaker** and **Stormcluster** do not share ICDs.
 * Both **Titanbreaker** and **Stormcluster** damage is snapshot on **Subjugation: Koukou Sendou** cast.
-* For Sara's ATK bonus to apply, a character needs to be hit by **Titanbreaker** or **Stormclusters**.
+* For Sara's ATK Bonus to apply, a character needs to be hit by **Titanbreaker** or **Stormclusters**.
   * Multiple characters can be buffed this way.
 * **Titanbreaker** targets closest enemy, then **Stormcluster** moves outward in a plus-shape with one branch directed at Sara’s location at time of cast, dealing 5 hits each.
-* **Subjugation: Koukou Sendou** does not benefit from its own attack bonus.
+* **Subjugation: Koukou Sendou** does not benefit from its own ATK Bonus.
 
 </TabItem>
 </Tabs>
@@ -190,14 +191,14 @@ import Constellation from '@site/src/components/char/Constellation'
 | Type         | Talent 9%       |
 | :----------- | :-------------- |
 | DMG          | 213.79% \* 0.3  |
-| GU           | 1A              |
+| GU           | 1U              |
 | Damage Type  | Elemental Skill |
 | Poise Damage | 30              |
 | Impulse Type | 3               |
 
 **Notes**
 
-* The **Weaker Crowfeather** applies 1A Electro and has separate ICD from **Tengu Stormcall**.
+* The **Weaker Crowfeather** applies 1U Electro and has separate ICD from **Tengu Stormcall**.
 * **Weaker Crowfeather** snapshots upon **Tengu Stormcall** cast.
 * The **Weaker Crowfeather** formed can trigger the effects of Sara's A4.
 

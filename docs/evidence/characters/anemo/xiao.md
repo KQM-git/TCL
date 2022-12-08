@@ -24,7 +24,7 @@ The difference between initiating a low plunge from the jet combo \(N1CJP\) is l
 
 **Evidence:**
 
-[https://imgur.com/fuC3rSh](https://imgur.com/fuC3rSh)
+[YouTube](https://imgur.com/fuC3rSh)
 
 **Significance:**
 
@@ -40,7 +40,7 @@ Xiao's vertical displacement is super quick. If you want to do the jet combo, yo
 [Discussion](https://tickets.deeznuts.moe/transcripts/xiao-e-plunge)
 
 **Bug:**  
-Xiao's skill can allow him to plunge, even below jump level
+Xiao's Skill can allow him to plunge, even below jump level.  
 
 **Evidence:**  
 [YouTube](https://youtu.be/Dc6WEuvp4JE)
@@ -86,8 +86,8 @@ Xiao’s plunge does not hit enemies within Venti’s ult. When it does it’s w
 
 **Evidence:**
 
-[https://imgur.com/a/QpaSIns ](https://imgur.com/a/QpaSIns)
+[YouTube](https://imgur.com/a/QpaSIns)
 
 **Significance:**
 
-Players should try to time Xiao’s ult to when an enemy hits the floor so the enemy may receive dmg from it. Random plunge ATKs most likely will NOT hit the enemies. Also players can save their primogems if they were planning to roll for Venti for plans of CC for Xiao. If you are running both Venti and Xiao then alternate ults as you go. When Xiao's Q is up then Venti's isn't and vice versa.
+Players should try to time Xiao’s ult to when an enemy hits the floor so the enemy may receive DMG from it. Random plunge ATKs most likely will NOT hit the enemies. Also players can save their primogems if they were planning to roll for Venti for plans of CC for Xiao. If you are running both Venti and Xiao then alternate ults as you go. When Xiao's Q is up then Venti's isn't and vice versa.

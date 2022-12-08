@@ -63,6 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Optimal damage is a 4-hit cancel when hitting all targets or 3-hit cancel when the fourth hit won't hit all enemies.
 * Noelle is able to perform dragonstrike, but because of her model, it's difficult to perform by hand without movement speed buffs. However, the characters that increase movement speed do not synergize well with Noelle in normal play. Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% increase in DPS compared to N3D.
 
@@ -131,7 +132,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Noelle's infused Normal and Charged Attacks apply 1GU and have standard 3 hit / 2.5s ICD.
-* The DEF to ATK conversion is snapshotted when you activate burst so any changes to DEF after burst is used will not affect ATK.
+* The DEF to ATK conversion is snapshotted when you activate Burst so any changes to DEF after Burst is used will not affect ATK.
 * The two activation damage instances can proc the healing effect from **Breastplate**.
 
 </TabItem>
@@ -211,7 +212,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* C4 shares ICD with Noelle's elemental skill damage.
+* C4 shares ICD with Noelle's Elemental Skill damage.
 * The damage from **To Be Cleaned** is calculated using Noelle’s current attack at the moment the shield breaks.
 
 </TabItem>
@@ -225,7 +226,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Noelle can extend her burst duration at C6 to maximum by being off field at the time it is supposed to expire
+* Noelle can extend her Burst duration at C6 to maximum by being off field at the time it is supposed to expire
 * The bonus DEF conversion from **Must Be Spotless** is additive (i.e. it takes the bonus from 56% DEF to 106% DEF at talent level 6).
 
 </TabItem>

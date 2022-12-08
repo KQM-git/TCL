@@ -46,7 +46,7 @@ import Skill from '@site/src/components/char/Skill'
 | Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
 | :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
 | Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1U  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -62,8 +62,9 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Both Poise Damage and Impulse Type are the same for regular Normal Attacks and Normal Attacks during **Rushing Ice** state.
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* Both Poise Damage and Impulse Type are the same for regular Normal Attacks and Normal Attacks during **Rushing Ice** state.
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
@@ -78,7 +79,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 301.92%     | 68%                 |
 | Particles         | 5 \(-\)     | -                   |
 | Frames            | 67          | -                   |
-| GU                | 1A          | 1A                  |
+| GU                | 1U          | 1U                  |
 | ICD               | -           | 3 hits / 2.5s       |
 | Snapshot          | Snapshot    | Snapshot            |
 | Damage Element    | Cryo        | Cryo                |
@@ -116,7 +117,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst    |
 | :---------------- | :------- |
 | Skill DMG \(T9%\) | 610.64%  |
-| GU                | 2B       |
+| GU                | 2U       |
 | ICD               | -        |
 | Snapshot          | Snapshot |
 | Damage Element    | Cryo     |

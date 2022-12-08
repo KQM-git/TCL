@@ -59,6 +59,11 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
+
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -70,7 +75,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Skill DMG \(T9%\) | 248.88%     |
 | Particles         | 3~4 \(3:2\) |
-| GU                | 1A          |
+| GU                | 1U          |
 | ICD               | -           |
 | Snapshot          | -           |
 | Damage Element    | Pyro        |
@@ -84,7 +89,7 @@ import Skill from '@site/src/components/char/Skill'
 | Shield DMG Absorption \(T9%\)     | 12.24% Max HP + 1410 |
 | Max Shield DMG Absorption \(T9%\) | 33.32% Max HP + 3838 |
 | Shield Element                    | Pyro                 |
-| Shield Duration                   | 8 s                  |
+| Shield Duration                   | 8s                   |
 | CD                                | 15s                  |
 
 </div>
@@ -104,7 +109,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Skill         | Fiery Collapse |
 | :---------------- | :------------ | :------------- |
 | Skill DMG \(T9%\) | 149.6%        | 98.6%          |
-| GU                | 2B            | 1A             |
+| GU                | 2U            | 1U             |
 | ICD               | 3 hits / 2.5s | 3 hits / 2.5s  |
 | Snapshot          | Dynamic       | Dynamic        |
 | Damage Element    | Pyro          | Pyro           |

@@ -8,15 +8,17 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * All character stats except for HP (including buffs)
 * Resistance Shred
 * Construct HP
+* Consumption of Ningguang's [Star Jades](../../../characters/geo/ningguang.md#attacks) to produce projectiles.
 
 ## Server side
 
 * Damage and hits
 * Character and enemy HP
 * All enemy stats
-* Energy particles and character energy
+* Elemental Particles and character Energy
 * Stamina
 * Weapon stacks
+* Ningguang's [Star Jade](../../../characters/geo/ningguang.md#attacks) creation.
 
 ## High Ping Interactions
 
@@ -24,7 +26,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * Both player and enemy are granted immortality whilst under high ping but the HP bar will be updated once switched back to normal latency.
   * This can lead to Bennett's Burst ignoring the HP threshold or Albedo's A1 not benefitting from enemies being below 50% HP.
 * Energy is not produced under high ping but will be generated when ping returns to normal.
-* AA energy source is not refunded when back to low latency.
+* AA Energy source is not refunded when back to low latency.
 * Energy is not consumed when under high ping.
 * When enemy is aggro-ed by player before high latency, it will remain aggressive.
 * When enemy is aggro-ed during high latency, it will remain passive for the duration of high latency state.
@@ -39,7 +41,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * For conditional weapon passives (Lion's Roar, Dragon's Bane), if condition is true, the passive will be added into the damage calculation.
 * On-hit passives (Flute), sacrificial/favonius weapons cannot trigger under high latency, but Aquila Favonia seems to still work.
 * Taunts behave normally under high latency.
-* Geo construct HP work normally.
+* Geo Constructs HP work normally.
 
 ## Evidence Vault
 

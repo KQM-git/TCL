@@ -46,9 +46,9 @@ import Skill from '@site/src/components/char/Skill'
 | Type                                     | Talent 9%        | Frames | MV/s       | GU  | Poise Damage             | Impulse Type          |
 | :--------------------------------------- | :--------------- | :----- | :--------- | :-- | :----------------------- | :-------------------- |
 | Aimed Shot                               | 80.58%           | ?      | ?          | -   | 10 \(Headshot: 30\)      | 2 \(Headshot: 5\)     |
-| Charge Level 1                           | 210.8%           | 94     | 134.55%/s  | 1A  | 20 \(Headshot: 60\)      | 2 \(Headshot: 5\)     |
-| Wreath Arrow + Clusterbloom Arrow        | 148.24% + 65.62% | 183    | 70.12%/s   | 1A  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
-| Wreath Arrow + Clusterbloom Arrow (in E) | 148.24% + 65.62% | 41     | 312.97%/s  | 1A  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
+| Charge Level 1                           | 210.8%           | 94     | 134.55%/s  | 1U  | 20 \(Headshot: 60\)      | 2 \(Headshot: 5\)     |
+| Wreath Arrow + Clusterbloom Arrow        | 148.24% + 65.62% | 183    | 70.12%/s   | 1U  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
+| Wreath Arrow + Clusterbloom Arrow (in E) | 148.24% + 65.62% | 41     | 312.97%/s  | 1U  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
 
 </div>
 <div class='talent-columns'>
@@ -63,6 +63,8 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes**  
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
@@ -76,7 +78,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-----------------------  | :-------------------------- |
 | DMG \(T9%\)               | 254.32%                     |
 | Particles                 | 3~4 \(1:1\)                 |
-| GU                        | 1A                          |
+| GU                        | 1U                          |
 | ICD                       | None                        | 
 | Snapshot                  | Snapshot                    |
 | Damage Element            | Dendro                      |
@@ -98,7 +100,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Primary         | Secondary       |
 | :---------------- | :-------------- | :-------------- |
 | DMG \(T9%\)       | 94.55%          | 115.57%         |
-| GU                | 1A              | 1A              |
+| GU                | 1U              | 1U              |
 | ICD               | 3 hits / 2.5s   | 3 hits / 2.5s   |
 | Snapshot          | Snapshot        | Dynamic         |
 | Damage Element    | Dendro          | Dendro          |

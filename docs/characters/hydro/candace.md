@@ -56,7 +56,9 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes:**
-* N2 is a blunt attack
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* N2 is a blunt attack.
   
 </TabItem>
 
@@ -70,7 +72,7 @@ import Skill from '@site/src/components/char/Skill'
 | DMG \(T9%\)               | 20.4% Max HP         | 32.37% Max HP        |
 | Shield DMG Absorption     | 20.4% \+ 2349 Max HP | 20.4% \+ 2349 Max HP |
 | Particles                 | 2 \(-\)              | 3 \(-\)              |
-| GU                        | 1A                   | 1A                   |
+| GU                        | 1U                   | 1U                   |
 | ICD                       | None                 | None                 |
 | Snapshot                  | Dynamic              | Dynamic              |
 | Damage Element            | Hydro                | Hydro                |
@@ -82,7 +84,7 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes:**
-* Tap and hold E are blunt. Tap E can shatter but hold E doesn't shatter despite it being blunt.
+* Tap and hold E are blunt. Tap E can Shatter but hold E doesn't Shatter despite it being blunt.
 * The counter has no startup, it is active as soon as the UI greys out.
   
 </TabItem>
@@ -97,7 +99,7 @@ import Skill from '@site/src/components/char/Skill'
 | DMG \(T9%\)       | 11.24% Max HP | 11.24% Max HP |
 | DMG Bonus         | 20%           | -             |
 | Instances         | -             | 3             |
-| GU                | 1A            | 1A            |
+| GU                | 1U            | 1U            |
 | ICD               | None          | None          |
 | Snapshot          | Dynamic       | Dynamic       |
 | Damage Element    | Hydro         | Hydro         |

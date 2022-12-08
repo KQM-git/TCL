@@ -59,6 +59,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -70,7 +74,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------- | :------- | :------------ |
 | DMG \(T9%\)    | 221.68%  | 266.56%       |
 | Particles      | 3 \(\-\) | 1~2 \(1:2\)   |
-| GU             | 1A       | 1A            |
+| GU             | 1U       | 1U            |
 | ICD            | 0.2s     | None          |
 | Snapshot       | Dynamic  | Dynamic       |
 | Damage Element | Electro  | Electro       |
@@ -91,7 +95,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | Attribute      | Burst         |
 | :------------- | :------------ |
-| GU             | 1A            |
+| GU             | 1U            |
 | ICD            | 3 hit / 2.5s  |
 | Snapshot       | Dynamic       |
 | Damage Element | Electro       |

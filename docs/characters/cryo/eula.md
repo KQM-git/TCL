@@ -65,6 +65,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -76,7 +80,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- | :---------- | :------------- |
 | Skill DMG \(T9%\) | 248.88%     | 417.52%     | 163.2%         |
 | Particles         | 1~2 \(1:1\) | 2~3 \(1:1\) | -              |
-| GU                | 1A          | 1A          | 1A             |
+| GU                | 1U          | 1U          | 1U             |
 | ICD               | None        | None        | 3 hits / 2.5s  |
 | Snapshot          | -           | -           | -              |
 | Damage Element    | Cryo        | Cryo        | Cryo           |
@@ -92,7 +96,7 @@ import Skill from '@site/src/components/char/Skill'
 | DEF Bonus                 | 30% per stack |
 | Phys RES Decrease \(T9%\) | 24%           |
 | Cryo Res Decrease \(T9%\) | 24%           |
-| RES Decrease Duration     | 7s per stack  |
+| RES Decrease Duration     | 7s            |
 | Grimheart Duration        | 18s           |
 
 **Notes**
@@ -112,7 +116,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)                | 417.52%       | -               |
 | Lightfall Sword Base DMG \(T9%\) | -             | 674.34%         |
 | DMG Per Stack \(T9%\)            | -             | 137.78%         |
-| GU                               | 2B            | None            |
+| GU                               | 2U            | None            |
 | ICD                              | None          | None            |
 | Snapshot                         | Dynamic       | Dynamic         |
 | Damage Element                   | Cryo          | Physical        |
@@ -132,10 +136,10 @@ import Skill from '@site/src/components/char/Skill'
 * **Glacial Illumination** does not snapshot.
   * **Lightfall Sword** is still updating live stats when it lights up and is about to explode.
   * Lightfall stacks cannot be gained once **Lightfall Sword** lights up right before exploding.
-  * **Lightfall Sword** does not snapshot even after Eula is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage.
+  * **Lightfall Sword** does not snapshot even after Eula is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her Burst's damage.
     * Buffs that work for **Lightfall Sword** under her Alt-Swap + LFS timer include Rosaria A4, Bennett Burst, 4NO, Lisa A4, Shenhe A4, TTDS, and Zhongli shred.
-  * Rosaria's [**Shadow Samaritan**](rosaria.md#ascension-passives) \(A4\), does not consistently last to the end of Eula's burst when immediately activated before Eula's burst.
-* **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast.
+  * Rosaria's [**Shadow Samaritan**](rosaria.md#ascension-passives) \(A4\), does not consistently last to the end of Eula's Burst when immediately activated before Eula's Burst.
+* **Glacial Illumination**'s cooldown and Energy is reset at hitmark, not cast.
 * **Glacial Illumination** cast and **Lightfall Sword** are both considered blunt attacks
 * The duration of **Glacial Illumination** cannot be increased by hitlag.
 * **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.

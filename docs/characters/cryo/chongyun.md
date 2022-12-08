@@ -64,6 +64,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Normal Attack ICD is 3 hits / 2.5s, shared with Charged Attacks.
 * Charged Attack ICD is 3 hits / 2.5s, shared with Normal Attacks.
 
@@ -78,8 +79,8 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Skill DMG \(T9%\) | 292.47%     |
 | MV/s \(T9%\)      | 307.86%/s   |
-| Cast GU           | 2B          |
-| Infused Attack GU | 1A          |
+| Cast GU           | 2U          |
+| Infused Attack GU | 1U          |
 | Particles         | 4 \(-\)     |
 | ICD               | None        |
 | Snapshot          | Snapshot    |
@@ -108,7 +109,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :----------- |
 | Skill DMG \(T9%\) | 242.08% \* 3 |
 | MV/s \(T9%\)      | 322.77%/s    |
-| GU                | 1A per hit   |
+| GU                | 1U per hit   |
 | ICD               | None         |
 | Snapshot          | Dynamic      |
 | Damage Element    | Cryo         |
@@ -158,7 +159,7 @@ import Passive from '@site/src/components/char/Passive'
 
 * The **Spirit Blade** is considered Elemental Skill damage.
 * The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.
-* No ICD on elemental application
+* No ICD on Elemental application
 
 </TabItem>
 </Tabs>

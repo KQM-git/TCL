@@ -62,6 +62,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * It is possible to dragon strike with N1C.
 * When swapping out of CA, it's slightly faster to N1 cancel into a swap than doing it normally.
 
@@ -105,7 +106,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Fudou Style Vacuum Slugger | Windmuster Iris  |
 | :------------- | :------------------------- | :--------------- |
 | DMG \(T9%\)    | 534.97%                    | 36.48%           |
-| GU             | 1U                         | 1A               |
+| GU             | 1U                         | 1U               |
 | ICD            | None                       | None             |
 | Snapshot       | Snapshot                   | Snapshot         |
 | Damage Element | Anemo                      | Absorbed Element |

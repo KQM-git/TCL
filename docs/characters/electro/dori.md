@@ -55,6 +55,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -66,7 +70,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-----------------------  | :----------- | :------------------------ |
 | DMG \(T9%\)               | 250.38%      | 53.65                     |
 | Particles                 | 2 \(-\)      | -                         |
-| GU                        | 1A           | 1A                        |
+| GU                        | 1U           | 1U                        |
 | ICD                       | 3 hit / 2.5s | 3 hit / 2.5s              |
 | Snapshot                  |              |                           |
 | Damage Element            | Electro      | Electro                   |
@@ -93,8 +97,8 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------------- | :------------------- |
 | Connector DMG \(T9%\) | 27%                  |
 | Healing \(T9%\)       | 11.34% Max HP + 1305 |
-| Connector GU          | 1A                   |
-| Self GU               | 1A                   |
+| Connector GU          | 1U                   |
+| Self GU               | 1U                   |
 | ICD                   | 3s                   |
 | Snapshot              |                      |
 | Damage Element        | Electro              |
@@ -109,7 +113,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-- Dori's burst tether connects to and applies to all nearby players in multiplayer
+- Dori's Burst tether connects to and applies to all nearby players in multiplayer
 
 </TabItem>
 </Tabs>
@@ -139,7 +143,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-- Dori's A4 directly scales with Energy Recharge, and does not require increments of 100% to increase the amount of energy restored.
+- Dori's A4 directly scales with Energy Recharge, and does not require increments of 100% to increase the amount of Energy restored.
 
 </TabItem>
 </Tabs>
@@ -158,8 +162,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-- C2 and burst ICD are separate
-- C2 is not burst damage
+- C2 and Burst ICD are separate
+- C2 is not Burst damage
 
 </TabItem>
 

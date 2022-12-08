@@ -1,0 +1,76 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "next_na": 25,
+        "ca": 37
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 12,
+        "hitlag": 0.03,
+        "next_na": 42,
+        "ca": 43
+    },
+    {
+        "name": "N3",
+        "hitmark": 31,
+        "hitlag": 0.06,
+        "next_na": 73,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": [16, 27],
+        "hitlag": [0, 0.06],
+        "n1": 57,
+        "skill": 34,
+        "burst": 34,
+        "walk": 49,
+        "dash": 27,
+        "jump": 27,
+        "swap": 29
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 32,
+        "n1": 41,
+        "skill": 42,
+        "burst": 43,
+        "walk": 42,
+        "dash": 42,
+        "jump": 43,
+        "swap": 41,
+        "cd": 19,
+        "notes": [
+            "Night Stars appear: 107f (1.78s), 196f (3.26s), 284f (4.73s), 373f (6.22s)",
+            "Gadget spawn (shield appears & self-applies Cryo): 379f (6.32s) cumulatively / 6f after the 4th Night Star appears",
+            "Shooting Stars release: 412f (6.86s), 438f (7.30s), 465f (7.75s), 492f (8.20s) cumulatively / 33f, 59f, 86f, 113f after the gadget spawns"
+        ]
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 65,
+        "skill": 66,
+        "walk": 79,
+        "dash": 67,
+        "jump": 66,
+        "swap": 65,
+        "cd": 0,
+        "energy": 6,
+        "notes": [
+            "Field start: 36f",
+            "Hit 1: 113f",
+            "Duration: 785f (13.083s) after Q is casted"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

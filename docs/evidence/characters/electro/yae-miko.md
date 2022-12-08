@@ -21,10 +21,10 @@ search: false
   * E: 3-hit/2.5s - [Video](https://youtu.be/Fs3l3rbAx3k) - Player\#2464
   * Q: None - [Video](https://clips.twitch.tv/HonestRealStapleDAESuppy-9JULfymJOB-pEYvZ) - Neptunya\#8291
 * Gauges:
-  * NA, CA, E, and Q are all 1A. - [Video](https://youtu.be/oNX1Jbak8Ao) - pai\#3602
+  * NA, CA, E, and Q are all 1U. - [Video](https://youtu.be/oNX1Jbak8Ao) - pai\#3602
 * Snapshotting:
   * E: Dynamic - [Video](https://youtu.be/mCj_j_VGHIs) - Luno\#1337
-  * Q: Dynamic - [Video](https://clips.twitch.tv/SplendidScrumptiousQueleaPeanutButterJellyTime-NbpgSpv-oqOBIgIa) - Neptunya\#8291
+  * Q: Dynamic - [Google Sheets](https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing) - Bobrokrot\#0111
 
 ## Attack Mechanics
 

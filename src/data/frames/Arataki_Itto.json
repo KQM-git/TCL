@@ -3,28 +3,28 @@
         "name": "N1",
         "hitmark": 23,
         "hitlag": 0.08,
-        "default": 42,
+        "next_na": 42,
         "ca": [50, 23]
     }, 
     {
         "name": "N2",
         "hitmark": 25,
         "hitlag": 0.08,
-        "default": 45,
+        "next_na": 45,
         "ca": [60, 27]
     },
     {
         "name": "N3",
         "hitmark": 16,
         "hitlag": 0.10,
-        "default": 53,
+        "next_na": 53,
         "ca": [67, 21]
     },
     {
         "name": "N4",
         "hitmark": 48,
         "hitlag": 0.10,
-        "default": 93,
+        "next_na": 93,
         "ca": ["N/A", 51, 52],
         "notes": ["1st CA cancel: 0 stacks", "2nd CA cancel: 1 stack/final (same for every NA except N4)"]
     }],

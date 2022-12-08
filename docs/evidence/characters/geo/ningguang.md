@@ -46,12 +46,47 @@ Ningguang produces star jades from her Normal Attack talent and sixth Constellat
 However, immediately targeting an enemy by attacking them can make the star jades swerve or take sharp turns to hit the targeted enemy. This only seems to be possible for regular star jades, as star jades generated from c6 do not seem to be able to swerve after targeting an enemy.
 
 **Evidence:**  
-[Youtube](https://youtu.be/Ngjj83gc3J4)  
+[YouTube](https://youtu.be/Ngjj83gc3J4)  
 [Imgur](https://imgur.com/wXLy7ZC) (mobile footage from Lit#1924)  
 [Imgur](https://imgur.com/MWKPuhy) (c6 star jades not swerving)
 
 **Significance:**  
 Ningguang's star jades constitute a relevant portion of her damage. Knowing how to manipulate these can potentially be helpful, and knowing how it works can mitigate damage loss from missing targets.
+
+### Star Jade Creation And Consumption
+
+**By:** an odd medium\#6288  
+**Added:** <Version date="2022-12-01" />  
+**Last tested:** <VersionHl date="2022-11-22" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/star-jade-creation-and-consumption)
+
+**Findings:**  
+1. Star Jade creation and CA Stamina deduction are server-side. The consumption of Star Jades to produce projectiles is client-side.
+2. Ningguang does not benefit from her A1 if she gains Star Jades after a certain cutoff frame from the beginning of her CA animation. This cutoff frame is dependent on the variant of CA she performs [1]. Despite this, Ningguang is still able to launch her Star Jades. [2]
+3. Ningguang's NA projectiles generate Star Jades with an ICD dependent on ping (6-10 frames on ~196ms) [3], and can be triggered twice per NA (one for each projectile) by delaying their hit times.
+   * As such, it is possible for a single NA to generate two Star Jades. [4]
+   * This is possible for all Constellations [5], however, the larger AOE from C1 makes registering hits easier.
+
+**Evidence:**  
+1. [YouTube](https://youtu.be/eUIJZH_O_e4): creation and consumption with and without an internet connection.
+2. Star Jades can be launched without benefiting from Ningguang's A1:
+   * \[1\] [Google Sheets](https://docs.google.com/spreadsheets/d/1b9VdFN5xyfgW19rSyuZfPUzDfJkc8CcSNTtZ31eP5Jg): See sheet "Star Jade Consumption (CA A1 Cutoff)".
+     * Frame for each CA variant after which A1 no longer applies:  
+       * CA Twirl: 15-16
+       * CA Left: 10
+       * CA Right: 10
+   * \[2\] [YouTube](https://www.youtube.com/watch?v=30Sw2fSPfwE): Instances of Stamina drain while in possession of Star Jades - 0:09, 0:34, 0:49.
+3. Star Jade Generation ICD:
+    * \[3\] [Google Sheets](https://docs.google.com/spreadsheets/d/1b9VdFN5xyfgW19rSyuZfPUzDfJkc8CcSNTtZ31eP5Jg): See sheet "NA Projectile ICD (Double Jade)".
+    * \[4\] [YouTube](https://youtu.be/9VY4NmX8YN8): Double Jade working on Inazuma stove, utilizing back wall for hit delay.
+    * \[5\] [YouTube](https://youtu.be/f0Q7xeWIAFg): Double Jade working as expected for C0, demonstrating that C1 AOE does not affect the ICD trigger.
+    * \[6\] [YouTube](https://youtu.be/Qhnk5-FX1Oc): Double Jade utilizing N2C in combat.
+
+**Significance:**  
+1. Better understanding of Star Jade creation and consumption and their dependence on ping.
+2. Clarifies why Stamina drain may still occur despite Ningguang being in possession of Star Jades before her CA projectile is fired [2]. As such, N1C spam is not guaranteed to be Stamina-less if her CA is cast too quickly.
+3. The low ICD can be used (situationally) to generate more than one Star Jade per NA against certain enemies. Improves the DPS of N1C and N2C combos; though it is more reliable when hitting overlapping hitboxes, or at an angle such that each Jade hit is delayed.
+   * E.g: N2C generating 3 Star Jades against a boss enemy hitbox (Aeonblight Drake). [6]
 
 ## Skill Mechanics
 
@@ -90,16 +125,16 @@ Ningguang’s E screen snapshots her stats on cast, and with Q use her personal 
 Initial gems directly from Ningguang deal 774 damage, while gems from her E screen deal only 231 damage, due to Ningguang receiving Bennett's buff after E cast and snapshot.
 
 [Video](https://www.youtube.com/watch?v=ocjfZ22VcHk) from Isu\#6867  
-Ningguang’s gems deal 129 on non crit, 203 on crit in an initial unbuffed reference cast. Ningguang receives Bennett buff, and then casts Q, losing Bennett buff after Q cast but while gems travel to target. Ningguang’s gems deal 861 on non crit, 1346 on crit despite losing Bennett buff before the gems connect.
+Ningguang’s gems deal 129 on non CRIT, 203 on CRIT in an initial unbuffed reference cast. Ningguang receives Bennett buff, and then casts Q, losing Bennett buff after Q cast but while gems travel to target. Ningguang’s gems deal 861 on non CRIT, 1346 on CRIT despite losing Bennett buff before the gems connect.
 
 [Video](https://www.youtube.com/watch?v=-xph9HrOD5U) and [Video](https://www.youtube.com/watch?v=nowih1jXLpw) from Ai\#7362  
-First video shows Ningguang’s gems deal 441 on non crit, 1076 on crit in an initial unbuffed reference cast. Ningguang casts Q, then player pauses and eats an ATK boosting food while gems are still travelling to target. Ningguang’s gems deal 441 on non crit, 1076 on crit despite the ATK boost gained before gems connect. Second video shows Ningguang’s gems deal 492 on non crit, 1202 on crit with food buff.
+First video shows Ningguang’s gems deal 441 on non CRIT, 1076 on CRIT in an initial unbuffed reference cast. Ningguang casts Q, then player pauses and eats an ATK boosting food while gems are still travelling to target. Ningguang’s gems deal 441 on non CRIT, 1076 on CRIT despite the ATK boost gained before gems connect. Second video shows Ningguang’s gems deal 492 on non CRIT, 1202 on CRIT with food buff.
 
 [Video](https://www.youtube.com/watch?v=ROCJxmSsovM) from Ai\#7362  
-First run shows Ningguang cast E at one Lost Prayers stack, and Q at two. Personal gems deal 1545 on non crit, 3771 on crit. Gems from screen deal 1481 on non crit, 3616 on crit. Second run can be skipped. Third run shows Ningguang cast E (gem damage from screen difficult to see in this run, so not used as evidence for E screen snapshotting) and then cast Q while at two Lost Prayers stacks. Ningguang gains a third Lost Prayers stack while gems are still travelling to target, but gems still deal 1545 on non crit, 3771 on crit despite the Lost Prayers stack gained before gems connect.
+First run shows Ningguang cast E at one Lost Prayers stack, and Q at two. Personal gems deal 1545 on non CRIT, 3771 on CRIT. Gems from screen deal 1481 on non CRIT, 3616 on CRIT. Second run can be skipped. Third run shows Ningguang cast E (gem damage from screen difficult to see in this run, so not used as evidence for E screen snapshotting) and then cast Q while at two Lost Prayers stacks. Ningguang gains a third Lost Prayers stack while gems are still travelling to target, but gems still deal 1545 on non CRIT, 3771 on CRIT despite the Lost Prayers stack gained before gems connect.
 
 [Video](https://www.youtube.com/watch?v=pUenM2hrNLI) and [Video](https://www.youtube.com/watch?v=GRDh0k7wF6U) from Bobrokrot\#0111  
-Both videos show Ningguang with a 100% crit rate from a fully stacked Royal Grimoire. All gems from both her screen and herself crit, despite her losing the 100% crit rate after the first crit gem connects due to how the Royal weapons series passive operates.
+Both videos show Ningguang with a 100% CRIT Rate from a fully stacked Royal Grimoire. All gems from both her screen and herself CRIT, despite her losing the 100% CRIT Rate after the first CRIT gem connects due to how the Royal weapons series passive operates.
 
 **Significance:**  
 Better rotation and team building for Ningguang surrounding setting up buffs for her E and her Q to snapshot.

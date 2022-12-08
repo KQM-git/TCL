@@ -54,6 +54,11 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 293.36%   |
 
 </div>
+
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -69,7 +74,7 @@ import Skill from '@site/src/components/char/Skill'
 | Tick Rate                                    | 1.5s              |
 | Activation Cost                              | 30% Current HP    |
 | Particles                                    | 0~1 \(55:45\)     |
-| GU                                           | 1A                |
+| GU                                           | 1U                |
 | ICD                                          | 3 hit / 2.5s      |
 | Snapshot                                     | Dynamic           |
 | Damage Element                               | Electro           |
@@ -81,7 +86,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* 45% chance to generate 1 particle on hit.
+* 45% chance to generate 1 Particle on hit.
 * Hitbox extends slightly above the visual effect.
 * Initial cast and tick damage share the same ICD
 
@@ -96,7 +101,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------------------- | :-------------------- |
 | Single Instance DMG \(T9%\) | 6.13% Max HP          |
 | Total DMG \(T9%\)           | 42.9% / 73.54% Max HP |
-| GU                          | 1A                    |
+| GU                          | 1U                    |
 | ICD                         | 3 hit / 2.5s          |
 | Snapshot                    | Snapshots             |
 | Damage Element              | Electro               |
@@ -170,8 +175,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 * Skill and C4 have different ICD.
 * C4 damage scales with Elemental Skill Damage %.
-* C4 can generate particles.
-* No cooldown for particle generation between Skill and C4.
+* C4 can generate Particles.
+* No cooldown for Particle generation between Skill and C4.
 
 </TabItem>
 

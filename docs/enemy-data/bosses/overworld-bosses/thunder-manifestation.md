@@ -16,10 +16,10 @@ Eye.
 
 | HP Threshold | Type       | Element |
 | :----------- | :--------- | :------ |
-| 75% HP       | 1 orb      | electro |
-| 50% HP       | 1 orb      | electro |
-| 25% HP       | 1 orb      | electro |
-| Death        | 1 particle | electro |
+| 75% HP       | 1 Orb      | Electro |
+| 50% HP       | 1 Orb      | Electro |
+| 25% HP       | 1 Orb      | Electro |
+| Death        | 1 Particle | Electro |
 
 ## Resistance Table
 
@@ -50,7 +50,7 @@ Eye.
 
 ## Attacks
 
-Like Specters, the Thunder Manifestation has a "Fury" bar which is initially empty. In its passive state, the Thunder Manifestation only unleashes strike probes and occasional shockwaves that increase its' fury if the player is caught in them.
+Like Specters, the Thunder Manifestation has a "Fury" bar which is initially empty. In its passive state, the Thunder Manifestation only unleashes strike probes and occasional shockwaves that increase its fury if the player is caught in them.
 
 ### While not Enraged:
 

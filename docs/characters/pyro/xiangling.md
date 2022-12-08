@@ -61,6 +61,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -72,7 +76,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :-------- |
 | Skill DMG \(T9%\) | 189.18%   |
 | Particles         | 1 per hit |
-| GU                | 1A        |
+| GU                | 1U        |
 | ICD               | None      |
 | Snapshot          | Snapshot  |
 | Damage Element    | Pyro      |
@@ -87,7 +91,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
-* Guoba self applies pyro aura when he attacks. This aura can be swirled.
+* Guoba self-applies a Pyro aura when he attacks. This aura can be Swirled.
 * Upon casting, Guoba can snapshot and benefit from 1 stack of the Crimson Witch of Flames 4-Piece Bonus.
 
 </TabItem>
@@ -100,7 +104,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | 1-Hit Swing  | 2-Hit Swing  | 3-Hit Swing  | Pyronado |
 | :---------------- | :----------- | :----------- | :----------- | :------- |
 | Skill DMG \(T9%\) | 122.4%       | 149.6%       | 186.32%      | 190.4%   |
-| GU                | 1A           | 1A           | 1A           | 1A       |
+| GU                | 1U           | 1U           | 1U           | 1U       |
 | ICD               | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s | None     |
 | Snapshot          | Dynamic      | Dynamic      | Snapshot     | Snapshot |
 | Damage Element    | Pyro         | Pyro         | Pyro         | Pyro     |

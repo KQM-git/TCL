@@ -63,7 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* All frame counts are done against Ruin Guards.
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Enemies struck by Bennett's charged attack will be staggered or launched.
 
 </TabItem>
@@ -78,7 +78,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 233.92%     | 142.8% + 156.4%        | 149.6% + 163.2% + 224.4%                                      |
 | MV/s \(T9%\)      | 269.91%/s   | 160.29%/s              | 163.61%/s                                                     |
 | Particles         | 2~3 \(3:1\) | 3 \(-\)                | 3 \(-\)                                                       |
-| GU                | 2B          | 2x 1A                  | 3x 1A                                                         |
+| GU                | 2U          | 2x 1U                  | 3x 1U                                                         |
 | ICD               | None        | None                   | None                                                          |
 | Snapshot          | Dynamic     | Dynamic                | Dynamic                                                       |
 | Damage Element    | Pyro        | Pyro                   | Pyro                                                          |
@@ -93,7 +93,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default.
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
-* When casting a Level 2 Passion Overload it will destroy one of the **Rain Swords** from Xingqiu's Elemental skill despite not dealing any damage.
+* When casting a Level 2 Passion Overload it will destroy one of the **Rain Swords** from Xingqiu's Elemental Skill despite not dealing any damage.
 * Frame counts are done against Ruin Guards.
 
 </TabItem>
@@ -106,7 +106,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst    |
 | :---------------- | :------- |
 | Skill DMG \(T9%\) | 395.76%  |
-| GU                | 2B       |
+| GU                | 2U       |
 | ICD               | None     |
 | Snapshot          | Snapshot |
 | Damage Element    | Pyro     |
@@ -124,19 +124,19 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------- | :------------------ |
 | HP Regeneration | 10.2% Max HP + 1174 |
 | ATK Bonus Ratio | 95.2% **Base ATK**  |
-| Imbue           | 1A                  |
+| Imbue           | 1U                  |
 | Duration        | 12s                 |
 
 </div>
 
 **Notes**
 
-* Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
+* Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK Bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK Bonus.
   * Additionally, **Inspiration Field**'s buff lingers for a bit after the visual of the circle fades away.
 * **Inspiration Field's** ATK Bonus and **C6: Fire Ventures With Me** Pyro DMG Bonus will apply on its own damage calculation.
-* The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
+* The bonus ATK from **Inspiration Field** ONLY scales with Bennett's Base ATK.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
-  * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
+  * This means that even when two Bennett Bursts overlap, the attack buff that was applied first will remain.
 
 </TabItem>
 </Tabs>
@@ -196,7 +196,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | :---------------- | :------------------------------------- |
 | Skill DMG \(T6%\) | 117.6% + 128.8% + 173.88%              |
 | Particles         | 3 \(-\)                                |
-| GU                | 3x 1A                                  |
+| GU                | 3x 1U                                  |
 | ICD               | 3 hits/2.5s                            |
 | Snapshot          | Dynamic                                |
 | Damage Element    | Pyro                                   |

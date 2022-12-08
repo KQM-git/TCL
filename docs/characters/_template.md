@@ -44,11 +44,11 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  | %         |        |      |              |              |
-| 2-Hit  | %         |        |      |              |              |
-| 3-Hit  | %         |        |      |              |              |
-| 4-Hit  | %         |        |      |              |              |
-| 5-Hit  | %         |        |      |              |              |
+| 1-Hit  |           |        |      |              |              |
+| 2-Hit  |           |        |      |              |              |
+| 3-Hit  |           |        |      |              |              |
+| 4-Hit  |           |        |      |              |              |
+| 5-Hit  |           |        |      |              |              |
 
 </div>
 <div class='talent-columns'>
@@ -78,7 +78,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 | Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
 | :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
 | Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged |           |        |      | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 -->
 
 </div>
@@ -118,7 +118,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 **Notes**
 
-* 
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
