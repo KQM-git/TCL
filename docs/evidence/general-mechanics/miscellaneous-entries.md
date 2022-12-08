@@ -1176,6 +1176,22 @@ Some characters can keep their weapons if you change them mid sheathing animatio
 **Significance:**  
 weapons have are in a constant state of seizure pain or pleasure.
 
+### Character Constellations Are 3D
+
+**By:** aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\#3860  
+**Added:** <Version date="2022-11-15" />  
+**Last tested:** <VersionHl date="2022-11-15" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/characters-constellations-are-3d)
+
+**Finding:**  
+Character constellations are 3D  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/-VTnl-EkYRs)  
+  
+**Significance:**  
+A pleasantly surprising discovery 😊
+
 ## Bad Device Co Op Domain Experience
 
 **By:** Casdela\#5121, aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\#3860  
