@@ -35,9 +35,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | Motion Value | GU  | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :----------- | :-- | :----------- | :----------- |
-| 1-Hit  | 122.67%   | 31     | 237.43%/s    | 1A  | 65           | 3            |
-| 2-Hit  | 106.08%   | 38     | 167.49%/s    | 1A  | 65           | 3            |
-| 3-Hit  | 152.86%   | 77     | 119.11%/s    | 1A  | 130          | 5            |
+| 1-Hit  | 122.67%   | 31     | 237.43%/s    | 1U  | 65           | 3            |
+| 2-Hit  | 106.08%   | 38     | 167.49%/s    | 1U  | 65           | 3            |
+| 3-Hit  | 152.86%   | 77     | 119.11%/s    | 1U  | 130          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -45,7 +45,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | Motion Value | GU  | ICD  | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :----------- | :-- | :--- | :----------- | :----------- |
-| CA     | 267.51%   | 58     | 276.73%/s    | 1A  | 0.5s | 180          | 8            |
+| CA     | 267.51%   | 58     | 276.73%/s    | 1U  | 0.5s | 180          | 8            |
 
 </div>
 <div class='talent-columns'>
@@ -77,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------------- | :-------- |
 | Skill DMG \(T9%\) | 161.84%                          | 55.76%    |
 | Particles         | 4 \(-\)                          | -         |
-| GU                | 1A \(1st & 2nd\)<br />2B \(3rd\) | 1A        |
+| GU                | 1U \(1st & 2nd\)<br />2U \(3rd\) | 1U        |
 | ICD               | 3 hits / 2.5s                    | Note      |
 | Snapshot          | Snapshots                        | Snapshots |
 | Damage Element    | Pyro                             | Pyro      |
@@ -108,7 +108,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------- |
 | Skill DMG \(T9%\) | 72.49%         |
 | Hits              | 22.8 (average) |
-| GU                | 1A             |
+| GU                | 1U             |
 | ICD               | 3 hits / 2.5s  |
 | Snapshot          | Snapshots      |
 | Damage Element    | Pyro           |
@@ -182,7 +182,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 | Attribute      | Chained Reactions                 |
 | -------------- | --------------------------------- |
-| GU             | 1A                                |
+| GU             | 1U                                |
 | ICD            | 3 hits / 2.5s (shared with Burst) |
 | Damage Element | Pyro                              |
 | Damage Type    | Elemental Burst                   |
@@ -213,7 +213,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 | Type              | GU  | ICD  |
 | :---------------- | :-- | :--- |
-| Sparkly Explosion | 2B  | None |
+| Sparkly Explosion | 2U  | None |
 | Poise Damage      | 120 |
 | Impulse Type      | 5   |
 

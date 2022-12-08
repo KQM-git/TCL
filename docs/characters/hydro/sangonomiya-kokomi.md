@@ -35,9 +35,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 116.24%   | 14     | 498.17%/s | 1A  | 12.82        | 1 / 3\*      |
-| 2-Hit         | 104.62%   | 30     | 209.24%/s | 1A  | 11.53        | 1 / 3\*      |
-| 3-Hit         | 160.32%   | 65     | 147.99%/s | 1A  | 17.68        | 1 / 3\*      |
+| 1-Hit         | 116.24%   | 14     | 498.17%/s | 1U  | 12.82        | 1 / 3\*      |
+| 2-Hit         | 104.62%   | 30     | 209.24%/s | 1U  | 11.53        | 1 / 3\*      |
+| 3-Hit         | 160.32%   | 65     | 147.99%/s | 1U  | 17.68        | 1 / 3\*      |
 
 </div>
 <div class='talent-columns'>
@@ -45,7 +45,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String             | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type      |
 | :----------------- | :-------- | :----- | :-------- | :-- | :----------- | :---------------- |
-| Charged Attack DMG | 252.14%   | 61     | 248.01%/s | 1A  | 100          | 1 / Air, 0, 600\* |
+| Charged Attack DMG | 252.14%   | 61     | 248.01%/s | 1U  | 100          | 1 / Air, 0, 600\* |
 
 </div>
 <div class='talent-columns'>
@@ -54,8 +54,8 @@ import Skill from '@site/src/components/char/Skill'
 | Type            | Talent 9% | GU  | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :-- | :----------- | :----------- |
 | Plunge DMG      | 104.41%   | -   | 5            | 2            |
-| Low Plunge DMG  | 208.77%   | 1A  | 50           | 3            |
-| High Plunge DMG | 260.76%   | 1A  | 100          | 4            |
+| Low Plunge DMG  | 208.77%   | 1U  | 50           | 3            |
+| High Plunge DMG | 260.76%   | 1U  | 100          | 4            |
 
 </div>
 
@@ -83,7 +83,7 @@ import Skill from '@site/src/components/char/Skill'
 | :----------------- | :----------------------- |
 | Ripple DMG \(T9%\) | 185.62%                  |
 | Particles          | 0~1 (1:2)                |
-| GU                 | 1A                       |
+| GU                 | 1U                       |
 | ICD                | None                     |
 | Snapshot           | Snapshot                 |
 | Damage Element     | Hydro                    |
@@ -120,7 +120,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst         |
 | :---------------- | :------------ |
 | Skill DMG \(T9%\) | 17.71% Max HP |
-| GU                | 2B            |
+| GU                | 2U            |
 | ICD               | None          |
 | Snapshot          | Dynamic       |
 | Damage Element    | Hydro         |

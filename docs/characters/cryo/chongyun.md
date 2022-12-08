@@ -79,8 +79,8 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Skill DMG \(T9%\) | 292.47%     |
 | MV/s \(T9%\)      | 307.86%/s   |
-| Cast GU           | 2B          |
-| Infused Attack GU | 1A          |
+| Cast GU           | 2U          |
+| Infused Attack GU | 1U          |
 | Particles         | 4 \(-\)     |
 | ICD               | None        |
 | Snapshot          | Snapshot    |
@@ -109,7 +109,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :----------- |
 | Skill DMG \(T9%\) | 242.08% \* 3 |
 | MV/s \(T9%\)      | 322.77%/s    |
-| GU                | 1A per hit   |
+| GU                | 1U per hit   |
 | ICD               | None         |
 | Snapshot          | Dynamic      |
 | Damage Element    | Cryo         |

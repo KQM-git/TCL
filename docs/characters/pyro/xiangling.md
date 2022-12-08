@@ -76,7 +76,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :-------- |
 | Skill DMG \(T9%\) | 189.18%   |
 | Particles         | 1 per hit |
-| GU                | 1A        |
+| GU                | 1U        |
 | ICD               | None      |
 | Snapshot          | Snapshot  |
 | Damage Element    | Pyro      |
@@ -104,7 +104,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | 1-Hit Swing  | 2-Hit Swing  | 3-Hit Swing  | Pyronado |
 | :---------------- | :----------- | :----------- | :----------- | :------- |
 | Skill DMG \(T9%\) | 122.4%       | 149.6%       | 186.32%      | 190.4%   |
-| GU                | 1A           | 1A           | 1A           | 1A       |
+| GU                | 1U           | 1U           | 1U           | 1U       |
 | ICD               | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s | None     |
 | Snapshot          | Dynamic      | Dynamic      | Snapshot     | Snapshot |
 | Damage Element    | Pyro         | Pyro         | Pyro         | Pyro     |

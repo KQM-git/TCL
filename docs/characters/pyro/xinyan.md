@@ -76,7 +76,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 288.32% | 57.12% \* 6 |
 | Tick Rate         | -       | 2s          |
 | Particles         | 4       | -           |
-| GU                | 1A      | 1A          |
+| GU                | 1U      | 1U          |
 | ICD               | None    | None        |
 | Snapshot          | Dynamic | Dynamic     |
 | Damage Type       | Skill   | Skill       |
@@ -110,7 +110,7 @@ import Skill from '@site/src/components/char/Skill'
 | Effect            | Burst    | DoT                            |
 | :---------------- | :------- | :----------------------------- |
 | Skill DMG \(T9%\) | 579.36%  | 68% x 7                        |
-| GU                | -        | 1A                             |
+| GU                | -        | 1U                             |
 | ICD               | -        | 3 hit / 2.5s                   |
 | Damage Type       | Burst    | Burst                          |
 | Damage Element    | Physical | Pyro                           |

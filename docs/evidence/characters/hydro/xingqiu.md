@@ -252,7 +252,7 @@ After Xingqiu's Burst ends, there is a period where you can still imbue a Hydro 
 
 **Evidence:**
 
-* [Vid 1](https://youtu.be/3UBplhXNPdc): I used XQ's Burst here. Video was left to play a bit longer to show Elemental aura gauge unit for "invisible" Hydro aura \(it is 1A\).
+* [Vid 1](https://youtu.be/3UBplhXNPdc): I used XQ's Burst here. Video was left to play a bit longer to show Elemental aura gauge unit for "invisible" Hydro aura \(it is 1U\).
 * [Vid 2](https://youtu.be/sxnnMq8ljKE): I used XQ's Skill here. Same "invisible" Hydro aura is observed as with his Burst.
 * [GIF 1](https://imgur.com/8EDEVxu): Portion of Vid 2 where XQ orbitals break, magnified. Using this clip, I counted 47 frames for Hydro Particle persistence, starting from the moment the swords blink prior to shattering, and ending at the few frames when XQ imbues Hydro on the Ruin Guard.
 * [GIF 2](https://imgur.com/cmsVCV9): Slowed down version of GIF 1. Here, the Hydro Particles are easier to observe.

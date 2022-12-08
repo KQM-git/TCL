@@ -105,7 +105,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | DoT      | Additional Elemental DMG |
 | :---------------- | :------- | :----------------------- |
 | Skill DMG \(T9%\) | 251.6%   | 74.8%                    |
-| GU                | 1U       | 1A                       |
+| GU                | 1U       | 1U                       |
 | ICD               | None     | None                     |
 | Snapshot?         | Snapshot | Snapshot                 |
 | DMG Element       | Anemo    | Absorbed Element         |

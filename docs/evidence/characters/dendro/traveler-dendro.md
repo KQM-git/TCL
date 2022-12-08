@@ -26,7 +26,7 @@ search: false
       * Without Electro Transfiguration - [Zakharov#5645](https://youtu.be/qmH4FxLHWmU)
       * With Electro Transfiguration - [Zakharov#5645](https://youtu.be/PaaM0a2eknY)
 * Gauges:
-  * E: 1A - [Puffin#9920](https://youtu.be/sUkw-tIAL2I)
+  * E: 1U - [Puffin#9920](https://youtu.be/sUkw-tIAL2I)
 * Q snapshots on cast - Bobrokrot\#0111
   * Unbuffed and buffed damage: [YouTube](https://youtu.be/qEDSHPB69rM)
   * Sara's feather buffs DMC in the middle of animation. Buff persists through entire Burst duration: [YouTube](https://youtu.be/3wVlyYkoifo)

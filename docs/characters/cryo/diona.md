@@ -50,8 +50,8 @@ import Skill from '@site/src/components/char/Skill'
 | Type             | Talent 9% | Frames | MV/s      | GU  | Poise Damage              | Impulse Type              |
 | :--------------- | :-------- | :----- | :-------- | :-- | :------------------------ | :------------------------ |
 | Aimed Shot       | 80.58%    | 23     | 210.21%/s | -   | 10 \(Headshot: 30\)       | 2                         |
-| Fully Charged    | 210.8%    | 94     | 134.55%/s | 1A  | 20 \(Headshot: 60\)       | 5                         |
-| C4 Fully Charged | 210.8%    | 58     | 218.07%/s | 1A  | <!--- not on the sheet--> | <!--- not on the sheet--> |
+| Fully Charged    | 210.8%    | 94     | 134.55%/s | 1U  | 20 \(Headshot: 60\)       | 5                         |
+| C4 Fully Charged | 210.8%    | 58     | 218.07%/s | 1U  | <!--- not on the sheet--> | <!--- not on the sheet--> |
 
 </div>
 <div class='talent-columns'>
@@ -84,7 +84,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------ | :------------------------ |
 | Skill DMG \(T9%\) | 71.26% x 2                | 71.26% x 5                |
 | Particles         | 0~1 \(1:4\) check per paw | 0~1 \(1:4\) check per paw |
-| GU                | 1A                        | 1A x 2                    |
+| GU                | 1U                        | 1U x 2                    |
 | ICD               | 3 hit / 2.5s              | 3 hit / 2.5s              |
 | Snapshot          | Snapshot                  | Snapshot                  |
 | Damage Element    | Cryo                      | Cryo                      |
@@ -103,7 +103,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Applies a 1A Cryo Aura for a short duration upon formation and upon swap to a different active character.
+* Applies a 1U Cryo Aura for a short duration upon formation and upon swap to a different active character.
 * In specific circumstances, Diona's shield will apply 2U of Cryo on swap.
   * For more details see the [full entry](../../evidence/characters/cryo/diona.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault.
 * Icy Paws will not generate a shield if they do not hit something. They will also despawn after a certain amount of time.
@@ -121,7 +121,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst |
 | :---------------- | :---- |
 | Skill DMG \(T9%\) | 136%  |
-| GU                | 1A    |
+| GU                | 1U    |
 | CD                | 20s   |
 | Energy Cost       | 80    |
 | Poise Damage      | 50    |
@@ -132,7 +132,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute        | Field               |
 | :--------------- | :------------------ |
 | Field DMG (T9%)  | 89.49%              |
-| GU               | 1A                  |
+| GU               | 1U                  |
 | ICD              | 3 hits / 2.5s       |
 | HP Regen         | 9.07% Max HP + 1044 |
 | Duration         | 12s                 |

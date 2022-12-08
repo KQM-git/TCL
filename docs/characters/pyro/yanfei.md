@@ -37,7 +37,7 @@ import Skill from '@site/src/components/char/Skill'
 | 1-Hit  | 99.18%    | 26     | 228.88%/s | 10.94        | 2            |
 | 2-Hit  | 88.61%    | 28     | 189.88%/s | 9.77         | 2            |
 | 3-Hit  | 129.22%   | 72     | 107.68%/s | 14.25        | 2            |
-| GU     | 1A        | ~      | ~         | -            | -            |
+| GU     | 1U        | ~      | ~         | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -45,10 +45,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9%             | Frames | MV/s                  | GU  | Poise Damage | Impulse Type |
 | :------------- | :-------------------- | :----- | :-------------------- | :-- | :----------- | :----------- |
-| Charged Attack | 152.34% + 26.89%/Seal | 79     | 115.70%/s             | 1A  | 120          | 3            |
-| N1C            | 251.52% + 26.89%/Seal | 100    | 164.36%/s \(1 Seal\)  | 1A  | 120          | 3            |
-| N2C            | 340.13% + 26.89%/Seal | 95     | 180.49%/s \(2 Seals\) | 1A  | 120          | 4            |
-| N3C            | 469.35% + 26.89%/Seal | 121    | 172.95%/s \(3 Seals\) | 1A  | 120          | 5            |
+| Charged Attack | 152.34% + 26.89%/Seal | 79     | 115.70%/s             | 1U  | 120          | 3            |
+| N1C            | 251.52% + 26.89%/Seal | 100    | 164.36%/s \(1 Seal\)  | 1U  | 120          | 3            |
+| N2C            | 340.13% + 26.89%/Seal | 95     | 180.49%/s \(2 Seals\) | 1U  | 120          | 4            |
+| N3C            | 469.35% + 26.89%/Seal | 121    | 172.95%/s \(3 Seals\) | 1U  | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -80,7 +80,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------- |
 | Skill DMG \(T9%\) | 288.32%  |
 | Particles         | 3 \(-\)  |
-| GU                | 1A       |
+| GU                | 1U       |
 | ICD               | None     |
 | Snapshot          | Snapshot |
 | Damage Element    | Pyro     |
@@ -107,7 +107,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)           | 310.08%      |
 | Charged Attack DMG Bonus    | 51.8%        |
 | Scarlet Seal Grant Interval | 1s           |
-| GU                          | 2B           |
+| GU                          | 2U           |
 | ICD                         | 3 hit / 2.5s |
 | Snapshot                    | Snapshot     |
 | Damage Element              | Pyro         |
@@ -153,7 +153,7 @@ import Passive from '@site/src/components/char/Passive'
 | Attribute      | Blazing Eye    |
 | -------------- | -------------- |
 | Talent %       | 80%            |
-| GU             | 1A             |
+| GU             | 1U             |
 | Damage Element | Pyro           |
 | Damage Type    | Charged Attack |
 | Poise Damage   | 50             |

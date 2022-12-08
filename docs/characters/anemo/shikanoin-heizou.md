@@ -106,7 +106,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Fudou Style Vacuum Slugger | Windmuster Iris  |
 | :------------- | :------------------------- | :--------------- |
 | DMG \(T9%\)    | 534.97%                    | 36.48%           |
-| GU             | 1U                         | 1A               |
+| GU             | 1U                         | 1U               |
 | ICD            | None                       | None             |
 | Snapshot       | Snapshot                   | Snapshot         |
 | Damage Element | Anemo                      | Absorbed Element |

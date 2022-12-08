@@ -75,7 +75,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Skill DMG \(T9%\) | 248.88%     |
 | Particles         | 3~4 \(3:2\) |
-| GU                | 1A          |
+| GU                | 1U          |
 | ICD               | -           |
 | Snapshot          | -           |
 | Damage Element    | Pyro        |
@@ -109,7 +109,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Skill         | Fiery Collapse |
 | :---------------- | :------------ | :------------- |
 | Skill DMG \(T9%\) | 149.6%        | 98.6%          |
-| GU                | 2B            | 1A             |
+| GU                | 2U            | 1U             |
 | ICD               | 3 hits / 2.5s | 3 hits / 2.5s  |
 | Snapshot          | Dynamic       | Dynamic        |
 | Damage Element    | Pyro          | Pyro           |

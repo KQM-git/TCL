@@ -14,7 +14,7 @@ search: false
 * New Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Deprecated frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1Q72fXo7XAF2dhMphwTDmsT2Kag8aVPOYhWwXo8I0l9w/edit?usp=sharing) - Sitri#9504
 * Gauges
-  * E (2B), Dash (1A), Infused Normals (1A) - [sexyeboy69#6969](https://youtu.be/LxqjepdKwAU)
+  * E (2U), Dash (1U), Infused Normals (1U) - [sexyeboy69#6969](https://youtu.be/LxqjepdKwAU)
 * Ayaka's CA does not share ICD with her NA. - [Steph#3614](https://imgur.com/0sNof3m)
 * Ranges - Greyhound#7836
   * E: [3.5m radius circle](https://www.youtube.com/watch?v=KijBkD0w00I)
@@ -122,7 +122,7 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 * Ayaka's Burst is 20 ticks of damage - [Sitri#9504](https://youtu.be/viS7Nim4yMM)
   * 19 ticks of Cutting DMG
     * which follow standard ICD rules - [Sitri#9504](https://youtu.be/0zRg5PCF7dw)
-    * which apply 1A Cryo - [Sitri#9504](https://youtu.be/obmfOaYGjis)
+    * which apply 1U Cryo - [Sitri#9504](https://youtu.be/obmfOaYGjis)
   * And 1 tick of Bloom DMG at the end
 * Ayaka's Burst snapshots. - [JenjenJL#6582](https://youtu.be/maB6T_h8Rnc)
 * Ayaka's Burst stays in place against...

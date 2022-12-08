@@ -17,7 +17,7 @@ search: false
 
 ### Basic Attributes
 
-* Gauges: E (1A), Q (1A), Falling Thunder (1A) - [Artesians#0002](https://imgur.com/DBw7Z8K)
+* Gauges: E (1U), Q (1U), Falling Thunder (1U) - [Artesians#0002](https://imgur.com/DBw7Z8K)
 
 ### MC Base ATK Buff
 

@@ -14,12 +14,12 @@ search: false
 
 * Gauges  
   * E  
-    * Cast: 1A  
-    * After-Sales Service Round: 1A  
+    * Cast: 1U  
+    * After-Sales Service Round: 1U  
   * Q  
-    * Self-application: 1A - [Video](https://imgur.com/a/D2u05xG) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
-    * Connector: 1A  
-  * C2: 1A  
+    * Self-application: 1U - [Video](https://imgur.com/a/D2u05xG) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+    * Connector: 1U  
+  * C2: 1U  
 * ICDs  
   * E - mina\#4448  
     * Cast: 3-hit/2.5s (shared with After-Sales Service Rounds) - [Video 1](https://youtu.be/ME_gbRu36zc), [Video 2](https://youtu.be/MfBSVHkc4Jk) 

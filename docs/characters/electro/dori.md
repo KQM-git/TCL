@@ -70,7 +70,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-----------------------  | :----------- | :------------------------ |
 | DMG \(T9%\)               | 250.38%      | 53.65                     |
 | Particles                 | 2 \(-\)      | -                         |
-| GU                        | 1A           | 1A                        |
+| GU                        | 1U           | 1U                        |
 | ICD                       | 3 hit / 2.5s | 3 hit / 2.5s              |
 | Snapshot                  |              |                           |
 | Damage Element            | Electro      | Electro                   |
@@ -97,8 +97,8 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------------- | :------------------- |
 | Connector DMG \(T9%\) | 27%                  |
 | Healing \(T9%\)       | 11.34% Max HP + 1305 |
-| Connector GU          | 1A                   |
-| Self GU               | 1A                   |
+| Connector GU          | 1U                   |
+| Self GU               | 1U                   |
 | ICD                   | 3s                   |
 | Snapshot              |                      |
 | Damage Element        | Electro              |

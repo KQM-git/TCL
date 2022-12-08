@@ -105,7 +105,7 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Attribute                 | Blood Blossom |
 | :------------------------ | :------------ |
 | Blood Blossom DMG \(T9%\) | 108.8%        |
-| GU                        | 1A            |
+| GU                        | 1U            |
 | ICD                       | 3 hit / 2.5s  |
 | Snapshot                  | Dynamic       |
 | Damage Element            | Pyro          |
@@ -140,7 +140,7 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Low HP Skill DMG (T9%)          | 587.93%       |
 | Skill HP Regeneration (T9%)     | 9.71% Max HP  |
 | Low HP Skill Regeneration (T9%) | 12.95% Max HP |
-| GU                              | 2B            |
+| GU                              | 2U            |
 | ICD                             | None          |
 | Snapshot                        | On Cast       |
 | Damage Element                  | Pyro          |

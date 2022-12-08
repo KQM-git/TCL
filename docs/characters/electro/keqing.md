@@ -88,7 +88,7 @@ import Skill from '@site/src/components/char/Skill'
 | Lightning Stiletto \(T9%\)      | 85.68%                                          | -                 |
 | Stiletto Mark Secondary \(T9%\) | 285.6%                                          | 142.8% x 2        |
 | Particles                       | 2~3 \(1:1\)                                     | -                 |
-| GU                              | Lightning Stiletto: 1A<br />Slashing: 2B        | 2B                |
+| GU                              | Lightning Stiletto: 1U<br />Slashing: 2U        | 2U                |
 | ICD                             | None                                            | -                 |
 | ICD Secondary                   | 3 hit / 2.5s                                    | -                 |
 | Snapshot                        | Snapshot                                        | -                 |
@@ -168,7 +168,7 @@ import Passive from '@site/src/components/char/Passive'
 
 | Type             | GU  |
 | :--------------- | :-- |
-| Electro Infusion | 1A  |
+| Electro Infusion | 1U  |
 
 **Notes**
 
@@ -198,7 +198,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | Attribute        | Skill                                   |
 | :--------------- | :-------------------------------------- |
 | Thundering Might | 50%                                     |
-| GU               | 1A                                      |
+| GU               | 1U                                      |
 | ICD              | Shared with Lightning Stiletto (recast) |
 | Damage Type      | -                                       |
 | Poise Damage     | 50                                      |

@@ -134,7 +134,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 **Last tested:** <VersionHl date="2021-06-02" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_849314783475662879_849873440848609290_transcript-bennett-c4-gauge.html)
 
-**Finding:** Bennet's C4 applies 1A of Pyro.
+**Finding:** Bennet's C4 applies 1U of Pyro.
 
 **Evidence:** [YouTube](https://www.youtube.com/watch?v=wKNDpnU_ZGg)
 

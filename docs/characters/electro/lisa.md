@@ -35,10 +35,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 67.32%    | 30     | 134.64%/s | 1A  | 6.75         | 1            |
-| 2-Hit         | 61.06%    | 20     | 183.18%/s | 1A  | 6            | 1            |
-| 3-Hit         | 72.76%    | 34     | 128.40%/s | 1A  | 7.35         | 1            |
-| 4-Hit         | 93.43%    | 57     | 98.35%/s  | 1A  | 8.7          | 1            |
+| 1-Hit         | 67.32%    | 30     | 134.64%/s | 1U  | 6.75         | 1            |
+| 2-Hit         | 61.06%    | 20     | 183.18%/s | 1U  | 6            | 1            |
+| 3-Hit         | 72.76%    | 34     | 128.40%/s | 1U  | 7.35         | 1            |
+| 4-Hit         | 93.43%    | 57     | 98.35%/s  | 1U  | 8.7          | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -46,7 +46,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9% | Frames | MV/s      | GU  | ICD  | Poise Damage | Impulse Type |
 | :------------- | :-------- | :----- | :-------- | :-- | :--- | :----------- | :----------- |
-| Charged Attack | 301.1%    | 91     | 198.53%/s | 1A  | 0.5s | 15           | 3            |
+| Charged Attack | 301.1%    | 91     | 198.53%/s | 1U  | 0.5s | 15           | 3            |
 
 </div>
 <div class='talent-columns'>
@@ -77,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------------------- | :------------------------------------------- |
 | Skill DMG \(T9%\) | 136%                                   | 544% / 625.6% / 720.8% / 828.24%             |
 | MV/s \(T9%\)      | 388.57%/s                              | 281.38%/s / 323.59%/s / 372.83%/s / 428.4%/s |
-| GU                | 1A                                     | 2B                                           |
+| GU                | 1U                                     | 2U                                           |
 | ICD               | 3 hits / 2.5s <br/> \(Shared with NA\) | None                                         |
 | Particles         | -                                      | 5 \(-\)                                      |
 | Damage Element    | Electro                                | Electro                                      |
@@ -116,7 +116,7 @@ import Skill from '@site/src/components/char/Skill'
 | Discharge DMG \(T9%\) | 62.15% \* 29                 |
 | Tick Rate             | 0.5s                         |
 | MV/s                  | 102.4%/s                     |
-| GU                    | 1A                           |
+| GU                    | 1U                           |
 | ICD                   | 3 hits / 2.5s                |
 | Damage Element        | Electro                      |
 | Damage Type           | Burst                        |

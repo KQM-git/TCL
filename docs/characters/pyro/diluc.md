@@ -78,7 +78,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 160.48%       | 165.92%       | 218.96%       |
 | MV/s \(T9%\)      | 213.97%/s     | 191.45%/s     | 162.19%/s     |
 | Particles         | 1~2 \(3:1\)   | 1~2 \(3:1\)   | 1~2 \(3:1\)   |
-| GU                | 1A            | 1A            | 1A            |
+| GU                | 1U            | 1U            | 1U            |
 | ICD               | None          | None          | None          |
 | Snapshot          | Dynamic       | Dynamic       | Dynamic       |
 | Damage Element    | Pyro          | Pyro          | Pyro          |
@@ -106,14 +106,14 @@ import Skill from '@site/src/components/char/Skill'
 
 | Attribute | Field |
 | :-------- | :---- |
-| Infuse GU | 1A    |
+| Infuse GU | 1U    |
 | Duration  | 8s    |
 
 | Attribute         | Slashing DMG                                      | DoT DMG       | Explosion DMG |
 | :---------------- | :------------------------------------------------ | :------------ | :------------ |
 | Skill DMG \(T9%\) | 346.8%                                            | 102%          | 346.8%        |
 | MV/s              | 413.63%/s                                         | -             | -             |
-| GU                | 2B                                                | 2B            | 2B            |
+| GU                | 2U                                                | 2U            | 2U            |
 | ICD               | 5 hits/5s\*                                       | 5 hits/5s\*   | 5 hits/5s\*   |
 | Snapshot          | Dynamic                                           | Snapshot      | Snapshot      |
 | Damage Element    | Pyro                                              | Pyro          | Pyro          |

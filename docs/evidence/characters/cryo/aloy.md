@@ -18,11 +18,11 @@ search: false
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
 * Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Gauges
-  * Charged Shot: 1A - [BowlSoldier#3528](https://youtu.be/pjKp7L8XtOo)
-  * Infused Normal Attacks: 1A - [Nass008#8577](https://imgur.com/NTokDRL)
-  * Frozen Wilds Cast: 1A - [BowlSoldier#3528](https://youtu.be/QM8YkStJgos)
-  * Chillwater Bomblets: 1A - [Nass008#8577](https://imgur.com/jRGCUi3)
-  * Prophecies of Dawn: 2B - [BowlSoldier#3528](https://youtu.be/pHSSun_Ec5w)
+  * Charged Shot: 1U - [BowlSoldier#3528](https://youtu.be/pjKp7L8XtOo)
+  * Infused Normal Attacks: 1U - [Nass008#8577](https://imgur.com/NTokDRL)
+  * Frozen Wilds Cast: 1U - [BowlSoldier#3528](https://youtu.be/QM8YkStJgos)
+  * Chillwater Bomblets: 1U - [Nass008#8577](https://imgur.com/jRGCUi3)
+  * Prophecies of Dawn: 2U - [BowlSoldier#3528](https://youtu.be/pHSSun_Ec5w)
 * ICD
   * Chillwater Bomblets
     * Shared ICD on Cryo application. - [BowlSoldier#3528](https://youtu.be/dR5p0D6-pp8)

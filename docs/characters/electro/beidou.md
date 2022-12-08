@@ -81,7 +81,7 @@ import Skill from '@site/src/components/char/Skill'
 | Base DMG \(T9%\)               | 206.72% | 206.72%                          |
 | DMG Bonus on Hit Taken \(T9%\) | -       | 272% \(scaling\)                 |
 | Particles                      | 2       | 2 ~ 4 \(see note\)               |
-| GU                             | 2B      | 2B                               |
+| GU                             | 2U      | 2U                               |
 | ICD                            | None    | None                             |
 | Snapshot                       | Dynamic | Dynamic                          |
 | Damage Element                 | Electro | Electro                          |
@@ -125,7 +125,7 @@ import Skill from '@site/src/components/char/Skill'
 | Burst DMG \(T9%\) | 206.72%         | 163.2%              |
 | Lightning Bounces | -               | 2                   |
 | DMG Reduction     | 32% \(scaling\) | -                   |
-| GU                | 4C              | 1A                  |
+| GU                | 4U              | 1U                  |
 | ICD               | -               | 3 hit / 2.5s        |
 | Snapshot          | Snapshot        | Snapshot            |
 | Damage Element    | Electro         | Electro             |
@@ -190,7 +190,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | Attribute      | Stunning Revenge |
 | -------------- | ---------------- |
 | Skill DMG      | 20%              |
-| GU             | 1A               |
+| GU             | 1U               |
 | ICD            | 3 hit / 2.5s     |
 | Damage Element | Electro          |
 | Damage Type    | None             |

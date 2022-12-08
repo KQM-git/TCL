@@ -78,7 +78,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 233.92%     | 142.8% + 156.4%        | 149.6% + 163.2% + 224.4%                                      |
 | MV/s \(T9%\)      | 269.91%/s   | 160.29%/s              | 163.61%/s                                                     |
 | Particles         | 2~3 \(3:1\) | 3 \(-\)                | 3 \(-\)                                                       |
-| GU                | 2B          | 2x 1A                  | 3x 1A                                                         |
+| GU                | 2U          | 2x 1U                  | 3x 1U                                                         |
 | ICD               | None        | None                   | None                                                          |
 | Snapshot          | Dynamic     | Dynamic                | Dynamic                                                       |
 | Damage Element    | Pyro        | Pyro                   | Pyro                                                          |
@@ -106,7 +106,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst    |
 | :---------------- | :------- |
 | Skill DMG \(T9%\) | 395.76%  |
-| GU                | 2B       |
+| GU                | 2U       |
 | ICD               | None     |
 | Snapshot          | Snapshot |
 | Damage Element    | Pyro     |
@@ -124,7 +124,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------- | :------------------ |
 | HP Regeneration | 10.2% Max HP + 1174 |
 | ATK Bonus Ratio | 95.2% **Base ATK**  |
-| Imbue           | 1A                  |
+| Imbue           | 1U                  |
 | Duration        | 12s                 |
 
 </div>
@@ -196,7 +196,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | :---------------- | :------------------------------------- |
 | Skill DMG \(T6%\) | 117.6% + 128.8% + 173.88%              |
 | Particles         | 3 \(-\)                                |
-| GU                | 3x 1A                                  |
+| GU                | 3x 1U                                  |
 | ICD               | 3 hits/2.5s                            |
 | Snapshot          | Dynamic                                |
 | Damage Element    | Pyro                                   |

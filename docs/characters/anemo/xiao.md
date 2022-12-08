@@ -84,7 +84,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :----------- |
 | Skill DMG \(T9%\) | 429.76%      |
 | Particles         | 3            |
-| GU                | 2B           |
+| GU                | 2U           |
 | ICD               | 7 hit / 0.1s |
 | Snapshot          | Snapshot     |
 | Damage Element    | Anemo        |

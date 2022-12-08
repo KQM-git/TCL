@@ -75,7 +75,7 @@ import Skill from '@site/src/components/char/Skill'
 | Fuufuu Whirlwind Kick Absorption DMG \(T9%\) | ~            | 129.47%                                 |
 | Particles                                    | 2            | 2 + 1~4                                 |
 | GU                                           | 1U           | -                                       |
-| GU Absorption                                | -            | 1A against enemies<br />2B against water  |
+| GU Absorption                                | -            | 1U against enemies<br />2U against water  |
 | ICD                                          | 3 hit / 2.5s | 3 hit / 2.5s                            |
 | Snapshot                                     | Snapshot     |                                         |
 | Damage Element                               | Anemo        | -                                       |

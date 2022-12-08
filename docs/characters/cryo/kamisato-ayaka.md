@@ -87,7 +87,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :-------- |
 | Skill DMG \(T9%\) | 406.64%   |
 | Particles         | 4~5 (1:1) |
-| GU                | 2B        |
+| GU                | 2U        |
 | ICD (hits/timer)  | None      |
 | Snapshot          | -         |
 | Damage Element    | Cryo      |
@@ -116,8 +116,8 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* 1A Cryo is applied when Ayaka exits from her sprint.
-* This infusion causes Ayaka's attacks to apply 1A Cryo
+* 1U Cryo is applied when Ayaka exits from her sprint.
+* This infusion causes Ayaka's attacks to apply 1U Cryo
 * Her Alternate Sprint has the same i-frames as other characters' normal sprint.
 
 </TabItem>
@@ -131,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------- | :------------ |
 | Cutting DMG \(T9%\)  | 190.91% \* 19 |
 | Bloom DMG \(T9%\)    | 286.36%       |
-| GU                   | 1A            |
+| GU                   | 1U            |
 | ICD                  | 3 hits / 2.5s |
 | Snapshot             | Snapshot      |
 | Damage Element       | Cryo          |

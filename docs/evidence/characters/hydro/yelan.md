@@ -18,10 +18,10 @@ search: false
 * Deprecated frame data:
   * NA, E - [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
 * Gauges - [Video](https://youtu.be/kVB-pt8txps) - CC\#5588
-  * Breakthrough Barb: 1A
-  * E: 1A
-  * Q Initial: 2B
-  * Exquisite Throws: 1A
+  * Breakthrough Barb: 1U
+  * E: 1U
+  * Q Initial: 2U
+  * Exquisite Throws: 1U
 * ICDs:
   * E, Q Initial, and Exquisite Throws have separate ICDs. - [Video](https://youtu.be/guf_AFoAApc) - CC\#5588
   * Exquisite Throws: ~2s/3-hit. - [Video](https://youtu.be/7JunyuLUQLo) - CC\#5588
