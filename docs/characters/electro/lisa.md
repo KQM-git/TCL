@@ -190,8 +190,6 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The description is misleading. **Plasma Eruption** changes the number of lightning bolts to 1-3, not 2-4 as implied by the wording.
-  * For more details, see the [full entry](../../evidence/characters/electro/lisa.md#c4-description-and-actual-effects-are-miscommunicated) in Lisa's Evidence Vault.
 * In tight enemy groups, **Plasma Eruption** can quadratically increase the damage of **Lightning Rose** due to the AoE of each lightning bolt released.
 
 </TabItem>

@@ -114,6 +114,15 @@ Further understanding of Particle generation.
 **Last tested:** <VersionHl date="2022-07-29" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/kaeya-c2-anyone-trigger)
 
+:::note
+The wording has changed in v3.3.  
+Before:
+> Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
+
+After:  
+> While **Glacial Waltz** is in effect, for each opponent defeated, its duration is increased by 2.5s, up to a maximum of 15s.
+:::
+
 **Finding:**  
 Unlike how it is worded, Kaeya C2 does not care if his Burst or himself that deals the final blow; Anyone can deal the final blow, and the extension still happens.
 

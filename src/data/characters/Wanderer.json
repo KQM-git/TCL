@@ -1,0 +1,448 @@
+{
+  "name": "Wanderer",
+  "star": 5,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 791.2556,
+    "attackBase": 25.5094,
+    "defenseBase": 47.2657,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Yuuban Meigen",
+        "desc": "**Normal Attack**\nPerforms up to 3 attacks using wind blades, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina, gathers a build up of high wind pressure, and deals **AoE Anemo DMG** after a short casting time.\n\n**Plunging Attack**\nCalling upon the power of Anemo, the Wanderer plunges towards the ground from mid-air, damaging all opponents in his path. Deals **AoE Anemo DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "68.7%",
+              "74.3%",
+              "79.9%",
+              "87.9%",
+              "93.5%",
+              "99.9%",
+              "108.7%",
+              "117.5%",
+              "126.2%",
+              "135.8%",
+              "145.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "65.0%",
+              "70.3%",
+              "75.6%",
+              "83.2%",
+              "88.5%",
+              "94.5%",
+              "102.8%",
+              "111.1%",
+              "119.4%",
+              "128.5%",
+              "137.6%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "47.6%+47.6%",
+              "51.5%+51.5%",
+              "55.4%+55.4%",
+              "60.9%+60.9%",
+              "64.8%+64.8%",
+              "69.2%+69.2%",
+              "75.3%+75.3%",
+              "81.4%+81.4%",
+              "87.5%+87.5%",
+              "94.2%+94.2%",
+              "100.8%+100.8%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "132.1%",
+              "142.0%",
+              "151.9%",
+              "165.1%",
+              "175.0%",
+              "184.9%",
+              "198.1%",
+              "211.3%",
+              "224.5%",
+              "237.7%",
+              "251.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hanega: Song of the Wind",
+        "desc": "Concentrates the power of the winds to break free from the shackles of the earth, dealing **AoE Anemo DMG** before leaping into the air and entering the Windfavored state.\n\n**Windfavored**\nThe Wanderer cannot perform Plunging Attacks in this state. When he uses Normal and Charged Attacks, they will be converted into Kuugo: Fushoudan and Kuugo: Toufukai respectively; the DMG they deal and their AoE will be increased, and their DMG will be considered Normal and Charged Attack DMG respectively. Kuugo: Toufukai will not consume Stamina.\nThe Wanderer will hover persistently during this time. While this state is active, the Wanderer's movements gain the following properties:\n·Persistently consumes Kuugoryoku Points to maintain this hovering state.\n·When sprinting, additional Kuugoryoku Points will be consumed for the Wanderer to accelerate mid-air. Holding sprint will cause persistent Kuugoryoku Point consumption to maintain speed. This effect will replace his default sprint.\n·Jumping expends extra Kuugoryoku Points to increase hovering height. Holding jump will cause persistent Kuugoryoku Point consumption to keep increasing hovering height.\n\nRunning out of Kuugoryoku Points will end the Windfavored state.\nA second cast during the duration of Windfavored will also end it.\n\n**\"The world dances in a weightless whirl, presenting a secret that can only be found in the flowers.\"**",
+        "img": "Wanderer/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "95.2%",
+              "102.3%",
+              "109.5%",
+              "119.0%",
+              "126.1%",
+              "133.3%",
+              "142.8%",
+              "152.3%",
+              "161.8%",
+              "171.4%",
+              "180.9%",
+              "190.4%",
+              "202.3%"
+            ]
+          },
+          {
+            "name": "Kuugo: Fushoudan DMG",
+            "values": [
+              "133.0% Normal Attack DMG",
+              "135.0% Normal Attack DMG",
+              "136.9% Normal Attack DMG",
+              "139.5% Normal Attack DMG",
+              "141.5% Normal Attack DMG",
+              "143.4% Normal Attack DMG",
+              "146.0% Normal Attack DMG",
+              "148.6% Normal Attack DMG",
+              "151.2% Normal Attack DMG",
+              "153.7% Normal Attack DMG",
+              "156.3% Normal Attack DMG",
+              "158.9% Normal Attack DMG",
+              "161.4% Normal Attack DMG"
+            ]
+          },
+          {
+            "name": "Kuugo: Toufukai DMG",
+            "values": [
+              "126.4% Charged Attack DMG",
+              "128.0% Charged Attack DMG",
+              "129.5% Charged Attack DMG",
+              "131.6% Charged Attack DMG",
+              "133.2% Charged Attack DMG",
+              "134.8% Charged Attack DMG",
+              "136.8% Charged Attack DMG",
+              "138.9% Charged Attack DMG",
+              "140.9% Charged Attack DMG",
+              "143.0% Charged Attack DMG",
+              "145.0% Charged Attack DMG",
+              "147.1% Charged Attack DMG",
+              "149.1% Charged Attack DMG"
+            ]
+          },
+          {
+            "name": "Initial Kuugoryoku Points",
+            "value": "100"
+          },
+          {
+            "name": "CD",
+            "value": "6.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Kyougen: Five Ceremonial Plays",
+      "desc": "Compresses the atmosphere into a singular vacuum that grinds all troubles away, dealing multiple instances of **AoE Anemo DMG**.\nIf the character is in the Windfavored state due to the skill \"Hanega: Song of the Wind,\" Windfavored state will end after casting.\n\n**\"Bright be the narrowed gaze of the sky, casting its sight on dreams both past and present, like radiance washing over dust on the winds.\"**",
+      "img": "Wanderer/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "147.2%×5",
+            "158.2%×5",
+            "169.3%×5",
+            "184.0%×5",
+            "195.0%×5",
+            "206.1%×5",
+            "220.8%×5",
+            "235.5%×5",
+            "250.2%×5",
+            "265.0%×5",
+            "279.7%×5",
+            "294.4%×5",
+            "312.8%×5"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Anemo"
+    },
+    "passive": [
+      {
+        "name": "Jade-Claimed Flower",
+        "desc": "If **Hanega: Song of the Wind** comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** when it is unleashed, this instance of the Windfavored state will obtain buffs according to the contacted element(s):\n·**Hydro**: Kuugoryoku Point cap increases by 20.\n·**Pyro**: ATK increases by 30%.\n·**Cryo**: CRIT Rate increases by 20%.\n·**Electro**: When Normal and Charged Attacks hit an opponent, 0.8 Energy will be restored. Energy can be restored this way once every 0.2s.\n\nYou can have up to 2 different kinds of these buffs simultaneously.",
+        "img": "Wanderer/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Gales of Reverie",
+        "desc": "When the Wanderer hits opponents with Kuugo: Fushoudan or Kuugo: Toufukai in his **Windfavored** state, he has a 16% chance to obtain the Descent effect: The next time the Wanderer accelerates in mid-air while in this instance of the Windfavored state, this effect will be removed, this acceleration instance will not consume any Kuugoryoku Points, and he will fire off 4 wind arrows that deal 35% of his ATK as **Anemo DMG** each.\nFor each Kuugo: Fushoudan and Kuugo: Toufukai that does not produce this effect, the next attack of those types will have a 12% increased chance of producing it. The calculation of the effect production is done once every 0.1s.",
+        "img": "Wanderer/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Strum the Swirling Winds",
+        "desc": "Mora expended when ascending Bows and Catalysts is decreased by 50%.",
+        "img": "Wanderer/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Shoban: Ostentatious Plumage",
+        "desc": "When in the **Windfavored** state, the Attack SPD of the Wanderer's Kuugo: Fushoudan and Kuugo: Toufukai is increased by 10%.\nAdditionally, the wind arrows fired by the Passive Talent \"Gales of Reverie\" will deal an additional 25% of his ATK as DMG. You must unlock the Passive Talent \"Gales of Reverie\" first.",
+        "img": "Wanderer/const_0"
+      },
+      {
+        "name": "Niban: Isle Amidst White Waves",
+        "desc": "When in the **Windfavored** state, **Kyougen: Five Ceremonial Plays** will see its DMG increased by 4% per point of difference between the max amount of Kuugoryoku Points contrasted with Kuugoryoku's present capacity when using this skill.\nThrough this method, you can increase Kyougen: Five Ceremonial Plays's DMG by a maximum of 200%.",
+        "img": "Wanderer/const_1"
+      },
+      {
+        "name": "Sanban: Moonflower Kusemai",
+        "desc": "Increases the Level of **Kyougen: Five Ceremonial Plays** by 3.\nMaximum upgrade level is 15.",
+        "img": "Wanderer/const_2"
+      },
+      {
+        "name": "Yonban: Set Adrift into Spring",
+        "desc": "When casting **Hanega: Song of the Wind**, should the Passive Talent \"Jade-Claimed Flower\" be triggered, the character will gain buffs in correspondence to the contacted Elemental Type(s), and also obtain a random untriggered buff. A maximum of 3 such corresponding elemental buffs can exist simultaneously.\nYou must unlock the Passive Talent \"Jade-Claimed Flower\" first.",
+        "img": "Wanderer/const_3"
+      },
+      {
+        "name": "Matsuban: Ancient Illuminator From Abroad",
+        "desc": "Increases the Level of **Hanega: Song of the Wind** by 3.\nMaximum upgrade level is 15.",
+        "img": "Wanderer/const_4"
+      },
+      {
+        "name": "Shugen: The Curtains' Melancholic Sway",
+        "desc": "When the Wanderer actively hits an opponent with Kuugo: Fushoudan while in the **Windfavored** state, the following effects will occur:\n·Deals an additional instance of Kuugo: Fushoudan at the position hit, dealing 40% of the attack's original DMG. This DMG will be considered Normal Attack DMG.\n·When the Wanderer falls below 40 Kuugoryoku Points, restores 4 Points to him. Kuugoryoku Points can be restored in this manner once every 0.2s. This restoration can occur up to 5 times within one Windfavored duration.",
+        "img": "Wanderer/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 678.4301
+        },
+        {
+          "stat": "Base DEF",
+          "value": 40.527
+        },
+        {
+          "stat": "Base ATK",
+          "value": 21.870405197143555
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1160.4725
+        },
+        {
+          "stat": "Base DEF",
+          "value": 69.3225
+        },
+        {
+          "stat": "Base ATK",
+          "value": 37.40990447998047
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1803.1959
+        },
+        {
+          "stat": "Base DEF",
+          "value": 107.7165
+        },
+        {
+          "stat": "Base ATK",
+          "value": 58.12924
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2285.23828125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 136.512
+        },
+        {
+          "stat": "Base ATK",
+          "value": 73.66874
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2767.28076171875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 165.3075
+        },
+        {
+          "stat": "Base ATK",
+          "value": 89.20824
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3249.3232421875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 194.103
+        },
+        {
+          "stat": "Base ATK",
+          "value": 104.74773406982422
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.192
+        }
+      ]
+    }
+  ]
+}

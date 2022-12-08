@@ -330,7 +330,7 @@
       },
       {
         "name": "Plasma Eruption",
-        "desc": "Increases the number of lightning bolts released by **Lightning Rose** by 1-3.",
+        "desc": "**Lightning Rose** now unleashes 1-3 lightning bolts when it attacks.",
         "img": "Lisa/const_3"
       },
       {

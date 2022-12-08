@@ -1,5 +1,5 @@
 ---
-description: 'The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.'
+description: 'The capable and reliable Arataki Gang deputy leader. Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.'
 ---
 
 import char from '@site/src/data/characters/Kuki_Shinobu.json'

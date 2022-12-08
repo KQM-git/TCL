@@ -314,6 +314,13 @@ This means that it is possible for Keqing to hit up to 3 times before hitting E2
 **Last tested:** <VersionHl date="2022-10-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880450784465129492_902064461525975080_transcript-c2-keqing-proc-consistency.html)
 
+:::danger
+This has been fixed as of version 3.3. [Evidence](https://imgur.com/IBufSig) by Rathalos#2875.  
+> Fixes an issue whereby when Keqing used Normal Attacks consecutively on enemies affected by the Electro element, her Lv.2 Constellation's effects would be triggered at an abnormal interval.
+
+\- [HoYoverse](https://www.hoyolab.com/article/14189622)
+:::
+
 **Finding:**  
 Keqing's C2 procs inconsistently.
 

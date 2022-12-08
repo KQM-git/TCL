@@ -220,11 +220,6 @@ import Constellation from '@site/src/components/char/Constellation'
 | :----------- | :----------- |
 | 50           | 1            |
 
-**Notes**
-
-* The proc rate of **Keen Extraction** is inconsistent, and does not work as stated.
-  * For more details, see the [full entry](../../evidence/characters/electro/keqing.md#keqing-c2-procs-inconsistently) in Keqing's Evidence Vault.
-
 </TabItem>
 
 <TabItem value='c3' label='C3'>

@@ -55,7 +55,6 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 * Venti's Burst will deal its full Elemental absorption damage [even if it is infused later in the Burst](../evidence/general-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
 * Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../evidence/general-mechanics/bugs.md#venti-e-hold-visual-error).
 * [There is a small chance](../evidence/general-mechanics/bugs.md#mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and Particle generation also happens when cast. Normally this only happens when her Skill construct expires, it doesn't happen if you use Hold E and only on Press E.
-* As of Version 3.2, if a character is in the middle of an idle animation or camera pose while jumping into a body of water, the dive animation doesn't happen until the character is back to normal pose, during this time the character is in some kind of floating state and can move [indefinitely in any direction](../evidence/general-mechanics/bugs.md#nahida-airlines) if pushed.
 
 ## Enemies
 

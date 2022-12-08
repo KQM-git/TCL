@@ -66,6 +66,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 </Artifact>
 
+### Desert Pavilion Chronicle
+
+<Artifact artifact="Desert Pavilion Chronicle" />
+
 ### Echoes of an Offering
 
 <Artifact artifact="Echoes of an Offering">
@@ -100,6 +104,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * The base 100% ER and character ascension ER is counted towards the bonus.
 
 </Artifact>
+
+### Flower of Paradise Lost
+
+<Artifact artifact="Flower of Paradise Lost" />
 
 ### Gladiator's Finale
 

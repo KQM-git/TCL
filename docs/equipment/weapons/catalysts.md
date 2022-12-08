@@ -52,6 +52,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 </Weapon>
 
+### Tulaytullah's Remembrance
+
+<Weapon weapon="Tulaytullah's Remembrance" weapons={catalysts} />
+
 ## 4 Stars
 
 ### Blackcliff Agate

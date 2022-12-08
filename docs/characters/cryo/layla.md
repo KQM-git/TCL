@@ -1,5 +1,5 @@
 ---
-description: A Rtawahist student who always looks sleep-deprived. Her dark eye circles have been worsening due to academic stress.
+description: A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.
 ---
 
 import char from '@site/src/data/characters/Layla.json'

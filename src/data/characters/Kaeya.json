@@ -260,7 +260,7 @@
       },
       {
         "name": "Never-Ending Performance",
-        "desc": "Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.",
+        "desc": "While **Glacial Waltz** is in effect, for each opponent defeated, its duration is increased by 2.5s, up to a maximum of 15s.",
         "img": "Kaeya/const_1"
       },
       {

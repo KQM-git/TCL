@@ -2492,5 +2492,93 @@
       "name": "A Thousand Nights' Dawnsong",
       "desc": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by **32**/**40**/**48**/**56**/**64**. If not, increase the equipping character's DMG Bonus from their Elemental Type by **10%**/**14%**/**18%**/**22%**/**26%**. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by **40**/**42**/**44**/**46**/**48**. Multiple such effects from multiple such weapons can stack."
     }
+  },
+  "Tulaytullah's Remembrance": {
+    "name": "Tulaytullah's Remembrance",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 47.537,
+        "curve": "ATK 3.2"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.096,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Bygone Azure Teardrop",
+      "desc": "Normal Attack SPD is increased by **10%**/**12.5%**/**15%**/**17.5%**/**20%**. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by **4.8%**/**6%**/**7.2%**/**8.4%**/**9.6%** every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by **9.6%**/**12%**/**14.4%**/**16.8%**/**19.2%**. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is **48%**/**60%**/**72%**/**84%**/**96%**. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs."
+    }
   }
 }

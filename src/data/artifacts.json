@@ -317,7 +317,7 @@
       },
       {
         "count": 4,
-        "desc": "Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."
+        "desc": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."
       }
     ]
   },
@@ -508,11 +508,37 @@
     "bonuses": [
       {
         "count": 2,
-        "desc": "Elemental Mastery +80."
+        "desc": "Increases Elemental Mastery by 80."
       },
       {
         "count": 4,
         "desc": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field."
+      }
+    ]
+  },
+  "Desert Pavilion Chronicle": {
+    "name": "Desert Pavilion Chronicle",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Anemo DMG Bonus +15%"
+      },
+      {
+        "count": 4,
+        "desc": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s."
+      }
+    ]
+  },
+  "Flower of Paradise Lost": {
+    "name": "Flower of Paradise Lost",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Increases Elemental Mastery by 80."
+      },
+      {
+        "count": 4,
+        "desc": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field."
       }
     ]
   }

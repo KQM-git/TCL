@@ -433,6 +433,15 @@ In knowing how C1 actually works, Lisa, when she is on-field, can effectively ru
 **Last tested:** <VersionHl date="2021-11-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906461937536217088_907909745048944700_transcript-lisa-c4-actual-effects-miscommunicated.html)
 
+:::note
+The wording has changed in v3.3.  
+Before:
+> Increases the number of lightning bolts released by Lightning Rose by 1-3.
+
+After:  
+> **Lightning Rose** now unleashes 1-3 lightning bolts when it attacks.
+:::
+
 **Finding:**  
 The current description for Lisa's fourth constellation is currently falsely misleading, it states that it:
 

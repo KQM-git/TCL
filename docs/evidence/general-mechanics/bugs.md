@@ -602,10 +602,11 @@ Better understanding of these characters and aimed abilities. Possible tech for 
 **Last tested:** <VersionHl date="2022-11-24" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/nahida-airlines)
 
-:::caution
-**3.2 Update Details:**  
-"There is an issue whereby under certain circumstances, some characters will move abnormally during their idle animations. This issue will be fixed in a later update. Please stay tuned for future notices."  
-\- [HoYoverse](https://www.hoyolab.com/article/13320649)
+:::danger
+**3.3 Update Details:**  
+> Fixes an issue that caused some characters to move abnormally in an idle state under certain specific circumstances.
+
+\- [HoYoverse](https://www.hoyolab.com/article/14189622)
 :::
 
 **Bug:**  
