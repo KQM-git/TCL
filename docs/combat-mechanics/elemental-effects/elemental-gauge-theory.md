@@ -26,6 +26,7 @@ The TCL previously used decay notations for auras; with 1U being 1A, 2U being 2B
 | Notation | Decay Rate        |
 | :------- | :---------------- |
 | 1U       | 11.875s per unit  |
+| 1.5U     | 8.9583s per unit  |
 | 2U       | 7.5s per unit     |
 | 4U       | 5.3125s per unit  |
 | 8U       | 4.21875s per unit |
@@ -39,6 +40,7 @@ Aura application has a 0.8x modifier. This is also referred to as **Aura Tax**.
 | Elemental Gauge of Source | After Aura Tax |
 | :------------------------ | :------------- |
 | 1U                        | 0.8U           |
+| 1.5U                      | 1.2U           |
 | 2U                        | 1.6U           |
 | 4U                        | 3.2U           |
 | 8U                        | 6.4U           |

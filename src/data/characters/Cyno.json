@@ -392,7 +392,7 @@
       {
         "name": "The Gift of Silence",
         "desc": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.",
-        "img": "Cyno/passive_2",
+        "img": "Common/Expedition_Sumeru",
         "minAscension": 0
       }
     ],

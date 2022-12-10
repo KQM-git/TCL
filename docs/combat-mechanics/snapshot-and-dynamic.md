@@ -124,65 +124,65 @@ Transformative Reactions include: [Overload](elemental-effects/transformative-re
 
 import CharIconLink from '@site/src/components/char/CharIconLink'
 
-| Character                                                  | Ability                                                   | Notes                                                |
-| ---------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- |
-| <CharIconLink char='Albedo' element='geo' />               | Elemental Skill: Abiogenesis: Solar Isotoma               | Transient Blossom DMG                                |
-| <CharIconLink char='Amber' element='pyro' />               | Elemental Skill: Explosive Puppet                         | Explosion DMG                                        |
+|                         Character                          | Ability                                                   | Notes                                                |
+| :--------------------------------------------------------: | --------------------------------------------------------- | ---------------------------------------------------- |
+|        <CharIconLink char='Albedo' element='geo' />        | Elemental Skill: Abiogenesis: Solar Isotoma               | Transient Blossom DMG                                |
+|        <CharIconLink char='Amber' element='pyro' />        | Elemental Skill: Explosive Puppet                         | Explosion DMG                                        |
 |                                                            | Elemental Burst: Fiery Rain                               | Fiery Rain DMG Per Wave                              |
-| <CharIconLink char='Kamisato Ayaka' element='cryo' />      | Elemental Burst: Kamisato Art: Soumetsu                   | Cutting DMG and Bloom DMG                            |
-| <CharIconLink char='Kamisato Ayato' element='hydro' />     | Elemental Skill: Kamisato Art: Kyouka                     | Water Illusion DMG                                   |
+|   <CharIconLink char='Kamisato Ayaka' element='cryo' />    | Elemental Burst: Kamisato Art: Soumetsu                   | Cutting DMG and Bloom DMG                            |
+|   <CharIconLink char='Kamisato Ayato' element='hydro' />   | Elemental Skill: Kamisato Art: Kyouka                     | Water Illusion DMG                                   |
 |                                                            | Elemental Burst: Kamisato Art: Suiyuu                     | Bloomwater DMG                                       |
-| <CharIconLink char='Beidou' element='electro' />           | Elemental Burst: Stormbreaker                             | Lightning DMG                                        |
-| <CharIconLink char='Diluc' element='pyro' />               | Elemental Burst: Dawn                                     | DoT and Explosion DMG                                |
-| <CharIconLink char='Diona' element='cryo' />               | Elemental Burst: Signature Mix                            | Continuous Field DMG                                 |
-| <CharIconLink char='Fischl' element='electro' />           | Elemental Skill: Nightrider                               | Oz's ATK DMG                                         |
-| <CharIconLink char='Ganyu' element='cryo' />               | Elemental Skill: Trail of the Qilin                       | Skill DMG                                            |
+|      <CharIconLink char='Beidou' element='electro' />      | Elemental Burst: Stormbreaker                             | Lightning DMG                                        |
+|        <CharIconLink char='Diluc' element='pyro' />        | Elemental Burst: Dawn                                     | DoT and Explosion DMG                                |
+|        <CharIconLink char='Diona' element='cryo' />        | Elemental Burst: Signature Mix                            | Continuous Field DMG                                 |
+|      <CharIconLink char='Fischl' element='electro' />      | Elemental Skill: Nightrider                               | Oz's ATK DMG                                         |
+|        <CharIconLink char='Ganyu' element='cryo' />        | Elemental Skill: Trail of the Qilin                       | Skill DMG                                            |
 |                                                            | Elemental Burst: Celestial Shower                         | Ice Shard DMG                                        |
-| <CharIconLink char='Shikanoin Heizou' element='anemo' />   | Elemental Burst: Windmuster Kick                          | Fudou Style Vacuum Slugger and Windmuster Iris DMG   |
-| <CharIconLink char='Jean' element='anemo' />               | Elemental Burst: Dandelion Breeze                         | Field Entering/Exiting DMG                           |
-| <CharIconLink char='Kaeya' element='cryo' />               | Elemental Burst: Glacial Waltz                            | Skill DMG                                            |
-| <CharIconLink char='Kaedehara Kazuha' element='anemo' />   | Elemental Burst: Kazuha Slash                             | DoT and Additional Elemental DMG                     |
-| <CharIconLink char='Klee' element='pyro' />                | Elemental Skill: Jumpty Dumpty                            | Mine DMG                                             |
+|  <CharIconLink char='Shikanoin Heizou' element='anemo' />  | Elemental Burst: Windmuster Kick                          | Fudou Style Vacuum Slugger and Windmuster Iris DMG   |
+|        <CharIconLink char='Jean' element='anemo' />        | Elemental Burst: Dandelion Breeze                         | Field Entering/Exiting DMG                           |
+|        <CharIconLink char='Kaeya' element='cryo' />        | Elemental Burst: Glacial Waltz                            | Skill DMG                                            |
+|  <CharIconLink char='Kaedehara Kazuha' element='anemo' />  | Elemental Burst: Kazuha Slash                             | DoT and Additional Elemental DMG                     |
+|        <CharIconLink char='Klee' element='pyro' />         | Elemental Skill: Jumpty Dumpty                            | Mine DMG                                             |
 | <CharIconLink char='Sangonomiya Kokomi' element='hydro' /> | Elemental Skill: Kurage's Oath                            | Regeneration and Ripple DMG                          |
-| <CharIconLink char='Lisa' element='electro' />             | Elemental Skill: Violet Arc                               | Skill DMG                                            |
+|       <CharIconLink char='Lisa' element='electro' />       | Elemental Skill: Violet Arc                               | Skill DMG                                            |
 |                                                            | Elemental Burst: Lightning Rose                           | Discharge DMG                                        |
-| <CharIconLink char='Mona' element='hydro' />               | Elemental Skill: Mirror Reflection of Doom                | Damage over Time and Explosion Damage                |
-| <CharIconLink char='Qiqi' element='cryo' />                | Elemental Skill: Adeptus Art: Herald of Frost             | Herald of Frost DMG and Healing over time and on-hit |
-| <CharIconLink char='Rosaria' element='cryo' />             | Elemental Burst: Rites of Termination                     | Ice Lance DoT                                        |
-| <CharIconLink char='Sayu' element='anemo' />               | Elemental Burst: Yoohoo Art: Mujina Flurry                | DMG and Healing                                      |
-| <CharIconLink char='Kuki Shinobu' element='electro' />     | Elemental Burst: Gyoei Narukami Kariyama Rite             | DMG                                                  |
-| <CharIconLink char='Sucrose' element='anemo' />            | Elemental Burst: Forbidden Creation - Isomer 75 / Type II | DoT and Additional Elemental DMG                     |
-| <CharIconLink char='Venti' element='anemo' />              | Elemental Burst: Wind's Grand Ode                         | Damage over Time and Additional Elemental DMG        |
-| <CharIconLink char='Xiangling' element='pyro' />           | Elemental Skill: Guoba Attack                             | DMG                                                  |
+|        <CharIconLink char='Mona' element='hydro' />        | Elemental Skill: Mirror Reflection of Doom                | Damage over Time and Explosion Damage                |
+|        <CharIconLink char='Qiqi' element='cryo' />         | Elemental Skill: Adeptus Art: Herald of Frost             | Herald of Frost DMG and Healing over time and on-hit |
+|       <CharIconLink char='Rosaria' element='cryo' />       | Elemental Burst: Rites of Termination                     | Ice Lance DoT                                        |
+|        <CharIconLink char='Sayu' element='anemo' />        | Elemental Burst: Yoohoo Art: Mujina Flurry                | DMG and Healing                                      |
+|   <CharIconLink char='Kuki Shinobu' element='electro' />   | Elemental Burst: Gyoei Narukami Kariyama Rite             | DMG                                                  |
+|      <CharIconLink char='Sucrose' element='anemo' />       | Elemental Burst: Forbidden Creation - Isomer 75 / Type II | DoT and Additional Elemental DMG                     |
+|       <CharIconLink char='Venti' element='anemo' />        | Elemental Burst: Wind's Grand Ode                         | Damage over Time and Additional Elemental DMG        |
+|      <CharIconLink char='Xiangling' element='pyro' />      | Elemental Skill: Guoba Attack                             | DMG                                                  |
 |                                                            | Elemental Burst: Pyronado                                 | Pyronade DMG                                         |
-| <CharIconLink char='Zhongli' element='geo' />              | Elemental Skill: Dominus Lapidis                          | Stone Stele Resonance DMG                            |
+|       <CharIconLink char='Zhongli' element='geo' />        | Elemental Skill: Dominus Lapidis                          | Stone Stele Resonance DMG                            |
 
 ### Dynamic Talents
 
-| Character                                               | Ability                                            | Notes                                   |
-| ------------------------------------------------------- | -------------------------------------------------- | --------------------------------------- |
-| <CharIconLink char='Eula' element='cryo' />             | Elemental Burst: Glacial Illumination              | Lightfall Sword Base DMG and Stack DMG  |
-| <CharIconLink char='Fischl' element='electro' />        | Elemental Burst: Midnight Phantasmagoria           | Falling Thunder DMG                     |
-| <CharIconLink char='Hu Tao' element='pyro' />           | Elemental Skill: Guide to Afterlife                | Blood Blossom DMG                       |
-| <CharIconLink char='Keqing' element='electro' />        | Elemental Burst: Starward Sword                    | Burst DMG                               |
-| <CharIconLink char='Mona' element='hydro' />            | Elemental Burst: Stellaris Phantasm                | Burst DMG                               |
-| <CharIconLink char='Qiqi' element='cryo' />             | Elemental Burst: Adeptus Art: Preserver of Fortune | Healing                                 |
+|                        Character                        | Ability                                            | Notes                                   |
+| :-----------------------------------------------------: | -------------------------------------------------- | --------------------------------------- |
+|       <CharIconLink char='Eula' element='cryo' />       | Elemental Burst: Glacial Illumination              | Lightfall Sword Base DMG and Stack DMG  |
+|    <CharIconLink char='Fischl' element='electro' />     | Elemental Burst: Midnight Phantasmagoria           | Falling Thunder DMG                     |
+|      <CharIconLink char='Hu Tao' element='pyro' />      | Elemental Skill: Guide to Afterlife                | Blood Blossom DMG                       |
+|    <CharIconLink char='Keqing' element='electro' />     | Elemental Burst: Starward Sword                    | Burst DMG                               |
+|      <CharIconLink char='Mona' element='hydro' />       | Elemental Burst: Stellaris Phantasm                | Burst DMG                               |
+|       <CharIconLink char='Qiqi' element='cryo' />       | Elemental Burst: Adeptus Art: Preserver of Fortune | Healing                                 |
 | <CharIconLink char='Raiden Shogun' element='electro' /> | Elemental Burst: Secret art: Musou Shinsetsu       | Burst DMG                               |
 |                                                         | Elemental Skill: Transcendence: Baleful Omen       | Coordinated DMG                         |
-| <CharIconLink char='Razor' element='electro' />         | Elemental Burst: Lightning Fang                    | Soul Companion DMG                      |
+|     <CharIconLink char='Razor' element='electro' />     | Elemental Burst: Lightning Fang                    | Soul Companion DMG                      |
 | <CharIconLink char='Kuki Shinobu' element='electro' />  | Elemental Skill: Sanctifying Ring                  | Grass Ring of Sanctification DMG        |
-| <CharIconLink char='Tartaglia' element='hydro' />       | Normal Attack Skill: Cutting Torrent               | Riptide Flash DMG and Riptide Burst DMG |
+|    <CharIconLink char='Tartaglia' element='hydro' />    | Normal Attack Skill: Cutting Torrent               | Riptide Flash DMG and Riptide Burst DMG |
 |                                                         | Elemental Skill: Foul Legacy: Raging Tide          | Riptide Slash DMG                       |
 |                                                         | Elemental Burst: Havoc: Obliteration               | Riptide Blast DMG                       |
-| <CharIconLink char='Thoma' element='pyro' />            | Elemental Burst: Crimson Ooyoroi                   | Fiery Collapse DMG                      |
-| <CharIconLink char='Xiangling' element='pyro' />        | C2: Oil Meets Fire                                 | DMG                                     |
-| <CharIconLink char='Xingqiu' element='hydro' />         | Elemental Burst: Guhua Sword: Raincutter           | Rain Sword DMG                          |
-| <CharIconLink char='Xinyan' element='pyro' />           | Elemental Skill: Sweeping Fervor                   | Shield's DoT                            |
+|      <CharIconLink char='Thoma' element='pyro' />       | Elemental Burst: Crimson Ooyoroi                   | Fiery Collapse DMG                      |
+|    <CharIconLink char='Xiangling' element='pyro' />     | C2: Oil Meets Fire                                 | DMG                                     |
+|     <CharIconLink char='Xingqiu' element='hydro' />     | Elemental Burst: Guhua Sword: Raincutter           | Rain Sword DMG                          |
+|      <CharIconLink char='Xinyan' element='pyro' />      | Elemental Skill: Sweeping Fervor                   | Shield's DoT                            |
 |                                                         | Elemental Burst: Riff Revolution                   | Pyro DoT                                |
-| <CharIconLink char='Yae Miko' element='electro' />      | Elemental Skill: Yakan Evocation: Sesshou Sakura   | Sesshou Sakura DMG                      |
+|   <CharIconLink char='Yae Miko' element='electro' />    | Elemental Skill: Yakan Evocation: Sesshou Sakura   | Sesshou Sakura DMG                      |
 |                                                         | Elemental Burst: Great Secret Art: Tenko Kenshin   | Tenko Thunderbolt DMG                   |
-| <CharIconLink char='Yelan' element='hydro' />           | Elemental Burst: Depth-Clarion Dice                | Exquisite Throw DMG                     |
-| <CharIconLink char='Yoimiya' element='pyro' />          | Elemental Burst: Ryuukin Saxifrage                 | Aurous Blaze Explosion DMG              |
+|      <CharIconLink char='Yelan' element='hydro' />      | Elemental Burst: Depth-Clarion Dice                | Exquisite Throw DMG                     |
+|     <CharIconLink char='Yoimiya' element='pyro' />      | Elemental Burst: Ryuukin Saxifrage                 | Aurous Blaze Explosion DMG              |
 
 ## Evidence Vault
 
