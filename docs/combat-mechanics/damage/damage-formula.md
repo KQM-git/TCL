@@ -63,9 +63,11 @@ $$
 
 * Arataki Itto's [**Bloodline of the Crimson Oni**](../../characters/geo/arataki-itto.md#ascension-passives) \(A4\)
 * Cyno's [**Authority Over the Nine Bows**](../../characters/electro/cyno.md#ascension-passives) \(A4\)
+* Faruzan's [**Lost Wisdom of the Seven Caverns**](../../characters/anemo/faruzan.md#ascension-passives) \(A4\)
 * Gorou's [**A Favor Repaid**](../../characters/geo/gorou.md#ascension-passives) \(A4\)
-* Kokomi's [**Nereid's Ascension**](../../characters/hydro/sangonomiya-kokomi.md#attacks) \(Elemental Burst\)
-* Kokomi's [**Song of Pearls**](../../characters/hydro/sangonomiya-kokomi.md#ascension-passives) \(A4\)
+* Layla's [**Sweet Slumber Undisturbed**](../../characters/cryo/layla.md#ascension-passives) \(A4\)
+* Sangonomiya Kokomi's [**Nereid's Ascension**](../../characters/hydro/sangonomiya-kokomi.md#attacks) \(Elemental Burst\)
+* Sangonomiya Kokomi's [**Song of Pearls**](../../characters/hydro/sangonomiya-kokomi.md#ascension-passives) \(A4\)
 * Kuki Shinobu's [**Heart's Repose**](../../characters/electro/kuki-shinobu.md#ascension-passives) \(A4\) 
 * Shenhe's [**Spring Spirit Summoning**](../../characters/cryo/shenhe.md#attacks) \(Elemental Skill\) Icy Quills
 * Thoma's [**Flaming Assault**](../../characters/pyro/thoma.md#attacks) \(A4\)
