@@ -10,6 +10,8 @@ search: false
 
 ## Basic Mechanics
 
+[Discussion](https://tickets.deeznuts.moe/transcripts/layla-basic-mechanics)
+
 * Frame data - [Kolibri\#7675](https://docs.google.com/spreadsheets/d/19ZO_rbo6V2n-yWVjM8LqN1lGT2aKoQCbdjB_RX__InY/edit?usp=sharing)
 * Gauges:
   * E Cast and Shooting Stars: 1U - [emmaus\#9072](https://youtu.be/BNnhq9Z2BPM)
