@@ -93,6 +93,10 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 </div>
 
+**Notes**
+
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -118,7 +122,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 **Notes**
 
-* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* 
 
 </TabItem>
 
@@ -131,7 +135,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 | Attribute         | Primary   | Secondary |
 | :---------------- | :-------- | :-------- |
-| Burst DMG \(T9%\) |           |           |
+| DMG \(T9%\)       |           |           |
 | GU                |           |           |
 | ICD               |           |           |
 | Snapshot          |           |           |

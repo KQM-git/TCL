@@ -296,7 +296,7 @@
       {
         "name": "Tomes Light the Path",
         "desc": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.",
-        "img": "Faruzan/passive_2",
+        "img": "Common/Expedition_Sumeru",
         "minAscension": 0
       }
     ],
