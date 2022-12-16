@@ -87,6 +87,12 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* When re-casting **Nights of Formal Focus** while the **Curtain of Slumber** is active, the duration of **Shooting Stars** will be extended.
+* Certain characters can "use" an Elemental Skill twice so that Layla generates extra Night Stars. These include but are not limited to Yelan, Sayu, Tartaglia, Fischl, Mona, and Keqing.
+* Each individual Shooting Star snapshots when it launches.
+
 </TabItem>
 
 <TabItem value='q' label='Burst'>
@@ -131,6 +137,12 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+
+**Notes**
+
+* The Shield Strength transfers to the character on-field.
+* **Like Nascent Light** and **Shooting Stars** don't reset when Layla's shield is refreshed.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
