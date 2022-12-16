@@ -640,6 +640,26 @@ Calculations should account for the CRIT possibility of weapon procs.
 
 ## Specific Weapon Mechanics
 
+### A Thousand Floating Dreams
+
+#### A Thousand Floating Dreams Can Have More Than 3 Stacks
+
+**By:** addicted2reading\#7262  
+**Added:** <Version date="2022-12-13" />  
+**Last tested:** <VersionHl date="2022-11-05" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/3-2-weapons-basic-mechanics)
+
+**Finding:**  
+A Thousand Floating Dreams can have more than 3 stacks as long as the stacks are not all of the same type. There is a maximum of 3 Elemental DMG Bonus stacks and 3 EM stacks. Trial characters count toward the passive, allowing players to have a total of 4 stacks.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/cqP0fnNTv6o)  
+
+**Significance:**  
+Better understanding of how the weapon passive works.  
+
+---
+
 ### Amenoma Kageuchi
 
 #### Seed duration

@@ -7,7 +7,11 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 ### A Thousand Floating Dreams
 
-<Weapon weapon="A Thousand Floating Dreams" weapons={catalysts} />
+<Weapon weapon="A Thousand Floating Dreams" weapons={catalysts}>
+
+* It's possible to have up to a total of 4 stacks using trial characters, but no more than 3 stacks of the same type. - [addicted2reading\#7262](../../evidence/equipment/weapons.md#a-thousand-floating-dreams-can-have-more-than-3-stacks)
+
+</Weapon>
 
 ### Everlasting Moonglow
 
