@@ -145,6 +145,23 @@ Alley flash
 **Significance:**  
 Insights into feather application mechanics (maybe first 0 damage and friendly fire in game?) as well as clarification on what Skills are actually on hit vs. taking damage.
 
+### Sara Can Paralyze the Aeonblight Drake With 1 Aimed Shot
+
+**By:** HiddenGhost\#2705, pai\#3602  
+**Added:** <Version date="2022-12-17" />  
+**Last tested:** <VersionHl date="2022-12-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/special-aimed-shots-vs-aeonblight-drake-weak-spots)  
+
+**Finding:**  
+Sara can paralyze the Aeonblight Drake with 1 Aimed Shot instead of 2 during Crowfeather Cover (her Skill). It only works when aiming at the lower part of the weak spot on its wing, but it doesn't have to be the core itself, aiming at the wood part also works. The Aimed Shot paralyzes one wing, and the Crowfeather paralyzes the other wing when exploding. Tighnari can also do this, but Ganyu, Yoimiya, Faruzan, and C1 Venti can't.  
+
+**Evidence:**  
+* Sara: [YouTube](https://youtu.be/fkEKS7qnv8I)
+* Tighnari: [YouTube](https://youtu.be/DYvBTE4ecno)
+* Other special Aimed Shots that don't work: [YouTube](https://youtu.be/KBiE-nOrsCM) (credits to f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920 and Casdela\#5121 for some of the clips)
+
+**Significance:**  
+With some practice, this method can save a bit of time when fighting the Aeonblight Drake since casting Sara's Skill is faster than charging up another Aimed Shot (with C2 at least). It allows you to start setting up a rotation while the other wing gets paralyzed and the Aeonblight Drake falls down.  
 ## Burst Mechanics
 
 * Titanbreaker targets closest enemy, then Stormcluster moves outward in a plus-shape with one branch directed at Sara’s location at time of cast. - [Wishiwashi#2548](https://imgur.com/a/313LEY4)
