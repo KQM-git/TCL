@@ -543,6 +543,41 @@ Result : 137 attempts, 114 proc, 23 non-proc
 **Significance:**  
 Sacrificial Weapons are more effective on character with large AoE Skills/against multiple targets
 
+### Sacrificial Weapons Can Proc Even If The Elemental Skill Is Not On Cooldown  
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-12-18" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/skills-that-dont-proc-sac)
+
+**Finding:**  
+The passive of Sacrificial weapons can proc even if the Elemental Skill is not on cooldown.  
+  
+**Evidence:**   
+[Imgur](https://imgur.com/a/Tg97leV)  
+  
+**Significance:**  
+Better understanding of Sacrificial weapon mechanics.  
+
+### Elemental Skills That Don't Proc Sacrificial Weapons  
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-12-18" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/skills-that-dont-proc-sac)
+
+**Finding:**  
+There are certain specific Elemental Skills that can't proc the passives of Sacrificial weapons, despite being considered Elemental Skill DMG. This includes Sayu hold E roll, Anemo Traveler hold E Cutting DMG, Mona A1 and Keqing C1.  
+  
+**Evidence:**  
+Sayu Roll - [Imgur](https://imgur.com/a/sKrkk33)  
+Anemo Traveler Cutting DMG - [Imgur](https://imgur.com/a/aA5kbRj)  
+Mona A1 - [Imgur](https://imgur.com/a/DwlaEAF)  
+Keqing C1 - [YouTube](https://youtu.be/wBeQOi9scJU)    
+  
+**Significance:**  
+Sacrificial weapons are not a reliable indicator of whether or not something is considered Elemental Skill DMG.  
+
 ## Skyward Series
 
 ### Skyward Harp
