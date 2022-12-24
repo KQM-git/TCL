@@ -1,5 +1,5 @@
 ---
-description: A researcher from "one hundred years ago". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.
+description: A researcher from "one hundred years ago." She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.
 ---
 
 import char from '@site/src/data/characters/Faruzan.json'

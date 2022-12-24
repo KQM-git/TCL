@@ -187,6 +187,10 @@ import SacSeries from './\_common/sac_series.md';
 
 </Weapon>
 
+### Toukabou Shigure
+
+<Weapon weapon="Toukabou Shigure" weapons={swords} />
+
 ### Xiphos' Moonlight
 
 <Weapon weapon="Xiphos' Moonlight" weapons={swords}>

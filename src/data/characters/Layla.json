@@ -256,7 +256,7 @@
       {
         "name": "Shadowy Dream-Signs",
         "desc": "When Layla crafts Character Talent Materials, she has a 10% chance to receive double the product.",
-        "img": "Layla/passive_2",
+        "img": "Common/Double_Character_Talent_Materials",
         "minAscension": 0
       }
     ],

@@ -392,7 +392,7 @@
       {
         "name": "Aristocratic Introspection",
         "desc": "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.",
-        "img": "Eula/passive_2",
+        "img": "Common/Double_Character_Talent_Materials",
         "minAscension": 0
       }
     ],
