@@ -131,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Noelle's infused Normal and Charged Attacks apply 1GU and have standard 3 hit / 2.5s ICD.
+* Noelle's infused Normal and Charged Attacks apply 1U Geo and have no ICD.
 * The DEF to ATK conversion is snapshotted when you activate Burst so any changes to DEF after Burst is used will not affect ATK.
 * The two activation damage instances can proc the healing effect from **Breastplate**.
 
