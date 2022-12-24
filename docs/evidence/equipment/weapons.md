@@ -793,6 +793,27 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 **Significance:**  
 This will hurt Albedo's damage until this is fixed. This bug is known and has been known to MHY for several months now.
 
+### Cinnabar Spindle's Passive Is Dynamic
+
+**By:** Mr. Pillow\#0065  
+**Added:** <Version date="2022-12-17" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cinnabar-spindles-passive-is-dynamic)
+
+**Finding:**  
+Cinnabar Spindle's passive is dynamic, even for abilities that can snapshot.  
+  
+**Evidence:**  
+In this [video](https://www.youtube.com/watch?v=Zlok4zHEDjU), Albedo's Elemental Skill snapshots Gorou's DEF buff and his Transient Blossoms are triggered twice, once when General's War Banner is active and once when it is inactive. The DMG calculations below show that Cinnabar Spindle uses Albedo's current DEF, i.e. its passive is dynamic.  
+  
+* General's War Banner active, 3611 DMG dealt: `(2.405*(1480.4 + 438.09) + 0.80*(1480.4 + 438.09))*(1 + 0.288)*(0.50666)*(0.9)`  
+* General's War Banner inactive, 3405 DMG dealt: `(2.405*(1480.4 + 438.09) + 0.80*(1480.4))*(1 + 0.288)*(0.50666)*(0.9)`  
+
+Legend for values used: 2.405 = Transient Blossom Talent%, 0.80 = Cinnabar%, 1480.4 = Albedo's DEF, 438.09 = DEF Increase, 0.288 = DamageBonus, 0.50666 = EnemyDefMult, 0.9 = EnemyResMult.  
+  
+**Significance:**  
+Confirmation that Cinnabar Spindle's passive is dynamic, even for abilities that can snapshot.  
+
 ---
 
 ### Deathmatch
