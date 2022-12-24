@@ -41,6 +41,24 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 <ASdropoff />
 
+### Tighnari Can Paralyze the Aeonblight Drake With 1 Aimed Shot
+
+**By:** HiddenGhost\#2705, pai\#3602  
+**Added:** <Version date="2022-12-17" />  
+**Last tested:** <VersionHl date="2022-12-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/special-aimed-shots-vs-aeonblight-drake-weak-spots)  
+
+**Finding:**  
+Tighnari can paralyze the Aeonblight Drake with 1 Aimed Shot instead of 2, but it has to be a Wreath Arrow (Charge Level 2). It only works when aiming at the bright core in the center of the weak spot on its wing. The Aimed Shot paralyzes one wing, and the Clusterbloom Arrows paralyze the other wing. Sara can also do this, but Ganyu, Yoimiya, Faruzan, and C1 Venti can't.  
+
+**Evidence:**  
+* Tighnari: [YouTube](https://youtu.be/DYvBTE4ecno)
+* Sara: [YouTube](https://youtu.be/fkEKS7qnv8I)
+* Other special Aimed Shots that don't work: [YouTube](https://youtu.be/KBiE-nOrsCM) (credits to f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920 and Casdela\#5121 for some of the clips)
+
+**Significance:**  
+With some practice, this method can save a bit of time when fighting the Aeonblight Drake, since charging up a Wreath Arrow after casting Tighnari's Skill is faster than doing it again normally. It allows you to start setting up a rotation while the other wing gets paralyzed and the Aeonblight Drake falls down.  
+
 ## Skill Mechanics
 
 * Tighnari's E snapshot at activation. - [Video](https://youtu.be/NILZic2btMk) - Bobrokrot#0111
