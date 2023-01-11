@@ -78,6 +78,22 @@ Nahida thinks Shatter is a reaction, and it can trigger TKP.
 **Significance:**  
 It is still the bastard child.
 
+### The God Of Wisdom Is Arachnophobic
+
+**By:** Mr. Pillow\#0065  
+**Added:** <Version date="2023-01-11" />  
+**Last tested:** <VersionHl date="2023-01-10" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/the-god-of-wisdom-is-arachnophobic)
+
+**Finding:**  
+Nahida's Hold and Tap versions of her Elemental Skill cannot mark Spiders with the Seed of Skandha, since Spiders are counted as Overworld Obstacles and are not opponents.  
+  
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=zxckhjLFokg)   
+  
+**Significance:**  
+Fluff.
+
 ## Burst Mechanics
 
 ## Ascension Mechanics
