@@ -275,6 +275,33 @@ The Energy burn Orbs from Coral Defenders have 1 instance of damage. This damage
 **Significance:**  
 It was previously assumed that the damage is based on how much HP a character has, this turns out to not be the case (no difference in damage taken between test 1 and 2). The damage actually is affected by DEF but not by RES. Melt does not increase the damage dealt by the unblockable part, which adds value to shielders such as Zhongli.
 
+### Coral Defenders and Bathysmal Vishap Cleansing Shower HP Loss Correction
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2023-01-06" />  
+**Last tested:** <VersionHl date="2022-11-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/watervishap-hp-drain-correction)
+
+**Finding:**    
+The HP Loss from the Coral Defenders and Bathysmal Vishaps' Cleansing Shower atack is not affected by DEF.
+  
+The correct calculations for the HP Loss are as follows:  
+Boss:     (0.17 × Character Max HP + 600) × (1 - Remaining Energy/30)  
+Non-Boss: (0.14 x Character Max HP + 200) × (1 - Remaining Energy/10)  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/BHDGmS1)  
+* Venti regenerates 15 Energy from his 4th Ascension Passive. The Cleansing Shower dealt (0.17 × 18474 + 600) × (1 - 15/30) = 1870 DMG 
+
+[Imgur](https://imgur.com/a/n9568Zy)   
+* Ganyu has 122% ER, and generates 2 particles from her Skill which grants her 7.32 energy. The first Cleansing Shower dealt (0.17 × 16686 + 600) × (1 - 7.32/30) = 2598 DMG, and the second Cleansing Shower did (0.17 × 16686 + 600) × (1 - 0/30) = 3436 DMG    
+
+[Imgur](https://imgur.com/a/NIAVKSw)  
+* Ayato has 123.3% ER, and generates 1 particle from his Skill which grants him 3.699 energy. The Cleansing Shower dealt (0.14 × 25205 + 200) × (1 - 3.699/10)= 2349 DMG.  
+  
+**Significance:**  
+Correcting misinformation in the Coral Defenders page of the TCL.  
+  
 ## Coral Defenders Can Double Spike In Abyss
 
 **By:** makeway4pK\#3901  

@@ -32,7 +32,7 @@ Coral Defenders have +20% RES to their own Element.
 
 * **Cleansing Shower:** Forms an orb within their mouth and launches it at the player. On hit, the orb deals minor AoE Cryo DMG or AoE Electro DMG and drains 30 Energy from the active character.
   * If the active character has less than 30 Energy, the rest of the drain is converted to True DMG which ignores shields.
-  * The True DMG is affected by DEF but not RES.
+  * The True DMG is not affected by DEF and RES.
 * **Spike Field:** One of the vishaps plugs its tail into the ground, creating a large field, within which ice shards or Electro Energy frequently spike from the ground at random locations, dealing Cryo DMG or Electro DMG.
   * In the Overworld, only one of them can use the Spike Field attack. The Bolteater Vishap will not use this attack until the Rimebiter Vishap reaches critical health.
   * In the Spiral Abyss they can do this attack at the same time.
