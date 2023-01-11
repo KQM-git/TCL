@@ -107,6 +107,7 @@ import Skill from '@site/src/components/char/Skill'
 * The range of **All Schemes to Know** is about 9 meters for Press E and 26 meters for Hold E.
 * [Fischl A4](../electro/fischl.md#ascension-passives) happens before Nahida E (at ~200ms ping).
 * **Tri-Karma Purification** can be triggered by the Shatter reaction.
+* Spiders cannot be marked with **All Schemes to Know**.
 
 </TabItem>
 
