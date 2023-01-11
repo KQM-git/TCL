@@ -1905,6 +1905,24 @@ By using more than one Hydro/Pyro/Electro source, each unit could take more than
 **Significance:**  
 Previous knowledge about the reactions' ICD is insufficient. Further testing should be conducted to find out more about the actual mechanic of these reactions.  
 
+### Dendro Core explosions can damage Ley Line Monoliths
+
+**By:** Juko\#9385        
+**Added:** <Version date="2023-01-11" />    
+**Last Tested:** <VersionHl date= "" />        
+[Discussion](https://tickets.deeznuts.moe/transcripts/bloom-monolith-damage)
+
+**Finding:**            
+The Dendro Core explosions from Bloom, Bountiful Bloom, and Burgeon can damage the Ley Line Monolith.
+
+**Evidence:**                                                                                                  
+[Youtube](https://youtu.be/IU9ue7Xzj4A)                            
+[Youtube](https://youtu.be/Q289FzcA7Sc)                        
+[Youtube](https://youtu.be/okoy9Jr4sh0)                                 
+
+**Significance:**                                                                                                                                                     
+Using Bloom, Bountiful Bloom, and Burgeon reactions are less recommended for objectives that involve the defense of Ley Line Monoliths.
+
 ## Hyperbloom
 
 ### Hyperbloom Damaging the Player
