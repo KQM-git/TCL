@@ -35,7 +35,7 @@ search: false
 **Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AoE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:
 
 * First: The gadget will stick to the target, following them even if running outside her range.
-* Second: After a short delay, all enemies inside the gadget range will be targetted for a hit.(Exact range and height unknown)
+* Second: After a short delay, all enemies inside the gadget range will be targeted for a hit. (Exact range and height unknown)
 * Third: The gadget is dynamic in the sense it can move along side with its tagged target.
 * Fourth: The gadget will only be created if an enemy is within range/ triggers it, meaning Ayaka's CA range without an enemy to tag is much shorter than previously assumed, as only an initial cut is created without the gadget.
 
@@ -51,7 +51,7 @@ search: false
 * [Clips showing Ayaka's CA having a hitbox without gadget](https://www.youtube.com/watch?v=D08yx7p1iHo)
 
 **Significance:**  
-Significance: Knowing how Ayaka's Charged Attack works can help players come up with strats for specific situtaions to maximize damage output.  
+Significance: Knowing how Ayaka's Charged Attack works can help players come up with strats for specific situations to maximize damage output.  
 For example, the gadget is smaller than Geovishap's large collision box which means that even though they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are Frozen while clipped inside one another they can both be hit.
 
 ### Ayaka CA Conclusion
@@ -94,7 +94,7 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 **Last tested:** <VersionHl date="2021-12-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_920526901016150056_922629903579508797_transcript-ayaka-ca-below-feet.html)
 
-**Finding:** Apart from being able to reach enemies above Ayaka’s ground level (due to Venti’s lift, or Jean’s CA, etc.), Ayaka’s CA can also reach enemies below her ground level, thanks to the mechanics of her subsequent hitscans from the intial one.
+**Finding:** Apart from being able to reach enemies above Ayaka’s ground level (due to Venti’s lift, or Jean’s CA, etc.), Ayaka’s CA can also reach enemies below her ground level, thanks to the mechanics of her subsequent hitscans from the initial one.
 
 **Evidence:**
 

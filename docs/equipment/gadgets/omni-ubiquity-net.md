@@ -1,6 +1,6 @@
 # Omni-Ubiquity Net
 
-## Miscelaneous findings
+## Miscellaneous findings
 
 * The Omni-Ubiquity Net (OUN) has a 1-animal-per-net limit.
 * If more than one animal is in the OUN's AoE, the animal closest to the player is captured.

@@ -39,7 +39,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906802193846398977_923113252932710420_transcript-pyronado-and-glacial-waltz-frame-count-vs-cryo-regisvine.html)
 
 **Finding:**  
-Kaeya’s Glacial Waltz (non-c6) has an enemy-independent lock that lasts at least 75f or 1.2s. I constantly observe the icicles proccing about 75-100f since their last proc. This is true regardless if the hitboxes come from the same enemy (B-1) or different (B-2). This means that the locks are specific to icicles and independent of enemy. The timing is more variable than Xiangling’s Pyrnado, but this could be due to funky Glacial Waltz hitboxes, which is beyond the scope of what I’m trying to do.
+Kaeya’s Glacial Waltz (non-c6) has an enemy-independent lock that lasts at least 75f or 1.2s. I constantly observe the icicles proccing about 75-100f since their last proc. This is true regardless if the hitboxes come from the same enemy (B-1) or different (B-2). This means that the locks are specific to icicles and independent of enemy. The timing is more variable than Xiangling’s Pyronado, but this could be due to funky Glacial Waltz hitboxes, which is beyond the scope of what I’m trying to do.
 
 **Evidence:**
 

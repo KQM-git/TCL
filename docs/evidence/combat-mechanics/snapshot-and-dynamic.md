@@ -77,7 +77,7 @@ CA DMG%: From [4SR](https://youtu.be/fc8pdCPxTRU), [4WT](https://youtu.be/G0F9ST
 DMG%: (usually snaps but these two do not) [Alley Hunter](https://youtu.be/GMZtnuvn3X0), [Geo Resonance](https://youtu.be/TpBFUvREWGo)  
 Electro CRIT DMG: From [Sara C6](https://www.youtube.com/watch?v=r4ENm19DOPY)
 
-**Signifiance:**  
+**Significance:**  
 More extensive knowledge on what does and does not snapshot.
 
 ## Healing over time is snapshot on cast
@@ -122,5 +122,5 @@ Barbara on-hit healing from her Skill scales on maximum HP, so I equipped her wi
 
 Barbara and Qiqi Skills function extremely similarly, and their snapshotting mechanics also seems to be the same.
 
-**Signifiance:**  
+**Significance:**  
 Mostly fluff, since you can't switch out weapons or artifacts in abyss/during combat. One practical use-case is when you have both Jean and Bennett in the same team, using Bennett Burst first followed by Jean's Burst will increase the amount of healing done by Dandelion Breeze, compared to the other way around.

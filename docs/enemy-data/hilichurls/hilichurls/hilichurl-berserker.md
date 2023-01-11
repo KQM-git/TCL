@@ -48,4 +48,4 @@ Head.
 
 * Attempts to light up its torch, infusing it with Pyro. If failing to light it up (for reasons such as raining) it will continue attempting to.
 * Slowly closes in on the player, once in range, it will take a jab with its torch.
-* Enters berserk rage, continously charing in the direction of the player while furiously swining his torch.
+* Enters berserk rage, continuously charing in the direction of the player while furiously swinging his torch.

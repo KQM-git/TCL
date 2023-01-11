@@ -129,7 +129,7 @@ Skill and Burst on the Same Frame \(I will call this \[EQ\]\):
 * Doing this with 4-Piece Shimenawa's allows Childe to activate the 4-Piece effect while avoiding the Energy tax: [YouTube](https://youtu.be/3fHjMaCtjz0)  
   2\. Starting in Melee Stance, \[EQ\] puts Childe in Ranged Stance while casting Melee Burst: [YouTube](https://youtu.be/Qgcjw5w1e2E)
 * The Burst camera angle is messed up.
-* C6 does NOT trigger on the inital return to ranged stance: [YouTube](https://youtu.be/_NR07r1MZT0) - Mystathi\#9705
+* C6 does NOT trigger on the initial return to ranged stance: [YouTube](https://youtu.be/_NR07r1MZT0) - Mystathi\#9705
 * However, the next time that Childe uses Skill and then returns to ranged, C6 DOES trigger: [YouTube](https://youtu.be/7rY5yFc3LLQ) - Mystathi\#9705
 * Doing this with 4-Piece Shimenawa's allows Childe to activate the 4-Piece effect while avoiding the Energy tax: [YouTube](https://youtu.be/lAM1Z2QLilE) - yolitme0\#0579
 
@@ -340,7 +340,7 @@ Childe can trigger 4 the 4-Piece Pale Flame passive with his riptide in melee fo
 **Evidence:**  
 [Video](https://www.bilibili.com/video/BV1Ry4y1g7Xv?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1621945518&unique_k=seCHWV)
 
-**Signficance:**  
+**Significance:**  
 Childe can stack the 4-Piece Pale Flame passive in his melee form with riptides.
 
 ### Childe Melee Charged Attack Misses Stunned Ruin Guard

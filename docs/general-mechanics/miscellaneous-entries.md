@@ -31,7 +31,7 @@ description: For entries that have little practical use.
   * Liyue - Statue near Qingyun Peak
   * Liyue - Statue in Dihua Marsh
   * Liyue - Statue in Mingyun Village
-  * Inazuma - Sanganomiya Island Statue
+  * Inazuma - Sangonomiya Island Statue
   * Inazuma - Tsurumi Island Statue
 * The doors in the Knights of Favonius HQ act as a mini load border, which can make some very [interesting things happen](../evidence/general-mechanics/miscellaneous-entries.md#door-load-border-shenanigans). Only doors that fit these conditions will work:
   1. Must have an interact prompt to pass through.

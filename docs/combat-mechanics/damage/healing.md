@@ -64,7 +64,7 @@ $$
 Characters:
 * Jean's [**Ascension Stat**](../../characters/anemo/jean.md#base-stats)
 * Sangonomiya Kokomi's [**Flawless Strategy**](../../characters/hydro/sangonomiya-kokomi.md#ascension-passives) \(Passive\)
-* Sangonimiya Kokomi's [**Song of Pearls**](../../characters/hydro/sangonomiya-kokomi.md#ascension-passives) \(A4\)
+* Sangonomiya Kokomi's [**Song of Pearls**](../../characters/hydro/sangonomiya-kokomi.md#ascension-passives) \(A4\)
 * Kuki Shinobu's [**Breaking Free**](../../characters/electro/kuki-shinobu.md#ascension-passives) \(A1\)
 * Qiqi's [**Ascension Stat**](../../characters/cryo/qiqi.md#base-stats)
 

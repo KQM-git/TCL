@@ -62,7 +62,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
-* Klees's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
+* Klee's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
 * 3 hits / 2.5s ICD, shared with Elemental Skill
 * Enemies struck by Klee's charged attack will be staggered or launched.
 

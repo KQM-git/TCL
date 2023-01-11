@@ -66,7 +66,7 @@ Albedo's Solar Isotoma procs the Transient Blossoms when enemies take damage (cl
 **Evidence:**  
 Triggers offline (client-side) and from talents, reactions, and environmental damage - [YouTube #1](https://youtu.be/FpCKqikOCQA), [YouTube #2](https://youtu.be/Mw_9WIU4cdk), [YouTube #3](https://youtu.be/0VWD8izbYog)
 
-**Signifiance:**  
+**Significance:**  
 Albedo's on-damage effect appears to trigger client-side and from all sources of damage, unlike most other on-damage effects.
 
 ## Burst Mechanics
@@ -92,7 +92,7 @@ Specific Attack Calcs: [Google Sheet](https://docs.google.com/spreadsheets/d/1k_
 
 This is similar to Ningguang's Q, where the gems from the screen have their stats taken from the E's Screen.
 
-**Signifiance:**  
+**Significance:**  
 To maximize Albedo Q damage, E should snapshot any attack buffs, as otherwise the fatal blossoms will not gain damage. Also shows why in my testing, fatal blossoms do not gain mistsplitter stacks.
 
 ## Ascension Mechanics

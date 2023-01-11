@@ -97,7 +97,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Yun Jin is considered shielded for the duration of her **Opening Flourish** stance.
-  * This can be used to apply Geo Resonanace Geo Res Shred.
+  * This can be used to apply Geo Resonance Geo Res Shred.
 * Yun Jin can perfect counter shots from the Inazuma Kamuijima Cannons.
 * Yun Jin's flags from her E persist for however long she's Frozen.
 

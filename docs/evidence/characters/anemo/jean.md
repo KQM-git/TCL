@@ -45,8 +45,8 @@ Tested this with Jean level by level. For Gale Blade to continually be able to p
 
 **Evidence:**
 
-* [Lvl 74 Jean vs lvl 95 Hillichurl, where target Hilichurl isn't lifted](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/jean.md/discord/attachments_765191980115689542_794809136244195339_unknown.png)
-* [Lvl 75 Jean vs lvl 95 Hillichurl, where target Hilichurl is lifted](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/jean.md/discord/attachments_765191980115689542_794809333057454091_unknown.png)
+* [Lvl 74 Jean vs lvl 95 Hilichurl, where target Hilichurl isn't lifted](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/jean.md/discord/attachments_765191980115689542_794809136244195339_unknown.png)
+* [Lvl 75 Jean vs lvl 95 Hilichurl, where target Hilichurl is lifted](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/jean.md/discord/attachments_765191980115689542_794809333057454091_unknown.png)
 
 **Significance:**  
 Leveling your Jean to 80 is necessary if you want to abuse fall damage on Level 100 enemies on Floor 12 of Spiral Abyss
@@ -275,7 +275,7 @@ Here is the Passive being activated with Jean EQ, as already established:
 
 * [Video](https://i.imgur.com/BzPnp5R.mp4)
 
-Below are two instances of off-field FS activation via OL occuring in Abyss 12\-2 against two Ruin Graders:
+Below are two instances of off-field FS activation via OL occurring in Abyss 12\-2 against two Ruin Graders:
 
 * [Video 1](https://i.imgur.com/U6BCcIO.mp4)
 * [Video 2](https://i.imgur.com/OMqYjXr.mp4)

@@ -90,7 +90,7 @@ Tartaglia (credit to Sayline#5959): [YouTube](https://youtu.be/Z6WmXS8mo_o)
 Yoimiya: [YouTube](https://youtu.be/0Q4jsgySdqU)
 
 Proof that second shot is ARCC:  
-Has same targetting as ARCC: [Imgur](https://imgur.com/6XgzeiX)  
+Has same targeting as ARCC: [Imgur](https://imgur.com/6XgzeiX)  
 Second shot has CA damage: [YouTube](https://youtu.be/WDjgMb6D6Ck)
 
 **Significance:**  

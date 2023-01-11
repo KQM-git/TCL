@@ -298,7 +298,7 @@ If you cast Mona's Skill, but then hit the dash key before Mona's taunt is out, 
 
 [YouTube](https://youtu.be/gDEZhioyCxs)
 
-**Signifiance:**  
+**Significance:**  
 Mona shouldn't dash until her Skill is finished casting. This Skill cancellation may also occur in the future for future characters with Mona-style alternate sprints.
 
 ### Mona dash i-frame

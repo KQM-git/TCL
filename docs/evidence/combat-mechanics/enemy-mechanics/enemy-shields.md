@@ -91,7 +91,7 @@ Some foreign auras can exist on certain Fatui when their armor is up. These aura
 [YouTube video](https://youtu.be/kHlMVro_s-c)
 
 * More testing with Geo armor, however Geo gauges were not tested.
-* 1U, 2U, and 4U of gauge when crystalized breaks different amount of Geo Fatui's armor.
+* 1U, 2U, and 4U of gauge when crystallized breaks different amount of Geo Fatui's armor.
 
 [YouTube video](https://youtu.be/6g5mCPkf7dQ)
 
@@ -124,7 +124,7 @@ Aside from Geo damage, there is also a number of attacks that break Geo Armor. A
 * [YouTube](https://youtu.be/k70_Ni1p3SU)
 * [YouTube](https://youtu.be/FzMEho-V3rs)
 
-Here are some clips Jean breaking Geo Armor of Geo Fatui with charged attacks and her E, and also a clip of her breaking a crystal with her E \(her E and charged attacks also one-shot white iron ores\). The last clip features Amber E almost one-shoting the crystal and Anemo MC last tick of E dealing significant damage to the crystal.
+Here are some clips Jean breaking Geo Armor of Geo Fatui with charged attacks and her E, and also a clip of her breaking a crystal with her E \(her E and charged attacks also one-shot white iron ores\). The last clip features Amber E almost one-shotting the crystal and Anemo MC last tick of E dealing significant damage to the crystal.
 
 It is common knowledge that Overload reaction breaks Geo Armor — it can be explained by the fact that Overload explosion pushes enemies.
 
@@ -175,7 +175,7 @@ We now might be able to measure stagger values precisely. Please contact me if y
 
 **Note 2:** on Swirl on Crystallize reaction you can clearly see Hydro symbol appearing above mage. Also note that Crystallize reaction creates Hydro crystals instead of Cryo.
 
-**Note 3:** Ningguang basic attacks consume 0.5U with Crystallize. 12 attacks against 12U shield is equal to 1U per attack, so we expect Shatter of Ninguang basic attacks to have a total value of 0.5U \(on Shatter values I'll expand in a separate submission\). With 0.5U per attack from Shatters we would expect 24 Ningguang basic attacks to break the sheld on water instead of 23. The reason for this difference is that, first, Ninguang basic attacks actually Shatter 2 times per attack \(you can see the animation for each if you attack with Ning up close; also see Shatter submission\) and that a total of 46 Shatter of lvl 20 character deal a total of 5474 damage. For a lvl 81 Hydro Abyss mage my estimation for 0.4U of shield is around 5-6k \(see [https://docs.google.com/spreadsheets/d/167gv0GWLu5HFLGCXZW3mBY0S2nimPv3dm5mGsxSiJME/edit\#gid=0](https://docs.google.com/spreadsheets/d/167gv0GWLu5HFLGCXZW3mBY0S2nimPv3dm5mGsxSiJME/edit#gid=0)\)
+**Note 3:** Ningguang basic attacks consume 0.5U with Crystallize. 12 attacks against 12U shield is equal to 1U per attack, so we expect Shatter of Ningguang basic attacks to have a total value of 0.5U \(on Shatter values I'll expand in a separate submission\). With 0.5U per attack from Shatters we would expect 24 Ningguang basic attacks to break the sheld on water instead of 23. The reason for this difference is that, first, Ningguang basic attacks actually Shatter 2 times per attack \(you can see the animation for each if you attack with Ning up close; also see Shatter submission\) and that a total of 46 Shatter of lvl 20 character deal a total of 5474 damage. For a lvl 81 Hydro Abyss mage my estimation for 0.4U of shield is around 5-6k \(see [https://docs.google.com/spreadsheets/d/167gv0GWLu5HFLGCXZW3mBY0S2nimPv3dm5mGsxSiJME/edit\#gid=0](https://docs.google.com/spreadsheets/d/167gv0GWLu5HFLGCXZW3mBY0S2nimPv3dm5mGsxSiJME/edit#gid=0)\)
 
 **Significance:**  
 Don't use Geo or Anemo to break Cryo Abyss mage shields on water.
@@ -245,7 +245,7 @@ Damage to enemy shields is affected by three main formulas, which are summed for
 **Evidence:**  
 There are pages on the wiki that already detail this information, however I created a [google document](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit?usp=sharing) which aims to compile it all into one source which is easy to digest. All references are included in the document.
 
-## Critial-Hit Triggered Abilities Interactions With Shields
+## Critical-Hit Triggered Abilities Interactions With Shields
 
 **By:** Silvershine2#5439  
 **Added:** <Version date="2021-06-14" />  

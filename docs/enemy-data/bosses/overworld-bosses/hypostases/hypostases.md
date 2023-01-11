@@ -215,7 +215,7 @@ Code Name: Ayin. A high-purity Pyro entity. Elemental hypostases have the abilit
   * In the ignited state, if its HP is less than 50%, it will regenerate 5% HP after every attack, including after reigniting.
     While in Ignited State:
 * Arranges itself as a molten boar that charges at the player before periodically surfacing above ground, then turns into a giant hand that leaps into the player's general location.
-  * Sometimes it may do a follow-up attack, emerging at the player's general location and explodeing. The Hypostasis will disappear momentarily after exploding.
+  * Sometimes it may do a follow-up attack, emerging at the player's general location and exploding. The Hypostasis will disappear momentarily after exploding.
 * Forms itself into a giant ball that curves at the player's location, leaving a damaging Pyro trail behind it.
 * When near the player, it levitates high above ground, and plunges back down. This creates a Shockwave.
 * Arranges itself into a Pyro Serpent that fires 3 damaging fireballs at the player's general location.

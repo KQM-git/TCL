@@ -37,7 +37,7 @@ _Basic Mechanics:_
 * Rock does not light up with Elemental Sight: [YouTube](https://imgur.com/CnzrqRP)
 * Rock has 0 DEF and 0 RES: [Imgur](https://imgur.com/bVH9zer)
   * Amber and Sara both have 85 ATK and 124% CA modifier. 1.24 \* 85 = 105.4. The damage number was 105.
-* Rock is targettable (Guoba and Oz will target the rock, for example): [Imgur](https://imgur.com/qTsGcVK)
+* Rock is targetable (Guoba and Oz will target the rock, for example): [Imgur](https://imgur.com/qTsGcVK)
 * Rock can hold Cryo aura:
   * [Swirl and Crystallize](https://youtu.be/xK8FCPxjHv4)
   * [Melt](https://youtu.be/zKyXIUhqTio)
@@ -121,7 +121,7 @@ _Glitches:_
 **Significance:**
 
 * Furthering the knowledge of the cursed overworld of Teyvat.
-* Considering the island is called the Vishap Research Lab and the enclosure-like nature of the room, I can only surmise that Batyshmal Vishaps who were experimented on were kept in there at some point. The strange substance left behind on the ground is therefore most likely a reptile coprolite - the fossilized excrement of the Vishaps. The cobalt blue color is likely due to the Elemental constitution of the beasts, and the crystal-like formation may be thanks to the uric acid that was present at the time of discharge. The easily flammable property further proves my point, since coprolite is mostly carbon. (Mr. Pillow\#0065)
+* Considering the island is called the Vishap Research Lab and the enclosure-like nature of the room, I can only surmise that Bathysmal Vishaps who were experimented on were kept in there at some point. The strange substance left behind on the ground is therefore most likely a reptile coprolite - the fossilized excrement of the Vishaps. The cobalt blue color is likely due to the Elemental constitution of the beasts, and the crystal-like formation may be thanks to the uric acid that was present at the time of discharge. The easily flammable property further proves my point, since coprolite is mostly carbon. (Mr. Pillow\#0065)
 
 ## Serenitea Pot
 
@@ -317,7 +317,7 @@ Fluff, exploration, overworld survivability.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832412514858958878_835397401812533268_transcript-electro-crystals-have-levels.html)
 
 **Finding:**  
-Electro crystals have different damage values on the same world level, the recorded ones after defense are: 325, 267, 247, 279, 273, 297, 292, 303, 287, 283, the Lisa used for the test had 159 defense, meaning 15% damage reduction, further testing shows that there is no level differencial taken into the formula for crystal attacks, but they do have levels as indicated by reactions, the pre defense damage dealt by them is: 373, 307, 284, 320, 313, 341, 335, 348, 320, 325 repsectively to the values stated above, with the end results as:
+Electro crystals have different damage values on the same world level, the recorded ones after defense are: 325, 267, 247, 279, 273, 297, 292, 303, 287, 283, the Lisa used for the test had 159 defense, meaning 15% damage reduction, further testing shows that there is no level differential taken into the formula for crystal attacks, but they do have levels as indicated by reactions, the pre defense damage dealt by them is: 373, 307, 284, 320, 313, 341, 335, 348, 320, 325 respectively to the values stated above, with the end results as:
 
 | Electro Damage | Electro-Charged Damage | Calculated Crystal Level |
 | :------------- | :--------------------- | :----------------------- |
@@ -341,7 +341,7 @@ The curious part is how 2 different crystal damages share the same level.
 * [Electro-Charged testing result proof](https://www.youtube.com/watch?v=MI7gNlhEmbg)
 
 **Significance:**  
-Ruining kid's trust in miHoYo's consistancy, fluff, learning how the world is made
+Ruining kid's trust in miHoYo's consistency, fluff, learning how the world is made
 
 ### Overworld Entities Have Levels
 
@@ -359,7 +359,7 @@ Overworld has levels for every "body", including water and grass and sand, trees
 Flower stamens deal damage based on a static, pre-determined level assigned to them. While levels for grass are dynamic and change under currently unknown circumstances: [Video](https://www.youtube.com/watch?v=7NlTEDO2oFk)  
 Water (using electrified): [Video](https://www.youtube.com/watch?v=oSepgh_2M_M)
 
-**Signifiance:**  
+**Significance:**  
 Almost cracking the code for overworld. Now getting a bit closer.
 
 ### Mondstadt
@@ -606,7 +606,7 @@ Understanding the cursed overworld of Teyvat.
 **By:** Greyhound\#7836  
 **Added:** <Version date="2021-06-25" />  
 **Last tested:** <VersionHl date="2021-06-25" />  
-[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854439111430635560_858186241102446602_transcript-cursed-terrain-electrified-environment-reaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854439111430635560_858186241102446602_transcript-cursed-terrain-electrified-environment-reaction.html)
 
 **Theory:**  
 Genshin's overworld works under a different set of reaction rules than the players, additionally supported by the entry [Overworld Entities Have Levels](../../evidence/general-mechanics/overworld.md#overworld-entities-have-levels), one of those different rules of reactions is Electrified water, when applying Electro to water, it does not produce Electro-Charged, instead it infuses the water with Electro for a few seconds, which does not apply Electro, does not spread, and is not affected by 4TF set bonus, this electrified water can damage both the player and enemies. Water additionally is seen as friend to both player and enemy, which questions the nature of this Electrified reaction even further.
@@ -660,7 +660,7 @@ Overworld Hydro can be split into 2 types:
 
 [Water Max Strength, and Stacking](https://youtu.be/r7W9h75ct2U):
 
-* The duration the Hillichurl was Frozen for indicates they had 48-50 durability
+* The duration the Hilichurl was Frozen for indicates they had 48-50 durability
 * They were re-frozen 43 frames after falling into the water. Since water ticks every 15 frames, they should have had 3 ticks applied to them for 30 durability. \* Their Frozen duration matches 28-30 durability
 
 Rain Max Strength:
@@ -773,7 +773,7 @@ Falls water.
 **Finding:**  
 Frozen water can be isolated from regular water by changing the water level or position after freezing the water. The patch of ice will be stationary, and you may stand on it or place constructs on it, just like the regular behaviour. It will also expire at the expected time for regular Frozen water. This is similar behaviour to Electro-Charged patches of water, which will also remain in place regardless of the water movement, and will behave as expected.
 
-This ticket uses an area in Mona's GAA quest domain. Do note that the water level does continuously change between the 3 possible ending states, so you can Freeze or Electro-Charged water inbetween the "3 levels," but for ease of TC most of the tests were done at the top or middle level.
+This ticket uses an area in Mona's GAA quest domain. Do note that the water level does continuously change between the 3 possible ending states, so you can Freeze or Electro-Charged water in between the "3 levels," but for ease of TC most of the tests were done at the top or middle level.
 
 Note that there are visual bugs where the part of or the entire ice graphic may disappear prematurely. It is unknown whether this is because of the graphics settings I used, the mechanics of the water level changer, or an issue with Frozen water without regular water. This is entirely visual and the invisible ice functions the exact same.
 
@@ -815,7 +815,7 @@ One option is to make things "logical," for Frozen water to simply disappear whe
 **By:** Greyhound\#7836  
 **Added:** <Version date="2021-06-21" />  
 **Last tested:** <VersionHl date="2021-06-21" />  
-[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854441186256355348_856763759632449536_transcript-cursed-terrain-electro-crystal-range.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854441186256355348_856763759632449536_transcript-cursed-terrain-electro-crystal-range.html)
 
 **Finding:**  
 Electro crystals' pulse range works in a rectangle range, with the crystal being not centered, but rather between the center and the side
@@ -891,7 +891,7 @@ Vault update.
 **By:** deaf\#0246  
 **Added:** <Version date="2021-09-06" />  
 **Last tested:** <VersionHl date="2021-09-06" />  
-[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880603421873418362_884484706299686942_transcript-elemental-interactions-with-bushes.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880603421873418362_884484706299686942_transcript-elemental-interactions-with-bushes.html)
 
 **Theory:**  
 Elemental applications can be used to destroy and damage bushes, however not all elements are equal in this regard. Additionally, there are several other abilities such as Jean's E, the cast of Kaeya's Burst, Albedo's Burst, etc... which can be used to both damage and destroy bushes.
@@ -980,7 +980,7 @@ Putting out campfires with utmost efficiency
 **By:** anonpuffs\#2537  
 **Added:** <Version date="2021-10-09" />  
 **Last tested:** <VersionHl date="2021-10-09" />  
-[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885127802570039336_896138078912135228_transcript-structures-are-not-enemies.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885127802570039336_896138078912135228_transcript-structures-are-not-enemies.html)
 
 **Finding:**  
 Structures do not count as "opponents" for the purposes of triggering abilities like albedo's Elemental Skill.
@@ -1545,7 +1545,7 @@ Fluff. This could also explain the fact that when you switch from child to adult
  The Spoutrocks introduced into the overworld with Chasm in patch 2.6, let you land your jump without taking fall damage regardless of height difference\(\+/\-\), as long as you don't:
 
 * Glide
-* Roll off a cliff \(counts as landing, you don't take damagedmg for roll but the next landing won't be soft\)
+* Roll off a cliff \(counts as landing, you don't take damage for roll but the next landing won't be soft\)
 * Use mid\-air Skills e.g. Xiao
 * Plunge \(normal reduced fall DMG for plunge, capped at 40% max HP\)
 
@@ -1769,7 +1769,7 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 
 **Theory:** Genshin remembers your location and world state(such as bosses) in different map tabs separately.
 
-**Evidence:** Anemo Hypostasis and other world bosses normally respawn after 3 minutes and teleporting away&back (as shown at the end), but doesn't respawn after going to the Archipelago, additionally teapot shows that it remembers your ogriginal location in Teyvat upon leaving: [Video](https://youtu.be/oeCJF5fXqqMkqm)
+**Evidence:** Anemo Hypostasis and other world bosses normally respawn after 3 minutes and teleporting away&back (as shown at the end), but doesn't respawn after going to the Archipelago, additionally teapot shows that it remembers your original location in Teyvat upon leaving: [Video](https://youtu.be/oeCJF5fXqqMkqm)
 
 **Significance:** It'll be relevant whenever more overworld mechanics are added which refresh when tping in/out or if we get more map tabs.
 
@@ -2012,7 +2012,7 @@ A comprehensive guide to the highest places in each region/map, extracted using 
 
 From lowest highest place to highest highest place, the order is:
 
-* Highest Place in Liyue: Qinguyn Peak Cloud Dwelling: 551.7357788085938 meters.  
+* Highest Place in Liyue: Qingyun Peak Cloud Dwelling: 551.7357788085938 meters.  
   Coordinates from [this point](https://imgur.com/a/jvtuwkT)
 
 * Highest Place in Inazuma: Serai Island Thunder Manifestation Arena: 558.1334838867188 meters.  

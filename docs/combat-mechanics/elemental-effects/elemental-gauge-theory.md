@@ -94,7 +94,7 @@ As of 3.0, the decay rate of Pyro aura updates differently than other auras. Eve
 1. Stays the same if the trigger didn't change the amount of aura on the target.  
 2. Updates to the trigger decay rate if the aura did change.  
 
-## Overloadeded and Superconduct
+## Overloaded and Superconduct
 
 These Transformative Reactions have a 1x unit modifier (effectively removing the same amount of units).
 

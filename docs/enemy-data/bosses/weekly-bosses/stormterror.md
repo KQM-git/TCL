@@ -45,7 +45,7 @@ None.
 ## Attacks
 
 * Starts airborne with a unique health shield that has to be broken. Once the shield is broken, Dvalin will fall on the same platform as the player, and the camera angle will change. During this time the player can climb on Dvalin's back and strike the crystal on the back of his head to deal damage until Dvalin gets back up.
-  * The crystal is self infused with Electro that can't be overriden or Electro-Charged.
+  * The crystal is self infused with Electro that can't be overridden or Electro-Charged.
 * Disappears from view, then swoops through the center of the platform, dealing heavy damage.
 * Lands on the player's side of the platform and unleashes a powerful breath onto a part of the platform.
 * Swipes his head towards the area the player is standing on.

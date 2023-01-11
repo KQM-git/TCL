@@ -25,7 +25,7 @@ Basic Mechanics and Known Locations:
 
 * 0-poise attacks also register on Kageroumaru.
 * Kageroumaru can hold non-Elemental statuses, but not marks.
-* Kageroumaru's parry does not have a cooldown. He reacts to all attacks inlicted on him, including every single hit of a multi-hit attack.
+* Kageroumaru's parry does not have a cooldown. He reacts to all attacks inflicted on him, including every single hit of a multi-hit attack.
 
 ## Daily Commissions
 
@@ -154,7 +154,7 @@ Patch 2.6 introduced The Chasm:
 
 ### Electrified
 
-* Electrified is an Electro+Hydro reaction that can only be triggered with the useage of overworld water.
+* Electrified is an Electro+Hydro reaction that can only be triggered with the usage of overworld water.
 * Electrified tick count scales with Electro gauge strength applied.
 * Electrified is a harmful reaction against both player and enemy.
 * Electrified's damage is classified as transformative, but it works off of environment bases.

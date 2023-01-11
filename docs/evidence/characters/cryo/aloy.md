@@ -96,4 +96,4 @@ The wording in the Aloy Section of the Theorycrafting Library was incorrect, if 
    [YouTube](https://youtu.be/G8GhOOIwIXQ)
 
 **Significance:**  
-The bombs explode rather than disappear, and Aloy can still recieve Coil stacks from the previous round of bombs exploding upon Skill recast.
+The bombs explode rather than disappear, and Aloy can still receive Coil stacks from the previous round of bombs exploding upon Skill recast.

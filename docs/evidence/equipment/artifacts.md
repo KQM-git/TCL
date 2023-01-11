@@ -782,7 +782,7 @@ Gilded Dreams' 4-Piece Passive does not apply to the hit that triggered it or th
 [YouTube](https://youtu.be/nEgzEdU7HkA)  
 [YouTube](https://youtu.be/s-eZaGOLpdg)  
   
-**Sigificance**  
+**Significance**  
 Better understand of GD for artifact recommendations and calculations.
 
 ## Husk of Opulent Dreams
@@ -1579,7 +1579,7 @@ Clip 1 was tested against the 3 same hilichurls using the same rotation and setu
 
 With Zhongli’s shred in effect, Lisa’s 1-hit AA dealt 16 Electro DMG against one Hilichurl. Since all Hilichurls share the same base RES, we can assume Lisa will deal 16 DMG to the other two when paired with Zhongli’s RES Shred.
 
-Venti triggered Swirl, and the Electro status as well as the DMG spread to the rest of the hilichurls (as for the different Swirl DMG values shown in the clip, reasons were Zhongli’s shield range + VV shred mechanic finding above). After the Swirl, Lisa perfomed 1-hit AA on the Hilichurls, dealing 20 DMG to each one. ZL shred is still active in this scenario, but there is still a DMG increase after the VV proc from Venti.
+Venti triggered Swirl, and the Electro status as well as the DMG spread to the rest of the hilichurls (as for the different Swirl DMG values shown in the clip, reasons were Zhongli’s shield range + VV shred mechanic finding above). After the Swirl, Lisa performed 1-hit AA on the Hilichurls, dealing 20 DMG to each one. ZL shred is still active in this scenario, but there is still a DMG increase after the VV proc from Venti.
 
 Clip 2 involved the same enemies minus Zhongli shred. https://youtu.be/QzwUxjJ0k4U
 
@@ -1637,7 +1637,7 @@ In this video, Barbara's normals deal 34 damage when buffed by her C2 but not bu
 
 In this video, Jean does 98 Cryo damage \(infused by Chongyun\) on her normals with the VV buff, and Barbara does 41 damage with her normals with both VV and Xingqiu's C2 buff. When a Frozen target is swirled, Jean does 98 damage and Barbara does 41 damage to the target, meaning that the target received both a Hydro resistance down and Cryo resistance down debuff from a single Anemo attack.
 
-**Signifiance:** Improves rotations; Anemo characters don't need to be swapped in for each individual Elemental debuff.
+**Significance:** Improves rotations; Anemo characters don't need to be swapped in for each individual Elemental debuff.
 
 ### 4-Piece Viridescent Venerer Explained
 
