@@ -118,7 +118,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * On cast, **Stone Stele** is placed 1 Abyss Tile in front of Zhongli.
-* Hits that resonate from other Geo Constructs still proc the 4-Piece [Tenacity of the Millileth](../../equipment/artifacts.md#tenacity-of-the-millelith) set.
+* Hits that resonate from other Geo Constructs still proc the 4-Piece [Tenacity of the Millelith](../../equipment/artifacts.md#tenacity-of-the-millelith) set.
 * **Stone Steles** are considered Geo Constructs that can be used to block attacks, or climb.
 * **Resonance** can overlap to deal multiple instances of damage.
 * **Stone Steles** resonate independently and with Geo Constructs from enemies, but they do not resonate with each other.

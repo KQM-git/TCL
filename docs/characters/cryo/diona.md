@@ -17,7 +17,7 @@ import Image from '@theme/IdealImage'
 * [Full Diona Guide](https://keqingmains.com/diona/)
 * [4 Minute Video Guide to Diona](https://youtu.be/IWoSkeAFY4o)
 * [Icy Paws Deep Dive](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
-* [Icy Paws Sacrifical Bow vs Favonius Bow - Energy Gen & Field Time Efficiency](https://docs.google.com/spreadsheets/d/1rMyjElZHS0PDU4uyJ55bKGsmUVW82ga4xPcDUJSE760/edit#gid=1389539947)
+* [Icy Paws Sacrificial Bow vs Favonius Bow - Energy Gen & Field Time Efficiency](https://docs.google.com/spreadsheets/d/1rMyjElZHS0PDU4uyJ55bKGsmUVW82ga4xPcDUJSE760/edit#gid=1389539947)
 
 ## Base Stats
 

@@ -493,7 +493,7 @@ Cool way to dodge the attack.
 **Last tested:** <VersionHl date="2021-12-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921660671836438558_922624867973619802_transcript-anemo-cube-self-swirl-in-rain.html)
 
-**Finding:** Adequately getting rid of overworld Hydro on the Anemo Hypostasis results in it continuously Swirling itself, this damages the cube and applies Hydro to nearby characters. This can be easily done with 2U Cryo application, as seen in the evidence. Non-sufficent Cryo application does not result in this occcuring.
+**Finding:** Adequately getting rid of overworld Hydro on the Anemo Hypostasis results in it continuously Swirling itself, this damages the cube and applies Hydro to nearby characters. This can be easily done with 2U Cryo application, as seen in the evidence. Non-sufficient Cryo application does not result in this occurring.
 
 **Evidence:**
 
@@ -766,7 +766,7 @@ When attempting to reflect the Primo Geovishap's Primordial Shower with a shield
 **Evidence:**  
 [Video](https://youtu.be/sX5WStcOOjM)
 
-**Singificance:**  
+**Significance:**  
 Better understanding of the Primordial Shower.
 
 ## Elite Enemies
@@ -976,7 +976,7 @@ If any of mirror explosion attacks hit active character, he becomes marked. Afte
 
 Shields do not prevent getting marked. Jean/Bennet can't cleanse "marked" state.
 
-When MM uses her teleport move, she will randomly teleport in front of the active character or behind him. There are no set patterns, it's pure random. This is true for both states. Enviroment can displace her slightly to the sides.
+When MM uses her teleport move, she will randomly teleport in front of the active character or behind him. There are no set patterns, it's pure random. This is true for both states. Environment can displace her slightly to the sides.
 
 **Evidence:**
 
@@ -1039,7 +1039,7 @@ Standing on top of a construct restricts Mitachurls to slime throwing attack onl
 **Evidence:**  
 [YouTube](https://youtu.be/zELJKKnMyqA)
 
-**Signifiance:**  
+**Significance:**  
 Ai manipulation.
 
 ### Ruin Guard

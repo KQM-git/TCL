@@ -260,7 +260,7 @@ Provides evidence for "ICD: None" on TCL for Ganyu's Skill.
 
 **Finding:**
 
-Against just about every single normal enemy in the game, Ganyu’s Trail of Qilin \(E\) has been shown to properly taunt the various enemies. The enemies that were included in testing are: Abyss mage, Slime, Boar King, Cryo Cicin Mage, Electro Cicin Mage, Geovishap Hatchling, Ruin Guard, Ruin Hunter, Hili/Samachurl, Lawachurl, Mitachurl, Pyro Agent, Electro/Hydro Skirmishers, Pyro Skirmisher and \(Cryo\)Whooperflower.
+Against just about every single normal enemy in the game, Ganyu’s Trail of Qilin \(E\) has been shown to properly taunt the various enemies. The enemies that were included in testing are: Abyss mage, Slime, Boar King, Cryo Cicin Mage, Electro Cicin Mage, Geovishap Hatchling, Ruin Guard, Ruin Hunter, Hili/Samachurl, Lawachurl, Mitachurl, Pyro Agent, Electro/Hydro Skirmishers, Pyro Skirmisher and \(Cryo\) Whopperflower.
 
 **Evidence:**
 
@@ -337,7 +337,7 @@ In the video, the icicle spawns at frames: 603, 710, and 818.
 
 It was tested against the Hypostasis, and it took again 108 frames exactly for an icicle to spawn above it; however, these results were later disproved by other clips and testing where an ICD was seemingly 1.5s.
 
-Thus, a series of experiments were conducted on groups of 1, 5, 6, and 7 enemies within Ganyu ultimate. At around 10 seconds, a hillichurl breaks out from the pack and 4 icicles are dropped randomly amongst the 6 other targets, but he is struck again by the 5th icicle:
+Thus, a series of experiments were conducted on groups of 1, 5, 6, and 7 enemies within Ganyu ultimate. At around 10 seconds, a hilichurl breaks out from the pack and 4 icicles are dropped randomly amongst the 6 other targets, but he is struck again by the 5th icicle:
 
 [Ganyu's Q against several enemies](https://i.imgur.com/7A8CyST.mp4)
 
@@ -361,7 +361,7 @@ On subsequent casts of Ganyu’s Celestial Shower, if done in quick succession \
 
 **Evidence:**
 
-Users SavageCabbage and Tiago did some testing of Ganyu’s Elemental Burst by casting the Burst in succession against a Cryo regislive, and a group of slimes respectively in order to test for both C4 and non C4 interactions. The result of which showed that after initial casting, both ascension 4 and constellation 4 were able to carry over providing additional damage for Ganyu.
+Users SavageCabbage and Tiago did some testing of Ganyu’s Elemental Burst by casting the Burst in succession against a Cryo Regisvine, and a group of slimes respectively in order to test for both C4 and non C4 interactions. The result of which showed that after initial casting, both ascension 4 and constellation 4 were able to carry over providing additional damage for Ganyu.
 
 [Video 1](https://youtu.be/_QN_X8ptbTw); [Video 2](https://youtu.be/ao8XpqoNGx8); [Video 3](https://youtu.be/qxrIiqGlRI4)
 
@@ -666,7 +666,7 @@ QoL and DPS increase to fluidly execute all as one motion.
 **By:** mol\#3280  
 **Added:** <Version date="2021-05-06" />  
 **Last tested:** <VersionHl date="2021-05-06" />  
-[\[Disscussion\]](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
+[\[Discussion\]](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
 When C1 Sucrose has both stacks of E down, a sacrificial fragments proc will reset the cooldown showed by the timer on E.

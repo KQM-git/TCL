@@ -65,4 +65,4 @@ Loses -50% Resistance to all after its attack is reflected.
   * The attack itself deals no damage and can only be used once Primo Geovishap reaches critical health (Approximately less than 10% Max HP).
 * Unleashes a blast of pure Elemental power in a huge AoE around it, dealing immense Elemental damage of the currently infused Element.
 * Will not be performed once Primo Geovishap reaches critical health (Approximately less than 10% Max HP) and will instead perform the attack above.
-* If the player is protected by a shield, no damage will be taken and isntead the Primo Geovishap will loss a large amount of health, be knocked back and temporarily lose a large amount of resistances.
+* If the player is protected by a shield, no damage will be taken and instead the Primo Geovishap will loss a large amount of health, be knocked back and temporarily lose a large amount of resistances.

@@ -92,7 +92,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Gorou counts as one of the Geo characters for **General's War Banner**'s buff condition.
-* The inital hit of **Inuzaka All-Round Defense** does not benefit from its own buff.
+* The initial hit of **Inuzaka All-Round Defense** does not benefit from its own buff.
 * There is a delay before applying the buff effects of **General's War Banner**.
 * The **General's War Banner** is not affected by gravity.
 
