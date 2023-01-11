@@ -1907,21 +1907,21 @@ Previous knowledge about the reactions' ICD is insufficient. Further testing sho
 
 ### Dendro Core explosions can damage Ley Line Monoliths
 
-**By:** Juko\#9385        
-**Added:** <Version date="2023-01-11" />    
-**Last Tested:** <VersionHl date= "" />        
+**By:** Effab1e\#2963, juko\#9385  
+**Added:** <Version date="2022-12-17" />  
+**Last tested:** <VersionHl date="2022-12-17" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/bloom-monolith-damage)
 
-**Finding:**            
-The Dendro Core explosions from Bloom, Bountiful Bloom, and Burgeon can damage the Ley Line Monolith.
-
-**Evidence:**                                                                                                  
-[Youtube](https://youtu.be/IU9ue7Xzj4A)                            
-[Youtube](https://youtu.be/Q289FzcA7Sc)                        
-[Youtube](https://youtu.be/okoy9Jr4sh0)                                 
-
-**Significance:**                                                                                                                                                     
-Using Bloom, Bountiful Bloom, and Burgeon reactions are less recommended for objectives that involve the defense of Ley Line Monoliths.
+**Bug:**  
+The Dendro Core explosions from Bloom, Bountiful Bloom, and Burgeon can damage the Ley Line Monolith.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/IU9ue7Xzj4A)  
+[YouTube](https://youtu.be/Q289FzcA7Sc)  
+[YouTube](https://youtu.be/okoy9Jr4sh0)  
+  
+**Significance:**  
+Using Bloom, Bountiful Bloom, and Burgeon reactions are less recommended for objectives that involve the defense of Ley Line Monoliths.  
 
 ## Hyperbloom
 
