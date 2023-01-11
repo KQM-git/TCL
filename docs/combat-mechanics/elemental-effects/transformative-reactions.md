@@ -217,7 +217,7 @@ Bloom Explosion is a Transformative Reaction that deals Dendro DMG and does not 
 2. There are 5 Dendro Cores on-field and Bloom is triggered again.
    * As the 6th Dendro Core is generated, the 1st one explodes.
 
-Bloom Explosion has an AoE radius of 5m and can easily damage the player, but it's reduced by 95% in comparison to the damage dealt to enemies.  
+Bloom Explosion has an AoE radius of 5m and can easily damage the player, but it's reduced by 95% in comparison to the damage dealt to enemies. Bloom Explosions can also damage Ley Line Monoliths.
 
 ### Hyperbloom
 
@@ -231,7 +231,7 @@ Burgeon is a second-stage Transformative Reaction that deals Dendro DMG when Pyr
 
 The damage dealt by Burgeon scales off of the Pyro applier's stats, whether it's a Pyro character using a Pyro attack, an Anemo character Swirling Pyro, or any melee character under the effect of [Bennett C6](../../characters/pyro/bennett.md#constellations).
 
-Similar to Bloom Explosion, Burgeon also has an AoE radius of 5m and does 95% reduced damage to the player. The damage dealt to the player is only affected by the player's Dendro RES, and reducing the enemy's Dendro RES does nothing to the self-damage.  
+Similar to Bloom Explosion, Burgeon also has an AoE radius of 5m and does 95% reduced damage to the player, and can damage Ley Line Monoliths. The damage dealt to the player is only affected by the player's Dendro RES, and reducing the enemy's Dendro RES does nothing to the self-damage. 
 
 ## Evidence Vault
 
