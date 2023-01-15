@@ -80,11 +80,15 @@ Turning while swimming drains extra Stamina, so swimming in straight lines shoul
 
 ## Infinite Dashing
 
-Double dashing with a pause inbetween to regain stamina can allow for a faster way to move continously.
+Double dashing with a pause in between to regain stamina can allow for a faster way to move continuously.
 
 ## Cliff Dashing
 
 Dashing off of cliffs can speed up fall speed.
+
+## Consecutive Dashing
+
+The Consecutive Dash Cooldown trigger is 0.8 seconds.
 
 ## Jump Extension
 

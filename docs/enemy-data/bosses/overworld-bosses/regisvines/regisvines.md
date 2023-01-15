@@ -77,7 +77,7 @@ In this initial phase, it can attack you with the following attacks:
 
 ### Transitioning Phase
 
-Upon breaking its shield, the Cryo Regisvine will curl itself up and lay on the ground unmoving. During this time, the Regisvine will lose its resistances and be unnable to move. This phase lasts about 10 to 15 seconds.
+Upon breaking its shield, the Cryo Regisvine will curl itself up and lay on the ground unmoving. During this time, the Regisvine will lose its resistances and be unable to move. This phase lasts about 10 to 15 seconds.
 
 * After recovering, it will raise itself up and continue to flail around its body, dealing a huge amount of damage and knocking away any character in melee range.
   * This does not knock away summons such as Amber's baron bunny.
@@ -126,7 +126,7 @@ In this initial phase, it can attack you with the following attacks:
 
 ### Transitioning Phase
 
-Upon breaking its shield, the Pyro Regisvine will curl itself up and lay on the ground unmoving. During this time, the Regisvine will lose its resistances and be unnable to move. This phase lasts about 10 to 15 seconds.
+Upon breaking its shield, the Pyro Regisvine will curl itself up and lay on the ground unmoving. During this time, the Regisvine will lose its resistances and be unable to move. This phase lasts about 10 to 15 seconds.
 
 * After recovering, it will raise itself up and continue to flail around its body, dealing a huge amount of damage and knocking away any character in melee range.
   * This does not knock away summons such as Amber's baron bunny.
@@ -164,7 +164,7 @@ A predatory plant in the same vein as the Cryo and Pyro Regisvines, this creatur
 Upon entering battle, the Electro Regisvine will form a shield \(core\) at its corolla. The shield will periodically shift positions between the Regisvine's corolla and roots. If the shield is destroyed, the regisvine will be stunned for a long period of time with lowered Resistances.
 Every time the shield shifts positions, a Waning Stamen or Waxing Stamen will be produced which can be destroyed using Elemental Reactions. If both types of Stamens are present on the battlefield, they will attract each other and cause a massive explosion, dealing 300% ATK as AoE Electro DMG across the entire arena.
 
-* Both the shield and the Stamens are weakest to Cryo/Pyro/Dendro. Destroy a Stamen as soon as it spawns to prevent the explosion from occuring.
+* Both the shield and the Stamens are weakest to Cryo/Pyro/Dendro. Destroy a Stamen as soon as it spawns to prevent the explosion from occurring.
 * Slams its head into the ground, dealing 100% ATK as AoE Cryo DMG and causing three trails of shockwaves to spike from the ground, with each spike dealing 50% ATK as AoE Electro DMG.
 * Smashes its head on the floor and swings 180 degrees around its roots, dealing 75% ATK as AoE Electro DMG and knocking players away.
   * This attack can be chained up to two times, and may be followed up by Faceplant.

@@ -96,7 +96,8 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 <Weapon weapon="Cinnabar Spindle" weapons={swords}>
 
 * As of Patch 2.5, there is a bug where the Passive will be deactivated if Albedo's [Transient Blossom](../../characters/geo/albedo.md#attacks) is triggered by a non-melee attack and hits a shield.
-
+* The passive is dynamic, even for abilities that can snapshot.
+  
 </Weapon>
 
 ### Favonius Sword

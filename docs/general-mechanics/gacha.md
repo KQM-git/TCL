@@ -38,7 +38,7 @@ Estimated number of 5\* pulls to get desired character:
 | C6 character \(starting with pity\)     | 10    |
 | C6 character \(not starting with pity\) | 10.5  |
 
-Number of pulls needed to get different results seperated by the 50th, 95th and 99th Precentile:
+Number of pulls needed to get different results seperated by the 50th, 95th and 99th Percentile:
 
 | Item                          | 50th Percentile | 95th Percentile | 99th Percentile |
 | :---------------------------- | :-------------- | :-------------- | :-------------- |
@@ -76,7 +76,7 @@ Estimated number of 5\* pulls to get desired weapon, with and without Epitomized
 
 | Item                         | Pulls    |
 | :--------------------------- | :------- |
-| **With Eptomized Path:**     |          |
+| **With Epitomized Path:**    |          |
 | R1 weapon \(no pity\)        | 1.984375 |
 | R1 weapon \(with pity\)      | 1.8125   |
 | R5 weapon \(no pity\)        | 9.921875 |
@@ -87,7 +87,7 @@ Estimated number of 5\* pulls to get desired weapon, with and without Epitomized
 | R5 weapon \(no pity\)        | 12.5     |
 | R5 weapon \(with pity\)      | 12.25    |
 
-Number of pulls needed to get different results seperated by the 50th, 95th and 99th Precentile:
+Number of pulls needed to get different results seperated by the 50th, 95th and 99th Percentile:
 
 | Item                       | 50th Percentile | 95th Percentile | 99th Percentile |
 | :------------------------- | :-------------- | :-------------- | :-------------- |
@@ -114,7 +114,7 @@ The rates before pity weighting are as follows:
 | Specific 4\* | 0.15%       |
 | Specific 3\* | 7.17%       |
 
-There are additional wish mechanics within the Standard Banner that complicate these probabilities. The Standard Banner has an underlying mechanic that ensures players do not roll weapons and characters multiple times consecutively. For 4\* characters and weapons, you must receive atleast one of each within 30 wishes. For 5\* characters and weapons, you must receive at least one of each within 270 wishes.
+There are additional wish mechanics within the Standard Banner that complicate these probabilities. The Standard Banner has an underlying mechanic that ensures players do not roll weapons and characters multiple times consecutively. For 4\* characters and weapons, you must receive at least one of each within 30 wishes. For 5\* characters and weapons, you must receive at least one of each within 270 wishes.
 
 ## Evidence Vault
 

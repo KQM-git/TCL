@@ -13,7 +13,7 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Engulfing Lightning" weapons={polearms}>
 
-* The bonus ER is transfered to DMG% by the 4 piece set bonus of ESF (artifact set) but will not be snapshotted.
+* The bonus ER is transferred to DMG% by the 4 piece set bonus of ESF (artifact set) but will not be snapshotted.
 * The bonus ER stays even after the character goes off-field. - [TWICE\#9958](../../evidence/equipment/weapons.md#engulfing-lightning-er-buff-and-off-field-interaction)
 
 </Weapon>

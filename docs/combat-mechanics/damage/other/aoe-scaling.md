@@ -20,7 +20,7 @@ Most attacks in Genshin fall under the category of Linear AoE Scaling.
 
 ## Quadratic AoE Scaling
 
-An attack with Quadratic AoE Scaling would have its damage exponentially increased for each enemy hit. This results in damage significantly increase in relation to the number of enemies you are fighting, although some quadratic scaling abilities have a hard cap on how much they can scale quadtratically.
+An attack with Quadratic AoE Scaling would have its damage exponentially increased for each enemy hit. This results in damage significantly increase in relation to the number of enemies you are fighting, although some quadratic scaling abilities have a hard cap on how much they can scale quadratically.
 
 Assume Tartaglia is fighting 4 grouped enemies with Riptide marks on each of them. He hits all of them with an attack in his melee stance, which causes Riptide Flashes that do 2000 damage each in an AoE. Each enemy hit will then trigger their own Riptide Flash for a total of 4 Riptide Flashes, and each Riptide Flash will hit all four enemies. The total damage done would then be the damage of a single Riptide Flash multiplied by the number of Riptide Flashes and the total number of enemies, or 2000\*4\*4, which equals 32000.
 

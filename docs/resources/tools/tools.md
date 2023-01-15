@@ -25,7 +25,7 @@ _Team DPS simulator with detailed damage breakdowns._
 ### Genshin Center
 
 [Genshin Center](https://genshin-center.com)  
-_Easy-to-use achievement tracker, character ascension planner, and simple damage calculcator._
+_Easy-to-use achievement tracker, character ascension planner, and simple damage calculator._
 
 ### Paimon.moe
 

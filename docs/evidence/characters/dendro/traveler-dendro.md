@@ -30,7 +30,7 @@ search: false
 * Q snapshots on cast - Bobrokrot\#0111
   * Unbuffed and buffed damage: [YouTube](https://youtu.be/qEDSHPB69rM)
   * Sara's feather buffs DMC in the middle of animation. Buff persists through entire Burst duration: [YouTube](https://youtu.be/3wVlyYkoifo)
-  * DMC gets buffed after his Burst, then lamp recieves Hydro Transfiguration. Damage doesn't change: [YouTube](https://youtu.be/Lj8CxcLmZLo)
+  * DMC gets buffed after his Burst, then lamp receives Hydro Transfiguration. Damage doesn't change: [YouTube](https://youtu.be/Lj8CxcLmZLo)
 
 ### MC Base ATK Buff
 
