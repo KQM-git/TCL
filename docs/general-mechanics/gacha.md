@@ -38,7 +38,7 @@ Estimated number of 5\* pulls to get desired character:
 | C6 character \(starting with pity\)     | 10    |
 | C6 character \(not starting with pity\) | 10.5  |
 
-Number of pulls needed to get different results seperated by the 50th, 95th and 99th Precentile:
+Number of pulls needed to get different results seperated by the 50th, 95th and 99th Percentile:
 
 | Item                          | 50th Percentile | 95th Percentile | 99th Percentile |
 | :---------------------------- | :-------------- | :-------------- | :-------------- |
@@ -87,7 +87,7 @@ Estimated number of 5\* pulls to get desired weapon, with and without Epitomized
 | R5 weapon \(no pity\)        | 12.5     |
 | R5 weapon \(with pity\)      | 12.25    |
 
-Number of pulls needed to get different results seperated by the 50th, 95th and 99th Precentile:
+Number of pulls needed to get different results seperated by the 50th, 95th and 99th Percentile:
 
 | Item                       | 50th Percentile | 95th Percentile | 99th Percentile |
 | :------------------------- | :-------------- | :-------------- | :-------------- |
