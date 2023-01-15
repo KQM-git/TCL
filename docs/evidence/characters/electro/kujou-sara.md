@@ -161,7 +161,8 @@ Sara can paralyze the Aeonblight Drake with 1 Aimed Shot instead of 2 during Cro
 * Other special Aimed Shots that don't work: [YouTube](https://youtu.be/KBiE-nOrsCM) (credits to f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920 and Casdela\#5121 for some of the clips)
 
 **Significance:**  
-With some practice, this method can save a bit of time when fighting the Aeonblight Drake since casting Sara's Skill is faster than charging up another Aimed Shot (with C2 at least). It allows you to start setting up a rotation while the other wing gets paralyzed and the Aeonblight Drake falls down.  
+With some practice, this method can save a bit of time when fighting the Aeonblight Drake since casting Sara's Skill is faster than charging up another Aimed Shot (with C2 at least). It allows you to start setting up a rotation while the other wing gets paralyzed and the Aeonblight Drake falls down.
+
 ## Burst Mechanics
 
 * Titanbreaker targets closest enemy, then Stormcluster moves outward in a plus-shape with one branch directed at Sara’s location at time of cast. - [Wishiwashi#2548](https://imgur.com/a/313LEY4)
