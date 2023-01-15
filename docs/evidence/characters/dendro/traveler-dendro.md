@@ -88,6 +88,25 @@ For updated stats and calculation purposes.
 * Other Lamp properties:
   * Oz will target an untransfigured Lamp when summoned without other targets. When enemies are present Oz will prioritize the enemies. - [TheGaminSeshion#1648](https://youtu.be/0BUzZ49uZak)
 
+### DMC Burst Blooms On Hydro Transfiguration
+
+**By:** Rathalos\#2875  
+**Added:** <Version date="2023-01-15" />  
+**Last tested:** <VersionHl date="2023-01-15" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dmc-q-blooms-on-hydro-transfig)
+
+**Finding:**  
+When coming into contact with Hydro, the Lea Lotus Lamp undergoes a Hydro Transfiguration, which simultaneously produces a Dendro Core. As the Lamp holds a Dendro aura, the trigger would always be the source of Hydro application.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/jklYTdk) - Bloom deals 84 self damage  
+[Imgur](https://imgur.com/TtFWHHH) - Proof of Bloom Ownership  
+* 1st Bloom (triggered by DMC): 249 self damage  
+* 2nd Bloom (triggered by Mona): 84 self damage  
+  
+**Significance:**  
+Relevant for teams that use the Bloom reaction; generates a Dendro Core without applying Dendro on enemy units.
+
 ## Ascension Mechanics
 
 ### A1: Verdant Overgrowth
