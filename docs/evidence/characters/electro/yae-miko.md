@@ -57,7 +57,7 @@ search: false
 ## Burst Mechanics
 
 * Tenko Kenshin is completely stationary, and the Tenko Thunderbolts' locations are always in front of Yae Miko and are independent of Sesshou Sakuras' locations. - [Video](https://imgur.com/a/beg3YSm) - Asaki\#9139
-* The Tenko Kenshin targetting occurs at the end of the Elemental Burst animation. - [Video](https://clips.twitch.tv/OpenDeterminedSproutTTours-wv0CPNVI7FKKbplb) - Neptunya\#8291
+* The Tenko Kenshin targeting occurs at the end of the Elemental Burst animation. - [Video](https://clips.twitch.tv/OpenDeterminedSproutTTours-wv0CPNVI7FKKbplb) - Neptunya\#8291
 * Elemental Particles and Orbs can be pre-funneled to Yae Miko. - [Video](https://clips.twitch.tv/SaltyVenomousDaikonRaccAttack-yhEQ0GQxu4o_epc7) - Neptunya\#8291
 * Tenko Kenshin unseals all Sesshou Sakuras in CO-OP, regardless of the original ownership. The damage of Tenko Thunderbolts is based on the stats of the player that casts the Elemental Burst. - [Image](https://imgur.com/yez4INl) - Alarar\#6877
 * Sesshou Sakuras are unsealed instantly when casting the Elemental Burst. - [Video](https://youtu.be/i01OBfC0YY4) - Bobrokrot\#0111

@@ -80,7 +80,7 @@ Turning while swimming drains extra Stamina, so swimming in straight lines shoul
 
 ## Infinite Dashing
 
-Double dashing with a pause inbetween to regain stamina can allow for a faster way to move continously.
+Double dashing with a pause in between to regain stamina can allow for a faster way to move continuously.
 
 ## Cliff Dashing
 

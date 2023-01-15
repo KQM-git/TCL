@@ -146,7 +146,7 @@ Credits to @Way for the initial finding.
 
 **Finding:**
 
-Or well, more like extra verification since this isn't actually in the library yet and I know people throw around "8 seconds" a lot, but Superconduct actually lasts for 12 seconds. This is not \(noticably\) affected by anything like EM or Skill level or GU etc, seems to be static.
+Or well, more like extra verification since this isn't actually in the library yet and I know people throw around "8 seconds" a lot, but Superconduct actually lasts for 12 seconds. This is not \(noticeably\) affected by anything like EM or Skill level or GU etc, seems to be static.
 
 **Evidence:**
 
@@ -837,7 +837,7 @@ Some reactions affect only the Freeze aura. Some reactions affect both, and so w
 
 ![](https://lh3.googleusercontent.com/3pWlNALQ1yV6d8KZ2pDQPfAkuBWqR4d0tx_ClVefe7po-dcViU3QRrQzqUbqJDpgGuklhw9x-B1yUrJPG-qTBRq9DBsUdwTNX4QHZKbxYvfHGZo5Bo9Mo6krhqrtrUoswZQlx1OQ)
 
-**_Note:_** The Freeze table is now found to be inaccurate. Refer to the [Evidence Vault](./transformative-reactions.md#ec-frozen-double-reactions) for more infomation.
+**_Note:_** The Freeze table is now found to be inaccurate. Refer to the [Evidence Vault](./transformative-reactions.md#ec-frozen-double-reactions) for more information.
 
 Only one reaction seems to be able to happen at a time. So if you apply Pyro to a Freeze with an underlying Hydro aura, only a Melt happens. Hydro cannot Melt, so the Hydro is not affected, only the Freeze. If the underlying aura is Cryo, Cryo can Melt, so the Melt will reduce both the Freeze and the original Cryo aura.
 
@@ -1453,10 +1453,10 @@ Crystallize reaction has an Global Cooldown of 1s per monster.
   * Albedo's E cast and E Blossom trigger Crystallize only once when they are within 1s. - [YouTube](https://youtu.be/mmeOsWplHms)
   * Ningguang's NA and E both trigger Crystallize when they are 1s apart from each other. - [YouTube](https://youtu.be/iefXbzTAyzM)
   * Ningguang's NA and E trigger Crystallize only once when they are within 1s. - [YouTube](https://youtu.be/5EMMlZNFAFM)
-* GCD is shared across different characters. Here Ningguang procs Albedo's Blossom vs 2U Pyro, only 1 Crystallize occured. - [YouTube](https://youtu.be/x_64sntdO-g)
-* GCD is not shared across different targets. Here Albedo succesfully triggers Crystallize on each of the 3 hilichurls. - [YouTube](https://youtu.be/S1GSVLXmGus)
+* GCD is shared across different characters. Here Ningguang procs Albedo's Blossom vs 2U Pyro, only 1 Crystallize occurred. - [YouTube](https://youtu.be/x_64sntdO-g)
+* GCD is not shared across different targets. Here Albedo successfully triggers Crystallize on each of the 3 hilichurls. - [YouTube](https://youtu.be/S1GSVLXmGus)
 * GCD for the duration of the cooldown may disable the hit counter for standard ICD. Here Ningguang uses 3 Normal attacks (6 hits total) and trigger Crystallize only once on the first attack. - [YouTube](https://youtu.be/6nRXYxMkC_Y)
-* GCD is shared across different elements. Here Albedo triggers Pyro and Hydro Crystallize one after another (<1s), only 1 Crystallize occured. - [YouTube](https://youtu.be/M4XJPag4CNI)
+* GCD is shared across different elements. Here Albedo triggers Pyro and Hydro Crystallize one after another (<1s), only 1 Crystallize occurred. - [YouTube](https://youtu.be/M4XJPag4CNI)
 
 **Significance:**  
 Understanding how Crystallize works.
@@ -1473,9 +1473,9 @@ The Crystallize Global Cooldown \(GCD\) not only prevents further crystals to ap
 
 **Evidence:**
 
-1. [YouTube](https://youtu.be/x_64sntdO-g): This clip is already in the TCL. The last Amber shot was performed at 14.75s and the Pyro lasted until 22.93s, which matches the 1.1B gauge duration (meaning that only one gauge reduction from Crystallize occured).
+1. [YouTube](https://youtu.be/x_64sntdO-g): This clip is already in the TCL. The last Amber shot was performed at 14.75s and the Pyro lasted until 22.93s, which matches the 1.1B gauge duration (meaning that only one gauge reduction from Crystallize occurred).
 
-2. [YouTube](https://youtu.be/ybd5NyPfdhI): Razor applied 2U Electro at 2.54s (with A decay from Sara) and the Electro lasted until 15.75s which matches the 1.1U gauge duration (meaning that only one gauge reduction from Crystallize occured).
+2. [YouTube](https://youtu.be/ybd5NyPfdhI): Razor applied 2U Electro at 2.54s (with A decay from Sara) and the Electro lasted until 15.75s which matches the 1.1U gauge duration (meaning that only one gauge reduction from Crystallize occurred).
 
 3. [YouTube](https://youtu.be/PWytHwr4Y38) \(bonus clip\): 2A Hydro -> 1U Electro -> 2U Geo. Hydro lasted from 11.32s to 25.53s which matches 1.2A (tax -0.4U).
 
@@ -1942,7 +1942,7 @@ Using Bloom, Bountiful Bloom, and Burgeon reactions are less recommended for obj
 2. [YouTube](https://youtu.be/kOLwqb0a8vc)
 
 **Significance:**  
-Better understanding of Hyperbloom targetting.
+Better understanding of Hyperbloom targeting.
 
 ### Hyperbloom Targets the Closest Enemy
 

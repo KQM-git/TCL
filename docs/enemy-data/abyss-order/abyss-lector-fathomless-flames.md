@@ -4,7 +4,7 @@ description: Wielders of abyssal fire who pursue the meaning behind texts and sc
 
 # Abyss Lector: Fathomless Flames
 
-The surface people ahve a slightly distorted understanding of what their name means, calling them "Lectors," when their name can also mean "exegete." Reading the word of grace grants them great power.
+The surface people have a slightly distorted understanding of what their name means, calling them "Lectors," when their name can also mean "exegete." Reading the word of grace grants them great power.
 
 ## Weakspot Details
 

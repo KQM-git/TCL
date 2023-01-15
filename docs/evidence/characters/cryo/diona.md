@@ -27,7 +27,7 @@ search: false
 
 **Significance:**
 
-For Diona, who's charged shot ICD is higher than the time it takes to fire a second charged shot, this prevents Elemental reactions or aura application from occuring on a fully charged shot if you fire a normal aimed shot by accident before it, if the ICD was not active yet.
+For Diona, who's charged shot ICD is higher than the time it takes to fire a second charged shot, this prevents Elemental reactions or aura application from occurring on a fully charged shot if you fire a normal aimed shot by accident before it, if the ICD was not active yet.
 
 ### Diona Dash Aim Cancel
 
@@ -170,7 +170,7 @@ Icy Paws revolve around a non-activated Ruin Guard until they eventually despawn
 At least 1 Icy Paw must hit something for a shield to form. Situations where Icy Paws might despawn before hitting something include:
 
 1. Standing on a cliff with no ground below
-2. Targetting an enemy without ever hitting it, including non-activated Ruin Guards
+2. Targeting an enemy without ever hitting it, including non-activated Ruin Guards
 
 ### Diona’s Paws Home on Entities That Are Not Enemies
 
@@ -315,7 +315,7 @@ More understanding of Diona's kit.
 
 ## Interactions
 
-### Diona Sacrifial Proc Inconsistency
+### Diona Sacrificial Proc Inconsistency
 
 **By:** Homura\#9806  
 **Added:** <Version date="2022-02-14" />  
@@ -323,7 +323,7 @@ More understanding of Diona's kit.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936983999581159454_942896166872440872_transcript-sac-procs-on-diona.html)
 
 **Finding:**  
-Sacrifical Bow procs on Diona's hold E do not match the theoretical chances, the reason for this is currently not known, the scope of this entry is specifcally to identify and document this.
+Sacrificial Bow procs on Diona's hold E do not match the theoretical chances, the reason for this is currently not known, the scope of this entry is specifically to identify and document this.
 
 **Evidence:**
 
@@ -349,7 +349,7 @@ Sacrifical Bow procs on Diona's hold E do not match the theoretical chances, the
   * 49/50 R3 4-5 enemies hit in Abyss (theoretical between 97.44% and 98/976%) [YouTube](https://youtu.be/tHPgAaspY1U)
 
 **Explanation/Methodology:**  
- To find out why diona is not proccing Sacrifical Bow correctly, both Sac and Fav Bow were tested on Diona to ensure that it was simply not Diona's Hold E being weird in general, Sac weapons were tested on hitting multiple enemies to see if it triggered correctly, Sac Sword was tested on hitting one enemy multiple times with the same Skill (EMC E) to see if it triggered correctly, and Sac Bow specifically was tested on hitting multiple enemies to see if it triggered correctly.
+ To find out why diona is not proccing Sacrificial Bow correctly, both Sac and Fav Bow were tested on Diona to ensure that it was simply not Diona's Hold E being weird in general, Sac weapons were tested on hitting multiple enemies to see if it triggered correctly, Sac Sword was tested on hitting one enemy multiple times with the same Skill (EMC E) to see if it triggered correctly, and Sac Bow specifically was tested on hitting multiple enemies to see if it triggered correctly.
 
 **Significance:**  
 The results of the testing shows that everything works pretty much as expected except Diona's Hold E on Sac Bow. While we currently do not know the source of this anomaly, the scope of this entry is to record and document its existence. Since Diona as a battery sometimes uses Sac Bow, knowing she doesn't proc it as well as math dictates means Energy calculations with Sac Bow should change to reflect that she doesn't follow standard math.

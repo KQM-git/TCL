@@ -121,7 +121,7 @@ Eula's Burst does not snapshot even after she is swapped off-field, allowing for
 * Diona's swap buff: [YouTube](https://youtu.be/p_cr_tGKXV8)
 * <https://youtu.be/Efp8593Wrmk> for Xinyan buff
 
-**Signficance:**  
+**Significance:**  
 Allows for better Burst cycles.
 
 ### Eula Burst Buffs Catalog

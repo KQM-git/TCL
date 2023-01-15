@@ -719,7 +719,7 @@ This check already exists if you try to collect artifacts with a near full inven
 Torches \(and maybe campfires\) sometimes become unextinguishable by Overloads. Sometimes they extinguish after a long time of using Overloads. Cause unknown.
 
 **Evidence:**  
-[Video](https://youtu.be/qI1wiQH2lw4): No matter the amout, type, or Gauge of the Overload, the torch could not be extinguished.
+[Video](https://youtu.be/qI1wiQH2lw4): No matter the amount, type, or Gauge of the Overload, the torch could not be extinguished.
 
 **Significance:**  
 Understanding of overworld mechanics.

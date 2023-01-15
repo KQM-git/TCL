@@ -99,7 +99,7 @@ While studying at the Akademiya, researcher Alva Nicolai once conducted a system
 * Hurls an electric sphere towards the player.
 * Teleports closer to the player, the teleport can hurt the player if close enough.
 * Creates an Energy field around it's self.
-* Starts dancing while continously summoning waves of 4 Orbs that will fly outwards, alternating between an X and cross shape, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
+* Starts dancing while continuously summoning waves of 4 Orbs that will fly outwards, alternating between an X and cross shape, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
 
 </TabItem>
 
@@ -126,7 +126,7 @@ Stories circulate among adventurers that Abyss Mages are at the lowest rung of t
 
 * Hurls a water bubble towards the player.
 * Teleports closer to the player, the teleport can hurt the player if close enough.
-* Creates a homing bubble that will slowly follow the player until either being popped, entraping a player or an enemy. If the bubble comes in contact with an entity, it will trap them for a period of time, rendering them unnable to do anything.
+* Creates a homing bubble that will slowly follow the player until either being popped, entrapping a player or an enemy. If the bubble comes in contact with an entity, it will trap them for a period of time, rendering them unable to do anything.
 * Starts dancing in a bubble bath around it's self, some of the bubbles will be the type that can trap entities but will not home in, they will simply fly upwards, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
 
 </TabItem>

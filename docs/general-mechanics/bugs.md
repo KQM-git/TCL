@@ -10,7 +10,7 @@ You can use your overworld team in the second half of abyss even if the same mem
 
 When using the retry button in abyss your [Elemental Skill and Burst will not reset its cooldown](../evidence/general-mechanics/bugs.md#elemental-skills-and-bursts-dont-reset-when-using-retry-in-abyss) so if you are too fast at starting the new encounter you will not be able to execute your opening moves properly.
 
-Opening the exit menu in the Abyss does not pause the timer. This results in a bug wherein if you use the retry button in abyss as the last enemy in a chamber dies [you will encounter an error message and recieve 0 stars.](../evidence/general-mechanics/bugs.md#retry-and-exit-menu-issues)
+Opening the exit menu in the Abyss does not pause the timer. This results in a bug wherein if you use the retry button in abyss as the last enemy in a chamber dies [you will encounter an error message and receive 0 stars.](../evidence/general-mechanics/bugs.md#retry-and-exit-menu-issues)
 
 ## Artifacts
 
@@ -42,7 +42,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 ## Weapons
 
-* Diona's proc rate on Sacrifical bow is [lower than its theoretical average.](../evidence/characters/cryo/diona.md#diona-sacrifial-proc-inconsistency)
+* Diona's proc rate on Sacrificial bow is [lower than its theoretical average.](../evidence/characters/cryo/diona.md#diona-sacrificial-proc-inconsistency)
 
 * There is a bug that causes your character to attack without a weapon in their hands (visually).
   * The fist of [Tartaglia](../evidence/general-mechanics/bugs.md#childe-fist)

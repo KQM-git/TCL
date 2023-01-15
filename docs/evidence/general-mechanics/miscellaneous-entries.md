@@ -17,7 +17,7 @@ description: For entries that have little practical use.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_971888182016766062_transcript-certain-vertical-mechanics-testing.html)
 
 **Finding:**  
-Certain characters have a finite vertical range for the buffs and/or infusions from their ablities, while others seem to have near infinite vertical range.
+Certain characters have a finite vertical range for the buffs and/or infusions from their abilities, while others seem to have near infinite vertical range.
 
 **Evidence:**
 
@@ -70,7 +70,7 @@ Better understanding of vertical range mechanics for certain characters.
 * Liyue - Statue near Qingyun Peak
 * Liyue - Statue in Dihua Marsh
 * Liyue - Statue in Mingyun Village
-* Inazuma - Sanganomiya Island Statue
+* Inazuma - Sangonomiya Island Statue
 * Inazuma - Tsurumi Island Statue
   all other statues work as intended, you have to walk upto them to trigger statue healing.
 
@@ -108,7 +108,7 @@ Some can also be affected by In-game FPS.
 * Sucrose E/Q 13
 * Venti Q 14
   * [YouTube](https://youtu.be/JC3UCbq284A)
-* Surose E/Q 13(30fps)
+* Sucrose E/Q 13(30fps)
   * [YouTube](https://www.youtube.com/watch?v=YiBTs-Xi4g4)
   * [YouTube](https://www.youtube.com/watch?v=OLUmEzO9eOg)
 * Venti Q 14 (30fps)
@@ -168,13 +168,13 @@ New theoretical highest DPS ceiling for some units who aren't able to typically 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945108293628604436_transcript-door-load-border-shenigans.html)
 
 **Finding:**  
-Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Library in Favonius HQ, _for some reason_ seem to contain a mini load border. Walking through said border seems to cause the game to reload everything on the other side, which causes some interesing things to occur.
+Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Library in Favonius HQ, _for some reason_ seem to contain a mini load border. Walking through said border seems to cause the game to reload everything on the other side, which causes some interesting things to occur.
 
 1.  Some abilities are duplicated **at the point of their duration** when walking through the border. (an example being Ayaka Q, where every time you walk through the border another Ayaka Q spawns on top of where the first one is)  
     1a.  
-    These duplicated abilities are real, not just vfx loaded in( a duplicated Venti Q can still asborb Pyro from a character standing in Bennett Q)  
+    These duplicated abilities are real, not just vfx loaded in( a duplicated Venti Q can still absorb Pyro from a character standing in Bennett Q)  
     1b.  
-    For some reason some abilities can be effectively restarted by walking through the load border just as they end, causing another copy to appear at the start of the ability's animation effectively doubling the ablity's duration.  
+    For some reason some abilities can be effectively restarted by walking through the load border just as they end, causing another copy to appear at the start of the ability's animation effectively doubling the ability's duration.  
     1c.  
     This can occur on both sides of the load border.  
     1d.  
@@ -205,7 +205,7 @@ Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Li
 
 1a:
 
-* Venti Q absorbing Pyro ( you can actually see a new one being created after the absorbption that is still non absorbed) [YouTube](https://youtu.be/ilBeQAzMvdA)
+* Venti Q absorbing Pyro ( you can actually see a new one being created after the absorption that is still non absorbed) [YouTube](https://youtu.be/ilBeQAzMvdA)
 
 1b:
 
@@ -268,7 +268,7 @@ Note that these conclusions are accurate only to 1.2. In 1.3, Zhongli's new shie
 
 Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200% Elemental Resistance, which makes all of this math pointless.
 
-**Signifiance:** The Electro slimes will overtake us soon, and it's necessary to know how best to defend against them.
+**Significance:** The Electro slimes will overtake us soon, and it's necessary to know how best to defend against them.
 
 ## Spawn Aura Tanking
 
@@ -293,7 +293,7 @@ More Significance to these already earth-Shattering, mind-bending calculations, 
 
 Thus, the question posed is no longer how much damage can you tank from a lv infinity enemy without DR. It is, how much damage can you tank from a spawning aura in one hit?
 
-In the first half of the 1.3 update, the Geo rework meant that Geo shields would become stronger for non-Geo elements, and weaker against Geo. The implications of this were that while Geo tanking ability became noticably worse, some other elements benefitted greatly. Thanks to Zhongli's new shield totally eclipsing Beidou's C1 shield, Razor became the best Electro tank by far. Due to the new nonspecificity of Geo shields, Geo joined the Hydro and Anemo group, being 72.36% of its former self. In the second half of the 1.3 update, the release of Hu Tao means that her C6 immunity to getting oneshot must also be banned, as it allows her to tank any single hit. However, her state afterwards where she gains +200% RES means she powercreeps every single other tank. Note that the RES cap seems to have been removed, though it is unclear whether it was during Xiao or Hu Tao banner's time period. Furthermore, Hu Tao also has the highest base HP in the game, though this is less significant than her C6 providing +200% RES.
+In the first half of the 1.3 update, the Geo rework meant that Geo shields would become stronger for non-Geo elements, and weaker against Geo. The implications of this were that while Geo tanking ability became noticeably worse, some other elements benefitted greatly. Thanks to Zhongli's new shield totally eclipsing Beidou's C1 shield, Razor became the best Electro tank by far. Due to the new nonspecificity of Geo shields, Geo joined the Hydro and Anemo group, being 72.36% of its former self. In the second half of the 1.3 update, the release of Hu Tao means that her C6 immunity to getting oneshot must also be banned, as it allows her to tank any single hit. However, her state afterwards where she gains +200% RES means she powercreeps every single other tank. Note that the RES cap seems to have been removed, though it is unclear whether it was during Xiao or Hu Tao banner's time period. Furthermore, Hu Tao also has the highest base HP in the game, though this is less significant than her C6 providing +200% RES.
 
 Note that as a result, Electro is no longer the undisputed king of the Element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield \(Xinyan\), and so does Cryo, with a bigger shield \(Diona\) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set. Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
 
@@ -587,7 +587,7 @@ miHoYo apparently can implement a full reset button for a small event but cannot
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934702460117856309_936406179373002782_transcript-portable-waypoint-interactions.html)
 
 **Bug:**  
-When teleporting from a location with permanent weather or other effects on the map (such as lightning) to a Portable Waypoing in certain areas above or below the water (portions of the map that were added in 2.0 or zones that would get Paimon to yell at you if you went to far prior to 2.0), the game will transfer said effects to where the Portable Waypoint is located. These effects include permanent weather, lightning, wisps, and more. Prior to Patch 2.4b this would also replace the icon on the loading screen with the starting location instead of where the Portable Waypoint is placed.
+When teleporting from a location with permanent weather or other effects on the map (such as lightning) to a Portable Waypoint in certain areas above or below the water (portions of the map that were added in 2.0 or zones that would get Paimon to yell at you if you went to far prior to 2.0), the game will transfer said effects to where the Portable Waypoint is located. These effects include permanent weather, lightning, wisps, and more. Prior to Patch 2.4b this would also replace the icon on the loading screen with the starting location instead of where the Portable Waypoint is placed.
 
 **Evidence:**  
 Tutorial: [YouTube](https://youtu.be/cS2s1rRVb0A)  
@@ -701,7 +701,7 @@ Multiplayer:
   8\.5\. Optional step: if using Albedo E, place a Parametric Transformer to prevent the elevator from ascending to make refreshing the construct easier. When its time to place the next stove, retrieve the Parametric Transformer to gain more height from elevation.  
   9\. Repeat steps 1\-8. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.
 
-  Note that when the team is waiting on a construct in step 8, the construct used must be Albedo flower because others are not aimable and/or are not instantly replacable. Aim it straight down at the stove, from the edge of the flower. Misplacing the flower position on the stove can mean party members will fall down. This does mean that with more party members, the player placing the flower must be more precise. Alternatively, the non Albedo party members could float while the flower is being replaced through Venti E as an example, and landing on the new flower afterwards.
+  Note that when the team is waiting on a construct in step 8, the construct used must be Albedo flower because others are not aimable and/or are not instantly replaceable. Aim it straight down at the stove, from the edge of the flower. Misplacing the flower position on the stove can mean party members will fall down. This does mean that with more party members, the player placing the flower must be more precise. Alternatively, the non Albedo party members could float while the flower is being replaced through Venti E as an example, and landing on the new flower afterwards.
 
 Singleplayer:
 
@@ -1047,7 +1047,7 @@ Teleporting to Portable Waypoints resets the nearby mobs to their resting/defaul
 **Significance:**  
 This effectively allows continuous resets without needing to jump to multiple waypoints. This also makes it more feasible to select specific test enemies that fit the needs of the experiment, but would otherwise be too much to bother testing on without Portable Waypoints.
 
-## Passive Actviation On Ducks
+## Passive Activation On Ducks
 
 **By:** MeiMay\#3039  
 **Added:** <Version date="2022-07-15" />  
@@ -1103,7 +1103,7 @@ Fluff.
 Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some odd properties.
 
 1. Unlike usual sources of overworld Pyro damage, like torches or burning grass or other campfires, this campfire only deals 4 damage per tick. Like other campfires, it is 1U transformative Pyro damage.
-2. The campfire has similar properties to other campfires \(hold Cryo gauge, pops Ayato E, and gets targetted by Oz if Fischl procs A1\) but does not light up under Elemental sight, unlike regular campfires. This applies whether it holds Pyro, Cryo, or no Element at all.
+2. The campfire has similar properties to other campfires \(hold Cryo gauge, pops Ayato E, and gets targeted by Oz if Fischl procs A1\) but does not light up under Elemental sight, unlike regular campfires. This applies whether it holds Pyro, Cryo, or no Element at all.
 3. Player constructs may be placed on top of the melons, but construct placements that would intersect with the melon hitboxes are invalid. Note that the hitbox is strange and somewhat unintuitive, and does not entirely match its appearance.
 4. The melons are "slippery" in the sense that while the player may stand on them, approaching the melons with more than an arbitrary small amount of speed will cause them to slip off. For example, one may drop down onto the melons via climbing a construct, but performing a directionless jump straight up will cause the character to fall off. Character attacks, as usual, will not lead to them falling off the melons either, and neither will swapping characters.  
    This is a very strange result. First, roasted melons would not be slippery, as any surface moisture would be evaporated due to the heat of the campfire. Second, sticks usually used to skewer fruit would not be sturdy enough to support someone's weight.
