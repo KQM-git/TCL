@@ -543,6 +543,41 @@ Result : 137 attempts, 114 proc, 23 non-proc
 **Significance:**  
 Sacrificial Weapons are more effective on character with large AoE Skills/against multiple targets
 
+### Sacrificial Weapons Can Proc Even If The Elemental Skill Is Not On Cooldown  
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-12-18" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/skills-that-dont-proc-sac)
+
+**Finding:**  
+The passive of Sacrificial weapons can proc even if the Elemental Skill is not on cooldown.  
+  
+**Evidence:**   
+[Imgur](https://imgur.com/a/Tg97leV)  
+  
+**Significance:**  
+Better understanding of Sacrificial weapon mechanics.  
+
+### Elemental Skills That Don't Proc Sacrificial Weapons  
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-12-18" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/skills-that-dont-proc-sac)
+
+**Finding:**  
+There are certain specific Elemental Skills that can't proc the passives of Sacrificial weapons, despite being considered Elemental Skill DMG. This includes Sayu hold E roll, Anemo Traveler hold E Cutting DMG, Mona A1 and Keqing C1.  
+  
+**Evidence:**  
+Sayu Roll - [Imgur](https://imgur.com/a/sKrkk33)  
+Anemo Traveler Cutting DMG - [Imgur](https://imgur.com/a/aA5kbRj)  
+Mona A1 - [Imgur](https://imgur.com/a/DwlaEAF)  
+Keqing C1 - [YouTube](https://youtu.be/wBeQOi9scJU)    
+  
+**Significance:**  
+Sacrificial weapons are not a reliable indicator of whether or not something is considered Elemental Skill DMG.  
+
 ## Skyward Series
 
 ### Skyward Harp
@@ -792,6 +827,27 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 
 **Significance:**  
 This will hurt Albedo's damage until this is fixed. This bug is known and has been known to MHY for several months now.
+
+### Cinnabar Spindle's Passive Is Dynamic
+
+**By:** Mr. Pillow\#0065  
+**Added:** <Version date="2022-12-17" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cinnabar-spindles-passive-is-dynamic)
+
+**Finding:**  
+Cinnabar Spindle's passive is dynamic, even for abilities that can snapshot.  
+  
+**Evidence:**  
+In this [video](https://www.youtube.com/watch?v=Zlok4zHEDjU), Albedo's Elemental Skill snapshots Gorou's DEF buff and his Transient Blossoms are triggered twice, once when General's War Banner is active and once when it is inactive. The DMG calculations below show that Cinnabar Spindle uses Albedo's current DEF, i.e. its passive is dynamic.  
+  
+* General's War Banner active, 3611 DMG dealt: `(2.405*(1480.4 + 438.09) + 0.80*(1480.4 + 438.09))*(1 + 0.288)*(0.50666)*(0.9)`  
+* General's War Banner inactive, 3405 DMG dealt: `(2.405*(1480.4 + 438.09) + 0.80*(1480.4))*(1 + 0.288)*(0.50666)*(0.9)`  
+
+Legend for values used: 2.405 = Transient Blossom Talent%, 0.80 = Cinnabar%, 1480.4 = Albedo's DEF, 438.09 = DEF Increase, 0.288 = DamageBonus, 0.50666 = EnemyDefMult, 0.9 = EnemyResMult.  
+  
+**Significance:**  
+Confirmation that Cinnabar Spindle's passive is dynamic, even for abilities that can snapshot.  
 
 ---
 

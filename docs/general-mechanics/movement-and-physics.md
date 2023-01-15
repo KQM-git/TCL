@@ -86,6 +86,10 @@ Double dashing with a pause in between to regain stamina can allow for a faster 
 
 Dashing off of cliffs can speed up fall speed.
 
+## Consecutive Dashing
+
+The Consecutive Dash Cooldown trigger is 0.8 seconds.
+
 ## Jump Extension
 
 Getting hit while jumping adds extra velocity if not staggered.
