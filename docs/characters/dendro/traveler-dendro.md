@@ -163,7 +163,7 @@ import LumineCA from '../_common/lumine_ca.md'
   * It can also hold a Frozen aura and be Shattered.
 * Summons such as Oz and Guoba will target an untransfigured Lamp when there are no enemies nearby, but will target the enemies otherwise.
 * DMC snapshots 2 Mistsplitter Reforged stacks on Burst cast.
-* The **Lea Lotus Lamp** holds a Dendro aura, and when it undergoes a Hydro **Lotuslight Transfiguration**, it produces a Dendro core with the Hydro applier as the trigger.
+* The **Lea Lotus Lamp** holds a Dendro aura, and when it undergoes a Hydro **Lotuslight Transfiguration**, it produces a Dendro Core with the Hydro applier as the trigger.
 
 </TabItem>
 </Tabs>
