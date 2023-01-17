@@ -112,7 +112,7 @@ NPC artifact shops are a better deal than the sanctifying essence in terms of ar
 10000=360  
 For 360 realm currency you can get 10k artifact exp. However, the 2 star artifact experience you get from all three NPC shops is actually equals to more than 10k artifact EXP while costing the same amount of realm currency. The total mora cost for the npc shops is 30k mora for 15 2 star artifacts. 1 two star artifact gives 840 exp and they sell 5 which means 5x840=4200 and 4200x3(amount of NPC artifact shops)=12600.
 
-**Signifiance:**  
+**Significance:**  
 It's better to buy 3 10k mora with 360 realm currency than to buy 1 sanctifying essence for 360 realm currency because you get 2600 more artifact exp from the 30k mora when you buy artis from the npcs.  
 360 Realm Currency can be converted to 10K artifact EXP.  
 NPC shops sell 12.6K artifact XP worth of 2\* artifacts for 30K Mora.  
@@ -254,7 +254,7 @@ Calculations: [Google Sheets](https://docs.google.com/spreadsheets/d/1u4rzrETXhq
 Extended version: [Pastebin](https://pastebin.com/tHCLxMcv)
 
 **Significance:**  
-Buying out both of the Artifact XP options allows the player to essentially receive a full day's worth of resin from their Realm Shop, should they purchase all of the artifact XP tinctures, as well as the Transient Resin. It is entirely possible to do this, as the total cost comes out to 4800 RC, and the highest possible expediture each week is 5040 RC.
+Buying out both of the Artifact XP options allows the player to essentially receive a full day's worth of resin from their Realm Shop, should they purchase all of the artifact XP tinctures, as well as the Transient Resin. It is entirely possible to do this, as the total cost comes out to 4800 RC, and the highest possible expenditure each week is 5040 RC.
 
 However, opting for a lower budget of buying out only one of the artifact options in order to save coins is also recommended.
 
@@ -305,7 +305,7 @@ There are two types of artifact spots:
 
 **_Ore Farming_**
 
-* 1.2 ore per average seems consistent for all types of ores (excluding starsilver which there are currently not enough statistics). There are some fluctations due to low sample size for Iron and White Iron and due to the event of 3 chunks having very low probability. But overlall seems consistent. They sometimes drop two chunks, sometimes three and never one.
+* 1.2 ore per average seems consistent for all types of ores (excluding starsilver which there are currently not enough statistics). There are some fluctuations due to low sample size for Iron and White Iron and due to the event of 3 chunks having very low probability. But overall seems consistent. They sometimes drop two chunks, sometimes three and never one.
 * Iron, White and Crystal chunk are all possible drops.
 
 **Evidence:** [Stats Sheet](https://docs.google.com/spreadsheets/d/1Y4iE0NnktqMY-ahVIa6TDCl3bSepkQOfib4Ns_On-oM/edit#gid=0)
@@ -445,10 +445,10 @@ Additionally, you will not be able to see the Welkin reward screen when you're i
 0:00 - Display of weapon domain rewards from Wednesday, 3:58 AM (2 minutes prior to daily reset)  
 0:32 - Start of a domain run (still Wednesday)  
 1:33 - Domain clear, (still Wednesday), showing Primogem count prior to Welkin (1274)  
-1:56 - Daily reset, primoges updated (1274 + 90 = 1364)  
+1:56 - Daily reset, primogems updated (1274 + 90 = 1364)  
 2:05 - Visible domain rewards have changed to Thursday rewards  
 2:22 - Claiming rewards (from Wednesday, got Wednesday rewards)  
-2:38 - R-eentry using domain UI  
+2:38 - Re-entry using domain UI  
 3:37 - Claiming rewards (it's Thursday, got Wednesday rewards)  
 5:11 - Claiming rewards (it's Thursday, got Wednesday rewards)  
 6:11 - Leaving domain, Welkin screen appears  
@@ -531,7 +531,7 @@ There exists an investigation daily limit of 100. It is possible to go beyond th
 **Evidence:**  
 Video shows me logging into genshin (Welkin, daily commissions displaying due to first login, 160 resin so I crafted condensed resin) and running through 100 investigation spots to showcase that if you investigate 100th spot then rerendering the zone WILL NOT display previously accessible investigation spots.  
 [Video](https://youtu.be/vW7O4U4MoJQ)  
-Above video contains timestamps of each spot and a counter on-screen. I also got artifacts from at least 4 bake-danukis that spawn artifact investiogation spot in the video and I increased the counter after each one of them.
+Above video contains timestamps of each spot and a counter on-screen. I also got artifacts from at least 4 bake-danukis that spawn artifact investigation spot in the video and I increased the counter after each one of them.
 
 Video showcasing that it is possible to go beyond the cap. There's on-screen counter present showing how many investigation spots I have already gathered. I managed to get a total of 174 investigation spots.  
 [Video](https://youtu.be/Uzs8yu6H1BI)
@@ -738,7 +738,7 @@ Melee attacks infused with elements usually cannot chop wood from trees.
 
 **Evidence:**  
 Chongyun and Ayaka infusions prevent wood chopping - [YouTube](https://youtu.be/cJEkFctLa4g)  
-Ayato _can_ chop wood during his Skill's infusion _if_ activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation) - [YouTube](https://youtu.be/Bs80TnoJMyI)
+Ayato _can_ chop wood during his Skill's infusion _if_ activated immediately after an uninfused normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation) - [YouTube](https://youtu.be/Bs80TnoJMyI)
 
 **Significance:**  
 Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at chopping wood.

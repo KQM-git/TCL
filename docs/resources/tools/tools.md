@@ -25,7 +25,7 @@ _Team DPS simulator with detailed damage breakdowns._
 ### Genshin Center
 
 [Genshin Center](https://genshin-center.com)  
-_Easy-to-use achievement tracker, character ascension planner, and simple damage calculcator._
+_Easy-to-use achievement tracker, character ascension planner, and simple damage calculator._
 
 ### Paimon.moe
 
@@ -46,6 +46,11 @@ _Automatically generated character build cards that use data from the in-game ch
 
 [Hoyolab](https://act.hoyolab.com/ys/app/interactive-map/index.html)  
 _HoYoverse's official interactive map of Teyvat._
+
+### Genshin Impact Spiral Abyss Drafter
+
+[spiralabyss.genshinteams.online](https://spiralabyss.genshinteams.online)  
+_Spiral Abyss Team Randomizer that features a "preset team" mode that uses data from character guides and team databases._
 
 ## Spreadsheet Calculators
 

@@ -620,6 +620,32 @@ When a character is near the edge of a platform above a body of water and jump, 
 **Significance:**  
 Travel with style, and do it quickly before it's patched
 
+### Phantom Skill Procs
+
+**By:** kay\#4212  
+**Added:** <Version date="2023-01-07" />  
+**Last tested:** <VersionHl date="2023-01-07" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/phantom-skill-procs)
+
+**Finding:**  
+It is possible to use an Elemental Skill and have the game not register it as being used, and vice versa.  
+
+During specific parts of a dash animation, some characters (namely Qiqi and Amber; Barbara is possible but evidence is difficult to acquire) can use their Elemental Skill but not have the game register it as being used. The 4-Piece Set Bonus of the Crimson Witch of Flames Artifact Set was used to track the game's registering of an Elemental Skill by checking changes in the Pyro DMG Bonus stat. The effect can also be tracked with Layla's A1 Passive.  
+
+A more interesting aspect of this bug is actually being able to jump/dash cancel out of the Elemental Skills (basically pressing both at the same time) which creates the opposite effect. A stack of CW will be gained so the game registers an Elemental Skill being used despite it not actually going on CD.
+
+**Evidence:**  
+Evidence of Elemental Skills being used not registering:  
+https://youtu.be/Cp_sA0XCxZo  
+https://youtu.be/hDrT0tDENiM  
+
+Evidence of Elemental Skills not being used registering:  
+https://youtu.be/LTUl3jur-Qo  
+https://youtu.be/vMgdPRjs6N0  
+
+**Significance:**  
+The significance of this is up in the air. On one hand, you can stack CW 3 times or abuse Layla's shield mechanics or anything that revolves around stacking skill uses. On the other hand, things not registering have the significance of being something you need to actively play around to avoid. It's an interesting set of bugs with a limited reach of characters. The bug is also extremely inconsistent. 
+
 ## Enemies
 
 ### Disappearing Fatui When They Shouldn't
@@ -693,7 +719,7 @@ This check already exists if you try to collect artifacts with a near full inven
 Torches \(and maybe campfires\) sometimes become unextinguishable by Overloads. Sometimes they extinguish after a long time of using Overloads. Cause unknown.
 
 **Evidence:**  
-[Video](https://youtu.be/qI1wiQH2lw4): No matter the amout, type, or Gauge of the Overload, the torch could not be extinguished.
+[Video](https://youtu.be/qI1wiQH2lw4): No matter the amount, type, or Gauge of the Overload, the torch could not be extinguished.
 
 **Significance:**  
 Understanding of overworld mechanics.

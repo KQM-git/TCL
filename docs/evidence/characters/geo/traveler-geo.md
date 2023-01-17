@@ -78,7 +78,7 @@ Geo supremacy.
 The Geo Traveler's Elemental Burst walls block a Geovishap from being able to jump over it.
 
 **Evidence:** [Video](https://www.youtube.com/watch?v=ipBK9T1Thz8)  
-As shown in the video, a Wake of Earth wall inbetween the Geovishap and the player completely prevent them from being able to jump over it, stopping their jump at the wall's edge.
+As shown in the video, a Wake of Earth wall in between the Geovishap and the player completely prevent them from being able to jump over it, stopping their jump at the wall's edge.
 
 **Significance:**  
 Enemy movement manipulation when using Geo Traveler in a team comp.

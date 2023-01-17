@@ -78,6 +78,22 @@ Nahida thinks Shatter is a reaction, and it can trigger TKP.
 **Significance:**  
 It is still the bastard child.
 
+### The God Of Wisdom Is Arachnophobic
+
+**By:** Mr. Pillow\#0065  
+**Added:** <Version date="2023-01-11" />  
+**Last tested:** <VersionHl date="2023-01-10" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/the-god-of-wisdom-is-arachnophobic)
+
+**Finding:**  
+Nahida's Hold and Tap versions of her Elemental Skill cannot mark Spiders with the Seed of Skandha, since Spiders are counted as Overworld Obstacles and are not opponents.  
+  
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=zxckhjLFokg)   
+  
+**Significance:**  
+Fluff.
+
 ## Burst Mechanics
 
 ## Ascension Mechanics
@@ -102,7 +118,7 @@ It is still the bastard child.
     * The only known exception is the mushroom from Shroomboars. - [Soul Fish#8421](https://youtu.be/u-2UD8ppPSo)
   * Her Skill also works with the [Seed Dispensary](https://youtu.be/Edm6Xn64JXE), allowing the collection of seeds from a distance.
   * The [range](https://youtu.be/fraMBXt2-CI) at which it can mark enemies appears to be the distance at which the level indicator appears.
-  * Nahida's Utility Passive doesn't trigger Whooperflower mimics. - [emmaus#9072](https://youtu.be/vdIV6JiXJoc).
+  * Nahida's Utility Passive doesn't trigger Whopperflower mimics. - [emmaus#9072](https://youtu.be/vdIV6JiXJoc).
 * Characters in quests have different, unvoiced voice lines under Nahida Hold E than their normal voice lines. - [Normal](https://youtu.be/Z4zh64gCXgs) - [Commission](https://youtu.be/RowGOEuP2uc) - juko#9385
 * Nahida's Hold E can mark stuff normally unreachable by the camera vertical limit if the initial camera is positioned before using hold E. - [Higher](https://youtu.be/hmLUvw5HrY4) - [Lower](https://youtu.be/32rR8UYBXtc) - Omglolz#2082
 

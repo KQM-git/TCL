@@ -219,12 +219,12 @@ Kazuha's E > plunge Anemo infusion/conversion is not overtaken by weapon infusio
 
 1. In the first [video](https://imgur.com/a/LLKsoO5), we can see Kazuha doing ONLY ANEMO DMG on his plunge, even though his sword is infused with Cryo before going up. We can vaguely visualize his sword getting Anemo infused during plunge.
 
-2. In the second [video](https://imgur.com/a/hR36v3W), we get a better view of the Cryo infusion while going up which is then OVERRIDEN BY KAZUHA'S ANEMO INFUSION.
+2. In the second [video](https://imgur.com/a/hR36v3W), we get a better view of the Cryo infusion while going up which is then OVERRIDDEN BY KAZUHA'S ANEMO INFUSION.
 
-3. The 3rd [video](https://imgur.com/a/8G0At6h) shows a similar scenario with c6 bennett. The video is slowed down to better visualize the Pyro infusion on ascending which is overriden by Kazuha's Anemo infusion.
+3. The 3rd [video](https://imgur.com/a/8G0At6h) shows a similar scenario with c6 bennett. The video is slowed down to better visualize the Pyro infusion on ascending which is overridden by Kazuha's Anemo infusion.
 
 **Significance:**  
-Kazuha's E > plunge can be considered as an Anemo infusion which cannot be overrided by weapon infusion as seen in the likes of keqing or ayaka or chongyun.
+Kazuha's E > plunge can be considered as an Anemo infusion which cannot be overridden by weapon infusion as seen in the likes of keqing or ayaka or chongyun.
 
 ## Burst Mechanics
 
@@ -293,7 +293,7 @@ This finding can potentially impact rotation planning. When using teams involvin
 
 ### C6: Crimson Momiji
 
-* Kazuha's Anemo Infusion can be overriden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)
+* Kazuha's Anemo Infusion can be overridden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)
 * The Anemo infusion from C6 can react with infusion field triggering a Swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)
 * Damage bonus works regardless of infusion overlap, but only during infusion duration. - [xTuki\#4893](https://imgur.com/eJJc5K6)
 

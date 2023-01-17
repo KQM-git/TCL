@@ -20,7 +20,7 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 * NPC shops sell 12.6K artifact XP worth of 2\* artifacts for 30K Mora.
 * The mora cost of buying out the NPC shops is equal to 360 realm currency.
 * NPC shop artifacts are more worth to buy than sanctifying essence.
-* For a mathmatical analysis on the artifact rolling system, see the [artifact probability thesis](../evidence/general-mechanics/resources-and-efficiency.md#artifact-probability-thesis).
+* For a mathematical analysis on the artifact rolling system, see the [artifact probability thesis](../evidence/general-mechanics/resources-and-efficiency.md#artifact-probability-thesis).
 
 ### Crafting refund vs increase passives
 
@@ -52,7 +52,7 @@ For Travelers who wish to maximize Stardust and minimize Realm Currency: target 
 * Artifact XP \(Large\): 0.0376 Resin/RC
 * Transient Resin: 0.05 Resin/RC
 
-Buying out both of the Artifact XP options allows the player to essentially receive a full day's worth of resin from their Realm Shop, should they purchase all of the artifact XP tinctures, as well as the Transient Resin. It is entirely possible to do this, as the total cost comes out to 4800 RC, and the highest possible expediture each week is 5040 RC.
+Buying out both of the Artifact XP options allows the player to essentially receive a full day's worth of resin from their Realm Shop, should they purchase all of the artifact XP tinctures, as well as the Transient Resin. It is entirely possible to do this, as the total cost comes out to 4800 RC, and the highest possible expenditure each week is 5040 RC.
 
 ### Battle Pass Resin Value
 
@@ -138,7 +138,7 @@ There are two types of artifact spots:
 
 ### Ore Farming
 
-* 1.2 ore per average seems consistent for all types of ores (excluding starsilver which there are currently not enough statistics). There are some fluctations due to low sample size for Iron and White Iron and due to the event of 3 chunks having very low probability. But overlall seems consistent. They sometimes drop two chunks, sometimes three and never one.
+* 1.2 ore per average seems consistent for all types of ores (excluding starsilver which there are currently not enough statistics). There are some fluctuations due to low sample size for Iron and White Iron and due to the event of 3 chunks having very low probability. But overall seems consistent. They sometimes drop two chunks, sometimes three and never one.
 * Iron, White and Crystal chunk are all possible drops.
 * Check the Evidence Vault for more data
 
@@ -148,8 +148,8 @@ Bushes have a 8% chance to drop loot, they will drop:
 
 * Lizards
 * Eggs
-* Masutakes
-* Fireflies \(nightime only\)
+* Matsutakes
+* Fireflies \(night-time only\)
 * This information can be used together with the[ infinite spawning bushes bug](../evidence/general-mechanics/bugs.md#infinite-bushes) to farm these materials.
 
 ### Bane-Duki Respawn

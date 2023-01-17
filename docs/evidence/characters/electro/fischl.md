@@ -117,7 +117,7 @@ For the second video, I used Fischl Burst, but swapped off before she lost the A
 **Significance:**  
 Not only do you need to be careful about Bennett's ATK buff tick interval, but also need to be careful not to let ATK buff ran out before swapping out of Fischl.
 
-### Fischl's A4 Targetting
+### Fischl's A4 Targeting
 
 **By:** Aluminum\#5462  
 **Added:** <Version date="2021-05-29" />  
@@ -210,7 +210,7 @@ _Hypothesis 1:_ Stellar Predator is a normal DMG bonus.
 * Therefore, predicted Stellar Predator DMG = 166.44 \* (1.993) = 331.71
 * This contradicts the ingame evidence. Hence, Hypothesis 1 is disproved.
 
-_Hypotesis 2:_ Stellar Predator is a special multiplier (raw multiplier to the Base DMG)
+_Hypothesis 2:_ Stellar Predator is a special multiplier (raw multiplier to the Base DMG)
 
 * Predicted Stellar Predator DMG = (166.44) \* (1.527) \* (1.466) = 372.59 ≅ 373
 * This DMG lines up with the DMG ingame. Hence, Hypothesis 2 is valid.
@@ -267,11 +267,11 @@ An understanding of the underlying mechanics of Fischl's A4 Passive and possibly
 [Discussion](https://tickets.deeznuts.moe/transcripts/fischl-a4-not-05s)
 
 **Finding:**  
-Fishl's A4 cooldown seems to be more than 0.5s or depends on ping.
+Fischl's A4 cooldown seems to be more than 0.5s or depends on ping.
 
 **Evidence:**
 
-1. Here Diluc performs N1 \(triggers Overload and Fishcl's A4\) followed by E \(triggers Overload but doesn't trigger Fischl's A4\). Judging from the TCL, Diluc's E1 is 45 frames so the delay between two Overloads has to be more than 0.5s but still Fishl's A4 didn't proc.  
+1. Here Diluc performs N1 \(triggers Overload and Fischl's A4\) followed by E \(triggers Overload but doesn't trigger Fischl's A4\). Judging from the TCL, Diluc's E1 is 45 frames so the delay between two Overloads has to be more than 0.5s but still Fischl's A4 didn't proc.  
    [YouTube](https://youtu.be/9iZG10GwwiI)
 
 2. Here Diluc performs the same combo but with a slight delay, successfully triggering Fischl's A4. The time delay was under 1s.  
