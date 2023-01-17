@@ -40,6 +40,48 @@
   --ifm-footer-background-color: #1e1c1f !important;
 }
 
+/* Search styling */
+[data-theme='light'] .DocSearch {
+  --docsearch-highlight-color: var(--ifm-color-primary-darker);
+  --docsearch-container-background: rgba(94, 100, 112, 0.7);
+  /* Modal */
+  --docsearch-modal-background: var(--ifm-color-secondary-lighter);
+  /* Search box */
+  --docsearch-searchbox-background: var(--ifm-color-secondary);
+  --docsearch-searchbox-focus-background: var(--ifm-color-white);
+  /* Hit */
+  --docsearch-hit-color: var(--ifm-font-color-base);
+  --docsearch-hit-active-color: var(--ifm-color-white);
+  --docsearch-hit-background: var(--ifm-color-white);
+  /* Footer */
+  --docsearch-footer-background: var(--ifm-color-white);
+}
+
+[data-theme='dark'] .DocSearch {
+  --docsearch-text-color: var(--ifm-font-color-base);
+  --docsearch-muted-color: var(--ifm-color-secondary-darkest);
+  --docsearch-container-background: rgba(54, 49, 56, 0.7);
+  /* Modal */
+  --docsearch-modal-background: var(--ifm-background-color);
+  --docsearch-modal-shadow: rgb(33, 28, 38) 1px 1px 0px 0px inset, rgb(7, 0, 9) 0px 3px 8px 0px;
+  /* Search box */
+  --docsearch-searchbox-background: var(--ifm-background-color);
+  --docsearch-searchbox-focus-background: var(--ifm-color-black);
+  /* Hit */
+  --docsearch-hit-color: var(--ifm-font-color-base);
+  --docsearch-hit-active-color: var(--ifm-color-white);
+  --docsearch-hit-background: var(--ifm-color-emphasis-100);
+  /* Footer */
+  --docsearch-footer-background: var(--ifm-background-surface-color);
+  --docsearch-footer-shadow: rgba(75, 61, 84, 0.5) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.2) 0px -4px 8px 0px;
+  --docsearch-key-gradient: linear-gradient(
+    -26.5deg,
+    var(--ifm-color-emphasis-200) 0%,
+    var(--ifm-color-emphasis-100) 100%
+  );
+  --docsearch-key-shadow: rgb(36, 29, 41) 0px -2px 0px 0px inset, rgb(44, 35, 47) 0px 0px 1px 1px inset, rgba(7, 3, 9, 0.3) 0px 2px 2px 0px;
+}
+
 .react-md p {
   margin: 0px;
 }
