@@ -1,0 +1,494 @@
+{
+  "name": "Yaoyao",
+  "star": 4,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 1030.3238525390625,
+    "attackBase": 17.808,
+    "defenseBase": 62.9475,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Toss 'N' Turn Spear",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "51.0%",
+              "55.2%",
+              "59.3%",
+              "65.2%",
+              "69.4%",
+              "74.1%",
+              "80.7%",
+              "87.2%",
+              "93.7%",
+              "100.8%",
+              "107.9%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "47.4%",
+              "51.3%",
+              "55.2%",
+              "60.7%",
+              "64.5%",
+              "69.0%",
+              "75.0%",
+              "81.1%",
+              "87.2%",
+              "93.8%",
+              "100.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "31.4%+32.9%",
+              "33.9%+35.6%",
+              "36.5%+38.3%",
+              "40.1%+42.1%",
+              "42.7%+44.8%",
+              "45.6%+47.9%",
+              "49.6%+52.1%",
+              "53.6%+56.3%",
+              "57.6%+60.5%",
+              "62.0%+65.1%",
+              "66.4%+69.7%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "77.9%",
+              "84.3%",
+              "90.6%",
+              "99.7%",
+              "106.0%",
+              "113.3%",
+              "123.2%",
+              "133.2%",
+              "143.2%",
+              "154.1%",
+              "164.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "112.7%",
+              "121.8%",
+              "131.0%",
+              "144.1%",
+              "153.3%",
+              "163.8%",
+              "178.2%",
+              "192.6%",
+              "207.0%",
+              "222.7%",
+              "238.4%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Raphanus Sky Cluster",
+        "desc": "Calls upon \"Yuegui: Throwing Mode,\" a special device created by a certain adeptus to help Yaoyao solve her problems.\nThis skill will be used differently in Holding Mode.\n\n**Hold**\nEnters Aiming Mode to adjust the throw direction.\n\n**Yuegui: Throwing Mode**\nThrows out White Jade Radishes that will explode upon hitting characters or opponents, dealing **Dendro DMG** to opponents within a certain AoE, and healing characters within that same AoE based on Yaoyao's Max HP. If a radish does not hit either an opponent or a character, the radish will remain where it is and explode on contact with a character or opponent, or will explode after its duration expires.\nYuegui: Throwing Mode will choose its radish-throw targets.\n·If all nearby characters have more than 70% HP remaining, then it will throw the radish at a nearby opponent.\n·If nearby characters have 70% or less HP remaining, it will throw a radish at the character with the lowest HP percentage remaining. If no opponents exist nearby, Yuegui will also throw White Jade Radishes at characters if they all have more than 70% HP and less than 100% HP remaining. Otherwise, it will throw radishes into the area at random.\n\nA maximum of 2 instances of Yuegui: Throwing Mode can exist at any one time.\n\n**\"A radish a day keeps trouble away! ... Oh, this isn't about a radish's medical properties, exactly, but it does have some health benefits, yeah!\"**",
+        "img": "Yaoyao/skill_1",
+        "talentTable": [
+          {
+            "name": "White Jade Radish DMG",
+            "values": [
+              "29.9%",
+              "32.2%",
+              "34.4%",
+              "37.4%",
+              "39.6%",
+              "41.9%",
+              "44.9%",
+              "47.9%",
+              "50.9%",
+              "53.9%",
+              "56.8%",
+              "59.8%",
+              "63.6%"
+            ]
+          },
+          {
+            "name": "White Jade Radish Healing",
+            "values": [
+              "1.71% Max HP+165",
+              "1.84% Max HP+182",
+              "1.97% Max HP+199",
+              "2.14% Max HP+219",
+              "2.27% Max HP+239",
+              "2.40% Max HP+261",
+              "2.57% Max HP+285",
+              "2.74% Max HP+310",
+              "2.91% Max HP+336",
+              "3.09% Max HP+363",
+              "3.26% Max HP+392",
+              "3.43% Max HP+422",
+              "3.64% Max HP+454"
+            ]
+          },
+          {
+            "name": "Yuegui: Throwing Mode Duration",
+            "value": "10.0s"
+          },
+          {
+            "name": "White Jade Radish Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Moonjade Descent",
+      "desc": "At the enjoinment of a certain adeptus, Yuegui's full potential can be unleashed in an emergency, dealing **Dendro DMG** to nearby opponents and entering an (in some sense) unsurpassed Adeptal Legacy state.\n\n**Adeptal Legacy**\n·White Jade Radishes generated will be changed to heal and deal DMG according to this skill. Explosions will heal all nearby party members, and the **Dendro DMG** that they deal will be viewed as Elemental Burst DMG instead.\n·Summons \"Yuegui: Jumping Mode\" at intervals until their limit has been reached. The behavior of this version of Yuegui is the same as that of \"Yuegui: Throwing Mode\" in the Elemental Skill, Raphanus Sky Cluster. A maximum of 3 Yuegui: Jumping Mode can exist at any one time.\n·Yaoyao's Movement SPD is increased by 15%.\n·Yaoyao's **Dendro RES** will be increased.\n\nThe Adeptal Legacy state will end once Yaoyao is off-field, and all remaining Yuegui: Jumping Mode will be cleared once this state ends.\n\n**\"Eh? Which one of these is actually Yuegui, you ask? Aren't they all Yuegui?\"**",
+      "img": "Yaoyao/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "114.6%",
+            "123.2%",
+            "131.7%",
+            "143.2%",
+            "151.8%",
+            "160.4%",
+            "171.8%",
+            "183.3%",
+            "194.8%",
+            "206.2%",
+            "217.7%",
+            "229.1%",
+            "243.4%"
+          ]
+        },
+        {
+          "name": "Adeptal Legacy White Jade Radish DMG",
+          "values": [
+            "72.2%",
+            "77.6%",
+            "83.0%",
+            "90.2%",
+            "95.6%",
+            "101.0%",
+            "108.2%",
+            "115.5%",
+            "122.7%",
+            "129.9%",
+            "137.1%",
+            "144.3%",
+            "153.3%"
+          ]
+        },
+        {
+          "name": "Adeptal Legacy White Jade Radish Healing",
+          "values": [
+            "2.02% Max HP+194",
+            "2.17% Max HP+214",
+            "2.32% Max HP+235",
+            "2.52% Max HP+257",
+            "2.67% Max HP+282",
+            "2.82% Max HP+308",
+            "3.03% Max HP+335",
+            "3.23% Max HP+364",
+            "3.43% Max HP+395",
+            "3.63% Max HP+427",
+            "3.83% Max HP+461",
+            "4.03% Max HP+497",
+            "4.29% Max HP+534"
+          ]
+        },
+        {
+          "name": "Dendro RES Bonus",
+          "value": "50%"
+        },
+        {
+          "name": "Adeptal Legacy Duration",
+          "value": "5.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
+      "type": "Dendro"
+    },
+    "passive": [
+      {
+        "name": "Starscatter",
+        "desc": "While affected by the Adeptal Legacy state caused by **Moonjade Descent**, Yaoyao will constantly throw White Jade Radishes at nearby opponents when she is sprinting, jumping, or running. She can throw 1 White Jade Radish this way once every 0.6s.",
+        "img": "Yaoyao/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "In Others' Shoes",
+        "desc": "When **White Jade Radishes** explode, active characters within their AoE will regain HP every 1s based on 0.8% of Yaoyao's Max HP. This effect lasts 5s.",
+        "img": "Yaoyao/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Tailing on Tiptoes",
+        "desc": "When Yaoyao is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.",
+        "img": "Yaoyao/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Adeptus' Tutelage",
+        "desc": "When **White Jade Radishes** explode, active characters within their AoE will gain 15% **Dendro DMG Bonus** for 8s and have 15 Stamina restored to them. This form of Stamina Restoration can only be triggered every 5s.",
+        "img": "Yaoyao/const_0"
+      },
+      {
+        "name": "Innocent",
+        "desc": "While affected by the Adeptal Legacy state caused by **Moonjade Descent**, if White Jade Radish explosions hit opponents, 3 Energy will be restored to Yaoyao. This form of Energy regeneration can occur once every 0.8s.",
+        "img": "Yaoyao/const_1"
+      },
+      {
+        "name": "Loyal and Kind",
+        "desc": "Increases the Level of **Raphanus Sky Cluster** by 3.\nMaximum upgrade level is 15.",
+        "img": "Yaoyao/const_2"
+      },
+      {
+        "name": "Winsome",
+        "desc": "After using **Raphanus Sky Cluster** or **Moonjade Descent**, Yaoyao's Elemental Mastery will be increased based on 0.3% of her Max HP for 8s. The maximum Elemental Mastery she can gain this way is 120.",
+        "img": "Yaoyao/const_3"
+      },
+      {
+        "name": "Compassionate",
+        "desc": "Increases the Level of **Moonjade Descent** by 3.\nMaximum upgrade level is 15.",
+        "img": "Yaoyao/const_4"
+      },
+      {
+        "name": "Beneficent",
+        "desc": "For every 2 White Jade Radishes **Yuegui: Throwing Mode** throws out, the next throw will also release a Mega Radish that will have a larger AoE than the standard White Jade Radish and have the following effects upon exploding:\n·Deals **AoE Dendro DMG** based on 75% of Yaoyao's ATK.\n·Restores HP for the active character based on 7.5% of Yaoyao's Max HP.\n\nEvery Yuegui: Throwing Mode can throw out a maximum of 2 Mega Radishes.",
+        "img": "Yaoyao/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 769.7046508789062
+        },
+        {
+          "stat": "Base DEF",
+          "value": 47.025
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.3038
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1316.6001
+        },
+        {
+          "stat": "Base DEF",
+          "value": 80.4375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.7565
+        },
+        {
+          "stat": "HP%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2045.794
+        },
+        {
+          "stat": "Base DEF",
+          "value": 124.9875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.3601
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2592.689453125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 158.4
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.8128
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3139.584716796875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 191.8125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.2655
+        },
+        {
+          "stat": "HP%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3686.480224609375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 225.225
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.7182
+        },
+        {
+          "stat": "HP%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

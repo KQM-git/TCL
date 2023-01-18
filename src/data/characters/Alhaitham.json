@@ -1,0 +1,518 @@
+{
+  "name": "Alhaitham",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1039.1188,
+    "attackBase": 24.3922,
+    "defenseBase": 60.84711,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Abductive Reasoning",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "49.5%",
+              "53.6%",
+              "57.6%",
+              "63.3%",
+              "67.4%",
+              "72.0%",
+              "78.3%",
+              "84.7%",
+              "91.0%",
+              "97.9%",
+              "104.8%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "50.7%",
+              "54.9%",
+              "59.0%",
+              "64.9%",
+              "69.0%",
+              "73.8%",
+              "80.3%",
+              "86.7%",
+              "93.2%",
+              "100.3%",
+              "107.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "34.2%+34.2%",
+              "37.0%+37.0%",
+              "39.7%+39.7%",
+              "43.7%+43.7%",
+              "46.5%+46.5%",
+              "49.7%+49.7%",
+              "54.0%+54.0%",
+              "58.4%+58.4%",
+              "62.8%+62.8%",
+              "67.6%+67.6%",
+              "72.3%+72.3%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "66.8%",
+              "72.2%",
+              "77.6%",
+              "85.4%",
+              "90.8%",
+              "97.0%",
+              "105.6%",
+              "114.1%",
+              "122.7%",
+              "132.0%",
+              "141.3%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "83.9%",
+              "90.7%",
+              "97.5%",
+              "107.3%",
+              "114.1%",
+              "121.9%",
+              "132.6%",
+              "143.3%",
+              "154.1%",
+              "165.8%",
+              "177.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "55.3%+55.3%",
+              "59.8%+59.8%",
+              "64.2%+64.2%",
+              "70.7%+70.7%",
+              "75.2%+75.2%",
+              "80.3%+80.3%",
+              "87.4%+87.4%",
+              "94.4%+94.4%",
+              "101.5%+101.5%",
+              "109.2%+109.2%",
+              "116.9%+116.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Universality: An Elaboration on Form",
+        "desc": "Rushes forward, dealing **Dendro DMG** to nearby opponents when the rush ends, causing a Chisel-Light Mirror to form.\nHolding this skill will cause it to behave differently.\n\n**Hold**\nEnters Aiming Mode to adjust the direction of Alhaitham's rush attack.\n\n**Chisel-Light Mirror**\nWhen this skill is unleashed, Alhaitham will generate 1 Chisel-Light Mirror. If there are no Mirrors at this time, he will generate 1 additional Mirror. Chisel-Light Mirrors will have the following properties:\n·When he possesses Chisel-Light Mirrors, Alhaitham's Normal, Charged, and Plunging Attacks will be converted to **Dendro DMG**. This cannot be overridden.\n·When attacks of the aforementioned kind hit opponents, the Chisel-Light Mirrors will unleash a Projection Attack that deals **AoE Dendro DMG** based on the number of Mirrors on the field.\n·A total of 3 Chisel-Light Mirrors can exist at once.\n·The Chisel-Light Mirrors will disappear one after the other over time, and will all disappear when Alhaitham leaves the field.\n\n**\"Truth inherently exists amidst uncertainty. Even the greatest of scholars are not immune to error.\"**",
+        "img": "Alhaitham/skill_1",
+        "talentTable": [
+          {
+            "name": "Rush Attack DMG",
+            "values": [
+              "193.6% ATK+154.9% Elemental Mastery",
+              "208.1% ATK+166.5% Elemental Mastery",
+              "222.6% ATK+178.1% Elemental Mastery",
+              "242.0% ATK+193.6% Elemental Mastery",
+              "256.5% ATK+205.2% Elemental Mastery",
+              "271.0% ATK+216.8% Elemental Mastery",
+              "290.4% ATK+232.3% Elemental Mastery",
+              "309.8% ATK+247.8% Elemental Mastery",
+              "329.1% ATK+263.3% Elemental Mastery",
+              "348.5% ATK+278.8% Elemental Mastery",
+              "367.8% ATK+294.3% Elemental Mastery",
+              "387.2% ATK+309.8% Elemental Mastery",
+              "411.4% ATK+329.1% Elemental Mastery"
+            ]
+          },
+          {
+            "name": "Projection Attack Interval",
+            "value": "1.6s"
+          },
+          {
+            "name": "1-Mirror Projection Attack DMG",
+            "values": [
+              "67.2% ATK+134.4% Elemental Mastery",
+              "72.2% ATK+144.5% Elemental Mastery",
+              "77.3% ATK+154.6% Elemental Mastery",
+              "84.0% ATK+168.0% Elemental Mastery",
+              "89.0% ATK+178.1% Elemental Mastery",
+              "94.1% ATK+188.2% Elemental Mastery",
+              "100.8% ATK+201.6% Elemental Mastery",
+              "107.5% ATK+215.0% Elemental Mastery",
+              "114.2% ATK+228.5% Elemental Mastery",
+              "121.0% ATK+241.9% Elemental Mastery",
+              "127.7% ATK+255.4% Elemental Mastery",
+              "134.4% ATK+268.8% Elemental Mastery",
+              "142.8% ATK+285.6% Elemental Mastery"
+            ]
+          },
+          {
+            "name": "2-Mirror Projection Attack DMG",
+            "values": [
+              "(67.2% ATK+134.4% Elemental Mastery)×2",
+              "(72.2% ATK+144.5% Elemental Mastery)×2",
+              "(77.3% ATK+154.6% Elemental Mastery)×2",
+              "(84.0% ATK+168.0% Elemental Mastery)×2",
+              "(89.0% ATK+178.1% Elemental Mastery)×2",
+              "(94.1% ATK+188.2% Elemental Mastery)×2",
+              "(100.8% ATK+201.6% Elemental Mastery)×2",
+              "(107.5% ATK+215.0% Elemental Mastery)×2",
+              "(114.2% ATK+228.5% Elemental Mastery)×2",
+              "(121.0% ATK+241.9% Elemental Mastery)×2",
+              "(127.7% ATK+255.4% Elemental Mastery)×2",
+              "(134.4% ATK+268.8% Elemental Mastery)×2",
+              "(142.8% ATK+285.6% Elemental Mastery)×2"
+            ]
+          },
+          {
+            "name": "3-Mirror Projection Attack DMG",
+            "values": [
+              "(67.2% ATK+134.4% Elemental Mastery)×3",
+              "(72.2% ATK+144.5% Elemental Mastery)×3",
+              "(77.3% ATK+154.6% Elemental Mastery)×3",
+              "(84.0% ATK+168.0% Elemental Mastery)×3",
+              "(89.0% ATK+178.1% Elemental Mastery)×3",
+              "(94.1% ATK+188.2% Elemental Mastery)×3",
+              "(100.8% ATK+201.6% Elemental Mastery)×3",
+              "(107.5% ATK+215.0% Elemental Mastery)×3",
+              "(114.2% ATK+228.5% Elemental Mastery)×3",
+              "(121.0% ATK+241.9% Elemental Mastery)×3",
+              "(127.7% ATK+255.4% Elemental Mastery)×3",
+              "(134.4% ATK+268.8% Elemental Mastery)×3",
+              "(142.8% ATK+285.6% Elemental Mastery)×3"
+            ]
+          },
+          {
+            "name": "Chisel-Light Mirror Removal Interval",
+            "value": "4.0s"
+          },
+          {
+            "name": "CD",
+            "value": "18.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Particular Field: Fetters of Phenomena",
+      "desc": "Creates a Particular Binding Field and deals multiple instances of **AoE Dendro DMG**.\nIf Chisel-Light Mirrors exist when this ability is unleashed, all such Mirrors will be consumed and increase the number of DMG instances dealt.\n2s after this ability is unleashed, if 0/1/2/3 Mirrors were consumed, Alhaitham will generate 3/2/1/0 new Mirrors in turn.\n\n**\"If a researcher makes wisdom their goal, then they should be prepared to make an enemy of every word they read. Only then can they avoid bias.\"**",
+      "img": "Alhaitham/ult",
+      "talentTable": [
+        {
+          "name": "Single-Instance DMG",
+          "values": [
+            "121.6% ATK+97.3% Elemental Mastery",
+            "130.7% ATK+104.6% Elemental Mastery",
+            "139.8% ATK+111.9% Elemental Mastery",
+            "152.0% ATK+121.6% Elemental Mastery",
+            "161.1% ATK+128.9% Elemental Mastery",
+            "170.2% ATK+136.2% Elemental Mastery",
+            "182.4% ATK+145.9% Elemental Mastery",
+            "194.6% ATK+155.6% Elemental Mastery",
+            "206.7% ATK+165.4% Elemental Mastery",
+            "218.9% ATK+175.1% Elemental Mastery",
+            "231.0% ATK+184.8% Elemental Mastery",
+            "243.2% ATK+194.6% Elemental Mastery",
+            "258.4% ATK+206.7% Elemental Mastery"
+          ]
+        },
+        {
+          "name": "Basic Attack Instances",
+          "value": "4"
+        },
+        {
+          "name": "1-Mirror Attack Instances",
+          "value": "6"
+        },
+        {
+          "name": "2-Mirror Attack Instances",
+          "value": "8"
+        },
+        {
+          "name": "3-Mirror Attack Instances",
+          "value": "10"
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "Dendro"
+    },
+    "passive": [
+      {
+        "name": "Four-Causal Correction",
+        "desc": "When Alhaitham's Charged or Plunging Attacks hit opponents, they will generate 1 Chisel-Light Mirror. This effect can be triggered once every 12s.",
+        "img": "Alhaitham/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Mysteries Laid Bare",
+        "desc": "Each point of Alhaitham's Elemental Mastery will increase the DMG dealt by Projection Attacks and **Particular Field: Fetters of Phenomena** by 0.1%.\nThe DMG of both aforementioned abilities can be increased by a maximum of 100% this way.",
+        "img": "Alhaitham/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Law of Reductive Overdetermination",
+        "desc": "When Alhaitham crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.",
+        "img": "Alhaitham/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Intuition",
+        "desc": "When a Projection Attack hits an opponent, **Universality: An Elaboration on Form**'s CD is decreased by 1.2s. This effect can be triggered once every 1s.",
+        "img": "Alhaitham/const_0"
+      },
+      {
+        "name": "Debate",
+        "desc": "When Alhaitham generates a Chisel-Light Mirror, his Elemental Mastery will be increased by 50 for 8 seconds, max 4 stacks. Each stack's duration is counted independently. This effect can be triggered even when the maximum number of Chisel-Light Mirrors has been reached.",
+        "img": "Alhaitham/const_1"
+      },
+      {
+        "name": "Negation",
+        "desc": "Increases the Level of **Universality: An Elaboration on Form** by 3.\nMaximum upgrade level is 15.",
+        "img": "Alhaitham/const_2"
+      },
+      {
+        "name": "Elucidation",
+        "desc": "When **Particular Field: Fetters of Phenomena** is unleashed, the following effects will become active based on the number of Chisel-Light Mirrors consumed and created this time around:\n·Each Mirror consumed will increase the Elemental Mastery of all other nearby party members by 30 for 15s.\n·Each Mirror generated will grant Alhaitham a 10% **Dendro DMG Bonus** for 15s.\n\nThe pre-existing duration of the aforementioned effects will be cleared if you use Particular Field: Fetters of Phenomena again while they are in effect.",
+        "img": "Alhaitham/const_3"
+      },
+      {
+        "name": "Sagacity",
+        "desc": "Increases the Level of **Particular Field: Fetters of Phenomena** by 3.\nMaximum upgrade level is 15.",
+        "img": "Alhaitham/const_4"
+      },
+      {
+        "name": "Structuration",
+        "desc": "Alhaitham gains the following effects:\n· 2 seconds after **Particular Field: Fetters of Phenomena** is unleashed, he will generate 3 Chisel-Light Mirrors regardless of the number of mirrors consumed.\n· If Alhaitham generates Chisel-Light Mirrors when their numbers have already maxed out, his CRIT Rate and CRIT DMG will increase by 10% and 70% respectively for 6s. If this effect is triggered again during its initial duration, the duration remaining will be increased by 6s.",
+        "img": "Alhaitham/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Dendro DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 890.950439453125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 52.1721
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.912578582763672
+        },
+        {
+          "stat": "Dendro DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1523.994140625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 89.24175
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.771514892578125
+        },
+        {
+          "stat": "Dendro DMG Bonus",
+          "value": 0.072
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2368.052490234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 138.66795349121094
+        },
+        {
+          "stat": "Base ATK",
+          "value": 55.58343
+        },
+        {
+          "stat": "Dendro DMG Bonus",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3001.09619140625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 175.7376
+        },
+        {
+          "stat": "Base ATK",
+          "value": 70.44237
+        },
+        {
+          "stat": "Dendro DMG Bonus",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3634.14
+        },
+        {
+          "stat": "Base DEF",
+          "value": 212.80725
+        },
+        {
+          "stat": "Base ATK",
+          "value": 85.30131
+        },
+        {
+          "stat": "Dendro DMG Bonus",
+          "value": 0.216
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4267.18359375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 249.8769
+        },
+        {
+          "stat": "Base ATK",
+          "value": 100.16024
+        },
+        {
+          "stat": "Dendro DMG Bonus",
+          "value": 0.288
+        }
+      ]
+    }
+  ]
+}
