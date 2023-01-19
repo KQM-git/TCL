@@ -85,8 +85,8 @@ import Skill from '@site/src/components/char/Skill'
 | DMG \(T9%\)    | 329.12% ATK + 263.3% Elemental Mastery | 1-Mirror: 114.24% ATK + 228.48% Elemental Mastery<br />2-Mirror: (114.24% ATK + 228.48% Elemental Mastery)×2<br />3-Mirror: (114.24% ATK + 228.48% Elemental Mastery)×3 |
 | Particles      | 1 (-)                                  | -                                                                                                                                                                       |
 | GU             | 1U                                     | 1U                                                                                                                                                                      |
-| ICD            | None                                   | 2 hit / 12s                                                                                                                                                            |
-| Snapshot       | Dynamic                                       | Snapshot                                                                                                                                                                         |
+| ICD            | None                                   | 2 hit / 12s                                                                                                                                                             |
+| Snapshot       | Dynamic                                | Snapshot                                                                                                                                                                |
 | Damage Element | Dendro                                 | Dendro                                                                                                                                                                  |
 | Damage Type    | Skill                                  | Skill                                                                                                                                                                   |
 | CD             | 18s                                    | 1.6s                                                                                                                                                                    |
@@ -112,9 +112,9 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------- | :----------------------------------------------------------- |
 | DMG \(T9%\)      | 206.72% ATK + 165.38% Elemental Mastery                      |
 | Attack Instances | Basic: 4<br />1-Mirror: 6<br />2-Mirror: 8<br />3-Mirror: 10 |
-| GU               | 1U                                                             |
-| ICD              | 3 hit / 2.5s                                                     |
-| Snapshot         | Snapshot                                                             |
+| GU               | 1U                                                           |
+| ICD              | 3 hit / 2.5s                                                 |
+| Snapshot         | Snapshot                                                     |
 | Damage Element   | Dendro                                                       |
 | Damage Type      | Burst                                                        |
 | Energy Cost      | 70                                                           |

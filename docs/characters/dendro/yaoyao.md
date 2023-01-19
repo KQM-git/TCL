@@ -41,7 +41,7 @@ import Skill from '@site/src/components/char/Skill'
 | 1-Hit  | 93.70%          |        |      | 51.73        | 3            |
 | 2-Hit  | 87.16%          |        |      | 47.51        | 3            |
 | 3-Hit  | 57.65% + 60.53% |        |      | 33.04 x2     | 3 x2         |
-| 4-Hit  | 143.18	%        |        |      | 77.36        | 4            |
+| 4-Hit  | 143.18%         |        |      | 77.36        | 4            |
 
 </div>
 <div class='talent-columns'>
