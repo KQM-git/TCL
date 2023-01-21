@@ -1,0 +1,152 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 11,
+        "hitlag": 0,
+        "next_na": 26,
+        "ca": 24,
+        "notes": "X -> N1 (Release Frames) : Idle:11f, N3:14f, CA:9f, Low Plunge:11f, Skill (in Skill):10f, Burst:9f, Burst (in Skill):32f"
+    }, 
+    {
+        "name": "N2",
+        "release": 6,
+        "hitlag": 0,
+        "next_na": 18,
+        "ca": 27
+    },
+    {
+        "name": "N3",
+        "release": [32,41],
+        "hitlag": 0,
+        "next_na": 64,
+        "ca": 50
+    }],
+    "NA (in Skill)": [{
+        "name": "N1 (in Skill)",
+        "release": 15,
+        "hitlag": 0,
+        "next_na": 30,
+        "ca": 31,
+        "notes": "X -> N1 (in Skill, Release Frames) : Idle:15f, N3:15f, CA:13f, Dash:12f, Jump:13f"
+    }, 
+    {
+        "name": "N2 (in Skill)",
+        "release": 3,
+        "hitlag": 0,
+        "next_na": 17,
+        "ca": 23
+    },
+    {
+        "name": "N3 (in Skill)",
+        "release": [32,40],
+        "hitlag": 0,
+        "next_na": 54,
+        "ca": 53
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 34,
+        "hitlag": 0,
+        "n1": 51,
+        "ca": 50,
+        "skill": 49,
+        "burst": 49,
+        "dash": 37,
+        "jump": 37,
+        "swap": 47,
+        "notes": "X -> CA (Hitmark Frames): Idle:32f, N1:30f, N2:30f, N3:30f, CA:32f, Low Plunge:29f, Skill (in Skill):32f, Burst:32f, Burst (in Skill):32f"  
+    },
+    "CA (in Skill)": {
+        "name": "CA (in Skill)",
+        "hitmark": 36,
+        "hitlag": 0,
+        "n1": 54,
+        "ca": 53,
+        "skill": 33,
+        "burst": 33,
+        "dash": 33,
+        "jump": 33,
+        "notes": "X -> CA (in Skill, Hitmark Frames): Idle:34f, N1:30f, N2:30f, N3:30f, CA:27f, Skill:34f, Burst:32f, Dash:25f, Jump:27f"
+    },
+    "Skill": {
+        "name": "Cast (Default)",
+        "hitmark": 2,
+        "n1": 28,
+        "ca": 27,
+        "skill": 28,
+        "burst": 28,
+        "dash": 28,
+        "jump": 28,
+        "swap": 28,
+        "notes": [
+            "CD: When Kuugoryoku Points reach 0",
+            "A4 Wind Arrows Release: 16, 18, 21, 24",
+            "A4 Wind Arrows Elemental Application from dash start: 46, 50, 50, 55",
+            "A4 Wind Arrows Elemental Application from each arrow release: 30, 32, 29, 30",
+        ]
+    },
+    "Skill (in Skill)": {
+        "name": "Cast (in Skill)",
+        "hitmark": 2,
+        "n1": 25,
+        "ca": 26,
+        "burst": 25,
+        "dash": 26,
+        "jump": 26,
+        "swap": 26,
+        "notes": "CD: 0f without Burst, 90f after Burst"
+    },
+    "Burst (Default)": {
+        "name": "Cast (Default)",
+        "hitmark": [91,101,107,113],
+        "n1": 94,
+        "ca": 96,
+        "skill": 95,
+        "dash": 97,
+        "jump": 96,
+        "swap": 94,
+        "cd": 0,
+        "energy": 5
+    },
+    "Burst (in Skill)": {
+        "name": "Cast (in Skill)",
+        "hitmark": [92,102,108,114],
+        "n1": 145,
+        "ca": 147,
+        "dash": 147,
+        "jump": 147,
+        "swap": 145,
+        "cd": 0,
+        "energy": 5
+    },
+    "Other": [{
+        "name": "Dash (in Skill)",
+        "default": 21,
+        "n1": 21,
+        "ca": 21,
+        "skill": 5,
+        "burst": 24,
+        "dash": 22,
+        "jump": 22
+    },
+    {
+        "name": "Jump (in Skill)",
+        "default": 31,
+        "n1": 22,
+        "ca": 22,
+        "skill": 5,
+        "burst": 5,
+        "dash": 5,
+        "jump": 46
+    },
+    {
+      "name": "Low Plunge",
+      "default": 41,
+      "n1": 65,
+      "ca": 64,
+      "burst": 65,
+      "dash": 41,
+      "swap": 57,
+      "notes": "Collision: 36f"
+    }]
+}
