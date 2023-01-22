@@ -51,6 +51,11 @@ import Skill from '@site/src/components/char/Skill'
 | Wreath Arrow + Clusterbloom Arrow (in E) | 148.24% + 65.62% | 41     | 312.97%/s  | 1U  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
 
 </div>
+  
+**Notes**
+
+* Tighnari can paralyze the Aeonblight Drake with 1 aimed shot using a Wreath Arrow.
+
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
