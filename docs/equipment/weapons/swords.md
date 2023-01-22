@@ -14,6 +14,10 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 </Weapon>
 
+### Foliar Incision
+
+<Weapon weapon="Foliar Incision" weapons={swords} />
+
 ### Freedom-Sworn
 
 <Weapon weapon="Freedom-Sworn" weapons={swords}>
@@ -96,7 +100,8 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 <Weapon weapon="Cinnabar Spindle" weapons={swords}>
 
 * As of Patch 2.5, there is a bug where the Passive will be deactivated if Albedo's [Transient Blossom](../../characters/geo/albedo.md#attacks) is triggered by a non-melee attack and hits a shield.
-
+* The passive is dynamic, even for abilities that can snapshot.
+  
 </Weapon>
 
 ### Favonius Sword
@@ -186,6 +191,10 @@ import SacSeries from './\_common/sac_series.md';
 * Flute's AoE can CRIT - [Crome\#2644](../../evidence/equipment/weapons.md#the-flute)
 
 </Weapon>
+
+### Toukabou Shigure
+
+<Weapon weapon="Toukabou Shigure" weapons={swords} />
 
 ### Xiphos' Moonlight
 

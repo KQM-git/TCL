@@ -1,5 +1,5 @@
 ---
-description: If the measure of humanity is having a heart, then he cannot be deemed as such. If one without a heart experiences joy and sorrow, then he shall be a puppet most alike to humanity.
+description: A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.
 ---
 
 import char from '@site/src/data/characters/Wanderer.json'

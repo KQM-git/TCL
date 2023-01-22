@@ -1,3 +1,5 @@
 * Passive does not proc on shielded enemies - [Exuma\#1917](../../../evidence/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
 * When a character with multiple charges of their Elemental Skill procs the sacrificial passive, the Elemental Skill cooldown shown on the timer is the cooldown that will be reset. - [mol\#3280 ](../../../evidence/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks)
-* The average ER gain from the Sacrifical passive has decreasing returns from increasing refinement - [Raladin\#3752](../../../evidence/equipment/weapons.md#average-er-gains-from-sacrifical-weapons)
+* The average ER gain from the Sacrificial passive has decreasing returns from increasing refinement - [Raladin\#3752](../../../evidence/equipment/weapons.md#average-er-gain-from-sacrificial-weapons)
+* The passive can proc even if the Elemental Skill is not on cooldown - [ f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920](../../../evidence/equipment/weapons.md#sacrificial-weapons-can-proc-even-if-the-elemental-skill-is-not-on-cooldown)
+* There are certain specific skills that can't proc the passive, despite being considered Elemental Skill DMG, namely Sayu hold E Roll, Anemo Traveler hold E Cutting DMG, Mona A1 and Keqing C1 - [ f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920](../../../evidence/equipment/weapons.md#elemental-skills-that-dont-proc-sacrificial-weapons)

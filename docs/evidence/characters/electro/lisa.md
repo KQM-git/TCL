@@ -39,7 +39,7 @@ Combat positioning for Lisa
 
 **Findings:**  
 The description of Violet Arc clearly states that _opponents in a small AoE_ are additionally stacked with Conductive, and this is true. But it does not mention that enemies affected also will have their own radius, thus chaining more stacks of Conductive.  
-Mobs hit via the initial small radius outputted by her Press E also output their own radius, and those in its radius can also get affectede by Conductive, including the initial target.
+Mobs hit via the initial small radius outputted by her Press E also output their own radius, and those in its radius can also get affected by Conductive, including the initial target.
 
 Can work in conjunction to the effect described in a below entry: **Violet Arc's Conductive status can be passed with Overload and Superconduct**
 
@@ -314,7 +314,7 @@ Unlike some other static AoE field deployables, namely Albedo's Tectonic Tide's 
 
 60 Lightning Rose Trials among 3 Opponents: [Google Sheets](https://docs.google.com/spreadsheets/d/1r7H3Tbqhz2fViV5qHuycP-Hmy3GSI8Wi1PdIxtvWSDc/edit?usp=sharing) | [YouTube](https://youtube.com/playlist?list=PLYUuVozQgGzFcprW_Xa6IzQfrPg6Xrgpb)
 
-Within the sheet, 60 Trials were conducted and recorded consecutively on a set of 3 Hilichurls, each being marked as 1, 2, or 3, respectively. Discharge connections were recorded along the way and no patterns and near equal targeting occurances were present, indicating there is randomness and no guaranteed sequencing. Similarly, outliers of varying frequencies were present as well due to the nature of randomness.
+Within the sheet, 60 Trials were conducted and recorded consecutively on a set of 3 Hilichurls, each being marked as 1, 2, or 3, respectively. Discharge connections were recorded along the way and no patterns and near equal targeting occurrences were present, indicating there is randomness and no guaranteed sequencing. Similarly, outliers of varying frequencies were present as well due to the nature of randomness.
 
 All trials also revealed there are 29 total Arcs and each had 0.5s intervals beginning after the Initial Summon Blast.
 
@@ -337,18 +337,18 @@ Somewhat like other abilities with the potential to Quadratically Scale in outpu
 **Evidence:**
 
 * [1 Entity](https://youtu.be/ZDknULX1M7o)
-  * 1 Damage Value occured in each Arc containing 1 Discharge \(1 Entity × 1 Discharge\) \[technically Quad\]
+  * 1 Damage Value occurred in each Arc containing 1 Discharge \(1 Entity × 1 Discharge\) \[technically Quad\]
 * [2 Entities](https://youtu.be/d8vx7AsubU0)
-  * When 1 Discharge occured, there were 2 resulting Damage Values \(2 Entities × 1 Discharge\)
-  * When 2 Discharges occured, there were 4 resulting Damage Values \(2 Entities × 2 Discharges\) \[Quad\]
+  * When 1 Discharge occurred, there were 2 resulting Damage Values \(2 Entities × 1 Discharge\)
+  * When 2 Discharges occurred, there were 4 resulting Damage Values \(2 Entities × 2 Discharges\) \[Quad\]
 * [3 Entities](https://youtu.be/ewk7a9NdDkw)
-  * When 1 Discharge occured, there were 3 resulting Damage Values \(3 Entities × 1 Discharge\)
-  * When 2 Discharges occured, there were 6 resulting Damage Values \(3 Entities × 2 Discharges\)
-  * When 3 Discharges occured, there were 9 resulting Damage Values \(3 Entities × 3 Discharges\) \[Quad\]
+  * When 1 Discharge occurred, there were 3 resulting Damage Values \(3 Entities × 1 Discharge\)
+  * When 2 Discharges occurred, there were 6 resulting Damage Values \(3 Entities × 2 Discharges\)
+  * When 3 Discharges occurred, there were 9 resulting Damage Values \(3 Entities × 3 Discharges\) \[Quad\]
 * [4 Entities](https://youtu.be/kql4C6_Wq90)
-  * When 1 Discharge occured, there were 4 resulting Damage Values \(4 Entities × 1 Discharge\)
-  * When 2 Discharges occured, there were 8 resulting Damage Values \(4 Entities × 2 Discharges\)
-  * When 3 Discharges occured, there were 12 resulting Damage Values \(4 Entities × 3 Discharges\)
+  * When 1 Discharge occurred, there were 4 resulting Damage Values \(4 Entities × 1 Discharge\)
+  * When 2 Discharges occurred, there were 8 resulting Damage Values \(4 Entities × 2 Discharges\)
+  * When 3 Discharges occurred, there were 12 resulting Damage Values \(4 Entities × 3 Discharges\)
 
 Hypothetical N Entities (assuming all are condensed enough to be tagged by all Discharges):
 

@@ -117,7 +117,7 @@ For the second video, I used Fischl Burst, but swapped off before she lost the A
 **Significance:**  
 Not only do you need to be careful about Bennett's ATK buff tick interval, but also need to be careful not to let ATK buff ran out before swapping out of Fischl.
 
-### Fischl's A4 Targetting
+### Fischl's A4 Targeting
 
 **By:** Aluminum\#5462  
 **Added:** <Version date="2021-05-29" />  
@@ -210,7 +210,7 @@ _Hypothesis 1:_ Stellar Predator is a normal DMG bonus.
 * Therefore, predicted Stellar Predator DMG = 166.44 \* (1.993) = 331.71
 * This contradicts the ingame evidence. Hence, Hypothesis 1 is disproved.
 
-_Hypotesis 2:_ Stellar Predator is a special multiplier (raw multiplier to the Base DMG)
+_Hypothesis 2:_ Stellar Predator is a special multiplier (raw multiplier to the Base DMG)
 
 * Predicted Stellar Predator DMG = (166.44) \* (1.527) \* (1.466) = 372.59 ≅ 373
 * This DMG lines up with the DMG ingame. Hence, Hypothesis 2 is valid.
@@ -267,11 +267,11 @@ An understanding of the underlying mechanics of Fischl's A4 Passive and possibly
 [Discussion](https://tickets.deeznuts.moe/transcripts/fischl-a4-not-05s)
 
 **Finding:**  
-Fishl's A4 cooldown seems to be more than 0.5s or depends on ping.
+Fischl's A4 cooldown seems to be more than 0.5s or depends on ping.
 
 **Evidence:**
 
-1. Here Diluc performs N1 \(triggers Overload and Fishcl's A4\) followed by E \(triggers Overload but doesn't trigger Fischl's A4\). Judging from the TCL, Diluc's E1 is 45 frames so the delay between two Overloads has to be more than 0.5s but still Fishl's A4 didn't proc.  
+1. Here Diluc performs N1 \(triggers Overload and Fischl's A4\) followed by E \(triggers Overload but doesn't trigger Fischl's A4\). Judging from the TCL, Diluc's E1 is 45 frames so the delay between two Overloads has to be more than 0.5s but still Fischl's A4 didn't proc.  
    [YouTube](https://youtu.be/9iZG10GwwiI)
 
 2. Here Diluc performs the same combo but with a slight delay, successfully triggering Fischl's A4. The time delay was under 1s.  
@@ -344,7 +344,7 @@ Helps with accurate calculations as well as rotation crafting.
 **Last tested:** <VersionHl date="2021-07-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865067427287924806_870110282918293584_transcript-c6-fischl-multihitgaming.html)
 
-**Finding/Bug:** Fischl's C6's joint attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like XQ Rain Swords.
+**Finding/Bug:** Fischl's C6's coordinated attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like XQ Rain Swords.
 
 **Evidence:**  
 [YouTube](https://youtu.be/ToUhrbPSKxc)
@@ -464,7 +464,7 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 **Last tested:** <VersionHl date="2021-08-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_878979789267025971_879056905895567461_transcript-c6-fischl-doesnt-fire-with-c6-yoi.html)
 
-**Finding:** C6 Fischl's joint attacks will not fire a joint attack with C6 Yoimiya's extra kindling arrows
+**Finding:** C6 Fischl's coordinated attacks will not fire a coordinated attack with C6 Yoimiya's extra kindling arrows
 
 **Evidence:**  
 [Video 1](https://www.youtube.com/watch?v=m0q9pbKT8x0) and [Video 2](https://i.imgur.com/1EH5R4A.png) to help break it down (credits to Xethrion to help provide footage of C6 Yoimiya and C6 Fischl)
@@ -472,4 +472,4 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 Step 1. Fire Yoimiya's N1, see how many Fischl's C6 numbers appears  
 Step 2. Fire Yoimiya's N1 but ensure C6 activates, see how many Fischl's C6 numbers appears
 
-**Significance:** C6 Yoimiya does not turn Oz into a true mini gun, and the rate of C6 Fischl's joint attacks is limited by Yoimiya's innate Normal string combo.
+**Significance:** C6 Yoimiya does not turn Oz into a true mini gun, and the rate of C6 Fischl's coordinated attacks is limited by Yoimiya's innate Normal string combo.

@@ -71,7 +71,7 @@ Test 3: Vaporize
 * [Favonius Sword](http://imgur.com/a/5gfDQKS)
 
 **Significance:**  
-Lions Roar and other weapons that have similiar passive don’t increase transformative reactions damage but do increase Damage for amplifying reactions.
+Lions Roar and other weapons that have similar passive don’t increase transformative reactions damage but do increase Damage for amplifying reactions.
 
 ## Blackcliff Series
 
@@ -140,7 +140,7 @@ Favonius weapons suffer the same drawback as sacrificial and does not provide it
 **By:** Nass008#8577  
 **Added:** <Version date="2021-10-26" />  
 **Last tested:** <VersionHl date="2021-10-26" />  
-[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885554549983678475_890088612354478150_transcript-sac-and-fav-weapons-against-multi-targets.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885554549983678475_890088612354478150_transcript-sac-and-fav-weapons-against-multi-targets.html)
 
 **Finding:**  
 Favonius weapons passive proc per enemy against multiple targets
@@ -315,7 +315,7 @@ Tool used to run simulations for Royal weapon line CRIT hits.
 </Tabs>
 
 * Ran simulations \(using google sheet's randomize function\) over 10,000 runs, each for 5%, 15% and 50% CRIT Rate.
-* Recorded the average CRIT occurence for each set of 10,000 runs, for 10 times.
+* Recorded the average CRIT occurrence for each set of 10,000 runs, for 10 times.
 * Averaged the results from 10 trials and came up with the average effective CRIT Rate.
 * The same was done for refinement rank 1, 3 and 5.
 
@@ -383,7 +383,7 @@ The passive of royal weapons continues to stack even when a snapshotting Skill d
 * [Video 1](https://youtu.be/cUd-kFqAOSU)
 * [Video 2](https://youtu.be/eJijOEJs4L0)  
   The tests were conducted as follows: gain 5 stacks of a Royal weapon, exit combat and then raise CRIT Rate up to >100%. Then use an AoE ability and counter the number of non-CRIT hits.
-  If CRIT didn't "snapshot" and instead was calculated one by one, then after the first CRIT the CRIT Rate would drop to ~60% due to losing 5 stacks of a R1 Royal weapon and the 2nd instanse of damage would have a reasonable chance to not CRIT.
+  If CRIT didn't "snapshot" and instead was calculated one by one, then after the first CRIT the CRIT Rate would drop to ~60% due to losing 5 stacks of a R1 Royal weapon and the 2nd instance of damage would have a reasonable chance to not CRIT.
   In the above tests, not a single event of non-CRIT has been observed which allows us with a reasonable amount of confidence claim that AoE abilities do "snapshot" CRIT Rate.
 
 **Significance:**  
@@ -487,7 +487,7 @@ This has many applications in combat, especially in abyss where timed trials wil
 **By:** mol\#3280  
 **Added:** <Version date="2021-05-06" />  
 **Last tested:** <VersionHl date="2021-05-06" />  
-[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
 When a character with multiple charges of their Elemental Skill procs the sacrificial passive, the Elemental Skill cooldown shown on the timer is the cooldown that will be reset.
@@ -505,7 +505,7 @@ Any serial-cooldown, multi-cast Skill user may waste sacrificial procs by causin
 **By:** gengar\#8426  
 **Added:** <Version date="2021-08-19" />  
 **Last tested:** <VersionHl date="2021-08-19" />  
-[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876708429463441408_877813971443392603_transcript-sacrificial-weapons-interactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876708429463441408_877813971443392603_transcript-sacrificial-weapons-interactions.html)
 
 **Finding:**  
 I documented every Sacrificial Weapons' interactions with characters that have Elemental Skills that hit multiple times. Check the Google Sheet in the Evidence for all the details.
@@ -521,7 +521,7 @@ Helpful for character building, documents which characters are able to proc sacr
 **By:** Nass008\#8577  
 **Added:** <Version date="2021-10-26" />  
 **Last tested:** <VersionHl date="2021-10-26" />  
-[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885554549983678475_890088612354478150_transcript-sac-and-fav-weapons-against-multi-targets.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885554549983678475_890088612354478150_transcript-sac-and-fav-weapons-against-multi-targets.html)
 
 **Finding:**  
 Sacrificial weapons passive proc per enemy against multiple targets
@@ -542,6 +542,41 @@ Result : 137 attempts, 114 proc, 23 non-proc
 
 **Significance:**  
 Sacrificial Weapons are more effective on character with large AoE Skills/against multiple targets
+
+### Sacrificial Weapons Can Proc Even If The Elemental Skill Is Not On Cooldown  
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-12-18" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/skills-that-dont-proc-sac)
+
+**Finding:**  
+The passive of Sacrificial weapons can proc even if the Elemental Skill is not on cooldown.  
+  
+**Evidence:**   
+[Imgur](https://imgur.com/a/Tg97leV)  
+  
+**Significance:**  
+Better understanding of Sacrificial weapon mechanics.  
+
+### Elemental Skills That Don't Proc Sacrificial Weapons  
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-12-18" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/skills-that-dont-proc-sac)
+
+**Finding:**  
+There are certain specific Elemental Skills that can't proc the passives of Sacrificial weapons, despite being considered Elemental Skill DMG. This includes Sayu hold E roll, Anemo Traveler hold E Cutting DMG, Mona A1 and Keqing C1.  
+  
+**Evidence:**  
+Sayu Roll - [Imgur](https://imgur.com/a/sKrkk33)  
+Anemo Traveler Cutting DMG - [Imgur](https://imgur.com/a/aA5kbRj)  
+Mona A1 - [Imgur](https://imgur.com/a/DwlaEAF)  
+Keqing C1 - [YouTube](https://youtu.be/wBeQOi9scJU)    
+  
+**Significance:**  
+Sacrificial weapons are not a reliable indicator of whether or not something is considered Elemental Skill DMG.  
 
 ## Skyward Series
 
@@ -792,6 +827,27 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 
 **Significance:**  
 This will hurt Albedo's damage until this is fixed. This bug is known and has been known to MHY for several months now.
+
+### Cinnabar Spindle's Passive Is Dynamic
+
+**By:** Mr. Pillow\#0065  
+**Added:** <Version date="2022-12-17" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cinnabar-spindles-passive-is-dynamic)
+
+**Finding:**  
+Cinnabar Spindle's passive is dynamic, even for abilities that can snapshot.  
+  
+**Evidence:**  
+In this [video](https://www.youtube.com/watch?v=Zlok4zHEDjU), Albedo's Elemental Skill snapshots Gorou's DEF buff and his Transient Blossoms are triggered twice, once when General's War Banner is active and once when it is inactive. The DMG calculations below show that Cinnabar Spindle uses Albedo's current DEF, i.e. its passive is dynamic.  
+  
+* General's War Banner active, 3611 DMG dealt: `(2.405*(1480.4 + 438.09) + 0.80*(1480.4 + 438.09))*(1 + 0.288)*(0.50666)*(0.9)`  
+* General's War Banner inactive, 3405 DMG dealt: `(2.405*(1480.4 + 438.09) + 0.80*(1480.4))*(1 + 0.288)*(0.50666)*(0.9)`  
+
+Legend for values used: 2.405 = Transient Blossom Talent%, 0.80 = Cinnabar%, 1480.4 = Albedo's DEF, 438.09 = DEF Increase, 0.288 = DamageBonus, 0.50666 = EnemyDefMult, 0.9 = EnemyResMult.  
+  
+**Significance:**  
+Confirmation that Cinnabar Spindle's passive is dynamic, even for abilities that can snapshot.  
 
 ---
 

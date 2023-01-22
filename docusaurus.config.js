@@ -156,6 +156,7 @@ const config = {
       crossorigin: 'anonymous',
     },
   ],
+  themes: ['docusaurus-theme-search-typesense'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -253,6 +254,17 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      typesense: {
+        typesenseCollectionName: 'tcl',
+        typesenseServerConfig: {
+          nodes: [{
+            host: 'library-search.keqingmains.com',
+            port: 443,
+            protocol: 'https'
+          }],
+          apiKey: 'VXstnBtIuOWIUb1VRaY6hKcdWv47QzBK'
+        }
+      }
     }),
 };
 
