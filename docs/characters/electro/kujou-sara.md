@@ -108,6 +108,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Tengu Juurai: Ambush** is a unique "friendly fire" attack and can trigger several other characters's perks that require getting hit.
 * When Sara is near an enemy, **Tengu Stormcall** will teleport her away from them.
 * When Sara is not near any enemies, **Tengu Stormcall** will teleport her backwards. The player can also choose to control the teleport by inputting a direction before the teleport occurs.
+* Sara can paralyze the Aeonblight Drake with 1 aimed shot during **Crowfeather Cover**.
 
 </TabItem>
 
