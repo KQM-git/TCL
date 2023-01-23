@@ -428,7 +428,7 @@ The Archer class really is made up of archers!
 [Discussion](https://tickets.deeznuts.moe/transcripts/kuki-planting-things)
 
 **Finding:**  
-Kuki Shinobu will overlay her equipped sword on top of her dagger if she casts her Elemental Burst in the middle of her N3.  
+Kuki Shinobu will overlay her equipped sword on top of her dagger if she casts her Elemental Burst during her N3.  
   
 **Evidence:**  
 - Favonius Sword: [YouTube](https://youtu.be/zfzjHnMvU8E)  
