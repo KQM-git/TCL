@@ -36,7 +36,7 @@ After a certain quest chain in Chapter III: Act I of the Sumeru Archon Quest, th
 **Significance:**  
 For updated stats and calculation purposes.  
 
-### Skill Mechanics
+## Skill Mechanics
 
 * Generates 1 Particle per Skill cast - [jamberry#7142](https://youtu.be/25EaCFvB4r8)
 * The Energy gained from amulets is classified as flat Energy. - [ceeeleste#3568](https://imgur.com/a/s1NMEN7)
@@ -49,7 +49,7 @@ For updated stats and calculation purposes.
   * 1 Blade Hit vs 2 Enemies = 2 Amulets - [ye olde dong slot#4986](https://www.youtube.com/watch?v=qaBPV3JdC0c)
   * 2 Blades Hit = 2 Amulets - [ceeeleste#3568](https://imgur.com/gallery/dJTvXaI)
 
-#### Amulets Delay
+### Amulets Delay
 
 **By:** pai#3602  
 **Added:** <Version date="2021-12-26" />  
@@ -65,7 +65,7 @@ For updated stats and calculation purposes.
 
 **Significance:** Knowing that there is some range to picking up Amulets, this makes it easier for EMC to be a battery, since there is no need to actively avoid the Amulets after using E. You can walk towards the Amulets (and enemies) while switching to another character and not worry about EMC picking them up.
 
-#### ER Increase From EMC Amulets Doesn't Affect Passives
+### ER Increase From EMC Amulets Doesn't Affect Passives
 
 **By:** D.....K#9002  
 **Added:** <Version date="2022-01-08" />  
@@ -81,7 +81,7 @@ For updated stats and calculation purposes.
 
 **Significance:** Should be taken into consideration while doing calcs.
 
-#### ER Increase From EMC Amulets Doesn't Affect Engulfing Lightning
+### ER Increase From EMC Amulets Doesn't Affect Engulfing Lightning
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-06-30" />  
@@ -99,7 +99,7 @@ ATK after amulets: 2240
 **Significance:**  
 More reasons to not use EMC with Raiden. May affect calcs that incorrectly assume the ER gained from EMC affects the EL's passive for the stats of the polearm user.
 
-### Burst Mechanics
+## Burst Mechanics
 
 * The Energy gained from Burst is classified as flat Energy. - [ceeeleste#3568](https://imgur.com/BFu0hT2)
 * Burst follows standard ICD. - [Steph#3614](https://imgur.com/VmDEl0O)
@@ -108,17 +108,35 @@ More reasons to not use EMC with Raiden. May affect calcs that incorrectly assum
   * [EMC Burst before Bennett](https://youtu.be/_MbDjDyEGvA)
   * [EMC Burst after Bennett](https://youtu.be/HUeorVAdEL8)
 
-### Ascension Mechanics
+### EMC Q Energy Generation Mechanics
 
-#### A4: Resounding Roar
+**By:** Rathalos\#2875  
+**Added:** <Version date="2023-01-22" />  
+**Last tested:** <VersionHl date="2023-01-20" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/emc-q-energy-generation-mechanics)
+
+**Finding:**  
+Falling Thunder procs from EMC's Burst can generate Energy when hitting Dendro Cores and other targetable non-living objects.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/gXx6kc9)  
+[Imgur](https://imgur.com/vbUkt1i)  
+[Imgur](https://imgur.com/wpLvpyF)  
+  
+**Significance:**  
+More understanding on EMC Q mechanics. Good for Hyperbloom EMC.
+
+## Ascension Mechanics
+
+### A4: Resounding Roar
 
 * A4 only takes into account the Traveler's original ER, picking up an amulet to increase ER, won't change the ER shared by A4. - [Vivy#5802](https://imgur.com/gallery/GmSaZyL)
 
-### Constellation mechanics
+## Constellation Mechanics
 
-#### C4: Fickle Cloudstrike
+### C4: Fickle Cloudstrike
 
-##### Electro MC's C4 Mechanics
+#### Electro MC's C4 Mechanics
 
 **By:** pai\#3602
 
@@ -143,6 +161,6 @@ The final amount of Energy the characters have is from 3 Amulets and 1 off-field
 
 **Significance:** To better understand how Energy works in EMC's kit, which is essential for Energy calcs.
 
-#### C6: World-Shaker
+### C6: World-Shaker
 
 * Electro Traveler's C6 is a multiplicative buff - [Kgbeast#6738](https://www.youtube.com/watch?v=nAViwIGqCOU)
