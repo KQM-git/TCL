@@ -14,6 +14,10 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 </Weapon>
 
+### Foliar Incision
+
+<Weapon weapon="Foliar Incision" weapons={swords} />
+
 ### Freedom-Sworn
 
 <Weapon weapon="Freedom-Sworn" weapons={swords}>

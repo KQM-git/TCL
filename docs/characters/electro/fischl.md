@@ -225,13 +225,13 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
 
-| Effect         | C1            |
-| :------------- | :------------ |
-| Joint Attack   | 22%           |
-| Damage Element | Physical      |
-| Damage Type    | Normal Attack |
-| Poise Damage   | 30            |
-| Impulse Type   | 0             |
+| Effect             | C1            |
+| :----------------- | :------------ |
+| Coordinated Attack | 22%           |
+| Damage Element     | Physical      |
+| Damage Type        | Normal Attack |
+| Poise Damage       | 30            |
+| Impulse Type       | 0             |
 
 **Notes**
 
@@ -280,24 +280,24 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
 
-| Attribute      | C6          |
-| :------------- | :---------- |
-| Joint Attack   | 30%         |
-| Particles      | 0           |
-| GU             | 1U          |
-| ICD            | 4 hits / 5s |
-| Snapshot       | Snapshot    |
-| Attack Speed   | No Limit    |
-| Damage Element | Electro     |
-| Damage Type    | Skill       |
-| Duration       | 12s         |
-| Poise Damage   | 10          |
-| Impulse Type   | 0           |
+| Attribute          | C6          |
+| :----------------- | :---------- |
+| Coordinated Attack | 30%         |
+| Particles          | 0           |
+| GU                 | 1U          |
+| ICD                | 4 hits / 5s |
+| Snapshot           | Snapshot    |
+| Attack Speed       | No Limit    |
+| Damage Element     | Electro     |
+| Damage Type        | Skill       |
+| Duration           | 12s         |
+| Poise Damage       | 10          |
+| Impulse Type       | 0           |
 
 **Notes**
 
-* **C6** joint attacks share ICD with **Oz's** Normal Attacks.
-* The joint attack only procs once on multi-hit attacks.
+* **C6** coordinated attacks share ICD with **Oz's** Normal Attacks.
+* The coordinated attack only procs once on multi-hit attacks.
 * **Oz** normal attacks a total of 12 times over the **C6** duration.
 * **C6** uses snapshotted stats on Oz cast and recast.
 
