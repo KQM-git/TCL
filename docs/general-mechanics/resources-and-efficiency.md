@@ -73,6 +73,10 @@ Possible sacrifices are:
   * Only NA is capable of doing this and not even by a huge margin - you can use up to 1237 resin assuming perfect server maintenance end and x2 Transient Resin.
   * If you're not a hardcore player, you need to either make a refill with Primogems or utilize Fragile Resins.
 
+### Reunion Blessing is Consumed Before Ley Line Overflow
+
+If the Reunion Blessing bonus from the Stellar Reunion event and the Ley Line Overflow event are simultaneously active, the Reunion Blessing bonus will be prioritized. 
+
 ## Food
 
 * Cheapest 3\* instant heal \(assuming 20k HP\): Mondstadt Hashbrowns, 8.57 Health/Mora
