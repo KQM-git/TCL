@@ -877,3 +877,23 @@ Inventory cap for berries is 9999 much like crystal chunks.
 
 **Significance:**  
 Knowledge... and maybe a hint that all materials might be capped at 9999.
+
+## Events
+
+### Reunion Blessing Is Consumed Before Ley Line Overflow
+
+**By:** jas\#6562  
+**Added:** <Version date="2023-01-13" />  
+**Last tested:** <VersionHl date="2023-01-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/reunion-blessing-is-consumed-before-ley-line-overflow)
+
+**Finding:**  
+The Reunion Blessing bonus from the Stellar Reunion event is prioritized over the Ley Line Overflow bonus if both events are active at the same time.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/zx3cAdYI6OM)  
+  
+**Significance:**  
+This won't be a particularly common occurrence, but if you want to use the Reunion Blessing bonus for something other than Ley Line Outcrops while Ley Line Overflow is active, spending Resin on another activity before doing Ley Line Outcrops is recommended.  
+  
+It might be assumed that this works similarly for the Overflowing Mastery event. In theory, it's likely that Reunion Blessing is also consumed first, but testing is still necessary to verify that claim.
