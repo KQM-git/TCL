@@ -1176,7 +1176,7 @@ Some characters can keep their weapons if you change them mid sheathing animatio
 **Significance:**  
 weapons have are in a constant state of seizure pain or pleasure.
 
-### Character Constellations Are 3D
+## Character Constellations Are 3D
 
 **By:** aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\#3860  
 **Added:** <Version date="2022-11-15" />  
@@ -1314,3 +1314,19 @@ It may seem to be the case that this knowledge of Karkata physics, in conjunctio
 However, this model does not account for several issues. The biggest issue is the capabilities of Stoves of Babel movement. Stoves of Babel ascend at a pace much greater than the rate at which Karkata ascends, based on the height gained in the videos. Furthermore, the Stoves of Babel are incapable of lowering their vertical height. Therefore, once the player gains too much height, the player will not be able to freely place gadgets and constructs in order to keep raising Karkata. The player must remain close to Karkata, or the gadgets and Karkata will probably despawn, so dropping to the ground and rebuilding a new Tower of Babel is not feasible.  
   
 These issues could potentially be remedied in multiplayer, but as of now the behavior of the Stove gadget is currently not fully understood. It will persist after someone leaves in multiplayer, but the limit on the number of stoves is unknown. If players can indeed drop in at the current player location and place a stove and leave without limitations, then it would be possible to infinitely raise Karkata. There would be a large 'buffer zone' underneath Karkata, with many Stoves placed to allow for quick movement. With the help of the extra stoves to place constructs on, the players must raise Karkata a distance greater than the minimum height increase of the Stoves every 5 minutes.
+
+## Undiscovered Statues Of The Seven Will Revive Characters But Not Heal Them Beyond That
+
+**By:** Rhordric\#1689  
+**Added:** <Version date="2023-01-19" />  
+**Last tested:** <VersionHl date="2023-01-18" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/undiscovered-statues-of-the-seven-will-revive-characters-but-not-heal-them-beyond-that)
+
+**Finding:**  
+Undiscovered Statues of the Seven will revive Characters but not heal them beyond that. 
+  
+**Evidence:**  
+Was beginning to explore the new region when I stopped to take a break standing next to the statue before interacting with it. I noticed while I was away it had revived my Scaramouche but had not healed him to full which was strange. Discovered statues still worked fine. [YouTube](https://youtu.be/QD6AyQuoL4s)  
+  
+**Significance:**  
+Edge case random factoid. Perhaps intended but not the expected outcome. The effect was able to be repeated multiple times. There is a possibility that it is just this specific Statue of the Seven, but it is unlikely.
