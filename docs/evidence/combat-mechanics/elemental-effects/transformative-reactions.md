@@ -1923,6 +1923,28 @@ The Dendro Core explosions from Bloom, Bountiful Bloom, and Burgeon can damage t
 **Significance:**  
 Using Bloom, Bountiful Bloom, and Burgeon reactions are less recommended for objectives that involve the defense of Ley Line Monoliths.  
 
+### Dendro Cores Block Unreactive Projectiles
+
+**By:** Rathalos\#2875  
+**Added:** <Version date="2023-01-19" />  
+**Last tested:** <VersionHl date="2023-01-16" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-cores-block-unreactive-projectiles)
+
+**Finding:**  
+Dendro Cores produced by a Bloom reaction can block projectiles that do not react with Dendro, specifically Cryo, Anemo, Geo, Physical and Dendro projectiles.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/nDiU4dF) [Cryo]  
+[Imgur](https://imgur.com/82x0OKz) [Anemo]  
+[Imgur](https://imgur.com/ACZswNR) [Geo]  
+[Imgur](https://imgur.com/Ov5PrF9) [Geo]  
+[Imgur](https://imgur.com/ZCNGgrp) [Physical]  
+[Imgur](https://imgur.com/ZkbmDos) [Physical]  
+[Imgur](https://imgur.com/E8E2QRU) [Dendro]  
+  
+**Significance:**  
+More understanding regarding Dendro Core properties. Might have some niche gameplay application.
+
 ## Hyperbloom
 
 ### Hyperbloom Damaging the Player

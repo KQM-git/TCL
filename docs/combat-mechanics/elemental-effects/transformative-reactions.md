@@ -209,6 +209,8 @@ Like Amplifying Reactions, Bloom (the generation of a Dendro Core) consumes a di
 
 On-reaction effects can only be activated when reactions are triggered on enemies or animals \(cats, dogs, kitsunes, and animals that give raw meat or fowl as only they can hold auras\). They can be activated through Hyperbloom and Burgeon on Dendro Cores with or without any other target nearby. Such reactions are counted as Dendro-related reactions.  
 
+Dendro Cores can also block projectiles and attacks that do not react with the Dendro Element (Cryo, Anemo, Geo, Physical, and Dendro itself).
+
 ### Bloom Explosion
 
 Bloom Explosion is a Transformative Reaction that deals Dendro DMG and does not stagger. It is triggered when either of the following occurs:
