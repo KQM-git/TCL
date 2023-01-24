@@ -49,8 +49,8 @@ _HoYoverse's official interactive map of Teyvat._
 
 ### Genshin Impact Spiral Abyss Drafter
 
-[spiralabyss.genshinteams.online](https://spiralabyss.genshinteams.online)  
-_Spiral Abyss Team Randomizer that features a "preset team" mode that uses data from character guides and team databases._
+[Genshin Impact Spiral Abyss Drafter](https://spiralabyss.genshinteams.online)  
+_Spiral Abyss team randomizer featuring a "preset team" mode that uses data from character guides and team databases._
 
 ## Spreadsheet Calculators
 
