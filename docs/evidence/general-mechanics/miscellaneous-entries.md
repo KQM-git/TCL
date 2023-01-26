@@ -1346,7 +1346,7 @@ Recorded at about 120ms, 250ms, and 450ms ping.
 Test procedure: scroll to the top of the 3x batch of items, then mash F on the keyboard as fast as possible.  
 Perceptible slowdown going from 120ms to 250ms  
 At 450ms, it becomes possible to double-tap items.  
-[Video](https://youtu.be/N18USq69tUY) 
+[Video](https://youtu.be/N18USq69tUY)  
 Presumably, similar things happen with any other kind of menuing that produces or spends items. Those items are harder to record, though.  
 
 **Significance:**  
