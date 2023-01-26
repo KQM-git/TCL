@@ -223,6 +223,10 @@ Attacks that shake untouched trees, including enemy attacks, can allow them to b
 * Some Skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E Skills, while Razor can harvest with E only if he uses Overload.
 * Melee normal attacks can sometimes whiff on a tree. This still marks the tree and enables harvesting via Elemental Skill.
 
+### Tree Mark Mechanics
+* Tree marks last for 5 seconds and cannot be extended with subsequent hits during this duration.
+* Marking trees and the duration of the mark are both client-side.
+
 ## Evidence Vault
 
 <Card item={require('../evidence/general-mechanics/resources-and-efficiency.md')} />
