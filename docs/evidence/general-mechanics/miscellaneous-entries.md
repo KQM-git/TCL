@@ -1331,7 +1331,7 @@ Was beginning to explore the new region when I stopped to take a break standing 
 **Significance:**  
 Edge case random factoid. Perhaps intended but not the expected outcome. The effect was able to be repeated multiple times. There is a possibility that it is just this specific Statue of the Seven, but it is unlikely.
 
-### Ping And Item Pickup Speed
+## Ping And Item Pickup Speed
 
 **By:** Hybri\#1099  
 **Added:** <Version date="2023-01-11" />  
