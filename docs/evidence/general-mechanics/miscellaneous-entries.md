@@ -1330,3 +1330,24 @@ Was beginning to explore the new region when I stopped to take a break standing 
   
 **Significance:**  
 Edge case random factoid. Perhaps intended but not the expected outcome. The effect was able to be repeated multiple times. There is a possibility that it is just this specific Statue of the Seven, but it is unlikely.
+
+### Ping And Item Pickup Speed
+
+**By:** Hybri\#1099  
+**Added:** <Version date="2023-01-11" />  
+**Last tested:** <VersionHl date="2022-12-26" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/ping-and-item-pickup-speed)
+
+**Finding:**  
+Higher ping environments slow down item pickup speed.  
+
+**Evidence:**  
+Recorded at about 120ms, 250ms, and 450ms ping.  
+Test procedure: scroll to the top of the 3x batch of items, then mash F on the keyboard as fast as possible.  
+Perceptible slowdown going from 120ms to 250ms  
+At 450ms, it becomes possible to double-tap items.  
+[Video](https://youtu.be/N18USq69tUY) 
+Presumably, similar things happen with any other kind of menuing that produces or spends items. Those items are harder to record, though.  
+
+**Significance:**  
+More understanding of the effects of high ping on gameplay experience
