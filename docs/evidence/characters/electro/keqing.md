@@ -252,7 +252,7 @@ Keqing's A4 is often misunderstood because the buff duration starts at the begin
 
 ### C1: Thundering Might
 
-### Keqing C1’s Double Damage \(Inconsistent\)
+#### Keqing C1’s Double Damage \(Inconsistent\)
 
 **By:** Cola\#6861, ZΛNTO\#4984, Ryser\#6516
 
@@ -271,7 +271,7 @@ Keqing's C1 damage CAN be applied twice to the same enemy, provided that the Bli
 
 In perfect conditions, C1 essentially adds 100% damage to her E2, which can be beneficial for Electro Builds.
 
-### Keqing C1 damage
+#### Keqing C1 damage
 
 **By:** jamberry#7142  
 **Added:** <Version date="2021-08-07" />  
@@ -288,7 +288,7 @@ Damage is consistent with and without 4HoD, 2gambler, and 2NO bonuses - [Video](
 **Significance:**  
 Damage calculations for Keqing.
 
-### Keqing C1 proc order
+#### Keqing C1 proc order
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
@@ -307,7 +307,7 @@ This means that it is possible for Keqing to hit up to 3 times before hitting E2
 
 ### C2: Keen Extraction
 
-### Keqing C2 Procs Inconsistently
+#### Keqing C2 Procs Inconsistently
 
 **By:** Sayline#5959  
 **Added:** <Version date="2021-10-24" />  

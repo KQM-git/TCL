@@ -39,7 +39,7 @@
         "name": "Cast",
         "hitmark": [24, 64],
         "hitlag": [0.15, 0.15],
-        "n1": 24,
+        "n1": 83,
         "skill": 82,
         "walk": 89,
         "dash": 82,
