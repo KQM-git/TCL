@@ -1934,13 +1934,13 @@ Using Bloom, Bountiful Bloom, and Burgeon reactions are less recommended for obj
 Dendro Cores produced by a Bloom reaction can block projectiles that do not react with Dendro, specifically Cryo, Anemo, Geo, Physical and Dendro projectiles.  
   
 **Evidence:**  
-[Imgur](https://imgur.com/nDiU4dF) [Cryo]  
-[Imgur](https://imgur.com/82x0OKz) [Anemo]  
-[Imgur](https://imgur.com/ACZswNR) [Geo]  
-[Imgur](https://imgur.com/Ov5PrF9) [Geo]  
-[Imgur](https://imgur.com/ZCNGgrp) [Physical]  
-[Imgur](https://imgur.com/ZkbmDos) [Physical]  
-[Imgur](https://imgur.com/E8E2QRU) [Dendro]  
+[Imgur](https://imgur.com/nDiU4dF) Cryo  
+[Imgur](https://imgur.com/82x0OKz) Anemo  
+[Imgur](https://imgur.com/ACZswNR) Geo  
+[Imgur](https://imgur.com/Ov5PrF9) Geo  
+[Imgur](https://imgur.com/ZCNGgrp) Physical  
+[Imgur](https://imgur.com/ZkbmDos) Physical  
+[Imgur](https://imgur.com/E8E2QRU) Dendro  
   
 **Significance:**  
 More understanding regarding Dendro Core properties. Might have some niche gameplay application.
