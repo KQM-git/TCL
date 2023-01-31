@@ -420,6 +420,24 @@ This can be also done without the negative edge N1, but requires a 1 frame M1 cl
 **Significance:**  
 The Archer class really is made up of archers!
 
+### Kuki Planting Things
+
+**By:** an odd medium\#6288  
+**Added:** <Version date="2022-12-27" />  
+**Last tested:** <VersionHl date="2022-12-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kuki-planting-things)
+
+**Finding:**  
+Kuki Shinobu will overlay her equipped sword on top of her dagger if she casts her Elemental Burst during her N3.  
+  
+**Evidence:**  
+- Favonius Sword: [YouTube](https://youtu.be/zfzjHnMvU8E)  
+- Skyward Blade: [YouTube](https://youtu.be/F3Z8hzt6yxY)  
+- Kagotsurube Isshin: [YouTube](https://youtu.be/-QVLXTei9jw) (slowed down)  
+  
+**Significance:**  
+Fluff; looks cool 
+
 ## Characters
 
 ### Xiangling's Burst can Stack in Contending Tides Event

@@ -283,7 +283,7 @@ It was previously assumed that the damage is based on how much HP a character ha
 [Discussion](https://tickets.deeznuts.moe/transcripts/watervishap-hp-drain-correction)
 
 **Finding:**    
-The HP Loss from the Coral Defenders and Bathysmal Vishaps' Cleansing Shower atack is not affected by DEF.
+The HP Loss from the Coral Defenders and Bathysmal Vishaps' Cleansing Shower attack is not affected by DEF.
   
 The correct calculations for the HP Loss are as follows:  
 Boss:     (0.17 × Character Max HP + 600) × (1 - Remaining Energy/30)  

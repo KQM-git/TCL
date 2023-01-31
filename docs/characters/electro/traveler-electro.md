@@ -168,6 +168,7 @@ import LumineCA from '../_common/lumine_ca.md'
 
 * The Energy regenerated from **Falling Thunder** is classified as flat Energy.
 * **Falling Thunder** DMG snapshots on **Bellowing Thunder** cast.
+* **Falling Thunder** can generate Energy even when hitting Dendro Cores and other targetable non-living objects.
 
 </TabItem>
 </Tabs>

@@ -57,6 +57,35 @@ Results depending on position:
 
 **Significance:** Might help when deciding in overworld traveling which character would be best to dash off a cliff with depending on your position from the cliff. This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can.
 
+### Consecutive Dash Cooldown Trigger Is 0.8s
+
+**By:** Kourinn\#6001  
+**Added:** <Version date="2022-12-19" />  
+**Last tested:** <VersionHl date="2022-12-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/consecutive-dash-cooldown-trigger-is-08s)
+
+**Finding:**  
+Consecutive Dash Cooldown Trigger is 0.8000s. This can be extended by hitlag.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/dKiHbJZZA2E)  
+```  
+This shows the interval for which consecutive dashes will trigger the dash cooldown. The footage is 120 fps gameplay converted to 50% speed 60 fps video.  
+Consecutive dashes starting at frames 100 and 196, trigger the dash cooldown. Converting to real time, 96 / 120 is 0.8000 seconds.  
+Consecutive dashes starting at frames 541 and 638, does NOT trigger the dash cooldown. Converting to real time, 97 / 120 is 0.8083 seconds.  
+For further samples not shown here, all consecutive dashes with 94 frame interval or smaller triggered the cooldown. Meanwhile no consecutive dashes with 98 frame interval or larger triggered the cooldown. Intermittent results between 95 and 97 frame interval are caused by input variance within starting and ending frametimes.  
+```  
+[YouTube](https://youtu.be/tmIyJPkDFKk)  
+```  
+This shows the interval for which consecutive dashes will trigger the dash cooldown. The footage is 120 fps gameplay converted to 50% speed 60 fps video.  
+The 0.8s consecutive dash cooldown trigger is extended by hitlag.  
+Consecutive dashes starting at frames 46 and 158 still trigger the dash cooldown due to 18 frames of hitlag. Converting to real time, (112 - 18) / 120 is 0.7833 seconds.  
+Consecutive dashes starting at frames 464 and 578 do not trigger the dash cooldown. Converting to real time, (114- 18) / 120 is 0.8000 seconds.  
+```  
+
+**Significance:**  
+Good to know for dash canceling combos (i.e. C1 Hu Tao) and open world traversal.
+
 ## Climbing
 
 ### Climbing without Climbing
@@ -664,32 +693,3 @@ Items don't care about physics, when they have dropped on the ground they will n
 
 **Significance:**  
 Fluff, Genshin makes 0 sense.
-
-### Consecutive Dash Cooldown Trigger Is 0.8s
-
-**By:** Kourinn\#6001  
-**Added:** <Version date="2022-12-19" />  
-**Last tested:** <VersionHl date="2022-12-11" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/consecutive-dash-cooldown-trigger-is-08s)
-
-**Finding:**  
-Consecutive Dash Cooldown Trigger is 0.8000s. This can be extended by hitlag.  
-
-**Evidence:**  
-[YouTube](https://youtu.be/dKiHbJZZA2E)  
-```  
-This shows the interval for which consecutive dashes will trigger the dash cooldown. The footage is 120 fps gameplay converted to 50% speed 60 fps video.  
-Consecutive dashes starting at frames 100 and 196, trigger the dash cooldown. Converting to real time, 96 / 120 is 0.8000 seconds.  
-Consecutive dashes starting at frames 541 and 638, does NOT trigger the dash cooldown. Converting to real time, 97 / 120 is 0.8083 seconds.  
-For further samples not shown here, all consecutive dashes with 94 frame interval or smaller triggered the cooldown. Meanwhile no consecutive dashes with 98 frame interval or larger triggered the cooldown. Intermittent results between 95 and 97 frame interval are caused by input variance within starting and ending frametimes.  
-```  
-[YouTube](https://youtu.be/tmIyJPkDFKk)  
-```  
-This shows the interval for which consecutive dashes will trigger the dash cooldown. The footage is 120 fps gameplay converted to 50% speed 60 fps video.  
-The 0.8s consecutive dash cooldown trigger is extended by hitlag.  
-Consecutive dashes starting at frames 46 and 158 still trigger the dash cooldown due to 18 frames of hitlag. Converting to real time, (112 - 18) / 120 is 0.7833 seconds.  
-Consecutive dashes starting at frames 464 and 578 do not trigger the dash cooldown. Converting to real time, (114- 18) / 120 is 0.8000 seconds.  
-```  
-
-**Significance:**  
-Good to know for dash canceling combos (i.e. C1 Hu Tao) and open world traversal.

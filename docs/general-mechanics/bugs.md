@@ -48,6 +48,8 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
   * The fist of [Tartaglia](../evidence/general-mechanics/bugs.md#childe-fist)
   * The fist of [Aether](../evidence/general-mechanics/bugs.md#aether-fist)
 
+* Kuki Shinobu can [overlay her equipped sword on top of her dagger](../evidence/general-mechanics/bugs.md#kuki-planting-things) if she casts her Elemental Burst during her N3.
+
 ## Characters
 
 * [Elemental Particles don't stop moving even when you open a pause menu](../evidence/general-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.

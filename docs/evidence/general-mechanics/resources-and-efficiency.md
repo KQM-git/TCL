@@ -650,6 +650,41 @@ Summary post with multiple videos here [YouTube](https://imgur.com/a/RnevAeW)
 **Significance:**  
 Attacks are not equal in terms player-environment interaction. Most Skills can never harvest nor shake tress; some can shake trees, others can harvest directly, while others can harvest indirectly via Overloading burning grass. Most importantly for combat, damage sources appear to be treated differently depending on the character, attack, and reaction source. Overloading via E to harvest a marked tree works for Razor and Beidou, but not Xiangling or Fischl's Elemental arrow. Overload seems to work on burning grass but not self-overloads. Dealing phys damage with Xinyan harvests using a Normal Attack, but only shakes during her Burst. More broadly, the game appears to be conserving resources by limiting the player's kit unless certain enabling actions are taken. After enabling these attacks, the game shuts them down after a short window. Enemies appear to be permanently enabled for all attacks, but the player must fight enemies within a specific area, otherwise they will teleport back and reset.
 
+### Tree Mark Duration (Misc Tree Mark Updates)
+
+**By:** an odd medium\#6288  
+**Added:** <Version date="2023-01-24" />  
+**Last tested:** <VersionHl date="2023-01-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/misc-tree-mark-updates)
+
+Extension to [the above ticket](https://library.keqingmains.com/evidence/general-mechanics/resources-and-efficiency#temporary-skill-targets-enabling-unholy-harvesting-methods)  
+> **Finding:**  
+... • Marks last a very short time ... "  
+  
+**Finding:**  
+Tree marks last for 5 seconds and cannot be extended with subsequent hits during this duration.  
+  
+**Evidence:**  
+[docs.google.com](https://docs.google.com/spreadsheets/d/11WzlwgGTWGsQt0cmFSCRMZbr9zj9OGyrUvXuq9dxtvE/edit#gid=0) - Tree mark duration (in frames), roughly 300 frames at 60fps.  
+  
+**Significance:**  
+Gotta chop fast  
+
+### Tree Marks and Duration are Client-Side (Misc Tree Mark Updates)
+**By:** an odd medium\#6288  
+**Added:** <Version date="2023-01-24" />  
+**Last tested:** <VersionHl date="2023-01-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/misc-tree-mark-updates)
+
+**Finding:**  
+Marking trees and the duration of the mark are both client-side.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/bNdGROZnSvI)  
+  
+**Significance:**  
+Demonstrates that the act of marking trees and mark duration are not dependent on ping.  
+
 ### Missed Attacks Still Mark Trees For Unholy Harvesting
 
 **By:** Aluminum\#5462  
@@ -877,3 +912,23 @@ Inventory cap for berries is 9999 much like crystal chunks.
 
 **Significance:**  
 Knowledge... and maybe a hint that all materials might be capped at 9999.
+
+## Events
+
+### Reunion Blessing Is Consumed Before Ley Line Overflow
+
+**By:** jas\#6562  
+**Added:** <Version date="2023-01-13" />  
+**Last tested:** <VersionHl date="2023-01-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/reunion-blessing-is-consumed-before-ley-line-overflow)
+
+**Finding:**  
+The Reunion Blessing bonus from the Stellar Reunion event is prioritized over the Ley Line Overflow bonus if both events are active at the same time.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/zx3cAdYI6OM)  
+  
+**Significance:**  
+This won't be a particularly common occurrence, but if you want to use the Reunion Blessing bonus for something other than Ley Line Outcrops while Ley Line Overflow is active, spending Resin on another activity before doing Ley Line Outcrops is recommended.  
+  
+It might be assumed that this works similarly for the Overflowing Mastery event. In theory, it's likely that Reunion Blessing is also consumed first, but testing is still necessary to verify that claim.
