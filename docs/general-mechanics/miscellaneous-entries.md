@@ -50,6 +50,7 @@ description: For entries that have little practical use.
 * Anemo units Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.
 * Character Constellations are actually [3D](../evidence/general-mechanics/miscellaneous-entries.md#character-constellations-are-3d)!
 * Item pickup speed [slows down in higher ping environments](../evidence/general-mechanics/miscellaneous-entries.md#ping-and-item-pickup-speed).
+
 ## Canceling
 
 * For some characters, if they use an Elemental Skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the Skill will not activate (and as such the Skill cooldown will not start), the game will still "treat" the Skill as if it had activated, which causes effects like Crimson Witch 4-Piece to stack.
