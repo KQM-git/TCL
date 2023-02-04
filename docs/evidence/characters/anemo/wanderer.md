@@ -32,7 +32,7 @@ search: false
 * Wanderer's Plunge Attack doesn't startle NPCs. - [emmaus\#9072](https://youtu.be/I3P5TBp9fIw)  
 
 ## Skill Mechanics
-* Wanderer's Interruption Resistance is highly increased while in his E activation. - [Raigon\#4596](https://youtu.be/5PA0AnZOtLg)  
+* Wanderer's Interruption Resistance is highly increased while in his skill activation. - [Raigon\#4596](https://youtu.be/5PA0AnZOtLg)  
 * Wanderer is immune to being frozen during his Elemental Skill's casting animation (the reaction still happens, but he doesnt get frozen, same behavior as bosses) - [f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920](https://imgur.com/a/KEw1M0f)  
 * Wanderer's Windfavored state lasts exactly 10 seconds if you stay still or only use normal attacks. - [Zakharov\#5645](https://youtu.be/DTh-KgdGmQg) 
 * Wanderer makes 1 particle on hit during his Windfavored state, with a 2s particle generation ICD - [Zakharov\#5645](https://youtu.be/Q-87po48tMo)  
@@ -40,11 +40,11 @@ search: false
 * Wanderer can move/strafe slowly in any direction while attacking, at no extra Kuugoryoku Points cost. - [makeway4pK\#3901](https://youtu.be/ydvd_OT8LpM)  
 * Wanderer can extend his Windfavored state by performing a Charged Attack just as his Kuugoryoku Points run out. - [an odd medium\#6288](https://youtu.be/GH2iCQcK03w) 
 * There are large differences in the horizontal distance gained based on how you input sprint during Wanderer's Windfavored state. - an odd medium\#6288
-  * Worst to best distance gained - [Video](https://www.youtube.com/watch?v=PVTK6YlV9sQ)
-    * 0:02 - Spamming sprint
-    * 0:17 - Holding sprint
-    * 0:48 - Normal flight speed + sprinting only at the end for extension
-  * Holding sprint + sprinting at the end for extension - [Video](https://youtu.be/6SYPc4t_lGc)
+  * Worst to best distance gained:
+    * Spamming sprint - [Video](https://www.youtube.com/watch?v=PVTK6YlV9sQ) (0:02)
+    * Holding sprint - [Video](https://www.youtube.com/watch?v=PVTK6YlV9sQ) (0:17)
+    * Holding sprint + tap sprint only at the end for extension - [Video](https://youtu.be/6SYPc4t_lGc)
+    * Normal flight speed + tap sprint only at the end for extension - [Video](https://www.youtube.com/watch?v=PVTK6YlV9sQ) (0:48)
 * Windfavored state expiry can disrupt the casting of N3. - [Hybri#1099](https://youtu.be/zRO25_KXaXU)
 * Wanderer can generate particles from his Windfavored state and possibly proc A4 if his Elemental Skill was cast while the attack is in the air. - [Luna\#0188](https://www.youtube.com/watch?v=FNA4v2ZK7bA)   
 * Wanderer can gain more height during his Windfavored state from holding Jump than tapping. This is done by releasing Jump before the ticking consumption for ascending begins. - [an odd medium\#6288](https://youtu.be/PCtUo3I_Owg)
