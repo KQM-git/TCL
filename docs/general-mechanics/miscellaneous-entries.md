@@ -49,6 +49,7 @@ description: For entries that have little practical use.
 * The birds inside the cages of The Chasm underground camps have some weird behavior. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#chasm-glitchy-bird) for more information.
 * Anemo units Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.
 * Character Constellations are actually [3D](../evidence/general-mechanics/miscellaneous-entries.md#character-constellations-are-3d)!
+* Item pickup speed [slows down in higher ping environments](../evidence/general-mechanics/miscellaneous-entries.md#ping-and-item-pickup-speed).
 
 ## Canceling
 
