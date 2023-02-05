@@ -32,19 +32,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9%       | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  | 126.24%         |        |      | 13.92        | 2            |
-| 2-Hit  | 119.45%         |        |      | 12.14        | 2            |
-| 3-Hit  | 87.53% + 87.53% |        |      | 9.05 ×2      | 2 ×2         |
+| String | Talent 9%       | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 126.24%         |   26   | 291.32%/s | 13.92        | 2            |
+| 2-Hit  | 119.45%         |   18   | 398.17%/s | 12.14        | 2            |
+| 3-Hit  | 87.53% + 87.53% |   64   | 164.12%/s | 9.05 ×2      | 2 ×2         |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     | 224.54%   |        |      | 100          | Air, 0, 400  |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| CA     | 224.54%   |   51   | 279.69%/s | 100          | Air, 0, 400  |
 
 </div>
 <div class='talent-columns'>
@@ -58,6 +58,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* Wanderer's Normal Attacks and A4 can track teleporting enemies.
+* Wanderer can stun the Aeonblight Drake and he gets knocked back mid-air when the it falls.
+* If you hug an enemy, both hits of Wanderer's N3 will hit at the exact same frame.
+* Wanderer's Plunge Attack doesn't startle NPCs.
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -65,21 +72,45 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute                 | Skill   | Kuugo: Fushoudan          | Kuugo: Toufukai            |
-| :------------------------ | :------ | :------------------------ | -------------------------- |
-| DMG \(T9%\)               | 161.84% | 151.15% Normal Attack DMG | 140.92% Charged Attack DMG |
-| Particles                 | -       | 1 (-) per hit (2s ICD)    | 1 (-) per hit (2s ICD)     |
-| GU                        | 1U      | 1U                        | 1U                         |
-| ICD                       | None    | 3 hit / 2.5s              | None                       |
-| Snapshot                  |         | -                         | -                          |
-| Damage Element            | Anemo   | Anemo                     | Anemo                      |
-| Damage Type               | Skill   | Normal Attack             | Charged Attack             |
-| Initial Kuugoryoku Points | 100     | -                         | -                          |
-| CD                        | 6s      | -                         | -                          |
-| Poise Damage              | 100     | 13.92 / 12.14 / 9.05 ×2   | 100                        |
-| Impulse Type              | 3       | 2 / 2 / 2 ×2              | Air, 0, 400                |
+| Attribute                 | Skill   | Kuugo: Fushoudan              | Kuugo: Toufukai            |
+| :------------------------ | :------ | :---------------------------- | :------------------------- |
+| DMG \(T9%\)               | 161.84% | 151.15% Normal Attack DMG     | 140.92% Charged Attack DMG |
+| Particles                 | -       | 1 (-) per hit (2s ICD)        | 1 (-) per hit (2s ICD)     |
+| GU                        | 1U      | 1U                            | 1U                         |
+| ICD                       | None    | 3 hit / 2.5s                  | None                       |
+| Snapshot                  |         | Dynamic                       | Dynamic                    |
+| Damage Element            | Anemo   | Anemo                         | Anemo                      |
+| Damage Type               | Skill   | Normal Attack                 | Charged Attack             |
+| Initial Kuugoryoku Points | 100     | -                             | -                          |
+| CD                        | 6s      | -                             | -                          |
+| Poise Damage              | 100     | 13.9164 / 12.1365 / 9.05 ×2   | 100                        |
+| Impulse Type              | 3       | 3 / 3 / 3 ×2                  | Air, 0, 600                |
 
 </div>
+
+| String                             | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :--------------------------------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| Kuugo: Fushoudan 1-Hit DMG         |  126.24%  |   30   | 252.48%/s |   13.9164    |       3      |
+| Kuugo: Fushoudan 2-Hit DMG         |  119.45%  |   17   | 421.59%/s |   12.1365    |       3      |
+| Kuugo: Fushoudan 3-Hit DMG         |  175.06%  |   54   | 194.51%/s |   9.05 x2    |     3 x2     |
+| Kuugo: Toufukai Charged Attack DMG |  237.74%  |   54   | 264.16%/s |     100      |  Air, 0, 600 |
+
+**Notes**
+* Interruption Resistance is highly increased while in Elemental Skill activation.
+* Wanderer is immune to being frozen during his Elemental Skill's casting animation.
+* **Windfavored** state lasts exactly 10 seconds if you stay still or only use normal attacks.
+* Wanderer makes 1 particle on hit during his **Windfavored** state, with a 2s particle generation ICD.
+* The **Windfavored** state allows Stamina to regenerate in the background.
+* Wanderer can move/strafe slowly in any direction while attacking, at no extra Kuugoryoku Points cost.
+* Wanderer can extend his Windfavored state by performing a Charged Attack just as his Kuugoryoku Points run out.
+* There are large differences in the horizontal distance gained based on how you input sprint during Wanderer's Windfavored state.
+    * From worst to best distance gained: spamming sprint, holding sprint, holding sprint and tap sprint at the end for extension, normal flight and tap sprint at the end for extension.
+* **Windfavored** state expiry can disrupt the casting of his N3.
+* Wanderer can generate particles from his Windfavored state and possibly proc A4 if his Elemental Skill was cast while the attack is in the air.
+* Wanderer can gain more height during his **Windfavored** state from holding Jump than tapping. This is done by releasing Jump before the ticking consumption for ascending begins.
+* Wanderer's Kuugoryuku Point drain rate while dashing and ascending is dependent on the client's frame rate. A higher frame rate will result in a higher drain rate.
+    * Hover has no difference, while holding dash or jump have relevant differences.
+* Effects that modify the consumption of stamina points do not alter the consumption of Wanderer’s Kuugoryoku Points.
 
 </TabItem>
 
@@ -93,7 +124,7 @@ import Skill from '@site/src/components/char/Skill'
 | Burst DMG \(T9%\) | 250.24% ×5  |
 | GU                | 1U          |
 | ICD               | Default     |
-| Snapshot          |             |
+| Snapshot          | Snapshot    |
 | Damage Element    | Anemo       |
 | Damage Type       | Burst       |
 | Energy Cost       | 60          |
@@ -108,14 +139,11 @@ import Skill from '@site/src/components/char/Skill'
 
 ## Frames
 
-Coming soon.
-
-<!--
 import charFrames from '@site/src/data/frames/Wanderer.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 
@@ -128,6 +156,13 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+
+**Notes**
+* Absorption priority: Pyro > Hydro > Electro > Cryo.
+* Wanderer can absorb Pyro from Guoba.
+* Buff indicators disappear visually at around 5 seconds into the **Windfavored** state, but the buffs remain.
+* Elemental Skill cast absorbs Elements applied to yourself, but does not cleanse them.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
@@ -137,11 +172,15 @@ import Passive from '@site/src/components/char/Passive'
 | :------------- | :--------- |
 | GU             | 1U         |
 | ICD            | 1s         |
-| Snapshot       |            |
+| Snapshot       | Snapshot   |
 | Damage Element | Anemo      |
 | Damage Type    | Wind Arrow |
 | Poise Damage   | 15         |
 | Impulse Type   | 1          |
+
+**Notes**
+* Wanderer's A4 passive trigger and point consumption is client-side. The check for when Wanderer runs out of points is server-side.
+* Wanderer can gain the Descent effect and simultaneously fire off its arrows during a sprint animation. However, he does not benefit from the point reduction, i.e. he spends points to sprint (as this is deducted at the start of his sprint).
 
 </TabItem>
 </Tabs>
