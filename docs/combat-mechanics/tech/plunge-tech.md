@@ -23,7 +23,7 @@ _Popularized by the name Dragon Strike, players were unfamiliar with the origina
 
 import Video from "@site/src/components/common/Video"
 
-<Video src="QmcXMb2r4eQHNFirpwpNj97R7VBNxTQMAEUvN6oR3y2y3Q" />
+<Video src="plunge-tech/l5q6O57.mp4" />
 
 # Stepstool
 

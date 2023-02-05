@@ -19,19 +19,19 @@ import Video from "@site/src/components/common/Video"
 <Tabs>
 
 <TabItem value="sgc" label="Standing glide cancel">
-<Video src="QmWy3Fgf7H4bpayzdsuT2LoiznHedzBqWidegEPCQYXNzY" caption="Standing glide cancel" />
+<Video src="glide-cancel/OggEdpG.mp4" caption="Standing glide cancel" />
 </TabItem>
 
 <TabItem value="60gc" label="60fps glide cancel">
-<Video src="QmQSeckJpzMTK2BEWtgBaZcckRDgBBe2yTPGpByCo3ywVu" caption="60fps glide cancel" />
+<Video src="glide-cancel/ripNFSg.mp4" caption="60fps glide cancel" />
 </TabItem>
 
 <TabItem value="gcva" label="Glide canceling various animations">
-<Video src="QmasR78qSeVetvMyLqqsQBkLda4NhKG7KYkGpDKh3BMFpx" caption="Glide canceling various animations" />
+<Video src="glide-cancel/NvWDcSu.mp4" caption="Glide canceling various animations" />
 </TabItem>
 
 <TabItem value="rbgc" label="Raiden's Burst combo with glide cancel">
-<Video src="QmWjznn8NjhxMd1QPdTdNUo2Pkx6o8YE6CkqdSrSyAsodY" caption="Raiden's Burst combo with glide cancel" />
+<Video src="glide-cancel/AjzO2zO.mp4" caption="Raiden's Burst combo with glide cancel" />
 </TabItem>
 </Tabs>
 

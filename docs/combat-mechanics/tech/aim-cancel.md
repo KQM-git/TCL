@@ -13,11 +13,11 @@ import Video from "@site/src/components/common/Video"
 <Tabs>
 
 <TabItem value="elemental" label="Elemental">
-<Video src="QmPFcXeJJzGAC1aEHcB3BRvGQuTaj5iKc7Rm2wx3BWj9f9" />
+<Video src="aim-cancel/Ud2Co1G.mp4" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-<Video src="QmR6RrZPXcSpxM4gAG1hm51BzQHZWhPqDuDtNYsxTzfhzQ" />
+<Video src="aim-cancel/2LCnunv.mp4" />
 </TabItem>
 
 </Tabs>
@@ -34,11 +34,11 @@ Aim Toggle is an easy method to shoot CAs, but there is a lengthy recovery anima
 <Tabs>
 
 <TabItem value="elemental" label="Elemental">
-<Video src="QmbBKGYnMFYJ9bS9cJRPW2e1YsZQzUKuVzb9pC9eeUSmcy" />
+<Video src="aim-cancel/TbJ4vZB.mp4" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-<Video src="QmNimwGAnQ3iWFPVoRWXksyB56k3tf4NMwbpLAnx14MHHo" />
+<Video src="aim-cancel/JqRepPj.mp4" />
 </TabItem>
 
 </Tabs>
@@ -54,11 +54,11 @@ Hold Cancels take time to enter Aimed Shot mode, but have a significantly shorte
 <Tabs>
 
 <TabItem value="elemental" label="Elemental">
-<Video src="QmYUnPpLck8hp1oSfWR5y4radncA1dAC8WYTnzawceD2BH" />
+<Video src="aim-cancel/7xb7ELZ.mp4" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-<Video src="QmW216v6zoeRRo919G6g1kk5Awr4zth49vN7FGokgCYR3y" />
+<Video src="aim-cancel/IfdmC5G.mp4" />
 </TabItem>
 
 </Tabs>
@@ -75,11 +75,11 @@ An important note about Dash Canceling CAs is that if the dash happens on the sa
 <Tabs>
 
 <TabItem value="elemental" label="Elemental">
-<Video src="QmXjDHqZcXGSYVDS4iXt6fRinqAjDeQFXxJR4aef5mCYix" />
+<Video src="aim-cancel/99fZyYI.mp4" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-<Video src="QmUZfUmwLawD3ydid71HQaWmEhnk7VmMbe2BchZ9cBn8Mz" />
+<Video src="aim-cancel/DM8rt2m.mp4" />
 </TabItem>
 
 </Tabs>
@@ -96,15 +96,15 @@ M1-R combines Hold and Dash Cancels to slightly increase the rate of fire over b
 <Tabs>
 
 <TabItem value="elemental" label="Elemental">
-<Video src="QmRc1XLrZqZVQDJHGnzbpSjaRqTYy4LTUuTDd8eXPAP6F6" />
+<Video src="aim-cancel/Qofrxqg.mp4" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-<Video src="QmQa2QdqssqSobMwzn6tFQ8vVV8rdcgDPafvsRTyiEFTc8" />
+<Video src="aim-cancel/jKPctlP.mp4" />
 </TabItem>
 
 <TabItem value="prop" label="Properties">
-<Video src="QmRmM2frZp82Cu7ukn4NMwCUcEdSWR1nJE64QPMZWexHer" />
+<Video src="aim-cancel/BvuqB5g.mp4" />
 </TabItem>
 
 </Tabs>
@@ -128,11 +128,11 @@ It has some quirks that are different from normal CAs:
 <Tabs>
 
 <TabItem value="elemental" label="Elemental">
-<Video src="QmWm5b7vvj3y5kzJ1jnorQSed9AYQpYWs5CbVqrJWumWKw" />
+<Video src="aim-cancel/64El2LA.mp4" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-<Video src="QmPPjsAtsDbqAW8RpspZd1HuTBWaYGGDAqthEjxmfNMMhD" />
+<Video src="aim-cancel/OdbMxY6.mp4" />
 </TabItem>
 
 </Tabs>
@@ -146,7 +146,7 @@ M1RCC is a variation of ARCC that enters Aim mode with hold Attack instead of Ai
 
 ## RR Cancel
 
-<Video src="Qmc7Eu2Wk38qi2h7e5tTJac8aPtj8zEmdNWFH3HmPPMcV6" />
+<Video src="aim-cancel/j01Bux0.mp4" />
 
 **Inputs:**
 
@@ -163,7 +163,7 @@ The speed at which RR can be done varies by character.
 
 ### Only works on Venti, Tartaglia, Diona, Yoimiya, Gorou
 
-<Video src="QmWYNZ3RmVQ29S7PA95H99ur5532BdJW3QAFhwtTwH3Wtv" />
+<Video src="aim-cancel/itkCyVm.mp4" />
 
 **Inputs:**
 

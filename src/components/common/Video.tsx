@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Video({ src, caption }: {src: string, caption?: string}) {
+export default function Video({ src, caption }: { src: string, caption?: string }) {
   return (
     <div style={{
       position: "relative",
@@ -17,7 +17,7 @@ export default function Video({ src, caption }: {src: string, caption?: string})
           width: "100%",
           height: "100%"
         }}
-        src={src.startsWith("https") ? src : `https://ipfs.filebase.io/ipfs/${src}`}
+        src={src.startsWith("https") ? src : `https://tcl-media.s3.filebase.com/${src}`}
         controls
         loop
       />

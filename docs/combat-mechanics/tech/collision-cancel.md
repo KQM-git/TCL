@@ -17,23 +17,23 @@ import Video from "@site/src/components/common/Video"
 <Tabs>
 
 <TabItem value="dp" label="Dadaupa Soup">
-<Video src="QmWJ2BwPtibVxLSHSQGmrLf8JUytKxZWcbKUTVs3WHrPKy" caption="Dadaupa Soup" />
+<Video src="collision-cancel/jZeHFcE.mp4" caption="Dadaupa Soup" />
 </TabItem>
 
 <TabItem value="irg" label="Inactive Ruin Guard">
-<Video src="QmYyktgcTjc3E72bq8mWVZQpWt1uM5oRWWFnFjXJLjABnC" caption="Inactive Ruin Guard" />
+<Video src="collision-cancel/Mb0ZzIO.mp4" caption="Inactive Ruin Guard" />
 </TabItem>
 
 <TabItem value="sb" label="Slime Balloon">
-<Video src="Qmb936VeD5pmUzhzskhp5EPJCP6SuRCBSSw5EGM4ASuXc2" caption="Slime Balloon" />
+<Video src="collision-cancel/EaKJn6H.mp4" caption="Slime Balloon" />
 </TabItem>
 
 <TabItem value="pma" label="Perpetual Mechanical Array">
-<Video src="QmeMF4vbP4FQ8p57S88EkirBL4ewuXJ5Wf9ecHBdDPZ6Vk" caption="Perpetual Mechanical Array" />
+<Video src="collision-cancel/RAwpidP.mp4" caption="Perpetual Mechanical Array" />
 </TabItem>
 
 <TabItem value="zp" label="Zhongli's Pillar">
-<Video src="Qmamd1to12nFxCvqfe5XZvdhCAdGMC5AG5KCJRf8Xe1fNY" caption="Zhongli's Pillar" />
+<Video src="collision-cancel/1ijdoLm.mp4" caption="Zhongli's Pillar" />
 </TabItem>
 
 </Tabs>

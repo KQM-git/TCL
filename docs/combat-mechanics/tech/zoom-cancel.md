@@ -15,15 +15,15 @@ import Video from "@site/src/components/common/Video"
 <Tabs>
 
 <TabItem value="wall" label="Natural terrain">
-<Video src="Qmbopaj7K7Rg1U6T41AND7JNNv5BbqTQFierV6HgzUUzz8" caption="Wall" />
+<Video src="zoom-cancel/qH0k5sG.mp4" caption="Wall" />
 </TabItem>
 
 <TabItem value="geoe" label="Geo Traveler Skill">
-<Video src="QmXkNT9EgA5iC2vAVEw3Cqnj1UCpYcaS4TcBvtpkumXpcG" caption="Geo Traveler Skill" />
+<Video src="zoom-cancel/aAT0UX8.mp4" caption="Geo Traveler Skill" />
 </TabItem>
 
 <TabItem value="geoq" label="Geo Traveler Burst">
-<Video src="QmcPqQEkTtroy7SFjxrhdKtgmPLCGWt2LWPRmk8YBqUh7T" caption="Geo Traveler Burst" />
+<Video src="zoom-cancel/iEpCC5E.mp4" caption="Geo Traveler Burst" />
 </TabItem>
 
 </Tabs>
