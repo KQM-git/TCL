@@ -1,5 +1,5 @@
 ---
-description: The current scribe of the Sumeru Akademiya, a man endowed with extraodinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.
+description: The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.
 ---
 
 import char from '@site/src/data/characters/Alhaitham.json'
