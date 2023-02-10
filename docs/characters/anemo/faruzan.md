@@ -32,21 +32,22 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  | 82.18%    |        |      | 15.60        | 1            |
-| 2-Hit  | 77.51%    |        |      | 14.72        | 1            |
-| 3-Hit  | 97.67%    |        |      | 18.55        | 1            |
-| 4-Hit  | 129.74%   |        |      | 24.64        | 1            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :---      | :----------- | :----------- |
+| 1-Hit  | 82.18%    |   26   | 189.65%/s | 15.60        | 1            |
+| 2-Hit  | 77.51%    |   21   | 221.46%/s | 14.72        | 1            |
+| 3-Hit  | 97.67%    |   39   | 150.26%/s | 18.55        | 1            |
+| 4-Hit  | 129.74%   |   86   | 90.52%/s  | 24.64        | 1            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
-| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
-| Aimed Shot    | 80.58%    |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged | 210.8%    |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| Type            | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
+| :------------   | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
+| Aimed Shot      | 80.58%    |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
+| Fully Charged   | 210.8%    |   96   |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| Hurricane Arrow | 210.8%    |   60   |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -59,6 +60,11 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 260.76%   | 100          | 3            |
 
 </div>
+  
+**Notes**
+  
+* Faruzan CA can be automatically aimed in the ground if you dash just after using it.
+* ARCC works on Faruzan.
 
 </TabItem>
 
@@ -82,6 +88,13 @@ import Skill from '@site/src/components/char/Skill'
 | Impulse Type   | 3       | 7 / 7                                                         |
 
 </div>
+  
+**Notes**
+
+* Faruzan's skill makes 2 particles every time after using a charged shot.
+* Its possible to hit yourself with a hurricane arrow, either on a downward slope or at the edge of a cliff.
+* Faruzan can vertically launch small wildlife with Pressurized Collapse.
+* Pressurized Collapse can kill fish.
 
 </TabItem>
 
@@ -106,19 +119,20 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* Faruzan's Prayerful Wind's Benefit anemo buff applies to all party members.
+* Any dynamic abilities will benefit from the buff, there is no chance of the buff not applying upon swapping characters.
+
 </TabItem>
 </Tabs>
 
 ## Frames
 
-Coming soon.
-
-<!--
 import charFrames from '@site/src/data/frames/Faruzan.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
 
 ## Ascension Passives
 
@@ -165,6 +179,14 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
+
+**Notes**
+
+* At C6 Burst can proc Pressurized Collapse.
+* Pressurized Collapse can proc additional Pressurized Collapses at C6.
+* The 3s CD on C6's Pressurized Collapse does not affect the Pressurized Collapses from Faruzan's E.
+* 4p TotM works with Faruzan’s C6 when activated.
+  
 </TabItem>
 </Tabs>
 
