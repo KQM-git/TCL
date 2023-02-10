@@ -129,10 +129,12 @@ import Skill from '@site/src/components/char/Skill'
 
 ## Frames
 
-import charFrames from '@site/src/data/frames/Faruzan.json'
+Coming soon!
+<!--import charFrames from '@site/src/data/frames/Faruzan.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
+-->
 
 ## Ascension Passives
 
