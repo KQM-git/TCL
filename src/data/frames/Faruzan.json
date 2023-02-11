@@ -1,0 +1,75 @@
+{
+  "NA": [{
+      "name": "N1",
+      "release": 14,
+      "hitlag": 0,
+      "next_na": 26
+  }, 
+  {
+      "name": "N2",
+      "release": 10,
+      "hitlag": 0,
+      "next_na": 21
+  },
+  {
+      "name": "N3",
+      "release": 24,
+      "hitlag": 0,
+      "next_na": 39
+  },
+  {
+      "name": "N4",
+      "release": 29,
+      "hitlag": 0,
+      "next_na": 86
+  }],
+  "CA": [{
+    "name": "CA",
+    "release": 86,
+    "hitlag": 0,
+    "walk": 96
+  },
+  {
+    "name": "CA (in E)",
+    "release": 49,
+    "hitlag": 0,
+    "walk": 60
+  }],
+  "Skill": {
+      "name": "Cast",
+      "hitmark": [14, 33],
+      "n1": 35,
+      "ca": 35,
+      "burst": 34,
+      "walk": 34,
+      "dash": 28,
+      "jump": 27,
+      "swap": 33,
+      "cd": 12
+  },
+  "Burst": {
+      "name": "Cast",
+      "hitmark": 54,
+      "n1": 61,
+      "ca": 61,
+      "skill": 61,
+      "walk": 71,
+      "dash": 61,
+      "jump": 62,
+      "swap": 60,
+      "cd": 0,
+      "energy": 3,
+      "notes": [
+        "Gadget spawn: 43f",
+        "CA is in E (Pressurized Collapse)"
+      ]
+  },
+  "Other": [{
+      "name": "Dash",
+      "default": 20
+  },
+  {
+      "name": "Jump",
+      "default": 31
+  }]
+}
