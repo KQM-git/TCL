@@ -33,21 +33,21 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :---      | :----------- | :----------- |
-| 1-Hit  | 82.18%    |   26   | 189.65%/s | 15.60        | 1            |
-| 2-Hit  | 77.51%    |   21   | 221.46%/s | 14.72        | 1            |
-| 3-Hit  | 97.67%    |   39   | 150.26%/s | 18.55        | 1            |
-| 4-Hit  | 129.74%   |   86   | 90.52%/s  | 24.64        | 1            |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 82.18%    | 26     | 189.65%/s | 15.60        | 1            |
+| 2-Hit  | 77.51%    | 21     | 221.46%/s | 14.72        | 1            |
+| 3-Hit  | 97.67%    | 39     | 150.26%/s | 18.55        | 1            |
+| 4-Hit  | 129.74%   | 86     | 90.52%/s  | 24.64        | 1            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | Type            | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
-| :------------   | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
+| :-------------- | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
 | Aimed Shot      | 80.58%    |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged   | 210.8%    |   96   |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| Hurricane Arrow | 210.8%    |   60   |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| Fully Charged   | 210.8%    | 96     |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| Hurricane Arrow | 210.8%    | 60     |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -79,7 +79,7 @@ import Skill from '@site/src/components/char/Skill'
 | Particles      | -       | 2 (-) / 0%                                                    |
 | GU             | 1U      | 1U / 2U                                                       |
 | ICD            | None    | None / None                                                   |
-| Snapshot       |         |                                                               |
+| Snapshot       | -       | Dynamic                                                       |
 | Damage Element | Anemo   | Anemo / Anemo                                                 |
 | Damage Type    | Skill   | Skill / Skill                                                 |
 | Duration       | 18s     | -                                                             |
@@ -108,7 +108,7 @@ import Skill from '@site/src/components/char/Skill'
 | DMG \(T9%\)    | 641.92% | 30.6% (DMG Bonus) | 30% (RES Shred) |
 | GU             | 1U      | -                 | -               |
 | ICD            | None    | -                 | -               |
-| Snapshot       |         |                   | -               |
+| Snapshot       | Dynamic | -                 | -               |
 | Damage Element | Anemo   | -                 | -               |
 | Damage Type    | Burst   | -                 | -               |
 | Energy Cost    | 80      | -                 | -               |
@@ -121,7 +121,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Faruzan's Prayerful Wind's Benefit anemo buff applies to all party members.
+* Faruzan's Prayerful Wind's Benefit Anemo buff applies to all party members.
 * Any dynamic abilities will benefit from the buff, there is no chance of the buff not applying upon swapping characters.
 
 </TabItem>
@@ -129,12 +129,10 @@ import Skill from '@site/src/components/char/Skill'
 
 ## Frames
 
-Coming soon!
-<!--import charFrames from '@site/src/data/frames/Faruzan.json'
+import charFrames from '@site/src/data/frames/Faruzan.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
 
 ## Ascension Passives
 

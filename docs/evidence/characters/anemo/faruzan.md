@@ -17,17 +17,17 @@ search: false
   * Elemental Skill Pressurized Collapse: No ICD - [flyingzambie#2345](https://youtu.be/whIBFVOaU2U)
 
 ## Attack Mechanics
-* Faruzan CA can be automatically aimed in the ground if you dash just after using it. - [Luna#0188](https://youtu.be/Nn7McGuquic)
+* Faruzan CA can be automatically aimed at the ground if you dash just after using it. - [Luna#0188](https://youtu.be/Nn7McGuquic)
 * ARCC works on Faruzan. - [daibangden#8410](https://imgur.com/dJv8RrJ)
 
 ## Skill Mechanics
-* Faruzan's skill makes 2 particles every time after using a charged shot. - [Zakharov#5645](https://youtu.be/MOfdIufeTS8)
+* Faruzan's Skill makes 2 particles every time after using a Charged Shot. - [Zakharov#5645](https://youtu.be/MOfdIufeTS8)
 * Faruzan can vertically launch small wildlife with Pressurized Collapse. - [Kourinn#6001](https://youtu.be/FH6XdoNG-UM)
-* Its possible to hit yourself with a hurricane arrow, either on a downward slope or at the edge of a cliff. - [f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊#9920](https://imgur.com/a/llDqUfc)
+* It's possible to hit yourself with a hurricane arrow, either on a downward slope or at the edge of a cliff. - [f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊#9920](https://imgur.com/a/llDqUfc)
 * Faruzan Pressurized Collapse can kill fish. - [Hybri#1099](https://youtu.be/wT8VtRE8aHs)
 
 ## Burst Mechanics
-* Faruzan's Prayerful Wind's Benefit anemo buff applies to all party members, not just the active character. Any dynamic abilities will still benefit from the buff, and there is no chance of the buff not applying upon swapping characters. - [anticipaste#8704](https://youtu.be/va4w3vQTJCE)
+* Faruzan's Prayerful Wind's Benefit Anemo buff applies to all party members, not just the active character. Any dynamic abilities will still benefit from the buff, and there is no chance of the buff not applying upon swapping characters. - [anticipaste#8704](https://youtu.be/va4w3vQTJCE)
 
 ## Ascension Mechanics
 
