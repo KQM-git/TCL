@@ -17,7 +17,7 @@ A more in-depth explanation can be found in [Elemental Gauge Theory](../../comba
 
 ## Elemental Gauges
 
-*Updated for Patch 3.3.*
+*Updated for Patch 3.4.*
 
 import CharIconLink from '@site/src/components/char/CharIconLink'
 
@@ -57,12 +57,14 @@ import CharIconLink from '@site/src/components/char/CharIconLink'
 </TabItem>
 <TabItem value="dendro" label="Dendro">
 
-|                         Character                          | Normal Attack | Charged Attack | Skill Press                | Skill Hold | Burst                                                    | Misc               |
-| :--------------------------------------------------------: | :------------ | :------------- | :------------------------- | :--------- | :------------------------------------------------------- | :----------------- |
-|      <CharIconLink char='Collei' element='dendro' />       | -             | 1U             | 1U                         | 1U         | On Cast: 1U<br />Leap: 1U                                | A1: 1U<br />C6: 1U |
-|      <CharIconLink char='Nahida' element='dendro' />       | 1U            | 1U             | On Cast: 1U<br />TKP: 1.5U | -          | -                                                        | C6: 1U             |
-|     <CharIconLink char='Tighnari' element='dendro' />      | -             | 1U             | 1U                         | -          | Tanglevine Shaft: 1U<br />Secondary Tanglevine Shaft: 1U | -                  |
-| <CharIconLink char='Traveler (Dendro)' element='dendro' /> | -             | -              | 1U                         | -          | Lamp AoE: 1U<br />Explosion: 2U                          | -                  |
+|                         Character                          | Normal Attack | Charged Attack | Skill Press                                       | Skill Hold | Burst                                                    | Misc               |
+| :--------------------------------------------------------: | :------------ | :------------- | :------------------------------------------------ | :--------- | :------------------------------------------------------- | :----------------- |
+|     <CharIconLink char='Alhaitham' element='dendro' />     | -             | -              | On Cast: 1U<br />Mirror Projection Attack DMG: 1U | -          | 1U                                                       | -                  |
+|      <CharIconLink char='Collei' element='dendro' />       | -             | 1U             | 1U                                                | 1U         | On Cast: 1U<br />Leap: 1U                                | A1: 1U<br />C6: 1U |
+|      <CharIconLink char='Nahida' element='dendro' />       | 1U            | 1U             | On Cast: 1U<br />TKP: 1.5U                        | -          | -                                                        | C6: 1U             |
+|     <CharIconLink char='Tighnari' element='dendro' />      | -             | 1U             | 1U                                                | -          | Tanglevine Shaft: 1U<br />Secondary Tanglevine Shaft: 1U | -                  |
+| <CharIconLink char='Traveler (Dendro)' element='dendro' /> | -             | -              | 1U                                                | -          | Lamp AoE: 1U<br />Explosion: 2U                          | -                  |
+|      <CharIconLink char='Yaoyao' element='dendro' />       | -             | -              | 1U                                                | -          | 1U                                                       | C6: 1U             |
 
 </TabItem>
 <TabItem value="electro" label="Electro">
