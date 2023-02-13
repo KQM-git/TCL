@@ -33,6 +33,19 @@ const config = {
 
   plugins: [
     [
+      'content-docs',
+      /** @type {import('@docusaurus/plugin-content-docs').Options} */
+      ({
+        id: 'tcg',
+        path: 'tcg',
+        routeBasePath: 'tcg',
+        sidebarPath: require.resolve('./sidebars.js'),
+        editUrl: 'https://github.com/KQM-git/TCL/blob/master/',
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
+      }),
+    ],
+    [
       'client-redirects',
       /** @type {import('@docusaurus/plugin-client-redirects').Options} */
       ({
@@ -180,7 +193,11 @@ const config = {
             position: 'left',
             label: 'Newsletter',
           },
-
+          {
+            to: 'tcg',
+            position: 'left',
+            label: 'TCG'
+          },
           {
             href: 'https://keqingmains.com/',
             label: 'KeqingMains',
@@ -225,6 +242,15 @@ const config = {
                 href: 'https://github.com/KQM-git/TCL/',
               },
             ],
+          },
+          {
+            title: 'TCG Library',
+            items: [
+              {
+                label: 'TCG',
+                to: '/tcg',
+              },
+            ]
           },
           {
             title: 'More',
