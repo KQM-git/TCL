@@ -124,6 +124,17 @@ $$
 \end{align*}
 $$
 
+Some enemies have Freeze resistance, which reduces the reaction gauge of Freeze by a fixed percentage. The duration of Freeze is then calculated with the reduced reaction gauge taken into account.  
+
+The full formula for freeze duration is the following:  
+
+$$
+\begin{aligned}
+{\text{Gauge}}_{\text{Freeze Aura}}&=2\min({\text{Gauge}}_{\text{Origin Aura}},{\text{Gauge}}_{\text{Trigger Element}})\times (1-{\text{Freeze Resistance}}_{\text{Target}})\\
+{\text{Freeze Duration (Seconds)}}&=2{\sqrt {5\times {\text{Gauge}}_{\text{Freeze Aura}}+4}}-4
+\end{aligned}
+$$
+
 ## Shattered
 
 Shattered, or Shatter, is a second-stage Transformative Reaction triggered by using Blunt Attacks on a Frozen enemy and deals Physical DMG. It has an ICD of 2 damage instances every 0.5 seconds on the same enemy.  

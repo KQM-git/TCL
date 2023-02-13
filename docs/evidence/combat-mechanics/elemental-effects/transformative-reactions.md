@@ -1193,6 +1193,42 @@ Everything lines up.
 **Significance:**  
 The only part of the formula that doesn't work here is the "Cryo gauge/origin aura when Frozen" part.
 
+### Freeze Resistance
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2023-02-12" />  
+**Last tested:** <VersionHl date="2023-01-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/freeze-resistance)
+
+**Finding:**  
+Some enemies have Freeze resistance (currently shielded Abyss Heralds and Consecrated Beasts), which reduces the reaction gauge of Freeze by a fixed percentage. The duration of Freeze is then calculated with the reduced reaction gauge taken into account.  
+  
+The full formula for freeze duration is the following:  
+
+$$
+\begin{aligned}
+{\text{Gauge}}_{\text{Freeze Aura}}&=2\min({\text{Gauge}}_{\text{Origin Aura}},{\text{Gauge}}_{\text{Trigger Element}})\times (1-{\text{Freeze Resistance}}_{\text{Target}})\\
+{\text{Freeze Duration (Seconds)}}&=2{\sqrt {5\times {\text{Gauge}}_{\text{Freeze Aura}}+4}}-4
+\end{aligned}
+$$
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/Ac2uUQq)  
+
+Videos in order:  
+2U Freeze, no Freeze resistance: duration should be $2\sqrt{5 \times 2+4}-4=3.48s$, real duration 3:28  
+  
+4U Freeze, no Freeze resistance: duration should be $2\sqrt{5 \times 4+4}-4=5.8s$, real duration 5:50  
+  
+2U Freeze, 50% Freeze resistance: duration should be $2\sqrt{5 \times 2 \times 0.5+4}-4=2s$, real duration 1:59  
+  
+2U Freeze, 80% Freeze resistance: duration should be $2\sqrt{5 \times 2 \times 0.2+4}-4=0.9s$, real duration 0:56  
+  
+4U Freeze, 80% Freeze resistance: duration should be $2\sqrt{5 \times 4 \times 0.2+4}-4=1.66s$, real duration 1:43  
+  
+**Significance:**  
+Understanding of hidden attribute.
+
 ## Swirl
 
 ### How to get Double Swirls
