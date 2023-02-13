@@ -45,8 +45,9 @@ Determining Fischl's Elemental Skill's ICD. Fischl's E \(Oz\) will apply Electro
 **Last tested:** <VersionHl date="2021-07-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865717842816532491_865808993149255710_transcript-fischl-c1-and-hod.html)
 
-**Finding/Bug:** Both the summoning and re-summoning of Oz with E count as using an Elemental Skill.
-For example, they both trigger the 4-Piece heart of depth effect.
+**Finding/Bug:**  
+Both the summoning and re-summoning of Oz with E count as using an Elemental Skill.  
+For example, they both trigger the 4-Piece Heart of Depth effect.  
 
 **Evidence:**  
 [Video](https://youtu.be/s0937Qm8VFs)  
@@ -55,16 +56,17 @@ For example, they both trigger the 4-Piece heart of depth effect.
 Unbuffed:  
 566 + 142
 
-After e:  
+After E:  
 735
 
-After e refreshed, oz now expired:  
+After E refreshed, Oz now expired:  
 735 + 185
 
 After HoD buff is gone:  
 566 + 142
 
-**Significance:** Potentially relevant data for Fischl main dps calcs.
+**Significance:**  
+Potentially relevant data for Fischl Main DPS calcs.
 
 ### Fischl Energy Generation Correction
 
@@ -165,6 +167,22 @@ C4 does not Shatter: [YouTube](https://www.youtube.com/watch?v=i47KZPNuYmU)
 
 **Significance:**  
 Corrects incorrect Elemental gauges (at the time this ticket was submitted) listed on the TCL, reports the discovery of a shared ICD between Fischl's Burst and C4, and the gauge for Fischl's C4.
+
+### Oz Flies Over Water
+
+**By:** Rathalos\#2875  
+**Added:** <Version date="2023-02-12" />  
+**Last tested:** <VersionHl date="2023-02-02" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/oz-flies-over-water)
+
+**Finding:**  
+Upon using *Midnight Phantasmagoria*, Fischl, in the form of Oz, can fly over water. This does not prevent Fischl from obtaining the Wet status.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/Ib1VXhi)  
+  
+**Significance:**  
+Has some value in exploration.
 
 ## Ascension Mechanics
 

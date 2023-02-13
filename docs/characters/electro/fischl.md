@@ -153,6 +153,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Midnight Phantasmagoria** only has invulnerability frames \(iframes\) on startup.
 * After summoning **Oz** with Midnight Phantasmagoria and swapping off of Fischl, **Oz** will snapshot Fischl's stats right before she leaves the field.
 * **Midnight Phantasmagoria** is considered a blunt attack and will Shatter Frozen enemies.
+* Upon using **Midnight Phantasmagoria**, Fischl, in the form of Oz, can fly over water. This does not prevent Fischl from obtaining the Wet status.
 
 </TabItem>
 </Tabs>
