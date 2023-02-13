@@ -222,6 +222,8 @@ On-reaction effects can only be activated when reactions are triggered on enemie
 
 Dendro Cores can also block projectiles and attacks that do not react with the Dendro Element (Cryo, Anemo, Geo, Physical, and Dendro itself).
 
+Bloom-related Reaction DMG under DMG ICD can still trigger certain on-CRIT effects such as Xinyan C1, for more information see this [Vault Entry](../../evidence/combat-mechanics/damage/other/on-field-and-off-field.md#bloom-crits-and-icd).  
+
 ### Bloom Explosion
 
 Bloom Explosion is a Transformative Reaction that deals Dendro DMG and does not stagger. It is triggered when either of the following occurs:
