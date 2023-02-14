@@ -438,6 +438,23 @@ Kuki Shinobu will overlay her equipped sword on top of her dagger if she casts h
 **Significance:**  
 Fluff; looks cool 
 
+### Phantom Weapons
+
+**By:** an odd medium\#6288  
+**Added:** <Version date="2023-02-14" />  
+**Last tested:** <VersionHl date="2023-02-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/phantom-weapons)
+
+**Finding:**  
+Equipped weapons that are discarded (become invisible) during attack strings for certain characters can be made visible by switching weapons mid-animation. This effect persists until the weapon is sheathed (appears behind them in its neutral state).  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/iOfInDfIkkk) - Examples with Zhongli, Raiden, Yelan and Alhaitham  
+[YouTube](https://youtu.be/exyHCbtk1-k) - Swapping to the same or a different weapon both produce the same effect.  
+  
+**Significance:**  
+Fluff for photography. A closer look into how weapons animated during certain attack strings. Explains phenomena such as [Kuki Planting Things](https://library.keqingmains.com/evidence/general-mechanics/bugs#kuki-planting-things).
+
 ## Characters
 
 ### Xiangling's Burst can Stack in Contending Tides Event
