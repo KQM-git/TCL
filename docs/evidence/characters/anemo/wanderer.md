@@ -71,6 +71,23 @@ search: false
   * [Video](https://youtu.be/cTfaUebCV9Q): Wanderer is able to enter and manually exit his Windfavored state, demonstrating that the act of exiting is not server-side.
 * Wanderer can gain the Descent effect and simultaneously fire off its arrows during a sprint animation. However, he does not benefit from the point reduction, i.e. he spends points to sprint (as this is deducted at the start of his sprint). - [an odd medium\#6288](https://youtu.be/RVEi5fSUEfc)  
 
+#### Wanderer A4 Arrows Cut-Off  
+
+**By:** an odd medium\#6288, Hybri\#1099  
+**Added:** <Version date="2023-02-10" />  
+**Last tested:** <VersionHl date="2023-01-30" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/wanderer-a4-arrows-cutoff)  
+
+**Finding:**  
+Wanderer will not fire the wind arrows from his A4 if he dashes more than 590 frames (at 60fps) after entering his Windfavored state [1]. This cutoff frame is not ping dependent. [2]  
+  
+**Evidence:**  
+[1]: [docs.google.com](https://docs.google.com/spreadsheets/d/1r9gM_OCswitln9kvOvaCara0K5SA40b7vfgVLHpJm9U/edit#gid=0) - Frame data  
+[2]: [YouTube](https://youtu.be/BIXdJGpqUOU) - Test at high ping, showing that arrows still fire only before the cutoff frame. Listed in sheets as Video 3.  
+  
+**Significance:**  
+You should not dash too late if you wish to fire off Wanderer's A4 arrows near the end of his Windfavored state.
+
 ## Constellation Mechanics
 
 ## Synergies/Interactions
