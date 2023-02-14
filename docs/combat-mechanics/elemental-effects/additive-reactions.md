@@ -47,7 +47,7 @@ A Dendro attack can trigger both Quicken and Spread at the same time if the enem
 
 ## Aggravate
 
-Aggravate is a second-stage Additive Reaction triggered by applying Electro to a Quicken aura, dealing Electro DMG. It is calculated in the same way as Spread, but with 1.15 as the Reaction Multiplier as opposed to 1.25 like Spread. The reaction itself does not have an ICD, so how often it can be triggered depends on the ICD of the Dendro attack that triggers it.
+Aggravate is a second-stage Additive Reaction triggered by applying Electro to a Quicken aura, dealing Electro DMG. It is calculated in the same way as Spread, but with 1.15 as the Reaction Multiplier as opposed to 1.25 like Spread. The reaction itself does not have an ICD, so how often it can be triggered depends on the ICD of the Electro attack that triggers it.
 
 ## Evidence Vault
 
