@@ -181,6 +181,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 * Wanderer's A4 passive trigger and point consumption is client-side. The check for when Wanderer runs out of points is server-side.
 * Wanderer can gain the Descent effect and simultaneously fire off its arrows during a sprint animation. However, he does not benefit from the point reduction, i.e. he spends points to sprint (as this is deducted at the start of his sprint).
+* Wanderer will not fire the wind arrows from his A4 if he dashes more than 590 frames (at 60fps) after entering his Windfavored state. The cutoff frame is not ping-dependent.
 
 </TabItem>
 </Tabs>
