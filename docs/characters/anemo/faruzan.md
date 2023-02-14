@@ -148,7 +148,12 @@ import Passive from '@site/src/components/char/Passive'
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-<Passive char={char} passive={1} />
+<Passive char={char} passive={1} />  
+  
+**Notes**  
+  
+* Faruzan's A4 operates as FlatDamage in the KQM TCL damage formula.  
+  
 </TabItem>
 </Tabs>
 
