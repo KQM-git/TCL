@@ -4,42 +4,48 @@
         "hitmark": ,
         "hitlag": ,
         "next_na": ,
-        "ca": 
+        "ca": ,
+        "walk": 
     }, 
     {
         "name": "N2",
         "hitmark": ,
         "hitlag": ,
         "next_na": ,
-        "ca": 
+        "ca": ,
+        "walk": 
     },
     {
         "name": "N3",
         "hitmark": ,
         "hitlag": ,
         "next_na": ,
-        "ca": 
+        "ca": ,
+        "walk": 
     },
     {
         "name": "N4",
         "hitmark": ,
         "hitlag": ,
         "next_na": ,
-        "ca": 
+        "ca": ,
+        "walk": 
     },
     {
         "name": "N5",
         "hitmark": ,
         "hitlag": ,
         "next_na": ,
-        "ca": 
+        "ca": ,
+        "walk": 
     },
     {
         "name": "N6",
         "hitmark": ,
         "hitlag": ,
         "next_na": ,
-        "ca": 
+        "ca": ,
+        "walk": 
     }],
     "CA": {
         "name": "CA",
@@ -48,6 +54,7 @@
         "n1": ,
         "skill": ,
         "burst": ,
+        "walk": ,
         "dash": ,
         "jump": ,
         "swap": 
@@ -57,6 +64,7 @@
         "hitmark": ,
         "n1": ,
         "burst": ,
+        "walk": ,
         "dash": ,
         "jump": ,
         "swap": ,
@@ -67,6 +75,7 @@
         "hitmark": ,
         "n1": ,
         "skill": ,
+        "walk": ,
         "dash": ,
         "jump": ,
         "swap": ,

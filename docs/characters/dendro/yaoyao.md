@@ -36,20 +36,20 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9%       | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  | 93.70%          |        |      | 51.73        | 3            |
-| 2-Hit  | 87.16%          |        |      | 47.51        | 3            |
-| 3-Hit  | 57.65% + 60.53% |        |      | 33.04 x2     | 3 x2         |
-| 4-Hit  | 143.18%         |        |      | 77.36        | 4            |
+| String | Talent 9%       | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 93.70%          | 30     | 187.4%/s  | 51.73        | 3            |
+| 2-Hit  | 87.16%          | 30     | 174.32%/s | 47.51        | 3            |
+| 3-Hit  | 57.65% + 60.53% | 46     | 154.15%/s | 33.04 x2     | 3 x2         |
+| 4-Hit  | 143.18%         | 69     | 124.5%/s  | 77.36        | 4            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     | 206.98%   |        |      | 120          | 5            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| CA     | 206.98%   | 53     | 234.32%/s | 120          | 5            |
 
 
 </div>
@@ -66,11 +66,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Frames and MV/s to be added.
-
-<!--
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
--->
 
 </TabItem>
 
@@ -138,14 +134,10 @@ import Skill from '@site/src/components/char/Skill'
 
 ## Frames
 
-Coming soon.
-
-<!--
 import charFrames from '@site/src/data/frames/Yaoyao.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
 
 ## Ascension Passives
 

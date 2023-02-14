@@ -1,0 +1,87 @@
+{
+  "NA": [{
+      "name": "N1",
+      "hitmark": 13,
+      "hitlag": 0.06,
+      "next_na": 30,
+      "ca": 30,
+      "walk": 36
+  }, 
+  {
+      "name": "N2",
+      "hitmark": 16,
+      "hitlag": 0.06,
+      "next_na": 30,
+      "ca": 33,
+      "walk": 39
+  },
+  {
+      "name": "N3",
+      "hitmark": [12, 31],
+      "hitlag": [0, 0.01],
+      "next_na": 46,
+      "ca": 37,
+      "walk": 51
+  },
+  {
+      "name": "N4",
+      "hitmark": 21,
+      "hitlag": 0.09,
+      "next_na": 69,
+      "ca": "N/A",
+      "walk": 64
+  }],
+  "CA": {
+      "name": "CA",
+      "hitmark": 22,
+      "hitlag": 0,
+      "n1": 53,
+      "skill": 53,
+      "burst": 54,
+      "dash": 49,
+      "jump": 48,
+      "swap": 50
+  },
+  "Skill": {
+      "name": "Cast (Tap)",
+      "hitmark": 77,
+      "n1": 52,
+      "burst": 52,
+      "walk": 52,
+      "dash": 49,
+      "jump": 48,
+      "swap": 50,
+      "cd": 15,
+      "notes": [
+        "Yuegui spawn: 48f",
+        "Total ticks: 10",
+        "Tick rate: 1s"
+      ]
+  },
+  "Burst": {
+      "name": "Cast",
+      "hitmark": 16,
+      "hitlag": 0.02,
+      "n1": 64,
+      "skill": 63,
+      "walk": 69,
+      "dash": 64,
+      "jump": 63,
+      "swap": 62,
+      "cd": 0,
+      "energy": 5,
+      "notes":[
+        "Yuegui spawn: 104f (1st), 162f (2nd), 221f (3rd)",
+        "Total ticks: 4 (1st), 3 (2nd), 2 (3rd)",
+        "Tick rate: 1s"
+      ]
+  },
+  "Other": [{
+      "name": "Dash",
+      "default": 20
+  },
+  {
+      "name": "Jump",
+      "default": 29
+  }]
+}

@@ -1,0 +1,120 @@
+{
+  "NA": [{
+      "name": "N1",
+      "hitmark": 11,
+      "hitlag": 0.02,
+      "next_na": 21,
+      "ca": 29,
+      "walk": 35
+  }, 
+  {
+      "name": "N2",
+      "hitmark": 13,
+      "hitlag": 0.02,
+      "next_na": 38,
+      "ca": 31,
+      "walk": 37
+  },
+  {
+      "name": "N3",
+      "hitmark": [15, 29],
+      "hitlag": [0, 0.02],
+      "next_na": 50,
+      "ca": 51,
+      "walk": 61
+  },
+  {
+      "name": "N4",
+      "hitmark": 21,
+      "hitlag": 0,
+      "next_na": 30,
+      "ca": 37,
+      "walk": 51
+  },
+  {
+      "name": "N5",
+      "hitmark": 35,
+      "hitlag": 0.02,
+      "next_na": 73,
+      "ca": "N/A",
+      "walk": 96
+  }],
+  "CA": {
+      "name": "CA",
+      "hitmark": [19, 27],
+      "hitlag": [0, 0],
+      "n1": 50,
+      "skill": 50,
+      "burst": 50,
+      "walk": 64,
+      "swap": 48
+  },
+  "Skill": [{
+      "name": "Tap",
+      "hitmark": 19,
+      "hitlag": 0.04,
+      "n1": 28,
+      "skill": 35,
+      "burst": 29,
+      "walk": 45,
+      "dash": 34,
+      "jump": 33,
+      "swap": 37,
+      "cd": 15,
+      "notes": "Mirror gain: same as CD frame (for both tap and hold)"
+    },
+    {
+      "name": "Hold",
+      "hitmark": 28,
+      "hitlag": 0.04,
+      "n1": 87,
+      "skill": 87,
+      "burst": 88,
+      "walk": 87,
+      "dash": 88,
+      "jump": 88,
+      "swap": 86,
+      "cd": 23,
+      "notes": [
+        "1-Mirror hitmark: 39f left, 40f right",
+        "2-Mirror hitmarks: 28f, 37f left; 27f, 36f right",
+        "3-Mirror hitmarks: 31f, 40f, 50f"
+      ]
+    },
+    {
+      "name": "Low Plunge",
+      "hitmark": 28,
+      "hitlag": 0,
+      "n1": 49,
+      "skill": 30,
+      "burst": 50,
+      "walk": 70,
+      "dash": 40,
+      "jump": 70,
+      "swap": 58,
+      "cd": "N/A",
+      "notes": 
+        "Low Plunge counts from when the drop button appears/after E animation ends mid-air; there's a shorter variant ~20f faster"
+    }],
+  "Burst": {
+      "name": "Cast",
+      "hitmark": [31, 40, 50],
+      "n1": 88,
+      "skill": 89,
+      "walk": 89,
+      "dash": 89,
+      "jump": 91,
+      "swap": 87,
+      "cd": 0,
+      "energy": 5,
+      "notes": "Mirror gain: 190f"
+  },
+  "Other": [{
+      "name": "Dash",
+      "default": 19
+  },
+  {
+      "name": "Jump",
+      "default": 29
+  }]
+}

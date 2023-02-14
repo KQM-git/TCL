@@ -14,6 +14,8 @@ export default function FramesElement({ data }: { data: Frames }) {
         <FrameData data={value} />
       </TabItem>)}
     </Tabs>
-    For more information, read the <Link to={"/combat-mechanics/frames"}>frames</Link> page or check out the <Link to={"https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing"}>database</Link>.
+    For general information, see the <Link to={"/combat-mechanics/frames"}>frames</Link> page or the <Link to={"https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing"}>database</Link>.
+    <br />
+    For details on a specific character, see the respective Evidence Vault. 
   </>
 }

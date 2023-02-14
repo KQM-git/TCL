@@ -36,22 +36,25 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  | 90.99%    |        |      | 58.5         | 3            |
-| 2-Hit  | 93.24%    |        |      | 59.5         | 3            |
-| 3-Hit  | 62.79% x2 |        |      | 39 x2        | 2 + 3        |
-| 4-Hit  | 122.67%   |        |      | 77           | 4            |
-| 5-Hit  | 154.05%   |        |      | 101          | 5            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 90.99%    | 21     | 259.97%/s | 58.5         | 3            |
+| 2-Hit  | 93.24%    | 28     | 199.80%/s | 59.5         | 3            |
+| 3-Hit  | 62.79% x2 | 50     | 150.70%/s | 39 x2        | 2 + 3        |
+| 4-Hit  | 122.67%   | 50     | 245.34%/s | 77           | 4            |
+| 5-Hit  | 154.05%   | 73     | 126.62%/s | 101          | 5            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9%  | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :--------- | :----- | :--- | :----------- | :----------- |
-| CA     | 101.51% x2 |        |      | 60 x2        | 2 + 6        |
-| N1C    | 294.01%    |        |      | -            | -            |
+| String | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :--------- | :----- | :-------- | :----------- | :----------- |
+| CA     | 101.51% x2 | 50     | 243.65%/s | 60 x2        | 2 + 6        |
+| N1C    | 294.01%    | 79     | 223.31%/s | -            | -            |
+| N2C    | 387.27%    | 102    | 227.81%/s | -            | -            |
+| N3C    | 512.85%    | 150    | 205.14%/s | -            | -            |
+| N4C    | 635.52%    | 186    | 205.01%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -67,11 +70,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Frames and MV/s to be added.
-
-<!--
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
--->
 
 </TabItem>
 
@@ -135,14 +134,10 @@ import Skill from '@site/src/components/char/Skill'
 
 ## Frames
 
-Coming soon.
-
-<!--
 import charFrames from '@site/src/data/frames/Alhaitham.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
 
 ## Ascension Passives
 
