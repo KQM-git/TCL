@@ -129,7 +129,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Royal Descent: Behold, Itto the Evil!** snapshots DEF but does not shapshot Geo DMG or ATK.
   * Right after Gorou uses his Elemental Burst, if Itto is swapped in either with Alt + Num or manually he will consistently snapshot the buffs. This only happens when the ping is below 75ms, otherwise it's inconsistent, with a 53% success rate at 200\~350ms.
 * Itto's converted attacks apply 1U Geo.
-  * Itto's converted Normal and Charged Attacks have standard 3 hit / 2.5s ICD.
+  * Itto's converted Normal and Charged Attacks have standard ICD.
 * **Royal Descent: Behold, Itto the Evil!**'s duration can be extended through hitlag.
 * **Royal Descent: Behold, Itto the Evil!** can expire in the middle of a CA string.
 * Burst duration can significantly extend past its normal duration by doing an attack at the end of Burst. This extension ends immediately on any action after the final attack.

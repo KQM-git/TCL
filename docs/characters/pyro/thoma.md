@@ -33,12 +33,12 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String    | Talent 9% | Frames      | MV/s      | Poise Damage | Impulse Type |
-| :-------- | :-------- | :---------- | :-------- | :----------- | :----------- |
-| 1-Hit DMG | 81.56%    | 28          | 174.77%/s | 41.3         | 3            |
-| 2-Hit DMG | 80.15%    | 37          | 129.97%/s | 40.58        | 3            |
-| 3-Hit DMG | 49.22% ×2 | 31          | 190.53%/s | 24.95 x2     | 2 + 3        |
-| 4-Hit DMG | 123.75%   | 58          | 128.02%/s | 62.66        | 6            |
+| String    | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit DMG | 81.56%    | 28     | 174.77%/s | 41.3         | 3            |
+| 2-Hit DMG | 80.15%    | 37     | 129.97%/s | 40.58        | 3            |
+| 3-Hit DMG | 49.22% ×2 | 31     | 190.53%/s | 24.95 x2     | 2 + 3        |
+| 4-Hit DMG | 123.75%   | 58     | 128.02%/s | 62.66        | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -106,19 +106,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute         | Skill         | Fiery Collapse |
-| :---------------- | :------------ | :------------- |
-| Skill DMG \(T9%\) | 149.6%        | 98.6%          |
-| GU                | 2U            | 1U             |
-| ICD               | 3 hits / 2.5s | 3 hits / 2.5s  |
-| Snapshot          | Dynamic       | Dynamic        |
-| Damage Element    | Pyro          | Pyro           |
-| Damage Type       | Burst         | Burst          |
-| Energy Cost       | 80            | -              |
-| Duration          | -             | 15s            |
-| CD                | 20s           | -              |
-| Poise Damage      | 200           | 35             |
-| Impulse Type      | 3             | 2              |
+| Attribute         | Skill    | Fiery Collapse |
+| :---------------- | :------- | :------------- |
+| Skill DMG \(T9%\) | 149.6%   | 98.6%          |
+| GU                | 2U       | 1U             |
+| ICD               | Standard | Standard       |
+| Snapshot          | Dynamic  | Dynamic        |
+| Damage Element    | Pyro     | Pyro           |
+| Damage Type       | Burst    | Burst          |
+| Energy Cost       | 80       | -              |
+| Duration          | -        | 15s            |
+| CD                | 20s      | -              |
+| Poise Damage      | 200      | 35             |
+| Impulse Type      | 3        | 2              |
 
 </div>
 

@@ -33,13 +33,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String        | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type \(no E/with E\) |
-| :------------ | :------------------ | :----- | :-------- | :----------- | :--------------------------- |
-| 1-Hit DMG     | 59.94% ×2 (119.88%) | 35     | 205.51%/s | 8.16         | 1 / 2                        |
-| 2-Hit DMG     | 115%                | 26     | 265.38%/s | 15.65        | 1 / 2                        |
-| 3-Hit DMG     | 149.49%             | 39     | 229.98%/s | 19.98        | 1 / 2                        |
-| 4-Hit DMG     | 78.07% ×2 (156.14%) | 44     | 212.92%/s | 10.66        | 1 / 2                        |
-| 5-Hit DMG     | 178.04%             | 51     | 209.46%/s | 23.84        | 1 / 2                        |
+| String    | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type \(no E/with E\) |
+| :-------- | :------------------ | :----- | :-------- | :----------- | :--------------------------- |
+| 1-Hit DMG | 59.94% ×2 (119.88%) | 35     | 205.51%/s | 8.16         | 1 / 2                        |
+| 2-Hit DMG | 115%                | 26     | 265.38%/s | 15.65        | 1 / 2                        |
+| 3-Hit DMG | 149.49%             | 39     | 229.98%/s | 19.98        | 1 / 2                        |
+| 4-Hit DMG | 78.07% ×2 (156.14%) | 44     | 212.92%/s | 10.66        | 1 / 2                        |
+| 5-Hit DMG | 178.04%             | 51     | 209.46%/s | 23.84        | 1 / 2                        |
 
 </div>
 <div class='talent-columns'>
@@ -88,7 +88,7 @@ import Skill from '@site/src/components/char/Skill'
 | Blazing Arrow DMG \(T9%\) | 158.79% Normal Attack DMG |
 | Particles                 | 1 (-) per proc            |
 | GU                        | 1U                        |
-| ICD                       | 3 hit / 2.5s              |
+| ICD                       | Standard                  |
 | Damage Element            | Pyro                      |
 | Damage Type               | Normal Attack             |
 | Duration                  | 10s                       |
@@ -122,7 +122,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------- | :------------ | ---------------------- |
 | Skill DMG (T9%) | 216.24%       | 207.4%                 |
 | GU              | 2U            | 1U                     |
-| ICD             | None          | 3 hit / 2.5s           |
+| ICD             | None          | Standard               |
 | Snapshot?       | Dynamic       | Dynamic                |
 | DMG Element     | Pyro          | Pyro                   |
 | DMG Type        | Burst         | Burst                  |

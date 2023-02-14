@@ -63,7 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Klee's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
-* 3 hits / 2.5s ICD, shared with Elemental Skill
+* Standard ICD, shared with Elemental Skill
 * Enemies struck by Klee's charged attack will be staggered or launched.
 
 </TabItem>
@@ -78,7 +78,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 161.84%                          | 55.76%    |
 | Particles         | 4 \(-\)                          | -         |
 | GU                | 1U \(1st & 2nd\)<br />2U \(3rd\) | 1U        |
-| ICD               | 3 hits / 2.5s                    | Note      |
+| ICD               | Standard                         | Note      |
 | Snapshot          | Snapshots                        | Snapshots |
 | Damage Element    | Pyro                             | Pyro      |
 | Damage Type       | Skill                            | Skill     |
@@ -109,7 +109,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 72.49%         |
 | Hits              | 22.8 (average) |
 | GU                | 1U             |
-| ICD               | 3 hits / 2.5s  |
+| ICD               | Standard       |
 | Snapshot          | Snapshots      |
 | Damage Element    | Pyro           |
 | Damage Type       | Burst          |
@@ -180,14 +180,14 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
 
-| Attribute      | Chained Reactions                 |
-| -------------- | --------------------------------- |
-| GU             | 1U                                |
-| ICD            | 3 hits / 2.5s (shared with Burst) |
-| Damage Element | Pyro                              |
-| Damage Type    | Elemental Burst                   |
-| Poise Damage   | 25                                |
-| Impulse Type   | 0                                 |
+| Attribute      | Chained Reactions            |
+| -------------- | ---------------------------- |
+| GU             | 1U                           |
+| ICD            | Standard (shared with Burst) |
+| Damage Element | Pyro                         |
+| Damage Type    | Elemental Burst              |
+| Poise Damage   | 25                           |
+| Impulse Type   | 0                            |
 
 **Notes**
 
@@ -214,8 +214,8 @@ import Constellation from '@site/src/components/char/Constellation'
 | Type              | GU  | ICD  |
 | :---------------- | :-- | :--- |
 | Sparkly Explosion | 2U  | None |
-| Poise Damage      | 120 |
-| Impulse Type      | 5   |
+| Poise Damage      | 120 |      |
+| Impulse Type      | 5   |      |
 
 **Notes**
 

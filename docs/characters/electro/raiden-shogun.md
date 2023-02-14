@@ -44,9 +44,9 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String             | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----------------- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| Charged Attack DMG | 182.96%          | 41     | 267.75%/s | 120          | 4            |
+| String             | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----------------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| Charged Attack DMG | 182.96%   | 41     | 267.75%/s | 120          | 4            |
 
 </div>
 <div class='talent-columns'>
@@ -77,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | Elemental Burst DMG Bonus \(T9%\) | 0.3% Per Energy | -                  |
 | Particles                         | -               | 0~1 (1:1)          |
 | GU                                | 1U              | 1U                 |
-| ICD (hits/timer)                  | 3 hit / 2.5s    | 3 hit / 2.5s       |
+| ICD                               | Standard        | Standard           |
 | Damage Element                    | Electro         | Electro            |
 | Damage Type                       | Skill           | Skill              |
 | Duration                          | 25s             | -                  |
@@ -107,7 +107,7 @@ import Skill from '@site/src/components/char/Skill'
 | Resolve Stacks Gained \(T9%\)             | 0.19 Per Energy Consumed                          | 0.19 Per Energy Consumed |
 | Musou Isshin Energy Restoration \(T9%\)   | -                                                 | 2.4                      |
 | GU                                        | 2U                                                | 1U                       |
-| ICD (hits/timer)                          | None                                              | 3 hit / 2.5s             |
+| ICD                                       | None                                              | Standard                 |
 | Snapshot                                  | Dynamic                                           | Dynamic                  |
 | Damage Element                            | Electro                                           | Electro                  |
 | Damage Type                               | Burst                                             | Burst                    |
@@ -119,13 +119,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
-| String          | Talent 9%      | Frames | 60 resolve MV | MV/s (60 resolve) | Poise Damage | Impulse Type |
-| :-------------- | :------------- | :----- | :------------ | :---------------- | :----------- | :----------- |
-| 1-Hit DMG       | 75.24%         | 25     | 73.8%         | 357.7%/s          | 40.67        | 3            |
-| 2-Hit DMG       | 73.93%         | 22     | 73.8%         | 402.9%/s          | 39.96        | 3            |
-| 3-Hit DMG       | 90.52%         | 22     | 73.8%         | 448.15%/s         | 48.93        | 4            |
-| 4-Hit DMG       | 51.95% + 52.1% | 64     | 73.8% x 2     | 343.16%/s         | 28.11 x2     | 3 + 4        |
-| 5-Hit DMG       | 124.36%        | 65     | 73.8%         | 182.92%/s         | 67.22        | 4            |
+| String    | Talent 9%      | Frames | 60 resolve MV | MV/s (60 resolve) | Poise Damage | Impulse Type |
+| :-------- | :------------- | :----- | :------------ | :---------------- | :----------- | :----------- |
+| 1-Hit DMG | 75.24%         | 25     | 73.8%         | 357.7%/s          | 40.67        | 3            |
+| 2-Hit DMG | 73.93%         | 22     | 73.8%         | 402.9%/s          | 39.96        | 3            |
+| 3-Hit DMG | 90.52%         | 22     | 73.8%         | 448.15%/s         | 48.93        | 4            |
+| 4-Hit DMG | 51.95% + 52.1% | 64     | 73.8% x 2     | 343.16%/s         | 28.11 x2     | 3 + 4        |
+| 5-Hit DMG | 124.36%        | 65     | 73.8%         | 182.92%/s         | 67.22        | 4            |
 
 
 | String             | Talent 9%                  | Frames | 60 resolve MV | MV/s (60 resolve) | Poise Damage | Impulse Type |
@@ -136,11 +136,11 @@ import Skill from '@site/src/components/char/Skill'
 | N3C                | 239.69% + 103.6% + 125.06% | 151    | 73.8% x 5     | 332.72%/s         | -            | -            |
 | N4C                | 343.74% + 103.6% + 125.06% | 200    | 73.8% x 7     | 326.70%/s         | -            | -            |
 
-| String          | Talent 9%      | Poise Damage | Impulse Type |
-| :-------------- | :------------- | :----------- | :----------- |
-| Plunge DMG      | 117.46%        | 25           | 2            |
-| Low Plunge DMG  | 234.86%        | 100          | 4            |
-| High Plunge DMG | 296.36%        | 150          | 7            |
+| String          | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 117.46%   | 25           | 2            |
+| Low Plunge DMG  | 234.86%   | 100          | 4            |
+| High Plunge DMG | 296.36%   | 150          | 7            |
 
 **Notes**
 

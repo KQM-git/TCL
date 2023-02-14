@@ -38,10 +38,10 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String       | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spinning DMG | 114.91%   | ?      | ?         | 60           | 2            |
-| Final DMG    | 207.77%   | ?      | ?         | 120          | 5            |
+| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
+| Spinning DMG | 114.91%   | ?      | ?    | 60           | 2            |
+| Final DMG    | 207.77%   | ?      | ?    | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -66,18 +66,18 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute                 | Skill        | After-Sales Service Round |
-| :-----------------------  | :----------- | :------------------------ |
-| DMG \(T9%\)               | 250.38%      | 53.65                     |
-| Particles                 | 2 \(-\)      | -                         |
-| GU                        | 1U           | 1U                        |
-| ICD                       | 3 hit / 2.5s | 3 hit / 2.5s              |
-| Snapshot                  |              |                           |
-| Damage Element            | Electro      | Electro                   |
-| Damage Type               | Skill        | Skill                     |
-| CD                        | 9s           | -                         |
-| Poise Damage              | 30           | 10                        |
-| Impulse Type              | 3            | 3                         |
+| Attribute      | Skill    | After-Sales Service Round |
+| :------------- | :------- | :------------------------ |
+| DMG \(T9%\)    | 250.38%  | 53.65                     |
+| Particles      | 2 \(-\)  | -                         |
+| GU             | 1U       | 1U                        |
+| ICD            | Standard | Standard                  |
+| Snapshot       |          |                           |
+| Damage Element | Electro  | Electro                   |
+| Damage Type    | Skill    | Skill                     |
+| CD             | 9s       | -                         |
+| Poise Damage   | 30       | 10                        |
+| Impulse Type   | 3        | 3                         |
 
 </div>
 

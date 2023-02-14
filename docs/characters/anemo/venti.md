@@ -76,18 +76,18 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute       | Tap     | Hold         |
-| :-------------- | :------ | :----------- |
-| Skill DMG (T9%) | 469.20% | 646%         |
-| Particles       | 3 \(-\) | 4 \(-\)      |
-| GU              | 2U      | 2U           |
-| ICD             | None    | 3 hit / 2.5s |
-| Snapshot        | -       | -            |
-| Damage Element  | Anemo   | Anemo        |
-| Damage Type     | Skill   | Skill        |
-| Cooldown        | 6s      | 15s          |
-| Poise Damage    | 150     | 150          |
-| Impulse Type    | 7       | 7            |
+| Attribute       | Tap     | Hold     |
+| :-------------- | :------ | :------- |
+| Skill DMG (T9%) | 469.20% | 646%     |
+| Particles       | 3 \(-\) | 4 \(-\)  |
+| GU              | 2U      | 2U       |
+| ICD             | None    | Standard |
+| Snapshot        | -       | -        |
+| Damage Element  | Anemo   | Anemo    |
+| Damage Type     | Skill   | Skill    |
+| Cooldown        | 6s      | 15s      |
+| Poise Damage    | 150     | 150      |
+| Impulse Type    | 7       | 7        |
 
 </div>
 
@@ -108,7 +108,7 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------- | :----------- | :----------------------------- |
 | Skill DMG (T9%) | 63.92% \* 20 | 31.96% \* 15\*                 |
 | GU              | 1U           | 1U                             |
-| ICD             | 3 hits       | 3 hits                         |
+| ICD             | 3 hits / 1s  | 3 hits / 1s                    |
 | Duration        | 8s           | 6.0s                           |
 | Total Ticks     | 20           | 15\* (FPS Dependent)           |
 | Snapshot        | Snapshot     | Snapshot                       |

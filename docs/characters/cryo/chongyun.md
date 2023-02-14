@@ -65,8 +65,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
-* Normal Attack ICD is 3 hits / 2.5s, shared with Charged Attacks.
-* Charged Attack ICD is 3 hits / 2.5s, shared with Normal Attacks.
+* Normal and Charged Attacks share standard ICD.
 
 </TabItem>
 

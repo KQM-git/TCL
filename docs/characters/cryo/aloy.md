@@ -32,21 +32,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String    | Talent 9%       | Frames  | MV/s      | Poise Damage | Impulse Type |
-| :-------- | :-------------- | :------ | :-------- | :----------- | :----------- |
-| 1-Hit DMG | 35.52% + 39.96% | 31      | 146.09%/s | 7.65 x2      | 1 x2         |
-| 2-Hit DMG | 72.52%          | 28      | 155.40%/s | 14.7         | 1            |
-| 3-Hit DMG | 88.8%           | 38      | 140.21%/s | 18           | 1            |
-| 4-Hit DMG | 110.41%         | 61      | 108.60%/s | 22.38        | 1            |
+| String    | Talent 9%       | Frames | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :-------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit DMG | 35.52% + 39.96% | 31     | 146.09%/s | 7.65 x2      | 1 x2         |
+| 2-Hit DMG | 72.52%          | 28     | 155.40%/s | 14.7         | 1            |
+| 3-Hit DMG | 88.8%           | 38     | 140.21%/s | 18           | 1            |
+| 4-Hit DMG | 110.41%         | 61     | 108.60%/s | 22.38        | 1            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
-| :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
-| Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1U  | 20 \(Headshot: 60\) | 5            |
+| Type          | Talent 9% | Frames | MV/s      | GU  | Poise Damage        | Impulse Type |
+| :------------ | :-------- | :----- | :-------- | :-- | :------------------ | :----------- |
+| Aimed Shot    | 80.58%    | 25     | 193.39%/s | -   | 10 \(Headshot: 30\) | 2            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s | 1U  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -80,7 +80,7 @@ import Skill from '@site/src/components/char/Skill'
 | Particles         | 5 \(-\)     | -                   |
 | Frames            | 67          | -                   |
 | GU                | 1U          | 1U                  |
-| ICD               | -           | 3 hits / 2.5s       |
+| ICD               | -           | Standard            |
 | Snapshot          | Snapshot    | Snapshot            |
 | Damage Element    | Cryo        | Cryo                |
 | Damage Type       | Skill       | Skill               |

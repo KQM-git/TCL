@@ -100,19 +100,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute         | Burst        |
-| :---------------- | :----------- |
-| Burst DMG \(T9%\) | 7.9% Max HP  |
-| GU                | 1U           |
-| ICD               | 3 hit / 2.5s |
-| Snapshot          | Snapshot     |
-| Damage Element    | Cryo         |
-| Damage Type       | Burst        |
-| Energy Cost       | 40           |
-| Duration          | 12           |
-| Cooldown          | 12           |
-| Poise Damage      | 20           |
-| Impulse Type      | 2            |
+| Attribute         | Burst       |
+| :---------------- | :---------- |
+| Burst DMG \(T9%\) | 7.9% Max HP |
+| GU                | 1U          |
+| ICD               | Standard    |
+| Snapshot          | Snapshot    |
+| Damage Element    | Cryo        |
+| Damage Type       | Burst       |
+| Energy Cost       | 40          |
+| Duration          | 12          |
+| Cooldown          | 12          |
+| Poise Damage      | 20          |
+| Impulse Type      | 2           |
 
 </div>
 

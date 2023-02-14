@@ -46,10 +46,10 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String       | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spinning DMG | 103.33%   | ?      | ?         | 60           | 3            |
-| Final DMG    | 187.07%   | ?      | ?         | 120          | 6            |
+| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
+| Spinning DMG | 103.33%   | ?      | ?    | 60           | 3            |
+| Final DMG    | 187.07%   | ?      | ?    | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -126,7 +126,7 @@ import Skill from '@site/src/components/char/Skill'
 | Lightning Bounces | -               | 2                   |
 | DMG Reduction     | 32% \(scaling\) | -                   |
 | GU                | 4U              | 1U                  |
-| ICD               | -               | 3 hit / 2.5s        |
+| ICD               | -               | Standard            |
 | Snapshot          | Snapshot        | Snapshot            |
 | Damage Element    | Electro         | Electro             |
 | Damage Type       | Burst           | Burst               |
@@ -191,7 +191,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | -------------- | ---------------- |
 | Skill DMG      | 20%              |
 | GU             | 1U               |
-| ICD            | 3 hit / 2.5s     |
+| ICD            | Standard         |
 | Damage Element | Electro          |
 | Damage Type    | None             |
 | Poise Damage   | 30               |
@@ -199,7 +199,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* **Stunning Revenge** DMG has 3 hit / 2.5s ICD and shares ICD on Normal Attack, Charged Attack and with **Stormbreaker**'s **lightning discharges**.
+* **Stunning Revenge** DMG has standard ICD and shares ICD on Normal Attack, Charged Attack, and **Stormbreaker**'s **lightning discharges**.
 * Use N2 cancels to maximize Electro DMG.
 * C4 can be activated by certain teammate's hit, e.g., Kujou Sara's Tengou Juurai.
 * C4 is activated on hit, regardless taking damage or not. So it can be activated through shields, either her own or allies'.

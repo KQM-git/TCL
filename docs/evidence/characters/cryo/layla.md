@@ -19,7 +19,7 @@ search: false
 * ICDs:
   * E Cast: None - [Bobrokrot\#0111](https://youtu.be/q9Dd3dXr5NM)
   * Shooting Star: 7 hit / 3s - [Bobrokrot\#0111](https://youtu.be/038qa5MFAOY)
-  * Q: Default - [Bobrokrot\#0111](https://youtu.be/4opnHeQhk08)
+  * Q: Standard - [Bobrokrot\#0111](https://youtu.be/4opnHeQhk08)
 * Snapshotting:
   * E: Each individual Shooting Star snapshots when it launches. - [Bobrokrot\#0111](https://youtu.be/ESqDyFZi50A)
   * Q: Snapshots when the Celestial Dreamsphere is created. - [Bobrokrot\#0111](https://youtu.be/ESqDyFZi50A)

@@ -28,12 +28,12 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String        | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------ | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit         | 69.36%    | 21     | 198.17%/s | 13.17        | 1            |
-| 2-Hit         | 68.26%    | 26     | 157.52%/s | 12.96        | 1            |
-| 3-Hit         | 90.85%    | 43     | 126.77%/s | 17.25        | 1            |
-| 4-Hit         | 108.39%   | 55     | 118.24%/s | 20.58        | 1            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 69.36%    | 21     | 198.17%/s | 13.17        | 1            |
+| 2-Hit  | 68.26%    | 26     | 157.52%/s | 12.96        | 1            |
+| 3-Hit  | 90.85%    | 43     | 126.77%/s | 17.25        | 1            |
+| 4-Hit  | 108.39%   | 55     | 118.24%/s | 20.58        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -71,21 +71,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute            | War Banner                        |
-| :------------------- | :-------------------------------- |
-| Skill DMG \(T9%\)    | 182.24%                           |
-| DEF Increase \(T9%\) | 350                               |
-| Geo DMG Bonus        | 15%                               |
-| Particles            | 2 \(-\)                           |
-| GU                   | 1U                                |
-| ICD                  | 1s                                |
-| Snapshot             | -                                 |
-| Damage Element       | Geo                               |
-| Damage Type          | Skill                             |
-| Duration             | 10s                               |
-| CD                   | 10s                               |
-| Poise Damage         | 80                                |
-| Impulse Type         | 4                                 |
+| Attribute            | War Banner |
+| :------------------- | :--------- |
+| Skill DMG \(T9%\)    | 182.24%    |
+| DEF Increase \(T9%\) | 350        |
+| Geo DMG Bonus        | 15%        |
+| Particles            | 2 \(-\)    |
+| GU                   | 1U         |
+| ICD                  | 1s         |
+| Snapshot             | -          |
+| Damage Element       | Geo        |
+| Damage Type          | Skill      |
+| Duration             | 10s        |
+| CD                   | 10s        |
+| Poise Damage         | 80         |
+| Impulse Type         | 4          |
 
 </div>
 
@@ -107,7 +107,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- | :--------------- |
 | Skill DMG \(T9%\) | 166.97% DEF | 104.21% DEF      |
 | GU                | 1U          | 1U               |
-| ICD               | -           | 3 hit / 2.5s     |
+| ICD               | -           | Standard         |
 | Snapshot          | -           | Dynamic          |
 | Damage Element    | Geo         | Geo              |
 | Damage Type       | Burst       | Burst            |

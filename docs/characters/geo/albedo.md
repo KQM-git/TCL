@@ -34,7 +34,7 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- |:--------- | :----------- | :----------- |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
 | 1-Hit  | 67.5%     | 20     | 202.50%/s | 38.43        | 3            |
 | 2-Hit  | 67.5%     | 28     | 144.64%/s | 38.43        | 3            |
 | 3-Hit  | 87.18%    | 40     | 130.77%/s | 49.68        | 3            |
@@ -77,7 +77,7 @@ import Skill from '@site/src/components/char/Skill'
 | Talent \(T9%\) | 221.68%       | 227.12% DEF       |
 | Particles      | 0             | 0~1 \(1:2\)       |
 | GU             | 1U            | 1U                |
-| ICD            | None          | 3 hit / 2.5s      |
+| ICD            | None          | Standard          |
 | Snapshot       | Snapshot      | Snapshot          |
 | Damage Element | Geo           | Geo               |
 | Damage Type    | Skill         | Skill             |
@@ -106,7 +106,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------- | :------------------------------------ | :----------------- |
 | Talent \(T9%\) | 624.24%                               | 122.4% per Blossom |
 | GU             | 1U                                    | 1U                 |
-| ICD            | None                                  | 3 hit / 2.5s       |
+| ICD            | None                                  | Standard           |
 | Snapshot       | Snapshot                              | Snapshot           |
 | Damage Element | Geo                                   | Geo                |
 | Damage Type    | Burst                                 | Burst              |

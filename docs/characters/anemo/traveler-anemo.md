@@ -110,21 +110,21 @@ import LumineCA from '../_common/lumine_ca.md'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute                     | Tap          | Hold                   | Additional Elemental DMG |
-| :---------------------------- | :----------- | :--------------------- | :----------------------- |
-| Cutting DMG \(T9%\)           | -            | 20.4% x 2 + 28.56% x 4 | 5.1% x 1 + 7.14% x 4     |
-| Initial/Max Storm DMG \(T9%\) | 299.2%       | 299.2% / 326.4%        | 74.80% / 81.60%          |
-| Particles                     | 2            | 2 / 3~4 (2:1)          | -                        |
-| GU                            | 1U           | 1U                     | 1U                       |
-| ICD                           | 3 hit / 2.5s | 3 hit / 2.5s           | 3 hit / 2.5s             |
-| Snapshot                      | -            | Dynamic                | Dynamic                  |
-| Damage Element                | Anemo        | Anemo                  | Absorbed Element         |
-| Damage Type                   | Skill        | Skill                  | Skill                    |
-| CD                            | 5s           | 5s / 8s                | -                        |
-| Initial Cutting Poise Damage  | -            | 10 x2 + 10 x4          | -                        |
-| Max Cutting Poise Damage      | -            | 2 x2 + 2 x4            | -                        |
-| Storm Poise Damage            | 200          | 200                    | -                        |
-| Storm Impulse Type            | 5            | 6                      | -                        |
+| Attribute                     | Tap      | Hold                   | Additional Elemental DMG |
+| :---------------------------- | :------- | :--------------------- | :----------------------- |
+| Cutting DMG \(T9%\)           | -        | 20.4% x 2 + 28.56% x 4 | 5.1% x 1 + 7.14% x 4     |
+| Initial/Max Storm DMG \(T9%\) | 299.2%   | 299.2% / 326.4%        | 74.80% / 81.60%          |
+| Particles                     | 2        | 2 / 3~4 (2:1)          | -                        |
+| GU                            | 1U       | 1U                     | 1U                       |
+| ICD                           | Standard | Standard               | Standard                 |
+| Snapshot                      | -        | Dynamic                | Dynamic                  |
+| Damage Element                | Anemo    | Anemo                  | Absorbed Element         |
+| Damage Type                   | Skill    | Skill                  | Skill                    |
+| CD                            | 5s       | 5s / 8s                | -                        |
+| Initial Cutting Poise Damage  | -        | 10 x2 + 10 x4          | -                        |
+| Max Cutting Poise Damage      | -        | 2 x2 + 2 x4            | -                        |
+| Storm Poise Damage            | 200      | 200                    | -                        |
+| Storm Impulse Type            | 5        | 6                      | -                        |
 
 </div>
 
@@ -147,7 +147,7 @@ import LumineCA from '../_common/lumine_ca.md'
 | Tornado DMG \(T9%\) | 137.36% \* 9 | 42.16% \* 9              |
 | Tick Rate           | 0.5s         | 0.5s                     |
 | GU                  | 1U           | 2U                       |
-| ICD                 | 3 hit / 2.5s | 3 hit / 2.5s             |
+| ICD                 | Standard     | Standard                 |
 | Snapshot            | Snapshot     | Snapshot                 |
 | Damage Element      | Anemo        | Absorbed Element         |
 | Damage Type         | Burst        | Burst                    |

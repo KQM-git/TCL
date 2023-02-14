@@ -44,10 +44,10 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String           | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :--------------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spinning DMG     | 93.22%    | ?      | ?         | 60           | 3            |
-| Final Attack DMG | 166.22%   | ?      | ?         | 120          | 6            |
+| String           | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--------------- | :-------- | :----- | :--- | :----------- | :----------- |
+| Spinning DMG     | 93.22%    | ?      | ?    | 60           | 3            |
+| Final Attack DMG | 166.22%   | ?      | ?    | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -74,19 +74,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute         | Skill        |
-| :---------------- | :----------- |
-| Skill DMG \(T9%\) | 204% DEF     |
-| Particles         | 0 \(-\)      |
-| GU                | 2U           |
-| ICD               | 3 hit / 2.5s |
-| Snapshot          | Dynamic      |
-| Damage Element    | Geo          |
-| Damage Type       | Skill        |
-| Duration          | 12s          |
-| CD                | 24s          |
-| Poise Damage      | 100          |
-| Impulse Type      | 3            |
+| Attribute         | Skill    |
+| :---------------- | :------- |
+| Skill DMG \(T9%\) | 204% DEF |
+| Particles         | 0 \(-\)  |
+| GU                | 2U       |
+| ICD               | Standard |
+| Snapshot          | Dynamic  |
+| Damage Element    | Geo      |
+| Damage Type       | Skill    |
+| Duration          | 12s      |
+| CD                | 24s      |
+| Poise Damage      | 100      |
+| Impulse Type      | 3        |
 
 | Attribute               | Shield           |
 | :---------------------- | :--------------- |
@@ -112,20 +112,20 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute       | Burst        |
-| :-------------- | :----------- |
-| Burst DMG (T9%) | 114.24%      |
-| Skill DMG (T9%) | 157.76%      |
-| ATK Bonus (T9%) | 68% DEF      |
-| GU              | 1U           |
-| ICD             | 3 hit / 2.5s |
-| Snapshot        | Dynamic      |
-| Damage Element  | Geo          |
-| Damage Type     | Burst        |
-| Duration        | 15s          |
-| CD              | 15s          |
-| Poise Damage    | 150          |
-| Impulse Type    | 4            |
+| Attribute       | Burst    |
+| :-------------- | :------- |
+| Burst DMG (T9%) | 114.24%  |
+| Skill DMG (T9%) | 157.76%  |
+| ATK Bonus (T9%) | 68% DEF  |
+| GU              | 1U       |
+| ICD             | Standard |
+| Snapshot        | Dynamic  |
+| Damage Element  | Geo      |
+| Damage Type     | Burst    |
+| Duration        | 15s      |
+| CD              | 15s      |
+| Poise Damage    | 150      |
+| Impulse Type    | 4        |
 
 </div>
 
@@ -201,14 +201,14 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
 
-| Attribute      | C4           |
-| :------------- | :----------- |
-| Skill DMG      | 400%         |
-| GU             | -            |
-| ICD            | 3 hit / 2.5s |
-| Snapshot       | Dynamic      |
-| Damage Element | Geo          |
-| Damage Type    | Skill        |
+| Attribute      | C4       |
+| :------------- | :------- |
+| Skill DMG      | 400%     |
+| GU             | -        |
+| ICD            | Standard |
+| Snapshot       | Dynamic  |
+| Damage Element | Geo      |
+| Damage Type    | Skill    |
 
 **Notes**
 

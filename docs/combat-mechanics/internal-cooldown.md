@@ -6,38 +6,37 @@ import YouTube from "@site/src/components/common/YouTube"
 
 # Internal Cooldown
 
-In Genshin, various abilities and mechanics exhibit the effects of limitations upon sequential instances of Elemental application, damage, and poise damage. The system that imposes these limitations is most commonly referred to as *internal cooldown* (abbv. *ICD*) by the Genshin community.
+In Genshin, various abilities and mechanics exhibit the effects of limitations upon sequential instances of Elemental Application, damage, and poise damage. The system that imposes these limitations is most commonly referred to as *internal cooldown* (abbv. *ICD*) by the Genshin community.
 
 ICD is a significant factor in theorycrafting as it drastically affects how a particular character's kit plays into team optimization and what team roles they can satisfy.
 
 ## Motivation
 
-For motivation, we use Elemental application as intuitive example. Below is a video of Hu Tao attacking the Electro Hypostasis in its vulnerable state via her Pyro-converted Normal Attacks.
+For motivation, we use Elemental Application as intuitive example. Below is a video of Hu Tao attacking the Electro Hypostasis in its vulnerable state via her Pyro-converted Normal Attacks.
 
 <YouTube id="FAaem0Lfg7A" title="ICD Motivation" />
 
-From the video, we observe that only two Overloads reactions are triggered yet Hu Tao attacks with Pyro damage four times. This leads to the conclusion that Genshin imposes a system that restricts how many times certain attacks can apply an Element.
+From the video, we observe that only two Overload reactions are triggered yet Hu Tao attacks with Pyro damage four times. This leads to the conclusion that Genshin imposes a system that restricts how many times certain attacks can apply an Element.
 
-This conjectured system also generalizes to damage (e.g. Transformative reaction damage) and poise damage, limiting the number of damage/poise damage instances that can occur over some span of time. This system is known as *internal cooldown* or *ICD* for short.
+This conjectured system also generalizes to damage (e.g. Transformative Reaction damage) and poise damage, limiting the number of damage/poise damage instances that can occur over some span of time. This system is known as *internal cooldown* or *ICD* for short.
 
 ## Intuitive Overview
 
-Here we give a simplified but commonly accepted understanding of ICD. For most purposes of theorycrafting and general understanding, it is sufficient enough to apply the main ideas of ICD. Again, we use Elemental application as an example keeping in mind that ICD also applies to damage and poise damage.
+Here we give a simplified but commonly accepted understanding of ICD. For most purposes of theorycrafting and general understanding, it is sufficient enough to apply the main ideas of ICD. Again, we use Elemental Application as an example keeping in mind that ICD also applies to damage and poise damage.
 
-Generally speaking, ICD is controlled by two parameters: a **timer** and a **hit count**. For the sake of clarity, we will use *default ICD* (very common configuration for many character abilities). Default ICD results in the following:
-* A hit can apply an Element once every 3 hits or
-* A hit can apply an Element once every 2.5 seconds.
+Generally speaking, ICD is controlled by two parameters: a **timer** and a **hit count**. For the sake of clarity, we will use *standard ICD* (very common configuration for many character abilities). Standard ICD results in the following:
+* a hit can apply an Element once every 3 hits or
+* a hit can apply an Element once every 2.5 seconds.
 
-For this reason, it is common to say that default ICD is *2.5 seconds or 3 hits*. There is an additional component of ICD; however, that often leads to confusion for those new to ICD. That is
-
-* The 3 hit rule ***will not*** reset the 2.5 second timer.
-* The 2.5 second timer ***will*** reset the 3 hit count.
+For this reason, it is common to say that standard ICD is *3 hits or 2.5 seconds*. There is an additional component of ICD; however, that often leads to confusion for those new to ICD. That is:
+* the 3-hit rule ***will not*** reset the 2.5-second timer.
+* the 2.5-second timer ***will*** reset the 3-hit count.
 
 Because this concept tends to be very confusing when written out in text, we will use the video below as a visual example of what the above should be interpreted as.
 
 <YouTube id="wGab6lW2BfI" title="ICD Resets" />
 
-The timer and hit count rules for Elemental application ICD can vary wildly and it is also possible for abilities to not have ICD at all (in which case, every hit will apply an Element).
+The timer and hit count rules for Elemental Application ICD can vary wildly and it is also possible for abilities to not have ICD at all (in which case, every hit will apply an Element).
 
 ICD for damage works in an identical way but instead limits the number of damage instances possible. Similarly, poise damage ICD limits the number of poise damage instances.
 
@@ -45,11 +44,11 @@ ICD for damage works in an identical way but instead limits the number of damage
 
 Some general properties of ICD are:
 * ICD is not shared between enemies.
-    * **Example**: If three Hilichurls have Hydro applied to them, then a Pyro attack (that hits all three Hilichurls) limited by default ICD will trigger Vaporize on all three Hilichurls rather than just one.
+    * **Example**: If three Hilichurls have Hydro applied to them, then a Pyro attack (that hits all three Hilichurls) limited by standard ICD will trigger Vaporize on all three Hilichurls rather than just one.
 * ICD is not shared between characters.
     * **Example**: If Sucrose triggers a Swirl reaction with her Elemental Skill and hits Swirl damage ICD, then Venti's Swirl damage will not be affected by the fact that Sucrose's Elemental Skill Swirls are on ICD.
 * Multiple abilities may share ICD.
-    * **Example**: Keqing's Normal and Charged Attacks share ICD. Thus, which instances of her Normal and Charged Attacks will apply an Element is determined by default ICD (where both her Normal and Charged Attacks may contribute to the hit count and start the timer).
+    * **Example**: Keqing's Normal and Charged Attacks share ICD. Thus, which instances of her Normal and Charged Attacks will apply an Element is determined by standard ICD (where both her Normal and Charged Attacks may contribute to the hit count and start the timer).
 
 ## Advanced Overview
 
@@ -79,7 +78,7 @@ Damage and poise damage ICD are defined in the same way with minor terminology d
 * Poise damage ICD corresponds to *poise damage sequences* and *poise damage attenuation factors*.
 
 ### Example: C2 Ayaka Burst Application
-Suppose we investigate a C2 Ayaka. Each hit of her Elemental Burst (including the C2 hits) shares ICD and is gated by default ICD with gauge sequence
+Suppose we investigate a C2 Ayaka. Each hit of her Elemental Burst (including the C2 hits) shares ICD and is gated by standard ICD with gauge sequence
 $$
 \begin{aligned}
     (g_n) = 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0
@@ -126,7 +125,7 @@ For those who prefer code, the following Python script is an example implementat
 ```python
 import random as r
 
-# Default ICD
+# Standard ICD
 gauge_sequence = [1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0]
 t_reset = 2.5
 
@@ -253,7 +252,7 @@ Timer reset (t-t_0 = 2.889887333841577)
 
 ICD table that was based on [Advanced Gauge Unit Theory](https://genshin-impact.fandom.com/wiki/Gauge_Unit_Theory/Advanced_Theory) on Genshin Impact Wiki, with a few corrections from examining the data files.
 
-[ICD Table](https://docs.google.com/spreadsheets/d/1dE8mTmRVlR1izKynvSD4Jk5igvWFMlVMENzUsel-n-0/)
+[ICD Table](https://docs.google.com/spreadsheets/d/1dE8mTmRVlR1izKynvSD4Jk5igvWFMlVMENzUsel-n-0/edit?usp=sharing)
 
 **Evidence Vault:**
 

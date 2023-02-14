@@ -33,14 +33,14 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9%          | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------- | :----------------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit    | 56.53%             | 24     | 141.33%/s | 33.76        | 3 / 4\*      |
-| 2-Hit    | 57.23%             | 19     | 180.73%/s | 34.32        | 3            |
-| 3-Hit    | 70.87%             | 25     | 170.09%/s | 42           | 3            |
-| 4-Hit    | 78.89%             | 40     | 118.34%/s | 45.92        | 4            |
-| 5-Hit    | 19.75% x 4 \(79%\) | 31     | 152.90%/s | 11.52 x4     | 2 x4         |
-| 6-Hit    | 100.12%            | 60     | 100.12%/s | 61.52        | 6            |
+| String | Talent 9%          | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :----------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 56.53%             | 24     | 141.33%/s | 33.76        | 3 / 4\*      |
+| 2-Hit  | 57.23%             | 19     | 180.73%/s | 34.32        | 3            |
+| 3-Hit  | 70.87%             | 25     | 170.09%/s | 42           | 3            |
+| 4-Hit  | 78.89%             | 40     | 118.34%/s | 45.92        | 4            |
+| 5-Hit  | 19.75% x 4 \(79%\) | 31     | 152.90%/s | 11.52 x4     | 2 x4         |
+| 6-Hit  | 100.12%            | 60     | 100.12%/s | 61.52        | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -88,19 +88,19 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='e' sectionFilter='Hold' />
 </div>
 
-| Attribute         | Stone Stele   | Resonance DMG | Hold DMG      |
-| :---------------- | :------------ | :------------ | :------------ |
-| Skill DMG \(T9%\) | 27.2%         | 54.4%         | 136%          |
-| Particles         | -             | 0~1 \(1:1\)   | -             |
-| GU                | 2U            | 1U            | 1U            |
-| ICD               | 3 hits / 2.5s | 3 hits / 2.5s | 3 hits / 2.5s |
-| Snapshot          | Snapshot      | Snapshot      | Snapshot      |
-| Damage Element    | Geo           | Geo           | Geo           |
-| Damage Type       | Skill         | Skill         | Skill         |
-| Duration          | 30s           | -             | 20s           |
-| CD                | 4s            | -             | 12s           |
-| Poise Damage      | 200           | 0             | 142.9         |
-| Impulse Type      | 4             | 1             | 4             |
+| Attribute         | Stone Stele | Resonance DMG | Hold DMG |
+| :---------------- | :---------- | :------------ | :------- |
+| Skill DMG \(T9%\) | 27.2%       | 54.4%         | 136%     |
+| Particles         | -           | 0~1 \(1:1\)   | -        |
+| GU                | 2U          | 1U            | 1U       |
+| ICD               | Standard    | Standard      | Standard |
+| Snapshot          | Snapshot    | Snapshot      | Snapshot |
+| Damage Element    | Geo         | Geo           | Geo      |
+| Damage Type       | Skill       | Skill         | Skill    |
+| Duration          | 30s         | -             | 20s      |
+| CD                | 4s          | -             | 12s      |
+| Poise Damage      | 200         | 0             | 142.9    |
+| Impulse Type      | 4           | 1             | 4        |
 
 </div>
 <div class='talent-columns'>
@@ -144,7 +144,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)      | 834.68%                             |
 | Petrification Duration | 3.9s                                |
 | GU                     | 4U                                  |
-| ICD                    | 3 hits / 2.5s                       |
+| ICD                    | Standard                            |
 | Snapshot               | Dynamic                             |
 | Damage Element         | Geo                                 |
 | Damage Type            | Burst                               |

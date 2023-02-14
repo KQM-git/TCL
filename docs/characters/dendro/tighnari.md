@@ -43,12 +43,12 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type                                     | Talent 9%        | Frames | MV/s       | GU  | Poise Damage             | Impulse Type          |
-| :--------------------------------------- | :--------------- | :----- | :--------- | :-- | :----------------------- | :-------------------- |
-| Aimed Shot                               | 80.58%           | ?      | ?          | -   | 10 \(Headshot: 30\)      | 2 \(Headshot: 5\)     |
-| Charge Level 1                           | 210.8%           | 94     | 134.55%/s  | 1U  | 20 \(Headshot: 60\)      | 2 \(Headshot: 5\)     |
-| Wreath Arrow + Clusterbloom Arrow        | 148.24% + 65.62% | 183    | 70.12%/s   | 1U  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
-| Wreath Arrow + Clusterbloom Arrow (in E) | 148.24% + 65.62% | 41     | 312.97%/s  | 1U  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
+| Type                                     | Talent 9%        | Frames | MV/s      | GU  | Poise Damage             | Impulse Type          |
+| :--------------------------------------- | :--------------- | :----- | :-------- | :-- | :----------------------- | :-------------------- |
+| Aimed Shot                               | 80.58%           | ?      | ?         | -   | 10 \(Headshot: 30\)      | 2 \(Headshot: 5\)     |
+| Charge Level 1                           | 210.8%           | 94     | 134.55%/s | 1U  | 20 \(Headshot: 60\)      | 2 \(Headshot: 5\)     |
+| Wreath Arrow + Clusterbloom Arrow        | 148.24% + 65.62% | 183    | 70.12%/s  | 1U  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
+| Wreath Arrow + Clusterbloom Arrow (in E) | 148.24% + 65.62% | 41     | 312.97%/s | 1U  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
 
 </div>
   
@@ -79,19 +79,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute                 | Skill                       |
-| :-----------------------  | :-------------------------- |
-| DMG \(T9%\)               | 254.32%                     |
-| Particles                 | 3~4 \(1:1\)                 |
-| GU                        | 1U                          |
-| ICD                       | None                        | 
-| Snapshot                  | Snapshot                    |
-| Damage Element            | Dendro                      |
-| Damage Type               | Skill                       |
-| Duration                  | Field: 8s <br/> Effect: 12s |
-| CD                        | 12s                         |
-| Poise Damage              | 50                          |
-| Impulse Type              | 2                           |
+| Attribute      | Skill                       |
+| :------------- | :-------------------------- |
+| DMG \(T9%\)    | 254.32%                     |
+| Particles      | 3~4 \(1:1\)                 |
+| GU             | 1U                          |
+| ICD            | None                        |
+| Snapshot       | Snapshot                    |
+| Damage Element | Dendro                      |
+| Damage Type    | Skill                       |
+| Duration       | Field: 8s <br/> Effect: 12s |
+| CD             | 12s                         |
+| Poise Damage   | 50                          |
+| Impulse Type   | 2                           |
 
 </div>
 
@@ -102,18 +102,18 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute         | Primary         | Secondary       |
-| :---------------- | :-------------- | :-------------- |
-| DMG \(T9%\)       | 94.55%          | 115.57%         |
-| GU                | 1U              | 1U              |
-| ICD               | 3 hits / 2.5s   | 3 hits / 2.5s   |
-| Snapshot          | Snapshot        | Dynamic         |
-| Damage Element    | Dendro          | Dendro          |
-| Damage Type       | Burst           | Burst           |
-| Energy Cost       | 40              | -               |
-| Cooldown          | 12s             | -               |
-| Poise Damage      | 30              | 30              |
-| Impulse Type      | 3               | 3               |
+| Attribute      | Primary  | Secondary |
+| :------------- | :------- | :-------- |
+| DMG \(T9%\)    | 94.55%   | 115.57%   |
+| GU             | 1U       | 1U        |
+| ICD            | Standard | Standard  |
+| Snapshot       | Snapshot | Dynamic   |
+| Damage Element | Dendro   | Dendro    |
+| Damage Type    | Burst    | Burst     |
+| Energy Cost    | 40       | -         |
+| Cooldown       | 12s      | -         |
+| Poise Damage   | 30       | 30        |
+| Impulse Type   | 3        | 3         |
 
 </div>
 

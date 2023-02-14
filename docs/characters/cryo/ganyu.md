@@ -118,7 +118,7 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------------- | :-------------- |
 | Skill DMG \(T9%\)      | 119.46% \* 50   |
 | GU                     | 1U              |
-| ICD                    | 3 hit / 2.5s    |
+| ICD                    | Standard        |
 | Snapshot               | Snapshot        |
 | Damage Element         | Cryo            |
 | Damage Type            | Elemental Burst |

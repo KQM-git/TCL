@@ -35,13 +35,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String        | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------ | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-hit         | 66.36%    | 30     | 132.72%/s | 12.6         | 1            |
-| 2-Hit         | 61.62%    | 21     | 176.06%/s | 11.7         | 1            |
-| 3-Hit         | 83.74%    | 44     | 114.19%/s | 15.9         | 1            |
-| 4-Hit         | 79%       | 21     | 225.71%/s | 15           | 1            |
-| 5-Hit         | 98.75%    | 73     | 81.16%/s  | 18.75        | 1            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-hit  | 66.36%    | 30     | 132.72%/s | 12.6         | 1            |
+| 2-Hit  | 61.62%    | 21     | 176.06%/s | 11.7         | 1            |
+| 3-Hit  | 83.74%    | 44     | 114.19%/s | 15.9         | 1            |
+| 4-Hit  | 79%       | 21     | 225.71%/s | 15           | 1            |
+| 5-Hit  | 98.75%    | 73     | 81.16%/s  | 18.75        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -85,7 +85,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 71.26% x 2                | 71.26% x 5                |
 | Particles         | 0~1 \(1:4\) check per paw | 0~1 \(1:4\) check per paw |
 | GU                | 1U                        | 1U x 2                    |
-| ICD               | 3 hit / 2.5s              | 3 hit / 2.5s              |
+| ICD               | Standard                  | Standard                  |
 | Snapshot          | Snapshot                  | Snapshot                  |
 | Damage Element    | Cryo                      | Cryo                      |
 | Damage Type       | Skill                     | Skill                     |
@@ -133,7 +133,7 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------- | :------------------ |
 | Field DMG (T9%)  | 89.49%              |
 | GU               | 1U                  |
-| ICD              | 3 hits / 2.5s       |
+| ICD              | Standard            |
 | HP Regen         | 9.07% Max HP + 1044 |
 | Duration         | 12s                 |
 | Tick Rate        | 2s                  |

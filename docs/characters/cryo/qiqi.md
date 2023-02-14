@@ -36,7 +36,7 @@ import Skill from '@site/src/components/char/Skill'
 | :----- | :-------------- | :----- | :-------- | :----------- | :----------- |
 | 1-Hit  | 69.36%          | 20     | 208.08%/s | 25.2         | 3            |
 | 2-Hit  | 71.42%          | 27     | 158.71%/s | 27.9         | 3            |
-| 3-Hit  | 44.4% + 44.4%   | 44     | 121.09%/s | 35.1 + 12.6  |
+| 3-Hit  | 44.4% + 44.4%   | 44     | 121.09%/s | 35.1 + 12.6  |              |
 | 4-Hit  | 45.35% + 45.35% | 39     | 139.54%/s | 12.6 x2      | 3 x2         |
 | 5-Hit  | 115.81%         | 65     | 106.90%/s | 68.6         | 6            |
 
@@ -80,7 +80,7 @@ import Skill from '@site/src/components/char/Skill'
 | Herald of Frost DMG \(T9%\)     | 61.2%             |
 | Particles                       | 0 \(-\)           |
 | GU                              | 1U                |
-| ICD                             | 3 hit / 2.5s      |
+| ICD                             | Standard          |
 | Snapshot                        | Snapshots         |
 | Damage Element                  | Cryo              |
 | Damage Type                     | Skill             |

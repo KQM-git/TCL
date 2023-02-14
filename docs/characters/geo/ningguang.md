@@ -61,9 +61,9 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
-* Normal Attacks apply Geo with a shared 3 hit / 2.5s ICD.
+* Normal Attacks apply Geo with shared standard ICD.
 * Ningguang's Normal Attacks can be cancelled as soon as the **Star Jades** appear by her side by jumping or dashing.
-* Charged Attacks and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.
+* Charged Attacks and Star Jades apply Geo with shared standard ICD.
 * Ningguang has two different animations when doing her Charged Attack. Her Charged Attack initiated with her right hand has higher frames.
   * This can be mitigated by holding a direction key while using Normal Attacks, releasing it when you Charged Attack, and inputting it again after casting the Charged Attack.
 * Star Jades' trajectory can be manipulated with the use of directional inputs immediately after using a Charged Attack. This can potentially make Star Jades miss their target even at point-black range.
@@ -113,18 +113,18 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute           | Burst        |
-| :------------------ | :----------- |
-| DMG per Gem \(T9%\) | 147.83%      |
-| GU                  | 1U           |
-| ICD                 | 3 hit / 2.5s |
-| Snapshot            | Snapshot     |
-| Damage Element      | Geo          |
-| Damage Type         | Burst        |
-| Energy Cost         | 40           |
-| CD                  | 12s          |
-| Poise Damage        | 30           |
-| Impulse Type        | 5            |
+| Attribute           | Burst    |
+| :------------------ | :------- |
+| DMG per Gem \(T9%\) | 147.83%  |
+| GU                  | 1U       |
+| ICD                 | Standard |
+| Snapshot            | Snapshot |
+| Damage Element      | Geo      |
+| Damage Type         | Burst    |
+| Energy Cost         | 40       |
+| CD                  | 12s      |
+| Poise Damage        | 30       |
+| Impulse Type        | 5        |
 
 </div>
 

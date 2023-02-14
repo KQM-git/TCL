@@ -34,14 +34,14 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9%      | Frames  | MV/s      | Poise Damage | Impulse Type |
-| :------- | :------------- | :------ | :-------- | :----------- | :----------- |
-| 1-Hit    | 78.85%         | 19      | 249.00%/s | 35.76        | 3            |
-| 2-Hit    | 81.15%         | 17      | 286.41%/s | 36.88        | 3            |
-| 3-Hit    | 102.68%        | 31      | 198.74%/s | 46.64        | 3            |
-| 4-Hit    | 110.4%         | 35      | 189.26%/s | 50.08        | 3            |
-| 5-Hit    | 55.96% + 59.2% | 42      | 160.69%/s | 26.2 x2      | 1 + 4        |
-| 6-Hit    | 144.57%        | 79      | 109.80%/s | 26.2         | 6            |
+| String | Talent 9%      | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 78.85%         | 19     | 249.00%/s | 35.76        | 3            |
+| 2-Hit  | 81.15%         | 17     | 286.41%/s | 36.88        | 3            |
+| 3-Hit  | 102.68%        | 31     | 198.74%/s | 46.64        | 3            |
+| 4-Hit  | 110.4%         | 35     | 189.26%/s | 50.08        | 3            |
+| 5-Hit  | 55.96% + 59.2% | 42     | 160.69%/s | 26.2 x2      | 1 + 4        |
+| 6-Hit  | 144.57%        | 79     | 109.80%/s | 26.2         | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -106,7 +106,7 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | :------------------------ | :------------ |
 | Blood Blossom DMG \(T9%\) | 108.8%        |
 | GU                        | 1U            |
-| ICD                       | 3 hit / 2.5s  |
+| ICD                       | Standard      |
 | Snapshot                  | Dynamic       |
 | Damage Element            | Pyro          |
 | Damage Type               | Skill         |

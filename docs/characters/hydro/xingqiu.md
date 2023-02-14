@@ -123,7 +123,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------- | :-------------------------------- |
 | Sword Rain DMG (T9%) | 92.26%                            |
 | GU                   | 1U                                |
-| ICD                  | 3 hit / 2.5s                      |
+| ICD                  | Standard                          |
 | Snapshot             | Dynamic                           |
 | Damage Element       | Hydro                             |
 | Damage Type          | Burst                             |

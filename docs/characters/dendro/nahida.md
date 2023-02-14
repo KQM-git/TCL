@@ -243,7 +243,7 @@ import Constellation from '@site/src/components/char/Constellation'
 | Attribute      | Karmic Oblivion |
 | :------------- | --------------- |
 | GU             | 1U              |
-| ICD            | 3 hits / 2.5s   |
+| ICD            | Standard        |
 | Damage Element | Dendro          |
 | Damage Type    | Skill           |
 | Poise Damage   | 30              |

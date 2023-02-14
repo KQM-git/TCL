@@ -35,12 +35,12 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
-| :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 63.92%    | 18     | 213.07%/s | 1U  | 7.62         | 1            |
-| 2-Hit         | 61.2%     | 23     | 159.65%/s | 1U  | 7.35         | 1            |
-| 3-Hit         | 76.16%    | 39     | 117.17%/s | 1U  | 9.15         | 1            |
-| 4-Hit         | 95.47%    | 67     | 85.5%/s   | 1U  | 11.85        | 2            |
+| String | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
+| 1-Hit  | 63.92%    | 18     | 213.07%/s | 1U  | 7.62         | 1            |
+| 2-Hit  | 61.2%     | 23     | 159.65%/s | 1U  | 7.35         | 1            |
+| 3-Hit  | 76.16%    | 39     | 117.17%/s | 1U  | 9.15         | 1            |
+| 4-Hit  | 95.47%    | 67     | 85.5%/s   | 1U  | 11.85        | 2            |
 
 </div>
 <div class='talent-columns'>
@@ -69,7 +69,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Mona's 3rd Normal Attack has 2 different animations. She will either jump backwards or forward depending on the position of her target.
-* 3 hits / 2.5s ICD
+* Standard ICD
 * Charged Attack frame counts are done using Timed M1 Spams
 * N2C and N3C frame counts are done using the same method without Jump Cancels.
 * 0.5s ICD
@@ -81,20 +81,20 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute         | DoT           | Explosion   |
-| :---------------- | :------------ | :---------- |
-| Skill DMG \(T9%\) | 54.4%         | 225.76%     |
-| Tick Rate         | 1/s           | -           |
-| Particles         | -             | 3~4 \(2:1\) |
-| GU                | 1U            | 1U          |
-| ICD               | 3 hits / 2.5s | None        |
-| Snapshot          | Snapshot      | Snapshot    |
-| Damage Element    | Hydro         | Hydro       |
-| Damage Type       | Skill         | Skill       |
-| Duration          | 5s            | -           |
-| CD                | 12s           | -           |
-| Poise Damage      | 40            | 150         |
-| Impulse Type      | 2             | 3           |
+| Attribute         | DoT      | Explosion   |
+| :---------------- | :------- | :---------- |
+| Skill DMG \(T9%\) | 54.4%    | 225.76%     |
+| Tick Rate         | 1/s      | -           |
+| Particles         | -        | 3~4 \(2:1\) |
+| GU                | 1U       | 1U          |
+| ICD               | Standard | None        |
+| Snapshot          | Snapshot | Snapshot    |
+| Damage Element    | Hydro    | Hydro       |
+| Damage Type       | Skill    | Skill       |
+| Duration          | 5s       | -           |
+| CD                | 12s      | -           |
+| Poise Damage      | 40       | 150         |
+| Impulse Type      | 2        | 3           |
 
 </div>
 
@@ -112,14 +112,14 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='alt'/>
 
-| Attribute               | Values        |
-| :---------------------- | :------------ |
-| Activation Stamina Cost | 10            |
-| Stamina Drain           | 15/s          |
-| Hydro Application GU    | 1U            |
-| ICD                     | 3 hits / 2.5s |
-| Poise Damage            | 0             |
-| Impulse Type            | 2             |
+| Attribute               | Values   |
+| :---------------------- | :------- |
+| Activation Stamina Cost | 10       |
+| Stamina Drain           | 15/s     |
+| Hydro Application GU    | 1U       |
+| ICD                     | Standard |
+| Poise Damage            | 0        |
+| Impulse Type            | 2        |
 
 </div>
 
@@ -142,7 +142,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------------------------------- | :-------------- |
 | Skill DMG \(T9%\) | 752.08%                                            | 58% \(scaling\) |
 | GU (Cast)         | 1U                                                 | 2U              |
-| ICD               | 3 hits / 2.5s\*                                    | 3 hits / 2.5s\* |
+| ICD               | Standard\*                                         | Standard\*      |
 | Snapshot          | Dynamic                                            | Dynamic         |
 | Damage Element    | Hydro                                              | Hydro           |
 | Damage Type       | Burst                                              | Burst           |
@@ -157,7 +157,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
-* Bubble and Omen ICD is shared.
+* Bubble and Omen ICDs are shared.
 * **Omen** DMG Bonus is additive to the damage calculation and is classified as **DamageBonus**
   * See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#base-damage)
 * **Illusory Bubble**'s duration can be extended under specific circumstances:

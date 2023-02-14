@@ -43,10 +43,10 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type      | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :-------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spin      | 114.91%   | ?      | ?         | 60           | 3            |
-| Final Hit | 207.77%   | ?      | ?         | 120          | 6            |
+| Type      | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :-------- | :-------- | :----- | :--- | :----------- | :----------- |
+| Spin      | 114.91%   | ?      | ?    | 60           | 3            |
+| Final Hit | 207.77%   | ?      | ?    | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -111,7 +111,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------- | :----------------------------- |
 | Skill DMG \(T9%\) | 579.36%  | 68% x 7                        |
 | GU                | -        | 1U                             |
-| ICD               | -        | 3 hit / 2.5s                   |
+| ICD               | -        | Standard                       |
 | Damage Type       | Burst    | Burst                          |
 | Damage Element    | Physical | Pyro                           |
 | Snapshot          | Dynamic  | Dynamic                        |

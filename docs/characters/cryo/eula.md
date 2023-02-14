@@ -34,13 +34,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String        | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------ | :--------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit         | 164.86%    | 44     | 224.81%/s | 101.2        | 3            |
-| 2-Hit         | 171.87%    | 48     | 214.84%/s | 105.8        | 3            |
-| 3-Hit         | 104.35% x2 | 65     | 192.65%/s | 65.55 x2     | 3            |
-| 4-Hit         | 206.95%    | 54     | 229.94%/s | 129.95       | 3            |
-| 5-Hit         | 131.97% x2 | 116    | 136.52%/s | 69.21 x2     | 6            |
+| String | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :--------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 164.86%    | 44     | 224.81%/s | 101.2        | 3            |
+| 2-Hit  | 171.87%    | 48     | 214.84%/s | 105.8        | 3            |
+| 3-Hit  | 104.35% x2 | 65     | 192.65%/s | 65.55 x2     | 3            |
+| 4-Hit  | 206.95%    | 54     | 229.94%/s | 129.95       | 3            |
+| 5-Hit  | 131.97% x2 | 116    | 136.52%/s | 69.21 x2     | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -81,7 +81,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 248.88%     | 417.52%     | 163.2%         |
 | Particles         | 1~2 \(1:1\) | 2~3 \(1:1\) | -              |
 | GU                | 1U          | 1U          | 1U             |
-| ICD               | None        | None        | 3 hits / 2.5s  |
+| ICD               | None        | None        | Standard       |
 | Snapshot          | -           | -           | -              |
 | Damage Element    | Cryo        | Cryo        | Cryo           |
 | Damage Type       | Skill       | Skill       | Skill          |

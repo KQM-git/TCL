@@ -62,7 +62,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
-* 3 hits / 2.5s ICD
+* Standard ICD
 
 </TabItem>
 

@@ -96,7 +96,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Burst         |
 | :------------- | :------------ |
 | GU             | 1U            |
-| ICD            | 3 hit / 2.5s  |
+| ICD            | Standard      |
 | Snapshot       | Dynamic       |
 | Damage Element | Electro       |
 | Damage Type    | Burst         |

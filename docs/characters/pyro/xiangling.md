@@ -101,19 +101,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute         | 1-Hit Swing  | 2-Hit Swing  | 3-Hit Swing  | Pyronado |
-| :---------------- | :----------- | :----------- | :----------- | :------- |
-| Skill DMG \(T9%\) | 122.4%       | 149.6%       | 186.32%      | 190.4%   |
-| GU                | 1U           | 1U           | 1U           | 1U       |
-| ICD               | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s | None     |
-| Snapshot          | Dynamic      | Dynamic      | Snapshot     | Snapshot |
-| Damage Element    | Pyro         | Pyro         | Pyro         | Pyro     |
-| Damage Type       | Burst        | Burst        | Burst        | Burst    |
-| Energy Cost       | 80           | -            | -            | -        |
-| Duration          | 10s          | -            | -            | -        |
-| CD                | 20s          | -            | -            | -        |
-| Poise Damage      | 30           | 30           | 30           | 30       |
-| Impulse Type      | 3            | 3            | 3            | 3        |
+| Attribute         | 1-Hit Swing | 2-Hit Swing | 3-Hit Swing | Pyronado |
+| :---------------- | :---------- | :---------- | :---------- | :------- |
+| Skill DMG \(T9%\) | 122.4%      | 149.6%      | 186.32%     | 190.4%   |
+| GU                | 1U          | 1U          | 1U          | 1U       |
+| ICD               | Standard    | Standard    | Standard    | None     |
+| Snapshot          | Dynamic     | Dynamic     | Snapshot    | Snapshot |
+| Damage Element    | Pyro        | Pyro        | Pyro        | Pyro     |
+| Damage Type       | Burst       | Burst       | Burst       | Burst    |
+| Energy Cost       | 80          | -           | -           | -        |
+| Duration          | 10s         | -           | -           | -        |
+| CD                | 20s         | -           | -           | -        |
+| Poise Damage      | 30          | 30          | 30          | 30       |
+| Impulse Type      | 3           | 3           | 3           | 3        |
 
 </div>
 

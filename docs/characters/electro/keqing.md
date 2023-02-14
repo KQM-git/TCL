@@ -90,7 +90,7 @@ import Skill from '@site/src/components/char/Skill'
 | Particles                       | 2~3 \(1:1\)                                     | -                 |
 | GU                              | Lightning Stiletto: 1U<br />Slashing: 2U        | 2U                |
 | ICD                             | None                                            | -                 |
-| ICD Secondary                   | 3 hit / 2.5s                                    | -                 |
+| ICD Secondary                   | Standard                                        | -                 |
 | Snapshot                        | Snapshot                                        | -                 |
 | Damage Element                  | Electro                                         | -                 |
 | Damage Type                     | Skill                                           | -                 |
@@ -124,7 +124,7 @@ import Skill from '@site/src/components/char/Skill'
 | Consecutive Slash DMG \(T9%\) | 40.8% x 8                                                                                    |
 | Last Attack DMG \(T9%\)       | 320.96%                                                                                      |
 | GU                            | 1U                                                                                           |
-| ICD                           | 3 hit / 2.5s                                                                                 |
+| ICD                           | Standard                                                                                     |
 | Snapshot                      | Dynamic                                                                                      |
 | Damage Element                | Electro                                                                                      |
 | Damage Type                   | Burst                                                                                        |

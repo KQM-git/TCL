@@ -32,11 +32,11 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit    | 64.42%    | 16     | 252.83%/s | 7.436        | 1            |
-| 2-Hit    | 65.48%    | 36     | 109.13%/s | 7.222        | 1            |
-| 3-Hit    | 96.71%    | 79     | 73.45%/s  | 10.667       | 1            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 64.42%    | 16     | 252.83%/s | 7.436        | 1            |
+| 2-Hit  | 65.48%    | 36     | 109.13%/s | 7.222        | 1            |
+| 3-Hit  | 96.71%    | 79     | 73.45%/s  | 10.667       | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -80,7 +80,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG Level 4 \(T9%\) | 201.45%        |
 | Particles                 | 1 \(-\)        |
 | GU                        | 1U             |
-| ICD                       | 3 hit / 2.5s   |
+| ICD                       | Standard       |
 | Snapshot                  | Dynamic        |
 | Damage Element            | Electro        |
 | Damage Type               | Skill          |

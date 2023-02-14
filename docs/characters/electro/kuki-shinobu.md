@@ -28,12 +28,12 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9% | Frames | MV/s      |
-| :------- | :-------- | :----- | :-------- |
-| 1-Hit    | 89.59%    | 25     | 379.2%/s  |
-| 2-Hit    | 81.84%    | 23     | 213.5%/s  |
-| 3-Hit    | 109.02%   | 50     | 130.82%/s |
-| 4-Hit    | 139.83%   | 67     | 125.22%/s |
+| String | Talent 9% | Frames | MV/s      |
+| :----- | :-------- | :----- | :-------- |
+| 1-Hit  | 89.59%    | 25     | 379.2%/s  |
+| 2-Hit  | 81.84%    | 23     | 213.5%/s  |
+| 3-Hit  | 109.02%   | 50     | 130.82%/s |
+| 4-Hit  | 139.83%   | 67     | 125.22%/s |
 
 </div>
 <div class='talent-columns'>
@@ -75,7 +75,7 @@ import Skill from '@site/src/components/char/Skill'
 | Activation Cost                              | 30% Current HP    |
 | Particles                                    | 0~1 \(55:45\)     |
 | GU                                           | 1U                |
-| ICD                                          | 3 hit / 2.5s      |
+| ICD                                          | Standard          |
 | Snapshot                                     | Dynamic           |
 | Damage Element                               | Electro           |
 | Damage Type                                  | Skill             |
@@ -102,7 +102,7 @@ import Skill from '@site/src/components/char/Skill'
 | Single Instance DMG \(T9%\) | 6.13% Max HP          |
 | Total DMG \(T9%\)           | 42.9% / 73.54% Max HP |
 | GU                          | 1U                    |
-| ICD                         | 3 hit / 2.5s          |
+| ICD                         | Standard              |
 | Snapshot                    | Snapshots             |
 | Damage Element              | Electro               |
 | Damage Type                 | Burst                 |

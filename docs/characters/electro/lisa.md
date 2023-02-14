@@ -33,12 +33,12 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
-| :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 67.32%    | 30     | 134.64%/s | 1U  | 6.75         | 1            |
-| 2-Hit         | 61.06%    | 20     | 183.18%/s | 1U  | 6            | 1            |
-| 3-Hit         | 72.76%    | 34     | 128.40%/s | 1U  | 7.35         | 1            |
-| 4-Hit         | 93.43%    | 57     | 98.35%/s  | 1U  | 8.7          | 1            |
+| String | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
+| 1-Hit  | 67.32%    | 30     | 134.64%/s | 1U  | 6.75         | 1            |
+| 2-Hit  | 61.06%    | 20     | 183.18%/s | 1U  | 6            | 1            |
+| 3-Hit  | 72.76%    | 34     | 128.40%/s | 1U  | 7.35         | 1            |
+| 4-Hit  | 93.43%    | 57     | 98.35%/s  | 1U  | 8.7          | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -64,7 +64,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 * Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
-* 3 hits / 2.5s ICD, shared with tap Elemental Skill.
+* Standard ICD, shared with tap Elemental Skill.
 
 </TabItem>
 
@@ -73,18 +73,18 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute         | Tap                                    | Hold \(0 / 1 / 2 / 3 stacks\)                |
-| :---------------- | :------------------------------------- | :------------------------------------------- |
-| Skill DMG \(T9%\) | 136%                                   | 544% / 625.6% / 720.8% / 828.24%             |
-| MV/s \(T9%\)      | 388.57%/s                              | 281.38%/s / 323.59%/s / 372.83%/s / 428.4%/s |
-| GU                | 1U                                     | 2U                                           |
-| ICD               | 3 hits / 2.5s <br/> \(Shared with NA\) | None                                         |
-| Particles         | -                                      | 5 \(-\)                                      |
-| Damage Element    | Electro                                | Electro                                      |
-| Damage Type       | Skill                                  | Skill                                        |
-| CD                | 1s                                     | 16s                                          |
-| Poise Damage      | 18                                     | 150 / 195 / 240 / 300                        |
-| Impulse Type      | 2                                      | 2 / 2 / 2 / 2                                |
+| Attribute         | Tap                               | Hold \(0 / 1 / 2 / 3 stacks\)                |
+| :---------------- | :-------------------------------- | :------------------------------------------- |
+| Skill DMG \(T9%\) | 136%                              | 544% / 625.6% / 720.8% / 828.24%             |
+| MV/s \(T9%\)      | 388.57%/s                         | 281.38%/s / 323.59%/s / 372.83%/s / 428.4%/s |
+| GU                | 1U                                | 2U                                           |
+| ICD               | Standard <br/> \(Shared with NA\) | None                                         |
+| Particles         | -                                 | 5 \(-\)                                      |
+| Damage Element    | Electro                           | Electro                                      |
+| Damage Type       | Skill                             | Skill                                        |
+| CD                | 1s                                | 16s                                          |
+| Poise Damage      | 18                                | 150 / 195 / 240 / 300                        |
+| Impulse Type      | 2                                 | 2 / 2 / 2 / 2                                |
 
 </div>
 
@@ -117,7 +117,7 @@ import Skill from '@site/src/components/char/Skill'
 | Tick Rate             | 0.5s                         |
 | MV/s                  | 102.4%/s                     |
 | GU                    | 1U                           |
-| ICD                   | 3 hits / 2.5s                |
+| ICD                   | Standard                     |
 | Damage Element        | Electro                      |
 | Damage Type           | Burst                        |
 | Energy Cost           | 80                           |

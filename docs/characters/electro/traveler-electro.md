@@ -109,18 +109,18 @@ import LumineCA from '../_common/lumine_ca.md'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute         | Skill        |
-| :---------------- | :----------- |
-| Skill DMG \(T9%\) | 133.73% x 3  |
-| Particles         | 1            |
-| GU                | 1U           |
-| ICD               | 3 hit / 2.5s |
-| Snapshot          | Snapshot     |
-| Damage Element    | Electro      |
-| Damage Type       | Skill        |
-| CD                | 13.5s        |
-| Poise Damage      | 100          |
-| Impulse Type      | 3            |
+| Attribute         | Skill       |
+| :---------------- | :---------- |
+| Skill DMG \(T9%\) | 133.73% x 3 |
+| Particles         | 1           |
+| GU                | 1U          |
+| ICD               | Standard    |
+| Snapshot          | Snapshot    |
+| Damage Element    | Electro     |
+| Damage Type       | Skill       |
+| CD                | 13.5s       |
+| Poise Damage      | 100         |
+| Impulse Type      | 3           |
 
 </div>
 
@@ -152,7 +152,7 @@ import LumineCA from '../_common/lumine_ca.md'
 | Falling Thunder DMG \(T9%\) | 55.76%                              |
 | Energy Regeneration         | 1                                   |
 | GU                          | 1U                                  |
-| ICD                         | 3 hit / 2.5s                        |
+| ICD                         | Standard                            |
 | Snapshot                    | Snapshot                            |
 | Damage Element              | Electro                             |
 | Damage Type                 | Burst                               |

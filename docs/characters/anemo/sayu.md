@@ -67,24 +67,24 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute                                    | Tap          | Hold                                    |
-| :------------------------------------------- | :----------- | :-------------------------------------- |
-| Fuufuu Windwheel DMG \(T9%\)                 | 61.2%        | 61.2% x 19                              |
-| Fuufuu Windwheel Absorption DMG \(T9%\)      | ~            | 28.56% x 19                             |
-| Fuufuu Whirlwind Kick DMG \(T9%\)            | 269.28%      | 369.92%                                 |
-| Fuufuu Whirlwind Kick Absorption DMG \(T9%\) | ~            | 129.47%                                 |
-| Particles                                    | 2            | 2 + 1~4                                 |
-| GU                                           | 1U           | -                                       |
-| GU Absorption                                | -            | 1U against enemies<br />2U against water  |
-| ICD                                          | 3 hit / 2.5s | 3 hit / 2.5s                            |
-| Snapshot                                     | Snapshot     |                                         |
-| Damage Element                               | Anemo        | -                                       |
-| Damage Absorption                            | -            | Absorbed Element                        |
-| Damage Type                                  | Skill        | Skill                                   |
-| Max Duration                                 | -            | 10s                                     |
-| CD                                           | 6s           | 6s~11s                                  |
-| Poise Damage                                 | 120          | Windwheel: 25 <br/> Whirlwind Kick: 200 |
-| Impulse Type                                 | 3            | Windwheel: 2 <br/> Whirlwind Kick: 3    |
+| Attribute                                    | Tap      | Hold                                     |
+| :------------------------------------------- | :------- | :--------------------------------------- |
+| Fuufuu Windwheel DMG \(T9%\)                 | 61.2%    | 61.2% x 19                               |
+| Fuufuu Windwheel Absorption DMG \(T9%\)      | ~        | 28.56% x 19                              |
+| Fuufuu Whirlwind Kick DMG \(T9%\)            | 269.28%  | 369.92%                                  |
+| Fuufuu Whirlwind Kick Absorption DMG \(T9%\) | ~        | 129.47%                                  |
+| Particles                                    | 2        | 2 + 1~4                                  |
+| GU                                           | 1U       | -                                        |
+| GU Absorption                                | -        | 1U against enemies<br />2U against water |
+| ICD                                          | Standard | Standard                                 |
+| Snapshot                                     | Snapshot |                                          |
+| Damage Element                               | Anemo    | -                                        |
+| Damage Absorption                            | -        | Absorbed Element                         |
+| Damage Type                                  | Skill    | Skill                                    |
+| Max Duration                                 | -        | 10s                                      |
+| CD                                           | 6s       | 6s~11s                                   |
+| Poise Damage                                 | 120      | Windwheel: 25 <br/> Whirlwind Kick: 200  |
+| Impulse Type                                 | 3        | Windwheel: 2 <br/> Whirlwind Kick: 3     |
 
 </div>
 
@@ -115,7 +115,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill Activation DMG \(T9%\)     | 198.56%       |
 | Skill Activation Healing \(T9%\) | 156.67% +1174 |
 | GU                               | 1U            |
-| ICD                              | 3 hit / 2.5s  |
+| ICD                              | Standard      |
 | Snapshot                         | Snapshot      |
 | Damage Element                   | Anemo         |
 | Damage Type                      | Burst         |
@@ -131,7 +131,7 @@ import Skill from '@site/src/components/char/Skill'
 | Muji-Muji Daruma DMG \(T9%\)     | 88.4% x 0~7                |
 | Muji-Muji Daruma Healing \(T9%\) | (135.78% ATK + 1017) x 0~7 |
 | GU                               | 1U                         |
-| ICD                              | 3 hit / 2.5s               |
+| ICD                              | Standard                   |
 | Snapshot                         | Snapshot                   |
 | Damage Element                   | Anemo                      |
 | Damage Type                      | Elemental Burst            |

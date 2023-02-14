@@ -136,7 +136,7 @@ import LumineCA from '../_common/lumine_ca.md'
 | Tick Rate      | 1.5s                 | 1.5s                 | 0.9s                 | -                                 |
 | Total Ticks    | C0: 9<br />C2: 11    | C0: 9<br />C2: 11    | C0: 15<br />C2: 17   | -                                 |
 | GU             | 1U                   | 1U                   | 1U                   | 2U                                |
-| ICD            | 3 hit / 2.5s         | 3 hit / 2.5s         | 3 hit / 2.5s         | None                              |
+| ICD            | Standard             | Standard             | Standard             | None                              |
 | Snapshot       | Snapshot             | Snapshot             | Snapshot             | Snapshot                          |
 | Damage Element | Dendro               | Dendro               | Dendro               | Dendro                            |
 | Damage Type    | Burst                | Burst                | Burst                | Burst                             |

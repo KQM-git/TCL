@@ -34,14 +34,14 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit    | 75.84%    | 26     | 175.02%/s | 14.4         | 1            |
-| 2-Hit    | 85%       | 27     | 188.89%/s | 16.14        | 1            |
-| 3-Hit    | 101.75%   | 33     | 185.00%/s | 19.32        | 1            |
-| 4-Hit    | 104.75%   | 32     | 196.41%/s | 19.89        | 1            |
-| 5-Hit    | 111.86%   | 33     | 203.38%/s | 21.24        | 1            |
-| 6-Hit    | 133.67%   | 66     | 121.52%/s | 25.38        | 1            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 75.84%    | 26     | 175.02%/s | 14.4         | 1            |
+| 2-Hit  | 85%       | 27     | 188.89%/s | 16.14        | 1            |
+| 3-Hit  | 101.75%   | 33     | 185.00%/s | 19.32        | 1            |
+| 4-Hit  | 104.75%   | 32     | 196.41%/s | 19.89        | 1            |
+| 5-Hit  | 111.86%   | 33     | 203.38%/s | 21.24        | 1            |
+| 6-Hit  | 133.67%   | 66     | 121.52%/s | 25.38        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -211,7 +211,7 @@ A chart of Tartgalia's different Riptide effects
 | Skill DMG \(T6%\) | 17.63% \* 3         | 86.5%             | 86.8%                 | 168%                  |
 | Particles         | --                  | 1 per proc        | --                    | --                    |
 | GU                | 1U                  | 1U                | 2U                    | 2U                    |
-| ICD               | 3 Hit / 2.5s        | None              | None                  | None                  |
+| ICD               | Standard            | None              | None                  | None                  |
 | Snapshot          | --                  | Dynamic           | --                    | --                    |
 | Damage Element    | Hydro               | Hydro             | Hydro                 | Hydro                 |
 | Damage Type       | Normal Attack       | Skill             | Normal Attack         | Burst                 |

@@ -34,9 +34,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9%       | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 126.24%         |   26   | 291.32%/s | 13.92        | 2            |
-| 2-Hit  | 119.45%         |   18   | 398.17%/s | 12.14        | 2            |
-| 3-Hit  | 87.53% + 87.53% |   64   | 164.12%/s | 9.05 ×2      | 2 ×2         |
+| 1-Hit  | 126.24%         | 26     | 291.32%/s | 13.92        | 2            |
+| 2-Hit  | 119.45%         | 18     | 398.17%/s | 12.14        | 2            |
+| 3-Hit  | 87.53% + 87.53% | 64     | 164.12%/s | 9.05 ×2      | 2 ×2         |
 
 </div>
 <div class='talent-columns'>
@@ -44,7 +44,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 224.54%   |   51   | 279.69%/s | 100          | Air, 0, 400  |
+| CA     | 224.54%   | 51     | 279.69%/s | 100          | Air, 0, 400  |
 
 </div>
 <div class='talent-columns'>
@@ -72,28 +72,28 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute                 | Skill   | Kuugo: Fushoudan              | Kuugo: Toufukai            |
-| :------------------------ | :------ | :---------------------------- | :------------------------- |
-| DMG \(T9%\)               | 161.84% | 151.15% Normal Attack DMG     | 140.92% Charged Attack DMG |
-| Particles                 | -       | 1 (-) per hit (2s ICD)        | 1 (-) per hit (2s ICD)     |
-| GU                        | 1U      | 1U                            | 1U                         |
-| ICD                       | None    | 3 hit / 2.5s                  | None                       |
-| Snapshot                  |         | Dynamic                       | Dynamic                    |
-| Damage Element            | Anemo   | Anemo                         | Anemo                      |
-| Damage Type               | Skill   | Normal Attack                 | Charged Attack             |
-| Initial Kuugoryoku Points | 100     | -                             | -                          |
-| CD                        | 6s      | -                             | -                          |
-| Poise Damage              | 100     | 13.9164 / 12.1365 / 9.05 ×2   | 100                        |
-| Impulse Type              | 3       | 3 / 3 / 3 ×2                  | Air, 0, 600                |
+| Attribute                 | Skill   | Kuugo: Fushoudan            | Kuugo: Toufukai            |
+| :------------------------ | :------ | :-------------------------- | :------------------------- |
+| DMG \(T9%\)               | 161.84% | 151.15% Normal Attack DMG   | 140.92% Charged Attack DMG |
+| Particles                 | -       | 1 (-) per hit (2s ICD)      | 1 (-) per hit (2s ICD)     |
+| GU                        | 1U      | 1U                          | 1U                         |
+| ICD                       | None    | Standard                    | None                       |
+| Snapshot                  |         | Dynamic                     | Dynamic                    |
+| Damage Element            | Anemo   | Anemo                       | Anemo                      |
+| Damage Type               | Skill   | Normal Attack               | Charged Attack             |
+| Initial Kuugoryoku Points | 100     | -                           | -                          |
+| CD                        | 6s      | -                           | -                          |
+| Poise Damage              | 100     | 13.9164 / 12.1365 / 9.05 ×2 | 100                        |
+| Impulse Type              | 3       | 3 / 3 / 3 ×2                | Air, 0, 600                |
 
 </div>
 
 | String                             | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :--------------------------------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Kuugo: Fushoudan 1-Hit DMG         |  126.24%  |   30   | 252.48%/s |   13.9164    |       3      |
-| Kuugo: Fushoudan 2-Hit DMG         |  119.45%  |   17   | 421.59%/s |   12.1365    |       3      |
-| Kuugo: Fushoudan 3-Hit DMG         |  175.06%  |   54   | 194.51%/s |   9.05 x2    |     3 x2     |
-| Kuugo: Toufukai Charged Attack DMG |  237.74%  |   54   | 264.16%/s |     100      |  Air, 0, 600 |
+| Kuugo: Fushoudan 1-Hit DMG         | 126.24%   | 30     | 252.48%/s | 13.9164      | 3            |
+| Kuugo: Fushoudan 2-Hit DMG         | 119.45%   | 17     | 421.59%/s | 12.1365      | 3            |
+| Kuugo: Fushoudan 3-Hit DMG         | 175.06%   | 54     | 194.51%/s | 9.05 x2      | 3 x2         |
+| Kuugo: Toufukai Charged Attack DMG | 237.74%   | 54     | 264.16%/s | 100          | Air, 0, 600  |
 
 **Notes**
 * Interruption Resistance is highly increased while in Elemental Skill activation.
@@ -123,7 +123,7 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Burst DMG \(T9%\) | 250.24% ×5  |
 | GU                | 1U          |
-| ICD               | Default     |
+| ICD               | Standard    |
 | Snapshot          | Snapshot    |
 | Damage Element    | Anemo       |
 | Damage Type       | Burst       |

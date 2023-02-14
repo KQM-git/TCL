@@ -102,21 +102,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Effect                      | Burst        |
-| :-------------------------- | :----------- |
-| Skill DMG \(T9%\)           | 310.08%      |
-| Charged Attack DMG Bonus    | 51.8%        |
-| Scarlet Seal Grant Interval | 1s           |
-| GU                          | 2U           |
-| ICD                         | 3 hit / 2.5s |
-| Snapshot                    | Snapshot     |
-| Damage Element              | Pyro         |
-| Damage Type                 | Burst        |
-| Energy Cost                 | 80           |
-| Duration                    | 15s          |
-| CD                          | 20s          |
-| Poise Damage                | 200          |
-| Impulse Type                | 3            |
+| Effect                      | Burst    |
+| :-------------------------- | :------- |
+| Skill DMG \(T9%\)           | 310.08%  |
+| Charged Attack DMG Bonus    | 51.8%    |
+| Scarlet Seal Grant Interval | 1s       |
+| GU                          | 2U       |
+| ICD                         | Standard |
+| Snapshot                    | Snapshot |
+| Damage Element              | Pyro     |
+| Damage Type                 | Burst    |
+| Energy Cost                 | 80       |
+| Duration                    | 15s      |
+| CD                          | 20s      |
+| Poise Damage                | 200      |
+| Impulse Type                | 3        |
 
 </div>
 </TabItem>

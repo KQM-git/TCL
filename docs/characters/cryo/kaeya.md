@@ -46,7 +46,7 @@ import Skill from '@site/src/components/char/Skill'
 <div>
 
 | String         | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------- | :--------------- | :----- | :-------- |:------------ | :----------- |
+| :------------- | :--------------- | :----- | :-------- | :----------- | :----------- |
 | Charged Attack | 101.12% + 134.3% | 55     | 256.82%/s | 45 x2        | 2 + 6        |
 
 </div>
@@ -100,21 +100,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute           | Burst        |
-| :------------------ | :----------- |
-| Skill DMG \(T9%\)   | 131.92%      |
-| GU                  | 1U           |
-| ICD                 | 3 hit / 2.5s |
-| Snapshot            | Snapshot     |
-| Damage Element      | Cryo         |
-| Damage Type         | Burst        |
-| Energy Cost         | 60           |
-| Duration            | 8s           |
-| Cooldown            | 15s          |
-| Cast Poise Damage   | 400          |
-| Cast Impulse Type   | 4            |
-| Icicle Poise Damage | 25           |
-| Icicle Impulse Type | 2            |
+| Attribute           | Burst    |
+| :------------------ | :------- |
+| Skill DMG \(T9%\)   | 131.92%  |
+| GU                  | 1U       |
+| ICD                 | Standard |
+| Snapshot            | Snapshot |
+| Damage Element      | Cryo     |
+| Damage Type         | Burst    |
+| Energy Cost         | 60       |
+| Duration            | 8s       |
+| Cooldown            | 15s      |
+| Cast Poise Damage   | 400      |
+| Cast Impulse Type   | 4        |
+| Icicle Poise Damage | 25       |
+| Icicle Impulse Type | 2        |
 
 </div>
 

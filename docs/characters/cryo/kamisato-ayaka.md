@@ -34,7 +34,7 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String    | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type |
-| :-------- | :------------------ | :----- |:--------- | :----------- | :----------- |
+| :-------- | :------------------ | :----- | :-------- | :----------- | :----------- |
 | 1-Hit DMG | 84.01%              | 15     | 336.04%/s | 42.5         | 3            |
 | 2-Hit DMG | 89.44%              | 25     | 214.66%/s | 44.1         | 3            |
 | 3-Hit DMG | 115.05%             | 39     | 177.00%/s | 55.2         | 3            |
@@ -46,7 +46,7 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String             | Talent 9%                      | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----------------- | :----------------------------- | :----- |:--------- | :----------- | :----------- |
+| :----------------- | :----------------------------- | :----- | :-------- | :----------- | :----------- |
 | Charged Attack DMG | 101.28% ×3 (303.84%)           | 71     | 256.77%/s | 40 x3        | 2 x2 + 3     |
 | N1C                | 84.01% + 101.28% ×3 (387.85%)  | 99     | 235.06%/s | -            | -            |
 | N2C                | 173.45% + 101.28% ×3 (477.29%) | 112    | 255.69%/s | -            | -            |
@@ -132,7 +132,7 @@ import Skill from '@site/src/components/char/Skill'
 | Cutting DMG \(T9%\)  | 190.91% \* 19 |
 | Bloom DMG \(T9%\)    | 286.36%       |
 | GU                   | 1U            |
-| ICD                  | 3 hits / 2.5s |
+| ICD                  | Standard      |
 | Snapshot             | Snapshot      |
 | Damage Element       | Cryo          |
 | Damage Type          | Burst         |
