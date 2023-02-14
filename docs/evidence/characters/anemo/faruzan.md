@@ -31,6 +31,30 @@ search: false
 
 ## Ascension Mechanics
 
+### A4: Lost Wisdom of the Seven Caverns
+
+#### Faruzan A4 is FlatDamage
+
+**By:** jamberry\#7142  
+**Added:** <Version date="2023-02-13" />  
+**Last tested:** <VersionHl date="2023-02-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/faruzan-a4-flatdamage)
+
+**Finding:**  
+Faruzan's A4 operates as what is currently named FlatDamage in the KQM TCL damage formula.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/jRovofgcGJc)  
+Xiao E expected damage without Faruzan A4 = 4.3 * 1205 * (1 + .466 + .288) * (1 + 1.223) * (1.1) * (100 + 90)/(100 + 90 + 100 + 85) = 11260  
+Faruzan A4 = 639 * .32 = 204  
+Xiao E expected damage with Faruzan A4 if FlatDamage = (4.3 * 1205 + 204) * (1 + .466 + .288) * (1 + 1.223) * (1.1) * (100 + 90)/(100 + 90 + 100 + 85) = 11703  
+Xiao E expected damage with Faruzan A4 if DMG Bonus = (4.3 * 1205) * (1 + .466 + .288 + 2.04) * (1 + 1.223) * (1.1) * (100 + 90)/(100 + 90 + 100 + 85) = 24356  
+Actual damage = 11694  
+Actual damage closest to FlatDamage, variance likely due to rounding error.  
+
+**Significance:**  
+TCL completion.
+
 ## Constellation Mechanics
 ### C6: The Wondrous Path of Truth
 * C6 Q can proc Pressurized Collapse. Even Pressurized Collapse can proc additional Pressurized Collapses. - [The CEO of GEO#7227](https://www.youtube.com/watch?v=9TqYhBOJvzw&feature=youtu.be)
