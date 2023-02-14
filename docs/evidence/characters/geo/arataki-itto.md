@@ -58,6 +58,29 @@ The exception to this is Itto’s N1, which allows you to hold LMB during its hi
 Greater and more quantitative understanding of Itto’s CA buffers, as well as potentially opening up an easier way to do certain combos with the N1 exception.  
 The most consistent way to buffer Itto’s combos is to click once during or a bit after hitlag for each NA, then hold click as soon as the final NA animation begins. Starting to hold click at least 14 frames before the earliest possible CA (which is 4f/6f after hitlag for N2/N3) will result in a frame perfect CA.
 
+### Itto NA Combo Non-Reset Mechanics
+
+**By:** Mr. Pillow\#0065, tris\#4896  
+**Added:** <Version date="2023-02-14" />  
+**Last tested:** <VersionHl date="2023-02-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/itto-na-combo-non-reset-mechanics)
+
+**Theory:**  
+Itto NA combo non-reset mechanics
+Itto has the following effect: "Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill". 
+
+The basic rule about this effect is:  
+¤ Itto can continue his Normal Attack combo when it's interrupted by sprinting or using E, but by no other actions. This is to say, e.g. `NA1 E/Dash NA2` is possible, but e.g. `NA1 Walk/Jump/CA NA2` is impossible.  
+
+**Evidence:**    
+Our findings in this video [YouTube](https://youtu.be/oa0njfapZeE) further explain this mechanic:  
+¤ The combo non-reset time after using an Elemental Skill is very long, and seems to last the entire animation duration, and end after the animation ends.  
+¤ Multiple Elemental Skills can be chained and Itto will retain the combo non-reset. We've tested this with three Ushis, `NA1 3E NA2`, but there likely isn't an upper limit.  
+¤ When Dash is used for the combo non-reset effect, it seems that only a single Dash can be involved, i.e. `NA1 Dash NA2` is the only form for which the combo won't reset. This means that chained dashes, or different combinations of Dashes and Elemental Skills are impossible, e.g. `NA1 D D NA2`, `NA1 D E NA2`, and `NA1 E D NA2` are all impossible.  
+  
+**Significance:**  
+Better understanding of Itto's Normal Attack mechanics, minorly useful for combo investigations.
+
 ## Skill Mechanics
 
 * **Particles**: Itto Particle Generation is 3-4 with around a production ratio of 1:1. 100 attempts; 3 Particles = 53; 4 Particles = 47 - [CC\#5588](https://youtu.be/eaSw1TExI60)
