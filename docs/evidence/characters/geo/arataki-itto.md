@@ -65,18 +65,16 @@ The most consistent way to buffer Itto’s combos is to click once during or a b
 **Last tested:** <VersionHl date="2023-02-04" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/itto-na-combo-non-reset-mechanics)
 
-**Theory:**  
-Itto NA combo non-reset mechanics
-Itto has the following effect: "Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill". 
-
-The basic rule about this effect is:  
-¤ Itto can continue his Normal Attack combo when it's interrupted by sprinting or using E, but by no other actions. This is to say, e.g. `NA1 E/Dash NA2` is possible, but e.g. `NA1 Walk/Jump/CA NA2` is impossible.  
-
-**Evidence:**    
-Our findings in this video [YouTube](https://youtu.be/oa0njfapZeE) further explain this mechanic:  
-¤ The combo non-reset time after using an Elemental Skill is very long, and seems to last the entire animation duration, and end after the animation ends.  
-¤ Multiple Elemental Skills can be chained and Itto will retain the combo non-reset. We've tested this with three Ushis, `NA1 3E NA2`, but there likely isn't an upper limit.  
-¤ When Dash is used for the combo non-reset effect, it seems that only a single Dash can be involved, i.e. `NA1 Dash NA2` is the only form for which the combo won't reset. This means that chained dashes, or different combinations of Dashes and Elemental Skills are impossible, e.g. `NA1 D D NA2`, `NA1 D E NA2`, and `NA1 E D NA2` are all impossible.  
+**Finding:**  
+Itto's NA combo won't reset *only* when interrupted by 1) 1 or more Skill uses, or 2) A standalone Dash.
+  
+**Evidence:**  
+A recap of what's stated in-game: "Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill". The basic rule about this effect is that Itto can continue his Normal Attack combo when it's interrupted by sprinting or using E, but by no other actions. This is to say, e.g. `NA1 E/Dash NA2` is possible, but e.g. `NA1 Walk/Jump/CA NA2` is impossible.
+  
+Our findings in this [YouTube](https://youtu.be/oa0njfapZeE) video further explain the mechanics of the effect.  
+1. The combo non-reset time after using an Elemental Skill is very long, and seems to last the entire animation duration, and end after the animation ends.  
+2. Multiple Elemental Skills can be chained together and Itto will retain the combo non-reset. This has been tested with three Ushis, i.e. `NA1 3E NA2` is possible. There likely isn't an upper limit to how many Ushis can be chained together.  
+3. When Dash is used for the combo non-reset effect, it seems that only a single Dash can be involved, otherwise the effect won't trigger, i.e. `NA1 Dash NA2` is the only form for which the combo won't reset. This means that chained dashes, or different combinations of Dashes and Elemental Skills are impossible, e.g. `NA1 D D NA2`, `NA1 D E NA2`, and `NA1 E D NA2` are all impossible.
   
 **Significance:**  
 Better understanding of Itto's Normal Attack mechanics, minorly useful for combo investigations.
