@@ -667,20 +667,20 @@ The significance of this is up in the air. On one hand, you can stack CW 3 times
 ### Swap And Burst Input Bug
 
 **By:** Hybri\#1099  
-**Added:** <Version date="2023-02-10" />  
+**Added:** <Version date="2023-02-14" />  
 **Last tested:** <VersionHl date="2023-01-23" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/swap-and-burst-input-bug)
 
 **Finding:**  
-The "Switch to Party Member and Use Elemental Burst" input fails when players perform inputs a certain way during a cinematic Elemental Burst. Holding Left Alt mid-animation in preparation to press the other character's button after the burst is over will cause the character to swap without bursting. To successfully perform the swap-and-burst input, players must perform all parts of their input AFTER the cinematic is over.  
+The "Switch to Party Member and Use Elemental Burst" input fails when players perform inputs a certain way during a cinematic Elemental Burst. Holding Left Alt mid-animation in preparation to press the other character's button after the Burst is over will cause the character to swap without bursting. To successfully perform the swap-and-burst input, players must perform all parts of their input AFTER the cinematic is over.  
   
 **Evidence:**  
-All tests on PC and with button presses recorded. First video contains failed bursts where the player holds Left Alt early and furiously mashes the character swap button. Second video contains successful bursts where the player swaps from a character with non-cinematic burst, or times their inputs precisely and AFTER the animation.  
+All tests on PC and with button presses recorded. First video contains failed Bursts where the player holds Left Alt early and furiously mashes the character swap button. Second video contains successful Bursts where the player swaps from a character with non-cinematic Burst, or times their inputs precisely and AFTER the animation.  
 [YouTube](https://youtu.be/P_Mzy1v-H4Q)  
 [YouTube](https://youtu.be/ll8_O8S9lxU)  
   
 **Significance:**  
-Useful for successfully executing certain rotations. Necessary to avoid failing the (Q -> swap -> other character burst -> swap back to catch mirrors) rotation tech for Alhaitham.
+Useful for successfully executing certain rotations. Necessary to avoid failing the (Q -> swap -> other character Burst -> swap back to catch mirrors) rotation tech for Alhaitham.
 
 ## Enemies
 
