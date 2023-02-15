@@ -45,6 +45,7 @@ Faruzan's A4 operates as what is currently named FlatDamage in the KQM TCL damag
 
 **Evidence:**  
 [YouTube](https://youtu.be/jRovofgcGJc)  
+
 Xiao E expected damage without Faruzan: $\text{A4} = 4.3 \times 1205 \times (1 + .466 + .288) \times (1 + 1.223) \times (1.1) \times \frac{100 + 90}{100 + 90 + 100 + 85} = 11260$  
 
 $\text{Faruzan A4} = 639 \times .32 = 204$  

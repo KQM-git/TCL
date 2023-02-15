@@ -60,9 +60,9 @@ import Skill from '@site/src/components/char/Skill'
 | High Plunge DMG | 260.76%   | 100          | 3            |
 
 </div>
-  
+
 **Notes**
-  
+
 * Faruzan CA can be automatically aimed in the ground if you dash just after using it.
 * ARCC works on Faruzan.
 
@@ -88,7 +88,7 @@ import Skill from '@site/src/components/char/Skill'
 | Impulse Type   | 3       | 7 / 7                                                         |
 
 </div>
-  
+
 **Notes**
 
 * Faruzan's skill makes 2 particles every time after using a charged shot.
@@ -149,9 +149,9 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />  
-  
+
 **Notes**  
-  
+
 * Faruzan's A4 operates as FlatDamage in the KQM TCL damage formula.  
   
 </TabItem>
