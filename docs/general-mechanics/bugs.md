@@ -49,6 +49,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
   * The fist of [Aether](../evidence/general-mechanics/bugs.md#aether-fist)
 
 * Kuki Shinobu can [overlay her equipped sword on top of her dagger](../evidence/general-mechanics/bugs.md#kuki-planting-things) if she casts her Elemental Burst during her N3.
+* Equipped weapons that become invisible during attack strings for certain characters [can be made visible by switching weapons mid-animation.](../evidence/general-mechanics/bugs.md#phantom-weapons)
 
 ## Characters
 
