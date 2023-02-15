@@ -57,7 +57,8 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 * Venti's Burst will deal its full Elemental absorption damage [even if it is infused later in the Burst](../evidence/general-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
 * Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../evidence/general-mechanics/bugs.md#venti-e-hold-visual-error).
 * [There is a small chance](../evidence/general-mechanics/bugs.md#mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and Particle generation also happens when cast. Normally this only happens when her Skill construct expires, it doesn't happen if you use Hold E and only on Press E. 
-* Certain characters' Elemental Skills [may not register in-game as used when being used](../evidence/general-mechanics/bugs.md#phantom-skill-procs), and vice versa. 
+* Certain characters' Elemental Skills [may not register in-game as used when being used](../evidence/general-mechanics/bugs.md#phantom-skill-procs), and vice versa.
+* The "Switch to Party Member and Use Elemental Burst" input fails when players [perform inputs a certain way during a cinematic Elemental Burst.](../evidence/general-mechanics/bugs.md#swap-and-burst-input-bug) 
 
 ## Enemies
 
