@@ -71,6 +71,10 @@ import Skill from '@site/src/components/char/Skill'
 * **Arataki Kesagiri Combo Slash** and **Final Slash**'s hitbox can hit enemies located behind Itto.
 * Itto’s Charged Attack has a uniform buffering time - it takes 14 frames from holding LMB to the stack flash, including hitlag frames.
 * Itto’s N2 allows a Charged Attack to come out a minimum of 4 frames after hitlag ends. N3 has a minimum of 6 frames after hitlag.
+* The non-reset mechanic of Itto's Normal Attack combo has some nuances:  
+  * The combo non-reset time after using an Elemental Skill is very long, and seems to last the entire animation duration, and end after the animation ends.
+  * Multiple Elemental Skills can be chained in a row and Itto will still retain the combo non-reset. 
+  * Only one dash can be used to retain the non-reset effect. Dashing and/or using an Elemental Skill more than once in any permutation will reset his Normal Attack string.
 
 </TabItem>
 
