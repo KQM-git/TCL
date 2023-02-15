@@ -36,7 +36,7 @@ search: false
 #### Faruzan A4 is FlatDamage
 
 **By:** jamberry\#7142  
-**Added:** <Version date="2023-02-13" />  
+**Added:** <Version date="2023-02-14" />  
 **Last tested:** <VersionHl date="2023-02-13" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/faruzan-a4-flatdamage)
 
@@ -45,11 +45,15 @@ Faruzan's A4 operates as what is currently named FlatDamage in the KQM TCL damag
 
 **Evidence:**  
 [YouTube](https://youtu.be/jRovofgcGJc)  
-Xiao E expected damage without Faruzan A4 = 4.3 * 1205 * (1 + .466 + .288) * (1 + 1.223) * (1.1) * (100 + 90)/(100 + 90 + 100 + 85) = 11260  
-Faruzan A4 = 639 * .32 = 204  
-Xiao E expected damage with Faruzan A4 if FlatDamage = (4.3 * 1205 + 204) * (1 + .466 + .288) * (1 + 1.223) * (1.1) * (100 + 90)/(100 + 90 + 100 + 85) = 11703  
-Xiao E expected damage with Faruzan A4 if DMG Bonus = (4.3 * 1205) * (1 + .466 + .288 + 2.04) * (1 + 1.223) * (1.1) * (100 + 90)/(100 + 90 + 100 + 85) = 24356  
-Actual damage = 11694  
+Xiao E expected damage without Faruzan: $\text{A4} = 4.3 \times 1205 \times (1 + .466 + .288) \times (1 + 1.223) \times (1.1) \times \frac{100 + 90}{100 + 90 + 100 + 85} = 11260$  
+
+$\text{Faruzan A4} = 639 \times .32 = 204$  
+
+Xiao E expected damage with Faruzan A4 if: $\text{FlatDamage} = (4.3 \times 1205 + 204) \times (1 + .466 + .288) \times (1 + 1.223) \times (1.1) \times \frac{100 + 90}{100 + 90 + 100 + 85} = 11703$  
+
+Xiao E expected damage with Faruzan A4 if: $\text{DMG Bonus} = (4.3 \times 1205) \times (1 + .466 + .288 + 2.04) \times (1 + 1.223) \times (1.1) \times \frac{100 + 90}{100 + 90 + 100 + 85} = 24356$  
+
+Actual damage = $11694$  
 Actual damage closest to FlatDamage, variance likely due to rounding error.  
 
 **Significance:**  
