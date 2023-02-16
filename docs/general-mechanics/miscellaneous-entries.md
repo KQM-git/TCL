@@ -50,6 +50,7 @@ description: For entries that have little practical use.
 * Anemo units Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.
 * Character Constellations are actually [3D](../evidence/general-mechanics/miscellaneous-entries.md#character-constellations-are-3d)!
 * Item pickup speed [slows down in higher ping environments](../evidence/general-mechanics/miscellaneous-entries.md#ping-and-item-pickup-speed).
+* Elemental Conversions are inconsistent in their visual properties when viewed in Elemental Sight. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#inconsistent-conversions-elemental-sight) for more information.
 
 ## Canceling
 
