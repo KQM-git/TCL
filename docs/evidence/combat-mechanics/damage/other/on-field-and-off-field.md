@@ -26,6 +26,28 @@ According to some Talent, Constellation, weapon, and artifact descriptions, the 
 **Significance:**  
 On-hit does not always mean on-field.  
 
+### On-Hit Effects During Burst
+
+**By:** emmaus\#9072  
+**Added:** <Version date="2023-02-01" />  
+**Last tested:** <VersionHl date="2023-01-31" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/on-hit-effects-burst)
+
+**Finding:**  
+Passives that trigger on getting hit or damaged will trigger if hit during elemental burst cast.  
+
+**Evidence:**  
+Serpent Spine  
+[YouTube](https://youtu.be/VZ4Px_eqeiI)  
+  
+The Bell  
+[YouTube](https://youtu.be/RONcYgPozRg)  
+  
+**Significance:**  
+More info for timing bursts to trigger beneficial passives, even when shielded.  
+  
+Aquila Favonia is also affected, but this behavior is already recorded for it in the library.
+
 ## On-CRIT Mechanics
 
 ### Bloom CRITS and ICD
