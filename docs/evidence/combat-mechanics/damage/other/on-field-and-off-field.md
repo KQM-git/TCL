@@ -29,7 +29,7 @@ On-hit does not always mean on-field.
 ### On-Hit Effects During Burst
 
 **By:** emmaus\#9072  
-**Added:** <Version date="2023-02-01" />  
+**Added:** <Version date="2023-02-16" />  
 **Last tested:** <VersionHl date="2023-01-31" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/on-hit-effects-burst)
 
@@ -53,7 +53,7 @@ Aquila Favonia is also affected, but this behavior is already recorded for it in
 ### Shielding Off Field
 
 **By:** Rathalos\#2875, emmaus\#9072  
-**Added:** <Version date="2023-02-05" />  
+**Added:** <Version date="2023-02-16" />  
 **Last tested:** <VersionHl date="2023-02-02" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/shielding-off-field)
 

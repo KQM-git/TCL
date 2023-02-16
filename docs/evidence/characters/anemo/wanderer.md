@@ -56,7 +56,7 @@ search: false
 ### Wanderer Can't Bounce On Mushrooms If He Exits Windfavored State
 
 **By:** Magnus Artifex\#8719  
-**Added:** <Version date="2023-02-15" />  
+**Added:** <Version date="2023-02-16" />  
 **Last tested:** <VersionHl date="2023-02-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/wanderer-cant-bounce-on-mushrooms-if-he-exits-windfavored-state)
 

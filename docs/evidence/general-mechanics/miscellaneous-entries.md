@@ -1355,7 +1355,7 @@ More understanding of the effects of high ping on gameplay experience
 ## Inconsistent Conversions Elemental Sight
 
 **By:** Cyn\#0962  
-**Added:** <Version date="2023-02-13" />  
+**Added:** <Version date="2023-02-16" />  
 **Last tested:** <VersionHl date="2023-02-13" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/inconsistent-conversions-elemental-sight)
 
