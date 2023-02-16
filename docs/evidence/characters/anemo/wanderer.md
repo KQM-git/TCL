@@ -53,6 +53,22 @@ search: false
   * Hold dash: Relevant difference - [Video](https://youtu.be/jtE6qRMJxPw)
   * Hold jump (ascending): relevant difference, Hydro Absorption for A1 to reduce initial jump timing's influence on height - [Video](https://youtu.be/yWH_zdUarVI)  
 
+### Wanderer Can't Bounce On Mushrooms If He Exits Windfavored State
+
+**By:** Magnus Artifex\#8719  
+**Added:** <Version date="2023-02-15" />  
+**Last tested:** <VersionHl date="2023-02-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/wanderer-cant-bounce-on-mushrooms-if-he-exits-windfavored-state)
+
+**Finding:**  
+When Wanderer exits the Windfavored State and still has Kuugoryoku Points, he won’t be able to bounce on Bouncy Mushrooms. However, if he runs out of Kuugoryoku Points, he will be able to bounce on the Bouncy Mushrooms.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/avqlGvy)  
+  
+**Significance:**  
+Maybe the state of “falling” after forcibly ending the Windfavored State isn’t actually falling for the Bouncy Mushrooms. Mostly hard and non-fluffy stuff since you don’t bounce.
+
 ## Burst Mechanics
 
 ## Ascension Mechanics
