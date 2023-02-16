@@ -104,7 +104,9 @@ Wanderer will not fire the wind arrows from his A4 if he dashes more than 590 fr
 **Significance:**  
 You should not dash too late if you wish to fire off Wanderer's A4 arrows near the end of his Windfavored state.
 
+<!--
 ## Constellation Mechanics
+-->
 
 ## Synergies/Interactions
 * Effects that modify the consumption of stamina points do not alter the consumption of Wanderer’s Kuugoryoku Points.

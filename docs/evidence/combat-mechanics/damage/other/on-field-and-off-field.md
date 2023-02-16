@@ -50,27 +50,27 @@ Aquila Favonia is also affected, but this behavior is already recorded for it in
 
 ## Off-Field Mechanics
 
-### Shielding Off Field
+### Shielding Off-Field
 
-**By:** Rathalos\#2875, emmaus\#9072  
+**By:** emmaus\#9072  
 **Added:** <Version date="2023-02-16" />  
 **Last tested:** <VersionHl date="2023-02-02" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/shielding-off-field)
 
 **Finding:**  
-One character's shield (The Bell, Noelle A1) can trigger shield related buffs off-field, e.g. Geo Resonance, The Bell passive.  
+One character's shield (The Bell, Noelle A1) can trigger shield-related buffs off-field, e.g. Geo Resonance, The Bell passive.  
 
 **Evidence:**  
-No Geo Resonance (baseline video as reference) 
+No Geo Resonance (baseline video as reference)  
 [YouTube](https://youtu.be/907ht-pmIuU)  
   
 Noelle's A1 Passive  
 [YouTube](https://youtu.be/7vzenXTocWU)  
   
-Retracing Bolide (Courtesy of <@756065178948468779>  )  
+Retracing Bolide (Courtesy of Rathalos\#2875)  
 [YouTube](https://youtu.be/FJzIPKN5Etc)  
   
-Sayu, The Bell, no passive 
+Sayu, The Bell, no passive  
 [YouTube](https://youtu.be/YChsny3Am2A)  
   
 Sayu, The Bell, off-field passive  
