@@ -1360,7 +1360,7 @@ More understanding of the effects of high ping on gameplay experience
 [Discussion](https://tickets.deeznuts.moe/transcripts/inconsistent-conversions-elemental-sight)
 
 **Finding:**  
-Elemental conversions are inconsistent in their visual properties when viewed in Elemental Sight.
+Elemental Conversions are inconsistent in their visual properties when viewed in Elemental Sight.
 
 Alhaitham is a strange case where both his converted AND non-converted dual sword keeps its texture in Elemental Sight.
 
