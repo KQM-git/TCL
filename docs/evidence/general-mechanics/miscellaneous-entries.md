@@ -1351,3 +1351,46 @@ Presumably, similar things happen with any other kind of menuing that produces o
 
 **Significance:**  
 More understanding of the effects of high ping on gameplay experience
+
+### Inconsistent Conversions Elemental Sight
+
+**By:** Cyn\#0962  
+**Added:** <Version date="2023-02-13" />  
+**Last tested:** <VersionHl date="2023-02-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/inconsistent-conversions-elemental-sight)
+
+**Finding:**  
+Elemental conversions are inconsistent in their visual properties when viewed in Elemental Sight.
+
+Alhaitham is a strange case where both his converted AND non-converted dual sword keeps its texture in Elemental Sight.
+
+Ayato/Noelle/Childe/Hutao/Raiden are cases where upon conversion, their weapon keeps it's new texture inside of Elemental Sight. Raiden is a peculiar one in terms of wording, as she is the only character whose talent description includes the mentioning of "infused" while it is in fact a conversion and not an infusion.
+
+There are many character who do NOT gain a colored/visually changed weapon viewable in Elemental Sight after conversion, but Itto sticks out as a strange case.
+
+Itto is the sole character (that could be found) whose entire weapon changes, but the new weapon does NOT keep it's texture when viewed in Elemental Sight. You can see this in the video, as in Elemental Sight his weapon texture goes a dull brown rather than the bright orange that is visible outside of Elemental Sight (while the previously named characters who create new weapons all keep their textures and color).  
+  
+**Evidence:**  
+Alhaitham dual swords
+[Youtube](https://www.youtube.com/watch?v=fE5GakrIu2k)
+
+Ayato Conversion
+[Youtube](https://www.youtube.com/watch?v=Sy4j23BID4w)
+
+Noelle Conversion
+[Youtube](https://www.youtube.com/watch?v=u1u0p6_RHk8)
+
+Childe
+[Youtube](https://www.youtube.com/watch?v=3yuNAwLE_Sg)
+
+Hutao
+[Youtube](https://www.youtube.com/watch?v=xDbUxNxwFJA)
+
+Raiden
+[Youtube](https://www.youtube.com/watch?v=k8DrNPMPD50)
+
+Itto
+[Youtube](https://www.youtube.com/watch?v=-c5swVTKXVk)
+  
+**Significance:**  
+Nothing gameplay wise, just interesting
