@@ -48,6 +48,37 @@ More info for timing bursts to trigger beneficial passives, even when shielded.
   
 Aquila Favonia is also affected, but this behavior is already recorded for it in the library.
 
+## Off-Field Mechanics
+
+### Shielding Off Field
+
+**By:** Rathalos\#2875, emmaus\#9072  
+**Added:** <Version date="2023-02-05" />  
+**Last tested:** <VersionHl date="2023-02-02" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/shielding-off-field)
+
+**Finding:**  
+One character's shield (The Bell, Noelle A1) can trigger shield related buffs off-field, e.g. Geo Resonance, The Bell passive.  
+
+**Evidence:**  
+No Geo Resonance (baseline video as reference) 
+[YouTube](https://youtu.be/907ht-pmIuU)  
+  
+Noelle's A1 Passive  
+[YouTube](https://youtu.be/7vzenXTocWU)  
+  
+Retracing Bolide (Courtesy of <@756065178948468779>  )  
+[YouTube](https://youtu.be/FJzIPKN5Etc)  
+  
+Sayu, The Bell, no passive 
+[YouTube](https://youtu.be/YChsny3Am2A)  
+  
+Sayu, The Bell, off-field passive  
+[YouTube](https://youtu.be/VUPDJwe7wxo)  
+  
+**Significance:**  
+Certain shields can affect the unit with passives while off-field.
+
 ## On-CRIT Mechanics
 
 ### Bloom CRITS and ICD
