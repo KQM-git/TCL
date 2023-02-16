@@ -34,7 +34,7 @@ On-hit does not always mean on-field.
 [Discussion](https://tickets.deeznuts.moe/transcripts/on-hit-effects-burst)
 
 **Finding:**  
-Passives that trigger on getting hit or damaged will trigger if hit during elemental burst cast.  
+Passives that trigger on getting hit or damaged will trigger if hit during Elemental Burst cast.  
 
 **Evidence:**  
 Serpent Spine  
