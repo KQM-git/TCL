@@ -111,6 +111,7 @@ import Skill from '@site/src/components/char/Skill'
 * Wanderer's Kuugoryuku Point drain rate while dashing and ascending is dependent on the client's frame rate. A higher frame rate will result in a higher drain rate.
     * Hover has no difference, while holding dash or jump have relevant differences.
 * Effects that modify the consumption of stamina points do not alter the consumption of Wanderer’s Kuugoryoku Points.
+* When Wanderer exits the Windfavored State and still has Kuugoryoku Points, he won’t be able to bounce on Bouncy Mushrooms. Otherwise, if he runs out of Kuugoryoku Points, he will bounce off the Bouncy Mushrooms.  
 
 </TabItem>
 
