@@ -75,7 +75,7 @@ Possible sacrifices are:
 
 ### Reunion Blessing bonus Consumption Priority
 
-If the Reunion Blessing bonus from the Stellar Reunion event and the Ley Line Overflow or Overflowing Mastery event are simultaneously active, the Reunion Blessing bonus will be prioritized. 
+If the Reunion Blessing bonus from the Stellar Reunion event is active alongside either the Ley Line Overflow or Overflowing Mastery event, the Reunion Blessing bonus will be prioritized. 
 
 ## Food
 
