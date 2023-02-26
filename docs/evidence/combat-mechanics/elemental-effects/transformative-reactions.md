@@ -78,6 +78,31 @@ Note for Royal weapons: If the talent scaling attack doesn't CRIT and one of the
 **Significance:**  
 Some stuff like Raiden's Skill or Fillet Blade, I guess.
 
+### Transformative Reactions Snapshot On Generation
+
+**By:** NZPIEFACE\#8439  
+**Added:** <Version date="2023-02-25" />  
+**Last tested:** <VersionHl date="2023-02-24" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/transformative-reactions-snapshot-on-generation)
+
+**Finding:**  
+Transformative reactions snapshot reaction damage bonuses when they are generated.  
+- Swirls: On the attack.  
+- AoE Swirls: When it hits the enemy.  
+- Superconduct: On the attack.  
+- Overload: On the attack.  
+- Shatter: On the attack. (Required Crystallize to trigger 4pc In.)  
+  
+**Evidence:**  
+4pc Instructors was used to test triggering multiple of the reactions (though that doesn't matter for Overload).  
+- Swirls/AoE Swirls: [YouTube](https://youtu.be/xf9AuO95wmQ)  
+- Superconduct: [YouTube](https://youtu.be/1_ZB7zxGxKI)  
+- Overload: [YouTube](https://youtu.be/v1_PpIEFNeA)  
+- Shatter: [YouTube](https://youtu.be/wnCerIBlbSI)  
+  
+**Significance:**  
+Is this literally just "4pc In doesn't work on the first attack"? Yeah, but also much more formalized on our understanding of game mechanics, and also to stop people from saying "transformatives don't snapshot EM". Everything decides what values to use at some point in time.  
+
 ## Overload
 
 ### Overload Reaction ICD
