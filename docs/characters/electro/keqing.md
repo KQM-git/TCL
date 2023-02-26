@@ -110,6 +110,11 @@ import Skill from '@site/src/components/char/Skill'
 * **Stellar Restoration** has different snapshot mechanics based on usage.
 * It is possible for the Electro infusion to expire while Plunging, resulting in a Physical Plunge Attack despite showing Electro visuals on the way down.
 * It is possible to send the **Stiletto Mark** in another direction by rapidly spinning the camera after aiming and releasing E.
+* The Stiletto throw and Keqing's teleport distance have the following values (for more information, click [here](../../evidence/characters/electro/keqing.md#keqing-stiletto-teleport-distances)):  
+  * Keqing's stiletto is thrown just under 3.5 tiles away horizontally, for both press and hold.
+  * Hold Skill teleports Keqing just under 3 tiles.
+  * Press Skill teleports Keqing about 6 tiles maximum.
+ 
 
 </TabItem>
 
