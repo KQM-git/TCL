@@ -12,6 +12,9 @@ Passives that trigger on getting hit or damaged (such as Serpent Spine passive, 
 
 A character's shield (The Bell, Noelle A1) can trigger shield-related buffs off-field, such as Geo Resonance and The Bell's passive. 
 
+Some team buffs, debuffs and infusion with duration timer are not removed when the unit who applies said buffs/debuffs is removed from the party, and instead remain for its whole duration. For more information, see this comprehensive [sheet](https://docs.google.com/spreadsheets/d/1x-6lLzfnTn8iBBfPp3JIp4OTtq6X7ro7gZXTESvF1vk/edit#gid=1956096477).
+
+
 ## On-CRIT Effects
 
 Bloom-related Reaction DMG under DMG ICD can still trigger certain on-CRIT effects such as Xinyan C1.  
