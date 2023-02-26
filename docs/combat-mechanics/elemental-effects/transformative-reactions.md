@@ -21,6 +21,8 @@ Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />
 
 Transformative Reactions cannot crit (except some with [Nahida C2](../../characters/dendro/nahida.md#constellations)), but count as hits from your character and can be used to stack Royal weapons and trigger Favonius weapons. They only scale off of Elemental Mastery and character level, and are affected by Elemental RES to the type of damage the reaction deals.  
 
+Transformative Reactions like Swirls, Swirl AoEs, Superconduct, Overload, and Shatter snapshot reaction damage bonuses when they are generated.
+
 :::info
 For more information on the damage dealt by Transformative Reactions, see the [Damage Formula](../damage/damage-formula.md#transformative-reaction) page.
 :::
