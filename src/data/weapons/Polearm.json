@@ -117,19 +117,19 @@
       }
     ]
   },
-  "White Tassel": {
-    "name": "White Tassel",
+  "Black Tassel": {
+    "name": "Black Tassel",
     "weaponType": "Polearm",
     "stars": 3,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 38.7413,
-        "curve": "ATK 1.1"
+        "init": 37.6075,
+        "curve": "ATK 1.4"
       },
       {
-        "stat": "CRIT Rate",
-        "init": 0.051,
+        "stat": "HP%",
+        "init": 0.102133,
         "curve": "C1"
       }
     ],
@@ -201,8 +201,8 @@
       }
     ],
     "refinements": {
-      "name": "Sharp",
-      "desc": "Increases Normal Attack DMG by **24%**/**30%**/**36%**/**42%**/**48%**."
+      "name": "Bane of the Soft",
+      "desc": "Increases DMG against slimes by **40%**/**50%**/**60%**/**70%**/**80%**."
     }
   },
   "Halberd": {
@@ -293,19 +293,19 @@
       "desc": "Normal Attacks deal an additional **160%**/**200%**/**240%**/**280%**/**320%** ATK as DMG. Can only occur once every 10s."
     }
   },
-  "Black Tassel": {
-    "name": "Black Tassel",
+  "White Tassel": {
+    "name": "White Tassel",
     "weaponType": "Polearm",
     "stars": 3,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 37.6075,
-        "curve": "ATK 1.4"
+        "init": 38.7413,
+        "curve": "ATK 1.1"
       },
       {
-        "stat": "HP%",
-        "init": 0.102133,
+        "stat": "CRIT Rate",
+        "init": 0.051,
         "curve": "C1"
       }
     ],
@@ -377,272 +377,8 @@
       }
     ],
     "refinements": {
-      "name": "Bane of the Soft",
-      "desc": "Increases DMG against slimes by **40%**/**50%**/**60%**/**70%**/**80%**."
-    }
-  },
-  "Dragon's Bane": {
-    "name": "Dragon's Bane",
-    "weaponType": "Polearm",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 41.0671,
-        "curve": "ATK 2.4"
-      },
-      {
-        "stat": "Elemental Mastery",
-        "init": 48,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Bane of Flame and Water",
-      "desc": "Increases DMG against opponents affected by Hydro or Pyro by **20%**/**24%**/**28%**/**32%**/**36%**."
-    }
-  },
-  "Prototype Starglitter": {
-    "name": "Prototype Starglitter",
-    "weaponType": "Polearm",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "Energy Recharge",
-        "init": 0.1,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Magic Affinity",
-      "desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by **8%**/**10%**/**12%**/**14%**/**16%** for 12s. Max 2 stacks."
-    }
-  },
-  "Crescent Pike": {
-    "name": "Crescent Pike",
-    "weaponType": "Polearm",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
-      },
-      {
-        "stat": "Physical DMG Bonus",
-        "init": 0.075067,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Infusion Needle",
-      "desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to **20%**/**25%**/**30%**/**35%**/**40%** of ATK for 5s."
+      "name": "Sharp",
+      "desc": "Increases Normal Attack DMG by **24%**/**30%**/**36%**/**42%**/**48%**."
     }
   },
   "Blackcliff Pole": {
@@ -733,6 +469,94 @@
       "desc": "After defeating an enemy, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
     }
   },
+  "Crescent Pike": {
+    "name": "Crescent Pike",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Physical DMG Bonus",
+        "init": 0.075067,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Infusion Needle",
+      "desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to **20%**/**25%**/**30%**/**35%**/**40%** of ATK for 5s."
+    }
+  },
   "Deathmatch": {
     "name": "Deathmatch",
     "weaponType": "Polearm",
@@ -821,19 +645,19 @@
       "desc": "If there are at least 2 opponents nearby, ATK is increased by **16%**/**20%**/**24%**/**28%**/**32%** and DEF is increased by **16%**/**20%**/**24%**/**28%**/**32%**. If there are fewer than 2 opponents nearby, ATK is increased by **24%**/**30%**/**36%**/**42%**/**48%**."
     }
   },
-  "Favonius Lance": {
-    "name": "Favonius Lance",
+  "Dragon's Bane": {
+    "name": "Dragon's Bane",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
+        "init": 41.0671,
+        "curve": "ATK 2.4"
       },
       {
-        "stat": "Energy Recharge",
-        "init": 0.066667,
+        "stat": "Elemental Mastery",
+        "init": 48,
         "curve": "C2"
       }
     ],
@@ -905,96 +729,8 @@
       }
     ],
     "refinements": {
-      "name": "Windfall",
-      "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
-    }
-  },
-  "Royal Spear": {
-    "name": "Royal Spear",
-    "weaponType": "Polearm",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.06,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Focus",
-      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+      "name": "Bane of Flame and Water",
+      "desc": "Increases DMG against opponents affected by Hydro or Pyro by **20%**/**24%**/**28%**/**32%**/**36%**."
     }
   },
   "Dragonspine Spear": {
@@ -1085,8 +821,8 @@
       "desc": "Hitting an opponent with Normal and Charged Attacks has a **60%**/**70%**/**80%**/**90%**/**100%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **80%**/**95%**/**110%**/**125%**/**140%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **200%**/**240%**/**280%**/**320%**/**360%** of ATK. Can only occur once every 10s."
     }
   },
-  "Lithic Spear": {
-    "name": "Lithic Spear",
+  "Favonius Lance": {
+    "name": "Favonius Lance",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1096,8 +832,8 @@
         "curve": "ATK 2.2"
       },
       {
-        "stat": "ATK%",
-        "init": 0.06,
+        "stat": "Energy Recharge",
+        "init": 0.066667,
         "curve": "C2"
       }
     ],
@@ -1169,8 +905,8 @@
       }
     ],
     "refinements": {
-      "name": "Lithic Axiom: Unity",
-      "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **7%**/**8%**/**9%**/**10%**/**11%** ATK increase and a **3%**/**4%**/**5%**/**6%**/**7%** CRIT Rate increase. This effect stacks up to 4 times."
+      "name": "Windfall",
+      "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
     }
   },
   "Kitain Cross Spear": {
@@ -1259,6 +995,446 @@
     "refinements": {
       "name": "Samurai Conduct",
       "desc": "Increases Elemental Skill DMG by **6%**/**7.5%**/**9%**/**10.5%**/**12%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3**/**3.5**/**4**/**4.5**/**5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+    }
+  },
+  "Lithic Spear": {
+    "name": "Lithic Spear",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Lithic Axiom: Unity",
+      "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **7%**/**8%**/**9%**/**10%**/**11%** ATK increase and a **3%**/**4%**/**5%**/**6%**/**7%** CRIT Rate increase. This effect stacks up to 4 times."
+    }
+  },
+  "Missive Windspear": {
+    "name": "Missive Windspear",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "The Wind Unattained",
+      "desc": "Within 10s after an Elemental Reaction is triggered, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** and Elemental Mastery is increased by **48**/**60**/**72**/**84**/**96**."
+    }
+  },
+  "Moonpiercer": {
+    "name": "Moonpiercer",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 24,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Stillwood Moonshadow",
+      "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **16%**/**20%**/**24%**/**28%**/**32%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
+    }
+  },
+  "Prototype Starglitter": {
+    "name": "Prototype Starglitter",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.1,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Magic Affinity",
+      "desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by **8%**/**10%**/**12%**/**14%**/**16%** for 12s. Max 2 stacks."
+    }
+  },
+  "Royal Spear": {
+    "name": "Royal Spear",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Focus",
+      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
     }
   },
   "\"The Catch\"": {
@@ -1437,108 +1613,20 @@
       "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%**. A maximum of **40%**/**50%**/**60%**/**70%**/**80%** increased Elemental Burst DMG can be achieved this way."
     }
   },
-  "Moonpiercer": {
-    "name": "Moonpiercer",
+  "Calamity Queller": {
+    "name": "Calamity Queller",
     "weaponType": "Polearm",
-    "stars": 4,
+    "stars": 5,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
-      },
-      {
-        "stat": "Elemental Mastery",
-        "init": 24,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Stillwood Moonshadow",
-      "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **16%**/**20%**/**24%**/**28%**/**32%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
-    }
-  },
-  "Missive Windspear": {
-    "name": "Missive Windspear",
-    "weaponType": "Polearm",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
+        "init": 49.1377,
+        "curve": "ATK 3.3"
       },
       {
         "stat": "ATK%",
-        "init": 0.09,
-        "curve": "C2"
+        "init": 0.036,
+        "curve": "C3"
       }
     ],
     "ascensions": [
@@ -1553,7 +1641,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 25.9
+            "value": 31.1
           }
         ]
       },
@@ -1563,7 +1651,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 51.9
+            "value": 62.2
           }
         ]
       },
@@ -1573,7 +1661,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 77.8
+            "value": 93.4
           }
         ]
       },
@@ -1583,7 +1671,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 103.7
+            "value": 124.5
           }
         ]
       },
@@ -1593,7 +1681,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 129.7
+            "value": 155.6
           }
         ]
       },
@@ -1603,14 +1691,102 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 155.6
+            "value": 186.7
           }
         ]
       }
     ],
     "refinements": {
-      "name": "The Wind Unattained",
-      "desc": "Within 10s after an Elemental Reaction is triggered, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** and Elemental Mastery is increased by **48**/**60**/**72**/**84**/**96**."
+      "name": "Extinguishing Precept",
+      "desc": "Gain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **3.2%**/**4%**/**4.8%**/**5.6%**/**6.4%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
+    }
+  },
+  "Engulfing Lightning": {
+    "name": "Engulfing Lightning",
+    "weaponType": "Polearm",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.12,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Timeless Dream: Eternal Stove",
+      "desc": "ATK increased by **28%**/**35%**/**42%**/**49%**/**56%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **80%**/**90%**/**100%**/**110%**/**120%** ATK. Gain **30%**/**35%**/**40%**/**45%**/**50%** Energy Recharge for 12s after using an Elemental Burst."
     }
   },
   "Primordial Jade Winged-Spear": {
@@ -1789,94 +1965,6 @@
       "desc": "Increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%** and increases Normal ATK SPD by **12%**/**12%**/**12%**/**12%**/**12%**. Additionally, Normal and Charged Attacks hits on opponents have a **50%**/**50%**/**50%**/**50%**/**50%** chance to trigger a vacuum blade that deals **40%**/**55%**/**70%**/**85%**/**100%** of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
     }
   },
-  "Vortex Vanquisher": {
-    "name": "Vortex Vanquisher",
-    "weaponType": "Polearm",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 45.9364,
-        "curve": "ATK 3.1"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.108,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Golden Majesty",
-      "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-    }
-  },
   "Staff of Homa": {
     "name": "Staff of Homa",
     "weaponType": "Polearm",
@@ -1965,182 +2053,6 @@
       "desc": "HP increased by **20%**/**25%**/**30%**/**35%**/**40%**. Additionally, provides an ATK Bonus based on **0.8%**/**1%**/**1.2%**/**1.4%**/**1.6%** of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional **1%**/**1.2%**/**1.4%**/**1.6%**/**1.8%** of Max HP."
     }
   },
-  "Engulfing Lightning": {
-    "name": "Engulfing Lightning",
-    "weaponType": "Polearm",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 45.9364,
-        "curve": "ATK 3.1"
-      },
-      {
-        "stat": "Energy Recharge",
-        "init": 0.12,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Timeless Dream: Eternal Stove",
-      "desc": "ATK increased by **28%**/**35%**/**42%**/**49%**/**56%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **80%**/**90%**/**100%**/**110%**/**120%** ATK. Gain **30%**/**35%**/**40%**/**45%**/**50%** Energy Recharge for 12s after using an Elemental Burst."
-    }
-  },
-  "Calamity Queller": {
-    "name": "Calamity Queller",
-    "weaponType": "Polearm",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 49.1377,
-        "curve": "ATK 3.3"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.036,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Extinguishing Precept",
-      "desc": "Gain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **3.2%**/**4%**/**4.8%**/**5.6%**/**6.4%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
-    }
-  },
   "Staff of the Scarlet Sands": {
     "name": "Staff of the Scarlet Sands",
     "weaponType": "Polearm",
@@ -2227,6 +2139,94 @@
     "refinements": {
       "name": "Heat Haze at Horizon's End",
       "desc": "The equipping character gains **52%**/**65%**/**78%**/**91%**/**104%** of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain **28%**/**35%**/**42%**/**49%**/**56%** of their Elemental Mastery as bonus ATK. Max 3 stacks."
+    }
+  },
+  "Vortex Vanquisher": {
+    "name": "Vortex Vanquisher",
+    "weaponType": "Polearm",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.108,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Golden Majesty",
+      "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
     }
   }
 }

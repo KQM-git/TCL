@@ -205,8 +205,8 @@
       "desc": "Increases DMG against opponents affected by Hydro or Cryo by **12%**/**15%**/**18%**/**21%**/**24%**."
     }
   },
-  "Harbinger of Dawn": {
-    "name": "Harbinger of Dawn",
+  "Dark Iron Sword": {
+    "name": "Dark Iron Sword",
     "weaponType": "Sword",
     "stars": 3,
     "weaponCurve": [
@@ -216,8 +216,8 @@
         "curve": "ATK 1.1"
       },
       {
-        "stat": "CRIT DMG",
-        "init": 0.102,
+        "stat": "Elemental Mastery",
+        "init": 30.6,
         "curve": "C1"
       }
     ],
@@ -289,96 +289,8 @@
       }
     ],
     "refinements": {
-      "name": "Vigorous",
-      "desc": "When HP is above 90%, increases CRIT Rate by **14%**/**17.5%**/**21%**/**24.5%**/**28%**."
-    }
-  },
-  "Traveler's Handy Sword": {
-    "name": "Traveler's Handy Sword",
-    "weaponType": "Sword",
-    "stars": 3,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 39.8751,
-        "curve": "ATK 1.2"
-      },
-      {
-        "stat": "DEF%",
-        "init": 0.063733,
-        "curve": "C1"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 19.5
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 38.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 58.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 97.3
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 116.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Journey",
-      "desc": "Each Elemental Orb or Particle collected restores **1%**/**1.25%**/**1.5%**/**1.75%**/**2%** HP."
+      "name": "Overloaded",
+      "desc": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by **20%** for 12s."
     }
   },
   "Fillet Blade": {
@@ -469,6 +381,94 @@
       "desc": "On hit, has a 50% chance to deal **240%**/**280%**/**320%**/**360%**/**400%** ATK DMG to a single opponent. Can only occur once every **15**/**14**/**13**/**12**/**11**s."
     }
   },
+  "Harbinger of Dawn": {
+    "name": "Harbinger of Dawn",
+    "weaponType": "Sword",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 38.7413,
+        "curve": "ATK 1.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.102,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Vigorous",
+      "desc": "When HP is above 90%, increases CRIT Rate by **14%**/**17.5%**/**21%**/**24.5%**/**28%**."
+    }
+  },
   "Skyrider Sword": {
     "name": "Skyrider Sword",
     "weaponType": "Sword",
@@ -555,6 +555,358 @@
     "refinements": {
       "name": "Determination",
       "desc": "Using an Elemental Burst grants a **12%**/**15%**/**18%**/**21%**/**24%** increase in ATK and Movement SPD for 15s."
+    }
+  },
+  "Traveler's Handy Sword": {
+    "name": "Traveler's Handy Sword",
+    "weaponType": "Sword",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 39.8751,
+        "curve": "ATK 1.2"
+      },
+      {
+        "stat": "DEF%",
+        "init": 0.063733,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Journey",
+      "desc": "Each Elemental Orb or Particle collected restores **1%**/**1.25%**/**1.5%**/**1.75%**/**2%** HP."
+    }
+  },
+  "Amenoma Kageuchi": {
+    "name": "Amenoma Kageuchi",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Iwakura Succession",
+      "desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **6**/**7.5**/**9**/**10.5**/**12** Energy for each seed consumed."
+    }
+  },
+  "Blackcliff Longsword": {
+    "name": "Blackcliff Longsword",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.08,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Press the Advantage",
+      "desc": "After defeating an opponent, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    }
+  },
+  "Cinnabar Spindle": {
+    "name": "Cinnabar Spindle",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "DEF%",
+        "init": 0.150133,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Spotless Heart",
+      "desc": "Elemental Skill DMG is increased by **40%**/**50%**/**60%**/**70%**/**80%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
     }
   },
   "Favonius Sword": {
@@ -645,8 +997,8 @@
       "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
     }
   },
-  "The Flute": {
-    "name": "The Flute",
+  "Festering Desire": {
+    "name": "Festering Desire",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -654,98 +1006,10 @@
         "stat": "Base ATK",
         "init": 42.401,
         "curve": "ATK 2.1"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.09,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Chord",
-      "desc": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **100%**/**125%**/**150%**/**175%**/**200%** ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
-    }
-  },
-  "Sacrificial Sword": {
-    "name": "Sacrificial Sword",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 41.0671,
-        "curve": "ATK 2.4"
       },
       {
         "stat": "Energy Recharge",
-        "init": 0.133333,
+        "init": 0.1,
         "curve": "C2"
       }
     ],
@@ -817,12 +1081,100 @@
       }
     ],
     "refinements": {
-      "name": "Composed",
-      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
+      "name": "Undying Admiration",
+      "desc": "Increases Elemental Skill DMG by **16%**/**20%**/**24%**/**28%**/**32%** and Elemental Skill CRIT Rate by **6%**/**7.5%**/**9%**/**10.5%**/**12%**."
     }
   },
-  "Royal Longsword": {
-    "name": "Royal Longsword",
+  "Iron Sting": {
+    "name": "Iron Sting",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 36,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Infusion Stinger",
+      "desc": "Dealing Elemental DMG increases all DMG by **6%**/**7.5%**/**9%**/**10.5%**/**12%** for 6s. Max 2 stacks. Can occur once every 1s."
+    }
+  },
+  "Kagotsurube Isshin": {
+    "name": "Kagotsurube Isshin",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -905,8 +1257,8 @@
       }
     ],
     "refinements": {
-      "name": "Focus",
-      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+      "name": "Isshin Art Clarity",
+      "desc": "When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s."
     }
   },
   "Lion's Roar": {
@@ -1085,712 +1437,8 @@
       "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **4%**/**5%**/**6%**/**7%**/**8%** for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
     }
   },
-  "Iron Sting": {
-    "name": "Iron Sting",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "Elemental Mastery",
-        "init": 36,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Infusion Stinger",
-      "desc": "Dealing Elemental DMG increases all DMG by **6%**/**7.5%**/**9%**/**10.5%**/**12%** for 6s. Max 2 stacks. Can occur once every 1s."
-    }
-  },
-  "Blackcliff Longsword": {
-    "name": "Blackcliff Longsword",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
-      },
-      {
-        "stat": "CRIT DMG",
-        "init": 0.08,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Press the Advantage",
-      "desc": "After defeating an opponent, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-    }
-  },
-  "The Black Sword": {
-    "name": "The Black Sword",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "CRIT Rate",
-        "init": 0.06,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Justice",
-      "desc": "Increases DMG dealt by Normal and Charged Attacks by **20%**/**25%**/**30%**/**35%**/**40%**. Additionally, regenerates **60%**/**70%**/**80%**/**90%**/**100%** of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
-    }
-  },
-  "Sword of Descension": {
-    "name": "Sword of Descension",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 38.7413,
-        "curve": "ATK 1.1"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.0766,
-        "curve": "C1"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Descension",
-      "desc": "**Effective only on the following platform:**\n**\"PlayStation Network\"**\nHitting opponents with Normal and Charged Attacks grants a **50%** chance to deal **200%** ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by **66**."
-    }
-  },
-  "Festering Desire": {
-    "name": "Festering Desire",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "Energy Recharge",
-        "init": 0.1,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Undying Admiration",
-      "desc": "Increases Elemental Skill DMG by **16%**/**20%**/**24%**/**28%**/**32%** and Elemental Skill CRIT Rate by **6%**/**7.5%**/**9%**/**10.5%**/**12%**."
-    }
-  },
-  "The Alley Flash": {
-    "name": "The Alley Flash",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 45.0687,
-        "curve": "ATK 2.3"
-      },
-      {
-        "stat": "Elemental Mastery",
-        "init": 11.999988,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Itinerant Hero",
-      "desc": "Increases DMG dealt by the character equipping this weapon by **12%**/**15%**/**18%**/**21%**/**24%**. Taking DMG disables this effect for 5s."
-    }
-  },
-  "Amenoma Kageuchi": {
-    "name": "Amenoma Kageuchi",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 41.0671,
-        "curve": "ATK 2.4"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.12,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Iwakura Succession",
-      "desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **6**/**7.5**/**9**/**10.5**/**12** Energy for each seed consumed."
-    }
-  },
-  "Cinnabar Spindle": {
-    "name": "Cinnabar Spindle",
-    "weaponType": "Sword",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 41.0671,
-        "curve": "ATK 2.4"
-      },
-      {
-        "stat": "DEF%",
-        "init": 0.150133,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Spotless Heart",
-      "desc": "Elemental Skill DMG is increased by **40%**/**50%**/**60%**/**70%**/**80%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
-    }
-  },
-  "Kagotsurube Isshin": {
-    "name": "Kagotsurube Isshin",
+  "Royal Longsword": {
+    "name": "Royal Longsword",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1873,8 +1521,96 @@
       }
     ],
     "refinements": {
-      "name": "Isshin Art Clarity",
-      "desc": "When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s."
+      "name": "Focus",
+      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+    }
+  },
+  "Sacrificial Sword": {
+    "name": "Sacrificial Sword",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.133333,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Composed",
+      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
     }
   },
   "Sapwood Blade": {
@@ -1965,19 +1701,107 @@
       "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60**/**75**/**90**/**105**/**120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
     }
   },
-  "Xiphos' Moonlight": {
-    "name": "Xiphos' Moonlight",
+  "Sword of Descension": {
+    "name": "Sword of Descension",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
+        "init": 38.7413,
+        "curve": "ATK 1.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.0766,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Descension",
+      "desc": "**Effective only on the following platform:**\n**\"PlayStation Network\"**\nHitting opponents with Normal and Charged Attacks grants a **50%** chance to deal **200%** ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by **66**."
+    }
+  },
+  "The Alley Flash": {
+    "name": "The Alley Flash",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.0687,
+        "curve": "ATK 2.3"
       },
       {
         "stat": "Elemental Mastery",
-        "init": 36,
+        "init": 11.999988,
         "curve": "C2"
       }
     ],
@@ -2049,8 +1873,184 @@
       }
     ],
     "refinements": {
-      "name": "Jinni's Whisper",
-      "desc": "The following effect will trigger every 10s: The equipping character will gain **0.036%**/**0.045%**/**0.054%**/**0.063%**/**0.072%** Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+      "name": "Itinerant Hero",
+      "desc": "Increases DMG dealt by the character equipping this weapon by **12%**/**15%**/**18%**/**21%**/**24%**. Taking DMG disables this effect for 5s."
+    }
+  },
+  "The Black Sword": {
+    "name": "The Black Sword",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Justice",
+      "desc": "Increases DMG dealt by Normal and Charged Attacks by **20%**/**25%**/**30%**/**35%**/**40%**. Additionally, regenerates **60%**/**70%**/**80%**/**90%**/**100%** of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+    }
+  },
+  "The Flute": {
+    "name": "The Flute",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Chord",
+      "desc": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **100%**/**125%**/**150%**/**175%**/**200%** ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
     }
   },
   "Toukabou Shigure": {
@@ -2141,6 +2141,94 @@
       "desc": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is taken out during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal **16%**/**20%**/**24%**/**28%**/**32%** more DMG to the opponent affected by Cursed Parasol."
     }
   },
+  "Xiphos' Moonlight": {
+    "name": "Xiphos' Moonlight",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 36,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Jinni's Whisper",
+      "desc": "The following effect will trigger every 10s: The equipping character will gain **0.036%**/**0.045%**/**0.054%**/**0.063%**/**0.072%** Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    }
+  },
   "Aquila Favonia": {
     "name": "Aquila Favonia",
     "weaponType": "Sword",
@@ -2229,270 +2317,6 @@
       "desc": "ATK is increased by **20%**/**25%**/**30%**/**35%**/**40%**. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to **100%**/**115%**/**130%**/**145%**/**160%** of ATK and dealing **200%**/**230%**/**260%**/**290%**/**320%** of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
     }
   },
-  "Skyward Blade": {
-    "name": "Skyward Blade",
-    "weaponType": "Sword",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 45.9364,
-        "curve": "ATK 3.1"
-      },
-      {
-        "stat": "Energy Recharge",
-        "init": 0.12,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Sky-Piercing Fang",
-      "desc": "CRIT Rate increased by **4%**/**5%**/**6%**/**7%**/**8%**. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by **10%**/**10%**/**10%**/**10%**/**10%**, increases ATK SPD by **10%**/**10%**/**10%**/**10%**/**10%**, and Normal and Charged hits deal additional DMG equal to **20%**/**25%**/**30%**/**35%**/**40%** of ATK. Skypiercing Might lasts for 12s."
-    }
-  },
-  "Summit Shaper": {
-    "name": "Summit Shaper",
-    "weaponType": "Sword",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 45.9364,
-        "curve": "ATK 3.1"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.108,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Golden Majesty",
-      "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-    }
-  },
-  "Primordial Jade Cutter": {
-    "name": "Primordial Jade Cutter",
-    "weaponType": "Sword",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 44.3358,
-        "curve": "ATK 3.4"
-      },
-      {
-        "stat": "CRIT Rate",
-        "init": 0.096,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Protector's Virtue",
-      "desc": "HP increased by **20%**/**25%**/**30%**/**35%**/**40%**. Additionally, provides an ATK Bonus based on **1.2%**/**1.5%**/**1.8%**/**2.1%**/**2.4%** of the wielder's Max HP."
-    }
-  },
   "Freedom-Sworn": {
     "name": "Freedom-Sworn",
     "weaponType": "Sword",
@@ -2579,94 +2403,6 @@
     "refinements": {
       "name": "Revolutionary Chorale",
       "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by **10%**/**12.5%**/**15%**/**17.5%**/**20%**. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by **16%**/**20%**/**24%**/**28%**/**32%** and increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-    }
-  },
-  "Mistsplitter Reforged": {
-    "name": "Mistsplitter Reforged",
-    "weaponType": "Sword",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 47.537,
-        "curve": "ATK 3.2"
-      },
-      {
-        "stat": "CRIT DMG",
-        "init": 0.096,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Mistsplitter's Edge",
-      "desc": "Gain a **12%**/**15%**/**18%**/**21%**/**24%** Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **8/16/28%**/**10/20/35%**/**12/24/42%**/**14/28/49%**/**16/32/56%** Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
     }
   },
   "Haran Geppaku Futsu": {
@@ -2933,20 +2669,20 @@
       "desc": "CRIT Rate is increased by **4%**/**5%**/**6%**/**7%**/**8%**. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by **120%**/**150%**/**180%**/**210%**/**240%** of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s."
     }
   },
-  "Dark Iron Sword": {
-    "name": "Dark Iron Sword",
+  "Mistsplitter Reforged": {
+    "name": "Mistsplitter Reforged",
     "weaponType": "Sword",
-    "stars": 3,
+    "stars": 5,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 38.7413,
-        "curve": "ATK 1.1"
+        "init": 47.537,
+        "curve": "ATK 3.2"
       },
       {
-        "stat": "Elemental Mastery",
-        "init": 30.6,
-        "curve": "C1"
+        "stat": "CRIT DMG",
+        "init": 0.096,
+        "curve": "C3"
       }
     ],
     "ascensions": [
@@ -2961,7 +2697,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 19.5
+            "value": 31.1
           }
         ]
       },
@@ -2971,7 +2707,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 38.9
+            "value": 62.2
           }
         ]
       },
@@ -2981,7 +2717,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 58.4
+            "value": 93.4
           }
         ]
       },
@@ -2991,7 +2727,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 77.8
+            "value": 124.5
           }
         ]
       },
@@ -3001,7 +2737,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 97.3
+            "value": 155.6
           }
         ]
       },
@@ -3011,14 +2747,278 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 116.7
+            "value": 186.7
           }
         ]
       }
     ],
     "refinements": {
-      "name": "Overloaded",
-      "desc": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by **20%** for 12s."
+      "name": "Mistsplitter's Edge",
+      "desc": "Gain a **12%**/**15%**/**18%**/**21%**/**24%** Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **8/16/28%**/**10/20/35%**/**12/24/42%**/**14/28/49%**/**16/32/56%** Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+    }
+  },
+  "Primordial Jade Cutter": {
+    "name": "Primordial Jade Cutter",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.096,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Protector's Virtue",
+      "desc": "HP increased by **20%**/**25%**/**30%**/**35%**/**40%**. Additionally, provides an ATK Bonus based on **1.2%**/**1.5%**/**1.8%**/**2.1%**/**2.4%** of the wielder's Max HP."
+    }
+  },
+  "Skyward Blade": {
+    "name": "Skyward Blade",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.12,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Sky-Piercing Fang",
+      "desc": "CRIT Rate increased by **4%**/**5%**/**6%**/**7%**/**8%**. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by **10%**/**10%**/**10%**/**10%**/**10%**, increases ATK SPD by **10%**/**10%**/**10%**/**10%**/**10%**, and Normal and Charged hits deal additional DMG equal to **20%**/**25%**/**30%**/**35%**/**40%** of ATK. Skypiercing Might lasts for 12s."
+    }
+  },
+  "Summit Shaper": {
+    "name": "Summit Shaper",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.108,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Golden Majesty",
+      "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
     }
   }
 }

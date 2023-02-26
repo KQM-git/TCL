@@ -14,10 +14,6 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 </Weapon>
 
-### Foliar Incision
-
-<Weapon weapon="Foliar Incision" weapons={swords} />
-
 ### Freedom-Sworn
 
 <Weapon weapon="Freedom-Sworn" weapons={swords}>
@@ -44,6 +40,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 * Stacks cannot be gained when the user is off-field, and the duration of the stacks continues counting down even when the user is off-field.
 
 </Weapon>
+
+### Light of Foliar Incision
+
+<Weapon weapon="Light of Foliar Incision" weapons={swords} />
 
 ### Mistsplitter Reforged
 

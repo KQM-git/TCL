@@ -7,6 +7,7 @@ import { findFuzzyBestCandidates } from '@site/src/utils/fuzzy'
 import TabItem from '@theme/TabItem'
 import Tabs from '@theme/Tabs'
 import { CheckboxInput } from '../../common/input/CheckboxInput'
+import filename from '@site/src/utils/filename'
 
 export interface PortraitIcon {
   name: string
@@ -51,7 +52,13 @@ const travelers = [{
 }]
 const localStorageKey = "portrait-generator-custom-icons"
 
-export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons: Record<string, string[]>, artiIcons: Record<string, string[]> }) {
+export default function PortraitGenerator({
+  charIcons, artiIcons, weaponIcons
+}: {
+  charIcons: Record<string, string[]>,
+  artiIcons: Record<string, string[]>,
+  weaponIcons: Record<string, string[]>
+}) {
   const [active, setActive] = useState([{
     name: "Keqing",
     path: `/img/characters/icon/Keqing.png`
@@ -87,7 +94,7 @@ export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons:
     element,
     chars: icons.sort().map(name => ({
       name,
-      path: `/img/characters/icon/${name.replace(/ /g, "_")}.png`
+      path: `/img/characters/icon/${filename(name)}.png`
     })),
     travelerIcons: elements.filter(x => x.name == element).flatMap(relevant => travelers.map(traveler => ({
       ...traveler,
@@ -96,19 +103,29 @@ export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons:
     })))
   }))
 
-  const iconsArti = Object.entries(artiIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([level, icons]) => ({
+  const iconsArtifacts = Object.entries(artiIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([level, icons]) => ({
     level,
     icons: icons.map(name => ({
       name,
-      path: `/img/artifacts/icon/${name.replace(/ /g, "_")}.png`,
+      path: `/img/artifacts/icon/${filename(name)}.png`,
       full: true
+    }))
+  }))
+
+  const iconsWeapons = Object.entries(weaponIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([type, icons]) => ({
+    type,
+    icons: icons.map(name => ({
+      name,
+      path: `/img/weapons/icon_ascended/${filename(name)}.png`,
+      // full: true
     }))
   }))
 
   const allIcons: PortraitIcon[] = [
     ...iconsChar.flatMap(x => [...x.chars, ...x.travelerIcons]),
     ...elements,
-    ...iconsArti.flatMap(x => x.icons),
+    ...iconsArtifacts.flatMap(x => x.icons),
+    ...iconsWeapons.flatMap(x => x.icons),
     ...iconsMisc,
     ...custom
   ]
@@ -192,8 +209,20 @@ export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons:
 
     <h2>Artifacts</h2>
     <Tabs>
-      {iconsArti.map(({ level, icons }) => {
+      {iconsArtifacts.map(({ level, icons }) => {
         return <TabItem key={level} value={level} label={level + "★"}>
+          <CharSelector
+            icons={icons}
+            onClick={add}
+          />
+        </TabItem>
+      })}
+    </Tabs>
+
+    <h2>Weapons</h2>
+    <Tabs>
+      {iconsWeapons.map(({ type, icons }) => {
+        return <TabItem key={type} value={type} label={type}>
           <CharSelector
             icons={icons}
             onClick={add}

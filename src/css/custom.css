@@ -141,11 +141,12 @@ div[role="tabpanel"] {
   color: var(--ifm-color-warning-dark);
 }
 
-/* Artifact icon stuff */
-.artifact-set-box {
+/* Artifact/Weapon icon display */
+.icon-display-box {
   float: right;
   width: 8rem;
   height: 8rem;
+  margin-left: .5rem;
 }
 .clear {
   clear: both;

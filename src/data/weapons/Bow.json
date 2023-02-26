@@ -117,6 +117,94 @@
       }
     ]
   },
+  "Messenger": {
+    "name": "Messenger",
+    "weaponType": "Bow",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 39.8751,
+        "curve": "ATK 1.2"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.068,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Archer's Message",
+      "desc": "Charged Attack hits on weak points deal an additional **100%**/**125%**/**150%**/**175%**/**200%** ATK DMG as CRIT DMG. Can only occur once every 10s."
+    }
+  },
   "Raven Bow": {
     "name": "Raven Bow",
     "weaponType": "Bow",
@@ -203,94 +291,6 @@
     "refinements": {
       "name": "Bane of Flame and Water",
       "desc": "Increases DMG against opponents affected by Hydro or Pyro by **12%**/**15%**/**18%**/**21%**/**24%**."
-    }
-  },
-  "Sharpshooter's Oath": {
-    "name": "Sharpshooter's Oath",
-    "weaponType": "Bow",
-    "stars": 3,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 38.7413,
-        "curve": "ATK 1.1"
-      },
-      {
-        "stat": "CRIT DMG",
-        "init": 0.102,
-        "curve": "C1"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 19.5
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 38.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 58.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 97.3
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 116.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Precise",
-      "desc": "Increases DMG against weak spots by **24%**/**30%**/**36%**/**42%**/**48%**."
     }
   },
   "Recurve Bow": {
@@ -381,6 +381,94 @@
       "desc": "Defeating an opponent restores **8%**/**10%**/**12%**/**14%**/**16%** HP."
     }
   },
+  "Sharpshooter's Oath": {
+    "name": "Sharpshooter's Oath",
+    "weaponType": "Bow",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 38.7413,
+        "curve": "ATK 1.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.102,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Precise",
+      "desc": "Increases DMG against weak spots by **24%**/**30%**/**36%**/**42%**/**48%**."
+    }
+  },
   "Slingshot": {
     "name": "Slingshot",
     "weaponType": "Bow",
@@ -469,20 +557,20 @@
       "desc": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by **36%**/**42%**/**48%**/**54%**/**60%**. Otherwise, decreases DMG by 10%."
     }
   },
-  "Messenger": {
-    "name": "Messenger",
+  "Alley Hunter": {
+    "name": "Alley Hunter",
     "weaponType": "Bow",
-    "stars": 3,
+    "stars": 4,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 39.8751,
-        "curve": "ATK 1.2"
+        "init": 43.7349,
+        "curve": "ATK 2.2"
       },
       {
-        "stat": "CRIT DMG",
-        "init": 0.068,
-        "curve": "C1"
+        "stat": "ATK%",
+        "init": 0.06,
+        "curve": "C2"
       }
     ],
     "ascensions": [
@@ -497,7 +585,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 19.5
+            "value": 25.9
           }
         ]
       },
@@ -507,7 +595,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 38.9
+            "value": 51.9
           }
         ]
       },
@@ -517,7 +605,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 58.4
+            "value": 77.8
           }
         ]
       },
@@ -527,7 +615,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 77.8
+            "value": 103.7
           }
         ]
       },
@@ -537,7 +625,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 97.3
+            "value": 129.7
           }
         ]
       },
@@ -547,14 +635,366 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 116.7
+            "value": 155.6
           }
         ]
       }
     ],
     "refinements": {
-      "name": "Archer's Message",
-      "desc": "Charged Attack hits on weak points deal an additional **100%**/**125%**/**150%**/**175%**/**200%** ATK DMG as CRIT DMG. Can only occur once every 10s."
+      "name": "Oppidan Ambush",
+      "desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by **2%**/**2.5%**/**3%**/**3.5%**/**4%** every second up to a max of **20%**/**25%**/**30%**/**35%**/**40%**. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **4%**/**5%**/**6%**/**7%**/**8%** per second until it reaches 0%."
+    }
+  },
+  "Blackcliff Warbow": {
+    "name": "Blackcliff Warbow",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.08,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Press the Advantage",
+      "desc": "After defeating an enemy, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    }
+  },
+  "Compound Bow": {
+    "name": "Compound Bow",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "Physical DMG Bonus",
+        "init": 0.150133,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Infusion Arrow",
+      "desc": "Normal Attack and Charged Attack hits increase ATK by **4%**/**5%**/**6%**/**7%**/**8%** and Normal ATK SPD by **1.2%**/**1.5%**/**1.8%**/**2.1%**/**2.4%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
+    }
+  },
+  "End of the Line": {
+    "name": "End of the Line",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.1,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Net Snapper",
+      "desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing **80%**/**100%**/**120%**/**140%**/**160%** ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+    }
+  },
+  "Fading Twilight": {
+    "name": "Fading Twilight",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.066667,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Radiance of the Deeps",
+      "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **6%/10%/14%**/**7.5%/12.5%/17.5%**/**9%/15%/21%**/**10.5%/17.5%/24.5%**/**12%/20%/28%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
     }
   },
   "Favonius Warbow": {
@@ -645,8 +1085,184 @@
       "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
     }
   },
-  "The Stringless": {
-    "name": "The Stringless",
+  "Hamayumi": {
+    "name": "Hamayumi",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Full Draw",
+      "desc": "Increases Normal Attack DMG by **16%**/**20%**/**24%**/**28%**/**32%** and Charged Attack DMG by **12%**/**15%**/**18%**/**21%**/**24%**. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
+    }
+  },
+  "King's Squire": {
+    "name": "King's Squire",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Labyrinth Lord's Instruction",
+      "desc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **60**/**80**/**100**/**120**/**140** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **100%**/**120%**/**140%**/**160%**/**180%** of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
+    }
+  },
+  "Mitternachts Waltz": {
+    "name": "Mitternachts Waltz",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -656,8 +1272,8 @@
         "curve": "ATK 2.1"
       },
       {
-        "stat": "Elemental Mastery",
-        "init": 36,
+        "stat": "Physical DMG Bonus",
+        "init": 0.1126,
         "curve": "C2"
       }
     ],
@@ -729,12 +1345,12 @@
       }
     ],
     "refinements": {
-      "name": "Arrowless Song",
-      "desc": "Increases Elemental Skill and Elemental Burst DMG by **24%**/**30%**/**36%**/**42%**/**48%**."
+      "name": "Evernight Duet",
+      "desc": "Normal Attack hits on opponents increase Elemental Skill DMG by **20%**/**25%**/**30%**/**35%**/**40%** for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **20%**/**25%**/**30%**/**35%**/**40%** for 5s."
     }
   },
-  "Sacrificial Bow": {
-    "name": "Sacrificial Bow",
+  "Mouun's Moon": {
+    "name": "Mouun's Moon",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -744,8 +1360,8 @@
         "curve": "ATK 2.2"
       },
       {
-        "stat": "Energy Recharge",
-        "init": 0.066667,
+        "stat": "ATK%",
+        "init": 0.06,
         "curve": "C2"
       }
     ],
@@ -817,8 +1433,184 @@
       }
     ],
     "refinements": {
-      "name": "Composed",
-      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
+      "name": "Watatsumi Wavewalker",
+      "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%**. A maximum of **40%**/**50%**/**60%**/**70%**/**80%** increased Elemental Burst DMG can be achieved this way."
+    }
+  },
+  "Predator": {
+    "name": "Predator",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Strong Strike",
+      "desc": "**Effective only on the following platform:**\n**\"PlayStation Network\"**\nDealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66."
+    }
+  },
+  "Prototype Crescent": {
+    "name": "Prototype Crescent",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Unreturning",
+      "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **36%**/**45%**/**54%**/**63%**/**72%** for 10s."
     }
   },
   "Royal Bow": {
@@ -997,184 +1789,8 @@
       "desc": "Increases Normal Attack DMG by **40%**/**50%**/**60%**/**70%**/**80%** but decreases Charged Attack DMG by 10%."
     }
   },
-  "Prototype Crescent": {
-    "name": "Prototype Crescent",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.09,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Unreturning",
-      "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **36%**/**45%**/**54%**/**63%**/**72%** for 10s."
-    }
-  },
-  "Compound Bow": {
-    "name": "Compound Bow",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 41.0671,
-        "curve": "ATK 2.4"
-      },
-      {
-        "stat": "Physical DMG Bonus",
-        "init": 0.150133,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Infusion Arrow",
-      "desc": "Normal Attack and Charged Attack hits increase ATK by **4%**/**5%**/**6%**/**7%**/**8%** and Normal ATK SPD by **1.2%**/**1.5%**/**1.8%**/**2.1%**/**2.4%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
-    }
-  },
-  "Blackcliff Warbow": {
-    "name": "Blackcliff Warbow",
+  "Sacrificial Bow": {
+    "name": "Sacrificial Bow",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1184,8 +1800,8 @@
         "curve": "ATK 2.2"
       },
       {
-        "stat": "CRIT DMG",
-        "init": 0.08,
+        "stat": "Energy Recharge",
+        "init": 0.066667,
         "curve": "C2"
       }
     ],
@@ -1257,8 +1873,96 @@
       }
     ],
     "refinements": {
-      "name": "Press the Advantage",
-      "desc": "After defeating an enemy, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+      "name": "Composed",
+      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
+    }
+  },
+  "The Stringless": {
+    "name": "The Stringless",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 36,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Arrowless Song",
+      "desc": "Increases Elemental Skill and Elemental Burst DMG by **24%**/**30%**/**36%**/**42%**/**48%**."
     }
   },
   "The Viridescent Hunt": {
@@ -1349,94 +2053,6 @@
       "desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing **40%**/**50%**/**60%**/**70%**/**80%** of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every **14**/**13**/**12**/**11**/**10**s."
     }
   },
-  "Alley Hunter": {
-    "name": "Alley Hunter",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.06,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Oppidan Ambush",
-      "desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by **2%**/**2.5%**/**3%**/**3.5%**/**4%** every second up to a max of **20%**/**25%**/**30%**/**35%**/**40%**. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **4%**/**5%**/**6%**/**7%**/**8%** per second until it reaches 0%."
-    }
-  },
   "Windblume Ode": {
     "name": "Windblume Ode",
     "weaponType": "Bow",
@@ -1523,710 +2139,6 @@
     "refinements": {
       "name": "Windblume Wish",
       "desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by **16%**/**20%**/**24%**/**28%**/**32%** for 6s."
-    }
-  },
-  "Mitternachts Waltz": {
-    "name": "Mitternachts Waltz",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "Physical DMG Bonus",
-        "init": 0.1126,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Evernight Duet",
-      "desc": "Normal Attack hits on opponents increase Elemental Skill DMG by **20%**/**25%**/**30%**/**35%**/**40%** for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **20%**/**25%**/**30%**/**35%**/**40%** for 5s."
-    }
-  },
-  "Hamayumi": {
-    "name": "Hamayumi",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 41.0671,
-        "curve": "ATK 2.4"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.12,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Full Draw",
-      "desc": "Increases Normal Attack DMG by **16%**/**20%**/**24%**/**28%**/**32%** and Charged Attack DMG by **12%**/**15%**/**18%**/**21%**/**24%**. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
-    }
-  },
-  "Predator": {
-    "name": "Predator",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.09,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Strong Strike",
-      "desc": "**Effective only on the following platform:**\n**\"PlayStation Network\"**\nDealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66."
-    }
-  },
-  "Mouun's Moon": {
-    "name": "Mouun's Moon",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.06,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Watatsumi Wavewalker",
-      "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%**. A maximum of **40%**/**50%**/**60%**/**70%**/**80%** increased Elemental Burst DMG can be achieved this way."
-    }
-  },
-  "Fading Twilight": {
-    "name": "Fading Twilight",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
-      },
-      {
-        "stat": "Energy Recharge",
-        "init": 0.066667,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Radiance of the Deeps",
-      "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **6%/10%/14%**/**7.5%/12.5%/17.5%**/**9%/15%/21%**/**10.5%/17.5%/24.5%**/**12%/20%/28%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
-    }
-  },
-  "King's Squire": {
-    "name": "King's Squire",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 41.0671,
-        "curve": "ATK 2.4"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.12,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Labyrinth Lord's Instruction",
-      "desc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **60**/**80**/**100**/**120**/**140** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **100%**/**120%**/**140%**/**160%**/**180%** of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
-    }
-  },
-  "End of the Line": {
-    "name": "End of the Line",
-    "weaponType": "Bow",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "Energy Recharge",
-        "init": 0.1,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Net Snapper",
-      "desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing **80%**/**100%**/**120%**/**140%**/**160%** ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
-    }
-  },
-  "Skyward Harp": {
-    "name": "Skyward Harp",
-    "weaponType": "Bow",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 47.537,
-        "curve": "ATK 3.2"
-      },
-      {
-        "stat": "CRIT Rate",
-        "init": 0.048,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Echoing Ballad",
-      "desc": "Increases CRIT DMG by **20%**/**25%**/**30%**/**35%**/**40%**. Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **4**/**3.5**/**3**/**2.5**/**2**s."
     }
   },
   "Amos' Bow": {
@@ -2317,6 +2229,94 @@
       "desc": "Increases Normal and Charged Attack DMG by **12%**/**15%**/**18%**/**21%**/**24%**. After a Normal or Charged Attack is fired, DMG dealt increases by a further **8%**/**10%**/**12%**/**14%**/**16%** every 0.1s the arrow is in the air for up to 5 times."
     }
   },
+  "Aqua Simulacra": {
+    "name": "Aqua Simulacra",
+    "weaponType": "Bow",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.192,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "The Cleansing Form",
+      "desc": "HP is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **20%**/**25%**/**30%**/**35%**/**40%**. This will take effect whether the character is on-field or not."
+    }
+  },
   "Elegy for the End": {
     "name": "Elegy for the End",
     "weaponType": "Bow",
@@ -2405,19 +2405,19 @@
       "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by **60**/**75**/**90**/**105**/**120**. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by **100**/**125**/**150**/**175**/**200** and increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
     }
   },
-  "Thundering Pulse": {
-    "name": "Thundering Pulse",
+  "Hunter's Path": {
+    "name": "Hunter's Path",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 45.9364,
-        "curve": "ATK 3.1"
+        "init": 44.3358,
+        "curve": "ATK 3.4"
       },
       {
-        "stat": "CRIT DMG",
-        "init": 0.144,
+        "stat": "CRIT Rate",
+        "init": 0.096,
         "curve": "C3"
       }
     ],
@@ -2489,8 +2489,8 @@
       }
     ],
     "refinements": {
-      "name": "Rule by Thunder",
-      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **12/24/40%**/**15/30/50%**/**18/36/60%**/**21/42/70%**/**24/48/80%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+      "name": "At the End of the Beast-Paths",
+      "desc": "Gain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **160%**/**200%**/**240%**/**280%**/**320%** of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
     }
   },
   "Polar Star": {
@@ -2581,107 +2581,19 @@
       "desc": "Elemental Skill and Elemental Burst DMG increased by **12%**/**15%**/**18%**/**21%**/**24%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **10/20/30/48%**/**12.5/25/37.5/60%**/**15/30/45/72%**/**17.5/35/52.5/84%**/**20/40/60/96%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
     }
   },
-  "Aqua Simulacra": {
-    "name": "Aqua Simulacra",
+  "Skyward Harp": {
+    "name": "Skyward Harp",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 44.3358,
-        "curve": "ATK 3.4"
-      },
-      {
-        "stat": "CRIT DMG",
-        "init": 0.192,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "The Cleansing Form",
-      "desc": "HP is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **20%**/**25%**/**30%**/**35%**/**40%**. This will take effect whether the character is on-field or not."
-    }
-  },
-  "Hunter's Path": {
-    "name": "Hunter's Path",
-    "weaponType": "Bow",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 44.3358,
-        "curve": "ATK 3.4"
+        "init": 47.537,
+        "curve": "ATK 3.2"
       },
       {
         "stat": "CRIT Rate",
-        "init": 0.096,
+        "init": 0.048,
         "curve": "C3"
       }
     ],
@@ -2753,8 +2665,96 @@
       }
     ],
     "refinements": {
-      "name": "At the End of the Beast-Paths",
-      "desc": "Gain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **160%**/**200%**/**240%**/**280%**/**320%** of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
+      "name": "Echoing Ballad",
+      "desc": "Increases CRIT DMG by **20%**/**25%**/**30%**/**35%**/**40%**. Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **4**/**3.5**/**3**/**2.5**/**2**s."
+    }
+  },
+  "Thundering Pulse": {
+    "name": "Thundering Pulse",
+    "weaponType": "Bow",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.144,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Rule by Thunder",
+      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **12/24/40%**/**15/30/50%**/**18/36/60%**/**21/42/70%**/**24/48/80%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
     }
   }
 }

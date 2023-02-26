@@ -117,94 +117,6 @@
       }
     ]
   },
-  "Ferrous Shadow": {
-    "name": "Ferrous Shadow",
-    "weaponType": "Claymore",
-    "stars": 3,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 38.7413,
-        "curve": "ATK 1.1"
-      },
-      {
-        "stat": "HP%",
-        "init": 0.0766,
-        "curve": "C1"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 19.5
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 38.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 58.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 97.3
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 116.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Unbending",
-      "desc": "When HP falls below **70%**/**75%**/**80%**/**85%**/**90%**, increases Charged Attack DMG by **30%**/**35%**/**40%**/**45%**/**50%** and Charged Attacks become harder to interrupt."
-    }
-  },
   "Bloodtainted Greatsword": {
     "name": "Bloodtainted Greatsword",
     "weaponType": "Claymore",
@@ -291,94 +203,6 @@
     "refinements": {
       "name": "Bane of Fire and Thunder",
       "desc": "Increases DMG dealt against opponents affected by Pyro or Electro by **12%**/**15%**/**18%**/**21%**/**24%**."
-    }
-  },
-  "White Iron Greatsword": {
-    "name": "White Iron Greatsword",
-    "weaponType": "Claymore",
-    "stars": 3,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 38.7413,
-        "curve": "ATK 1.1"
-      },
-      {
-        "stat": "DEF%",
-        "init": 0.0956,
-        "curve": "C1"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 19.5
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 38.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 58.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 97.3
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 116.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Cull the Weak",
-      "desc": "Defeating an opponent restores **8%**/**10%**/**12%**/**14%**/**16%** HP."
     }
   },
   "Debate Club": {
@@ -469,6 +293,94 @@
       "desc": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to **60%**/**75%**/**90%**/**105%**/**120%** of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
     }
   },
+  "Ferrous Shadow": {
+    "name": "Ferrous Shadow",
+    "weaponType": "Claymore",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 38.7413,
+        "curve": "ATK 1.1"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.0766,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Unbending",
+      "desc": "When HP falls below **70%**/**75%**/**80%**/**85%**/**90%**, increases Charged Attack DMG by **30%**/**35%**/**40%**/**45%**/**50%** and Charged Attacks become harder to interrupt."
+    }
+  },
   "Skyrider Greatsword": {
     "name": "Skyrider Greatsword",
     "weaponType": "Claymore",
@@ -555,6 +467,270 @@
     "refinements": {
       "name": "Courage",
       "desc": "On hit, Normal or Charged Attacks increase ATK by **6%**/**7%**/**8%**/**9%**/**10%** for 6s. Max 4 stacks. Can occur once every 0.5s."
+    }
+  },
+  "White Iron Greatsword": {
+    "name": "White Iron Greatsword",
+    "weaponType": "Claymore",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 38.7413,
+        "curve": "ATK 1.1"
+      },
+      {
+        "stat": "DEF%",
+        "init": 0.0956,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Cull the Weak",
+      "desc": "Defeating an opponent restores **8%**/**10%**/**12%**/**14%**/**16%** HP."
+    }
+  },
+  "Akuoumaru": {
+    "name": "Akuoumaru",
+    "weaponType": "Claymore",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Watatsumi Wavewalker",
+      "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%**. A maximum of **40%**/**50%**/**60%**/**70%**/**80%** increased Elemental Burst DMG can be achieved this way."
+    }
+  },
+  "Blackcliff Slasher": {
+    "name": "Blackcliff Slasher",
+    "weaponType": "Claymore",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Press the Advantage",
+      "desc": "After defeating an opponent, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
     }
   },
   "Favonius Greatsword": {
@@ -645,96 +821,8 @@
       "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
     }
   },
-  "The Bell": {
-    "name": "The Bell",
-    "weaponType": "Claymore",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "HP%",
-        "init": 0.09,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Rebellious Guardian",
-      "desc": "Taking DMG generates a shield which absorbs DMG up to **20%**/**23%**/**26%**/**29%**/**32%** of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every **45**/**45**/**45**/**45**/**45**s. While protected by a shield, the character gains **12%**/**15%**/**18%**/**21%**/**24%** increased DMG."
-    }
-  },
-  "Sacrificial Greatsword": {
-    "name": "Sacrificial Greatsword",
+  "Forest Regalia": {
+    "name": "Forest Regalia",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -817,23 +905,23 @@
       }
     ],
     "refinements": {
-      "name": "Composed",
-      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
+      "name": "Forest Sanctuary",
+      "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60**/**75**/**90**/**105**/**120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
     }
   },
-  "Royal Greatsword": {
-    "name": "Royal Greatsword",
+  "Katsuragikiri Nagamasa": {
+    "name": "Katsuragikiri Nagamasa",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
+        "init": 42.401,
+        "curve": "ATK 2.1"
       },
       {
-        "stat": "ATK%",
-        "init": 0.06,
+        "stat": "Energy Recharge",
+        "init": 0.1,
         "curve": "C2"
       }
     ],
@@ -905,12 +993,188 @@
       }
     ],
     "refinements": {
-      "name": "Focus",
-      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+      "name": "Samurai Conduct",
+      "desc": "Increases Elemental Skill DMG by **6%**/**7.5%**/**9%**/**10.5%**/**12%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3**/**3.5**/**4**/**4.5**/**5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
     }
   },
-  "Rainslasher": {
-    "name": "Rainslasher",
+  "Lithic Blade": {
+    "name": "Lithic Blade",
+    "weaponType": "Claymore",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Lithic Axiom: Unity",
+      "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **7%**/**8%**/**9%**/**10%**/**11%** ATK increase and a **3%**/**4%**/**5%**/**6%**/**7%** CRIT Rate increase. This effect stacks up to 4 times."
+    }
+  },
+  "Luxurious Sea-Lord": {
+    "name": "Luxurious Sea-Lord",
+    "weaponType": "Claymore",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Oceanic Victory",
+      "desc": "Increases Elemental Burst DMG by **12%**/**15%**/**18%**/**21%**/**24%**. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals **100%**/**125%**/**150%**/**175%**/**200%** ATK as AoE DMG. This effect can occur once every 15s."
+    }
+  },
+  "Makhaira Aquamarine": {
+    "name": "Makhaira Aquamarine",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -993,8 +1257,8 @@
       }
     ],
     "refinements": {
-      "name": "Bane of Storm and Tide",
-      "desc": "Increases DMG against opponents affected by Hydro or Electro by **20%**/**24%**/**28%**/**32%**/**36%**."
+      "name": "Desert Pavilion",
+      "desc": "The following effect will trigger every 10s: The equipping character will gain **24%**/**30%**/**36%**/**42%**/**48%** of their Elemental Mastery as bonus ATK for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
     }
   },
   "Prototype Archaic": {
@@ -1085,8 +1349,8 @@
       "desc": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional **240%**/**300%**/**360%**/**420%**/**480%** ATK DMG to opponents within a small AoE. Can only occur once every 15s."
     }
   },
-  "Whiteblind": {
-    "name": "Whiteblind",
+  "Rainslasher": {
+    "name": "Rainslasher",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1096,8 +1360,8 @@
         "curve": "ATK 2.1"
       },
       {
-        "stat": "DEF%",
-        "init": 0.1126,
+        "stat": "Elemental Mastery",
+        "init": 36,
         "curve": "C2"
       }
     ],
@@ -1169,23 +1433,23 @@
       }
     ],
     "refinements": {
-      "name": "Infusion Blade",
-      "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **6%**/**7.5%**/**9%**/**10.5%**/**12%** for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
+      "name": "Bane of Storm and Tide",
+      "desc": "Increases DMG against opponents affected by Hydro or Electro by **20%**/**24%**/**28%**/**32%**/**36%**."
     }
   },
-  "Blackcliff Slasher": {
-    "name": "Blackcliff Slasher",
+  "Royal Greatsword": {
+    "name": "Royal Greatsword",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
+        "init": 43.7349,
+        "curve": "ATK 2.2"
       },
       {
-        "stat": "CRIT DMG",
-        "init": 0.12,
+        "stat": "ATK%",
+        "init": 0.06,
         "curve": "C2"
       }
     ],
@@ -1257,8 +1521,96 @@
       }
     ],
     "refinements": {
-      "name": "Press the Advantage",
-      "desc": "After defeating an opponent, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+      "name": "Focus",
+      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+    }
+  },
+  "Sacrificial Greatsword": {
+    "name": "Sacrificial Greatsword",
+    "weaponType": "Claymore",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.066667,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Composed",
+      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
     }
   },
   "Serpent Spine": {
@@ -1437,8 +1789,8 @@
       "desc": "Hitting an opponent with Normal and Charged Attacks has a **60%**/**70%**/**80%**/**90%**/**100%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **80%**/**95%**/**110%**/**125%**/**140%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **200%**/**240%**/**280%**/**320%**/**360%** of ATK. Can only occur once every 10s."
     }
   },
-  "Lithic Blade": {
-    "name": "Lithic Blade",
+  "The Bell": {
+    "name": "The Bell",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1448,7 +1800,7 @@
         "curve": "ATK 2.1"
       },
       {
-        "stat": "ATK%",
+        "stat": "HP%",
         "init": 0.09,
         "curve": "C2"
       }
@@ -1521,12 +1873,12 @@
       }
     ],
     "refinements": {
-      "name": "Lithic Axiom: Unity",
-      "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **7%**/**8%**/**9%**/**10%**/**11%** ATK increase and a **3%**/**4%**/**5%**/**6%**/**7%** CRIT Rate increase. This effect stacks up to 4 times."
+      "name": "Rebellious Guardian",
+      "desc": "Taking DMG generates a shield which absorbs DMG up to **20%**/**23%**/**26%**/**29%**/**32%** of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every **45**/**45**/**45**/**45**/**45**s. While protected by a shield, the character gains **12%**/**15%**/**18%**/**21%**/**24%** increased DMG."
     }
   },
-  "Katsuragikiri Nagamasa": {
-    "name": "Katsuragikiri Nagamasa",
+  "Whiteblind": {
+    "name": "Whiteblind",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1536,8 +1888,8 @@
         "curve": "ATK 2.1"
       },
       {
-        "stat": "Energy Recharge",
-        "init": 0.1,
+        "stat": "DEF%",
+        "init": 0.1126,
         "curve": "C2"
       }
     ],
@@ -1609,24 +1961,24 @@
       }
     ],
     "refinements": {
-      "name": "Samurai Conduct",
-      "desc": "Increases Elemental Skill DMG by **6%**/**7.5%**/**9%**/**10.5%**/**12%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3**/**3.5**/**4**/**4.5**/**5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+      "name": "Infusion Blade",
+      "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **6%**/**7.5%**/**9%**/**10.5%**/**12%** for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
     }
   },
-  "Luxurious Sea-Lord": {
-    "name": "Luxurious Sea-Lord",
+  "Redhorn Stonethresher": {
+    "name": "Redhorn Stonethresher",
     "weaponType": "Claymore",
-    "stars": 4,
+    "stars": 5,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 41.0671,
-        "curve": "ATK 2.4"
+        "init": 44.3358,
+        "curve": "ATK 3.4"
       },
       {
-        "stat": "ATK%",
-        "init": 0.12,
-        "curve": "C2"
+        "stat": "CRIT DMG",
+        "init": 0.192,
+        "curve": "C3"
       }
     ],
     "ascensions": [
@@ -1641,7 +1993,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 25.9
+            "value": 31.1
           }
         ]
       },
@@ -1651,7 +2003,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 51.9
+            "value": 62.2
           }
         ]
       },
@@ -1661,7 +2013,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 77.8
+            "value": 93.4
           }
         ]
       },
@@ -1671,7 +2023,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 103.7
+            "value": 124.5
           }
         ]
       },
@@ -1681,7 +2033,7 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 129.7
+            "value": 155.6
           }
         ]
       },
@@ -1691,278 +2043,14 @@
         "statsUp": [
           {
             "stat": "Base ATK",
-            "value": 155.6
+            "value": 186.7
           }
         ]
       }
     ],
     "refinements": {
-      "name": "Oceanic Victory",
-      "desc": "Increases Elemental Burst DMG by **12%**/**15%**/**18%**/**21%**/**24%**. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals **100%**/**125%**/**150%**/**175%**/**200%** ATK as AoE DMG. This effect can occur once every 15s."
-    }
-  },
-  "Akuoumaru": {
-    "name": "Akuoumaru",
-    "weaponType": "Claymore",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "ATK%",
-        "init": 0.09,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Watatsumi Wavewalker",
-      "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%**. A maximum of **40%**/**50%**/**60%**/**70%**/**80%** increased Elemental Burst DMG can be achieved this way."
-    }
-  },
-  "Forest Regalia": {
-    "name": "Forest Regalia",
-    "weaponType": "Claymore",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 43.7349,
-        "curve": "ATK 2.2"
-      },
-      {
-        "stat": "Energy Recharge",
-        "init": 0.066667,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Forest Sanctuary",
-      "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60**/**75**/**90**/**105**/**120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-    }
-  },
-  "Makhaira Aquamarine": {
-    "name": "Makhaira Aquamarine",
-    "weaponType": "Claymore",
-    "stars": 4,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 42.401,
-        "curve": "ATK 2.1"
-      },
-      {
-        "stat": "Elemental Mastery",
-        "init": 36,
-        "curve": "C2"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 25.9
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 51.9
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 77.8
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 103.7
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 129.7
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Desert Pavilion",
-      "desc": "The following effect will trigger every 10s: The equipping character will gain **24%**/**30%**/**36%**/**42%**/**48%** of their Elemental Mastery as bonus ATK for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+      "name": "Gokadaiou Otogibanashi",
+      "desc": "DEF is increased by **28%**/**35%**/**42%**/**49%**/**56%**. Normal and Charged Attack DMG is increased by **40%**/**50%**/**60%**/**70%**/**80%** of DEF."
     }
   },
   "Skyward Pride": {
@@ -2053,19 +2141,19 @@
       "desc": "Increases all DMG by **8%**/**10%**/**12%**/**14%**/**16%**. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **80%**/**100%**/**120%**/**140%**/**160%** of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
     }
   },
-  "Wolf's Gravestone": {
-    "name": "Wolf's Gravestone",
+  "Song of Broken Pines": {
+    "name": "Song of Broken Pines",
     "weaponType": "Claymore",
     "stars": 5,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 45.9364,
-        "curve": "ATK 3.1"
+        "init": 49.1377,
+        "curve": "ATK 3.3"
       },
       {
-        "stat": "ATK%",
-        "init": 0.108,
+        "stat": "Physical DMG Bonus",
+        "init": 0.045,
         "curve": "C3"
       }
     ],
@@ -2137,8 +2225,8 @@
       }
     ],
     "refinements": {
-      "name": "Wolfish Tracker",
-      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by **40%**/**50%**/**60%**/**70%**/**80%** for 12s. Can only occur once every 30s."
+      "name": "Rebel's Banner-Hymn",
+      "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by **16%**/**20%**/**24%**/**28%**/**32%**, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by **12%**/**15%**/**18%**/**21%**/**24%** and increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
     }
   },
   "The Unforged": {
@@ -2229,19 +2317,19 @@
       "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
     }
   },
-  "Song of Broken Pines": {
-    "name": "Song of Broken Pines",
+  "Wolf's Gravestone": {
+    "name": "Wolf's Gravestone",
     "weaponType": "Claymore",
     "stars": 5,
     "weaponCurve": [
       {
         "stat": "Base ATK",
-        "init": 49.1377,
-        "curve": "ATK 3.3"
+        "init": 45.9364,
+        "curve": "ATK 3.1"
       },
       {
-        "stat": "Physical DMG Bonus",
-        "init": 0.045,
+        "stat": "ATK%",
+        "init": 0.108,
         "curve": "C3"
       }
     ],
@@ -2313,96 +2401,8 @@
       }
     ],
     "refinements": {
-      "name": "Rebel's Banner-Hymn",
-      "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by **16%**/**20%**/**24%**/**28%**/**32%**, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by **12%**/**15%**/**18%**/**21%**/**24%** and increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-    }
-  },
-  "Redhorn Stonethresher": {
-    "name": "Redhorn Stonethresher",
-    "weaponType": "Claymore",
-    "stars": 5,
-    "weaponCurve": [
-      {
-        "stat": "Base ATK",
-        "init": 44.3358,
-        "curve": "ATK 3.4"
-      },
-      {
-        "stat": "CRIT DMG",
-        "init": 0.192,
-        "curve": "C3"
-      }
-    ],
-    "ascensions": [
-      {
-        "level": 0,
-        "maxLevel": 20,
-        "statsUp": []
-      },
-      {
-        "level": 1,
-        "maxLevel": 40,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 31.1
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "maxLevel": 50,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 62.2
-          }
-        ]
-      },
-      {
-        "level": 3,
-        "maxLevel": 60,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 93.4
-          }
-        ]
-      },
-      {
-        "level": 4,
-        "maxLevel": 70,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 124.5
-          }
-        ]
-      },
-      {
-        "level": 5,
-        "maxLevel": 80,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 155.6
-          }
-        ]
-      },
-      {
-        "level": 6,
-        "maxLevel": 90,
-        "statsUp": [
-          {
-            "stat": "Base ATK",
-            "value": 186.7
-          }
-        ]
-      }
-    ],
-    "refinements": {
-      "name": "Gokadaiou Otogibanashi",
-      "desc": "DEF is increased by **28%**/**35%**/**42%**/**49%**/**56%**. Normal and Charged Attack DMG is increased by **40%**/**50%**/**60%**/**70%**/**80%** of DEF."
+      "name": "Wolfish Tracker",
+      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by **40%**/**50%**/**60%**/**70%**/**80%** for 12s. Can only occur once every 30s."
     }
   }
 }

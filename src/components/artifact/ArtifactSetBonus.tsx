@@ -4,6 +4,7 @@ import Admonition from '@theme/Admonition'
 
 import artifacts from '@site/src/data/artifacts.json'
 import { Artifact } from '@site/src/data/types'
+import filename from '@site/src/utils/filename'
 
 export default function ArtifactSetBonus({ artifact }: { artifact: string }) {
   const arti = artifacts[artifact] as Artifact
@@ -14,7 +15,7 @@ export default function ArtifactSetBonus({ artifact }: { artifact: string }) {
     </Admonition>
 
   return <div>
-    <img className="artifact-set-box" src={`/img/artifacts/icon/${artifact.replace(/ /g, "_")}.png`} width={256} height={256} />
+    <img className="icon-display-box" src={`/img/artifacts/icon/${filename(artifact)}.png`} width={256} height={256} />
     <ul>
       {arti.bonuses.map((b) => <li key={b.count}>
         {b.count}-Piece Set Bonus: {b.desc}
