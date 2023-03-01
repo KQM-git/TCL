@@ -1,0 +1,528 @@
+{
+  "name": "Dehya",
+  "star": 5,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 1220.2496,
+    "attackBase": 20.6682,
+    "defenseBase": 48.88111,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Sandstorm Assault",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive strikes using her Claymore and her martial arts.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, performs a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Claymore",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "62.1%",
+              "67.2%",
+              "72.2%",
+              "79.5%",
+              "84.5%",
+              "90.3%",
+              "98.2%",
+              "106.2%",
+              "114.1%",
+              "122.8%",
+              "131.5%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "61.7%",
+              "66.7%",
+              "71.8%",
+              "78.9%",
+              "84.0%",
+              "89.7%",
+              "97.6%",
+              "105.5%",
+              "113.4%",
+              "122.0%",
+              "130.6%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "76.6%",
+              "82.9%",
+              "89.1%",
+              "98.0%",
+              "104.3%",
+              "111.4%",
+              "121.2%",
+              "131.0%",
+              "140.8%",
+              "151.5%",
+              "162.2%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "95.3%",
+              "103.0%",
+              "110.8%",
+              "121.9%",
+              "129.6%",
+              "138.5%",
+              "150.7%",
+              "162.9%",
+              "175.1%",
+              "188.4%",
+              "201.7%"
+            ]
+          },
+          {
+            "name": "Charged Attack Cyclic DMG",
+            "values": [
+              "56.3%",
+              "60.9%",
+              "65.5%",
+              "72.0%",
+              "76.6%",
+              "81.9%",
+              "89.1%",
+              "96.3%",
+              "103.5%",
+              "111.3%",
+              "119.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack Final DMG",
+            "values": [
+              "102%",
+              "110%",
+              "118%",
+              "130%",
+              "139%",
+              "148%",
+              "161%",
+              "174%",
+              "187%",
+              "201%",
+              "215%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "40.0/s"
+          },
+          {
+            "name": "Max Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "74.6%",
+              "80.7%",
+              "86.7%",
+              "95.4%",
+              "101.5%",
+              "108.4%",
+              "118.0%",
+              "127.5%",
+              "137.0%",
+              "147.4%",
+              "157.8%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "149%/186%",
+              "161%/201%",
+              "173%/217%",
+              "191%/238%",
+              "203%/253%",
+              "217%/271%",
+              "236%/295%",
+              "255%/318%",
+              "274%/342%",
+              "295%/368%",
+              "316%/394%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Molten Inferno",
+        "desc": "This art of Dehya's own invention changes its method of use depending on the combat situation.\n\n**Indomitable Flame**\nThis skill will be unleashed should there be no Fiery Sanctum field created by Dehya herself present at the time.\nDeals **AoE Pyro DMG**, and creates a field known as Fiery Sanctum.\n\n**Ranging Flame**\nThis skill will be unleashed should a Fiery Sanctum field created by Dehya herself already exist.\nDehya will perform a leaping attack, dealing **AoE Pyro DMG** before recreating a Fiery Sanctum field at her new position.\nA Fiery Sanctum field created this way will inherit the remaining duration of the previous field.\n\nRanging Flame can be used only once throughout a single Fiery Sanctum field's duration.\n\n**Fiery Sanctum**\nWhen an opponent within a Fiery Sanctum field takes DMG, the field will unleash a coordinated attack, dealing **AoE Pyro DMG** to them based on Dehya's ATK and Max HP. This effect can be triggered once every 2.5s.\nActive characters within this field have their resistance to interruption increased, and when such characters take DMG, a portion of that damage will be mitigated and flow into Redmane's Blood. Dehya will then take this DMG over 10s. When the mitigated DMG stored by Redmane's Blood reaches or goes over a certain percentage of Dehya's Max HP, she will stop mitigating DMG in this way.\n\nOnly 1 Fiery Sanctum created by Dehya herself can exist at the same time.\n\n**Walk this fiery ordeal with me and purge all impurity, just as a beast of flames that must descend from the blaze.**",
+        "img": "Dehya/skill_1",
+        "talentTable": [
+          {
+            "name": "Indomitable Flame DMG",
+            "values": [
+              "112.9%",
+              "121.3%",
+              "129.8%",
+              "141.1%",
+              "149.6%",
+              "158.0%",
+              "169.3%",
+              "180.6%",
+              "191.9%",
+              "203.2%",
+              "214.5%",
+              "225.8%",
+              "239.9%"
+            ]
+          },
+          {
+            "name": "Ranging Flame DMG",
+            "values": [
+              "132.8%",
+              "142.8%",
+              "152.7%",
+              "166.0%",
+              "176.0%",
+              "185.9%",
+              "199.2%",
+              "212.5%",
+              "225.8%",
+              "239.0%",
+              "252.3%",
+              "265.6%",
+              "282.2%"
+            ]
+          },
+          {
+            "name": "Field DMG",
+            "values": [
+              "60.2% ATK+1.03% Max HP",
+              "64.7% ATK+1.11% Max HP",
+              "69.2% ATK+1.19% Max HP",
+              "75.2% ATK+1.29% Max HP",
+              "79.8% ATK+1.37% Max HP",
+              "84.3% ATK+1.44% Max HP",
+              "90.3% ATK+1.55% Max HP",
+              "96.3% ATK+1.65% Max HP",
+              "102.3% ATK+1.75% Max HP",
+              "108.4% ATK+1.86% Max HP",
+              "114.4% ATK+1.96% Max HP",
+              "120.4% ATK+2.06% Max HP",
+              "127.9% ATK+2.19% Max HP"
+            ]
+          },
+          {
+            "name": "Mitigation",
+            "values": [
+              "32%",
+              "34%",
+              "36%",
+              "38%",
+              "40%",
+              "42%",
+              "44%",
+              "46%",
+              "48%",
+              "50%",
+              "52%",
+              "54%",
+              "56%"
+            ]
+          },
+          {
+            "name": "Redmane's Blood Maximum",
+            "value": "200% Max HP"
+          },
+          {
+            "name": "Field Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Leonine Bite",
+      "desc": "Unleashing her burning anger and casting her inconvenient blade aside, Dehya enters the Blazing Lioness state and increases her resistance to interruption.\nIn this state, Dehya will automatically and continuously unleash the Flame-Mane's Fists, dealing **Pyro DMG** based on her ATK and Max HP, and when its duration ends, she will unleash an Incineration Drive, dealing **AoE Pyro DMG** based on her ATK and Max HP.\nIf a Fiery Sanctum field created by Dehya's own Elemental Skill \"Molten Inferno\" exists when this ability is unleashed, Dehya will retrieve it, and then create another field once Blazing Lioness's duration expires. This field will take on the retrieved field's duration at the moment of its retrieval.\nIn this state, Dehya will be unable to cast her Elemental Skill, or perform Normal, Charged, and Plunging Attacks. \"Normal Attack: Sandstorm Assault\" and Elemental Skill \"Molten Inferno\" will be replaced by \"Roaring Barrage.\"\n\n**Roaring Barrage**\nUnleashing Roaring Barrage within 0.4s after each Flame-Mane's Fist strike will increase the speed at which the next Flame-Mane's Fist strike will be triggered.\n\n**Even the flowing flames must obey her rage and at her command become her fangs and claws.**",
+      "img": "Dehya/ult",
+      "talentTable": [
+        {
+          "name": "Flame-Mane's Fist DMG",
+          "values": [
+            "98.7% ATK+1.69% Max HP",
+            "106.1% ATK+1.82% Max HP",
+            "113.5% ATK+1.95% Max HP",
+            "123.4% ATK+2.12% Max HP",
+            "130.8% ATK+2.24% Max HP",
+            "138.2% ATK+2.37% Max HP",
+            "148.0% ATK+2.54% Max HP",
+            "157.9% ATK+2.71% Max HP",
+            "167.8% ATK+2.88% Max HP",
+            "177.7% ATK+3.05% Max HP",
+            "187.5% ATK+3.21% Max HP",
+            "197.4% ATK+3.38% Max HP",
+            "209.7% ATK+3.60% Max HP"
+          ]
+        },
+        {
+          "name": "Incineration Drive DMG",
+          "values": [
+            "139.3% ATK+2.39% Max HP",
+            "149.7% ATK+2.57% Max HP",
+            "160.2% ATK+2.75% Max HP",
+            "174.1% ATK+2.99% Max HP",
+            "184.6% ATK+3.16% Max HP",
+            "195.0% ATK+3.34% Max HP",
+            "208.9% ATK+3.58% Max HP",
+            "222.9% ATK+3.82% Max HP",
+            "236.8% ATK+4.06% Max HP",
+            "250.7% ATK+4.30% Max HP",
+            "264.7% ATK+4.54% Max HP",
+            "278.6% ATK+4.78% Max HP",
+            "296.0% ATK+5.07% Max HP"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "4.0s"
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "Pyro"
+    },
+    "passive": [
+      {
+        "name": "Unstinting Succor",
+        "desc": "Within 6 seconds after Dehya retrieves the Fiery Sanctum field through **Molten Inferno: Ranging Flame** or **Leonine Bite**, she will take 60% less DMG when receiving DMG from Redmane's Blood. This effect can be triggered once every 2s.\nAdditionally, within 9s after Dehya unleashes **Molten Inferno: Indomitable Flame**, she will grant all party members the Gold-Forged Form state. This state will further increase a character's resistance to interruption when they are within the Fiery Sanctum field. Gold-Forged Form can be activated once every 18s.",
+        "img": "Dehya/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Stalwart and True",
+        "desc": "When her HP is less than 40%, Dehya will recover 20% of her Max HP and will restore 6% of her Max HP every 2s for the next 10s. This effect can be triggered once every 20s.",
+        "img": "Dehya/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "The Sunlit Way",
+        "desc": "Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00).\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.",
+        "img": "Dehya/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "The Flame Incandescent",
+        "desc": "Dehya's Max HP is increased by 20%, and she deals bonus DMG based on her Max HP when using the following attacks:\n·**Molten Inferno**'s DMG will be increased by 3.6% of her Max HP.\n·**Leonine Bite**'s DMG will be increased by 6% of her Max HP.",
+        "img": "Dehya/const_0"
+      },
+      {
+        "name": "The Sand-Blades Glittering",
+        "desc": "When Dehya uses **Molten Inferno: Ranging Flame**, the duration of the recreated Fiery Sanctum field will be increased by 6s.\nAdditionally, when a Fiery Sanctum exists on the field, DMG dealt by its next coordinated attack will be increased by 50% when active character(s) within the Fiery Sanctum field are attacked.",
+        "img": "Dehya/const_1"
+      },
+      {
+        "name": "A Rage Swift as Fire",
+        "desc": "Increases the Level of **Leonine Bite** by 3.\nMaximum upgrade level is 15.",
+        "img": "Dehya/const_2"
+      },
+      {
+        "name": "An Oath Abiding",
+        "desc": "When Flame-Mane's Fist and Incineration Drive attacks unleashed during **Leonine Bite** hit opponents, they will restore 1.5 Energy for Dehya and 2.5% of her Max HP. This effect can be triggered once every 0.2s.",
+        "img": "Dehya/const_3"
+      },
+      {
+        "name": "The Alpha Unleashed",
+        "desc": "Increases the Level of **Molten Inferno** by 3.\nMaximum upgrade level is 15.",
+        "img": "Dehya/const_4"
+      },
+      {
+        "name": "The Burning Claws Cleaving",
+        "desc": "The CRIT Rate of **Leonine Bite** is increased by 10%.\nAdditionally, after a Flame-Mane's Fist attack hits an opponent and deals CRIT Hits during a single Blazing Lioness state, it will cause the CRIT DMG of Leonine Bite to increase by 15% for the rest of Blazing Lioness's duration and extend that duration by 0.5s. This effect can be triggered every 0.2s. The duration can be extended for a maximum of 2s and CRIT DMG can be increased by a maximum of 60% this way.",
+        "img": "Dehya/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1046.2537
+        },
+        {
+          "stat": "Base DEF",
+          "value": 41.9121
+        },
+        {
+          "stat": "Base ATK",
+          "value": 17.719818115234375
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1789.6445
+        },
+        {
+          "stat": "Base DEF",
+          "value": 71.69175
+        },
+        {
+          "stat": "Base ATK",
+          "value": 30.310215
+        },
+        {
+          "stat": "HP%",
+          "value": 0.072
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2780.832275390625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 111.39795
+        },
+        {
+          "stat": "Base ATK",
+          "value": 47.097412109375
+        },
+        {
+          "stat": "HP%",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3524.223
+        },
+        {
+          "stat": "Base DEF",
+          "value": 141.1776
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.68781
+        },
+        {
+          "stat": "HP%",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4267.614
+        },
+        {
+          "stat": "Base DEF",
+          "value": 170.95724487304688
+        },
+        {
+          "stat": "Base ATK",
+          "value": 72.27820587158203
+        },
+        {
+          "stat": "HP%",
+          "value": 0.216
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 5011.00439453125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 200.7369
+        },
+        {
+          "stat": "Base ATK",
+          "value": 84.8686
+        },
+        {
+          "stat": "HP%",
+          "value": 0.288
+        }
+      ]
+    }
+  ]
+}

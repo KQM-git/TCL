@@ -5,6 +5,10 @@ import claymores from '@site/src/data/weapons/Claymore.json'
 
 ## 5 Stars
 
+### Beacon of the Reed Sea
+
+<Weapon weapon="Beacon of the Reed Sea" weapons={claymores} />
+
 ### Redhorn Stonethresher
 
 <Weapon weapon="Redhorn Stonethresher" weapons={claymores} />

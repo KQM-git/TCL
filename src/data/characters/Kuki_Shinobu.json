@@ -150,7 +150,7 @@
       },
       {
         "name": "Sanctifying Ring",
-        "desc": "Creates a Grass Ring of Sanctification at the cost of part of her HP, dealing **Electro DMG** to nearby opponents.\n\n**Grass Ring of Sanctification**\nFollows your current active character around. Deals **Electro DMG** to nearby opponents every 1.5s and restores HP for active character(s) within the ring's AoE based on Kuki Shinobu's Max HP.\n\nThe HP consumption from using this skill can only bring her to 20% HP.\n\n\"**Band the Naku Weed into a loop about your waist, and it shall exorcise evil.**\"",
+        "desc": "Creates a Grass Ring of Sanctification at the cost of part of her HP, dealing **Electro DMG** to nearby opponents.\n\n**Grass Ring of Sanctification**\nFollows your current active character around. Deals **Electro DMG** to nearby opponents every 1.5s and restores HP for active character(s) within the ring's AoE based on Kuki Shinobu's Max HP.\n\nThe HP consumption from using this skill can only bring her to 20% HP.\n\n\"**Band the Naku Weed into a loop around your waist, and it shall exorcise evil.**\"",
         "img": "Kuki_Shinobu/skill_1",
         "talentTable": [
           {
