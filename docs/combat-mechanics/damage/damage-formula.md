@@ -7,10 +7,10 @@ description: An explanation as to how outgoing damage is calculated.
 ## General Formula for Damage
 
 $$
-\text{Damage} = ((\text{BaseDamage} \times \text{SpecialMultiplier}) + \text{FlatDamage}) \\
-\times (1 + \text{DamageBonus} - \text{DamageReduction}) \\
-\times \text{CRIT}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \times \text{AmplifyingReaction} \\
-+ \text{TransformativeReaction} + \text{Proc}
+\text{DMG} = (\Sigma(\text{Base DMG} \times \text{BaseDMGMultiplier}) + \text{AdditiveBaseDMGBonus}) \\
+\times (1 + \text{DMGBonus} - \text{DMGReduction {\text {Target}}) \\
+\times \text{CRIT}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \\ 
+\times \text{AmplifyingReaction} + \text{TransformativeReaction} + \text{Proc} \\
 $$
 
 See the sections below for the breakdown of each individual part of the formula.
@@ -18,7 +18,7 @@ See the sections below for the breakdown of each individual part of the formula.
 ## Base Damage
 
 $$
-\text{BaseDamage} =
+\text{Base DMG} =
 \begin{cases}
   \text{Talent\%} \times \text{ATK} & \text{if, Talent scales with ATK} \\
   \text{Talent\%} \times \text{DEF} & \text{if, Talent scales with DEF} \\
@@ -51,11 +51,11 @@ $$
 | **HealthCharacter**   | Character's Base HP.                                                                                                                                                                                                                            |
 | **HealthBonus**       | Sum of all percentage-based HP bonuses from artifacts, weapons, and other sources                                                                                                                                                               |
 | **EM**                | Sum of all Elemental Mastery from ascension stat, weapons, artifacts, and other sources.                                                                                                                                                        |
-| **FlatDamage**        | Extra damage from [sources](damage-formula.md#flat-damage-sources) such as [Zhongli's A4](../../characters/geo/zhongli.md#ascension-passives) or [Additive Reactions](damage-formula.md#additive-reaction).                                     |
-| **DamageBonus**       | Sum of all percentage damage increases from goblets, weapons, set bonuses and other buffs. Excludes [Xingqiu's C4](../../characters/hydro/xingqiu.md#constellations) and [Yoimiya's Elemental Skill](../../characters/pyro/yoimiya.md#attacks). |
-| **SpecialMultiplier** | Applies to certain character Talents only. See the [Special Multiplier section](damage-formula.md#special-multiplier) for full details.                                                                                                         |
+| **AdditiveBaseDMGBonus**        | Extra damage from [sources](damage-formula.md#flat-damage-sources) such as [Zhongli's A4](../../characters/geo/zhongli.md#ascension-passives) or [Additive Reactions](damage-formula.md#additive-reaction).                                     |
+| **DMGBonus**       | Sum of all percentage damage increases from goblets, weapons, set bonuses and other buffs. Excludes [Xingqiu's C4](../../characters/hydro/xingqiu.md#constellations) and [Yoimiya's Elemental Skill](../../characters/pyro/yoimiya.md#attacks). |
+| **BaseDMGMultiplier** | Applies to certain character Talents only. See the [Special Multiplier section](damage-formula.md#special-multiplier) for full details.                                                                                                         |
 
-### Flat Damage Sources
+### Additive Base DMG Sources
 
 <details>
 
@@ -148,12 +148,12 @@ import EnemyRes from '../\_formulas/enemyres.md'
 | **BaseResistance**      | The enemy's base resistance to the Element of the attack being used. [Enemy Resistances database](../../resources/compendiums/enemy-resistances.md) contains all enemy base Elemental resistances. |
 | **ResistanceReduction** | The total resistance reduction of the relevant Element from effects such as Superconduct and Viridescent Venerer.                                                                                  |
 
-## Special Multiplier
+## Base DMG Multiplier
 
 Unlike other bonuses, these are directly multiplicative with base Talent scaling. They can be considered a multiplier of the Talent motion value.
 
 $$
-\text{SpecialMultiplier} = \begin{cases}
+\text{BaseDMGMultiplier} = \begin{cases}
   1.5 & \text{if, Evilsoother triggered} \\
   \text{Talent \%} & \text{if, Frozen Wilds or Niwabi Fire-Dance triggered} \\
   1 & \text{otherwise}
