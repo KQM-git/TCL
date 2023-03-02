@@ -33,7 +33,7 @@ search: false
 
 ### A4: Lost Wisdom of the Seven Caverns
 
-#### Faruzan A4 is FlatDamage
+#### Faruzan A4 is AdditiveBaseDMGBonus
 
 **By:** jamberry\#7142  
 **Added:** <Version date="2023-02-14" />  
@@ -41,7 +41,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/transcripts/faruzan-a4-flatdamage)
 
 **Finding:**  
-Faruzan's A4 operates as what is currently named FlatDamage in the KQM TCL damage formula.  
+Faruzan's A4 operates as what is currently named AdditiveBaseDMGBonus in the KQM TCL damage formula.  
 
 **Evidence:**  
 [YouTube](https://youtu.be/jRovofgcGJc)  
