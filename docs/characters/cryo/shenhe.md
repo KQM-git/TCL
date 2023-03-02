@@ -92,7 +92,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* **Icy Quill** damage increase is calculated as additive flat damage.
+* **Icy Quill** damage increase is calculated as Additive Base DMG Bonus.
 * Initial damage on Press factors in **Spirit Communion Seal** \(A4\).
 * **Spring Spirit Summoning** itself consumes an **Icy Quill** stack
 * Multiple usages of **Spring Spirit Summoning** only refresh **Icy Quill** stacks and the respective version of **Spirit Communion Seal**'s \(A4\) buff duration.
