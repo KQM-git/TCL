@@ -130,7 +130,7 @@ This info can help in rotation crafting, where people would need to know how lon
 [Discussion](https://tickets.deeznuts.moe/transcripts/albedo-cinnabar-spindle-buffs-both-hits-of-e-n1-combo)
 
 **Finding:**  
-The Cinnabar Spindle's passive seems to linger more than the 0.1s as stated in its description, leaving room for Albedo to perform a Skill > Normal Attack combo and have both hits be buffed by Spindle's Flat Damage bonus.
+The Cinnabar Spindle's passive seems to linger more than the 0.1s as stated in its description, leaving room for Albedo to perform a Skill > Normal Attack combo and have both hits be buffed by Spindle's Additive Base DMG Bonus.
 
 **Evidence:**  
 The weapon description of the Cinnabar Spindle reads:
@@ -150,4 +150,4 @@ _Ping dependency_
 It is also worthy noting that the initial tests were done with a high ping, mobile environment. A few follow up tests were done in a 60FPS setting with ~135ms, which produced consistent Spindle proc up till ~0.5s delay between the initial E hit and the Normal Attack. A third series of testing done in ~20ms ping has failed to produce a single successful Spindle proc after 21 trials, suggesting that this Spindle proc tech is in fact most likely only achievable with high ping.
 
 **Significance:**  
-By performing a quick Normal Attack right after placing his Elemental Skill, Albedo is often able to get one extra proc of the Cinnabar Spindle Flat Damage increase buff at the beginning of combat. However, this result is only consistently observed when the ping of the player’s device is high.
+By performing a quick Normal Attack right after placing his Elemental Skill, Albedo is often able to get one extra proc of the Cinnabar Spindle Additive Base DMG increase buff at the beginning of combat. However, this result is only consistently observed when the ping of the player’s device is high.
