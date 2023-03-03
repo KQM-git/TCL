@@ -12,14 +12,15 @@ const elementalSizeMultiplier = 1 / 4
 const lineOffset = 3
 
 
-export default function Preview({ active, remove, background }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean }) {
+export default function Preview({ active, remove, background, portraitPadding }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, portraitPadding: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
   const effectiveFramePad = background ? framePad : 0
-  const frameSize = portraitSize + 2 * portraitPad
+  const effectivePortraitPad = portraitPadding ? portraitPad : 0
+  const frameSize = portraitSize + 2 * effectivePortraitPad
   const totalWidth = effectiveFramePad * 2 + frameSize * active.length + spacing * (active.length - 1)
-  const totalHeight = 2 * effectiveFramePad + 2 * portraitPad + portraitSize
+  const totalHeight = 2 * effectiveFramePad + 2 * effectivePortraitPad + portraitSize
 
   function getName(x: PortraitIcon) {
     return `${x.name}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
@@ -49,26 +50,26 @@ export default function Preview({ active, remove, background }: { active: Portra
       ctx.fillStyle = "#0B0923"
       ctx.strokeStyle = "#000000"
       if (background)
-        roundRect(ctx, leftBorder, effectiveFramePad, frameSize, portraitSize + 2 * portraitPad, 10)
+        roundRect(ctx, leftBorder, effectiveFramePad, frameSize, portraitSize + 2 * effectivePortraitPad, 10)
 
       const icon = active[i]
 
       // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
-      const x = leftBorder + portraitPad
-      const y = effectiveFramePad + portraitPad
+      const x = leftBorder + effectivePortraitPad
+      const y = effectiveFramePad + effectivePortraitPad
       await drawIcon(ctx, icon, x, y, portraitSize)
     }
-  })(), [active, background])
+  })(), [active, background, effectivePortraitPad])
 
   return <div>
     <canvas
       ref={canvasRef}
       onClick={(e) => {
-        const i = getIndex(effectiveFramePad, frameSize, e)
+        const i = getIndex(effectiveFramePad, effectivePortraitPad, frameSize, e)
         if (i >= 0 && i < active.length) remove(i)
       }}
       onMouseMove={(e) => {
-        const i = getIndex(effectiveFramePad, frameSize, e)
+        const i = getIndex(effectiveFramePad, effectivePortraitPad, frameSize, e)
         const shouldHover = i >= 0 && i < active.length
         if (shouldHover !== hovering) setHovering(shouldHover)
       }}
@@ -279,7 +280,7 @@ function drawTLDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, siz
   ctx.stroke()
 }
 
-function getIndex(effectiveFramePad: number, frameSize: number, e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {
+function getIndex(effectiveFramePad: number, effectivePortraitPad: number, frameSize: number, e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {
   const rect = e.currentTarget.getBoundingClientRect()
   const x = e.clientX - rect.left
   const y = e.clientY - rect.top
@@ -291,7 +292,7 @@ function getIndex(effectiveFramePad: number, frameSize: number, e: React.MouseEv
   const leftBorder = effectiveFramePad + i * (frameSize + spacing)
 
   const xMin = leftBorder
-  const xMax = xMin + portraitSize + portraitPad * 2
+  const xMax = xMin + portraitSize + effectivePortraitPad * 2
 
   if (i < 0 || x < xMin || x > xMax) return -1
   return i

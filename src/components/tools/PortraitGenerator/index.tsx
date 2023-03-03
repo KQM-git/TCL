@@ -65,6 +65,7 @@ export default function PortraitGenerator({
   }] as PortraitIcon[])
   const [custom, setCustom] = useState([] as PortraitIcon[])
   const [background, setBackground] = useState(true)
+  const [portraitPadding, setPortraitPadding] = useState(true)
   const [search, setSearch] = useState("")
 
   // Loading of custom icons
@@ -166,6 +167,7 @@ export default function PortraitGenerator({
       active={active}
       remove={(i: number) => setActive([...active.slice(0, i), ...active.slice(i + 1)])}
       background={background}
+      portraitPadding={portraitPadding}
     />
 
     <label>
@@ -246,6 +248,9 @@ export default function PortraitGenerator({
     <h2>Settings</h2>
     <label>
       Use background: <CheckboxInput set={setBackground} value={background} />
+    </label> <br/>
+    <label>
+      Portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
     </label> <br/>
     <a href='#' onClick={e => {
       e.preventDefault()
