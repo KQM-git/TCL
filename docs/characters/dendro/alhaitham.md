@@ -94,11 +94,23 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
-<!--
+
 **Notes**
 
-* 
--->
+* Alhaitham's resistance to interruption is increased while holding Skill and during his tap Skill animation.
+* After using hold Skill, you can instantly plunge at any height.
+* Coordinated attacks from Chisel-Light Mirrors can proc Sacrificial Sword's passive.
+* Tap Skill can teleport further than hold Skill.
+* **Chisel-Light Mirror** projection attack's positioning depends on Alhaitham's own positioning and what direction he's facing.
+* Hold E -> Plunge combo can be done faster by aiming closer to his feet while pressed against an enemies hitbox.
+* **Chisel-Light Mirror** projection attacks can miss if a swap occurs too fast (more likely at higher ping).
+* Alhaitham keeps his momentum if interrupted during his hold Skill teleport.
+* Alhaitham can remain submerged in water when in his hold Skill state.
+* Alhaitham can make his sword disappear by cancelling his Skill before it gives him mirrors. This is easily done using an alchemy table or by talking to an NPC or falling in water while in his hold Skill. Using N5, Skill or Burst makes his sword reappear, but it is still possible to activate his Dendro infusion via his A1 passive.
+* **Chisel-Light Mirror** projection attacks spawn 0-2 frames after damage numbers become visible. Damage numbers appearing is ping-dependent. Therefore, the time a Chisel-Light Mirror Projection attack spawns is ping dependent. Furthermore, the check for the level of mirror projection attacks occurs at (approximately) the same time as the damage numbers appearing.
+* **Chisel-Light Mirror** generation is not affected by ping.
+* **Chisel-Light Mirror**'s Projection Attack Type is not determined by the amount of Mirrors on the triggering hit. The check happens on the Projection Proc.
+
 
 </TabItem>
 
@@ -123,11 +135,11 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
-<!--
+
 **Notes**
 
-* 
--->
+* Burst has a 2s wait before generating new **Chisel-Light Mirrors**. It is possible to swap to another character, use a skill, and come back in time to catch the new Mirrors generated.
+
 
 </TabItem>
 </Tabs>
@@ -150,6 +162,11 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+
+**Notes**
+
+* **Chisel-Light Mirror** counts for projection attacks are calculated after A1.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
@@ -184,6 +201,16 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
+
+**Notes**
+
+* C6 buff duration after bursting depends on how many mirrors exist when the 3 mirrors are generated at burst.
+    * Burst -> CA - 6s
+    * Burst -> Tap Skill - 12s
+    * Burst -> Hold Skill -> Plunge - 18s
+    * Burst -> Tap Skill -> Wait for Mirrors from Burst - 18s
+* There is a visual indicator for the buff (green trailing light on Alhaitham's right shoulder).
+
 </TabItem>
 </Tabs>
 

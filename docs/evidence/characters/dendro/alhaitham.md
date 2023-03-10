@@ -29,16 +29,16 @@ This character is currently being theorytested, see [#alhaitham-basic-mechanics]
 
 ## Skill Mechanics
 
-* Alhaitham's resistance to interruption is increased while holding Skill, and during his tap Skill animation. - [Tap](https://youtu.be/gfnVh3yNTQo) , [Hold](https://youtu.be/2md6wXzpnGY) - an odd medium\#6288
+* Alhaitham's resistance to interruption is increased while holding Skill and during his tap Skill animation. - [Tap](https://youtu.be/gfnVh3yNTQo) , [Hold](https://youtu.be/2md6wXzpnGY) - an odd medium\#6288
 * After using hold Skill, you can instantly plunge at any height - [Video](https://www.youtube.com/watch?v=BOhWzxBTOQI) - Zentras\#1620
 * Coordinated attacks from **Chisel-Light Mirrors** can proc Sacrificial Sword's passive - [Video](https://youtu.be/EBJNdDN8rnk) - Puffin\#9920
 * Tap Skill can teleport further than hold Skill - [Hold](https://www.youtube.com/watch?v=MUMQaxMbTTQ) , [Tap](https://www.youtube.com/watch?v=mTJ_iTrEsos) - Cyn\#0962
 * **Chisel-Light Mirror** projection attack's positioning depends on Alhaitham's own positioning and what direction he's facing - [Video](https://youtu.be/iCCiERsGeGE) - Hybri\#1099
 * Hold E -> Plunge combo can be done faster by aiming closer to his feet while pressed against an enemies hitbox - [Long](https://www.youtube.com/watch?v=WsuLjvyEJdI) , [Short](https://www.youtube.com/watch?v=WhXnvRZ0pKo) - Cyn\#0962
-* **Chisel-Light Miroor** projection attacks can miss if a swap occurs too fast (more likely at higher ping) - [Video](https://www.youtube.com/watch?v=bpzOUSaxWT4) - Cyn\#0962
+* **Chisel-Light Mirror** projection attacks can miss if a swap occurs too fast (more likely at higher ping) - [Video](https://www.youtube.com/watch?v=bpzOUSaxWT4) - Cyn\#0962
 * Alhaitham keeps his momentum if interrupted during his hold Skill teleport - [Video](https://www.youtube.com/watch?v=6DD4AZOGyn4) - Cyn\#0962
 * Alhaitham can remain submerged in water when in his hold Skill state - [Video](https://www.youtube.com/watch?v=ROQ01hLr_PI) - Cyn\#0962
-* Alhaitham can make his sword disappear by cancelling his Skill before it gives him mirrors. This is easily done using an alchemy table or by talking to an NPC or falling in water while in his hold SKill. Using N5, Skill or Burst makes his sword reappear, but it is still possible to activate his Dendro infusion via his A1 passive. 
+* Alhaitham can make his sword disappear by cancelling his Skill before it gives him mirrors. This is easily done using an alchemy table or by talking to an NPC or falling in water while in his hold Skill. Using N5, Skill or Burst makes his sword reappear, but it is still possible to activate his Dendro infusion via his A1 passive. 
     * Using alchemy table - [Video](https://youtu.be/gnOmsZGJ3kQ) - Rathalos\#2875
     * Falling in water while in hold SKill - [Video](https://youtu.be/2WpyAM3jxFc) - The 11th Fatui Harbinger\#0720
 * **Chisel-Light Mirror** projection attacks spawn 0-2 frames after damage numbers become visible. Damage numbers appearing is ping-dependent. Therefore, the time a **Chisel-Light Mirror** Projection attack spawns is ping dependent. Furthermore, the check for the level of mirror projection attacks occurs at (approximately) the same time as the damage numbers appearing. - Hybri\#1099
