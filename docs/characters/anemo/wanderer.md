@@ -64,6 +64,7 @@ import Skill from '@site/src/components/char/Skill'
 * Wanderer can stun the Aeonblight Drake and he gets knocked back mid-air when the it falls.
 * If you hug an enemy, both hits of Wanderer's N3 will hit at the exact same frame.
 * Wanderer's Plunge Attack doesn't startle NPCs.
+* Wanderer's CA seems to have a special property that allows a precise input cancel to even further cancel it's animation past just prequeueing an attack. 
 
 </TabItem>
 

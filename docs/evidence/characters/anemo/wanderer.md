@@ -31,6 +31,36 @@ search: false
 * If you hug an enemy, both hits of Wanderer's N3 will hit at the exact same frame, which may cause you to lose an A4 proc. Normally there is a short delay in between the 2 hits. - [Imgur 1](https://imgur.com/a/LuR5IQp) , [Imgur 2](https://imgur.com/a/ABEbisz) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 * Wanderer's Plunge Attack doesn't startle NPCs. - [emmaus\#9072](https://youtu.be/I3P5TBp9fIw)  
 
+### Wanderer CA Cancel Mechanics
+
+**By:** Cyn\#0962  
+**Added:** <Version date="2023-03-11" />  
+**Last tested:** <VersionHl date="2023-01-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/wanderer-ca-cancel-mechanics)
+
+**Finding:**  
+The same CA cancelling that enables 14/15 (C0/1) CAs in non-hydro buffed Wanderer **Windfavored** state also enables extended strings in other combos such as N2C spam.  
+  
+**Evidence:**  
+Previously at C1 10% attack speed, the max N2C combo was thought to be 6N2C N2, but utilizing the same mechanic that enables CA spam, 7N2C can be reached.  
+  
+7N2C (C1, 10% attack speed) with precise inputs to cancel CA - [Video](https://www.youtube.com/watch?v=kkDgK2np-Es)  
+  
+Replicated for consistency and to show that it was not a one off glitch - [Video](https://www.youtube.com/watch?v=WZw-ou6vYyk)  
+  
+6N2C N2 (C1, 10% attack speed) with no precise inputs, just spamming to prequeue N2 as the CA is going - [Video](https://www.youtube.com/watch?v=O41dwZ98bc4)  
+  
+Proof that this is replicable and not pseudorandom/does not require macro - [Video](https://www.youtube.com/watch?v=KTLF-eUhSCw)  
+  
+Timing (or semi timing when you start spamming attack input after CA) seems to much more consistently yield 6N2C Burst (with burst actually happening within the **Windfavored** duration) at C0.  
+  
+Most other examples have the last CA simply extending the skill window (thus not allowing Burst out of the last CA). This further places some merit in the hypothesis that timing your attack inputs to line up with a specific point in the CA animation rather than just trying to prebuffer inputs as soon as possible yields a faster/more consistent attack string.  
+  
+This video is C0, 0% attack speed - [Video](https://www.youtube.com/watch?v=BNT6rKoDqhM) - Aftermath\#7658
+  
+**Significance:**  
+Wanderer's CA seems to have a special property that allows a precise input cancel to even further cancel it's animation past just prequeueing an attack. This leads to extended string such as 7N2C (with C1) or 6N2C Burst (at C0 with burst happening within the **Windfavored** duration, thus gaining any infusion properties) being possible, while also explaining how his CA spam is able to reach 14/15 (at C0/C1 respectively).
+
 ## Skill Mechanics
 * Wanderer's Interruption Resistance is highly increased while in his skill activation. - [Raigon\#4596](https://youtu.be/5PA0AnZOtLg)  
 * Wanderer is immune to being frozen during his Elemental Skill's casting animation (the reaction still happens, but he doesnt get frozen, same behavior as bosses) - [f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920](https://imgur.com/a/KEw1M0f)  
