@@ -96,6 +96,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * The field works as a cylinder with a large height.
+* The infusion persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 
@@ -159,6 +160,7 @@ import Passive from '@site/src/components/char/Passive'
 * The **Spirit Blade** is considered Elemental Skill damage.
 * The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.
 * No ICD on Elemental application
+* The Cryo RES shred persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 </Tabs>
