@@ -222,6 +222,7 @@ import Constellation from '@site/src/components/char/Constellation'
   * Applies to non-Electro non-Dendro damage.
   * Does not apply to the hit that triggers it.
   * It likely triggers under the condition of "a Catalyze [reaction is triggered on]/[aura is applied to] an enemy marked with a Seed of Skandha".
+  * Persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 
