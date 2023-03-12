@@ -158,9 +158,26 @@ import Frames from '@site/src/components/char/Frames'
 
 ## Ascension Passives
 
-import PassivesFull from '@site/src/components/char/PassivesFull'
+import Passive from '@site/src/components/char/Passive'
 
-<PassivesFull char={char} />
+<Tabs>
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
+</TabItem>
+
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+<Passive char={char} passive={1} />
+
+**Notes**
+ 
+* The DEF shred persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
