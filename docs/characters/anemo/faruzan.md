@@ -123,6 +123,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Faruzan's Prayerful Wind's Benefit Anemo buff applies to all party members.
 * Any dynamic abilities will benefit from the buff, there is no chance of the buff not applying upon swapping characters.
+* The RES shred persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
 
 </TabItem>
 </Tabs>
