@@ -160,6 +160,7 @@ import Passive from '@site/src/components/char/Passive'
 
 * Thoma's Shield Strength gain from **Imbricated Armor** doesn't persist on swap.
 * **Blazing Barrier**s obtained from both Thoma's Elemental Skill and Elemental Burst counts towards **Imbricated Armor's** condition to stack Shield Strength.
+* Shield Strength increase persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 
