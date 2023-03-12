@@ -190,8 +190,6 @@ import Passive from '@site/src/components/char/Passive'
 </TabItem>
 </Tabs>
 
-<PassivesFull char={char} />
-
 ## Constellations
 
 import Constellation from '@site/src/components/char/Constellation'
