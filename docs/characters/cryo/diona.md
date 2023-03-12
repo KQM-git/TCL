@@ -173,12 +173,17 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* Ths can stack with other forms of stamina reduction as long as they are not the exact same.
+* This can stack with other forms of stamina reduction as long as they are not the exact same.
 
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
+ 
+**Notes**
+ 
+* This effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+ 
 </TabItem>
 </Tabs>
 
