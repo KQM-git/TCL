@@ -106,6 +106,7 @@ import Skill from '@site/src/components/char/Skill'
 * Aloy can gain **Coil Stacks** while off-field.
 * **Chillwater Bomblets** snapshot on **Frozen Wilds** cast.
 * Recasting **Frozen Wilds** will cause existing **Chillwater Bomblets** to explode.
+* The ATK% decrease persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 
@@ -159,6 +160,11 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+  
+** Notes**
+  
+* The ATK% buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
