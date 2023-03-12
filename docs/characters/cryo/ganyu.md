@@ -191,6 +191,7 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * Dew-Drinker's Cryo RES down will apply to the **Bloom** if the enemy is hit by the **Frostflake Arrow**.
+* The RES shred persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
 
 </TabItem>
 
@@ -204,6 +205,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
+
+**Notes**
+  
+* The debuff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+
 </TabItem>
 
 <TabItem value='c5' label='C5'>
