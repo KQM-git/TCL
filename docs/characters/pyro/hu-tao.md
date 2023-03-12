@@ -168,13 +168,65 @@ import Frames from '@site/src/components/char/Frames'
 
 ## Ascension Passives
 
-import PassivesFull from '@site/src/components/char/PassivesFull'
+import Passive from '@site/src/components/char/Passive'
+
+<Tabs>
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
+</TabItem>
+
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
+
+**Notes**
+
+* The buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+<Passive char={char} passive={1} />
+
+</TabItem>
+</Tabs>
 
 <PassivesFull char={char} />
 
 ## Constellations
 
-import ConstellationsFull from '@site/src/components/char/ConstellationsFull'
+import Constellation from '@site/src/components/char/Constellation'
+
+<Tabs>
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
+</TabItem>
+
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
+</TabItem>
+
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
+</TabItem>
+
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
+ 
+**Notes**
+ 
+* The buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
+
+</TabItem>
+
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
+</TabItem>
+
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
+</TabItem>
+</Tabs>
+
 
 <ConstellationsFull char={char} />
 
