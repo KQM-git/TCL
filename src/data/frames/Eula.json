@@ -52,7 +52,7 @@
         "jump": 76,
         "swap": 100,
         "cd": 46,
-        "notes": ["Icewhirl Brand hitmarks: 49, 79", "A1 hitmark: 107f", "Swap is with ~120ms ping"]
+        "notes": ["Icewhirl Brand hitmarks: 79, 91", "A1 hitmark: 107f", "Swap is with ~120ms ping"]
     }],
     "Burst": {
         "name": "Cast",
