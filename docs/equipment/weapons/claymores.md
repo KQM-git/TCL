@@ -102,6 +102,10 @@ import FavSeries from './\_common/fav_series.md';
 
 </Weapon>
 
+### Mailed Flower
+
+<Weapon weapon="Mailed Flower" weapons={claymores} />
+
 ### Makhaira Aquamarine
 
 <Weapon weapon="Makhaira Aquamarine" weapons={claymores} />
