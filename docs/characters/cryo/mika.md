@@ -1,25 +1,25 @@
 ---
-description: take the first quote from https://genshin-impact.fandom.com/wiki/CharacterName/Lore#Personality or re-run data script after creating page
+description: A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.
 ---
 
-<!-- replace every instance of "CharacterName" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and charactername lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
-
-import char from '@site/src/data/characters/CharacterName.json'
+import char from '@site/src/data/characters/Mika.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
-# CharacterName
+# Mika
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/CharacterName.png')} alt="CharacterName's gacha art" />
+<Image img={require('/img/characters/gacha/Mika.png')} alt="Mika's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
+<!--
 ## Resources
 
-* [CharacterName Mains Discord]()
-* [Full CharacterName Written Guide]()
-* [CharacterName Quick Guide]()
-* [# Minute Video Guide to CharacterName]()
+* [Mika Mains Discord]()
+* [Full Mika Written Guide]()
+* [Mika Quick Guide]()
+* [# Minute Video Guide to Mika]()
+-->
 
 ## Base Stats
 
@@ -42,6 +42,7 @@ take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spr
 take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
 -->
 
+<!--
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :--- | :----------- | :----------- |
 | 1-Hit  |           |        |      |              |              |
@@ -49,24 +50,11 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 | 3-Hit  |           |        |      |              |              |
 | 4-Hit  |           |        |      |              |              |
 | 5-Hit  |           |        |      |              |              |
+-->
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
-
-<!-- sword
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              | 2 + 6        |
-| N1C    |           |        |      | -            | -            |
--->
-
-<!-- claymore
-| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
 
 <!-- polearm/catalyst
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -74,22 +62,17 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 | CA     |           |        |      |              |              |
 -->
 
-<!-- bow
-| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
-| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
-| Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
--->
-
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
+<!--
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
 | Plunge DMG      |           |              |              |
 | Low Plunge DMG  |           |              |              |
 | High Plunge DMG |           |              |              |
+-->
 
 </div>
 
@@ -104,6 +87,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
+<!--
 | Attribute      | Tap       | Hold      |
 | :------------- | :-------- | :-------- |
 | DMG \(T9%\)    |           |           |
@@ -117,12 +101,9 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 | CD             |           |           |
 | Poise Damage   |           |           |
 | Impulse Type   |           |           |
+-->
 
 </div>
-
-**Notes**
-
-* 
 
 </TabItem>
 
@@ -133,6 +114,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 <!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
 
+<!--
 | Attribute         | Primary   | Secondary |
 | :---------------- | :-------- | :-------- |
 | DMG \(T9%\)       |           |           |
@@ -146,22 +128,22 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 | Cooldown          |           |           |
 | Poise Damage      |           |           |
 | Impulse Type      |           |           |
+-->
 
 </div>
 
-**Notes**
-
-* 
 
 </TabItem>
 </Tabs>
 
+<!--
 ## Frames
 
-import charFrames from '@site/src/data/frames/CharacterName.json'
+import charFrames from '@site/src/data/frames/Mika.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
+-->
 
 ## Ascension Passives
 
@@ -219,4 +201,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/characterelement/charactername.md')} />
+<Card item={require('../../evidence/characters/cryo/mika.md')} />

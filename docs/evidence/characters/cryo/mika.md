@@ -1,8 +1,8 @@
-# CharacterName
+# Mika
 
 **Main Page:**
 
-<Card item={require('../../../characters/characterelement/charactername.md')} />
+<Card item={require('../../../characters/cryo/mika.md')} />
 
 ## Basic Mechanics
 

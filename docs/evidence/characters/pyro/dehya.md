@@ -1,8 +1,8 @@
-# CharacterName
+# Dehya
 
 **Main Page:**
 
-<Card item={require('../../../characters/characterelement/charactername.md')} />
+<Card item={require('../../../characters/pyro/dehya.md')} />
 
 ## Basic Mechanics
 
