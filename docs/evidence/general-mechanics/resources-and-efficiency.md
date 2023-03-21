@@ -932,3 +932,19 @@ The Reunion Blessing bonus from the Stellar Reunion event is prioritized over th
 This won't be a particularly common occurrence, but if you want to use the Reunion Blessing bonus for something other than Ley Line Outcrops while Ley Line Overflow is active, spending Resin on another activity before doing Ley Line Outcrops is recommended.  
   
 It might be assumed that this works similarly for the Overflowing Mastery event. In theory, it's likely that Reunion Blessing is also consumed first, but testing is still necessary to verify that claim.
+
+### Reunion Blessing Is Consumed Before Overflowing Mastery
+
+**By:** jas\#6562, spacespace\#9403  
+**Added:** <Version date="2023-02-22" />  
+**Last tested:** <VersionHl date="2023-02-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/reunion-blessing-is-consumed-before-overflowing-mastery)
+
+**Finding:**  
+The Reunion Blessing bonus from Stellar Reunion is consumed before the Overflowing Mastery bonus if both events are active at the same time.  
+  
+**Evidence:**  
+[www.youtube.com](https://www.youtube.com/watch?v=cuJugTYKkZs)  
+  
+**Significance:**  
+If you have both events active and you wish to use Reunion Blessing for something other than talent domains while Overflowing Mastery is active, you should spend resin on that other activity before doing talent domains.
