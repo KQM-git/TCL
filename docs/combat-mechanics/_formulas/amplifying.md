@@ -5,6 +5,5 @@ $$
 $$
 \text{ReactionMultiplier} = \begin{cases}
   2 & \text{if, triggering Vaporize with {\color{4688ff}Hydro} or Melt with {\color{f68f9a}Pyro}}\\
-  1.5 & \text{if, triggering Vaporize with {\color{f68f9a}Pyro} or Melt with {\color{7ba4d3}Cryo}}\\
-  1 & \text{otherwise} \end{cases}
+  1.5 & \text{if, triggering Vaporize with {\color{f68f9a}Pyro} or Melt with {\color{7ba4d3}Cryo}}\end{cases}
 $$
