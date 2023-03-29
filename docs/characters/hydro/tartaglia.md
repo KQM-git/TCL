@@ -209,7 +209,7 @@ A chart of Tartgalia's different Riptide effects
 | :---------------- | :------------------ | :---------------- | :-------------------- | :-------------------- |
 | Source            | Charge shot on mark | Melee hit on mark | Enemy death with mark | Melee Burst with mark |
 | Skill DMG \(T6%\) | 17.63% \* 3         | 86.5%             | 86.8%                 | 168%                  |
-| Particles         | --                  | 1 per proc        | --                    | --                    |
+| Particles         | 1 every 3s          | 1 every 3s        | --                    | --                    |
 | GU                | 1U                  | 1U                | 2U                    | 2U                    |
 | ICD               | Standard            | None              | None                  | None                  |
 | Snapshot          | --                  | Dynamic           | --                    | --                    |
@@ -219,6 +219,7 @@ A chart of Tartgalia's different Riptide effects
 **Notes**
 
 * **Riptide** has a 10s duration \(without Ascension 1\).
+* 1 Hydro Particle on **Riptide Flash** and **Riptide Slash** trigger both held to a 3s cooldown for all generation.
 
 </TabItem>
 
