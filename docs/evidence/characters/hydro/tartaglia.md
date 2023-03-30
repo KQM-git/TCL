@@ -159,6 +159,28 @@ Swapping off of Childe as soon as possible will minimize his cooldown if you mad
 
 ## Riptide Mechanics
 
+### Correcting Childe Energy Generation
+
+**By:** Mystathi\#9705  
+**Added:** <Version date="2023-03-24" />  
+**Last tested:** <VersionHl date="2023-03-24" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/correcting-childe-energy-generation)
+
+**Finding:**  
+The TCL's information on Childe's energy generation was wrong. The following information is not really a finding because it's been known for ages.  
+  
+Childe's Particle Generation is:  
+- A Hydro Particle on Riptide Flash trigger  
+- A Hydro Particle on Riptide Slash trigger  
+- Held to a 3s ICD for all generation  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/4xfdaguT3kg)  
+[YouTube](https://youtu.be/9TtN_npBwno)  
+  
+**Significance:**  
+Correcting misinformation. Knowing Childe generates particles in Ranged Stance is also important.
+
 ### Riptide Burst \(Enemy Kill\) can be triggered by other units
 
 **By:** Cola\#4314
