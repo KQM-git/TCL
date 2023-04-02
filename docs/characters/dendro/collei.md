@@ -178,6 +178,7 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * The buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+
 </TabItem>
 
 <TabItem value='c5' label='C5'>
