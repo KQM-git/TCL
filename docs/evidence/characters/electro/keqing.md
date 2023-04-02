@@ -213,13 +213,15 @@ Some technical stuff. Kinda poggers.
 **Last tested:** <VersionHl date="2023-02-05" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/keqing-stiletto-teleport-distances)
 
-**Finding:**  
+**Findings:**  
+
 Throw:  
  - Keqing's Stiletto is thrown just under 3.5 tiles away horizontally, for both Press and Hold.  
  - Aiming vertically does not appear to change how far horizontally the Stiletto travels.  
  - Short Hold can aim the Stiletto horizontally, this retains the properties of Press Skill.  
  - Press Skill attempts to stick the Stiletto to the floor if the slope is not too great.  
  - The Stiletto can be placed through some surfaces sometimes.  
+ 
 Teleport:  
  - Hold Skill teleports just under 3 tiles (~2.8?).  
  - Horizontal range is independent of vertical travel distance, however vertical range is dependent on the horizontal distance travelled.  
