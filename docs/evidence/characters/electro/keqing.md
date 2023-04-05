@@ -206,6 +206,38 @@ It is also possible to send the Mark in another direction by rapidly spinning th
 **Significance:**  
 Some technical stuff. Kinda poggers.
 
+### Keqing Stiletto Teleport Distances
+
+**By:** sharaths21312\#0758  
+**Added:** <Version date="2023-02-10" />  
+**Last tested:** <VersionHl date="2023-02-05" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/keqing-stiletto-teleport-distances)
+
+**Findings:**  
+
+Throw:  
+ - Keqing's Stiletto is thrown just under 3.5 tiles away horizontally, for both Press and Hold.  
+ - Aiming vertically does not appear to change how far horizontally the Stiletto travels.  
+ - Short Hold can aim the Stiletto horizontally, this retains the properties of Press Skill.  
+ - Press Skill attempts to stick the Stiletto to the floor if the slope is not too great.  
+ - The Stiletto can be placed through some surfaces sometimes.  
+ 
+Teleport:  
+ - Hold Skill teleports just under 3 tiles (~2.8?).  
+ - Horizontal range is independent of vertical travel distance, however vertical range is dependent on the horizontal distance travelled.  
+ - Press Skill teleports about 6 tiles maximum.  
+ - Press Skill keeps Keqing on the ground.  
+ - Hold Skill results in a slight fall after the teleport, even if aimed at the ground.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/9qy8QiOuLRk) (Skill throws)  
+[YouTube](https://youtu.be/2scJEJPepPQ) (Skill teleports)  
+[YouTube](https://youtu.be/bH6_yyOy4cQ) (short Hold interactions)  
+  
+**Significance:**  
+- Press/short Hold Skill is likely better for most gameplay scenarios.  
+- Better understanding of Keqing Skill mechanics.
+
 ## Burst Mechanics
 
 ### Starward Sword can be Burst-cancelled
