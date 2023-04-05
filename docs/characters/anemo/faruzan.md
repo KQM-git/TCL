@@ -191,6 +191,7 @@ import Constellation from '@site/src/components/char/Constellation'
 * Pressurized Collapse can proc additional Pressurized Collapses at C6.
 * The 3s CD on C6's Pressurized Collapse does not affect the Pressurized Collapses from Faruzan's E.
 * 4p TotM works with Faruzan’s C6 when activated.
+* Pressurized Collapses created through Faruzan's C6 are dynamic and do not snapshot her stats.
   
 </TabItem>
 </Tabs>

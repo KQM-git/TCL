@@ -458,6 +458,8 @@ Teams with C6 Sucrose can plan their absorption time around when they want to ut
 
 ## Synergies/Interactions
 
+* Sucrose can trigger a Guoba Swirl. The application on Guoba Swirl from Sucrose's E is 2U. - [f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920](../pyro/xiangling.md#guoba-swirl-anemo-gauge)
+
 ### Gambler's 4-Piece effect can stack with sacrificial weapons to refresh two of Sucrose's Skill charges simultaneously
 
 **By:** Faranight\#0001

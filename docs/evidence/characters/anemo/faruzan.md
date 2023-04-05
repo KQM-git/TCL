@@ -66,8 +66,33 @@ TCL completion.
 * The 3s CD on C6's Pressurized Collapse does not affect the Pressurized Collapses from Faruzan's E. - [The CEO of GEO#7227](https://www.youtube.com/watch?v=9TqYhBOJvzw&feature=youtu.be)
 * 4p TotM works with Faruzan’s C6 when activated. - [Daybreak#0584](https://youtu.be/hm3nztFnhY0)
 
+#### C6 Faruzan Is Dynamic
+
+**By:** anticipaste\#8704  
+**Added:** <Version date="2023-03-05" />  
+**Last tested:** <VersionHl date="2023-03-05" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/c6-faruzan-is-dynamic)
+
+**Finding:**  
+Pressurized Collapses created through Faruzan's C6 are dynamic and do not snapshot her stats at the time she used her burst.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/hGzP_u26LYY)  
+ * 0:22 - Initial Q damage triggers a Pressurized Collapse: 1041 DMG, affected by Anemo shred and Anemo buff, non-crit.  
+ * 0:26 - Another Pressurized Collapse is triggered by Faruzan's N1: 2626 DMG, affected by Anemo shred and Anemo buff, crit.  
+ * 0:30 - Another Pressurized Collapse triggered by Faruzan's N4: 2626 DMG, affected by Anemo shred and Anemo buff, crit.  
+ * 0:32 - Bennett bursts, activating the 4-Piece ATK Buff of Noblesse Oblige. Note that the Lawachurl has left the AoE of the Dazzling Polyhedron.  
+ * 0:35 - A Pressurized Collapse is triggered by Faruzan's N1: 3931 DMG, affected by Anemo buff, affected by Bennett Q and 4-Piece Noblesse, crit.  
+ * 0:38 - A Pressurized Collapse is triggered by Faruzan's N1: 4805 DMG, affected by Anemo shred and Anemo buff, affected by Bennett Q and 4-Piece Noblesse, crit.  
+ * 0:41 - A Pressurized Collapse is triggered by Faruzan's N2: 4805 DMG, affected by Anemo shred and Anemo buff, affected by Bennett Q and 4-Piece Noblesse, crit.  
+  
+**Significance:**  
+Useful if someone wants to know how Faruzan's damage is affected by buffs.
+
+
 
 ## Synergies/Interactions
 
 * Faruzan's Pressurized Collapse can trigger a Guoba Swirl. - [Rathalos#2875](https://imgur.com/dvSdeLC)
 * Faruzan can reliably hit all of Timmie's Pigeons. - [Soul Fish#8421](https://youtu.be/qAi7NOvSdJc)
+* Faruzan can Guoba Swirl. The Anemo application on Guoba Swirl from Faruzan's E is 2U. - * [f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920](../pyro/xiangling.md#guoba-swirl-anemo-gauge)
