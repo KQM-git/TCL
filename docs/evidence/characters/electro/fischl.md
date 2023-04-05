@@ -203,7 +203,7 @@ Has some value in exploration.
 
 **Significance:** Prototype Crescent rises up in weapon choice for a A1 charged shot focused Fischl build. Additionally, you can see that I need to aim to the side of Oz, because he doesn't count as a "target" so there is a parallax effect for aiming, requiring me to aim to the side to hit him.
 
-#### Fischl A1 Special Multiplier
+#### Fischl A1 Base DMG Multiplier
 
 **By:** Apxllo\#2021  
 **Added:** <Version date="2002-02-02" />  
@@ -228,7 +228,7 @@ _Hypothesis 1:_ Stellar Predator is a normal DMG bonus.
 * Therefore, predicted Stellar Predator DMG = 166.44 \* (1.993) = 331.71
 * This contradicts the ingame evidence. Hence, Hypothesis 1 is disproved.
 
-_Hypothesis 2:_ Stellar Predator is a special multiplier (raw multiplier to the Base DMG)
+_Hypothesis 2:_ Stellar Predator is regarded as Base DMG Multiplier (raw multiplier to the Base DMG)
 
 * Predicted Stellar Predator DMG = (166.44) \* (1.527) \* (1.466) = 372.59 ≅ 373
 * This DMG lines up with the DMG ingame. Hence, Hypothesis 2 is valid.

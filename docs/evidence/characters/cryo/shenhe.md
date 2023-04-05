@@ -26,7 +26,7 @@
 * **Particles** - [Video](https://youtu.be/UvlvFAPLyRQ) - CC\#5588
   * Tap: 3 (-)
   * Hold: 4 (-)
-* Quill Stacks are Calculated as Additive Flat Damage - [Video](https://youtu.be/U7H4pfAQARs) / [Calcs](https://tinyurl.com/yp9uz8wz) - CC\#5588
+* Quill Stacks are Calculated as Additive Base DMG Bonus - [Video](https://youtu.be/U7H4pfAQARs) / [Calcs](https://tinyurl.com/yp9uz8wz) - CC\#5588
 * Initial Tap E Factors in her A4 - [Video](https://youtu.be/U7H4pfAQARs) / [Calcs](https://tinyurl.com/yp9uz8wz) - CC\#5588
 * The Skill Itself Consumes Quill Stacks - [Video](https://youtu.be/U7H4pfAQARs) / [Calcs](https://tinyurl.com/yp9uz8wz) - CC\#5588
 * Multiple usages of Shenhe's E only refresh Icy Quill stacks and its version of A4 buff duration

@@ -33,7 +33,7 @@ search: false
 
 ### A4: Lost Wisdom of the Seven Caverns
 
-#### Faruzan A4 is FlatDamage
+#### Faruzan A4 is AdditiveBaseDMGBonus
 
 **By:** jamberry\#7142  
 **Added:** <Version date="2023-02-14" />  
@@ -41,7 +41,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/transcripts/faruzan-a4-flatdamage)
 
 **Finding:**  
-Faruzan's A4 operates as what is currently named FlatDamage in the KQM TCL damage formula.  
+Faruzan's A4 operates as what is currently named AdditiveBaseDMGBonus in the KQM TCL damage formula.  
 
 **Evidence:**  
 [YouTube](https://youtu.be/jRovofgcGJc)  
@@ -50,12 +50,12 @@ Xiao E expected damage without Faruzan: $\text{A4} = 4.3 \times 1205 \times (1 +
 
 $\text{Faruzan A4} = 639 \times .32 = 204$  
 
-Xiao E expected damage with Faruzan A4 if: $\text{FlatDamage} = (4.3 \times 1205 + 204) \times (1 + .466 + .288) \times (1 + 1.223) \times (1.1) \times \frac{100 + 90}{100 + 90 + 100 + 85} = 11703$  
+Xiao E expected damage with Faruzan A4 if: $\text{AdditiveBaseDMGBonus} = (4.3 \times 1205 + 204) \times (1 + .466 + .288) \times (1 + 1.223) \times (1.1) \times \frac{100 + 90}{100 + 90 + 100 + 85} = 11703$  
 
 Xiao E expected damage with Faruzan A4 if: $\text{DMG Bonus} = (4.3 \times 1205) \times (1 + .466 + .288 + 2.04) \times (1 + 1.223) \times (1.1) \times \frac{100 + 90}{100 + 90 + 100 + 85} = 24356$  
 
 Actual damage = $11694$  
-Actual damage closest to FlatDamage, variance likely due to rounding error.  
+Actual damage closest to AdditiveBaseDMGBonus, variance likely due to rounding error.  
 
 **Significance:**  
 TCL completion.

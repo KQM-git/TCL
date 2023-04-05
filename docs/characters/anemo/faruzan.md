@@ -152,7 +152,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**  
 
-* Faruzan's A4 operates as FlatDamage in the KQM TCL damage formula.  
+* Faruzan's A4 operates as AdditiveBaseDMGBonus in the KQM TCL damage formula.  
   
 </TabItem>
 </Tabs>

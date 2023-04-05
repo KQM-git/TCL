@@ -452,7 +452,7 @@ Math: [Google Sheets](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3
 Echoes will stack even when holder's Normal Attacks deal 0 damage.  
 
 **Evidence:**  
-Testing by first hitting a Mitachurl's shield for 0 damage and then the Mitachurl to deal NA damage results in a sampled Echoes Flat DMG bonus average trigger chance that is abnormally high if the set did not stack on 0-damage Normal Attacks.  
+Testing by first hitting a Mitachurl's shield for 0 damage and then the Mitachurl to deal NA damage results in a sampled Echoes Additive Base DMG Bonus average trigger chance that is abnormally high if the set did not stack on 0-damage Normal Attacks.  
 Video: [YouTube](https://youtu.be/x_B1wD1tSNM)  
 Math: [Google Sheets](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)  
 
