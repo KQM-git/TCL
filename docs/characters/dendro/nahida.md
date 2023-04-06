@@ -219,7 +219,7 @@ import Constellation from '@site/src/components/char/Constellation'
   * Dependent on the target, not the source attack.
   * Allows Bloom, Hyperbloom, and Burgeon to trigger the Favonius passive, but not Burning.
 * DEF Shred:
-  * Applies to non-Electro non-Dendro damage.
+  * Also applies to non-Electro non-Dendro damage.
   * Does not apply to the hit that triggers it.
   * It likely triggers under the condition of "a Catalyze [reaction is triggered on]/[aura is applied to] an enemy marked with a Seed of Skandha".
 

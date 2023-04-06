@@ -71,19 +71,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute      | Skill         | Shooting Star | Shield                           |
-| :------------- | :------------ | :------------ | :------------------------------- |
-| DMG \(T9%\)    | 21.76% Max HP | 25.02% Max HP | 18.36 + 2114 Max HP (absorption) |
-| Particles      | 1~2 (2:1)     | -             | -                                |
-| GU             | 1U            | 1U            | 1U (self)                        |
-| ICD            | None          | 7 hit / 3s    | -                                |
-| Snapshot       | -             | Snapshot      | -                                |
-| Damage Element | Cryo          | Cryo          | Cryo                             |
-| Damage Type    | Skill         | Skill         | -                                |
-| Duration       | -             | -             | 12                               |
-| CD             | 12            | -             | -                                |
-| Poise Damage   | 30            | 15            | -                                |
-| Impulse Type   | 3             | 2             | -                                |
+| Attribute      | Skill      | Shooting Star | Shield                           |
+| :------------- | :--------- | :------------ | :------------------------------- |
+| DMG \(T9%\)    | 21.76%     | 25.02%        | 18.36 + 2115 Max HP (absorption) |
+| Particles      | -          | 1~2 (2:1)     | -                                |
+| GU             | 1U         | 1U            | 1U (self)                        |
+| ICD            | None       | 7 hit / 3s    | -                                |
+| Snapshot       | -          | Snapshot      | -                                |
+| Damage Element | Cryo       | Cryo          | Cryo                             |
+| Damage Type    | Skill      | Skill         | -                                |
+| Duration       | -          | -             | 12                               |
+| CD             | 12         | -             | -                                |
+| Poise Damage   | 30         | 15            | -                                |
+| Impulse Type   | 3          | 2             | -                                |
 
 </div>
 

@@ -8,7 +8,7 @@ description: An explanation as to how outgoing damage is calculated.
 
 $$
 \text{DMG} = (\Sigma(\text{Base DMG} \times \text{BaseDMGMultiplier}) + \text{AdditiveBaseDMGBonus}) \\
-\times (1 + \text{DMGBonus} - \text{DMGReduction {\text {Target}}) \\
+\times (1 + \text{DMGBonus} - \text{DMGReduction} {\text{Target}}) \\
 \times \text{CRIT}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \\ 
 \times \text{AmplifyingReaction} + \text{TransformativeReaction} + \text{Proc} \\
 $$
@@ -124,7 +124,7 @@ import EnemyDef from '../\_formulas/enemydef.md'
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **LevelCharacter** | The player character's level.                                                                                                                                                                         |
 | **LevelEnemy**     | The enemy's level.                                                                                                                                                                                    |
-| **DefReduction**   | The total defense (but not resistance) reduction from various [defense reduction effects](damage-formula.md#defense-reduction-effects).                                                               |
+| **DefReduction**   | The total defense (but not resistance) reduction from various [defense reduction effects](damage-formula.md#defense-reduction-sources).                                                               |
 | **DefIgnore**      | The total defense ignore from effects such as [Raiden Shogun's C2](../../characters/electro/raiden-shogun.md#constellations) or [Yae Miko's C6](../../characters/electro/yae-miko.md#constellations). |
 
 * DefReduction is hard capped at 90%
@@ -167,6 +167,8 @@ $$
 | [**Niwabi Fire-Dance**](../../characters/pyro/yoimiya.md#attacks) | Yoimiya's Elemental Skill applies a scaling buff to her Normal Attacks.                             |
 
 ## Amplifying Reaction
+
+Equals to $1$ if no amplifying reaction is triggered, otherwise:
 
 import AmplifyingReaction from '../\_formulas/amplifying.md'
 
