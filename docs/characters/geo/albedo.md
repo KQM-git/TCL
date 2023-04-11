@@ -152,6 +152,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * The buff is triggered during the Q animation when the Geo structures first appear in front of Albedo.
+* The buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 </Tabs>

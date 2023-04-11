@@ -161,7 +161,8 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * The CRIT Rate shared by **Shadow Samaritan** can be stacked with external CRIT buffs that show up in a character's stat sheet
-  * For example, the CRIT Rate shared by **Shadow Samaritan** stacks with both Hu Tao's A1 talent and Geo MC C1.
+  * For example, the CRIT Rate shared by **Shadow Samaritan** stacks with both Hu Tao's A1 talent and Geo MC C1.  
+* This buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 </Tabs>
@@ -202,6 +203,7 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * This effect can also be triggered by the lance DoT.
+* This effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 </Tabs>

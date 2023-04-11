@@ -152,6 +152,7 @@ import Passive from '@site/src/components/char/Passive'
 * This effect cannot be triggered by swirling off Guoba or environmental objects such as cooking pots.
 * This effect can be triggered by chain reaction Swirls.
 * Swirls caused by the absorbed Element in **Forbidden Creation-Isomer 75/Type II** can trigger this effect.
+* This effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 
@@ -165,6 +166,7 @@ import Passive from '@site/src/components/char/Passive'
 * A4 effect can be triggered even when Sucrose is not on the field.
 * A4 effect is dynamic in multiswirl situations.
 * A4 shares 20% of Kazuha's C2 EM.
+* A4 effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 </Tabs>
@@ -215,6 +217,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 * This buff lasts for 10 seconds.
 * C6 effect can be triggered even when Sucrose is not on the field.
+* This buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 </Tabs>
