@@ -192,6 +192,7 @@ import Passive from '@site/src/components/char/Passive'
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
 * Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
 * Kazuha's 4th ascension passive overrides previous instances on every Swirl of the same Element, using his current Elemental Mastery.
+* The Elemental DMG Bonus persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
 
 </TabItem>
 </Tabs>

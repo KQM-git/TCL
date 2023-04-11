@@ -138,6 +138,7 @@ import LumineCA from '../_common/lumine_ca.md'
 * The number of **Abundance Amulets** generated depends on the number of Lightning Blades hit AND number of enemies hit.
 * Hitting a shield will still generate **Abundance Amulets**
 * There is a delay before the **Abundance Amulets** can be picked up, on average 1.79s.
+* The ER% buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
 
 </TabItem>
 
@@ -219,6 +220,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c2' label='C2'>
 <Constellation char={char} constellation={2} />
+
+**Notes**
+  
+* This effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+
 </TabItem>
 
 <TabItem value='c3' label='C3'>

@@ -165,6 +165,7 @@ import Skill from '@site/src/components/char/Skill'
   * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an Elemental shield/armor, etc.
   * Petrify can extend the duration of the aforementioned stagger-resistant state, effectively extending the duration of the **Illusory Bubble**.
 * Certain Skills/Bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
+* There are some interactions regarding the persistence of the debuff when this character leaves the party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 </Tabs>
@@ -221,6 +222,7 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 * Vaporize DMG bonus can be snapshotted.
 * Hydro Swirl and Electro-Charged DMG bonus do not snapshot and require the reaction owner to be onfield.
 * **Prophecy of Submersion** does not extend Frozen.
+* There are some interactions regarding the persistence of the reaction bonuses when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
 

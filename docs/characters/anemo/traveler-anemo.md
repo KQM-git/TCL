@@ -237,6 +237,7 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * This effect lasts 10 seconds.
+* The Anemo RES shred persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
 
 </TabItem>
 </Tabs>
