@@ -166,6 +166,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 </Artifact>
 
+### Nymph's Dream
+
+<Artifact artifact="Nymph's Dream" />
+
 ### Ocean-Hued Clam
 
 <Artifact artifact="Ocean-Hued Clam">
@@ -272,6 +276,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * The active bonus timer will remain even when any piece is removed or the character equipping the set is swapped out of the team.
 
 </Artifact>
+
+### Vourukasha's Glow
+
+<Artifact artifact="Vourukasha's Glow" />
 
 ### Wanderer's Troupe
 

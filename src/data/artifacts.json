@@ -134,7 +134,7 @@
     "bonuses": [
       {
         "count": 2,
-        "desc": "Increases Normal Attack and Charged Attack DMG by 15%."
+        "desc": "Normal and Charged Attack DMG +15%"
       },
       {
         "count": 4,
@@ -391,7 +391,7 @@
     "bonuses": [
       {
         "count": 2,
-        "desc": "HP increased by 20%."
+        "desc": "HP +20%"
       },
       {
         "count": 4,
@@ -539,6 +539,32 @@
       {
         "count": 4,
         "desc": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field."
+      }
+    ]
+  },
+  "Nymph's Dream": {
+    "name": "Nymph's Dream",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Hydro DMG Bonus +15%"
+      },
+      {
+        "count": 4,
+        "desc": "After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents, 1 stack of Mirrored Nymph will be triggered, lasting 8s. When under the effect of 1, 2, or 3 or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG Bonus will be increased by 4%/9%/15%. Mirrored Nymph stacks created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently."
+      }
+    ]
+  },
+  "Vourukasha's Glow": {
+    "name": "Vourukasha's Glow",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "HP +20%"
+      },
+      {
+        "count": 4,
+        "desc": "Elemental Skill and Elemental Burst DMG will be increased by 10%. After the equipping character takes DMG, the aforementioned DMG Bonus is increased by 80% for 5s. This effect increase can have 5 stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field."
       }
     ]
   }
