@@ -166,9 +166,40 @@ import Passive from '@site/src/components/char/Passive'
 
 ## Constellations
 
-import ConstellationsFull from '@site/src/components/char/ConstellationsFull'
+import Constellation from '@site/src/components/char/Constellation'
 
-<ConstellationsFull char={char} />
+<Tabs>
+
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
+</TabItem>
+
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
+
+**Notes**
+
+* This effect can be stacked while shielded because it's triggered on hit and not on damage.
+
+</TabItem>
+
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
+</TabItem>
+
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
+</TabItem>
+
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
+</TabItem>
+
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
+</TabItem>
+
+</Tabs>
 
 ## Full Talent Values
 

@@ -107,3 +107,23 @@ Diluc's Burst damage will benefit from his A4 talent, Blessing of the Phoenix, w
 
 **Significance:**  
 More damage for Diloog.
+
+## Constellation Mechanics
+
+### C2: Searing Ember
+
+#### Diluc C2 Triggers While Shielded
+
+**By:** ShampooBrain\#9583  
+**Added:** <Version date="2023-04-11" />  
+**Last tested:** <VersionHl date="2023-04-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/diluc-c2-triggers-while-shielded)
+
+**Finding:**  
+Contrary to the description, Diluc C2 triggers on hit rather than on taking damage. As such, getting hit while shielded can also stack up the C2.  
+
+**Evidence:**  
+[www.youtube.com](https://www.youtube.com/watch?v=4xYLqGqu6Y8)  
+
+**Significance:**  
+Shielders still work with Diluc at C2+. Don't always believe what's written in the ability.
