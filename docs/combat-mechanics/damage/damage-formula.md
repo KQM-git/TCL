@@ -203,12 +203,12 @@ $$
 \end{cases}
 $$
 
-| Formula Variable                                                           | Explanation                                                                                           |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [**World-Shaker**](../../characters/pyro/yoimiya.md#attacks)               | Electro Traveler's Constellation 6 ability applies a 2 buff to some attacks of their Elemental Burst. |
-| [**Hanega: Song of the Wind**](../../characters/anemo/wanderer.md#attacks) | Wanderer's Elemental Skill applies a scaling buff to his Normal Attacks.                              |
-| [**Evilsoother**](../../characters/hydro/xingqiu.md#attacks)               | Xingqiu’s Constellation 4 ability applies a 1.5 buff to his Elemental Skill.                          |
-| [**Niwabi Fire-Dance**](../../characters/pyro/yoimiya.md#attacks)          | Yoimiya's Elemental Skill applies a scaling buff to her Normal Attacks.                               |
+| Formula Variable                                                                | Explanation                                                                                           |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [**World-Shaker**](../../characters/electro/traveler-electro.md#constellations) | Electro Traveler's Constellation 6 ability applies a 2 buff to some attacks of their Elemental Burst. |
+| [**Hanega: Song of the Wind**](../../characters/anemo/wanderer.md#attacks)      | Wanderer's Elemental Skill applies a scaling buff to his Normal Attacks.                              |
+| [**Evilsoother**](../../characters/hydro/xingqiu.md#attacks)                    | Xingqiu’s Constellation 4 ability applies a 1.5 buff to his Elemental Skill.                          |
+| [**Niwabi Fire-Dance**](../../characters/pyro/yoimiya.md#attacks)               | Yoimiya's Elemental Skill applies a scaling buff to her Normal Attacks.                               |
 
 ## Amplifying Reaction
 
