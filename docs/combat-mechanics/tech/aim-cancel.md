@@ -13,11 +13,11 @@ import Video from "@site/src/components/common/Video"
 <Tabs>
 
 <TabItem value="elemental" label="Elemental">
-<Video src="aim-cancel/Ud2Co1G.mp4" />
+<Video src="aim-cancel/2LCnunv.mp4" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-<Video src="aim-cancel/2LCnunv.mp4" />
+<Video src="aim-cancel/Ud2Co1G.mp4" />
 </TabItem>
 
 </Tabs>
