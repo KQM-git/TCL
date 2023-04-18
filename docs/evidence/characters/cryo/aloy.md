@@ -97,3 +97,27 @@ The wording in the Aloy Section of the Theorycrafting Library was incorrect, if 
 
 **Significance:**  
 The bombs explode rather than disappear, and Aloy can still receive Coil stacks from the previous round of bombs exploding upon Skill recast.
+
+#### Aloy E Is Regular DMGBonus
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2023-02-27" />  
+**Last tested:** <VersionHl date="2023-02-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/aloy-e-is-regular-dmgbonus)
+
+**Finding:**  
+Aloy's E gives regular percentage DMGBonus, not BaseDMGMultiplier  
+  
+**Evidence:**  
+Clip 1 [Imgur](https://imgur.com/a/wgx66Ki)  
+Talent 6/6/6 with 58.3% Phys DMGBonus, has 277 ATK while Coil is active  
+at 1 stack, N1 dmg is floor((0.29x277)x(1+0.583+0.077)x((80+100)/(60+100+80+100)))=**70**  
+at 2 stacks, N1 dmg is floor((0.29x277)x(1+0.583+0.154)x((80+100)/(60+100+80+100)))=**73**  
+  
+Clip 2 [Imgur](https://imgur.com/a/5Z0Ze83)  
+Talent 6/6/6 with 68.2% Cryo DMGBonus, has 266 ATK while Coil is active  
+at 4 stacks, N1 dmg is floor((0.29x266)x(1+0.682+0.385)x((80+100)/(60+100+80+100)))=**84**  
+(N1 was performed less than 1s after getting 4 stacks, so the A4 buff had not kicked in yet)  
+  
+**Significance:**  
+Correcting common misconception that Aloy E is Base DMG Multiplier, correcting misinfo in TCL.
