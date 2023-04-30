@@ -91,6 +91,33 @@ These data sheds light onto Pyronado mechanics and how to maximize their Burst d
 
 ## Constellation Mechanics
 
+### C1: Crispy Outside, Tender Inside
+
+### Xiangling C1 Procs Via Burgeon and Overload
+
+**By:** Rathalos\#2875  
+**Added:** <Version date="2023-04-20" />  
+**Last tested:** <VersionHl date="2023-04-19" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/guoba-c1-procs-via-burgeon)
+
+**Finding:**  
+Xiangling's first Constellation, **Crispy Outside, Tender Inside**, can affect enemies without Guoba hitting them directly, as long as they are hit by certain transformative reactions triggered by Guoba.  
+  
+**Evidence:**  
+* Yanfei NA DMG on Ruin Guard : [Video](https://youtu.be/EviQbHWkF1s) (Burgeon)  
+    * 256 (Non-Crit)  
+    * 577 (Crit)  
+    * 292 (Non-Crit with Xiangling C1)  
+  
+* Yanfei NA DMG on Pyro Fungi :  [Video](https://youtu.be/JWUAJ7tdRYM) (Overload)  
+    * 224 (Non-Crit)  
+    * 266 (Non-Crit with Xiangling C1)    
+  
+* Debuff goes through even if target doesn't take damage: [Video](https://youtu.be/P0SySNJtvlA)  
+  
+**Significance:**  
+Knowing more about properties radiating via transformative reactions, some niche uses in Overload teams where the Pyro shred can matter.
+
 ### C2: Oil Meets Fire
 
 #### Xiangling C2 damage

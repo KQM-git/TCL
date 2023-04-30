@@ -164,7 +164,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={1} />
 
 **Notes**
-  
+
+* This effect can also be triggered if Guoba triggers Overload or Burgeon on the enemy, even if the target doesn't take damage.  
 * The effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
  
 </TabItem>
