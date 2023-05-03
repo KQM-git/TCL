@@ -298,7 +298,7 @@
       {
         "name": "Blazing Match",
         "desc": "When Yoimiya crafts Decoration, Ornament, and Landscape-type Furnishings, she has a 100% chance to refund a portion of the materials used.",
-        "img": "Yoimiya/passive_2",
+        "img": "Common/Furnishing_Refund",
         "minAscension": 0
       }
     ],

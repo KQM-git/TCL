@@ -17,6 +17,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Everlasting Moonglow" weapons={catalysts} />
 
+### Jadefall's Splendor
+
+<Weapon weapon="Jadefall's Splendor" weapons={catalysts} />
+
 ### Kagura's Verity
 
 <Weapon weapon="Kagura's Verity" weapons={catalysts}>

@@ -1,0 +1,466 @@
+{
+  "name": "Kaveh",
+  "star": 4,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 1002.9701,
+    "attackBase": 19.5888,
+    "defenseBase": 62.9475,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Schematic Setup",
+        "desc": "**Normal Attack**\nUses Mehrak to perform up to 4 consecutive attacks.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, performs a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Claymore",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "76.2%",
+              "82.4%",
+              "88.6%",
+              "97.4%",
+              "103.6%",
+              "110.7%",
+              "120.5%",
+              "130.2%",
+              "140.0%",
+              "150.6%",
+              "161.2%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "69.6%",
+              "75.3%",
+              "81.0%",
+              "89.1%",
+              "94.7%",
+              "101.2%",
+              "110.1%",
+              "119.0%",
+              "127.9%",
+              "137.7%",
+              "147.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "84.3%",
+              "91.1%",
+              "98.0%",
+              "107.8%",
+              "114.6%",
+              "122.5%",
+              "133.3%",
+              "144.0%",
+              "154.8%",
+              "166.6%",
+              "178.3%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "102.7%",
+              "111.0%",
+              "119.4%",
+              "131.3%",
+              "139.7%",
+              "149.3%",
+              "162.4%",
+              "175.5%",
+              "188.7%",
+              "203.0%",
+              "217.3%"
+            ]
+          },
+          {
+            "name": "Charged Attack Cyclic DMG",
+            "values": [
+              "53.1%",
+              "57.5%",
+              "61.8%",
+              "68.0%",
+              "72.3%",
+              "77.2%",
+              "84.0%",
+              "90.8%",
+              "97.6%",
+              "105.1%",
+              "112.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack Final DMG",
+            "values": [
+              "96%",
+              "104%",
+              "112%",
+              "123%",
+              "131%",
+              "140%",
+              "152%",
+              "164%",
+              "177%",
+              "190%",
+              "203%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "40.0/s"
+          },
+          {
+            "name": "Max Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "74.6%",
+              "80.7%",
+              "86.7%",
+              "95.4%",
+              "101.5%",
+              "108.4%",
+              "118.0%",
+              "127.5%",
+              "137.0%",
+              "147.4%",
+              "157.8%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "149%/186%",
+              "161%/201%",
+              "173%/217%",
+              "191%/238%",
+              "203%/253%",
+              "217%/271%",
+              "236%/295%",
+              "255%/318%",
+              "274%/342%",
+              "295%/368%",
+              "316%/394%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Artistic Ingenuity",
+        "desc": "Uses Mehrak's mapping ability for offensive purposes, initiating a radial scan that deals **AoE Dendro DMG**. It will also scan all Dendro Cores in its AoE and cause them to immediately burst.\n\n**Mehrak was created through the modification of ancient technology and may have some other functions apart from mapping work...**",
+        "img": "Kaveh/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "204.0%",
+              "219.3%",
+              "234.6%",
+              "255.0%",
+              "270.3%",
+              "285.6%",
+              "306.0%",
+              "326.4%",
+              "346.8%",
+              "367.2%",
+              "387.6%",
+              "408.0%",
+              "433.5%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "6.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Painted Dome",
+      "desc": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing **AoE Dendro DMG** to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:\n·Increases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to **Dendro DMG** that cannot be overridden.\n·All Dendro Cores created by all your own party members through Bloom reactions will deal additional DMG when they burst.\n·Increases Kaveh's resistance to interruption.\nThese effects will be canceled once Kaveh leaves the field.\n\n**\"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalescences of human memories.\"**",
+      "img": "Kaveh/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "160.0%",
+            "172.0%",
+            "184.0%",
+            "200.0%",
+            "212.0%",
+            "224.0%",
+            "240.0%",
+            "256.0%",
+            "272.0%",
+            "288.0%",
+            "304.0%",
+            "320.0%",
+            "340.0%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "Dendro Core Burst DMG Bonus",
+          "values": [
+            "27.5%",
+            "29.5%",
+            "31.6%",
+            "34.4%",
+            "36.4%",
+            "38.5%",
+            "41.2%",
+            "44.0%",
+            "46.7%",
+            "49.5%",
+            "52.2%",
+            "55.0%",
+            "58.4%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
+      "type": "Dendro"
+    },
+    "passive": [
+      {
+        "name": "An Architect's Undertaking",
+        "desc": "When DMG dealt by a Dendro Core (including DMG from Burgeon and Hyperbloom) hits Kaveh, Kaveh will regain HP equal to 300% of his Elemental Mastery. This effect can be triggered once every 0.5s.",
+        "img": "Kaveh/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "A Craftsman's Curious Conceptions",
+        "desc": "During **Painted Dome**, after Kaveh's Normal, Charged, or Plunging Attacks hit opponents, his Elemental Mastery will increase by 25. This effect can be triggered once every 0.1s. Max 4 stacks.\nThis effect will be canceled when Painted Dome's effects end.",
+        "img": "Kaveh/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "The Art of Budgeting",
+        "desc": "When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings, he has a 100% chance to refund a portion of the materials used.",
+        "img": "Common/Furnishing_Refund",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Sublime Salutations",
+        "desc": "Within 3s after using **Artistic Ingenuity**, Kaveh's **Dendro RES** and Incoming Healing Bonus will be increased by 50% and 25% respectively.",
+        "img": "Kaveh/const_0"
+      },
+      {
+        "name": "Grace of Royal Roads",
+        "desc": "Kaveh's Normal Attack SPD increases by 15% during **Painted Dome**.",
+        "img": "Kaveh/const_1"
+      },
+      {
+        "name": "Profferings of Dur Untash",
+        "desc": "Increases the Level of **Painted Dome** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kaveh/const_2"
+      },
+      {
+        "name": "Feast of Apadana",
+        "desc": "Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.",
+        "img": "Kaveh/const_3"
+      },
+      {
+        "name": "Treasures of Bonkhanak",
+        "desc": "Increases the Level of **Artistic Ingenuity** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kaveh/const_4"
+      },
+      {
+        "name": "Pairidaeza's Dreams",
+        "desc": "When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during **Painted Dome**, they will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as **AoE Dendro DMG** and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.",
+        "img": "Kaveh/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 749.27
+        },
+        {
+          "stat": "Base DEF",
+          "value": 47.025
+        },
+        {
+          "stat": "Base ATK",
+          "value": 14.63418
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1281.6461
+        },
+        {
+          "stat": "Base DEF",
+          "value": 80.4375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 25.03215
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1991.4808
+        },
+        {
+          "stat": "Base DEF",
+          "value": 124.9875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 38.89611
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2523.857
+        },
+        {
+          "stat": "Base DEF",
+          "value": 158.4
+        },
+        {
+          "stat": "Base ATK",
+          "value": 49.29408
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3056.233
+        },
+        {
+          "stat": "Base DEF",
+          "value": 191.8125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.69205
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 72
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3588.609130859375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 225.225
+        },
+        {
+          "stat": "Base ATK",
+          "value": 70.09002
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 96
+        }
+      ]
+    }
+  ]
+}
