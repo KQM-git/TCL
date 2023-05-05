@@ -148,6 +148,13 @@ div[role="tabpanel"] {
   height: 8rem;
   margin-left: .5rem;
 }
+
+@media screen and (max-width: 600px) {
+  .icon-display-box {
+    display: none;
+  }
+}
+
 .clear {
   clear: both;
 }
