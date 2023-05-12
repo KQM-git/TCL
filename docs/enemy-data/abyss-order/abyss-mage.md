@@ -46,7 +46,7 @@ All abyss mages share the same weakspot on their **Head**, note that this weaksp
 
 ## Abyss Mages
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="cryo" label="Cryo">
 
 ## Cryo Abyss Mage

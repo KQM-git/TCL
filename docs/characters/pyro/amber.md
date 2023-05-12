@@ -27,7 +27,7 @@ import CharStatsTable from '@site/src/components/char/CharStatsTable'
 
 import Skill from '@site/src/components/char/Skill'
 
-<Tabs>
+<Tabs queryString="ability">
 <TabItem value='na' label='Normal Attacks'>
 <SkillIcon char={char} skill='na' />
 <div class='talent-columns'>
@@ -160,7 +160,7 @@ import PassivesFull from '@site/src/components/char/PassivesFull'
 
 import Constellation from '@site/src/components/char/Constellation'
 
-<Tabs>
+<Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
 

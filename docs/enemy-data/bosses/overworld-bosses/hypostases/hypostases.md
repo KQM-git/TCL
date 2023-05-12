@@ -39,7 +39,7 @@ All Hypostasis are immune to their own Element.
 
 ## Hypostases
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="anemo" label="Anemo">
 
 ## Anemo Hypostasis - Beth

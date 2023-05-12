@@ -45,7 +45,7 @@ None.
 
 ## Rifthound Whelps
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="geo" label="Geo">
 
 ## Rockfond Rifthound Whelp

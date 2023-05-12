@@ -49,7 +49,7 @@ All slimes are immune to their respective Element.
 
 ## Large Slimes
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="anemo" label="Anemo">
 
 ## Anemo Slime

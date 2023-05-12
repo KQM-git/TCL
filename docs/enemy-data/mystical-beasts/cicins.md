@@ -46,7 +46,7 @@ All Cicins have +40% (50% total) resistance to their own Element.
 
 ## Cicins
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="electro" label="Electro">
 
 ## Electro cicin

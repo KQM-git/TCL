@@ -47,7 +47,7 @@ All samachurls have +40% (50% total) resistance to their own Element.
 
 ## Samachurls
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="anemo" label="Anemo">
 
 ## Anemo Samachurl

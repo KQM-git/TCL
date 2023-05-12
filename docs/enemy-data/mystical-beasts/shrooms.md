@@ -49,7 +49,7 @@ Cryoshrooms and Hydroshrooms have +20% RES to their own Element, at a total of 3
 
 ## Fungi
 
-<Tabs>
+<Tabs queryString="variant">
 
 <TabItem value="cryo" label="Cryo">
 

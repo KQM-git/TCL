@@ -47,7 +47,7 @@ Gains +100% resistance to all while shield is up.
 | 95    | 194242 |
 | 100   | 257356 |
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="cryo" label="Cryo">
 
 ## Cryo Regisvine

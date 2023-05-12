@@ -46,7 +46,7 @@ Head.
 
 ## Hilichurl Shields
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="wooden" label="Wooden shield">
 
 ## Wooden Shield Hilichurl Guard

@@ -22,7 +22,7 @@ import CharStatsTable from '@site/src/components/char/CharStatsTable'
 
 import Skill from '@site/src/components/char/Skill'
 
-<Tabs>
+<Tabs queryString="ability">
 <TabItem value='na' label='Normal Attacks'>
 <SkillIcon char={char} skill='na' />
 <div class='talent-columns'>
@@ -160,7 +160,7 @@ import Frames from '@site/src/components/char/Frames'
 
 import Passive from '@site/src/components/char/Passive'
 
-<Tabs>
+<Tabs queryString="passive">
 <TabItem value='passive' label='Passive'>
 <Passive char={char} passive={2} />
 
@@ -186,7 +186,7 @@ import Passive from '@site/src/components/char/Passive'
 
 import Constellation from '@site/src/components/char/Constellation'
 
-<Tabs>
+<Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
 </TabItem>

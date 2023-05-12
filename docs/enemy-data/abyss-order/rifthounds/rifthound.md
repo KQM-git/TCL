@@ -46,7 +46,7 @@ None.
 
 ## Rifthounds
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="geo" label="Geo">
 
 ## Rockfond Rifthound

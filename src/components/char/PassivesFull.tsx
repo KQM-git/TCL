@@ -7,7 +7,7 @@ import { Character } from '@site/src/data/types'
 import Passive from './Passive'
 
 export default function PassivesFull({ char }: { char: Character }) {
-  return <Tabs>
+  return <Tabs queryString="passive">
     <TabItem value='passive' label='Passive'>
       <Passive char={char} passive={2} />
     </TabItem>

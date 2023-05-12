@@ -46,7 +46,7 @@ Head.
 
 ## Kairagis
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="pyro" label="Pyro">
 
 ## Kairagi: Fiery Might

@@ -47,7 +47,7 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Fungi
 
-<Tabs>
+<Tabs queryString="variant">
 
 <TabItem value="anemo" label="Anemo">
 

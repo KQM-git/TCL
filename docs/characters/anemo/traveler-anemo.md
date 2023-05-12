@@ -32,7 +32,7 @@ import TravelerStats from '../\_common/traveler_stats.md'
 
 import Skill from '@site/src/components/char/Skill'
 
-<Tabs>
+<Tabs queryString="ability">
 <TabItem value='na-aether' label='Aether Normal Attacks'>
 <SkillIcon char={char} skill='na' />
 <div class='talent-columns'>
@@ -188,7 +188,7 @@ import anemoFrames from '@site/src/data/frames/Traveler_(Anemo).json'
 
 import Passive from '@site/src/components/char/Passive'
 
-<Tabs>
+<Tabs queryString="passive">
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
 
@@ -210,7 +210,7 @@ import Passive from '@site/src/components/char/Passive'
 
 import Constellation from '@site/src/components/char/Constellation'
 
-<Tabs>
+<Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
 </TabItem>
@@ -246,7 +246,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 import Talent from '@site/src/components/char/Talent'
 
-<Tabs>
+<Tabs queryString="talent">
 <TabItem value='na-lumine' label={'Lumine: ' + getSkillName(lumine, 'na')}>
 <Talent char={lumine} skill='na' />
 </TabItem>

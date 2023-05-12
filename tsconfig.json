@@ -4,6 +4,8 @@
   "compilerOptions": {
     "baseUrl": ".",
     "resolveJsonModule": true,
-    "downlevelIteration": true
+    "downlevelIteration": true,
+    "target": "ESNext",
+    "moduleResolution": "bundler"
   }
 }

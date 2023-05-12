@@ -45,7 +45,7 @@ All resistances lose -25% while stunned.
 
 ## Whopperflowers
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="cryo" label="Cryo">
 
 ## Cryo whopperflower

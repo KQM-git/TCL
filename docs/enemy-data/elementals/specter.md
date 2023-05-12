@@ -48,7 +48,7 @@ All specters are immune to their respective Element.
 
 ## Specters
 
-<Tabs>
+<Tabs queryString="variant">
 <TabItem value="anemo" label="Anemo">
 
 ## Anemo Specter

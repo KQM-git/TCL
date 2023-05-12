@@ -8,7 +8,7 @@ import { getSkillName } from '@site/src/utils/skill'
 import Talent from './Talent'
 
 export default function TalentsFull({ char }: { char: Character }) {
-  return <Tabs>
+  return <Tabs queryString="talent">
     <TabItem value='na' label={getSkillName(char, 'na')}>
       <Talent char={char} skill='na' />
     </TabItem>

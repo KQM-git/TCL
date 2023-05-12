@@ -9,8 +9,8 @@ import Link from '@docusaurus/Link'
 
 export default function FramesElement({ data }: { data: Frames }) {
   return <>
-    <Tabs>
-      {Object.entries(data).map(([key, value], i) => <TabItem value={`${i}`} label={key} key={i}>
+    <Tabs queryString="frames">
+      {Object.entries(data).map(([key, value], i) => <TabItem value={key.toLowerCase()} label={key} key={i}>
         <FrameData data={value} />
       </TabItem>)}
     </Tabs>
