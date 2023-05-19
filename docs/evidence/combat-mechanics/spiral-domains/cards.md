@@ -35,3 +35,20 @@ search: false
 [Conversely, in this video, you can see that walking up to the key, starting the domain, and then sprinting is more efficient in terms of proc'ing the card buff.](https://youtu.be/_vbTUm1xvKs)
 
 **Significance:** With how the current abyss and upcoming 1.5 abyss are known to be massive DPS checks, it's crucial that you take full advantage of the abyss card buffs. +20% damage is generally worth more than a 4 noblesse effect buff, and it shouldn't be wasted if you want to 3\* a chamber. Moreover, this card can appear under the 'Effective this floor" category meaning it will help you throughout the entire floor.
+
+## Character DMG Within 8s Of Sprint +20% Abyss Card Buff Does Not Snapshot
+
+**By:** Aeondrew\#5220  
+**Added:** <Version date="2023-05-07" />  
+**Last tested:** <VersionHl date="2023-04-27" />  
+[Discussion](https://localhost:3000/transcripts/character-dmg-within-8s-of-sprint-20-abyss-card-buff-does-not-snapshot)
+
+**Finding:**  
+The +20% DMG buff given by the "Character DMG within 8s of sprint +20%" Abyss card does not snapshot.  
+  
+**Evidence:**  
+[www.youtube.com](https://www.youtube.com/watch?v=EN0UOwut8vY)  
+When this Abyss buff is selected, sprinting after Fischl has cast her Elemental Skill increases Oz's damage on CRIT from 7207 to 7894. After the buff expires, as seen on the bottom of the screen, Oz's damage returns to 7207.  
+  
+**Significance:**  
+More data on what does and does not snapshot. Because this buff does not snapshot, it will not last for the full duration of longer snapshotting abilities, such as Fischl's Skill or Ganyu's Burst. Teams whose snapshotting abilities do the majority of their damage later in the rotation should avoid activating this buff too early; otherwise, it will expire before the point where it would be most effective.
