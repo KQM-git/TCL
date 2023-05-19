@@ -81,6 +81,24 @@ Nilou Tranquility Aura counts as a 0-DMG hit.
 **Significance:** 
 May trigger certain on-hit effects.
 
+### Tranquility Aura 0 DMG Hit Is Not Skill DMG
+
+**By:** Sabrenn\#8965  
+**Added:** <Version date="2023-04-25" />  
+**Last tested:** <VersionHl date="2023-04-25" />  
+[Discussion](https://localhost:3000/transcripts/tranquility-aura-0-dmg-hit-is-not-skill-dmg)
+
+**Finding:**  
+Nilou's Tranquility Aura 0 DMG hit is not counted as Skill DMG, therefore cannot trigger the 4pc Tenacity of the Millelith effect.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/tiA7Otr1QaQ)  
+  
+You can see Yaoyao's ATK before / during / after, and it does not move from 906 at any point.  
+  
+**Significance:**  
+No misinformation that she can buff her team with 4pc TotM because she can't.  
+
 ### Nilou NA Combo Reset
 
 **By:** Trosalio\#0420  
