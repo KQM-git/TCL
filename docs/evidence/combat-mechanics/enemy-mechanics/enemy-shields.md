@@ -331,3 +331,31 @@ Note: Character damage was not a factor in the shield breaking as the overloads 
 
 **Significance:**  
 It ensures that for shields where damage cost is a factor, we can assume that transformative reaction damages are also a factor, and interact in the way that one would expect from intuition (increasing damage with increasing EM).
+
+## Skirmisher Shields Affect Unrelated Reaction Coefficients
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920, daibangden\#8410  
+**Added:** <Version date="2023-03-20" />  
+**Last tested:** <VersionHl date="2023-03-20" />  
+[Discussion](https://localhost:3000/transcripts/skirmisher-shields-affect-unrelated-reaction-coefficients)
+
+**Finding:**  
+Against shielded Cryo/Electro/Hydro Skirmishers, the reaction coefficients of reactions unrelated to the shield's Element are fixed at 1.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/a1uj3pi)  
+  
+Cryogunner:  
+- Applying 1.6U Hydro then 1U of Pyro/Anemo/Geo/Dendro results in the Hydro aura lasting for 4.5 seconds, meaning the reaction coeffs of Pyro Vape, Hydro Swirl, hydro Crystallize, Dendro Bloom are all 1, as opposed to the usual 0.5/0.5/0.5/2  
+- Applying 0.8U Dendro then 1U of Hydro completely wipes the Dendro aura; using Nahida E then applying 1U Hydro 3 times with Barbara produces 3 Blooms with no leftover Dendro. so the reaction coeff of Hydro Bloom is also 1 instead of 0.5  
+  
+Electrohammer:  
+- Applying 1U Quicken then 1U of Hydro completely wipes the Quicken aura; using Nahida E then applying 1U Hydro 3 times with Barbara produces 3 Blooms with no leftover Quicken. so the reaction coeff of Hydro Bloom is 1 instead of 0.5
+- Applying 1.6U Hydro then 1U Dendro results in the Hydro aura lasting 4.5 seconds, so the reaction coeff of Dendro Bloom is 1 instead of 2  
+  
+Hydrogunner:  
+- Applying 2U Freeze then 1U of Pyro doesnt clear the Freeze aura, instead it lasts a total of ~1.75s, so the reaction coeff of Pyro Melt is 1  
+- Applying 1.6U Electro then 1U of Anemo/Geo results in the Electro aura lasting for 4.5 seconds, meaning the reacion coeffs of Electro Swirl and Electro Crystallize are 1 instead of 0.5  
+  
+**Significance:**  
+Expands knowledge on EGT mechanics, potentially useful to know for simultaneous reactions against Cryogunners.
