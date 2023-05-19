@@ -78,6 +78,24 @@ In [this video](https://imgur.com/a/yCu3mub), I used GMC rock to elevate myself,
 **Significance:**  
 If doing meme plunge comps with Hu Tao, less Energy will be gained and fewer Bursts will be expected.
 
+### Hu Tao's Skill Activation 0 DMG Hit Is Not Skill DMG
+
+**By:** Casdela\#5121  
+**Added:** <Version date="2023-04-28" />  
+**Last tested:** <VersionHl date="2023-04-25" />  
+[Discussion](https://localhost:3000/transcripts/hu-taos-skill-activation-0-dmg-hit-is-not-skill-dmg)
+
+**Finding:**  
+Hu Tao's Elemental Skill activation is a 0 DMG hit that isn't counted as Skill DMG, therefore it cannot proc effects that require Skill DMG hit like 4pc Tenacity of the Millelith and 4pc Deepwood Memories set effects.  
+
+**Evidence:**  
+- Procs PJWS: [YouTube](https://youtu.be/hxcLW3Fpe7A)  
+- Doesn't proc TotM: [YouTube](https://youtu.be/NPnGQ6WxueA)  
+- Doesn't proc Deepwood: [YouTube](https://youtu.be/JT_n0KtBHqE)  
+
+**Significance:**  
+Don't ever trust ~~Hyv's wording~~ NZ.  
+
 ## Synergies/Interactions
 
 ### Hu Tao Vape Melt Consistency
