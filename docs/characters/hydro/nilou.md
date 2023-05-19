@@ -91,6 +91,7 @@ import Skill from '@site/src/components/char/Skill'
 * Nilou can enter both **Sword Dance** and **Whirling Steps** stances at the same time using Sacrificial Sword.
 * **Dance of Haftkarsvar** cooldown starts on initial cast, but the infusion duration does not start until the 3rd slash.
 * **Tranquility Aura** counts as a zero-damage hit.
+  * **Tranquility Aura**'s zero-damage hit is not counted as Skill DMG, therefore it cannot trigger the 4pc Tenacity of the Millelith effect. 
 * While under the **Pirouette** or **Lunar Prayer** effects, Nilou's Normal Attack combo will not be reset.
 * All 3 **Sword Dance** hits can be canceled very early. Well-timed dash cancels does not cause her to lose infusion slashes, thus making her an extremely mobile on-fielder.
 * **Luminous Illusion** is considered a ranged attack.
