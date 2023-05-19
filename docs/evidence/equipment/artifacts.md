@@ -900,6 +900,23 @@ The 4-Piece Instructors set bonus will not be activated by reactions with non en
 **Significance:**  
 Can't use environmental reactions to set up screenshots. Can't use self reactions to trigger 4ins for sunfire/Razor-Bennett self OL/other self reaction cheese teams.
 
+### 4-Piece Instructor For Simultaneous Attacks  
+  
+**By:** NZPIEFACE\#8439  
+**Added:** <Version date="2023-02-26" />  
+**Last tested:** <VersionHl date="2023-02-24" />  
+[Discussion](https://localhost:3000/transcripts/4in-for-simultaneous-attacks)
+
+**Finding:**  
+4pc Instructor effect does apply to the second hit of a simultaneous attack, if the first hit triggered a reaction.  
+  
+**Evidence:**  
+The Aggravated absorbed Electro from Sucrose's Burst deals 1488 damage, which is close to the expected 1451 damage from 240 EM, 291 ATK. [YouTube](https://youtu.be/jg5bPCakSaE)  
+  
+**Significance:**   
+1. Reaction triggered effects apply immediately. Attack stats are per instance of damage.  
+2. I said so.  
+
 ## Maiden Beloved
 
 ### 4-Piece Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber
