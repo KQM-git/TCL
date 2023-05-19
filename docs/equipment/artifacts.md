@@ -316,7 +316,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * Triggering another reaction during 4-Piece set buff extends its duration.
 * The 4-Piece set bonus will not be activated by reactions on non-enemy entities (environmental objects, self-infused, etc.)
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
-* 4-Piece Instructor effect does apply to the second hit of a simultaneous attack, if the first hit triggered a reaction.
+* The 4-Piece effect does apply to the second hit of a simultaneous attack, if the first hit triggered a reaction.
 
 </Artifact>
 
