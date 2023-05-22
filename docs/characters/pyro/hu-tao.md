@@ -126,6 +126,7 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
   * Plunging Attacks do not generate Particles.
 * Paramita Papilio can be extended with hitlag.
 * When entering Paramita Papilio the knockback will cause the Illusory Bubble from Mona's Stellaris Phantasm to be removed and the Omen debuff applied even though no damage was done.
+* Hu Tao's Elemental Skill activation is a 0 DMG hit that isn't counted as Skill DMG, therefore it cannot proc effects that require a Skill DMG hit such as 4pc Tenacity of the Millileth and 4pc Deepwood Memories set effects.
 
 </TabItem>
 
