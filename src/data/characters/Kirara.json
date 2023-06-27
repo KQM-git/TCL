@@ -1,0 +1,526 @@
+{
+  "name": "Kirara",
+  "star": 4,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1021.2059326171875,
+    "attackBase": 18.6984,
+    "defenseBase": 45.78,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Boxcutter",
+        "desc": "**Normal Attack**\nPerforms up to 4 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 3 rapid claw strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "47.9%",
+              "51.8%",
+              "55.7%",
+              "61.3%",
+              "65.2%",
+              "69.6%",
+              "75.8%",
+              "81.9%",
+              "88.0%",
+              "94.7%",
+              "101.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "46.4%",
+              "50.1%",
+              "53.9%",
+              "59.3%",
+              "63.1%",
+              "67.4%",
+              "73.3%",
+              "79.2%",
+              "85.2%",
+              "91.6%",
+              "98.1%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "25.4%+38.1%",
+              "27.5%+41.2%",
+              "29.6%+44.3%",
+              "32.5%+48.8%",
+              "34.6%+51.9%",
+              "37.0%+55.4%",
+              "40.2%+60.3%",
+              "43.5%+65.2%",
+              "46.7%+70.1%",
+              "50.3%+75.4%",
+              "53.8%+80.7%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "73.3%",
+              "79.2%",
+              "85.2%",
+              "93.7%",
+              "99.7%",
+              "106.5%",
+              "115.9%",
+              "125.2%",
+              "134.6%",
+              "144.8%",
+              "155.1%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "22.4%+44.8%+44.8%",
+              "24.2%+48.4%+48.4%",
+              "26.0%+52.0%+52.0%",
+              "28.6%+57.2%+57.2%",
+              "30.4%+60.9%+60.9%",
+              "32.5%+65.0%+65.0%",
+              "35.4%+70.8%+70.8%",
+              "38.2%+76.5%+76.5%",
+              "41.1%+82.2%+82.2%",
+              "44.2%+88.5%+88.5%",
+              "47.4%+94.7%+94.7%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Meow-teor Kick",
+        "desc": "**Press**\nLeaps into the air with all the agility of a cat passing through the bushes, and thwacks her foes with a flying kick that deals **AoE Dendro DMG** while creating a Shield of Safe Transport. This will also briefly **apply Dendro** to Kirara. The shield will absorb **Dendro DMG** with 250% effectiveness. The shield's DMG absorption will be based on Kirara's Max HP and will not exceed a certain percentage of that Max HP. The remaining DMG absorption on a Shield of Safe Transport will stack on a new one when it is created, and its duration will reset.\n\n**Hold**\nOut of her desire to \"deliver within half a day,\" Kirara deploys a Shield of Safe Transport identical to the one that can be created by pressing the skill. She will also curl up into a special express delivery box, entering the Urgent Neko Parcel state in order to move and fight more swiftly.\n\n**Urgent Neko Parcel**\n· Deals **Dendro DMG** to opponents she crashes into. This effect can be triggered once on each opponent every 0.5s.\n· When in this state, Kirara's movement speed, climbing speed, and jumping power are all increased, and her Stamina Consumption from climbing is increased.\n· When the duration ends or the skill is used again, a Flipclaw Strike more powerful than the attack in the Press Mode will be unleashed, dealing **AoE Dendro DMG**.\n· The Urgent Neko Parcel state lasts a maximum of 10s. When the state ends, the skill will enter CD. The longer Kirara spends in this state, the longer the CD will be.\n· Sprinting or actively canceling climbing will end this state early.\n\n**\"So you wanna know the secret to speedy deliveries? Well, it's all in the legs!\"**",
+        "img": "Kirara/skill_1",
+        "talentTable": [
+          {
+            "name": "Tail-Flicking Flying Kick DMG",
+            "values": [
+              "104.0%",
+              "111.8%",
+              "119.6%",
+              "130.0%",
+              "137.8%",
+              "145.6%",
+              "156.0%",
+              "166.4%",
+              "176.8%",
+              "187.2%",
+              "197.6%",
+              "208.0%",
+              "221.0%"
+            ]
+          },
+          {
+            "name": "Shield DMG Absorption",
+            "values": [
+              "10.0% Max HP+962",
+              "10.8% Max HP+1058",
+              "11.5% Max HP+1163",
+              "12.5% Max HP+1275",
+              "13.2% Max HP+1395",
+              "14.0% Max HP+1524",
+              "15.0% Max HP+1660",
+              "16.0% Max HP+1804",
+              "17.0% Max HP+1957",
+              "18.0% Max HP+2117",
+              "19.0% Max HP+2285",
+              "20.0% Max HP+2462",
+              "21.3% Max HP+2646"
+            ]
+          },
+          {
+            "name": "Max Shield DMG Absorption",
+            "values": [
+              "16.0% Max HP+1541",
+              "17.2% Max HP+1695",
+              "18.4% Max HP+1862",
+              "20.0% Max HP+2042",
+              "21.2% Max HP+2235",
+              "22.4% Max HP+2440",
+              "24.0% Max HP+2659",
+              "25.6% Max HP+2890",
+              "27.2% Max HP+3134",
+              "28.8% Max HP+3391",
+              "30.4% Max HP+3660",
+              "32.0% Max HP+3943",
+              "34.0% Max HP+4238"
+            ]
+          },
+          {
+            "name": "Shield Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "Urgent Neko Parcel Hit DMG",
+            "values": [
+              "33.6%",
+              "36.1%",
+              "38.6%",
+              "42.0%",
+              "44.5%",
+              "47.0%",
+              "50.4%",
+              "53.8%",
+              "57.1%",
+              "60.5%",
+              "63.8%",
+              "67.2%",
+              "71.4%"
+            ]
+          },
+          {
+            "name": "Max Urgent Neko Parcel Duration",
+            "value": "10.0s"
+          },
+          {
+            "name": "Flipclaw Strike DMG",
+            "values": [
+              "144.0%",
+              "154.8%",
+              "165.6%",
+              "180.0%",
+              "190.8%",
+              "201.6%",
+              "216.0%",
+              "230.4%",
+              "244.8%",
+              "259.2%",
+              "273.6%",
+              "288.0%",
+              "306.0%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "8.0s – 12.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Secret Art: Surprise Dispatch",
+      "desc": "Smash opponents with a Special Delivery Package used for punishing parcel thieves, dealing **AoE Dendro DMG**. After the Special Delivery Package explodes, it will split up into many **Cat Grass Cardamoms** that will explode either upon contact with opponents or after a period of time, dealing **AoE Dendro DMG**.\n\n**\"Hehe, that's right, this stuff was made to deal with those parcel thieves! Remember to leave a 5-star rating once you've received yours!\"**",
+      "img": "Kirara/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "570.2%",
+            "613.0%",
+            "655.8%",
+            "712.8%",
+            "755.6%",
+            "798.3%",
+            "855.4%",
+            "912.4%",
+            "969.4%",
+            "1026.4%",
+            "1083.5%",
+            "1140.5%",
+            "1211.8%"
+          ]
+        },
+        {
+          "name": "Cat Grass Cardamom Explosion DMG",
+          "values": [
+            "35.6%",
+            "38.3%",
+            "41.0%",
+            "44.5%",
+            "47.2%",
+            "49.9%",
+            "53.5%",
+            "57.0%",
+            "60.6%",
+            "64.2%",
+            "67.7%",
+            "71.3%",
+            "75.7%"
+          ]
+        },
+        {
+          "name": "Cat Grass Cardamom Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Dendro"
+    },
+    "passive": [
+      {
+        "name": "Bewitching, Betwitching Tails",
+        "desc": "When Kirara is in the Urgent Neko Parcel state of **Meow-teor Kick**, each impact against an opponent will grant her a stack of **Reinforced Packaging**. This effect can be triggered once for each opponent hit every 0.5s. Max 3 stacks. When the Urgent Neko Parcel state ends, each stack of Reinforced Packaging will create 1 Shield of Safe Transport for Kirara. The shields that are created this way will have 20% of the DMG absorption that the Shield of Safe Transport produced by **Meow-teor Kick** would have. If Kirara is already protected by a Shield of Safe Transport created by Meow-teor Kick, its DMG absorption will stack with these shields and its duration will reset.",
+        "img": "Kirara/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Pupillary Variance",
+        "desc": "Every 1,000 Max HP Kirara possesses will increase the DMG dealt by **Meow-teor Kick** by 0.4%, and the DMG dealt by **Secret Art: Surprise Dispatch** by 0.3%.",
+        "img": "Kirara/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Cat's Creeping Carriage",
+        "desc": "When Kirara is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.",
+        "img": "Common/No_Startle_Meat",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Material Circulation",
+        "desc": "Every 8,000 Max HP Kirara possesses will cause her to create 1 extra **Cat Grass Cardamom** when she uses **Secret Art: Surprise Dispatch**. A maximum of 4 extra can be created this way.",
+        "img": "Kirara/const_0"
+      },
+      {
+        "name": "Perfectly Packaged",
+        "desc": "When Kirara is in the Urgent Neko Parcel state of **Meow-teor Kick**, she will grant other party members she crashes into Critical Transport Shields.\nThe DMG absorption of Critical Transport Shield is 40% of the maximum absorption **Meow-teor Kick**'s normal Shields of Safe Transport are capable of, and will absorb **Dendro DMG** with 250% effectiveness.\nCritical Transport Shields last 12s and can be triggered once on each character every 10s.",
+        "img": "Kirara/const_1"
+      },
+      {
+        "name": "Universal Recognition",
+        "desc": "Increases the Level of **Meow-teor Kick** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kirara/const_2"
+      },
+      {
+        "name": "Steed of Skanda",
+        "desc": "After active character(s) protected by **Shields of Safe Transport** or **Critical Transport Shields** hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using **Small Cat Grass Cardamoms**, dealing 200% of her ATK as **Dendro DMG**. DMG dealt this way is considered Elemental Burst DMG. This effect can be triggered once every 3.8s. This CD is shared between all party members.",
+        "img": "Kirara/const_3"
+      },
+      {
+        "name": "A Thousand Miles in a Day",
+        "desc": "Increases the Level of **Secret Art: Surprise Dispatch** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kirara/const_4"
+      },
+      {
+        "name": "Countless Sights to See",
+        "desc": "All nearby party members will gain 12% All Elemental DMG Bonus within 15s after Kirara uses her Elemental Skill or Burst.",
+        "img": "Kirara/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 762.8931
+        },
+        {
+          "stat": "Base DEF",
+          "value": 34.2
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.96899
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1304.9487
+        },
+        {
+          "stat": "Base DEF",
+          "value": 58.5
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.894325256347656
+        },
+        {
+          "stat": "HP%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2027.6896
+        },
+        {
+          "stat": "Base DEF",
+          "value": 90.9
+        },
+        {
+          "stat": "Base ATK",
+          "value": 37.12810516357422
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2569.745
+        },
+        {
+          "stat": "Base DEF",
+          "value": 115.2
+        },
+        {
+          "stat": "Base ATK",
+          "value": 47.05344
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3111.80078125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 139.5
+        },
+        {
+          "stat": "Base ATK",
+          "value": 56.97877502441406
+        },
+        {
+          "stat": "HP%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3653.8564453125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 163.8
+        },
+        {
+          "stat": "Base ATK",
+          "value": 66.90411
+        },
+        {
+          "stat": "HP%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

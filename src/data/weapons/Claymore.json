@@ -2314,7 +2314,7 @@
     ],
     "refinements": {
       "name": "Sky-ripping Dragon Spine",
-      "desc": "Increases all DMG by **8%**/**10%**/**12%**/**14%**/**16%**. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **80%**/**100%**/**120%**/**140%**/**160%** of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
+      "desc": "Increases all DMG by **8%**/**10%**/**12%**/**14%**/**16%**. After using an Elemental Burst, a vacuum blade that does **80%**/**100%**/**120%**/**140%**/**160%** of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades."
     }
   },
   "Song of Broken Pines": {

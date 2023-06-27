@@ -99,6 +99,10 @@ import FavSeries from './\_common/fav_series.md';
 
 <Weapon weapon="Hamayumi" weapons={bows} />
 
+### Ibis Piercer
+
+<Weapon weapon="Ibis Piercer" weapons={bows} />
+
 ### King's Squire
 
 <Weapon weapon="King's Squire" weapons={bows} />
