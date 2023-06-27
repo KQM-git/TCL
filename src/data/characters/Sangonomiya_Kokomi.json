@@ -296,7 +296,7 @@
     },
     "passive": [
       {
-        "name": "Tamanooya's Casket",
+        "name": "Tamakushi Casket",
         "desc": "If Sangonomiya Kokomi's own Bake-Kurage is on the field when she uses **Nereid's Ascension**, the Bake-Kurage's duration will be refreshed.",
         "img": "Sangonomiya_Kokomi/passive_0",
         "minAscension": 1

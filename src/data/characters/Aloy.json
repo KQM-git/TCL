@@ -302,7 +302,7 @@
       {
         "name": "Easy Does It",
         "desc": "When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.",
-        "img": "Aloy/passive_2",
+        "img": "Common/No_Startle_Meat",
         "minAscension": 0
       }
     ],
