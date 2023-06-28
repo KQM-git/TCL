@@ -1254,6 +1254,33 @@ Videos in order:
 **Significance:**  
 Understanding of hidden attribute.
 
+### Freeze Resistance Correction
+
+**By:** f99shi
+**Added:** <Version date="2023-06-27" />  
+**Last tested:** <VersionHl date="2023-04-19" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/freeze-resistance-correction)
+
+**Finding:**  
+Freeze RES does not actually affect the reaction gauge of Freeze and is only taken into account in the duration calculation.
+  
+The corrected formula for freeze duration is the following:  
+
+$$
+\begin{aligned}
+{\text{Gauge}}_{\text{Freeze Aura}}&=2\min({\text{Gauge}}_{\text{Origin Aura}},{\text{Gauge}}_{\text{Trigger Element}})\\
+{\text{Freeze Duration (Seconds)}}&=2{\sqrt {5\times {\text{Gauge}}_{\text{Freeze Aura}}\times {(1-\text{Freeze Resistance}_\text{Target})}+4}}-4
+\end{aligned}
+$$
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/yPfa3ko)  
+
+On an enemy with 50% Freeze RES, if 1U Electro is applied after proccing 2U freeze, the duration of the Freeze is halved, meaning the reaction gauge of Freeze is still 2U and not affected by Freeze RES. If Freeze RES reduced the reaction gauge of Freeze, the Superconduct would have immediately ended the Freeze.
+  
+**Significance:**  
+Correcting the [previous finding](#freeze-resistance).
+
 ## Swirl
 
 ### How to get Double Swirls
