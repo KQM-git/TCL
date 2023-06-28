@@ -1256,7 +1256,7 @@ Understanding of hidden attribute.
 
 ### Freeze Resistance Correction
 
-**By:** f99shi
+**By:** f99shi  
 **Added:** <Version date="2023-06-27" />  
 **Last tested:** <VersionHl date="2023-04-19" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/freeze-resistance-correction)

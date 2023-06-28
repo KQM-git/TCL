@@ -132,8 +132,8 @@ The full formula for freeze duration is the following:
 
 $$
 \begin{aligned}
-{\text{Gauge}}_{\text{Freeze Aura}}&=2\min({\text{Gauge}}_{\text{Origin Aura}},{\text{Gauge}}_{\text{Trigger Element}})\times (1-{\text{Freeze Resistance}}_{\text{Target}})\\
-{\text{Freeze Duration (Seconds)}}&=2{\sqrt {5\times {\text{Gauge}}_{\text{Freeze Aura}}+4}}-4
+{\text{Gauge}}_{\text{Freeze Aura}}&=2\min({\text{Gauge}}_{\text{Origin Aura}},{\text{Gauge}}_{\text{Trigger Element}})\\
+{\text{Freeze Duration (Seconds)}}&=2{\sqrt {5\times {\text{Gauge}}_{\text{Freeze Aura}}\times {(1-\text{Freeze Resistance}_\text{Target})}+4}}-4
 \end{aligned}
 $$
 
