@@ -1815,7 +1815,7 @@ Better understanding of how Burning works by digging into whose ownership is it.
 Burning snapshots the character's EM on trigger and refresh.  
 
 **Evidence:**  
-[YoUTube](https://www.youtube.com/watch?v=h3cRxXKhS3k)  
+[YouTube](https://www.youtube.com/watch?v=h3cRxXKhS3k)  
 We understand that 4-Piece Gilded Dreams does not apply bonus EM to the reaction that triggers the set bonus (with the exception of Hyperbloom).  
   
 Klee's EM without 4GD bonus: 80  

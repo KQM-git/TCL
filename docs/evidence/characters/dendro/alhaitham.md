@@ -15,7 +15,7 @@ This character is currently being theorytested, see [#alhaitham-basic-mechanics]
 ## Basic Mechanics
 [Discussion](https://tickets.deeznuts.moe/transcripts/alhaitham-basic-mechanics)
 
-* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1qznqZMkFRRFKpzEXvQ_bJAXoleI2BrV-nKNAusJoYrU/edit?usp=sharing) , [Video](https://docs.google.com/spreadsheets/d/1qznqZMkFRRFKpzEXvQ_bJAXoleI2BrV-nKNAusJoYrU/edit?usp=sharing) - Kolibri\#7675
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1qznqZMkFRRFKpzEXvQ_bJAXoleI2BrV-nKNAusJoYrU/edit?usp=sharing) , [Video](https://youtu.be/zqm1ypb3qUo) - Kolibri\#7675
 * Gauges:
     * Skill cast(both Tap and Hold): 1U - [Video](https://youtu.be/RSHSW3oktvM) - Puffin\#9920
 * ICD:
