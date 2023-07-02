@@ -126,7 +126,7 @@ $$
 \end{align*}
 $$
 
-Some enemies have Freeze resistance, which reduces the reaction gauge of Freeze by a fixed percentage. The duration of Freeze is then calculated with the reduced reaction gauge taken into account.  
+Some enemies have Freeze resistance, which is taken into account in the Freeze duration calculation. Freeze RES does not affect the reaction gauge of Freeze itself.
 
 The full formula for freeze duration is the following:  
 
