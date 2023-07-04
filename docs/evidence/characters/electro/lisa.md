@@ -393,7 +393,7 @@ By definition, this discovery technically invalidates/corrects all previous, pre
 **By:** @archednosi  
 **Added:** <Version date="2023-06-03" />  
 **Last tested:** <VersionHl date="2023-06-01" />  
-[Discussion](https://localhost:3000/transcripts/lisa-lightning-rose-dendro-cores)
+[Discussion](https://tickets.deeznuts.moe/transcripts/lisa-lightning-rose-dendro-cores)
 
 **Finding:**  
 Lisa's Lightning Rose Targeting Regarding Dendro Cores  
