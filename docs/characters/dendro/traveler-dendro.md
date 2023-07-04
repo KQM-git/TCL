@@ -164,6 +164,7 @@ import LumineCA from '../_common/lumine_ca.md'
 * Summons such as Oz and Guoba will target an untransfigured Lamp when there are no enemies nearby, but will target the enemies otherwise.
 * DMC snapshots 2 Mistsplitter Reforged stacks on Burst cast.
 * The **Lea Lotus Lamp** holds a Dendro aura, and when it undergoes a Hydro **Lotuslight Transfiguration**, it produces a Dendro Core with the Hydro applier as the trigger.
+* By applying Electro shortly after one of the initial ticks of the **Lea Lotus Lamp**, it will get a third hit just before 2.5s and have an an extra element application.
 
 </TabItem>
 </Tabs>
