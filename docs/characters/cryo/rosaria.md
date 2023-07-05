@@ -148,10 +148,11 @@ import Passive from '@site/src/components/char/Passive'
 **Notes**
 
 * Either damage instance of **Ravaging Confession** can trigger this passive.
-* This CRIT Rate increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the CRIT RATE sharing.
+* This CRIT Rate increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the CRIT Rate sharing.
 * Rosaria doesn't gain the CRIT Rate bonus unless the use of **Ravaging Confession** lands her behind the enemy.
   * If Rosaria starts her Skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT Rate bonus.
   * For enemies who don’t have visual distinction between front and behind, Rosaria can still activate her A1 by hitting them from certain angles.
+* The CRIT Rate increase of **Regina Probationum** snapshots before the first hit of **Ravaging Confession**, not after, meaning the first hit also benefits from the CRIT Rate increase.
 
 </TabItem>
 

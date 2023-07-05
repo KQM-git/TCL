@@ -67,6 +67,27 @@ Although Hypostases and Perpetual Mechanical Array don’t have obvious distinct
 **Significance:**  
 Rosaria can take advantage of her A1 Passive against the aforementioned bosses by the correct positioning. Which can be useful especially when these enemies appear in harder contents such as Spiral Abyss/Event Domains.
 
+#### Rosaria Skill First Hit A1 Crit Buff
+
+**By:** @baloopy  
+**Added:** <Version date="2023-06-02" />  
+**Last tested:** <VersionHl date="2023-03-22" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/rosaria-skill-first-hit-a1-crit-buff-1088212999585681518)
+  
+**Finding:**  
+Rosaria's A1 passive does apply to the first hit of her skill  
+  
+**Evidence:**  
+[Google Docs](https://docs.google.com/spreadsheets/d/1fH0tXxjDc0Ymk8DKfv6x2OYnz9wBGYNBu_GSP1XBY_4/edit?usp=sharing,) sheet where I recorded all my Rosaria Es. 55 Rosaria Es were tested and all of them crit. If the A1 Crit Rate doesn't apply to her E then there would be a 0.0018% chance of this happening. I did a Chi Squared test with the expected values being if the A1 passive didn't apply and got a p-value of .0095 meaning its statistically significant  
+Videos of me doing the Rosaria Es:  
+[YouTube](https://youtu.be/-LoLnhtH6hw)  
+[YouTube](https://youtu.be/U3Rt08fCCpY)  
+[YouTube](https://youtu.be/d46XoSH-_yY)  
+[YouTube](https://youtu.be/45n9hHeaOI4)  
+  
+**Significance:**  
+Rosaria's skill snapshot before the first hit of her skill and since her CR applies to it she can do marginally more damage. This also doesn't match with the wording of her ascension which implies that it'll apply only after the first hit of the skill.
+
 ### A4: Shadow Samaritan
 
 #### A4 Stacks with External Sources of CRIT
