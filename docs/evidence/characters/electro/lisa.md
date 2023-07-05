@@ -388,6 +388,54 @@ Provides more information to the elusive Summon DMG of Lisa's Lightning Rose, th
 
 By definition, this discovery technically invalidates/corrects all previous, present, and potential future Lisa Calculations in any calculator or simulator (albeit barely) that does not have this damage source implemented. With this information, calculations that may include Lisa will be more "accurate". However, this change is minor, for this Summon DMG is a miniscule amount of damage relative to her Elemental Burst, much less her kit.
 
+### Lisa Lightning Rose Dendro Cores
+
+**By:** @archednosi  
+**Added:** <Version date="2023-06-03" />  
+**Last tested:** <VersionHl date="2023-06-01" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/lisa-lightning-rose-dendro-cores)
+
+**Finding:**  
+Lisa's Lightning Rose Targeting Regarding Dendro Cores  
+Lisa's Lightning Rose is able to target and trigger Dendro Cores, both directly, from an Arc's Discharges/Bolts directly connecting to them, and indirectly, by nearby Discharges/Bolts' AoEs.  
+  
+If there are enemies present within Lightning Rose's radius, Discharges/Bolts from Arcs will prioritize targeting enemies over Dendro Cores.  
+  
+If Lightning Rose is enhanced by Lisa's 4th Constellation, enabling the potential for 1–3 Discharges/Bolts per Arc, within an Arc, resulting Discharges/Bolts will continue to prioritize connecting to enemies foremost until every enemy has been hit. In which case, allowing the extra Discharges/Bolts of an Arc to connect to Dendro Cores directly, since all enemies have been already checked for being hit by precedence.  
+For example, within a Lightning Rose's radius (where X is an arbitrary number of Dendro Cores):  
+- If there are 3 or more Enemies, X Dendro Cores, and an Arc selects 1, 2, or 3 Discharges/Bolts to send out, the Discharges/Bolts will always directly connect to the enemies in random.  
+- If there are 2 Enemies, X Dendro Cores, and an Arc selects 1 or 2 Discharges/Bolts to send out, the Discharges/Bolts will always directly connect to the enemies in random.  
+- If there are 2 Enemies, X Dendro Cores, and an Arc selects 3 Discharges/Bolts to send out, 2 of the Discharges/Bolts will directly connect to the enemies randomly, leaving 1 Discharge/Bolt to randomly choose and connect to a Dendro Core.  
+- If there is 1 Enemy, X Dendro Cores, and an Arc selects 1 Discharge/Bolt to send out, the Discharge/Bolt will always directly connect to the enemy.  
+- If there is 1 Enemy, X Dendro Cores, and an Arc selects 2 or 3 Discharges/Bolts to send out, 1 of the Discharges/Bolts will directly connect to the enemy leaving 2 Discharges/Bolts to randomly choose and connect to 2 Dendro Cores.  
+- If there are no Enemies, X Dendro Cores, and an Arc selects 1, 2, or 3 Discharges/Bolts to send out, the Discharges/Bolts will directly connect to available Dendro Cores randomly as normal.  
+  
+Because Dendro Cores may also be directly targeted by Discharges/Bolts, this may also semi-enable the pseudo-quadratic attribute of a C4+ Lightning Rose. This may allow an enemy to take damage more times than normal as if in mass multi-target situations, despite the absence of other enemies.  
+  
+**Evidence (Youtube/Imgur):**  
+Proof of Discharges/Bolts triggering Dendro Cores  
+- Directly: [YouTube](https://youtu.be/0nF-ztttiwU>;) the Discharge/Bolt directly connects to the Dendro Core because there are no enemies in bound.  
+- Indirectly: [YouTube](https://youtu.be/l-M_FjrCURI>;) the Arc chooses to send 1 Discharge/Bolt, which connects to the enemy by having precedence, but also indirectly triggers the Dendro Core adjacent to it.  
+Proof of Dendro Cores briefly enabling the attribute of being Pseudo-Quadratic: [YouTube](https://youtu.be/SHcjr_Ec2fU>;) the Arc chooses to send 2 Discharges/Bolts, which connects to both the enemy and the Dendro Core (as there was an extra Discharge/Bolt to be sent) resulting in the enemy taking damage equivalent to two instances of being hit.  
+Examples of 3 or 3+ Enemy Scenarios not allowing Dendro Cores to be hit directly by Arcs' Discharges/Bolts because of Enemies' Priority  
+- Ex. 1: [YouTube](https://youtu.be/MXFDa0HpcpM>;) various Arcs are shown here with the presence of a Dendro Core, and all Arcs' Discharges/Bolts always connect to the enemies and not the Dendro Core.  
+- Ex. 2: [YouTube](https://youtu.be/uYrx9XVzM0g>;) same as above, but a more prolonged example.  
+  
+Examples of 2 Enemy Scenarios when a 2 Discharge/Bolt Arc and 3 Discharge/Bolt Arc are queued  
+- Ex. 1 & 2: [YouTube](https://youtu.be/LqLeMlbhhu8>;) seen are a 2 Discharge/Bolt Arc and a 3 Discharge/Bolt Arc in a 2 Enemy Scenario. During the 2 Discharge/Bolt Arc, the Discharges/Bolts prioritize targeting the enemies rather than the Dendro Core, leaving the Dendro Core untouched. During the following 3 Discharge/Bolt Arc, 2 of the Discharges/Bolts target the enemies by priority, leaving 1 Discharge/Bolt able to connect to the Dendro Core.  
+Examples of 1 Enemy Scenarios with varying Discharge/Bolt Arcs  
+- Ex. 1 & 3: [YouTube](https://youtu.be/0HnScna__eA>;) seen are a 1 Discharge/Bolt Arc and a 3 Discharge/Bolt Arc in a 1 Enemy Scenario. During the 1 Discharge/Bolt Arc, the Discharge/Bolt prioritizes targeting the enemy rather than the Dendro Cores, leaving the Dendro Cores untouched. During the following 3 Discharge/Bolt Arc, 1 of the Discharges/Bolts target the enemy by priority, leaving 2 Discharges/Bolts able to connect to the Dendro Cores.  
+- Ex. 2: [YouTube](https://youtu.be/uk5s8B6spzg>;) seen are 2 Discharge/Bolt Arcs in a 1 Enemy Scenario. During both 2 Discharge/Bolt Arcs, 1 of the Discharges/Bolts target the enemy by priority, leaving 1 Discharge/Bolt able to connect to the Dendro Core(s).  
+Examples of 0 Enemy Scenarios  
+- Ex. 1: [YouTube](https://youtu.be/0nF-ztttiwU)  
+- Ex. 2: [YouTube](https://youtu.be/G2bUf7kpkXY)  
+  
+**Significance:**  
+Confirms Lightning Rose can trigger Dendro Cores directly and indirectly.  
+Provides more information as to how Lightning Rose selects its targets, specifically from differentiating between Dendro Cores and valid enemies. Whereby enemies have precedence over Dendro Cores, and, after the enemy priority is met, only then may extra Discharges/Bolts directly target Dendro Cores.  
+Proves that creating Dendro Cores may provide a larger share of damage from her Burst via semi-enabling its pseudo-quadratic attribute through Dendro Cores.  
+Bolsters the effectiveness of Lisa's 4th Constellation further.
+
 ## Constellation Mechanics
 
 ### C1: Infinite Circuit

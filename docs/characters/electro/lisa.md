@@ -145,6 +145,8 @@ import Skill from '@site/src/components/char/Skill'
   * This area is a flat circular plane which shares the radius of **Lightning Rose** (7m).
   * The Summon DMG cannot deal damage to enemies whose hurtboxes are below or above near the suspended plane of which **Lightning Rose** was casted on.
 * More than one **Lightning Roses** can co-exist with sufficient cooldown reduction.
+* **Lightning Rose** is able to target and trigger Dendro Cores, both directly, from an Arc's Discharges/Bolts directly connecting to them, and indirectly, by nearby Discharges/Bolts' AoEs.
+  * If there are enemies present within Lightning Rose's radius, Discharges/Bolts from Arcs will prioritize targeting enemies over Dendro Cores.
 
 </TabItem>
 </Tabs>
