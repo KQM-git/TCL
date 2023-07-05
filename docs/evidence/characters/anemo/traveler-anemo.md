@@ -133,6 +133,58 @@ It will deal Anemo DMG, and Anemo application still occurs with a normal ICD of 
 **Significance:**  
 Fluff.
 
+### Cause Of The Extra Absorption Hit On Amcs Hold Skill
+
+**By:** @grankrathalos, @jamberry, @solasel  
+**Added:** <Version date="2023-06-24" />  
+**Last tested:** <VersionHl date="2023-02-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cause-of-the-extra-absorption-hit-on-amcs-hold-skill)
+
+**Finding:**
+
+As documented in [this ticket](#amc-hold-e-ticks), AMC's hold E skill's absorbed elemental damage is inconsistent, sometimes missing a hit for no apparent reason.
+
+Investigating further, this is due to a randomly timed aura check. If it happens before the second initial cutting hit, the player gets 6 hits (one initial cutting, four max cutting, one max storm) of absorbed elemental damage. If it happens after or on the same frame as the second initial cutting hit, the player will only get 5 hits of absorbed elemental damage.
+
+This aura check's timing depends on the game's framerate, with the chance of getting a 6-hit starting at \~80% at 60fps going down to \~20% at 15fps. It does not seem to depend on any other common factors such as latency.
+
+At very low fps (\~15fps) it is even possible to have the aura check happen so late that it misses the first max cutting hit, resulting in only 4 hits of absorbed elemental damage.
+
+**Evidence:**
+
+1: [25 Trials on each sibling on 15, 30, 45, and 60 fps](https://docs.google.com/spreadsheets/d/1QBE2949PT7pUo4UCoUHLk03zKbRDNTjLUQhDdGFv_a0/edit?usp=sharing)
+
+- Check the youtube description for timestamps on 4-hits occurring.
+
+2: [69 ping](https://docs.google.com/spreadsheets/d/15EUChwWpDYP9Dk-7wjf3cCONoWlIlGj-7eVrWJNrHA4/edit?usp=sharing) vs [675 ping](https://docs.google.com/spreadsheets/d/1dt_IdD2g-Bc9LfUSz-L_xWlXYPPIADrF1I4Rmmj6b7M/edit?usp=sharing), showing that latency does not have a significant effect.
+
+These findings have their limitations - more trials are needed to find the exact distribution of aura check frames by fps. It is also possible there are other confounding factors - in earlier trials, tests indicated a rate of \~95% 6-hits at 60fps, but later trials showed \~80%. This is most likely due to simply having too small of a sample to get close to the true value, or possibly a difference in the environment (game settings, external programs, etc.)
+
+Similarly, it is unclear if the difference in absorption rates between Aether and Lumine was due to too small of a sample, or potentially something different about the siblings' mechanics. The same goes for Aether's unusual 45fps rate.
+
+**Significance:**
+
+This finding is significant for a few practical reasons and a few larger-scale tc reasons.
+
+Practically speaking, this impacts how AMC handles, especially on lower-end setups. For a specific example, holding AMC's E between \~710ms-810ms ideally results in:
+- 2 initial cutting anemo hits
+- 1 initial cutting absorption hit
+- 1 initial storm anemo damage
+- 1 initial storm absorption damage
+- 2 swirls
+- 2 secondary reactions from the absorption damage
+- a 5 second cooldown
+
+However, if one's fps is sufficiently low, this outcome can become unlikely, instead often not absorbing at all. This will cause the player to either lose damage or be forced to use a longer hold E to get the same results, which most significantly means higher field time and a longer cooldown.
+
+This also impacts some other interactions, such as how well AMC triggers Shenhe's quills, and the elemental damage distribution on Light of Foliar Incision's passive.
+
+More broadly speaking, this gives us a bit of insight into how the game is coded. For instance, given the lack of variability in fps in the latency-related trials, it is reasonable to assume that the variation in aura check timing (at the same fps level) is *an intentional design choice by Hoyoverse*, which is very odd, especially given that the data seems to suggest a normal distribution, not a uniform distribution, as one might expect.
+
+Furthermore, this exposes a very pathological way the game interacts with varying FPS. Although this isn't 100% confirmed, it seems like the game decides when to do the aura check by choosing a number of frames to delay after the first initial cutting hit. Thus, with lower fps, the game waits "longer" in ingame time before it actually does the aura check, missing out on some hits. The reason it is presumed to happen after the first initial cutting hit is that even when the game's framerate limit is removed and tests are done at \~300fps, the aura check never occurs before the first initial cutting hit.
+
+If this concept of aura checks being affected by framerate is universal across the cast, this also might be significant for other characters. Wanderer's A1 passive talent comes to mind in particular, as it is possible that the initial burst of anemo damage may interfere with absorbable auras before the check, especially at lower fps. Again though, this is only assuming a similar FPS-related mechanic is at play, which very well may not be the case, especially given how early into the game's history AMC was coded.
+
 ## Burst Mechanics
 
 ### Anemo MC's Burst Absorption is 2U
