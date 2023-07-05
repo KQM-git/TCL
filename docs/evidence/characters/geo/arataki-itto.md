@@ -58,26 +58,38 @@ The exception to this is Itto’s N1, which allows you to hold LMB during its hi
 Greater and more quantitative understanding of Itto’s CA buffers, as well as potentially opening up an easier way to do certain combos with the N1 exception.  
 The most consistent way to buffer Itto’s combos is to click once during or a bit after hitlag for each NA, then hold click as soon as the final NA animation begins. Starting to hold click at least 14 frames before the earliest possible CA (which is 4f/6f after hitlag for N2/N3) will result in a frame perfect CA.
 
-### Itto NA Combo Non-Reset Mechanics
+### Itto NA Combo Saving Mechanics
 
-**By:** Mr. Pillow\#0065, tris\#4896  
-**Added:** <Version date="2023-02-14" />  
-**Last tested:** <VersionHl date="2023-02-04" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/itto-na-combo-non-reset-mechanics)
+**By:** @f99shi, @mr.pillow., @tris24  
+**Added:** <Version date="2023-07-03" />  
+**Last tested:** <VersionHl date="2023-06-30" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/itto-na-combo-saving-mechanics)
 
-**Finding:**  
-Itto's NA combo won't reset *only* when interrupted by 1) 1 or more Skill uses, or 2) A standalone Dash.
+**Theory:**  
+Itto Normal Attack combo saving mechanics  
   
 **Evidence:**  
-A recap of what's stated in-game: "Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill". The basic rule about this effect is that Itto can continue his Normal Attack combo when it's interrupted by sprinting or using E, but by no other actions. This is to say, e.g. `NA1 E/Dash NA2` is possible, but e.g. `NA1 Walk/Jump/CA NA2` is impossible.
+According to in-game description, "Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill." Game data suggests that this combo non-reset ability works based on a combo saving modifier that's attached to certain types of animations. These animations include the following:  
+1. Elemental Skill animations: Pre-Skill, Skill, Hold-Skill, and Post-Skill.  
+2. Sprinting animations: Pre-Sprint, and Sprint. Notably, Post-Sprint is excluded.  
+All other animations (e.g. Charged Attacks or Burst) are excluded.  
   
-Our findings in this [YouTube](https://youtu.be/oa0njfapZeE) video further explain the mechanics of the effect.  
-1. The combo non-reset time after using an Elemental Skill is very long, and seems to last the entire animation duration, and end after the animation ends.  
-2. Multiple Elemental Skills can be chained together and Itto will retain the combo non-reset. This has been tested with three Ushis, i.e. `NA1 3E NA2` is possible. There likely isn't an upper limit to how many Ushis can be chained together.  
-3. When Dash is used for the combo non-reset effect, it seems that only a single Dash can be involved, otherwise the effect won't trigger, i.e. `NA1 Dash NA2` is the only form for which the combo won't reset. This means that chained dashes, or different combinations of Dashes and Elemental Skills are impossible, e.g. `NA1 D D NA2`, `NA1 D E NA2`, and `NA1 E D NA2` are all impossible.
+As long as there's a "chain" of such animations between two of Itto's Normal Attacks, the combo will not reset. For example:  
+- The combo "NA1 E D NA2" is possible because the animation chain is "Pre-Skill > Skill > Post-Skill > Pre-Sprint > Sprint".  
+- The combo "NA1 D E NA2" is impossible because the animation chain is "Pre-Sprint > Sprint > *Post-Sprint* > Pre-Skill > Skill > Post-Skill".  
+  
+This video showcases some combos with animations that do and do not save Itto's NA combos: [YouTube](https://youtu.be/1xgzE4nTSoY.)  
+Examples of combo-saving animations:  
+- `tE`,   `tE > wait for post-Skill`,   `2tE`,   `3tE`  
+- `hE`,   `hE > hold for max duration`  
+- `D`,   `tE D`,   `hE D`  
+Examples of non-combo-saving animations:  
+- `tE > wait for after post-Skill`  
+- `D > wait for post-Sprint`, `tE D > wait for post-Sprint`  
+- `D tE`, `2D`  
   
 **Significance:**  
-Better understanding of Itto's Normal Attack mechanics, minorly useful for combo investigations.
+In summary, it's easy to save Itto's NA combo with Elemental Skill animations, while it can be difficult or even impossible with Sprinting. If a Sprint is followed by any animations, it won't save the NA combo. After a Sprint, you also need to start the NA animation before Post-Sprint starts to save the NA combo. Having a better understanding of Itto's Normal Attack mechanics can help with combo investigations.
 
 ## Skill Mechanics
 
