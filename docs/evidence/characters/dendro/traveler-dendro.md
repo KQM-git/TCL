@@ -107,6 +107,23 @@ When coming into contact with Hydro, the Lea Lotus Lamp undergoes a Hydro Transf
 **Significance:**  
 Relevant for teams that use the Bloom reaction; generates a Dendro Core without applying Dendro on enemy units.
 
+### DMC Q Extra Ticks And App
+
+**By:** @mr.pillow., @aftermathrar  
+**Added:** <Version date="2023-06-24" />  
+**Last tested:** <VersionHl date="2023-05-05" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dmc-q-extra-ticks-and-app)
+
+**Finding:**  
+Dendro Traveler Q extra ticks and application.  
+(All findings are by Aftermath#7658)  
+  
+**Evidence:**  
+By applying Electro shortly after one of the initial ticks of the Lea Lotus Lamp, it will get a third hit just before 2.5s and have an an extra element application, see the video: [YouTube](https://www.youtube.com/watch?v=wobiacx5yA81.) The Dendro application sequence is given by 1 0 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0. This is 19 hits and 7 applications compared to the normal 17 hits and 6 applications for an Electro-transfigured Lea Lotus Lamp.  
+  
+**Significance:**  
+Special tech can allow for an extra Dendro application. This is also evidence for a new upper limit for DMC Burst hits (previous documented was 18).
+
 ## Ascension Mechanics
 
 ### A1: Verdant Overgrowth
