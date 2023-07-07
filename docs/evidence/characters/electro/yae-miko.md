@@ -31,7 +31,7 @@ search: false
 * NA is considered an AoE attack. - [Video](https://youtu.be/ook_T0bjpsM) - TheFirstRapher\#9207
 * NA doesn't track teleporting enemies. - [Video](https://youtu.be/TNLEqmPQWw0) - emmaus\#9072
 * NA and CA can both hit through walls. - [Video 1](https://youtu.be/jk4UO-rlnuA) / [Video 2](https://youtu.be/e6y80OXzpfg) - Wesu\#8719
-* CA can hit the same enemy twice if the hitbox is large enough. - [Video](https://imgur.com/3z4irnj) - Vess\#7650
+* CA can hit the same enemy twice if the hitbox is large enough. - [Video](https://youtu.be/9teV83KNeg0) - @dejaroo
 
 ## Skill Mechanics
 
@@ -42,7 +42,7 @@ search: false
   * The first hit occurs 1.5s after E is casted.
   * The following hits occur every 2.9s.
   * When there is more than 1 Sesshou Sakura on-field, particles are generated only from the first one that was placed.
-* Sesshou Sakura hits shield even from behind the enemy. - [Video](https://imgur.com/zDEETHu) - Vess\#7650
+* Sesshou Sakura hits shield even from behind the enemy. - [Video](https://youtu.be/PPmV0OZU7j4) - @dejaroo
 * Casting E three times in a straight line does not allow the outside two turrets to become level 3; only the middle turret will become level 3. - [Video](https://youtu.be/CZF2wjkZlp8) - Ayzel\#7399
 * Sesshou Sakura has a small AoE and can only hit multiple enemies when they are tightly grouped up. - [Video](https://youtu.be/agLxIAtHiuw) - Abyssight\#1393
 * The dash does not have i-frames; Yae Miko places down a Sesshou Sakura where she is hit during a dash. - [Video 1](https://youtu.be/xxqmC3yLSCU) / [Video 2](https://youtu.be/0btyoPTCAoo) - Chaiyune\#7349
