@@ -63,6 +63,8 @@ The most consistent way to buffer Itto’s combos is to click once during or a b
 **By:** @f99shi, @mr.pillow., @tris24  
 **Added:** <Version date="2023-07-03" />  
 **Last tested:** <VersionHl date="2023-06-30" />  
+**Original ticket:** <Version date="2023-02-14" />  
+[Original Discussion](https://tickets.deeznuts.moe/transcripts/itto-na-combo-non-reset-mechanics)  
 [Discussion](https://tickets.deeznuts.moe/transcripts/itto-na-combo-saving-mechanics)
 
 **Theory:**  
