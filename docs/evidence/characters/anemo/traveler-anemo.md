@@ -133,7 +133,7 @@ It will deal Anemo DMG, and Anemo application still occurs with a normal ICD of 
 **Significance:**  
 Fluff.
 
-### Cause Of The Extra Absorption Hit On Amcs Hold Skill
+### Cause of the Extra Absorption Hit On AMC's Hold Skill
 
 **By:** @grankrathalos, @jamberry, @solasel  
 **Added:** <Version date="2023-06-24" />  
