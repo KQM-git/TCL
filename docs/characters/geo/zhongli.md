@@ -138,7 +138,7 @@ import Skill from '@site/src/components/char/Skill'
 * All types of Elemental Skill hits can generate Elemental Particles (Tap E initial, Hold E initial, **Stone Stele** **Resonance**, and Nearby Construct **Resonance**). However, all of them share the particle ICD. When there are two Steles (C1+), they also share this ICD.
 * In co-op, the particle ICD is not shared by different players who use Zhongli.
 * Particle generation requires server confirmation of Elemental Skill hits. With high ping, there is a noticeable delay between hits and particle generation, but it seems that this doesn't change the overall particle generation rate.
-* The particle ICD is a status that is applied to all the current Stone Steles that Zhongli owns — not to Zhongli himself.
+* The particle ICD is a modifier that is applied to all the current Stone Steles that Zhongli owns — not to Zhongli himself.
 * Zhongli's Elemental Skill hits that occur during disconnection from the server do not deal damage after reconnection and neither do they generate particles.
 * **Stone Steles** are able to experience hitlag after being hit by attacks that have hitlag.
 * Particles are generated underground and at the base of the **Stone Stele** that owns the particle.
