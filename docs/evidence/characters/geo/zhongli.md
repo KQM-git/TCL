@@ -221,7 +221,7 @@ Geo Archon will always protect us, in many ways.
 * All types of Elemental Skill hits can generate Elemental Particles (Tap E initial, Hold E initial, Stone Stele Resonance, and Nearby Construct Resonance). However, all of them share the particle ICD. When there are two Steles (C1+), they also share this ICD.
 * In co-op, the particle ICD is not shared by different players who use Zhongli.
 * Particle generation requires server confirmation of Elemental Skill hits. With high ping, there is a noticeable delay between hits and particle generation, but it seems that this doesn't change the overall particle generation rate.
-* The particle ICD is a status that is applied to all the current Stone Steles that Zhongli owns — not to Zhongli himself.
+* The particle ICD is a modifier that is applied to all the current Stone Steles that Zhongli owns — not to Zhongli himself.
 * Zhongli's Elemental Skill hits that occur during disconnection from the server do not deal damage after reconnection and neither do they generate particles.
 * Stone Steles are able to experience hitlag after being hit by attacks that have hitlag.
 * Particles are generated underground and at the base of the Stone Stele that owns the particle.
@@ -234,7 +234,7 @@ Geo Archon will always protect us, in many ways.
 * The particle generation rate is the exact same (i.e., 0.5 particles per 2s) regardless of how many Stone Steles, opponents, or nearby Constructs there are. Still, these factors can indirectly increase the particle generation rate. For example, having nearby Constructs means that the AoE of the attacks is larger. This makes the attacks less likely to miss their hits, which can result in an effectively higher particle generation rate compared to the one for a standalone Stele.
 * There's an exception to the above rule that can generate extra particles: by scoring an Elemental Skill hit during the small time window where the particle ICD is not in effect (i.e., between 1.5s and 2.0s after another hit), the frequency of hits that can generate particles is increased. For example, spamming tap E with Zhongli with the right timings can result in slightly more particles per second, though this is highly impractical.
 * When there are two Stone Steles (C1+), there's the phenomenon of owning particles and ownership switches. In general, the Stele to hit the first will own all future particles, i.e., the particles will originate from that Stele. The ownership can switch from the first to the second Stele if the first one misses a hit or if the second one is placed during the ICD downtime (i.e., between 1.5s and 2.0s after a hit from the first Stele).
-* If a Stone Stele experiences hitlag, so will all the statuses applied to it, which includes Resonance frequency and particle ICD. 
+* If a Stone Stele experiences hitlag, so will all the modifiers applied to it, which includes Resonance frequency and particle ICD. 
 
 
 ## Burst Mechanics
