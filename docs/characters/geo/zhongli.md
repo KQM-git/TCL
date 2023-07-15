@@ -131,6 +131,18 @@ import Skill from '@site/src/components/char/Skill'
 * **Resonance** ICD from **Stone Steles** is shared with other Geo Constructs, C1 **Stone Stele**, and **Planet Befall**.
 * The amount of **Resonance** ticks depends on FPS. For more information see this [Vault Entry](../../evidence/general-mechanics/movement-and-physics.md#tick-tock).
 * **Stone Steles** can attract the Sprawling Shots when enemies trigger Hyperbloom, saving the player from a hit.
+* Zhongli's particle generation is subject to an Internal Cooldown (ICD) of 1.5s. (For reference, the **Resonance** frequency is 2s.)
+* Depending on the state of the ICD, the following will happen after each Elemental Skill hit: 
+  * A) If on ICD, no particle will be generated. 
+  * B) If not on ICD, one or no Geo Particles will be generated with equal probability (50%:50%), after which the ICD will go into effect.
+* All types of Elemental Skill hits can generate Elemental Particles (Tap E initial, Hold E initial, **Stone Stele** **Resonance**, and Nearby Construct **Resonance**). However, all of them share the particle ICD. When there are two Steles (C1+), they also share this ICD.
+* In co-op, the particle ICD is not shared by different players who use Zhongli.
+* Particle generation requires server confirmation of Elemental Skill hits. With high ping, there is a noticeable delay between hits and particle generation, but it seems that this doesn't change the overall particle generation rate.
+* The particle ICD is a modifier that is applied to all the current Stone Steles that Zhongli owns — not to Zhongli himself.
+* Zhongli's Elemental Skill hits that occur during disconnection from the server do not deal damage after reconnection and neither do they generate particles.
+* **Stone Steles** are able to experience hitlag after being hit by attacks that have hitlag.
+* Particles are generated underground and at the base of the **Stone Stele** that owns the particle.
+* **Resonance** and Nearby Construct **Resonance** attacks are released at the same time. Also, the damage from these attacks is dealt over all of its AoE at once, even though the attacks appear to be traveling waves.
 
 </TabItem>
 
