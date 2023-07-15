@@ -1146,6 +1146,34 @@ It should be noted that some objects simply cannot be tested as they are destroy
 **Significance:**  
 Largely fluff. However, the application of Cryo does mean that some Elemental reactions can be performed on inanimate objects which can come with some side benefits. An example of this is that Shatter can be trigged on rocks via this method, turning normally slow characters for mining into slightly more acceptable (such as Albedo).
 
+### Bounce Cancelling on Bouncy Mushrooms
+
+**By:** @isetfire  
+**Added:** <Version date="2023-07-03" />  
+**Last tested:** <VersionHl date="2023-06-30" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/bounce-cancelling)
+  
+**Finding:**  
+* Using a Normal Attack/Skill/Burst while starting a bounce animation (on the Bouncy Mushroom) will cancel the bounce on the player, which is easier to do with attacks that come out quicker. 
+
+* To make the game register the cancel as a bounce(in the related Sumeru daily commission), the cancel must be input at around 4 frames after the Bouncy Mushroom's bounce animation has started. Doing it early will not count and doing it late risks being up in the air, unable to cancel the animation.  
+  
+**Evidence:**    
+* [Video](https://youtu.be/y_9UM3FnAyI)  
+* [Video](https://youtu.be/dZnVb1Q4-k4)  
+* [Video](https://youtu.be/Q4lmkC77zUo)  
+* [Video](https://youtu.be/PqZOk9qPTn0)  
+* [Video](https://youtu.be/7KOwipQmQ6o)  
+* [Video](https://youtu.be/fcDUcaDKcEk)  
+* [Video](https://youtu.be/Sfqf5yHZQM0)  
+* [Video](https://youtu.be/4YKbmZmQfIo)  
+* [Video](https://youtu.be/CgM_Dde41ok)  
+* [Video](https://youtu.be/9Zo6qOwKnVg)  
+* Jump Consistency Frame Check - [Google Docs](https://docs.google.com/spreadsheets/d/1btYVSNt3bESO1Phq7rLtjQBcDa0WAEBgghFG6BQG4XE/edit?usp=sharing)  
+  
+**Significance:**  
+Optimizing the Bouncing Commision on the Last(5th) Bounce.
+
 ## Coordinates
 
 ### Coordinates Translation Methods
