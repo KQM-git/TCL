@@ -21,14 +21,14 @@ This character is currently being theorytested, see [#yaoyao-basic-mechanics](ht
   * Skill: 1U - [Video](https://youtu.be/C2PIBsVQb2U) - @emmaus
   * Burst: 1U - [Video](https://youtu.be/C2PIBsVQb2U) - @emmaus
 * ICDs:
-  * E and Q: Shared - @idkanonymized
-    * E: 2.5s - [Video](https://youtu.be/Y3geqQOpDy0)
-    * Q: 1.5s - [Video](https://youtu.be/MqJGtDnE6A0)
-    * E and Q Simultaneous: (shared during Q state) [Video](https://youtu.be/0rvnBnSEW8Q)
+  * E: 2.5s - [Video](https://youtu.be/Y3geqQOpDy0) - @idkanonymized
+  * Q: 1.5s - [Video](https://youtu.be/MqJGtDnE6A0) - @idkanonymized
+  * E+Q: shared during Q state [Video](https://youtu.be/0rvnBnSEW8Q) - @idkanonymized
+  * NA/CA: Separate - [Video](https://youtu.be/AiJlttPQSWo) - @socket0
 * Snapshots:
   * Yuegui
-    * Damage: Snapshots. - [Video](https://youtu.be/SLTHfqsiKa4) - @bobrokrot
-    * Healing: Snapshots. - [Video](https://youtu.be/2xvmloRQnRM) - @bobrokrot
+    * Damage: Snapshots when created. - [Video](https://youtu.be/SLTHfqsiKa4) - @bobrokrot
+    * Healing: Snapshots when created. - [Video](https://youtu.be/2xvmloRQnRM) - @bobrokrot
   * A1: Radishes snapshot when thrown. - [Video](https://youtu.be/SLTHfqsiKa4) - @bobrokrot
   * A4: Healing is dynamic. - [Video](https://youtu.be/2xvmloRQnRM) - @bobrokrot
 
