@@ -414,18 +414,18 @@ Because Dendro Cores may also be directly targeted by Discharges/Bolts, this may
   
 **Evidence (Youtube/Imgur):**  
 Proof of Discharges/Bolts triggering Dendro Cores  
-- Directly: [YouTube](https://youtu.be/0nF-ztttiwU>;) the Discharge/Bolt directly connects to the Dendro Core because there are no enemies in bound.  
-- Indirectly: [YouTube](https://youtu.be/l-M_FjrCURI>;) the Arc chooses to send 1 Discharge/Bolt, which connects to the enemy by having precedence, but also indirectly triggers the Dendro Core adjacent to it.  
-Proof of Dendro Cores briefly enabling the attribute of being Pseudo-Quadratic: [YouTube](https://youtu.be/SHcjr_Ec2fU>;) the Arc chooses to send 2 Discharges/Bolts, which connects to both the enemy and the Dendro Core (as there was an extra Discharge/Bolt to be sent) resulting in the enemy taking damage equivalent to two instances of being hit.  
+- Directly: [YouTube](https://youtu.be/0nF-ztttiwU) the Discharge/Bolt directly connects to the Dendro Core because there are no enemies in bound.  
+- Indirectly: [YouTube](https://youtu.be/l-M_FjrCURI) the Arc chooses to send 1 Discharge/Bolt, which connects to the enemy by having precedence, but also indirectly triggers the Dendro Core adjacent to it.  
+Proof of Dendro Cores briefly enabling the attribute of being Pseudo-Quadratic: [YouTube](https://youtu.be/SHcjr_Ec2fU) the Arc chooses to send 2 Discharges/Bolts, which connects to both the enemy and the Dendro Core (as there was an extra Discharge/Bolt to be sent) resulting in the enemy taking damage equivalent to two instances of being hit.  
 Examples of 3 or 3+ Enemy Scenarios not allowing Dendro Cores to be hit directly by Arcs' Discharges/Bolts because of Enemies' Priority  
-- Ex. 1: [YouTube](https://youtu.be/MXFDa0HpcpM>;) various Arcs are shown here with the presence of a Dendro Core, and all Arcs' Discharges/Bolts always connect to the enemies and not the Dendro Core.  
-- Ex. 2: [YouTube](https://youtu.be/uYrx9XVzM0g>;) same as above, but a more prolonged example.  
+- Ex. 1: [YouTube](https://youtu.be/MXFDa0HpcpM) various Arcs are shown here with the presence of a Dendro Core, and all Arcs' Discharges/Bolts always connect to the enemies and not the Dendro Core.  
+- Ex. 2: [YouTube](https://youtu.be/uYrx9XVzM0g) same as above, but a more prolonged example.  
   
 Examples of 2 Enemy Scenarios when a 2 Discharge/Bolt Arc and 3 Discharge/Bolt Arc are queued  
-- Ex. 1 & 2: [YouTube](https://youtu.be/LqLeMlbhhu8>;) seen are a 2 Discharge/Bolt Arc and a 3 Discharge/Bolt Arc in a 2 Enemy Scenario. During the 2 Discharge/Bolt Arc, the Discharges/Bolts prioritize targeting the enemies rather than the Dendro Core, leaving the Dendro Core untouched. During the following 3 Discharge/Bolt Arc, 2 of the Discharges/Bolts target the enemies by priority, leaving 1 Discharge/Bolt able to connect to the Dendro Core.  
+- Ex. 1 & 2: [YouTube](https://youtu.be/LqLeMlbhhu8) seen are a 2 Discharge/Bolt Arc and a 3 Discharge/Bolt Arc in a 2 Enemy Scenario. During the 2 Discharge/Bolt Arc, the Discharges/Bolts prioritize targeting the enemies rather than the Dendro Core, leaving the Dendro Core untouched. During the following 3 Discharge/Bolt Arc, 2 of the Discharges/Bolts target the enemies by priority, leaving 1 Discharge/Bolt able to connect to the Dendro Core.  
 Examples of 1 Enemy Scenarios with varying Discharge/Bolt Arcs  
-- Ex. 1 & 3: [YouTube](https://youtu.be/0HnScna__eA>;) seen are a 1 Discharge/Bolt Arc and a 3 Discharge/Bolt Arc in a 1 Enemy Scenario. During the 1 Discharge/Bolt Arc, the Discharge/Bolt prioritizes targeting the enemy rather than the Dendro Cores, leaving the Dendro Cores untouched. During the following 3 Discharge/Bolt Arc, 1 of the Discharges/Bolts target the enemy by priority, leaving 2 Discharges/Bolts able to connect to the Dendro Cores.  
-- Ex. 2: [YouTube](https://youtu.be/uk5s8B6spzg>;) seen are 2 Discharge/Bolt Arcs in a 1 Enemy Scenario. During both 2 Discharge/Bolt Arcs, 1 of the Discharges/Bolts target the enemy by priority, leaving 1 Discharge/Bolt able to connect to the Dendro Core(s).  
+- Ex. 1 & 3: [YouTube](https://youtu.be/0HnScna__eA) seen are a 1 Discharge/Bolt Arc and a 3 Discharge/Bolt Arc in a 1 Enemy Scenario. During the 1 Discharge/Bolt Arc, the Discharge/Bolt prioritizes targeting the enemy rather than the Dendro Cores, leaving the Dendro Cores untouched. During the following 3 Discharge/Bolt Arc, 1 of the Discharges/Bolts target the enemy by priority, leaving 2 Discharges/Bolts able to connect to the Dendro Cores.  
+- Ex. 2: [YouTube](https://youtu.be/uk5s8B6spzg) seen are 2 Discharge/Bolt Arcs in a 1 Enemy Scenario. During both 2 Discharge/Bolt Arcs, 1 of the Discharges/Bolts target the enemy by priority, leaving 1 Discharge/Bolt able to connect to the Dendro Core(s).  
 Examples of 0 Enemy Scenarios  
 - Ex. 1: [YouTube](https://youtu.be/0nF-ztttiwU)  
 - Ex. 2: [YouTube](https://youtu.be/G2bUf7kpkXY)  
