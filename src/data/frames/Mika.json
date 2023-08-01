@@ -1,0 +1,95 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 20,
+        "hitlag": 0.02,
+        "next_na": 24,
+        "ca": 30,
+        "walk": 37 
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 14,
+        "hitlag": 0.02,
+        "next_na": 25,
+        "ca": 25,
+        "walk": 34 
+    },
+    {
+        "name": "N3",
+        "hitmark": 16,
+        "hitlag": 0.02,
+        "next_na": 36,
+        "ca": 41,
+        "walk": 33
+    },
+    {
+        "name": "N4",
+        "hitmark": [15,9],
+        "hitlag": [0,0],
+        "next_na": 32,
+        "ca": 40,
+        "walk": 48
+    },
+    {
+        "name": "N5",
+        "hitmark": 30,
+        "hitlag": 0.04,
+        "next_na": 78,
+        "walk": 70
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 26,
+        "hitlag": 0,
+        "n1": 67,
+        "skill": 66,
+        "burst": 66,
+        "walk": 70,
+        "dash": 24,
+        "jump": 24,
+        "swap": 65
+    },
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 17,
+        "n1": 43,
+        "burst": 43,
+        "walk": 23,
+        "dash": 38,
+        "jump": 39,
+        "swap": 41,
+        "cd": 16
+    },
+    {
+        "name": "Hold",
+        "hitmark": 12,
+        "n1": 38,
+        "walk": 30,
+        "dash": 30,
+        "jump": 30,
+        "swap": 46,
+        "cd": 11,
+        "notes": "Travel flare: 2f, Travel shard: 46f"
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 51,
+        "n1": 61,
+        "skill": 60,
+        "walk": 61,
+        "dash": 51,
+        "jump": 60,
+        "swap": 59,
+        "cd": 0,
+        "energy": 6 
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}
