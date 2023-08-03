@@ -92,11 +92,22 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
-<!--
+
 **Notes**
 
-* 
--->
+* Given the ICD of Yaoyao's Skill, **Yuegui** will apply Dendro every 3rd hit on the same target.
+* Yaoyao's Skill has a 50% chance to generate a particle on enemy hit, creating 4-5 particles per 10 hits.
+* **Yuegui** will prioritize targeting nearby characters at 70% of their Max HP or less over enemies. Yuegui can also target overworld objects.
+* **Yuegui** can target enemies even if they are in an invisible state.
+* **White Jade Radishes** track teleporting enemies, even if they teleport out of the Skill's range.
+* **White Jade Radishes** can trigger ally ascension/constellation passives, such as Diluc's C2, Thoma's C1, Zhongli's A1, and Beidou's C4.
+* **White Jade Radishes** can carry a Hydro aura when under rain.
+* **Yuegui** - Elemental Auras
+  * **Yuegui** can be applied elemental auras when hit by enemies or placed in water.
+  * **Yuegui** cannot be infused with an elemental aura by team members.
+* Yaoyao's skill has a small delay between its cast and the first Dendro application.
+* Enemy Hyperblooms will prioritize targeting Yuegui rather than the player, even though Yuegui is not a taunt or otherwise targetable by enemy attacks.
+
 
 </TabItem>
 
@@ -123,11 +134,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
-<!--
+
 **Notes**
 
-* 
--->
+* Activating Yaoyao's Burst changes the DMG type of **White Jade Radishes** generated to Burst DMG. Also changes their ICD.
 
 </TabItem>
 </Tabs>
@@ -154,6 +164,11 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
+
+**Notes**
+
+* Can affect multiple characters simultaneously, and can continue to heal them even when they go off-field.
+
 </TabItem>
 </Tabs>
 
@@ -167,7 +182,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
   
-* The Dendro DMG Bonus buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+* The Dendro DMG Bonus buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
+* Does not stack.
 
 </TabItem>
 
