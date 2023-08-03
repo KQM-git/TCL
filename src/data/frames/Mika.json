@@ -52,25 +52,26 @@
     },
     "Skill": [{
         "name": "Press",
-        "hitmark": 17,
+        "hitmark": 18,
         "n1": 43,
         "burst": 43,
         "walk": 23,
         "dash": 38,
         "jump": 39,
         "swap": 41,
-        "cd": 16
+        "cd": 16,
+        "notes": "Included in the hitmark for Press E -> Travel: 1f"
     },
     {
-        "name": "Hold",
-        "hitmark": 12,
+        "name": "Hold (Rimestar Flare, Rimestar Shaard)",
+        "hitmark": [15,46],
         "n1": 38,
         "walk": 30,
         "dash": 30,
         "jump": 30,
         "swap": 46,
         "cd": 11,
-        "notes": "Travel flare: 2f, Travel shard: 46f"
+        "notes": "1 Rimestar Shard assumed for TL9% and MV/s,  2 Rimestar Shards: TL9%=228.48% and MV/s=360.76%/s,  3 Rimestar Shards: TL9%=271.32% and MV/s=428.4%/s CD: 11f, Included in the hitmark for Flare -> Travel Flare: 3f"
     }],
     "Burst": {
         "name": "Cast",
