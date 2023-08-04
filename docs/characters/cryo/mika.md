@@ -42,37 +42,37 @@ take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spr
 take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
 -->
 
-<!--
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+
+| String | Talent 9%   | Frames | MV/s       | Poise Damage   | Impulse Type |
+| :----- | :---------- | :----- | :--------- | :------------- | :----------- |
+| 1-Hit  |   79.48%    |   24   | 198.7%/s   |  40.245        |      3       |
+| 2-Hit  |   76.25%	   |   25   | 183%/s     |  38.606        |      3       |
+| 3-Hit  |  100.13%    |   36   | 166.88%/s  |  50.701        |      4       |
+| 4-Hit  |  50.73% x2  |   32   | 190.24%/s  |  25.68 x2      |     1 x2     |
+| 5-Hit  |  130.21%    |   78   | 100.16%/s  |  65.93         |      5       |
+
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- polearm/catalyst
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              |              |
--->
+
+| String | Talent 9%  | Frames | MV/s         | Poise Damage | Impulse Type |
+| :----- | :--------- | :----- | :----------- | :----------- | :----------- |
+| CA     |   207.14%  |   67   |  185.5%/s    |     120      |       5      |
+
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
+
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      |  117.46%  |      25      |      2       |
+| Low Plunge DMG  |  234.86%  |      100     |      4       |
+| High Plunge DMG |  293.36%  |      150     |      7       |
+
 
 </div>
 
@@ -87,23 +87,33 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+
+| Attribute           | Tap                         | Hold                                                                     |
+| :------------------ | :-------------------------- | :----------------------------------------------------------------------- |
+| DMG \(T9%\)         |  Flowfrost Arrow: 114.24%   |    Rimestar Flare: 142.8% <br/> Rimestar Shard: 42.84%                   |
+| Particles           |     4 \(-\)                 |    4 \(-\)                                                               |   
+| GU                  |     1                       |    1                                                                     |
+| ICD                 |    None                     |    Rimestar Flare: 3-hit / 2.5s <br/> Rimestar Shard: 3-hit / 2.5s       |
+| Snapshot            |    Dynamic                  |    Snapshot                                                              |
+| Damage Element      |    Cryo                     |    Cryo                                                                  |
+| Damage Type         |                             |    Skill                                                                 |
+| Duration (Soulwind) |     12s                     |    12s                                                                   |
+| CD                  |     15s                     |    15s                                                                   |
+| Poise Damage        |     100                     |    Rimestar Flare: 100 <br/> Rimestar Shard: 50                          |
+| Impulse Type        |     3                       |    Rimestar Flare: 2 <br/> Rimestar Shard: 2                             |
+
 
 </div>
+
+**Notes**
+
+* The **Rimestar Flare** has to hit an enemy to spawn **Rimestar Shards**.
+* As long as Mika's hold Elemental Skill aiming ring visual touches an enemy's hitbox (not necessarily have to touch the model), it can lock on to said enemy, even if players aims at the ground or slightly to the left or right of target.  Also the **Rimestar Flare** can auto aim, and can track down locked-on enemy as long as player releases Mika's Elemental Skill while the enemy's hitbox still touch the aiming ring.
+* Mika's skill autotarget aims for the target, and not necessarily the head, even if aiming at it.
+* Mika's skill can hit weakspots, however his aim is quite bad.
+* Detector stacks carry over to other teammates after you swap to them.
+    * As such, doing Burst > Skill compared to Skill > Burst is slightly more beneficial for Mika due to a chance to gain a Detector stack earlier (so that your Physical dps starts attacking with the Physical DMG Bonus).
+* Mika's Physical DMG buffs (**Detector** stacks) and C6 Physical CRIT DMG buff only affect the active character and are lost either immediately or within a very short time frame (<40 frames) after swapping. Mika's hold Skill does not generate shards in Single Target, so his A1 also does not give any **Detector** stacks in Single Target scenarios. This caps his DMG buff at a maximum of 10% before C2, and 20% on or after in Single Target.
 
 </TabItem>
 
@@ -112,23 +122,16 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
 
-<!--
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
+| Attribute         | Burst                                                                                      | 
+| :---------------- | :----------------------------------------------------------------------------------------- |
+| HP Regen \(T9%\)  | Cast Healing: 20.69% Max HP + 2383.3071 <br/> Eagleplume Healing: 4.13% Max HP + 475.74066 |
+| Snapshot          | Dynamic                                                                                    |           
+| Energy Cost       | 70                                                                                         |           
+| Duration          | Eagleplume: 15s <br/> Eagleplume Healing Interval: 2.5s                                    |           
+| Cooldown          | 18s                                                                                        |           
+         
+
 
 </div>
 
@@ -136,14 +139,14 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 </TabItem>
 </Tabs>
 
-<!--
+
 ## Frames
 
 import charFrames from '@site/src/data/frames/Mika.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 
@@ -190,6 +193,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
+
+**Notes**
+
+* Mika's Physical DMG buffs (**Detector** stacks) and C6 Physical CRIT DMG buff only affect the active character and are lost either immediately or within a very short time frame (<40 frames) after swapping. Mika's hold Skill does not generate shards in Single Target, so his A1 also does not give any **Detector** stacks in Single Target scenarios. This caps his DMG buff at a maximum of 10% before C2, and 20% on or after in Single Target.  
+
 </TabItem>
 </Tabs>
 
