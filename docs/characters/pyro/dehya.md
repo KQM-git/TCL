@@ -32,47 +32,47 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+| String | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type  |
+| :----- | :--------- | :----- | :-------- | :----------- | :------------ |
+| 1-Hit  |   114.12%  |   41   | 167%/s    |    93.33     |       3       |
+| 2-Hit  |   113.37%  |   44   | 154.6%/s  |    92.72     |       3       |
+| 3-Hit  |   140.79%  |   53   | 159.38%/s |    115.14    |       4       |
+| 4-Hit  |   175.07%  |   96   | 109.42%/s |    143.17    | Air, 400, 800 |
+
 
 </div>
+
+
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- claymore
+
 | String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
+| Spinning DMG |  103.49%  |    ?   |   ?  | 60           | 3            |
+| Final DMG    |  187.07%  |    ?   |   ?  | 120          | 6            |
+| Stamina Cost |    40/s   | -      | -    | -            | -            |
+
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
+
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      |   137.03  |     35       |       2      |
+| Low Plunge DMG  |   274.01  |     150      |       4      |
+| High Plunge DMG |   342.25  |     200      |       7      |
+
 
 </div>
 
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* Dehya's N3 does not knock back unlike what was advertised in the trailer, and so the combo weaves together properly.
 
 </TabItem>
 
@@ -81,23 +81,36 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+
+| Attribute      | Indomitable Flame       | Ranging Flame      | Fiery Sanctum Field         |
+| :------------- | :---------------------- | :----------------- | :-------------------------- |
+| DMG \(T9%\)    |         191.90%         |      225.76%       | 102.34% ATK + 1.75% Max HP  | 
+| Particles      |         -               |      -             |         3 (-)               |
+| GU             |         1U              |      1U            |         1U                  |
+| ICD            |         None            |      None          |         None                |
+| Snapshot       |         Snapshot        |      Snapshot      |         Snapshot            |
+| Damage Element |         Pyro            |      Pyro          |         Pyro                |
+| Damage Type    |         Skill           |      Skill         |         Skill               |
+| Duration       |         -               |      -             |         12s                 |
+| CD             |         20s             |      20s           |         20s                 |
+| Poise Damage   |         50              |      50            |         50                  |
+| Impulse Type   |         4               |      Air, 100, 600 |         2                   |
+
 
 </div>
+
+
+**Notes**
+
+* Dehya's Skill is not ping affected.
+* Dehya's coordinated attack from **Fiery Sanctum** is centered on enemy hitboxes and has a small AoE.
+* Dehya only generates skill particles on **Fiery Sanctum** tick, not on cast/recast. Each tick will generate 1 Pyro energy particle.
+* On-character shields mitigate **Fiery Sanctum** bleed damage.
+* Dehya's **Fiery Sanctum** mitigates True DMG.
+* Dehya's **Fiery Sanctum** damage mitigation does not mitigate corrosion.
+* Dehya's **Fiery Sanctum** is weightless, hence doesn't work on pressure plates.
+* Dehya's Redmane damage is determined dynamically.
+* Follow-up Attacks from Dehya’s **Fiery Sanctum** are capable of proccing Sacrificial Greatsword's passive. 
 
 </TabItem>
 
@@ -106,37 +119,46 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
 
-<!--
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
+
+| Attribute         | Flame-Mane's Fist        | Incineration Drive       |
+| :---------------- | :----------------------- | :----------------------  |
+| DMG \(T9%\)       | 167.79% ATK+2.88% Max HP | 236.81% ATK+4.06% Max HP |
+| GU                |     1U                   |       1U                 |
+| ICD               |     3 hits/2.5s          |       None               |
+| Snapshot          |     Dynamic              |       Dynamic            |
+| Damage Element    |     Pyro                 |       Pyro               |
+| Damage Type       |     Burst                |       Burst              |
+| Energy Cost       |     70                   |       70                 |
+| Duration          |     4s                   |       -                  |
+| Cooldown          |     18s                  |       18s                |
+| Poise Damage      |     50                   |       100                |
+| Impulse Type      |     Heavy, 250, 0        |       Air, 100, 900      |
+
 
 </div>
+
+**Notes**
+
+* If Dehya jumps during her burst, the burst prematurely ends.
+* Teleporting during Dehya's burst doesn't prematurely end it.
+* Dehya burst hits are heavy attacks and thus Shatter against frozen enemies.
+* Dehya's Burst attacks do not latch onto the overground hitbox of Azhdaha. It is presumed that it’s trying to hit the underground hitbox instead.
+* Dehya's burst Fist phase can be skipped into Incineration Drive, by pressing Dash -> Jump.
+    * Dehya's burst early Incineration Drive tech places the Fiery Sanctum before the kick damage instance happens, this potentially leads to doing coordinated dmg with Incineration Drive DMG itself, unlike in regular case. This can be also done just after last punch done in her burst.
+*  Dehya burst does not reach the center of Venti burst.  
 
 </TabItem>
 </Tabs>
 
-<!--
+
 ## Frames
 
 import charFrames from '@site/src/data/frames/Dehya.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 
@@ -167,6 +189,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c2' label='C2'>
 <Constellation char={char} constellation={2} />
+
+**Notes**
+
+* Dehya C2 will trigger from her own Redmane damage. Only 1 hit taken can keep uptime of C2's damage increase.
+
 </TabItem>
 
 <TabItem value='c3' label='C3'>
