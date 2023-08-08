@@ -17,9 +17,9 @@ import Image from '@theme/IdealImage'
 
 * [Kaveh Mains Discord]()
 * [Full Kaveh Written Guide]()
-* [Kaveh Quick Guide]()
 * [# Minute Video Guide to Kaveh]()
 -->
+* [Kaveh Quick Guide](https://keqingmains.com/q/kaveh-quickguide/)
 
 ## Base Stats
 
@@ -37,42 +37,36 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
--->
 
-<!--
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+| String | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type  |
+| :----- | :-------- | :----- | :------ | :----------- | :------------ |
+| 1-Hit  |   140.0%  |   45   | 186.67% |   107.738    |      3        |
+| 2-Hit  |   127.9%  |   45   | 170.53% |   98.524     |      3        |
+| 3-Hit  |   154.8%  |   52   | 178.62% |   123.542    |      3        |
+| 4-Hit  |   188.7%  |   77   | 147.04% |   148.118    | Air, 200, 600 |
+
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- polearm/catalyst
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              |              |
--->
+| Type         | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| Spinning DMG | 97.60%    | ?      | ?         | 60           | 3            |
+| Final DMG    | 177.00%   | ?      | ?         | 120          | 6            |
+| Stamina Cost | 40/s      | -      | -         | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
+
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      |  137.0%   |      35      |      2       |
+| Low Plunge DMG  |  274.0%   |      150     |      4       |
+| High Plunge DMG |  342.0%   |      200     |      7       |
+
 
 </div>
 
@@ -87,21 +81,21 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+
+| Attribute      | Skill       | 
+| :------------- | :---------- |  
+| DMG \(T9%\)    |  346.8%     |           
+| Particles      |   2         |           
+| GU             |   1U        |           
+| ICD            |  None       |           
+| Snapshot       |  Dynamic    |           
+| Damage Element |  Dendro     |           
+| Damage Type    |  Skill      |           
+| Duration       |   -         |           
+| CD             |   6s        |           
+| Poise Damage   |   75        |           
+| Impulse Type   | Air, 0, 600 |           
+
 
 </div>
 
@@ -112,23 +106,21 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
 
-<!--
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
+| Attribute         | Burst     |  
+| :---------------- | :-------- | 
+| DMG \(T9%\)       |  272.0%   |           
+| GU                |  2U       |           
+| ICD               |  None     |           
+| Snapshot          |  Dynamic  |           
+| Damage Element    |  Dendro   |           
+| Damage Type       |  Burst    |           
+| Energy Cost       |  80       |           
+| Duration          |  12s      |           
+| Cooldown          |  20s      |           
+| Poise Damage      |  100      |           
+| Impulse Type      |  3        |           
+
 
 </div>
 
@@ -136,14 +128,14 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 </TabItem>
 </Tabs>
 
-<!--
+
 ## Frames
 
 import charFrames from '@site/src/data/frames/Kaveh.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 
@@ -156,6 +148,12 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+
+**Notes**
+
+* Kaveh Self Heal triggers on the same frame dendro Bloom DMG is registered. The difference between the DMG and heal is applied to Kaveh.
+* Kaveh Self heal only occurs if he takes a hit from Bloom, whether shielded or not. He doesn't heal if he dodges the Bloom. Burst i-frames do not prevent healing.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
@@ -182,6 +180,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
+
+**Notes**
+
+* Kaveh's C4 only applies to dendro cores that were created by him.
+
 </TabItem>
 
 <TabItem value='c5' label='C5'>
