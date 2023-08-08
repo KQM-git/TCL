@@ -32,7 +32,7 @@
     * Makes it difficult to play Burgeon against taller enemies.
 * Dehya only generates skill particles on Fiery Sanctum tick, not on cast/recast. Each tick will generate 1 Pyro energy particle. - [YouTube](https://youtu.be/MoDJiGA8oEc) - @emmaus
 * On-character shields mitigate Fiery Sanctum bleed damage. - @soul_fish
-    * Noelle A1: [YouTube](https://youtu.be/VKjwjQ1qrLo) - @k1llurs3lf
+    * Noelle A1: [YouTube](https://youtu.be/W-xOkk6vPOE) - @soul_fish
     * The Bell: [YouTube](https://youtu.be/1Uf5PkXtkBw) - @emmaus
 * Dehya's Fiery Sanctum mitigates True DMG. - [YouTube](https://youtu.be/djcXSsQeDdA) - @freenek
 * Dehya's Fiery Sanctum damage mitigation does not mitigate corrosion.  - [YouTube](https://youtu.be/i3B7aa7rfWQ) - @freenek
