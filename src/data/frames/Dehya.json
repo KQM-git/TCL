@@ -1,0 +1,71 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 22,
+        "hitlag": 0.09,
+        "next_na": 41
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 26,
+        "hitlag": 0.10,
+        "next_na": 44
+    },
+    {
+        "name": "N3",
+        "hitmark": 27,
+        "hitlag": 0.08,
+        "next_na": 53
+    },
+    {
+        "name": "N4",
+        "hitmark": 41,
+        "hitlag": 0.12,
+        "next_na": 96
+    }],
+    "Skill": [{
+        "name": "Cast",
+        "hitmark": 20,
+        "n1": 41,
+        "skill": 32,
+        "burst": 31,
+        "dash": 27,
+        "jump": 30,
+        "swap": 27,
+        "cd": 18,
+        "notes": "Field Form: 21f"
+    },
+    {
+        "name": "Recast",
+        "hitmark": 40,
+        "n1": 76,
+        "skill": 47,
+        "burst": 47,
+        "dash": 47,
+        "jump": 52,
+        "swap": 46,
+        "notes": [
+            "Field Gone: 1f",
+            "Field Back: 40f"
+        ] 
+    }],
+    "Burst": [{
+        "name": "Punches",
+        "hitmark": [105, 135, 165, 193, 220, 247,  274,  301,  328, 355],
+        "burst": "N/A",
+        "cd": 1,
+        "energy": 9
+    },
+    {
+        "name": "Kick",
+        "hitmark": 46,
+        "n1": 76,
+        "skill": 71,
+        "dash": 72,
+        "jump": 73,
+        "notes": [
+            "Field Form: 46f",
+            "Skill Recast Cancel: 70f"
+        ]
+    }]
+}
