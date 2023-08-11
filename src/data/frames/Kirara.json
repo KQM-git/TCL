@@ -1,0 +1,101 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "next_na": 26,
+        "ca": 30,
+        "walk": 39
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 18,
+        "hitlag": 0.03,
+        "next_na": 35,
+        "ca": 34,
+        "walk": 41
+    },
+    {
+        "name": "N3",
+        "hitmark": [17, 39],
+        "hitlag": [0.01, 0.05],
+        "next_na": 65,
+        "ca": 51,
+        "walk": 72
+    },
+    {
+        "name": "N4",
+        "hitmark": 39,
+        "hitlag": 0.06,
+        "next_na": 68,
+        "walk": 71
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": [20, 27, 37],
+        "hitlag": 0.1,
+        "n1": 53,
+        "skill": 53,
+        "burst": 53,
+        "walk": 62,
+        "dash": 48,
+        "jump": 48,
+        "swap": 47
+    },
+    "Skill": [{
+        "name": "Tap",
+        "hitmark": 14,
+        "n1": 38,
+        "skill": 38,
+        "burst": 38,
+        "walk": 42,
+        "dash": 39,
+        "jump": 39,
+        "swap": 37,
+        "cd": 12  
+    },
+    {
+        "name": "Short Hold (Urgent Neko Parcel Hit 1, Flipclaw Strike)",
+        "hitmark": [17, 48],
+        "n1": 76,
+        "skill": 79,
+        "burst": 78,
+        "walk": 82,
+        "dash": 78,
+        "jump": 78,
+        "swap": 76,
+        "cd": 27
+    },
+    {
+        "name": "Hold E (Urgent Neko Parcel Hit 1, Flipclaw Strike)",
+        "hitmark": [16, 636],
+        "n1": 663,
+        "skill": 666,
+        "burst": 667,
+        "walk": 672,
+        "dash": 666,
+        "jump": 667,
+        "swap": 667,
+        "cd": 614
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 38,
+        "n1": 61,
+        "skill": 61,
+        "walk": 62,
+        "dash": 56,
+        "jump": 56,
+        "swap": 61,
+        "cd": 0,
+        "energy": 7
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}
