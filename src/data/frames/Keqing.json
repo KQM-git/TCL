@@ -3,8 +3,9 @@
         "name": "N1",
         "hitmark": 10,
         "hitlag": 0.03,
-        "next_na": 21,
-        "ca": 27
+        "next_na": 15,
+        "ca": 21,
+        "notes": "It's possible that N1 is bugged, since the datamine suggests that it is poise extendable and has 0.03 hitlag, but gameplay shows that for N1 -> CA it is not."
     }, 
     {
         "name": "N2",
