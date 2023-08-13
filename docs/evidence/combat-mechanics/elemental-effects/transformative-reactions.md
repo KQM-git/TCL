@@ -2070,6 +2070,33 @@ When triggering Hyperbloom, the Sprawling Shot targets the enemy that is closest
 **Significance:**  
 Hyperbloom always targets the enemy that is closest to the Dendro Core at the time it's triggered, even if the enemy moves and ends up further than another enemy by the time Hyperbloom deals damage.  
 
+### Information on Hyperblooms not triggered by the player
+
+**By:** @f99shi, @23enigma, @lesterberne, @alphaflyte, @skylarke  
+**Added:** <Version date="2023-06-24" />  
+**Last tested:** <VersionHl date="2023-05-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dendro-missile-incoming)
+
+**Finding:**  
+1) Electro Crystals can trigger Hyperbloom, and can target: <br/>
+the player, Baron Bunny, Ushi, enemies, Parametric Transformer, berry bushes, Cuihua trees, and Hilichurl boxes and barrels, <br/>
+but NOT: <br/>
+Portable Waypoints, Adepti Seeker's Stove, and the Serenitea Pot. 
+
+2) Besides the player, enemy hyperblooms can target: <br/>
+Baron Bunny, most enemies/enemy constructs that hold an aura (e.g. Abyss Mage shields, Thunderhelm Lawachurl Crystals (including the creator's), Shouki no Kami's laser rings?), haybales, Hilichurl crates, Klee mines, Coral Defenders arena walls, Yaoyao radishes, <br/>
+but NOT: <br/>
+Electro Crystals, Boom Blossoms, Consecrated Beasts' Phagocyctic Blocks, and cooking pots. 
+
+**Evidence:**  
+
+[Google Sheets](https://docs.google.com/spreadsheets/d/1RgZSpFL5LfnCTvrVmpxpbHrjPhZefLZPeDlEq4kpQBY/edit?usp=sharing)
+
+**Significance:**  
+* Enemies can gimp other enemies 
+* You can deflect enemy Hyperblooms with certain constructs 
+* Hoyoverse isn't consistent
+
 ## Burgeon
 
 ### Burgeon Self-Damage is Only Affected By Character RES
