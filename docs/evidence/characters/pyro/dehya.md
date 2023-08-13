@@ -54,6 +54,42 @@
 
 ## Ascension Mechanics
 
+### A1: Unstinting Succor
+
+### Dehya A1 Not Working Bug
+
+**By:** @itsjaeyou  
+**Added:** <Version date="2023-07-31" />  
+**Last tested:** <VersionHl date="2023-07-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dehya-skill-not-working-bug)
+
+**Finding:**  
+Dehya's Gold-Forged Form from her Ascension 1 passive sometimes does not work.  
+  
+**Evidence:**  
+
+[YouTube](https://youtu.be/8oddUOTSh70)
+
+In this clip:  
+* Dehya uses E and swaps (40.34)
+* Ayaka takes the field (40.35)
+* Ayaka is hit and staggered (40.45)
+* Ayaka registers HP damage (40.50)
+
+Dehya A1 passive suggests that the Gold-Forged Form (infinite Interuption Resistance) state is party wide upon activation of E but this shows an incidence where this does not happen.
+
+Another instance of the bug occuring: [YouTube](https://youtu.be/p3b-kE9tFy8)
+
+Furthermore, based on these two control tests:
+  
+[Video 1](https://youtu.be/LgQxiBIG998) , [Video 2](https://youtu.be/rGIs5VGCnUE) 
+
+We can observe that it should not be an issue of time after swap.  
+  
+**Significance:**  
+There is an unexplained bug with Dehya A1 Interruption Resistance where sometimes it does not work.
+
+
 ## Constellation Mechanics
 
 ### C2: The Sand-Blades Glittering
