@@ -994,6 +994,8 @@ Hakushin Ring doesn't trigger off field.
 **Significance:**  
 Bad uptime.
 
+---
+
 #### Hakushin Ring Does Not Buff Hydro Party Members When Hyperbloom Is Triggered
 
 **By:** @oliveuwu.  
