@@ -146,6 +146,7 @@ import Passive from '@site/src/components/char/Passive'
 **Notes:**
   
 * The EM buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
+* This passive will trigger when hit by a Bloom core even if no damage is taken.
 
 </TabItem>
 
