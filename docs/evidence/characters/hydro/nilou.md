@@ -166,6 +166,24 @@ Opening rotation Particle efficiency, allows C4 Energy refund to be used on the 
 
 ## Ascension Mechanics
 
+### A1: Court of Dancing Petals
+
+#### Nilou A1 Triggers Even When Shielded
+
+**By:** @soul_fish  
+**Added:** <Version date="2023-08-13" />  
+**Last tested:** <VersionHl date="2023-08-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/nilou-a1-shield)
+
+**Finding:**  
+Nilou A1 will trigger when hit by a Bloom core even if no damage is taken.
+  
+**Evidence:**  
+[YouTube](https://youtu.be/mUWYkHbFr_I)  
+  
+**Significance:**  
+Verifying wording.
+
 ### A4: Dreamy Dance of Aeons
 
 #### Nilou A4 Bloom Bonus DMG% Type
