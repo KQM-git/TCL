@@ -61,6 +61,32 @@ Actual damage closest to AdditiveBaseDMGBonus, variance likely due to rounding e
 TCL completion.
 
 ## Constellation Mechanics
+
+### C4: Divine Comprehension
+
+#### Faruzan Particle And C4 Energy Generation
+
+**By:** @itslin  
+**Added:** <Version date="2023-07-19" />  
+**Last tested:** <VersionHl date="2023-07-19" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/faruzan-particle-and-c4-energy-generation)
+
+**Finding:**  
+1. Faruzan has a 5.5s ICD for her particle generation.  
+2. C4 Faruzan's Energy generation is independent of the particle generation ICD.  
+  
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=N2u03r0bgzo) using C5 Faruzan  
+> 1. No particle produced for the second Hurricane Arrow shot done within 5.5s from the first.  
+> 2. Faruzan's Burst Energy increases after each Hurricane Arrow, regardless of ICD.  
+  
+Further proof for 5.5s ICD value: [YouTube](https://youtu.be/avCspXqF5xg) using C3 Faruzan  
+> Datamining info tells that ICD is 5.5s. Video shows no particles produced for the second Hurricane Arrow shot 5.4s after the first, and particles produced for second Hurricane Arrow shot 5.6s after the first.  
+  
+**Significance:**  
+Both C4 particle generation and ICD affects ERC if it wasn't accounted for.  
+Correction for TCL which states that Faruzan produces 2 particles every time after using her CS, which is untrue.
+
 ### C6: The Wondrous Path of Truth
 * C6 Q can proc Pressurized Collapse. Even Pressurized Collapse can proc additional Pressurized Collapses. - [The CEO of GEO#7227](https://www.youtube.com/watch?v=9TqYhBOJvzw&feature=youtu.be)
 * The 3s CD on C6's Pressurized Collapse does not affect the Pressurized Collapses from Faruzan's E. - [The CEO of GEO#7227](https://www.youtube.com/watch?v=9TqYhBOJvzw&feature=youtu.be)
