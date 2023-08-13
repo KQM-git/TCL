@@ -76,7 +76,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Skill   | Pressurized Collapse Vortex<br />(on enemies / on characters) |
 | :------------- | :------ | :------------------------------------------------------------ |
 | DMG \(T9%\)    | 252.96% | 183.6% / 0%                                                   |
-| Particles      | -       | 2 (-) / 0%                                                    |
+| Particles      | -       | 2 (-) / 0% (5.5s ICD)                                                   |
 | GU             | 1U      | 1U / 2U                                                       |
 | ICD            | None    | None / None                                                   |
 | Snapshot       | -       | Dynamic                                                       |
@@ -91,7 +91,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Faruzan's skill makes 2 particles every time after using a charged shot.
+* Faruzan's skill makes 2 particles after using a charged shot with a 5.5s particle generation ICD.
 * Its possible to hit yourself with a hurricane arrow, either on a downward slope or at the edge of a cliff.
 * Faruzan can vertically launch small wildlife with Pressurized Collapse.
 * Pressurized Collapse can kill fish.
@@ -177,6 +177,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
+
+**Notes**
+
+* Energy generation from Faruzan's C4 is independent of the 5.5s particle generation ICD on her skill. 
+
 </TabItem>
 
 <TabItem value='c5' label='C5'>
