@@ -803,6 +803,42 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 
 ---
 
+### Beacon of the Reed Sea
+
+#### Beacon of the Reed Sea's passive does not trigger if shielded
+
+**By:** @twce_  
+**Added:** <Version date="2023-08-13" />  
+**Last tested:** <VersionHl date="2023-03-01" />  
+
+**Finding:**  
+Beacon of the Reed Sea's DMG passive will not trigger if shielded  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/6Gq9Pa0i4Jo)  
+  
+**Significance:**  
+Characters that equip Beacon will want a team with no shielder  
+
+---
+
+#### Beacon of the Reed Sea's passive affects Beidou's C1 shield HP
+
+**By:** @bobrokrot  
+**Added:** <Version date="2023-08-13" />  
+**Last tested:** <VersionHl date="2023-03-01" />  
+
+**Finding:**  
+Beacon of the Reed Sea's HP bonus does affect Beidou's C1 shield HP.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/nKRhZTjdNf0)  
+  
+**Significance:**  
+nice defensive utility for Beidou.  
+  
+---
+
 ### Cinnabar Spindle
 
 #### Cinnabar Passive Deactivation Bug
@@ -1285,6 +1321,47 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 **Significance:**  
 Lost Prayer becomes... even better for a main dps while exploring? The fact that you can carry over stacks over multiple fights will help in open world scenarios.
+
+---
+
+### Mailed Flower
+
+#### Mailed Flower’s passive can't be triggered or refreshed from off-field  
+
+**By:** @asaki_tmk  
+**Added:** <Version date="2023-03-03" />  
+**Last tested:** <VersionHl date="2023-08-13" />
+
+**Finding:**  
+Mailed Flower’s passive (Bonus EM) can not be triggered or refreshed from off-field  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/C0Xs9y94Y3Y)  
+At 0:08, 310 Swirl without passive, 318 Swirl with passive  
+At 0:42 consistent 310 Swirls  
+  
+**Significance:**  
+Passive works as expected.
+
+---
+
+#### Mailed Flower's passive does not buff the hit or reaction that triggers it 
+
+**By:** @milktearomance  
+**Added:** <Version date="2023-03-04" />  
+**Last tested:** <VersionHl date="2023-08-13" />
+
+**Finding:**  
+Mailed Flower's passive does not buff the hit or reaction that triggers it
+  
+**Evidence:**  
+[YouTube](https://youtu.be/STO7I1yOxdI)  
+Triggered with both Elemental Skill hit and reaction at the same time  
+First Swirl (unbuffed): 1488  
+Second Swirl (buffed): 1749  
+  
+**Significance:**  
+Confirmation of the description of the passive which states "Within 8s __after__ the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction".
 
 ---
 

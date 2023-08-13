@@ -1818,6 +1818,40 @@ In high ping circumstances, the debuff may apply late to enemies in an AoE and b
 
 * Note: While I say attack and hit, I don't specifically mean damage. Hydro Swirls still apply VV in AoE.
 
+## Vourukasha's Glow
+
+### HP drain does not proc 4 piece effect of Vourukasha's Glow
+
+**By:** @eyezor.  
+**Added:** <Version date="2023-08-13" />  
+**Last tested:** <VersionHl date="2023-04-24" />  
+
+**Finding:**  
+HP drain does not proc 4 piece effect of Vourukasha's Glow  
+
+**Evidence:**  
+[YouTube](https://youtu.be/uyJXeQLoX8A)  
+[YouTube](https://youtu.be/JJe6m1qdP4c)  
+
+**Significance:**  
+4 VG DMG Boost Effect doesnt work on characters like Xiao, Hu Tao and Kuki Shinobu
+
+### 4 piece effect of Vourukasha's Glowdoes not activate if shielded
+
+**By:** @bobrokrot  
+**Added:** <Version date="2023-08-13" />  
+**Last tested:** <VersionHl date="2023-05-03" />  
+
+**Finding:**  
+4VG does not activate if the damage is blocked by a shield. Also, it's bonus is not snapshottable.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/mE4U9p9Gxok)  
+  
+**Significance:**  
+don't use shields with 4VG unless breakable shields like Baizhu's or Crystallize or other ~~HP drain~~ mechanics.
+
+
 ## Wanderer's Troupe
 
 ### Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus

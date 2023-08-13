@@ -279,7 +279,13 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Vourukasha's Glow
 
-<Artifact artifact="Vourukasha's Glow" />
+<Artifact artifact="Vourukasha's Glow">
+
+* HP drain does not proc 4 piece effect of Vourukasha's Glow.  
+* The 4 piece effect does not activate if the damage is blocked by a shield.   
+* The bonus from the 4 piece effect is not snapshottable.
+
+</Artifact>  
 
 ### Wanderer's Troupe
 
