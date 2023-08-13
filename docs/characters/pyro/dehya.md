@@ -174,7 +174,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* Dehya's Gold-Forged Form sometimes does not work.
+* Dehya's **Gold-Forged Form** sometimes does not work.
 
 </TabItem>
 
