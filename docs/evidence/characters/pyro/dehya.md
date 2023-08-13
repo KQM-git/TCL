@@ -56,7 +56,7 @@
 
 ### A1: Unstinting Succor
 
-### Dehya A1 Not Working Bug
+#### Dehya A1 Not Working Bug
 
 **By:** @itsjaeyou  
 **Added:** <Version date="2023-07-31" />  
