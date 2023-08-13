@@ -110,6 +110,7 @@ import FavSeries from './\_common/fav_series.md';
 * Crytallize, Swirl and Swirl chain reactions work for the effect - [ProfHugo\#6478](../../evidence/equipment/weapons.md#crystalize-swirl-and-swirl-chain-reactions-work-for-the-effect)
 * Buff does not get refreshed - [ProfHugo\#6478](../../evidence/equipment/weapons.md#gaining-a-new-buff-does-not-refresh-duration)
 * Buff does not trigger when the character equipped with **Hakushin Ring** is off-field - [Greyhound\#7836 and Terrapin\#8603](../../evidence/equipment/weapons.md#hakushin-ring-doesnt-trigger-off-field)
+* **Hakushin Ring** does not buff Hydro party members when Hyperbloom is triggered. - [@oliveuwu.](../../evidence/equipment/weapons.md#hakushin-ring-does-not-buff-hydro-party-members-when-hyperbloom-is-triggered)
 
 </Weapon>
 

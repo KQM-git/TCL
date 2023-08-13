@@ -994,6 +994,22 @@ Hakushin Ring doesn't trigger off field.
 **Significance:**  
 Bad uptime.
 
+#### Hakushin Ring Does Not Buff Hydro Party Members When Hyperbloom Is Triggered
+
+**By:** @oliveuwu.  
+**Added:** <Version date="2023-07-13" />  
+**Last tested:** <VersionHl date="2023-07-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/hakushin-ring-does-not-buff-hydro-party-members-when-hyperbloom-is-triggered-1128642843074900009)
+
+**Finding:**  
+Hakushin Ring does not buff Hydro party members when Hyperbloom is triggered.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/yali5QHV7EM)  
+  
+**Significance:**  
+Despite Hyperbloom occurring from Hydro + Dendro and then Electro on top, Hakushin only considers the core (Dendro) and Electro when buffing.
+
 ---
 
 ### Hunter's Path
