@@ -242,6 +242,8 @@ Hyperbloom is a second-stage Transformative Reaction that deals Dendro DMG when 
 
 The damage dealt by Hyperbloom scales off of the Electro applier's stats, whether it's an Electro character using an Electro attack or an Anemo character Swirling Electro.
 
+Electro Crystals can trigger Hyperbloom. Hyperblooms triggered by Electro Crystals or Enemies are inconsistent in what they do or do not target. For more information, see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#information-on-hyperblooms-not-triggered-by-the-player).  
+
 ### Burgeon
 
 Burgeon is a second-stage Transformative Reaction that deals Dendro DMG when Pyro is applied to a Dendro core, this instance of damage does not stagger.
