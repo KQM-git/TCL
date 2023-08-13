@@ -9,6 +9,9 @@ import claymores from '@site/src/data/weapons/Claymore.json'
 
 <Weapon weapon="Beacon of the Reed Sea" weapons={claymores} />
 
+* The passive will not trigger if shielded - [@twce_ ](../../evidence/equipment/weapons.md#beacon-of-the-reed-seas-passive-does-not-trigger-if-shielded)
+* The passive affects Beidou's C1 shield HP. - [@bobrokrot](../../evidence/equipment/weapons.md#beacon-of-the-reed-seas-passive-affects-beidous-c1-shield-hp)
+
 ### Redhorn Stonethresher
 
 <Weapon weapon="Redhorn Stonethresher" weapons={claymores} />
@@ -105,6 +108,9 @@ import FavSeries from './\_common/fav_series.md';
 ### Mailed Flower
 
 <Weapon weapon="Mailed Flower" weapons={claymores} />
+
+* Mailed Flower’s passive can't be triggered or refreshed from off-field. - [@asaki_tmk](../../evidence/equipment/weapons.md#mailed-flowers-passive-cant-be-triggered-or-refreshed-from-off-field)
+* Mailed Flower's passive does not buff the hit or reaction that triggers it - [@milktearomance](../../evidence/equipment/weapons.md#mailed-flowers-passive-does-not-buff-the-hit-or-reaction-that-triggers-it)
 
 ### Makhaira Aquamarine
 
