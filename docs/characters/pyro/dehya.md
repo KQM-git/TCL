@@ -171,6 +171,11 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+
+**Notes**
+
+* Dehya's **Gold-Forged Form** sometimes does not work.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
