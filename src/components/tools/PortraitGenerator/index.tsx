@@ -17,6 +17,7 @@ export interface PortraitIcon {
     name: string
     path: string
   }
+  note?: string
   others?: PortraitIcon[]
 }
 
@@ -61,11 +62,13 @@ export default function PortraitGenerator({
 }) {
   const [active, setActive] = useState([{
     name: "Keqing",
-    path: `/img/characters/icon/Keqing.png`
+    path: `/img/characters/icon/Keqing.png`,
+    note: "C2+"
   }] as PortraitIcon[])
   const [custom, setCustom] = useState([] as PortraitIcon[])
   const [background, setBackground] = useState(true)
   const [portraitPadding, setPortraitPadding] = useState(true)
+  const [names, setNames] = useState(false)
   const [search, setSearch] = useState("")
 
   // Loading of custom icons
@@ -134,7 +137,14 @@ export default function PortraitGenerator({
   const matches = findFuzzyBestCandidates(allIcons.map(x => x.name), search, 8)
   const searchMatches = search.length == 0 ? [] : matches.flatMap(m => allIcons.filter(x => m == x.name)).filter((v, i, a) => a.indexOf(v) == i)
 
-  function add(icon: PortraitIcon, multi: boolean) {
+  function add(icon: PortraitIcon, multi: boolean, note: boolean) {
+    if (note) {
+      const note = prompt("Note text", "C1+")
+      icon = {
+        ...icon,
+        note
+      }
+    }
     if (multi) {
       if (!active[active.length - 1]) {
         setActive([icon])
@@ -168,12 +178,13 @@ export default function PortraitGenerator({
       remove={(i: number) => setActive([...active.slice(0, i), ...active.slice(i + 1)])}
       background={background}
       portraitPadding={portraitPadding}
+      names={names}
     />
 
     <label>
       Quick input: <input type="text" value={search} onChange={e => setSearch(e.target.value)} onKeyDown={e => {
         if (e.key == "Enter" && searchMatches.length > 0) {
-          add(searchMatches[0], e.shiftKey)
+          add(searchMatches[0], e.shiftKey, e.altKey)
           setSearch("")
           return
         }
@@ -251,6 +262,9 @@ export default function PortraitGenerator({
     </label> <br/>
     <label>
       Portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
+    </label> <br/>
+    <label>
+      Add names text: <CheckboxInput set={setNames} value={names} />
     </label> <br/>
     <a href='#' onClick={e => {
       e.preventDefault()

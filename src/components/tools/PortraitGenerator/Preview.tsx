@@ -7,12 +7,16 @@ import { PortraitIcon } from '.'
 const framePad = 36 // Padding around portrait frame
 const portraitPad = 12 // Padding around image
 const spacing = 29 // Spacing between portrait frames
-const portraitSize = 256
+const portraitSize = 256 // 256 for GI, 128 for HSR
 const elementalSizeMultiplier = 1 / 4
 const lineOffset = 3
+const bottomOffset = 20 // Padding from bottom of frame from portrait for text
+const noteExtraWidth = 20
+const noteHeight = 45
+const noteFont = "bold 25px \"Arial\""
+const nameFont = "bold 17px \"Arial\""
 
-
-export default function Preview({ active, remove, background, portraitPadding }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, portraitPadding: boolean }) {
+export default function Preview({ active, remove, background, portraitPadding, names }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, portraitPadding: boolean, names: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
@@ -20,7 +24,7 @@ export default function Preview({ active, remove, background, portraitPadding }:
   const effectivePortraitPad = portraitPadding ? portraitPad : 0
   const frameSize = portraitSize + 2 * effectivePortraitPad
   const totalWidth = effectiveFramePad * 2 + frameSize * active.length + spacing * (active.length - 1)
-  const totalHeight = 2 * effectiveFramePad + 2 * effectivePortraitPad + portraitSize
+  const totalHeight = 2 * effectiveFramePad + 2 * effectivePortraitPad + portraitSize + (names ? (background ? bottomOffset : bottomOffset + framePad) : 0)
 
   function getName(x: PortraitIcon) {
     return `${x.name}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
@@ -57,9 +61,9 @@ export default function Preview({ active, remove, background, portraitPadding }:
       // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
       const x = leftBorder + effectivePortraitPad
       const y = effectiveFramePad + effectivePortraitPad
-      await drawIcon(ctx, icon, x, y, portraitSize)
+      await drawIcon(ctx, icon, x, y, portraitSize, names)
     }
-  })(), [active, background, effectivePortraitPad])
+  })(), [active, background, effectivePortraitPad, names])
 
   return <div>
     <canvas
@@ -97,7 +101,7 @@ function loadImage(path: string): Promise<HTMLImageElement> {
   })
 }
 
-async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number) {
+async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number, names: boolean) {
   const baseImage = await loadImage(icon.path)
   if (icon.others) {
     if (icon.others.length == 1) {
@@ -142,6 +146,32 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
   } else {
     // Draw singular
     drawImg(ctx, icon, baseImage, x, y, size)
+
+    if (icon.note) {
+      const noteX = x + portraitPad/2 + size
+      const noteY = y - portraitPad/2
+
+      ctx.font = noteFont
+      ctx.textAlign = "center"
+      ctx.textBaseline = "middle"
+
+      const w = ctx.measureText(icon.note).width + noteExtraWidth
+      ctx.fillStyle = "#47446B"
+      roundRect(ctx, noteX - w, noteY, w, noteHeight)
+
+      ctx.fillStyle = "#FFFFFF"
+      ctx.fillText(icon.note, noteX - w / 2, noteY + noteHeight / 2)
+    }
+
+    if (names) {
+      ctx.font = nameFont
+      ctx.textAlign = "center"
+      ctx.fillStyle = "#FFFFFF"
+      ctx.textBaseline = "alphabetic"
+      // ctx.fillText(icon.name, x + size / 2, y + size + 34)
+      wrapText(ctx, icon.name, x + size / 2, y + size + 34, 180, 20)
+        .forEach(([text, x, y]) => ctx.fillText(text, x, y))
+    }
   }
 }
 
@@ -317,3 +347,51 @@ function roundRect(ctx: CanvasRenderingContext2D, x: number, y: number, width: n
   ctx.lineWidth = 1
   ctx.stroke()
 }
+
+// https://fjolt.com/article/html-canvas-how-to-wrap-text
+/**
+ * wrapText wraps HTML canvas text onto a canvas of fixed width
+ * @param ctx - the context for the canvas we want to wrap text on
+ * @param text - the text we want to wrap.
+ * @param x - the X starting point of the text on the canvas.
+ * @param y - the Y starting point of the text on the canvas.
+ * @param maxWidth - the width at which we want line breaks to begin - i.e. the maximum width of the canvas.
+ * @param lineHeight - the height of each line, so we can space them below each other.
+ * @returns an array of [ lineText, x, y ] for all lines
+ */
+function wrapText(ctx: CanvasRenderingContext2D, text: string, x: number, y: number, maxWidth: number, lineHeight: number) {
+  // First, start by splitting all of our text into words, but splitting it into an array split by spaces
+  let words = text.split(' ');
+  let line = ''; // This will store the text of the current line
+  let testLine = ''; // This will store the text when we add a word, to test if it's too long
+  let lineArray = []; // This is an array of lines, which the function will return
+
+  // Lets iterate over each word
+  for (var n = 0; n < words.length; n++) {
+    // Create a test line, and measure it..
+    testLine += `${words[n]} `;
+    let metrics = ctx.measureText(testLine);
+    let testWidth = metrics.width;
+    // If the width of this test line is more than the max width
+    if (testWidth > maxWidth && n > 0) {
+      // Then the line is finished, push the current line into "lineArray"
+      lineArray.push([line, x, y]);
+      // Increase the line height, so a new line is started
+      y += lineHeight;
+      // Update line and test line to use this word as the first word on the next line
+      line = `${words[n]} `;
+      testLine = `${words[n]} `;
+    }
+    else {
+      // If the test line is still less than the max width, then add the word to the current line
+      line += `${words[n]} `;
+    }
+    // If we never reach the full max width, then there is only one line.. so push it into the lineArray so we return something
+    if (n === words.length - 1) {
+      lineArray.push([line, x, y]);
+    }
+  }
+  // Return the line array
+  return lineArray;
+}
+
