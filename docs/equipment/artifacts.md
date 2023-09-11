@@ -109,10 +109,6 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Flower of Paradise Lost" />
 
-### Gladiator's Finale
-
-<Artifact artifact="Gladiator's Finale" />
-
 ### Gilded Dreams
 
 <Artifact artifact="Gilded Dreams">
@@ -120,6 +116,14 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * Gilded Dreams' 4-Piece effect does not apply to the hit that triggered it or the reactions triggered by that hit. - [Rare Possum\#0511](../evidence/equipment/artifacts.md#gilded-dreams)
 
 </Artifact>
+
+### Gladiator's Finale
+
+<Artifact artifact="Gladiator's Finale" />
+
+### Golden Troupe
+
+<Artifact artifact="Golden Troupe" />
 
 ### Heart of Depth
 
@@ -156,6 +160,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * The active bonus timer will remain even when any piece is removed or the character equipping the set is swapped out of the team.
 
 </Artifact>
+
+### Marechaussee Hunter
+
+<Artifact artifact="Marechaussee Hunter" />
 
 ### Noblesse Oblige
 

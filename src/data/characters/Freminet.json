@@ -1,0 +1,578 @@
+{
+  "name": "Freminet",
+  "star": 4,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 1012.088,
+    "attackBase": 21.3696,
+    "defenseBase": 59.39955,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Flowing Eddies",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash. \n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Claymore",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "84.2%",
+              "91.1%",
+              "98.0%",
+              "107.7%",
+              "114.6%",
+              "122.4%",
+              "133.2%",
+              "144.0%",
+              "154.8%",
+              "166.5%",
+              "178.3%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "80.7%",
+              "87.2%",
+              "93.8%",
+              "103.2%",
+              "109.8%",
+              "117.3%",
+              "127.6%",
+              "137.9%",
+              "148.2%",
+              "159.5%",
+              "170.7%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "101.9%",
+              "110.2%",
+              "118.5%",
+              "130.3%",
+              "138.6%",
+              "148.1%",
+              "161.2%",
+              "174.2%",
+              "187.2%",
+              "201.4%",
+              "215.7%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "123.8%",
+              "133.9%",
+              "144.0%",
+              "158.4%",
+              "168.4%",
+              "179.9%",
+              "195.8%",
+              "211.6%",
+              "227.5%",
+              "244.7%",
+              "262.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Cyclic DMG",
+            "values": [
+              "62.5%",
+              "67.6%",
+              "72.7%",
+              "80.0%",
+              "85.1%",
+              "90.9%",
+              "98.9%",
+              "106.9%",
+              "114.9%",
+              "123.6%",
+              "132.3%"
+            ]
+          },
+          {
+            "name": "Charged Attack Final DMG",
+            "values": [
+              "113%",
+              "122%",
+              "132%",
+              "145%",
+              "154%",
+              "164%",
+              "179%",
+              "193%",
+              "208%",
+              "224%",
+              "239%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "40.0/s"
+          },
+          {
+            "name": "Max Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "74.6%",
+              "80.7%",
+              "86.7%",
+              "95.4%",
+              "101.5%",
+              "108.4%",
+              "118.0%",
+              "127.5%",
+              "137.0%",
+              "147.4%",
+              "157.8%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "149%/186%",
+              "161%/201%",
+              "173%/217%",
+              "191%/238%",
+              "203%/253%",
+              "217%/271%",
+              "236%/295%",
+              "255%/318%",
+              "274%/342%",
+              "295%/368%",
+              "316%/394%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pressurized Floe",
+        "desc": "Performs an upward thrust that deals **Cryo DMG** and causes Freminet to enter Pers Timer for 10s.\nWhile Pers Timer is active, his Elemental Skill will turn into Shattering Pressure.\n\n**Shattering Pressure**\nExecutes different sorts of attacks based on the Pressure Level of Pers Timer, and then cancels Pers Timer.\n·Level 0: Unleashes a vertical cut, dealing **Cryo DMG**.\n·Levels 1 to 3: Unleashes a vertical cut alongside Pers, dealing **Cryo DMG** and Physical DMG. DMG dealt scales based on Pressure Level.\n·Level 4: Borrows the power of a fully-pressurized Pers to deal Physical DMG. Meanwhile, Normal Attack: Flowing Eddies will be replaced by Shattering Pressure.\n\n**Pers Timer**\nWhen Freminet uses Normal Attacks, he will also unleash waves of frost that deal **Cryo DMG** and increase Pers's Pressure Level.\nThe accompanying **Cryo DMG** dealt this way is considered Elemental Skill DMG.\n\n**Arkhe: Pneuma**\nAt certain intervals, after using the upward thrust, a Spiritbreath Thorn in the form of another upward thrust will be created, dealing Pneuma-aligned **Cryo DMG**.\n\n**To immobilize one's opponent without taking their life can also be considered something of a \"survival\" strategy that one may choose.**\n**\"Pers... I leave the rest to you.\"**",
+        "img": "Freminet/skill_1",
+        "talentTable": [
+          {
+            "name": "Upward Thrust DMG",
+            "values": [
+              "83.0%",
+              "89.3%",
+              "95.5%",
+              "103.8%",
+              "110.0%",
+              "116.3%",
+              "124.6%",
+              "132.9%",
+              "141.2%",
+              "149.5%",
+              "157.8%",
+              "166.1%",
+              "176.5%"
+            ]
+          },
+          {
+            "name": "Frost DMG",
+            "values": [
+              "7.2%",
+              "7.7%",
+              "8.2%",
+              "9.0%",
+              "9.5%",
+              "10.0%",
+              "10.7%",
+              "11.5%",
+              "12.2%",
+              "12.9%",
+              "13.6%",
+              "14.3%",
+              "15.2%"
+            ]
+          },
+          {
+            "name": "Level 0 Shattering Pressure DMG",
+            "values": [
+              "200.5%",
+              "215.5%",
+              "230.6%",
+              "250.6%",
+              "265.6%",
+              "280.7%",
+              "300.7%",
+              "320.8%",
+              "340.8%",
+              "360.9%",
+              "380.9%",
+              "401.0%",
+              "426.0%"
+            ]
+          },
+          {
+            "name": "Level 1 Shattering Pressure DMG",
+            "values": [
+              "100.2% Cryo + 48.7% Physical",
+              "107.8% Cryo + 52.3% Physical",
+              "115.3% Cryo + 56.0% Physical",
+              "125.3% Cryo + 60.9% Physical",
+              "132.8% Cryo + 64.5% Physical",
+              "140.3% Cryo + 68.2% Physical",
+              "150.4% Cryo + 73.0% Physical",
+              "160.4% Cryo + 77.9% Physical",
+              "170.4% Cryo + 82.8% Physical",
+              "180.4% Cryo + 87.6% Physical",
+              "190.5% Cryo + 92.5% Physical",
+              "200.5% Cryo + 97.4% Physical",
+              "213.0% Cryo + 103.5% Physical"
+            ]
+          },
+          {
+            "name": "Level 2 Shattering Pressure DMG",
+            "values": [
+              "70.2% Cryo + 85.2% Physical",
+              "75.4% Cryo + 91.6% Physical",
+              "80.7% Cryo + 98.0% Physical",
+              "87.7% Cryo + 106.5% Physical",
+              "93.0% Cryo + 112.9% Physical",
+              "98.2% Cryo + 119.3% Physical",
+              "105.3% Cryo + 127.8% Physical",
+              "112.3% Cryo + 136.3% Physical",
+              "119.3% Cryo + 144.8% Physical",
+              "126.3% Cryo + 153.4% Physical",
+              "133.3% Cryo + 161.9% Physical",
+              "140.3% Cryo + 170.4% Physical",
+              "149.1% Cryo + 181.1% Physical"
+            ]
+          },
+          {
+            "name": "Level 3 Shattering Pressure DMG",
+            "values": [
+              "40.1% Cryo + 121.7% Physical",
+              "43.1% Cryo + 130.8% Physical",
+              "46.1% Cryo + 140.0% Physical",
+              "50.1% Cryo + 152.1% Physical",
+              "53.1% Cryo + 161.3% Physical",
+              "56.1% Cryo + 170.4% Physical",
+              "60.1% Cryo + 182.6% Physical",
+              "64.2% Cryo + 194.8% Physical",
+              "68.2% Cryo + 206.9% Physical",
+              "72.2% Cryo + 219.1% Physical",
+              "76.2% Cryo + 231.3% Physical",
+              "80.2% Cryo + 243.4% Physical",
+              "85.2% Cryo + 258.7% Physical"
+            ]
+          },
+          {
+            "name": "Level 4 Shattering Pressure DMG",
+            "values": [
+              "243.4%",
+              "261.7%",
+              "280.0%",
+              "304.3%",
+              "322.6%",
+              "340.8%",
+              "365.2%",
+              "389.5%",
+              "413.8%",
+              "438.2%",
+              "462.5%",
+              "486.9%",
+              "517.3%"
+            ]
+          },
+          {
+            "name": "Spiritbreath Thorn DMG",
+            "values": [
+              "14.4%",
+              "15.5%",
+              "16.6%",
+              "18.0%",
+              "19.1%",
+              "20.2%",
+              "21.6%",
+              "23.0%",
+              "24.5%",
+              "25.9%",
+              "27.4%",
+              "28.8%",
+              "30.6%"
+            ]
+          },
+          {
+            "name": "Spiritbreath Thorn Interval",
+            "value": "9.0s"
+          },
+          {
+            "name": "CD",
+            "value": "10.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Shadowhunter's Ambush",
+      "desc": "Unleashes a wave of untouchable cold, dealing **AoE Cryo DMG**, resetting the CD of the Elemental Skill \"Pressurized Floe,\" and causing Freminet to enter the Subnautical Hunter mode for 10s.\n\nWhile in Subnautical Hunter mode, Freminet's resistance to interruption will increase, and his Elemental Skill \"Pressurized Floe\" will obtain the following buffs:\n·CD is decreased by 70%.\n·Normal Attacks will increase the Pers Timer by 1 additional Pressure Level, and the frost released by his Normal Attacks deal 200% of their original DMG.\n\nThese effects will be canceled when Freminet leaves the field.\n\n**\"Now... I have no need of any extraneous noise.\"**",
+      "img": "Freminet/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "318.4%",
+            "342.3%",
+            "366.2%",
+            "398.0%",
+            "421.9%",
+            "445.8%",
+            "477.6%",
+            "509.4%",
+            "541.3%",
+            "573.1%",
+            "605.0%",
+            "636.8%",
+            "676.6%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "10.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Saturation Deep Dive",
+        "desc": "When Freminet unleashes **Pressurized Floe: Shattering Pressure**, if Pers Timer has yet to reach Pressure Level 4, the CD of Pressurized Floe will be decreased by 1s.",
+        "img": "Freminet/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Parallel Condensers",
+        "desc": "When Freminet triggers Shatter against opponents, the DMG dealt by **Pressurized Floe: Shattering Pressure** will be increased by 40% for 5s.",
+        "img": "Freminet/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Deepwater Navigation",
+        "desc": "Decreases Aquatic Stamina consumption for your own party members by 35%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Freminet/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Dreams of the Foamy Deep",
+        "desc": "The CRIT Rate of **Pressurized Floe: Shattering Pressure** will be increased by 15%.",
+        "img": "Freminet/const_0"
+      },
+      {
+        "name": "Penguins and the Land of Plenty",
+        "desc": "Unleashing **Pressurized Floe: Shattering Pressure** will restore 2 Energy to Freminet. If a Pressure Level 4 Shattering Pressure is unleashed, this will restore 3 Energy.",
+        "img": "Freminet/const_1"
+      },
+      {
+        "name": "Song of the Eddies and Bleached Sands",
+        "desc": "Increases the Level of **Normal Attack: Flowing Eddies** by 3.\nMaximum upgrade level is 15.",
+        "img": "Freminet/const_2"
+      },
+      {
+        "name": "Dance of the Snowy Moon and Flute",
+        "desc": "After Freminet triggers Frozen, Shatter, or Superconduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s.",
+        "img": "Freminet/const_3"
+      },
+      {
+        "name": "Nights of Hearth and Happiness",
+        "desc": "Increases the Level of **Pressurized Floe** by 3.\nMaximum upgrade level is 15.",
+        "img": "Freminet/const_4"
+      },
+      {
+        "name": "Moment of Waking and Resolve",
+        "desc": "After Freminet triggers Frozen, Shatter, or Superconduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s.",
+        "img": "Freminet/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 756.08154296875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 44.3745
+        },
+        {
+          "stat": "Base ATK",
+          "value": 15.96456
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1293.2974
+        },
+        {
+          "stat": "Base DEF",
+          "value": 75.90375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 27.3078
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2009.5852
+        },
+        {
+          "stat": "Base DEF",
+          "value": 117.94275
+        },
+        {
+          "stat": "Base ATK",
+          "value": 42.43212
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2546.801
+        },
+        {
+          "stat": "Base DEF",
+          "value": 149.472
+        },
+        {
+          "stat": "Base ATK",
+          "value": 53.77536
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3084.016845703125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 181.00125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 65.1186
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3621.232666015625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 212.5305
+        },
+        {
+          "stat": "Base ATK",
+          "value": 76.46184
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

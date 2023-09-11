@@ -567,5 +567,31 @@
         "desc": "Elemental Skill and Elemental Burst DMG will be increased by 10%. After the equipping character takes DMG, the aforementioned DMG Bonus is increased by 80% for 5s. This effect increase can have 5 stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field."
       }
     ]
+  },
+  "Marechaussee Hunter": {
+    "name": "Marechaussee Hunter",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Normal and Charged Attack DMG +15%"
+      },
+      {
+        "count": 4,
+        "desc": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks."
+      }
+    ]
+  },
+  "Golden Troupe": {
+    "name": "Golden Troupe",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Increases Elemental Skill DMG by 20%."
+      },
+      {
+        "count": 4,
+        "desc": "Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field."
+      }
+    ]
   }
 }

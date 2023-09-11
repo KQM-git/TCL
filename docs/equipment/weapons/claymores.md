@@ -169,6 +169,10 @@ import SacSeries from './\_common/sac_series.md';
 
 <Weapon weapon="Snow-Tombed Starsilver" weapons={claymores} />
 
+### Talking Stick
+
+<Weapon weapon="Talking Stick" weapons={claymores} />
+
 ### The Bell
 
 <Weapon weapon="The Bell" weapons={claymores}>
@@ -177,6 +181,10 @@ import SacSeries from './\_common/sac_series.md';
   * [adri\#1824](../../evidence/equipment/weapons.md#the-bell)
 
 </Weapon>
+
+### Tidal Shadow
+
+<Weapon weapon="Tidal Shadow" weapons={claymores} />
 
 ### Whiteblind
 

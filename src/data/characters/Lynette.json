@@ -1,0 +1,498 @@
+{
+  "name": "Lynette",
+  "star": 4,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1039.4418,
+    "attackBase": 19.41072,
+    "defenseBase": 59.68567657470703,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Rapid Ritesword",
+        "desc": "**Normal Attack**\nPerforms up to 4 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "43.1%",
+              "46.6%",
+              "50.1%",
+              "55.1%",
+              "58.6%",
+              "62.6%",
+              "68.1%",
+              "73.6%",
+              "79.2%",
+              "85.2%",
+              "91.2%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "37.6%",
+              "40.7%",
+              "43.7%",
+              "48.1%",
+              "51.2%",
+              "54.7%",
+              "59.5%",
+              "64.3%",
+              "69.1%",
+              "74.3%",
+              "79.6%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "27.9%+21.6%",
+              "30.1%+23.4%",
+              "32.4%+25.1%",
+              "35.6%+27.6%",
+              "37.9%+29.4%",
+              "40.5%+31.4%",
+              "44.1%+34.1%",
+              "47.6%+36.9%",
+              "51.2%+39.7%",
+              "55.1%+42.7%",
+              "59.0%+45.7%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "63.2%",
+              "68.3%",
+              "73.4%",
+              "80.8%",
+              "85.9%",
+              "91.8%",
+              "99.9%",
+              "107.9%",
+              "116.0%",
+              "124.8%",
+              "133.7%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "44.2%+61.4%",
+              "47.8%+66.4%",
+              "51.4%+71.4%",
+              "56.5%+78.5%",
+              "60.1%+83.5%",
+              "64.2%+89.2%",
+              "69.9%+97.1%",
+              "75.6%+105.0%",
+              "81.2%+112.8%",
+              "87.4%+121.4%",
+              "93.5%+129.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Enigmatic Feint",
+        "desc": "Flicks her mantle and executes an Enigma Thrust, dealing **Anemo DMG**.\nWhen the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second.\nBased on whether you press or hold this ability, she will use Enigma Thrust differently.\n\n**Press**\nShe swiftly uses an Enigma Thrust.\n\n**Hold**\nLynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent. You can control her movement direction during this state, and you can end it prematurely by using this skill again.\nWhen this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust.\n\nA maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled.\n\n**Arkhe: Ousia**\nAt specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned **Anemo DMG**.\n\n**\"Now then, turn your eyes to the stage and continue to enjoy the performance. When I next appear, I'll be where you least expect.\"**",
+        "img": "Lynette/skill_1",
+        "talentTable": [
+          {
+            "name": "Enigma Thrust DMG",
+            "values": [
+              "268.0%",
+              "288.1%",
+              "308.2%",
+              "335.0%",
+              "355.1%",
+              "375.2%",
+              "402.0%",
+              "428.8%",
+              "455.6%",
+              "482.4%",
+              "509.2%",
+              "536.0%",
+              "569.5%"
+            ]
+          },
+          {
+            "name": "Surging Blade DMG",
+            "values": [
+              "31.2%",
+              "33.5%",
+              "35.9%",
+              "39.0%",
+              "41.3%",
+              "43.7%",
+              "46.8%",
+              "49.9%",
+              "53.0%",
+              "56.2%",
+              "59.3%",
+              "62.4%",
+              "66.3%"
+            ]
+          },
+          {
+            "name": "Surging Blade Interval",
+            "value": "10.0s"
+          },
+          {
+            "name": "HP Regeneration",
+            "value": "25% Max HP"
+          },
+          {
+            "name": "HP Cost",
+            "value": "6% Current HP/s"
+          },
+          {
+            "name": "Hold Max Duration",
+            "value": "2.5s"
+          },
+          {
+            "name": "CD",
+            "value": "12.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Magic Trick: Astonishing Shift",
+      "desc": "Lynette raises her mantle high, dealing **AoE Anemo DMG**, using skillful sleight of hand to make a giant Bogglecat Box appear!\n\n**Bogglecat Box**\n·Taunts nearby opponents, attracting their attacks.\n·Deals **Anemo DMG** to nearby opponents at intervals.\n·When the Bogglecat Box comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro**, it will gain the corresponding element and additionally fire Vivid Shots that will deal DMG from that element at intervals.\nElemental Absorption of this kind will only occur once during this ability's duration.\n\n**\"Look this way, and look closely. This is a time for miracles, just for us.\"**",
+      "img": "Lynette/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "83.2%",
+            "89.4%",
+            "95.7%",
+            "104.0%",
+            "110.2%",
+            "116.5%",
+            "124.8%",
+            "133.1%",
+            "141.4%",
+            "149.8%",
+            "158.1%",
+            "166.4%",
+            "176.8%"
+          ]
+        },
+        {
+          "name": "Bogglecat Box DMG",
+          "values": [
+            "51.2%",
+            "55.0%",
+            "58.9%",
+            "64.0%",
+            "67.8%",
+            "71.7%",
+            "76.8%",
+            "81.9%",
+            "87.0%",
+            "92.2%",
+            "97.3%",
+            "102.4%",
+            "108.8%"
+          ]
+        },
+        {
+          "name": "Vivid Shot DMG",
+          "values": [
+            "45.6%",
+            "49.0%",
+            "52.4%",
+            "57.0%",
+            "60.4%",
+            "63.8%",
+            "68.4%",
+            "73.0%",
+            "77.5%",
+            "82.1%",
+            "86.6%",
+            "91.2%",
+            "96.9%"
+          ]
+        },
+        {
+          "name": "Bogglecat Box Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "Anemo"
+    },
+    "passive": [
+      {
+        "name": "Sophisticated Synergy",
+        "desc": "Within 10s after using **Magic Trick: Astonishing Shift**, when there are 1/2/3/4 Elemental Types in the party, all party members' ATK will be increased by 8%/12%/16%/20% respectively.",
+        "img": "Lynette/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Props Positively Prepped",
+        "desc": "After the Bogglecat Box summoned by **Magic Trick: Astonishing Shift** performs Elemental Conversion, Lynette's Elemental Burst will deal 15% more DMG. This effect will persist until the Bogglecat Box's duration ends.",
+        "img": "Lynette/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Loci-Based Mnemonics",
+        "desc": "Shows the location of nearby **Recovery Orbs** on the minimap. The Aquatic Stamina and HP gained from touching Orbs will be increased by 25%.",
+        "img": "Lynette/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "A Cold Blade Like a Shadow",
+        "desc": "When **Enigmatic Feint**'s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent's position that will pull nearby opponents in.",
+        "img": "Lynette/const_0"
+      },
+      {
+        "name": "Endless Mysteries",
+        "desc": "Whenever the Bogglecat Box summoned by **Magic Trick: Astonishing Shift** fires a Vivid Shot, it will fire an extra Vivid Shot.",
+        "img": "Lynette/const_1"
+      },
+      {
+        "name": "Cognition-Inverting Gaze",
+        "desc": "Increases the Level of **Magic Trick: Astonishing Shift** by 3.\nMaximum upgrade level is 15.",
+        "img": "Lynette/const_2"
+      },
+      {
+        "name": "Tacit Coordination",
+        "desc": "Increases **Enigmatic Feint**'s charges by 1.",
+        "img": "Lynette/const_3"
+      },
+      {
+        "name": "Obscuring Ambiguity",
+        "desc": "Increases the Level of **Enigmatic Feint** by 3.\nMaximum upgrade level is 15.",
+        "img": "Lynette/const_4"
+      },
+      {
+        "name": "Watchful Eye",
+        "desc": "When Lynette uses **Enigmatic Feint**'s Enigma Thrust, she will gain an **Anemo Infusion** and 20% **Anemo DMG Bonus** for 6s.",
+        "img": "Lynette/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 776.5162
+        },
+        {
+          "stat": "Base DEF",
+          "value": 44.58825
+        },
+        {
+          "stat": "Base ATK",
+          "value": 14.501142
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1328.2513427734375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 76.26938
+        },
+        {
+          "stat": "Base ATK",
+          "value": 24.804584503173828
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2063.8984375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 118.51087
+        },
+        {
+          "stat": "Base ATK",
+          "value": 38.54250717163086
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2615.633544921875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 150.192
+        },
+        {
+          "stat": "Base ATK",
+          "value": 48.84595
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3167.36865234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 181.8731231689453
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.14939498901367
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3719.104
+        },
+        {
+          "stat": "Base DEF",
+          "value": 213.5542449951172
+        },
+        {
+          "stat": "Base ATK",
+          "value": 69.45283508300781
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

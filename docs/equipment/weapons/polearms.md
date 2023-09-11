@@ -59,6 +59,10 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 ## 4 Stars
 
+### Ballad of the Fjords
+
+<Weapon weapon="Ballad of the Fjords" weapons={polearms} />
+
 ### Blackcliff Pole
 
 <Weapon weapon="Blackcliff Pole" weapons={polearms}>
@@ -137,6 +141,10 @@ import FavSeries from './\_common/fav_series.md';
 * Each stack gained will refresh the duration of existing stacks.
 
 </Weapon>
+
+### Rightful Reward
+
+<Weapon weapon="Rightful Reward" weapons={polearms} />
 
 ### Royal Spear
 

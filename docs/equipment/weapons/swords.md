@@ -118,6 +118,14 @@ import FavSeries from './\_common/fav_series.md';
 
 <Weapon weapon="Festering Desire" weapons={swords} />
 
+### Finale of the Deep
+
+<Weapon weapon="Finale of the Deep" weapons={swords} />
+
+### Fleuve Cendre Ferryman
+
+<Weapon weapon="Fleuve Cendre Ferryman" weapons={swords} />
+
 ### Iron Sting
 
 <Weapon weapon="Iron Sting" weapons={swords} />
@@ -191,6 +199,10 @@ import SacSeries from './\_common/sac_series.md';
 * Flute's AoE can CRIT - [Crome\#2644](../../evidence/equipment/weapons.md#the-flute)
 
 </Weapon>
+
+### Wolf-Fang
+
+<Weapon weapon="Wolf-Fang" weapons={swords} />
 
 ### Toukabou Shigure
 

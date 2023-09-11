@@ -49,6 +49,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <Weapon weapon="Skyward Harp" weapons={bows} />
 
+### The First Great Magic
+
+<Weapon weapon="The First Great Magic" weapons={bows} />
+
 ### Thundering Pulse
 
 <Weapon weapon="Thundering Pulse" weapons={bows} />
@@ -150,6 +154,14 @@ import SacSeries from './\_common/sac_series.md';
 <SacSeries/>
 
 </Weapon>
+
+### Scion of the Blazing Sun
+
+<Weapon weapon="Scion of the Blazing Sun" weapons={bows} />
+
+### Song of Stillness
+
+<Weapon weapon="Song of Stillness" weapons={bows} />
 
 ### The Stringless
 

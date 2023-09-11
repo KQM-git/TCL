@@ -226,9 +226,6 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 </Tabs>
 
-
-<ConstellationsFull char={char} />
-
 ## Full Talent Values
 
 import TalentsFull from '@site/src/components/char/TalentsFull'

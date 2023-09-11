@@ -94,6 +94,10 @@ import FavSeries from './\_common/fav_series.md';
 
 </Weapon>
 
+### Flowing Purity
+
+<Weapon weapon="Flowing Purity" weapons={catalysts} />
+
 ### Frostbearer
 
 <Weapon weapon="Frostbearer" weapons={catalysts} />
@@ -157,6 +161,10 @@ import SacSeries from './\_common/sac_series.md';
 <SacSeries/>
 
 </Weapon>
+
+### Sacrificial Jade
+
+<Weapon weapon="Sacrificial Jade" weapons={catalysts} />
 
 ### Solar Pearl
 
