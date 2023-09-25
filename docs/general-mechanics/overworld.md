@@ -271,6 +271,10 @@ As of 3.0, coordinates are no longer available in the feedback url.
 
 * Some objects like Geo Constructs and gadgets can reflect Melodic Bloom Notes found within Golden Apple Archipelago \(2022\).
 
+## Fontaine
+
+* Passives that reduce stamina consumption when swimming do not apply to Fontaine water
+
 ## Other
 
 * 4TF and 4CW set bonuses towards Overload and Superconduct do not apply to reactions involving objects or elementally modified terrain such as electrified and Frozen water.
