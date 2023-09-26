@@ -1769,7 +1769,7 @@ Some things reflects, mostly fluff. Genshin is wonk game.
 **Finding:**  
 Passives that reduce stamina consumption when swimming do not apply to Fontaine water
 
-**Evidence:** [Youtube video](https://youtu.be/ZRDJzADdLZ0)
+**Evidence:** [YouTube video](https://youtu.be/ZRDJzADdLZ0)
 
 **Significance:** Regular swimming passives are not beneficial in Fontaine
 
