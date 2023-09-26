@@ -7,6 +7,7 @@ exceptions.set(getWeeksSinceLaunch("2022-08-24"), 3.0)
 exceptions.set(getWeeksSinceLaunch("2022-09-28"), 3.1) // 5 week schedule
 exceptions.set(getWeeksSinceLaunch("2022-11-02"), 3.2) // 5 week schedule
 exceptions.set(getWeeksSinceLaunch("2022-12-07"), 3.3) // 5 week schedule
+exceptions.set(getWeeksSinceLaunch("2023-08-16"), 4.0)
 
 export function getVersionNumber(weeksSinceLaunch: number): number {
   let [lowerWeek, lowerVersion] = [0, 1.0]
