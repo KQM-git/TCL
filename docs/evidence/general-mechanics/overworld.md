@@ -1756,6 +1756,24 @@ Some objects within Genshin Impact can reflect Melodic Bloom Notes found within 
 **Significance:**  
 Some things reflects, mostly fluff. Genshin is wonk game.
 
+
+## Fontaine
+
+### Swimming stamina passives don't work in Fontaine water
+
+**By:** scootyyy  
+**Added:** <Version date="2023-08-18" />  
+**Last tested:** <VersionHl date="2023-08-18" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/swimming-stamina-passives-dont-work-in-fontaine-water)
+
+**Finding:**  
+Passives that reduce stamina consumption when swimming do not apply to Fontaine water.
+
+**Evidence:** [YouTube video](https://youtu.be/ZRDJzADdLZ0)
+
+**Significance:** Regular swimming passives are not beneficial in Fontaine.
+
+
 ## Other
 
 ### 4-Piece Set Bonuses on Environment Reactions
