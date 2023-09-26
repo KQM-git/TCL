@@ -1767,11 +1767,11 @@ Some things reflects, mostly fluff. Genshin is wonk game.
 [Discussion](https://tickets.deeznuts.moe/transcripts/swimming-stamina-passives-dont-work-in-fontaine-water)
 
 **Finding:**  
-Passives that reduce stamina consumption when swimming do not apply to Fontaine water
+Passives that reduce stamina consumption when swimming do not apply to Fontaine water.
 
 **Evidence:** [YouTube video](https://youtu.be/ZRDJzADdLZ0)
 
-**Significance:** Regular swimming passives are not beneficial in Fontaine
+**Significance:** Regular swimming passives are not beneficial in Fontaine.
 
 
 ## Other

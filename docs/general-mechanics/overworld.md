@@ -273,7 +273,7 @@ As of 3.0, coordinates are no longer available in the feedback url.
 
 ## Fontaine
 
-* Passives that reduce stamina consumption when swimming do not apply to Fontaine water
+* Passives that reduce stamina consumption when swimming do not apply to Fontaine water.
 
 ## Other
 
