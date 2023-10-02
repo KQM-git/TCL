@@ -12,13 +12,13 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Baizhu.png')} alt="Baizhu's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
-<!--
-## Resources
 
+## Resources
+<!--
 * [Baizhu Mains Discord]()
-* [Full Baizhu Written Guide]()
-* [Baizhu Quick Guide]()
-* [# Minute Video Guide to Baizhu]()
+* [Full Baizhu Written Guide]()-->
+* [Baizhu Quick Guide](https://keqingmains.com/q/baizhu-quickguide/)
+<!--* [# Minute Video Guide to Baizhu]()
 -->
 
 ## Base Stats
@@ -37,42 +37,35 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
--->
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  |  63.50%   |   22   | 173.18%/s |   7.2801     |     1        |
+| 2-Hit  |  61.90%   |   33   | 112.55%/s |   6.9396     |     1        |
+| 3-Hit  |  76.60%   |   40   | 114.9%/s  |   4.2913 x2  |     1 x2     |
+| 4-Hit  |  92.00%   |   67   | 82.39%/s  |   10.3056    |     3        |
 
-<!--
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- polearm/catalyst
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              |              |
--->
+
+| String | Talent 9% | Frames | MV/s     | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :------- | :----------- | :----------- |
+| CA     |  205.80%  |   70   | 176.4%/s |              |      3       |
+
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
+
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      |  104.4%   |     5        |      2       |
+| Low Plunge DMG  |  209%     |     50       |      3       |
+| High Plunge DMG |  261%     |    100       |      4       |
+
 
 </div>
 
@@ -87,23 +80,30 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+
+| Attribute      | Tap       |
+| :------------- | :-------- | 
+| DMG \(T9%\)    |  134.64%  |           
+| Particles      |  3~4 (1:1)|           
+| GU             |  1U       |           
+| ICD            |  2s       |           
+| Snapshot       |  Snapshot |           
+| Damage Element |  Dendro   |           
+| Damage Type    |  Skill    |           
+| Duration       |           |           
+| CD             |  10s      |           
+| Poise Damage   |  30       |           
+| Impulse Type   |  3        |           
+
 
 </div>
+
+**Notes**
+
+* His Skill does 1 twirl, then returns to him if it finds no target.
+* If his Skill finds a target, the 2nd and 3rd hits may not cause an enemy to become aggro'd.
+* Skill can target the same enemy more than once but always prioritizes a new enemy if it can.
+* Skill range is approximately 8 abyss tiles, with the homing range being half that for ~12 total before it fails to find a target.
 
 </TabItem>
 
@@ -112,23 +112,21 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
 
-<!--
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
+| Attribute         | Burst                                            | 
+| :---------------- | :----------------------------------------------- |
+| DMG \(T9%\)       |  165.01%	                                       |           
+| GU                |  1U                                              |           
+| ICD               |  None                                            |           
+| Snapshot          |  Snapshot                                        |           
+| Damage Element    |  Dendro                                          |           
+| Damage Type       |  Burst                                           |           
+| Energy Cost       |  80                                              |           
+| Duration          |  Seamless Shield: 2.5s <br /> Pulsing Clarity: 14s |           
+| Cooldown          |  20s                                             |           
+| Poise Damage      |  50                                              |           
+| Impulse Type      |  1                                               |           
+
 
 </div>
 
@@ -136,14 +134,14 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 </TabItem>
 </Tabs>
 
-<!--
+
 ## Frames
 
 import charFrames from '@site/src/data/frames/Baizhu.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 
@@ -174,6 +172,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c2' label='C2'>
 <Constellation char={char} constellation={2} />
+
+**Notes**
+
+* Most interactions from the on field character to enemies will trigger Baizhu's C2, whether they do damage or not. There is no condition required (e.g., burst is active). The only exception found was Zhongli's shield shred.
+
 </TabItem>
 
 <TabItem value='c3' label='C3'>

@@ -1,0 +1,87 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 17,
+        "hitlag": 0,
+        "next_na": 22,
+        "ca": 19,
+        "walk": 33
+    }, 
+    {
+        "name": "N2",
+        "release": 25,
+        "hitlag": 0,
+        "next_na": 33,
+        "ca": 31,
+        "walk": 39
+    },
+    {
+        "name": "N3",
+        "release": [23, 12],
+        "hitlag": [0, 0],
+        "next_na": 40,
+        "ca": 39,
+        "walk": 46
+    },
+    {
+        "name": "N4",
+        "release": 30,
+        "hitlag": 0,
+        "next_na": 67,
+        "ca": 57,
+        "walk": 62
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 59,
+        "hitlag": 0,
+        "n1": 70,
+        "ca": 70,
+        "skill": 69,
+        "burst": 70,
+        "walk": 75,
+        "dash": 53,
+        "jump": 53,
+        "swap": 68,
+        "notes": "CA Hitmark is ~14f faster if preceded by N1/N2/N3/N4"
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": [13, 61, 109, 160],
+        "n1": 49,
+        "ca": 48,
+        "burst": 30,
+        "walk": 47,
+        "dash": 29,
+        "jump": 30,
+        "swap": 28,
+        "cd": 23
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": [252, 427, 602, 777, 952, 1133],
+        "n1": 104,
+        "ca": 104,
+        "skill": 104,
+        "walk": 104,
+        "dash": 104,
+        "jump": 104,
+        "swap": 104,
+        "cd": 0,
+        "energy": 4,
+        "notes": [
+            "First Shield: 81f" ,
+            "Shield Refresh: 223f, 398f, 573f, 748f, 923f" ,
+            "Shield Expiry: 1104f ",
+            "Release + Travel frames taken for hitmark"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 19
+    },
+    {
+        "name": "Jump",
+        "default": 28
+    }]
+}
