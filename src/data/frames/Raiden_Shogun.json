@@ -82,10 +82,11 @@
         "name": "CA (in Q)",
         "hitmark": [24, 32],
         "hitlag": [0, 0.06],
-        "n1": 64,
-        "dash": 64,
-        "jump": 64,
-        "swap": 64
+        "n1": 61,
+        "skill": 61,
+        "dash": 39,
+        "jump": 39,
+        "swap": 60
     },
     "Skill": {
         "name": "Cast",
