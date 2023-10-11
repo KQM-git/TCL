@@ -1,0 +1,88 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 17,
+        "hitlag": 0.03,
+        "next_na": 30,
+        "ca": 31,
+        "walk": 36
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "next_na": 22,
+        "ca": 31,
+        "walk": 33
+    },
+    {
+        "name": "N3",
+        "hitmark": [23, 31],
+        "hitlag": [0.06, 0.00],
+        "next_na": 43,
+        "ca": 55,
+        "walk": 55
+    },
+    {
+        "name": "N4",
+        "hitmark": 29,
+        "hitlag": 0,
+        "next_na": 60,
+        "walk": 68
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": [12,13],
+        "hitlag": [0.00, 0.00],
+        "n1": 42,
+        "skill": 31,
+        "burst": 32,
+        "walk": 51
+    },
+    "Skill": [{
+        "name": "Tap E (Thrust, Blade)",
+        "hitmark": [28, 58],
+        "n1": 43,
+        "skill": 44,
+        "burst": 45,
+        "walk": 58,
+        "dash": 44,
+        "jump": 43,
+        "swap": 42,
+        "cd": 26
+    },
+    {
+        "name": "Hold E (Thrust, Blade)",
+        "hitmark": [201, 229],
+        "n1": 36,
+        "skill": 35,
+        "burst": 30,
+        "walk": 41,
+        "dash": 35,
+        "jump": 32,
+        "swap": 37,
+        "cd": 199,
+        "notes" : [" C1 start: 223f;", "Cancels after full Hold E: N1: 214f, Skill: 214f, Dash:213f, Jump:216f"]
+    }],
+    "Burst": {
+        "name": "Cast (Initial, 1st Tick, 1st Vivid Shot)",
+        "hitmark": [18, 136, 146],
+        "n1": 55,
+        "skill": 56,
+        "walk": 50,
+        "dash": 46,
+        "jump": 44,
+        "swap": 43,
+        "cd": 0,
+        "energy": 5, 
+        "notes" :  "Tick Interval: 59f, Vivid Shot Interval: 134f, Hat spawn: 14f" 
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

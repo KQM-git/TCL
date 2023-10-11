@@ -27,9 +27,9 @@
         "name": "N4",
         "hitmark": [15,9],
         "hitlag": [0,0],
-        "next_na": 32,
-        "ca": 40,
-        "walk": 48
+        "next_na": 40,
+        "ca": 48,
+        "walk": 56
     },
     {
         "name": "N5",
