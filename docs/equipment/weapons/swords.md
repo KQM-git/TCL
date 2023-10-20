@@ -192,6 +192,10 @@ import SacSeries from './\_common/sac_series.md';
 
 <Weapon weapon="The Black Sword" weapons={swords} />
 
+### The Dockhand's Assistant
+
+<Weapon weapon="The Dockhand's Assistant" weapons={swords} />
+
 ### The Flute
 
 <Weapon weapon="The Flute" weapons={swords}>

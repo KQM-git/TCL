@@ -13,6 +13,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 </Weapon>
 
+### Cashflow Supervision
+
+<Weapon weapon="Cashflow Supervision" weapons={catalysts} />
+
 ### Everlasting Moonglow
 
 <Weapon weapon="Everlasting Moonglow" weapons={catalysts} />
@@ -60,11 +64,19 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 </Weapon>
 
+### Tome of the Eternal Flow
+
+<Weapon weapon="Tome of the Eternal Flow" weapons={catalysts} />
+
 ### Tulaytullah's Remembrance
 
 <Weapon weapon="Tulaytullah's Remembrance" weapons={catalysts} />
 
 ## 4 Stars
+
+### Ballad of the Boundless Blue
+
+<Weapon weapon="Ballad of the Boundless Blue" weapons={catalysts} />
 
 ### Blackcliff Agate
 

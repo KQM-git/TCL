@@ -1,0 +1,470 @@
+{
+  "name": "Wriothesley",
+  "star": 5,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 1058.1852,
+    "attackBase": 24.206,
+    "defenseBase": 59.41119,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Forceful Fists of Frost",
+        "desc": "**Normal Attack**\nCoalescing frost about his fist, Wriothesley will unleash powerful **Repelling Fists**, performing up to 5 rapid attacks that deal **Cryo DMG**.\nApart from this, Normal Attack combo count will not reset for a short time after using Icefang Rush or sprinting.\n\n**Charged Attack**\nConsumes a fixed amount of Stamina to leap and unleash a **Vaulting Fist**, dealing **AoE Cryo DMG**.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing **AoE Cryo DMG** upon impact.",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "53.4%",
+              "57.7%",
+              "62.0%",
+              "68.3%",
+              "72.6%",
+              "77.6%",
+              "84.4%",
+              "91.2%",
+              "98.0%",
+              "105.5%",
+              "112.9%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "51.8%",
+              "56.0%",
+              "60.2%",
+              "66.3%",
+              "70.5%",
+              "75.3%",
+              "81.9%",
+              "88.5%",
+              "95.2%",
+              "102.4%",
+              "109.6%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "67.2%",
+              "72.7%",
+              "78.2%",
+              "86.0%",
+              "91.5%",
+              "97.7%",
+              "106.3%",
+              "114.9%",
+              "123.5%",
+              "132.9%",
+              "142.3%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "37.9%+37.9%",
+              "41.0%+41.0%",
+              "44.1%+44.1%",
+              "48.5%+48.5%",
+              "51.6%+51.6%",
+              "55.1%+55.1%",
+              "59.9%+59.9%",
+              "64.8%+64.8%",
+              "69.6%+69.6%",
+              "74.9%+74.9%",
+              "80.2%+80.2%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "90.7%",
+              "98.1%",
+              "105.5%",
+              "116.1%",
+              "123.5%",
+              "131.9%",
+              "143.5%",
+              "155.1%",
+              "166.7%",
+              "179.4%",
+              "192.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "153.0%",
+              "164.4%",
+              "175.9%",
+              "191.2%",
+              "202.7%",
+              "214.1%",
+              "229.4%",
+              "244.7%",
+              "260.0%",
+              "275.3%",
+              "290.6%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Icefang Rush",
+        "desc": "Adjusting his breathing, rhythm, and pace, Wriothesley sprints forward a short distance, entering the **Chilling Penalty** state and unleashing more powerful attacks than before.\n\n**Chilling Penalty**\n·Increases Wriothesley's interruption resistance\n·When his HP is above 50%, it will enhance the Repelling Fists of **Normal Attack: Forceful Fists of Frost** and increase its DMG. When such an attack hits, it will consume a fixed amount of Wriothesley's HP. HP can be lost this way once every 0.1s.\nThis effect will be canceled should Wriothesley leave the field.\n\n**\"Past convictions are past. It is our future choices that we must grasp.\"\n\"Defy your fate, or else this glutton be, to pay your fate's due, by the crime and thee.\"**",
+        "img": "Wriothesley/skill_1",
+        "talentTable": [
+          {
+            "name": "Enhanced Repelling Fist DMG",
+            "values": [
+              "143.2% Normal Attack DMG",
+              "145.8% Normal Attack DMG",
+              "148.3% Normal Attack DMG",
+              "151.7% Normal Attack DMG",
+              "154.3% Normal Attack DMG",
+              "156.9% Normal Attack DMG",
+              "160.2% Normal Attack DMG",
+              "163.6% Normal Attack DMG",
+              "167.0% Normal Attack DMG",
+              "170.3% Normal Attack DMG",
+              "173.7% Normal Attack DMG",
+              "177.0% Normal Attack DMG",
+              "180.4% Normal Attack DMG"
+            ]
+          },
+          {
+            "name": "HP Cost",
+            "value": "4.5% Max HP"
+          },
+          {
+            "name": "Duration",
+            "value": "10.0s"
+          },
+          {
+            "name": "CD",
+            "value": "16.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Darkgold Wolfbite",
+      "desc": "Activating his boxing gloves, Wriothesley strikes out with an icy straight, then uses Icicle Impact to cause multiple instances of **AoE Cryo DMG** in a frontal area.\n\n**Arkhe: Ousia**\nAfter Icicle Impact ends, a Surging Blade will descend upon the opponent's position, dealing Ousia-aligned **Cryo DMG**.\n\n**There are some things that even the Duke of the Fortress of Meropide can do little about — for example, complicated paperwork, the trivialities of a supervisor, or even... little kids pasting a whole host of cute but difficult-to-remove stickers on his boxing gloves.**",
+      "img": "Wriothesley/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "127.20%×5",
+            "136.74%×5",
+            "146.28%×5",
+            "159.00%×5",
+            "168.54%×5",
+            "178.08%×5",
+            "190.80%×5",
+            "203.52%×5",
+            "216.24%×5",
+            "228.96%×5",
+            "241.68%×5",
+            "254.40%×5",
+            "270.30%×5"
+          ]
+        },
+        {
+          "name": "Surging Blade DMG",
+          "values": [
+            "42.40%",
+            "45.58%",
+            "48.76%",
+            "53.00%",
+            "56.18%",
+            "59.36%",
+            "63.60%",
+            "67.84%",
+            "72.08%",
+            "76.32%",
+            "80.56%",
+            "84.80%",
+            "90.10%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Surging Blade CD",
+          "value": "10.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "There Shall Be a Plea for Justice",
+        "desc": "When Wriothesley's HP is less than 60%, he will obtain a Gracious Rebuke. The next Charged Attack of his **Normal Attack: Forceful Fists of Frost** will be enhanced to become Rebuke: Vaulting Fist. It will not consume Stamina, will deal 50% increased DMG, and after hitting will restore HP for Wriothesley equal to 30% of his Max HP.\nYou can gain a Gracious Rebuke this way once every 5s.",
+        "img": "Wriothesley/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "There Shall Be a Reckoning for Sin",
+        "desc": "When Wriothesley's current HP increases or decreases, if he is in the Chilling Penalty state conferred by **Icefang Rush**, Chilling Penalty will gain one stack of Prosecution Edict. Max 5 stacks. Each stack will increase Wriothesley's ATK by 6%.",
+        "img": "Wriothesley/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "The Duke's Grace",
+        "desc": "When Wriothesley crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.",
+        "img": "Common/Double_Weapon_Ascension_Materials",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Terror for the Evildoers",
+        "desc": "The Gracious Rebuke from the Passive Talent \"There Shall Be a Plea for Justice\" is changed to this:\nWhen Wriothesley's HP is less than 60% or while he is in the Chilling Penalty state caused by **Icefang Rush**, when the fifth attack of Repelling Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can be obtained every 2.5s.\n\nAdditionally, Rebuke: Vaulting Fist will obtain the following enhancement:\n·The DMG Bonus gained will be further increased to 200%.\n·When it hits while Wriothesley is in the Chilling Penalty state, that state's duration is extended by 4s. 1 such extension can occur per 1 Chilling Penalty duration.\n\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
+        "img": "Wriothesley/const_0"
+      },
+      {
+        "name": "Shackles for the Arrogant",
+        "desc": "When using **Darkgold Wolfbite**, each Prosecution Edict stack from the Passive Talent \"There Shall Be a Reckoning for Sin\" will increase said ability's DMG dealt by 40%.\nYou must first unlock the Passive Talent \"There Shall Be a Reckoning for Sin.\"",
+        "img": "Wriothesley/const_1"
+      },
+      {
+        "name": "Punishment for the Frauds",
+        "desc": "Increases the Level of **Normal Attack: Forceful Fists of Frost** by 3.\nMaximum upgrade level is 15.",
+        "img": "Wriothesley/const_2"
+      },
+      {
+        "name": "Redemption for the Suffering",
+        "desc": "The HP restored to Wriothesley through Rebuke: Vaulting Fist will be increased to 50% of his Max HP. You must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"\nAdditionally, when Wriothesley is healed, if the amount of healing overflows, the following effects will occur depending on whether he is on the field or not. If he is on the field, his ATK SPD will be increased by 20% for 4s. If he is off-field, all of your own party members' ATK SPD will be increased by 10% for 6s. These two methods of increasing ATK SPD cannot stack.",
+        "img": "Wriothesley/const_3"
+      },
+      {
+        "name": "Mercy for the Wronged",
+        "desc": "Increases the Level of **Darkgold Wolfbite** by 3.\nMaximum upgrade level is 15.",
+        "img": "Wriothesley/const_4"
+      },
+      {
+        "name": "Esteem for the Innocent",
+        "desc": "The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as **Cryo DMG**. DMG dealt this way is regarded as Charged Attack DMG.\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
+        "img": "Wriothesley/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 907.2981567382812
+        },
+        {
+          "stat": "Base DEF",
+          "value": 50.9409
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.75294
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1551.9573
+        },
+        {
+          "stat": "Base DEF",
+          "value": 87.13575
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.49845
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2411.503
+        },
+        {
+          "stat": "Base DEF",
+          "value": 135.3955535888672
+        },
+        {
+          "stat": "Base ATK",
+          "value": 55.15913
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3056.162
+        },
+        {
+          "stat": "Base DEF",
+          "value": 171.5904
+        },
+        {
+          "stat": "Base ATK",
+          "value": 69.90464
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3700.8212890625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 207.78525
+        },
+        {
+          "stat": "Base ATK",
+          "value": 84.65015
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4345.48046875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 243.9801
+        },
+        {
+          "stat": "Base ATK",
+          "value": 99.39566
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}

@@ -127,6 +127,10 @@ import FavSeries from './\_common/fav_series.md';
 
 <Weapon weapon="Prototype Crescent" weapons={bows} />
 
+### Range Gauge
+
+<Weapon weapon="Range Gauge" weapons={bows} />
+
 ### Royal Bow
 
 <Weapon weapon="Royal Bow" weapons={bows}>

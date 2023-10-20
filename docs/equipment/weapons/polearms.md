@@ -134,6 +134,10 @@ import FavSeries from './\_common/fav_series.md';
 
 <Weapon weapon="Lithic Spear" weapons={polearms} />
 
+### Prospector's Drill
+
+<Weapon weapon="Prospector's Drill" weapons={polearms} />
+
 ### Prototype Starglitter
 
 <Weapon weapon="Prototype Starglitter" weapons={polearms}>

@@ -557,6 +557,94 @@
       "desc": "Defeating an opponent increases Movement SPD and ATK by **12%**/**14%**/**16%**/**18%**/**20%** for 15s."
     }
   },
+  "Ballad of the Boundless Blue": {
+    "name": "Ballad of the Boundless Blue",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.066667,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Azure Skies",
+      "desc": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by **8%**/**10%**/**12%**/**14%**/**16%** and Charged Attack DMG will be increased by **6%**/**7.5%**/**9%**/**10.5%**/**12%**. Max 3 stacks. This effect can be triggered once every 0.3s."
+    }
+  },
   "Blackcliff Agate": {
     "name": "Blackcliff Agate",
     "weaponType": "Catalyst",
@@ -2229,6 +2317,94 @@
       "desc": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by **32**/**40**/**48**/**56**/**64**. If not, increase the equipping character's DMG Bonus from their Elemental Type by **10%**/**14%**/**18%**/**22%**/**26%**. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by **40**/**42**/**44**/**46**/**48**. Multiple such effects from multiple such weapons can stack."
     }
   },
+  "Cashflow Supervision": {
+    "name": "Cashflow Supervision",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 47.537,
+        "curve": "ATK 3.2"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.048,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Golden Blood-Tide",
+      "desc": "ATK is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When current HP increases or decreases, Normal Attack DMG will be increased by **16%**/**20%**/**24%**/**28%**/**32%** and Charged Attack DMG will be increased by **14%**/**17.5%**/**21%**/**24.5%**/**28%** for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by **8%**/**10%**/**12%**/**14%**/**16%**."
+    }
+  },
   "Everlasting Moonglow": {
     "name": "Everlasting Moonglow",
     "weaponType": "Catalyst",
@@ -2755,6 +2931,94 @@
     "refinements": {
       "name": "Wandering Clouds",
       "desc": "Increases Elemental DMG Bonus by **12%**/**15%**/**18%**/**21%**/**24%**. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing **160%**/**200%**/**240%**/**280%**/**320%** ATK DMG. Can only occur once every 30s."
+    }
+  },
+  "Tome of the Eternal Flow": {
+    "name": "Tome of the Eternal Flow",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.192,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Aeon Wave",
+      "desc": "HP is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When current HP increases or decreases, Charged Attack DMG will be increased by **14%**/**18%**/**22%**/**26%**/**30%** for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, **8**/**9**/**10**/**11**/**12** Energy will be restored. This Energy restoration effect can be triggered once every 12s."
     }
   },
   "Tulaytullah's Remembrance": {
