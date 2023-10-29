@@ -808,6 +808,26 @@ Bravo, MiYoHo. On the surface, this seems to be a relatively innocuous mechanic 
 
 One option is to make things "logical," for Frozen water to simply disappear when the water level moves, or to move with the water itself. There is nothing inherently bad about this approach, but it has little effect on gameplay, and the game will have less depth as a result. Allowing Cryo units to obtain the high ground, unlike other Elements, increases the variety and diversity in Genshin Impact. Consider the alternative. If every Element had the same capabilities, then the game would be much less interesting. Thus, the "logical" approach is undesirable.
 
+### Some Fontaine Water Is Not Water
+
+**By:** @sharaths21312  
+**Added:** <Version date="2023-09-16" />  
+**Last tested:** <VersionHl date="2023-09-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-fontaine-water-is-not-water)
+
+**Finding:**  
+Water in certain regions of fontaine can't be frozen  
+- city water  
+- hot spring water  
+- aquabus tracks  
+
+**Evidence:**  
+[YouTube](https://youtu.be/dSBPI1sv2vU)  
+[YouTube](https://youtu.be/nek8Ok1BLmk)  
+
+**Significance:**  
+Water is water, but water is not water.
+
 ## Electro Crystals
 
 ### Electro Crystal Range
