@@ -115,6 +115,22 @@ Pressurized Collapses created through Faruzan's C6 are dynamic and do not snapsh
 **Significance:**  
 Useful if someone wants to know how Faruzan's damage is affected by buffs.
 
+### C6 Faruzan Coop Pressurized Collapse
+
+**By:** @anoddmedium  
+**Added:** <Version date="2023-10-18" />  
+**Last tested:** <VersionHl date="2023-10-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/c6-faruzan-coop-pressurized-collapse)
+
+**Finding:**  
+C6 Faruzan's Pressurized Collapse cooldown is not shared between Co-op party members, allowing multiple to trigger simultaneously with separate ICD [1]. Additionally, the number of Pressurized Collapses can exceed the number of players in the party [2].  
+  
+**Evidence:**  
+1. [YouTube](https://youtu.be/ad5LP4PH_z8) - Pressurized Collapse triggering on 5 enemies (0:09) - Note: 100% CRIT Rate  
+2. [YouTube](https://youtu.be/KtYFAG9FBaQ) - 5 Pressurized Collapse triggers with 3 players in Co-op.  
+  
+**Significance:**  
+Unexpected DPS potential for Faru an in Co-op, particularly in AoE.
 
 
 ## Synergies/Interactions
