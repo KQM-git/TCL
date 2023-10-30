@@ -1773,6 +1773,29 @@ Passives that reduce stamina consumption when swimming do not apply to Fontaine 
 
 **Significance:** Regular swimming passives are not beneficial in Fontaine.
 
+### Bodies Of Water In Fontaines Cities Are Not Environments But Still Wet
+
+**By:** @acerbus1234  
+**Added:** <Version date="2023-08-17" />  
+**Last tested:** <VersionHl date="2023-08-17" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/bodies-of-water-in-fontaines-cities-are-not-environments-but-still-wet)
+  
+**Finding:**  
+Bodies of water in Fontaine's cities (or urban residential areas) are not considered water environments, although they still apply Wet status onto characters.  
+  
+You can't trigger reactions onto them (Electro-Charged, Vaporize) as well as not be able to trigger some Anemo characters' passives (e.g. Wanderer's A1, Kazuha's A1).  
+  
+**Evidence:**  
+Wanderer at underground sewer: [YouTube](https://youtu.be/b4HMLxCYEM4)  
+Kazuha at Court of Fontaine's fountain: [YouTube](https://youtu.be/c1RLXq9oxf0)  
+Wanderer at Aquabus station: [YouTube](https://youtu.be/ozuX6val3wE)  
+Yae Miko at Fountain of Lucine: [YouTube](https://youtu.be/2_saDiPhXZc)  
+Bennett at Fountain of Lucine: [YouTube](https://youtu.be/xnFt0QqBS2s)  
+Water at the beach is still considered environment: [YouTube](https://youtu.be/jWe3Getfsbk)  
+Sewer in Liyue is also an environment: [YouTube](https://youtu.be/gm49F_IucEU)  
+  
+**Significance:**  
+No extended Wanda's stamina for flying. 
 
 ## Other
 

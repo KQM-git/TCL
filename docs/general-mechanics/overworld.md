@@ -274,6 +274,7 @@ As of 3.0, coordinates are no longer available in the feedback url.
 ## Fontaine
 
 * Passives that reduce stamina consumption when swimming do not apply to Fontaine water.
+* Bodies of water in Fontaine's cities (or urban residential areas) are not considered water environments, although they still apply Wet status onto characters. You can't trigger reactions onto them (Electro-Charged, Vaporize) as well as not be able to trigger some Anemo characters' passives (e.g. Wanderer's A1, Kazuha's A1).
 
 ## Other
 
