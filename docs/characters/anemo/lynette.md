@@ -16,9 +16,9 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * [Lynette Mains Discord]()
-* [Full Lynette Written Guide]()
-* [Lynette Quick Guide]()
-* [# Minute Video Guide to Lynette]()
+* [Full Lynette Written Guide]()-->
+* [Lynette Quick Guide](https://keqingmains.com/q/lynette-quickguide/)
+<!--* [# Minute Video Guide to Lynette]()
 -->
 
 ## Base Stats
@@ -37,63 +37,37 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
--->
 
-<!--
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  |   79.20%  |   30   | 158.4%/s  |   46.0575    |      3       |
+| 2-Hit  |   69.10%  |   22   | 188.45%/s |   40.2102    |      3       |
+| 3-Hit  |   90.90%  |   43   | 126.84%/s |   27 x2      |     3, 2     |
+| 4-Hit  |  116.00%  |   60   | 116%/s    |   67.6422    |      4       |
+
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- sword
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              | 2 + 6        |
-| N1C    |           |        |      | -            | -            |
--->
 
-<!-- claymore
-| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| CA     |  194.00%  |   42   | 277.14%/s |   60 x2      | 2 + 6        |
 
-<!-- polearm/catalyst
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              |              |
--->
-
-<!-- bow
-| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
-| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
-| Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
--->
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
+
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      |  117.46%  |     25       |     2        |
+| Low Plunge DMG  |  234.86%  |    100       |     4        |
+| High Plunge DMG |  293.36%  |    150       |     7        |
+
 
 </div>
 
@@ -108,23 +82,30 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+
+| Attribute      | Enigmatic Thrust         | Surging Blade        | 
+| :------------- | :-------------------     | :------------------- |
+| DMG \(T9%\)    |     455.6%               |      53.04%          |
+| Particles      |     4 \(-\)              |      -               |
+| GU             |     1U                   |      0U              |
+| ICD            |     None                 |      None            |
+| Snapshot       |     Dynamic              |      Dynamic         |
+| Damage Element |     Anemo                |      Anemo           |
+| Damage Type    |     Skill                |      Skill           |
+| Duration       |     Hold: 2.5s           |      -               |
+| CD             |     12s                  |      12s             |
+| Poise Damage   | Tap: 100<br /> Hold: 125 |      20              |
+| Impulse Type   |     2                    |      3               |
+
 
 </div>
+
+**Notes**
+* Stamina regenerates while in Lynette's **Pilfering Shadow** State from her hold Skill.
+* **Arkhe: Ousia Enigma Thrust** can proc the Skill reset passive on Sacrificial Sword.
+* The Skill cannot Guoba swirl.
+
+
 
 </TabItem>
 
@@ -133,36 +114,39 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
-<!-- 
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
+
+| Attribute         | Skill      | Bogglecat Box          | Vivid Shot       |
+| :---------------- | :--------- | :--------------------- | :--------------- |
+| DMG \(T9%\)       |  141.44%   |      87.04%            |   77.52%         |
+| GU                |  1U        |      1U                |   1U             |
+| ICD               | 3-hits/2.5s|      3-hits/2.5s       |  3-hits/2.5s     |
+| Snapshot          | Dynamic    |      Dynamic           |  Dynamic         |
+| Damage Element    | Anemo      |      Anemo             | Absorbed Element |
+| Damage Type       | Burst      |      Burst             |  Burst           |
+| Energy Cost       | 70         |      -                 |  -               |
+| Duration          | 12s        |      -                 |  -               |
+| Cooldown          | 18s        |      -                 |  -               |
+| Poise Damage      | 40         |      40                |  40              |
+| Impulse Type      | 3          |      2                 |  2               |
+
 
 </div>
+
+**Notes**
+* The absorption priority on her burst is Cryo > Pyro > Hydro > Electro. For more information, read this [Vault Entry](../../evidence/characters/anemo/lynette.md#burst-mechanics).
+* The burst cannot Guoba swirl.
 
 </TabItem>
 </Tabs>
 
-<!--
+
 ## Frames
 
 import charFrames from '@site/src/data/frames/Lynette.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 
@@ -189,6 +173,10 @@ import Constellation from '@site/src/components/char/Constellation'
 <Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
+
+**Notes**
+* The pull radius is about 6m.
+
 </TabItem>
 
 <TabItem value='c2' label='C2'>
