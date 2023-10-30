@@ -98,6 +98,7 @@ import Skill from '@site/src/components/char/Skill'
 * It has a small AoE.
 * The dash does not have i-frames.
 * The Sesshou Sakura will always be placed in front of Yae Miko as she dashes back, unless a directional key is held down, in which case she will dash towards said direction.
+* There are multiple findings regarding Sesshou Sakura mechanics, mainly on targeting categories and patterns. Click [here](../../evidence/characters/electro/yae-miko.md#yae-miko-totem-mechanics) for more information.  
 
 </TabItem>
 
