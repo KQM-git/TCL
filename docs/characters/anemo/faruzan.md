@@ -198,6 +198,8 @@ import Constellation from '@site/src/components/char/Constellation'
 * The 3s CD on C6's Pressurized Collapse does not affect the Pressurized Collapses from Faruzan's E.
 * 4p TotM works with Faruzan’s C6 when activated.
 * Pressurized Collapses created through Faruzan's C6 are dynamic and do not snapshot her stats.
+* Pressurized Collapse cooldown is not shared between Co-op party members.
+* The number of Pressurized Collapses can exceed the number of players in the party.
   
 </TabItem>
 </Tabs>
