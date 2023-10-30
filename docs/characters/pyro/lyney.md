@@ -16,9 +16,10 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * [Lyney Mains Discord]()
-* [Full Lyney Written Guide]()
-* [Lyney Quick Guide]()
-* [# Minute Video Guide to Lyney]()
+
+* [Full Lyney Written Guide]()-->
+* [Lyney Quick Guide](https://keqingmains.com/q/lyney-quickguide/)
+<!--* [# Minute Video Guide to Lyney]()
 -->
 
 ## Base Stats
@@ -37,69 +38,47 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
--->
 
-<!--
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  |   71.30%  |   22   | 194.45%/s |   13.537     |    1         |
+| 2-Hit  |   69.80%  |   24   | 174.5%/s  |   13.252     |    1         |
+| 3-Hit  |  50.1% *2 |   39   | 154.15%/s |   9.5085 *2  |    1 *2      |
+| 4-Hit  |  104.60%  |   59   | 106.37%/s |   19.872     |    1         |
+ 
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- sword
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              | 2 + 6        |
-| N1C    |           |        |      | -            | -            |
--->
-
-<!-- claymore
-| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
-
-<!-- polearm/catalyst
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              |              |
--->
-
-<!-- bow
-| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
-| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
-| Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
--->
+| Type                                                  | Talent 9%                 | Frames | MV/s      | GU         | Poise Damage        | Impulse Type      |
+| :---------------------------------------------------- | :------------------------ | :----- | :-------- | :--------- | :------------------ | :---------------- |
+| Aimed Shot                                            |  80.60%                   |   24   | 201.5%/s  | -          | 10 \(Headshot: 30\)         | 2 \(Headshot: 5\)       |
+| Fully Charged                                         | 210.80%                   |   80   | 158.1%/s  | 1U         | 20 \(Headshot: 60\)         | 2 \(Headshot: 5\)       |
+| Prop Arrow + Pyrotechnic Strike +  Spiritbreath Thorn | 293.76% + 360.4% + 46.84% |  111   | 378.94%/s | 1U, 1U, 0U | 60 \(Headshot: 60\), 30, 20 | 2 \(Headshot: 5\), 2, 2 | 
+ 
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      |  104.41%  |     50       |     2        |
+| Low Plunge DMG  |  208.77%  |    100       |     3        |
+| High Plunge DMG |  260.76%  |     20       |     2        |
+
 
 </div>
 
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* **Grin-Malkin Hat** created by **Prop Arrow** snapshots on creation.
+* Lyney's **Prop Arrow** from his Charged Attack can hit multiple enemies grouped very closely together.
+* Amos' Bow and Slingshot interaction with **Grim-Malkin Hat**'s **Pyrotechnic Strike** is as follows. The bonus is calculated as if the charged attack was fired the moment **Pyrotechnic Strike** was launched (regardless of Lyney's **Prop Arrows**). If Elemental Skill was being used to detonate the **Grim-Malkin Hat**, the time is counted as 0s. 
+* Lyney's Charged Attack that drains HP does not get it's own 12% Crit Rate stack of **Marechaussee Hunter**.
+* Lyney's **Pyrotechnic Strike** can trigger Beidou Burst's coordinated attacks if he is on-field. 
 
 </TabItem>
 
@@ -108,21 +87,22 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+
+| Attribute      | Skill                                             | 
+| :------------- | :------------------------------------------------ | 
+| DMG \(T9%\)    |  284.24%                                          |           
+| Skill DMG Bonus| 90.44 ATK/Stack                                   |
+| Particles      |  5 \(-\)                                          |           
+| GU             |  1U                                               |           
+| ICD            | Skill: None, <br /> Grin-Malkin Hat Explosion: 1s |           
+| Snapshot       |  Dynamic                                          |           
+| Damage Element |  Pyro                                             |           
+| Damage Type    |  Skill                                            |          
+| Duration       |  -                                                |           
+| CD             |  15s                                              |           
+| Poise Damage   |  Skill: 60, <br />Grin-Malkin Hat Explosion: 90   |           
+| Impulse Type   |  Skill: 4, <br />Grin-Malkin Hat Explosion: 2     |           
+
 
 </div>
 
@@ -133,36 +113,40 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
-<!-- 
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
+
+| Attribute         | Burst                                           | 
+| :---------------- | :---------------------------------------------- | 
+| DMG \(T9%\)       | Skill: 261.8% <br /> Explosive Firework: 703.8% |                    
+| GU                | 1U                                              |                    
+| ICD               | None                                            |                    
+| Snapshot          | Dynamic                                         |                    
+| Damage Element    | Pyro                                            |                    
+| Damage Type       | Burst                                           |                    
+| Energy Cost       | 60                                              |                    
+| Duration          | 3s                                              |                    
+| Cooldown          | 15s                                             |                    
+| Poise Damage      | Skill: 40 <br /> Explosive Firework: 120        |                    
+| Impulse Type      | Skill: 2 <br /> Explosive Firework: 7           |                    
+
 
 </div>
+
+**Notes**
+
+* Lyney can not lose vertical height during the **Grim-Malkin Cat** state, allowing him to fly for a short duration.
+* Lyney's Burst gives him 50% Damage Reduction.
 
 </TabItem>
 </Tabs>
 
-<!--
+
 ## Frames
 
 import charFrames from '@site/src/data/frames/Lyney.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 
