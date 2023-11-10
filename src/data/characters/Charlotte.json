@@ -1,0 +1,560 @@
+{
+  "name": "Charlotte",
+  "star": 4,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 902.6731,
+    "attackBase": 14.51352,
+    "defenseBase": 45.78,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Cool-Color Capture",
+        "desc": "**Normal Attack**\nTaking aim at targets using Monsieur Verite, her custom Kamera, Charlotte performs up to 3 consecutive attacks, dealing **Cryo DMG**.\n\n**Charged Attack**\nConsumes a fixed amount of Stamina, and after a moment's preparation, will deploy Monsieur Verite to deal **AoE Cryo DMG**.\n\n**Plunging Attack**\nGathering the power of Cryo, Charlotte plunges toward the ground, dealing DMG to all opponents in her path and dealing **AoE Cryo DMG** upon landing.\n\n**Arkhe: Pneuma**\nAt certain intervals, upon using a Charged Attack, Charlotte will cause a Spiritbreath Thorn to descend and pierce opponents, dealing Pneuma-aligned **AoE Cryo DMG**.",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "49.8%",
+              "53.6%",
+              "57.3%",
+              "62.3%",
+              "66.0%",
+              "69.8%",
+              "74.8%",
+              "79.8%",
+              "84.7%",
+              "89.7%",
+              "94.7%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "43.4%",
+              "46.6%",
+              "49.9%",
+              "54.2%",
+              "57.5%",
+              "60.7%",
+              "65.1%",
+              "69.4%",
+              "73.7%",
+              "78.1%",
+              "82.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "64.6%",
+              "69.4%",
+              "74.3%",
+              "80.8%",
+              "85.6%",
+              "90.4%",
+              "96.9%",
+              "103.4%",
+              "109.8%",
+              "116.3%",
+              "122.7%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "100.5%",
+              "108.1%",
+              "115.6%",
+              "125.6%",
+              "133.2%",
+              "140.7%",
+              "150.8%",
+              "160.8%",
+              "170.9%",
+              "180.9%",
+              "191.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          },
+          {
+            "name": "Spiritbreath Thorn DMG",
+            "values": [
+              "11.2%",
+              "12.0%",
+              "12.8%",
+              "14.0%",
+              "14.8%",
+              "15.6%",
+              "16.8%",
+              "17.9%",
+              "19.0%",
+              "20.1%",
+              "21.2%"
+            ]
+          },
+          {
+            "name": "Spiritbreath Thorn DMG Interval",
+            "value": "6.0s"
+          }
+        ]
+      },
+      {
+        "name": "Framing: Freezing Point Composition",
+        "desc": "Using the keen instincts of an ace reporter, Charlotte uses her photography skills to produce different effects based on whether the ability is Tapped or Held.\n\n**Tap**\nTakes a snapshot using Monsieur Verite, dealing **AoE Cryo DMG** to opponents in front of her and applying Snappy Silhouette to a maximum of 5 opponents. During this effect's duration, it will deal **Cryo DMG** to affected opponents at intervals.\n\n**Hold**\nPopping Monsieur Verite's viewfinder open, Charlotte enters Composition Mode, and during this time, the viewfinder will expand as you hold until you reach a Finisher Frame state. In this state, Charlotte can move and change direction freely.\nWhen the hold state ends, Monsieur Verite will deal **Cryo DMG** to all opponents locked on within the viewfinder, and apply the same Snappy Silhouette as Tap Mode does to them. If you unleash this ability only after reaching Finisher Frame, you will instead apply Focused Impression, which lasts longer and deals more DMG, although the Skill CD will be longer.\nComposition Mode lasts a maximum of 15s and allows a maximum of 5 opponents to be selected.\n\n**\"Press photography requires simple shots with exceptional theming, but most of all, you need to have a knack for capturing the moment!\"**",
+        "img": "Charlotte/skill_1",
+        "talentTable": [
+          {
+            "name": "Photo DMG (Press)",
+            "values": [
+              "67.2%",
+              "72.2%",
+              "77.3%",
+              "84.0%",
+              "89.0%",
+              "94.1%",
+              "100.8%",
+              "107.5%",
+              "114.2%",
+              "121.0%",
+              "127.7%",
+              "134.4%",
+              "142.8%"
+            ]
+          },
+          {
+            "name": "Photo DMG (Hold)",
+            "values": [
+              "139.2%",
+              "149.6%",
+              "160.1%",
+              "174.0%",
+              "184.4%",
+              "194.9%",
+              "208.8%",
+              "222.7%",
+              "236.6%",
+              "250.6%",
+              "264.5%",
+              "278.4%",
+              "295.8%"
+            ]
+          },
+          {
+            "name": "\"Snappy Silhouette\" Mark DMG",
+            "values": [
+              "39.2%",
+              "42.1%",
+              "45.1%",
+              "49.0%",
+              "51.9%",
+              "54.9%",
+              "58.8%",
+              "62.7%",
+              "66.6%",
+              "70.6%",
+              "74.5%",
+              "78.4%",
+              "83.3%"
+            ]
+          },
+          {
+            "name": "\"Snappy Silhouette\" Mark Trigger Interval",
+            "value": "1.5s"
+          },
+          {
+            "name": "\"Snappy Silhouette\" Mark Duration",
+            "value": "6.0s"
+          },
+          {
+            "name": "\"Focused Impression\" Mark DMG",
+            "values": [
+              "40.6%",
+              "43.6%",
+              "46.7%",
+              "50.7%",
+              "53.8%",
+              "56.8%",
+              "60.9%",
+              "65.0%",
+              "69.0%",
+              "73.1%",
+              "77.1%",
+              "81.2%",
+              "86.3%"
+            ]
+          },
+          {
+            "name": "\"Focused Impression\" Mark Trigger Interval",
+            "value": "1.5s"
+          },
+          {
+            "name": "\"Focused Impression\" Mark Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "CD",
+            "value": "12.0s"
+          },
+          {
+            "name": "Finisher Frame Cast CD",
+            "value": "18.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Still Photo: Comprehensive Confirmation",
+      "desc": "Condensing ice to create The Steambird's signature, Charlotte creates a Newsflash Field that will deal **AoE Cryo DMG** and restores HP for all nearby party members based on Charlotte's ATK.\n**Newsflash Field**\n·While the ability is active, Monsieur Verite will deal **Cryo DMG** at intervals to opponents within its AoE.\n·Will continuously restore HP to active character(s) within its AoE based on Charlotte's ATK.\n\n**\"Hearing stories from multiple perspectives to recreate what really happened is key to a good report... I mean, that's how you can pick the best angle for your article!\"**",
+      "img": "Charlotte/ult",
+      "talentTable": [
+        {
+          "name": "Cast Healing",
+          "values": [
+            "256.6% ATK+1608",
+            "275.8% ATK+1769",
+            "295.1% ATK+1944",
+            "320.7% ATK+2131",
+            "340.0% ATK+2332",
+            "359.2% ATK+2547",
+            "384.9% ATK+2775",
+            "410.5% ATK+3016",
+            "436.2% ATK+3271",
+            "461.8% ATK+3539",
+            "487.5% ATK+3820",
+            "513.1% ATK+4115",
+            "545.2% ATK+4424"
+          ]
+        },
+        {
+          "name": "Skill DMG",
+          "values": [
+            "77.6%",
+            "83.4%",
+            "89.3%",
+            "97.0%",
+            "102.8%",
+            "108.7%",
+            "116.4%",
+            "124.2%",
+            "131.9%",
+            "139.7%",
+            "147.5%",
+            "155.2%",
+            "164.9%"
+          ]
+        },
+        {
+          "name": "Kamera Continuous Regeneration",
+          "values": [
+            "9.2% ATK+57",
+            "9.9% ATK+63",
+            "10.6% ATK+69",
+            "11.5% ATK+76",
+            "12.2% ATK+83",
+            "12.9% ATK+91",
+            "13.8% ATK+99",
+            "14.7% ATK+108",
+            "15.7% ATK+117",
+            "16.6% ATK+126",
+            "17.5% ATK+136",
+            "18.4% ATK+147",
+            "19.6% ATK+158"
+          ]
+        },
+        {
+          "name": "Kamera DMG",
+          "values": [
+            "6.5%",
+            "7.0%",
+            "7.4%",
+            "8.1%",
+            "8.6%",
+            "9.1%",
+            "9.7%",
+            "10.3%",
+            "11.0%",
+            "11.6%",
+            "12.3%",
+            "12.9%",
+            "13.7%"
+          ]
+        },
+        {
+          "name": "Newsflash Field Duration",
+          "value": "4.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Moment of Impact",
+        "desc": "When opponents marked by \"Focused Impression\" are defeated, **Framing: Freezing Point Composition**'s CD will be decreased by 2s. This CD decrease can be triggered 4 times every 12s.",
+        "img": "Charlotte/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Diversified Investigation",
+        "desc": "When the party contains 1/2/3 Fontainians other than herself, Charlotte gains a 5%/10%/15% Healing Bonus. When the party contains 1/2/3 non-Fontainians, Charlotte gains a 5%/10%/15% Cryo DMG Bonus.",
+        "img": "Charlotte/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "First-Person Shutter",
+        "desc": "After activating the Special Analysis Zoom Lens, Charlotte's \"Framing: Freezing Point Composition\" Hold Mode cannot trigger its original effects, but instead enables her to take photos in a rather unique manner...",
+        "img": "Charlotte/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "A Need to Verify Facts",
+        "desc": "After **Still Photo: Comprehensive Confirmation** heals a character, it will mark them with Verification, which will heal them once every 2s for 80% of Charlotte's ATK. This effect lasts 6s.",
+        "img": "Charlotte/const_0"
+      },
+      {
+        "name": "A Duty to Pursue Truth",
+        "desc": "When using **Framing: Freezing Point Composition**, when Monsieur Verite hits 1/2/3 (or more) opponents, Charlotte's own ATK will be increased by 10%/20%/30% for 12s.",
+        "img": "Charlotte/const_1"
+      },
+      {
+        "name": "An Imperative to Independence",
+        "desc": "Increases the Level of **Still Photo: Comprehensive Confirmation** by 3.\nMaximum upgrade level is 15.",
+        "img": "Charlotte/const_2"
+      },
+      {
+        "name": "A Responsibility to Oversee",
+        "desc": "When **Still Photo: Comprehensive Confirmation** hits an opponent marked by Snappy Silhouette or Focused Impression, it will deal 10% more DMG and restore 2 Energy to Charlotte. This restoration can be triggered 5 times every 20s.",
+        "img": "Charlotte/const_3"
+      },
+      {
+        "name": "A Principle of Conscience",
+        "desc": "Increases the Level of **Framing: Freezing Point Composition** by 3.\nMaximum upgrade level is 15.",
+        "img": "Charlotte/const_4"
+      },
+      {
+        "name": "A Summation of Interest",
+        "desc": "When the active character's Normal and Charged Attacks hit an opponent marked by **Framing: Freezing Point Composition**'s Focused Impression, Monsieur Verite will initiate a coordinated attack that deals 180% of Charlotte's ATK as **AoE Cryo DMG** and heals active character(s) within the AoE for 42% of Charlotte's ATK. This effect can be triggered once every 6s and both DMG and healing dealt in this way will be considered as having been done by Charlotte's Elemental Burst.",
+        "img": "Charlotte/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 674.343
+        },
+        {
+          "stat": "Base DEF",
+          "value": 34.2
+        },
+        {
+          "stat": "Base ATK",
+          "value": 10.842597
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1153.4814453125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 58.5
+        },
+        {
+          "stat": "Base ATK",
+          "value": 18.546546936035156
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1792.3328
+        },
+        {
+          "stat": "Base DEF",
+          "value": 90.9
+        },
+        {
+          "stat": "Base ATK",
+          "value": 28.8184814453125
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2271.47119140625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 115.2
+        },
+        {
+          "stat": "Base ATK",
+          "value": 36.52243
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2750.609619140625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 139.5
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.226383209228516
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3229.748
+        },
+        {
+          "stat": "Base DEF",
+          "value": 163.8
+        },
+        {
+          "stat": "Base ATK",
+          "value": 51.93033218383789
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

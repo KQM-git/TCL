@@ -66,6 +66,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 </Weapon>
 
+### Splendor of Tranquil Waters
+
+<Weapon weapon="Splendor of Tranquil Waters" weapons={swords} />
+
 ### Summit Shaper
 
 <Weapon weapon="Summit Shaper" weapons={swords}>
@@ -179,6 +183,10 @@ import SacSeries from './\_common/sac_series.md';
 ### Sword of Descension
 
 <Weapon weapon="Sword of Descension" weapons={swords} />
+
+### Sword of Narzissenkreuz
+
+<Weapon weapon="Sword of Narzissenkreuz" weapons={swords} />
 
 ### The Alley Flash
 

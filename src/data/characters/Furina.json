@@ -1,0 +1,576 @@
+{
+  "name": "Furina",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1191.65,
+    "attackBase": 18.9924,
+    "defenseBase": 54.14615,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Soloist's Solicitation",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or Singer of Many Waters summoned by her Elemental Skill \"Salon Solitaire\" are present, their lineup will switch in response.\n\n**Arkhe: Seats Sacred and Secular**\nAt intervals, when Furina's Normal Attacks hit, a Spiritbreath Thorn or a Surging Blade will descend based on her current alignment, dealing **Hydro DMG** based on her current alignment.\nWhen Furina takes the field, her starting Arkhe will be Ousia.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "48.4%",
+              "52.3%",
+              "56.3%",
+              "61.9%",
+              "65.8%",
+              "70.3%",
+              "76.5%",
+              "82.7%",
+              "88.9%",
+              "95.6%",
+              "102.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "43.7%",
+              "47.3%",
+              "50.8%",
+              "55.9%",
+              "59.5%",
+              "63.6%",
+              "69.2%",
+              "74.7%",
+              "80.3%",
+              "86.4%",
+              "92.5%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "55.1%",
+              "59.6%",
+              "64.1%",
+              "70.5%",
+              "75.0%",
+              "80.1%",
+              "87.2%",
+              "94.2%",
+              "101.3%",
+              "109.0%",
+              "116.6%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "73.3%",
+              "79.3%",
+              "85.2%",
+              "93.8%",
+              "99.7%",
+              "106.5%",
+              "115.9%",
+              "125.3%",
+              "134.7%",
+              "144.9%",
+              "155.1%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "74.2%",
+              "80.3%",
+              "86.3%",
+              "94.9%",
+              "101.0%",
+              "107.9%",
+              "117.4%",
+              "126.9%",
+              "136.4%",
+              "146.7%",
+              "157.1%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          },
+          {
+            "name": "Spiritbreath Thorn/Surging Blade DMG",
+            "values": [
+              "9.5%",
+              "10.2%",
+              "11.0%",
+              "12.1%",
+              "12.9%",
+              "13.8%",
+              "15.0%",
+              "16.2%",
+              "17.4%",
+              "18.7%",
+              "20.0%"
+            ]
+          },
+          {
+            "name": "Spiritbreath Thorn/Surging Blade DMG Interval",
+            "value": "6s/6s"
+          }
+        ]
+      },
+      {
+        "name": "Salon Solitaire",
+        "desc": "Invites the guests of the Salon Solitaire to come forth and abet in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current **Arkhe alignment**.\n\n**Ousia**\nFoaming bubbles like celebrants shall dance, dealing **AoE Hydro DMG** based on Furina's Max HP and summoning 3 Salon Members: the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin, and the Armored Crab-shaped Mademoiselle Crabaletta.\nThey will attack nearby opponents at intervals, prioritizing the target of the active character, dealing **Hydro** DMG based on Max HP.\nWhen they attack, if character(s) with more than 50% HP are nearby, the Members will increase their current attack's power based on the number of such characters, and consume said characters' HP. If the characters who meet these requirements are 1/2/3/4 (or more), the Members' attacks will deal 110%/120%/130%/140% of their original DMG.\n\n**Pneuma**\nSummons the Singer of Many Waters, who will heal nearby active character(s) based on Max HP at intervals.\n\nThe Salon Members and Singer of Many Waters share a duration, and when Furina uses her Charged Attack to change the guest type, the new guests will inherit the initial duration.\nWhile the Salon Members and the Singer of Many Waters are on the field, Furina can move on the water's surface.\n\n**A fixed roster of regulars frequent Furina's Salon Solitaire. At other times, Mademoiselle Crabaletta, Surintendante Chevalmarin, and Gentilhomme Usher shall visit, and on gloomy Wednesdays, it is the singer who comes by.**",
+        "img": "Furina/skill_1",
+        "talentTable": [
+          {
+            "name": "Ousia Bubble DMG",
+            "values": [
+              "7.9% Max HP",
+              "8.5% Max HP",
+              "9.0% Max HP",
+              "9.8% Max HP",
+              "10.4% Max HP",
+              "11.0% Max HP",
+              "11.8% Max HP",
+              "12.6% Max HP",
+              "13.4% Max HP",
+              "14.2% Max HP",
+              "14.9% Max HP",
+              "15.7% Max HP",
+              "16.7% Max HP"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "30.0s"
+          },
+          {
+            "name": "Gentilhomme Usher DMG",
+            "values": [
+              "5.96% Max HP",
+              "6.41% Max HP",
+              "6.85% Max HP",
+              "7.45% Max HP",
+              "7.90% Max HP",
+              "8.34% Max HP",
+              "8.94% Max HP",
+              "9.54% Max HP",
+              "10.13% Max HP",
+              "10.73% Max HP",
+              "11.32% Max HP",
+              "11.92% Max HP",
+              "12.67% Max HP"
+            ]
+          },
+          {
+            "name": "Surintendante Chevalmarin DMG",
+            "values": [
+              "3.23% Max HP",
+              "3.47% Max HP",
+              "3.72% Max HP",
+              "4.04% Max HP",
+              "4.28% Max HP",
+              "4.52% Max HP",
+              "4.85% Max HP",
+              "5.17% Max HP",
+              "5.49% Max HP",
+              "5.82% Max HP",
+              "6.14% Max HP",
+              "6.46% Max HP",
+              "6.87% Max HP"
+            ]
+          },
+          {
+            "name": "Mademoiselle Crabaletta DMG",
+            "values": [
+              "8.29% Max HP",
+              "8.91% Max HP",
+              "9.53% Max HP",
+              "10.36% Max HP",
+              "10.98% Max HP",
+              "11.60% Max HP",
+              "12.43% Max HP",
+              "13.26% Max HP",
+              "14.09% Max HP",
+              "14.92% Max HP",
+              "15.75% Max HP",
+              "16.58% Max HP",
+              "17.61% Max HP"
+            ]
+          },
+          {
+            "name": "Gentilhomme Usher HP Consumption",
+            "value": "2.4% Max HP"
+          },
+          {
+            "name": "Surintendante Chevalmarin HP Consumption",
+            "value": "1.6% Max HP"
+          },
+          {
+            "name": "Mademoiselle Crabaletta HP Consumption",
+            "value": "3.6% Max HP"
+          },
+          {
+            "name": "Singer of Many Waters Healing",
+            "values": [
+              "4.80% Max HP+462",
+              "5.16% Max HP+508",
+              "5.52% Max HP+559",
+              "6.00% Max HP+612",
+              "6.36% Max HP+670",
+              "6.72% Max HP+732",
+              "7.20% Max HP+797",
+              "7.68% Max HP+867",
+              "8.16% Max HP+940",
+              "8.64% Max HP+1017",
+              "9.12% Max HP+1098",
+              "9.60% Max HP+1183",
+              "10.20% Max HP+1271"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Let the People Rejoice",
+      "desc": "Rouses the impulse to revel, creating a stage of foam that will deal **AoE Hydro DMG** based on Furina's Max HP and cause nearby party members to enter the Universal Revelry state: During this time, when nearby party members' HP increases or decreases, 1 Fanfare point will be granted to Furina for each percentage point of their Max HP by which their HP changes.\nAt the same time, Furina will increase the DMG dealt by and Incoming Healing Bonus of all nearby party members based on the amount of Fanfare she has.\nWhen the duration ends, Furina's Fanfare points will be cleared.\n\n**\"Cheer! Give praise! Be awed! Raise your glasses! Every night bereft of banqueting is a sordid squandering of sore, sober daylight... And, uh, those who are not yet of age may have grape juice instead!\"**",
+      "img": "Furina/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "11.4% Max HP",
+            "12.3% Max HP",
+            "13.1% Max HP",
+            "14.3% Max HP",
+            "15.1% Max HP",
+            "16.0% Max HP",
+            "17.1% Max HP",
+            "18.3% Max HP",
+            "19.4% Max HP",
+            "20.5% Max HP",
+            "21.7% Max HP",
+            "22.8% Max HP",
+            "24.2% Max HP"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "18.0s"
+        },
+        {
+          "name": "Maximum Fanfare",
+          "value": "300"
+        },
+        {
+          "name": "Fanfare to DMG Increase Conversion Ratio",
+          "values": [
+            "0.07%",
+            "0.09%",
+            "0.11%",
+            "0.13%",
+            "0.15%",
+            "0.17%",
+            "0.19%",
+            "0.21%",
+            "0.23%",
+            "0.25%",
+            "0.27%",
+            "0.29%",
+            "0.31%"
+          ]
+        },
+        {
+          "name": "Fanfare to Incoming Healing Bonus Conversion Ratio",
+          "values": [
+            "0.01%",
+            "0.02%",
+            "0.03%",
+            "0.04%",
+            "0.05%",
+            "0.06%",
+            "0.07%",
+            "0.08%",
+            "0.09%",
+            "0.10%",
+            "0.11%",
+            "0.12%",
+            "0.13%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "Endless Waltz",
+        "desc": "When the active character in your party receives healing, if the source of the healing is not Furina herself and the healing overflows, then Furina will heal a nearby party member for 2% of their Max HP once every 2s within the next 4s.",
+        "img": "Furina/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Unheard Confession",
+        "desc": "Every 1,000 points of Furina's Max HP can buff the different Arkhe-aligned **Salon Solitaire** in the following ways:\nWill increase Salon Member DMG dealt by 0.7%, up to a maximum of 28%.\nWill decrease active character healing interval of the Singer of Many Waters by 0.4%, up to a maximum of 16%.",
+        "img": "Furina/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "The Sea Is My Stage",
+        "desc": "Xenochromatic Fontemer Aberrant ability CD decreased by 30%.",
+        "img": "Furina/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "\"Love Is a Rebellious Bird That None Can Tame\"",
+        "desc": "When using **Let the People Rejoice**, Furina will gain 150 Fanfare.\nAdditionally, Furina's Fanfare limit is increased by 100.",
+        "img": "Furina/const_0"
+      },
+      {
+        "name": "\"A Woman Adapts Like Duckweed in Water\"",
+        "desc": "While **Let the People Rejoice** lasts, Furina's Fanfare gain from increases or decreases in nearby characters' HP is increased by 250%. Each point of Fanfare above the limit will increase Furina's Max HP by 0.35%. Her maximum Max HP increase is 140%.",
+        "img": "Furina/const_1"
+      },
+      {
+        "name": "\"My Secret Is Hidden Within Me, No One Will Know My Name\"",
+        "desc": "Increases the Level of **Let the People Rejoice** by 3.\nMaximum upgrade level is 15.",
+        "img": "Furina/const_2"
+      },
+      {
+        "name": "\"They Know Not Life, Who Dwelt in the Netherworld Not!\"",
+        "desc": "When the Salon Members from **Salon Solitaire** hit an opponent, or the Singer of Many Waters restores HP to the active character, Furina will restore 4 Energy. This effect triggers once every 5s.",
+        "img": "Furina/const_3"
+      },
+      {
+        "name": "\"His Name I Now Know, It Is...!\"",
+        "desc": "Increases the Level of **Salon Solitaire** by 3.\nMaximum upgrade level is 15.",
+        "img": "Furina/const_4"
+      },
+      {
+        "name": "\"Hear Me — Let Us Raise the Chalice of Love!\"",
+        "desc": "When using **Salon Solitaire**, Furina gains \"Center of Attention\" for 10s.\nThroughout the duration, Furina's Normal Attacks, Charged Attacks, and Plunging Attacks are converted into **Hydro DMG** which cannot be overridden by any other elemental infusion. DMG is also increased by an amount equivalent to 18% of Furina's max HP.\nThroughout the duration, Furina's Normal Attacks (not including Arkhe: Seats Sacred and Secular Attacks), Charged Attacks, and the impact of Plunging Attacks will cause different effects up to every 0.1s after hitting opponents depending on her current Arkhe alignment:\n\nArkhe: Ousia\nEvery 1s, all nearby characters in the party will be healed by 4% of Furina's max HP, for a duration of 2.9s. Triggering this effect again will extend its duration.\nArkhe: Pneuma\nThis Normal Attack (not including Arkhe: Seats Sacred and Secular Attacks), Charged Attack, or Plunging Attack ground impact DMG will be further increased by an amount equivalent to 25% of Furina's max HP. When any of the attacks mentioned previously hit an opponent, all nearby characters in the party will consume 1% of their current HP.\n\nDuring the duration of each instance of \"Center of Attention,\" the above effects can be triggered up to 6 times. \"Center of Attention\" will end when its effects have triggered 6 times or when the duration expires.",
+        "img": "Furina/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1021.7321
+        },
+        {
+          "stat": "Base DEF",
+          "value": 46.4265
+        },
+        {
+          "stat": "Base ATK",
+          "value": 16.2830753326416
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1747.6997
+        },
+        {
+          "stat": "Base DEF",
+          "value": 79.41375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 27.85263
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2715.656494140625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 123.39675
+        },
+        {
+          "stat": "Base ATK",
+          "value": 43.2787
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3441.624
+        },
+        {
+          "stat": "Base DEF",
+          "value": 156.384
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.8482551574707
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4167.592
+        },
+        {
+          "stat": "Base DEF",
+          "value": 189.37124633789062
+        },
+        {
+          "stat": "Base ATK",
+          "value": 66.41781
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4893.559
+        },
+        {
+          "stat": "Base DEF",
+          "value": 222.3585
+        },
+        {
+          "stat": "Base ATK",
+          "value": 77.98736572265625
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.192
+        }
+      ]
+    }
+  ]
+}
