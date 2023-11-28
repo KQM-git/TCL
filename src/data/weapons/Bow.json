@@ -994,7 +994,7 @@
     ],
     "refinements": {
       "name": "Radiance of the Deeps",
-      "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **6%/10%/14%**/**7.5%/12.5%/17.5%**/**9%/15%/21%**/**10.5%/17.5%/24.5%**/**12%/20%/28%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
+      "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **6%/10%/14%** / **7.5%/12.5%/17.5%** / **9%/15%/21%** / **10.5%/17.5%/24.5%** / **12%/20%/28%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
     }
   },
   "Favonius Warbow": {
@@ -2930,7 +2930,7 @@
     ],
     "refinements": {
       "name": "Daylight's Augury",
-      "desc": "Elemental Skill and Elemental Burst DMG increased by **12%**/**15%**/**18%**/**21%**/**24%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **10/20/30/48%**/**12.5/25/37.5/60%**/**15/30/45/72%**/**17.5/35/52.5/84%**/**20/40/60/96%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
+      "desc": "Elemental Skill and Elemental Burst DMG increased by **12%**/**15%**/**18%**/**21%**/**24%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **10/20/30/48%** / **12.5/25/37.5/60%** / **15/30/45/72%** / **17.5/35/52.5/84%** / **20/40/60/96%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
     }
   },
   "Skyward Harp": {
@@ -3106,7 +3106,7 @@
     ],
     "refinements": {
       "name": "Parsifal the Great",
-      "desc": "DMG dealt by Charged Attacks increased by **16%**/**20%**/**24%**/**28%**/**32%**. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by **16%/32%/48%**/**20%/40%/60%**/**24%/48%/72%**/**28%/56%/84%**/**32%/64%/96%**. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by **4%/7%/10%**/**6%/9%/12%**/**8%/11%/14%**/**10%/13%/16%**/**12%/15%/18%**."
+      "desc": "DMG dealt by Charged Attacks increased by **16%**/**20%**/**24%**/**28%**/**32%**. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by **16%/32%/48%** / **20%/40%/60%** / **24%/48%/72%** / **28%/56%/84%** / **32%/64%/96%**. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by **4%/7%/10%** / **6%/9%/12%** / **8%/11%/14%** / **10%/13%/16%** / **12%/15%/18%**."
     }
   },
   "Thundering Pulse": {
@@ -3194,7 +3194,7 @@
     ],
     "refinements": {
       "name": "Rule by Thunder",
-      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **12/24/40%**/**15/30/50%**/**18/36/60%**/**21/42/70%**/**24/48/80%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **12/24/40%** / **15/30/50%** / **18/36/60%** / **21/42/70%** / **24/48/80%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
     }
   }
 }
