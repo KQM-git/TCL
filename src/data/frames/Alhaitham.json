@@ -98,7 +98,7 @@
     }],
   "Burst": {
       "name": "Cast",
-      "hitmark": [31, 40, 50],
+      "hitmark": [94, 116, 137, 158],
       "n1": 88,
       "skill": 89,
       "walk": 89,
