@@ -267,7 +267,9 @@ I also want to object to the idea that purchasing 360 RC of Mora to buy out the 
 
 Technically, it is true that, by following this method, it is more efficient to buy out the 2-star artifacts each week with Mora than to buy one tincture. There is a theoretical budget where someone buys all but one large tincture, and purchases Mora 3 times in order to buy out the artifact vendors. I object because there are alternate methods of obtaining Mora that would be more efficient and does not require the purchase of Mora with RC. Utilizing mob kills, daily random events, or even leylines to obtain the mora necessary instead would allow for the purchase of an extra Large Tincture. And if it is worthwhile to buy out the vendors instead of 1 Tincture, I argue it is more worthwhile to buy out the vendors, as well as the tincture. There is only a budget of 5040 Coins per week at the highest level, and so it is not possible to buy Transient Resin, Tinctures, and the 30,000 Mora necessary solely with coins. Therefore, I suggest the artifacts should be bought with Mora from a different source. Though with smaller budgets it certainly could be suggested that the 30,000 mora be purchased instead.
 
-## Crafting Refund vs Increase Passives
+## Crafting
+
+### Crafting Refund vs Increase Passives
 
 **By:** jdeeyu\#9927  
 **Added:** <Version date="2021-05-22" />  
@@ -285,6 +287,30 @@ Technically, it is true that, by following this method, it is more efficient to 
 
 **Significance:**  
 Buy the BP if you have the money.
+
+### Crafting Refund Vs Increase Passives At 3n+1 Items
+
+**By:** @veggie0581, @.whalien  
+**Added:** <Version date="2023-11-20" />  
+**Last tested:** <VersionHl date="2023-10-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/crafting-refund-vs-increase-at-3n1)
+
+**Finding:**  
+When you have 3n+2 of a material it is worth using the "25% chance to refund" passive (e.g. that of Xingqiu) repeatedly till you get to a multiple of 3. When you have 3n or 3n+1, you should craft only using the "10% chance to double the product" passive (e.g. that of Layla). In the rare case that you do not plan to craft any more of this product, and you have 3n+1, then you might consider craft using the "25% chance to refund" passive repeatedly till you get to a multiple of 3.
+
+**Evidence:**  
+[GitHub](https://gist.github.com/Whalien3520/3c1a2abc2125a3193a863603a9127455) and [Imgur](https://imgur.com/a/e7YlqxD). 
+
+* Image shows the (difference of (expected value of only using 10% passive) minus (expected value of using 25% chance till 3n)) at different values of starting materials. The difference (y-axis) is in terms of equivalent starting/lower-tier materials.
+  * Rows represent how much of the low-tier material exists before crafting, categorized into 3n, 3n+1, and 3n+2.
+  * Columns represent how the product is considered, with left counting any remaining +1 or +2 product as 1.1x, and right not counting remaining product in any way, only considering the higher tier product.
+
+* The left column is useful when crafting is expected to continue into infinity, and transition to using the 10% strategy at some point, but realistically it is useful anytime when players expected to craft more in the future. As seen from the graphs, always using "10% double" is better (difference is positive).
+
+* The right column is useful when crafting is expected to stop. As seen from the graphs, using "25% refund" till a multiple of 3 is reached is better for most values.
+
+**Significance:**  
+Optimize crafting output and resin efficiency, prove known strategies with math.
 
 ## Overworld
 
