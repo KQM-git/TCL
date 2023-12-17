@@ -104,6 +104,7 @@ import Skill from '@site/src/components/char/Skill'
 * If his Skill finds a target, the 2nd and 3rd hits may not cause an enemy to become aggro'd.
 * Skill can target the same enemy more than once but always prioritizes a new enemy if it can.
 * Skill range is approximately 8 abyss tiles, with the homing range being half that for ~12 total before it fails to find a target.
+* Baizhu skill has no particle generation ICD even with C1 and **Sacrificial Fragments**.
 
 </TabItem>
 
@@ -175,7 +176,9 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Most interactions from the on field character to enemies will trigger Baizhu's C2, whether they do damage or not. There is no condition required (e.g., burst is active). The only exception found was Zhongli's shield shred.
+* Hits from the on field character to enemies will trigger Baizhu's C2, whether they do damage or not. There is no condition required (e.g., burst is active). 
+* Baizhu C2 has no ICD and applies 1U Dendro.
+
 
 </TabItem>
 
