@@ -1,0 +1,114 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 17,
+        "hitlag": 0,
+        "next_na": 22,
+        "ca": 22,
+        "walk": 32
+    }, 
+    {
+        "name": "N2",
+        "release": 12,
+        "hitlag": 0,
+        "next_na": 24,
+        "ca": 34,
+        "walk": 31
+    },
+    {
+        "name": "N3",
+        "release": [20, 29],
+        "hitlag": 0,
+        "next_na": 39,
+        "ca": 81,
+        "walk": 86
+    },
+    {
+        "name": "N4",
+        "release": 29,
+        "hitlag": 0,
+        "next_na": 59,
+        "walk": 66 
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "n1": 24,
+        "skill": 24,
+        "burst": 24,
+        "swap": 24
+    },
+    {
+        "name": "CA Lv. 1",
+        "release": 72,
+        "hitlag": 0,
+        "n1": 80,
+        "skill": 80,
+        "burst": 80,
+        "swap": 80
+    },
+    {
+        "name": "CA Lv. 2 (Prop Arrow, Spiritbreath Thorn, Pyrotechnic Strike)",
+        "release": [103, 145, 274],
+        "hitlag": 0,
+        "n1": 111,
+        "skill": 111,
+        "burst": 111,
+        "swap": 111,
+        "notes": [
+            "Hitlag is 0.12s if it hits a weakspot", 
+            "Grin-Malkin Hat Duration: 238f"
+        ]
+    }],
+    "Skill": [{
+        "name": "E (Hitmark, Grin-Malkin Hat Hitmark)",
+        "hitmark": [18, 32],
+        "n1": 42,
+        "ca": 42,
+        "skill": 42,
+        "burst": 42,
+        "walk": 42,
+        "dash": 43,
+        "jump": 42,
+        "swap": 41,
+        "cd": 15
+    },
+    {
+        "name": "E (in Q)",
+        "n1": 14,
+        "ca": 14,
+        "skill": 14,
+        "walk": 39,
+        "dash": 8,
+        "jump": 7,
+        "swap": 29
+    }],
+    "Burst": {
+        "name": "Cast (1st Tick)",
+        "hitmark": 112,
+        "n1": 297,
+        "ca": 297,
+        "skill": 101,
+        "walk": 321,
+        "dash": 287,
+        "jump": 285,
+        "swap": 284,
+        "cd": 0,
+        "energy": 8,
+        "notes": [
+            "Q Start: 100f",
+            "Q Duration: 182f",
+            "Grin-Malkin Hat Duration: 245f"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}
+ 
