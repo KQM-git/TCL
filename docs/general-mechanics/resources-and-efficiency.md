@@ -26,6 +26,10 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 
 Eula and albedo's passive has a 10% chance to give more materials while Xingqiu and Mona has a 25% chance to refund a part of the materials used. By simulating a very large number of crafts we found that Eula/Albedo's passive is actually 10% better than than Xingqiu/Mona. If you take into account the initial talent books for the comparison then the difference is a whopping 1%.
 
+### Crafting Refund Vs Increase Passives At 3n+1 Items
+
+When you have 3n+2 of a material it is worth using the "25% chance to refund" passive (e.g. that of Xingqiu) repeatedly till you get to a multiple of 3. When you have 3n or 3n+1, you should craft only using the "10% chance to double the product" passive (e.g. that of Layla). In the rare case that you do not plan to craft any more of this product, and you have 3n+1, then you might consider craft using the "25% chance to refund" passive repeatedly till you get to a multiple of 3.
+
 ### Realm Currency Exchange Rate
 
 #### Initial Analysis by Mateng\#4507
