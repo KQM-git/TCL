@@ -1,0 +1,492 @@
+{
+  "name": "Navia",
+  "star": 5,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 984.779541015625,
+    "attackBase": 27.3714,
+    "defenseBase": 61.74456,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Blunt Refusal",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Claymore",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "93.5%",
+              "101.1%",
+              "108.7%",
+              "119.6%",
+              "127.2%",
+              "135.9%",
+              "147.9%",
+              "159.9%",
+              "171.8%",
+              "184.9%",
+              "197.9%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "86.5%",
+              "93.5%",
+              "100.6%",
+              "110.6%",
+              "117.7%",
+              "125.7%",
+              "136.8%",
+              "147.9%",
+              "158.9%",
+              "171.0%",
+              "183.1%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "34.9%×3",
+              "37.7%×3",
+              "40.6%×3",
+              "44.6%×3",
+              "47.5%×3",
+              "50.7%×3",
+              "55.2%×3",
+              "59.6%×3",
+              "64.1%×3",
+              "69.0%×3",
+              "73.8%×3"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "133.4%",
+              "144.3%",
+              "155.2%",
+              "170.7%",
+              "181.5%",
+              "193.9%",
+              "211.0%",
+              "228.1%",
+              "245.1%",
+              "263.8%",
+              "282.4%"
+            ]
+          },
+          {
+            "name": "Charged Attack Cyclic DMG",
+            "values": [
+              "62.5%",
+              "67.6%",
+              "72.7%",
+              "80.0%",
+              "85.1%",
+              "90.9%",
+              "98.9%",
+              "106.9%",
+              "114.9%",
+              "123.6%",
+              "132.3%"
+            ]
+          },
+          {
+            "name": "Charged Attack Final DMG",
+            "values": [
+              "113%",
+              "122%",
+              "132%",
+              "145%",
+              "154%",
+              "164%",
+              "179%",
+              "193%",
+              "208%",
+              "224%",
+              "239%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "40.0/s"
+          },
+          {
+            "name": "Max Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "74.6%",
+              "80.7%",
+              "86.7%",
+              "95.4%",
+              "101.5%",
+              "108.4%",
+              "118.0%",
+              "127.5%",
+              "137.0%",
+              "147.4%",
+              "157.8%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "149%/186%",
+              "161%/201%",
+              "173%/217%",
+              "191%/238%",
+              "203%/253%",
+              "217%/271%",
+              "236%/295%",
+              "255%/318%",
+              "274%/342%",
+              "295%/368%",
+              "316%/394%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ceremonial Crystalshot",
+        "desc": "When a character in the party obtains an Elemental Shard created from the Crystallize reaction, Navia will gain 1 Crystal Shrapnel stack. Navia can have up to 6 stacks of Crystal Shrapnel at once. Each time Crystal Shrapnel gain is triggered, the duration of the Crystal Shrapnel stacks you already have will be reset.\nWhen she fires, Navia will consume all Crystal Shrapnel stacks and open her elegant yet lethal Gunbrella, firing multiple Rosula Shardshots that can penetrate opponents, dealing **Geo DMG** to opponents hit.\nWhen 0/1/2/3 or more stacks of Crystal Shrapnel are consumed, 5/7/9/11 Rosula Shardshots will be fired respectively. The more Rosula Shardshots that strike a single opponent, the greater the DMG dealt to them. When all 11 Rosula Shardshots strike, 200% of the original amount of DMG is dealt.\nIn addition, when more than 3 stacks of Crystal Shrapnel are consumed, every stack consumed beyond those 3 will increase the DMG dealt by this Gunbrella attack by an additional 15%.\n\n**Hold**\nEnter Aiming Mode, continually collecting nearby Elemental Shards created by Crystallize reactions. When released, fire Rosula Shardshots with the same effect as when the skill is Tapped.\n\nTwo initial charges.\n\n**Arkhe: Ousia**\nPeriodically, when Navia fires her Gunbrella, a Surging Blade will be summoned, dealing Ousia-aligned **Geo DMG**.\n\n**\"Maintaining the appropriate distance with those whom distance should be maintained is an essential part of etiquette. Naturally, there are also many ways to do this...\"**",
+        "img": "Navia/skill_1",
+        "talentTable": [
+          {
+            "name": "Rosula Shardshot Base DMG",
+            "values": [
+              "394.8%",
+              "424.4%",
+              "454.0%",
+              "493.5%",
+              "523.1%",
+              "552.7%",
+              "592.2%",
+              "631.7%",
+              "671.2%",
+              "710.6%",
+              "750.1%",
+              "789.6%",
+              "838.9%"
+            ]
+          },
+          {
+            "name": "Crystal Shrapnel Duration",
+            "value": "300.0s"
+          },
+          {
+            "name": "Surging Blade DMG",
+            "values": [
+              "36.0%",
+              "38.7%",
+              "41.4%",
+              "45.0%",
+              "47.7%",
+              "50.4%",
+              "54.0%",
+              "57.6%",
+              "61.2%",
+              "64.8%",
+              "68.4%",
+              "72.0%",
+              "76.5%"
+            ]
+          },
+          {
+            "name": "Surging Blade Interval",
+            "value": "7.0s"
+          },
+          {
+            "name": "CD",
+            "value": "9.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "As the Sunlit Sky's Singing Salute",
+      "desc": "On the orders of the President of the Spina di Rosula, call for a magnificent Rosula Dorata Salute. Unleashes a massive cannon bombardment on opponents in front of her, dealing **AoE Geo DMG** and providing Cannon Fire Support for a duration afterward, periodically dealing **Geo DMG** to nearby opponents.\nWhen cannon attacks hit opponents, Navia will gain 1 stack of Crystal Shrapnel. This effect can be triggered up to once every 2.4s.\n\n**\"The Spina di Rosula's salute is a preemptive celebration of the successful conclusion of our negotiations and is fired just before talks begin. Don't misunderstand, it isn't in any way, shape, or form some kind of threat.\"**",
+      "img": "Navia/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "75.2%",
+            "80.8%",
+            "86.5%",
+            "94.0%",
+            "99.6%",
+            "105.3%",
+            "112.8%",
+            "120.3%",
+            "127.8%",
+            "135.4%",
+            "142.9%",
+            "150.4%",
+            "159.8%"
+          ]
+        },
+        {
+          "name": "Cannon Fire Support DMG",
+          "values": [
+            "43.1%",
+            "46.4%",
+            "49.6%",
+            "53.9%",
+            "57.2%",
+            "60.4%",
+            "64.7%",
+            "69.0%",
+            "73.4%",
+            "77.7%",
+            "82.0%",
+            "86.3%",
+            "91.7%"
+          ]
+        },
+        {
+          "name": "Cannon Fire Support Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Geo"
+    },
+    "passive": [
+      {
+        "name": "Undisclosed Distribution Channels",
+        "desc": "For 4s after using **Ceremonial Crystalshot**, the DMG dealt by Navia's Normal Attacks, Charged Attacks, and Plunging Attacks will be converted into **Geo DMG** which cannot be overridden by other Elemental infusions, and the DMG dealt by Navia's Normal Attacks, Charged Attacks, and Plunging Attacks will be increased by 40%.",
+        "img": "Navia/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Mutual Assistance Network",
+        "desc": "For each **Pyro**/**Electro**/**Cryo**/**Hydro** party member, Navia gains 20% increased ATK. This effect can stack up to 2 times.",
+        "img": "Navia/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Painstaking Transaction",
+        "desc": "Gains 25% more rewards when dispatched on a Fontaine Expedition for 20 hours.",
+        "img": "Navia/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "A Lady's Rules for Keeping a Courteous Distance",
+        "desc": "Each stack of Crystal Shrapnel consumed when Navia uses **Ceremonial Crystalshot** will restore 3 Energy to her and decrease the CD of **As the Sunlit Sky's Singing Salute** by 1s. Up to 9 Energy can be gained this way, and the CD of \"As the Sunlit Sky's Singing Salute\" can be decreased by up to 3s.",
+        "img": "Navia/const_0"
+      },
+      {
+        "name": "The President's Pursuit of Victory",
+        "desc": "Each stack of Crystal Shrapnel consumed will increase the CRIT Rate of this **Ceremonial Crystalshot** instance by 12%. CRIT Rate can be increased by up to 36% in this way.\nIn addition, when Ceremonial Crystalshot hits an opponent, one Cannon Fire Support shot from **As the Sunlit Sky's Singing Salute** will strike near the location of the hit. Up to one instance of Cannon Fire Support can be triggered each time Ceremonial Crystalshot is used, and DMG dealt by said Cannon Fire Support this way is considered Elemental Burst DMG.",
+        "img": "Navia/const_1"
+      },
+      {
+        "name": "Businesswoman's Broad Vision",
+        "desc": "Increases the Level of **Ceremonial Crystalshot** by 3.\nMaximum upgrade level is 15.",
+        "img": "Navia/const_2"
+      },
+      {
+        "name": "The Oathsworn Never Capitulate",
+        "desc": "When **As the Sunlit Sky's Singing Salute** hits an opponent, that opponent's **Geo RES** will be decreased by 20% for 8s.",
+        "img": "Navia/const_3"
+      },
+      {
+        "name": "Negotiator's Resolute Negotiations",
+        "desc": "Increases the Level of **As the Sunlit Sky's Singing Salute** by 3.\nMaximum upgrade level is 15.",
+        "img": "Navia/const_4"
+      },
+      {
+        "name": "The Flexible Finesse of the Spina's President",
+        "desc": "If more than 3 stacks of Crystal Shrapnel are consumed when using **Ceremonial Crystalshot**, each stack consumed beyond the first 3 increases the CRIT DMG of that Ceremonial Crystalshot by 45%, and any stacks consumed beyond the first 3 are returned to Navia.",
+        "img": "Navia/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 844.3594360351562
+        },
+        {
+          "stat": "Base DEF",
+          "value": 52.9416
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.466785430908203
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1444.2991
+        },
+        {
+          "stat": "Base DEF",
+          "value": 90.558
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.14055633544922
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2244.218505859375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 140.7132
+        },
+        {
+          "stat": "Base ATK",
+          "value": 62.37224578857422
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2844.158
+        },
+        {
+          "stat": "Base DEF",
+          "value": 178.3296
+        },
+        {
+          "stat": "Base ATK",
+          "value": 79.04601
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3444.09765625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 215.946
+        },
+        {
+          "stat": "Base ATK",
+          "value": 95.71979
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4044.037353515625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 253.5624
+        },
+        {
+          "stat": "Base ATK",
+          "value": 112.3935546875
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}

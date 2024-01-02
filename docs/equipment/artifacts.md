@@ -165,6 +165,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Marechaussee Hunter" />
 
+### Nighttime Whispers in the Echoing Woods
+
+<Artifact artifact="Nighttime Whispers in the Echoing Woods" />
+
 ### Noblesse Oblige
 
 <Artifact artifact="Noblesse Oblige">
@@ -230,6 +234,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
 
 </Artifact>
+
+### Song of Days Past
+
+<Artifact artifact="Song of Days Past" />
 
 ### Tenacity of the Millelith
 

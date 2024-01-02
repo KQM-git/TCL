@@ -44,6 +44,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 </Weapon>
 
+### Verdict
+
+<Weapon weapon="Verdict" weapons={claymores} />
+
 ### Wolf's Gravestone
 
 <Weapon weapon="Wolf's Gravestone" weapons={claymores}>
@@ -189,6 +193,10 @@ import SacSeries from './\_common/sac_series.md';
 ### Tidal Shadow
 
 <Weapon weapon="Tidal Shadow" weapons={claymores} />
+
+### "Ultimate Overlord's Mega Magic Sword"
+
+<Weapon weapon="Ultimate Overlord's Mega Magic Sword" weapons={claymores} />
 
 ### Whiteblind
 

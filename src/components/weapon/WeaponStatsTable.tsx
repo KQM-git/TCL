@@ -8,7 +8,7 @@ import { getWeaponStatsAt } from '@site/src/utils/stats/weaponstats'
 import StatsTable from '../common/StatsTable'
 
 export default function WeaponStatsTable({ weapon, weapons }: { weapon: string, weapons: Record<string, Weapon> }) {
-  const w = weapons[weapon]
+  const w = weapons[weapon] ?? Object.entries(weapons).find(([name]) => name.replace(/'|"/g, "") === weapon.replace(/'|"/g, ""))?.[1]
 
   if (!w)
     return <Admonition type="danger">

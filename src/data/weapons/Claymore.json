@@ -2229,6 +2229,94 @@
       "desc": "After the wielder is healed, ATK will be increased by **24%**/**30%**/**36%**/**42%**/**48%** for 8s. This can be triggered even when the character is not on the field."
     }
   },
+  "\"Ultimate Overlord's Mega Magic Sword\"": {
+    "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+    "weaponType": "Claymore",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.066667,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Melussistance!",
+      "desc": "ATK increased by **12%**/**15%**/**18%**/**21%**/**24%**. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional **12%**/**15%**/**18%**/**21%**/**24%**."
+    }
+  },
   "Whiteblind": {
     "name": "Whiteblind",
     "weaponType": "Claymore",
@@ -2755,6 +2843,94 @@
     "refinements": {
       "name": "Golden Majesty",
       "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+    }
+  },
+  "Verdict": {
+    "name": "Verdict",
+    "weaponType": "Claymore",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 47.537,
+        "curve": "ATK 3.2"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.048,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Many Oaths of Dawn and Dusk",
+      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by **18%**/**22.5%**/**27%**/**31.5%**/**36%**. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
     }
   },
   "Wolf's Gravestone": {
