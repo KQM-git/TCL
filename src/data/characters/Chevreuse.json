@@ -1,0 +1,522 @@
+{
+  "name": "Chevreuse",
+  "star": 4,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 1002.9701,
+    "attackBase": 16.20528,
+    "defenseBase": 50.70135,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Line Bayonet Thrust EX",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "53.1%",
+              "57.5%",
+              "61.8%",
+              "68.0%",
+              "72.3%",
+              "77.2%",
+              "84.0%",
+              "90.8%",
+              "97.6%",
+              "105.0%",
+              "112.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "49.3%",
+              "53.3%",
+              "57.3%",
+              "63.1%",
+              "67.1%",
+              "71.7%",
+              "78.0%",
+              "84.3%",
+              "90.6%",
+              "97.5%",
+              "104.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "27.6%+32.5%",
+              "29.9%+35.1%",
+              "32.1%+37.7%",
+              "35.4%+41.5%",
+              "37.6%+44.2%",
+              "40.2%+47.2%",
+              "43.7%+51.3%",
+              "47.3%+55.5%",
+              "50.8%+59.6%",
+              "54.6%+64.2%",
+              "58.5%+68.7%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "77.3%",
+              "83.6%",
+              "89.8%",
+              "98.8%",
+              "105.1%",
+              "112.3%",
+              "122.2%",
+              "132.1%",
+              "141.9%",
+              "152.7%",
+              "163.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "121.7%",
+              "131.6%",
+              "141.5%",
+              "155.6%",
+              "165.6%",
+              "176.9%",
+              "192.4%",
+              "208.0%",
+              "223.6%",
+              "240.5%",
+              "257.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Short-Range Rapid Interdiction Fire",
+        "desc": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing **AoE Pyro DMG**.\nFor a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP.\nHold to fire in a different fashion.\n\n**Hold**\nEnter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater **Pyro DMG** in a larger area.\nChevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.\n\n**Arkhe: Ousia**\nPeriodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals Ousia-aligned **Pyro DMG**.\n\n**\"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"**",
+        "img": "Chevreuse/skill_1",
+        "talentTable": [
+          {
+            "name": "Press DMG",
+            "values": [
+              "115.2%",
+              "123.8%",
+              "132.5%",
+              "144.0%",
+              "152.6%",
+              "161.3%",
+              "172.8%",
+              "184.3%",
+              "195.8%",
+              "207.4%",
+              "218.9%",
+              "230.4%",
+              "244.8%"
+            ]
+          },
+          {
+            "name": "Hold DMG",
+            "values": [
+              "172.8%",
+              "185.8%",
+              "198.7%",
+              "216.0%",
+              "229.0%",
+              "241.9%",
+              "259.2%",
+              "276.5%",
+              "293.8%",
+              "311.0%",
+              "328.3%",
+              "345.6%",
+              "367.2%"
+            ]
+          },
+          {
+            "name": "Overcharged Ball DMG",
+            "values": [
+              "282.4%",
+              "303.6%",
+              "324.8%",
+              "353.0%",
+              "374.2%",
+              "395.4%",
+              "423.6%",
+              "451.8%",
+              "480.1%",
+              "508.3%",
+              "536.6%",
+              "564.8%",
+              "600.1%"
+            ]
+          },
+          {
+            "name": "HP Regeneration Over Time",
+            "values": [
+              "2.67% Max HP+257",
+              "2.87% Max HP+282",
+              "3.07% Max HP+310",
+              "3.33% Max HP+340",
+              "3.53% Max HP+372",
+              "3.73% Max HP+407",
+              "4.00% Max HP+443",
+              "4.27% Max HP+482",
+              "4.53% Max HP+522",
+              "4.80% Max HP+565",
+              "5.07% Max HP+610",
+              "5.33% Max HP+657",
+              "5.67% Max HP+706"
+            ]
+          },
+          {
+            "name": "Healing Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "Surging Blade DMG",
+            "values": [
+              "28.8%",
+              "31.0%",
+              "33.1%",
+              "36.0%",
+              "38.2%",
+              "40.3%",
+              "43.2%",
+              "46.1%",
+              "49.0%",
+              "51.8%",
+              "54.7%",
+              "57.6%",
+              "61.2%"
+            ]
+          },
+          {
+            "name": "Surging Blade Interval",
+            "value": "10.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Ring of Bursting Grenades",
+      "desc": "Chevreuse fires an explosive grenade at opponents with her musket, dealing **AoE Pyro DMG.** After the projectile hits, it will split into many secondary explosive shells.\nThe secondary explosive shells will burst after a short interval, dealing **Pyro DMG** to nearby opponents.\n\n**\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.**",
+      "img": "Chevreuse/ult",
+      "talentTable": [
+        {
+          "name": "Explosive Grenade DMG",
+          "values": [
+            "368.2%",
+            "395.8%",
+            "423.4%",
+            "460.2%",
+            "487.8%",
+            "515.4%",
+            "552.2%",
+            "589.1%",
+            "625.9%",
+            "662.7%",
+            "699.5%",
+            "736.3%",
+            "782.3%"
+          ]
+        },
+        {
+          "name": "Secondary Explosive Shell DMG",
+          "values": [
+            "49.1%",
+            "52.8%",
+            "56.5%",
+            "61.4%",
+            "65.0%",
+            "68.7%",
+            "73.6%",
+            "78.5%",
+            "83.4%",
+            "88.4%",
+            "93.3%",
+            "98.2%",
+            "104.3%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Pyro"
+    },
+    "passive": [
+      {
+        "name": "Vanguard's Coordinated Tactics",
+        "desc": "When all party members are **Pyro** and **Electro** characters and there is at least one Pyro and one Electro character each in the party:\nChevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the **Pyro** and **Electro** RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.\nThe \"Coordinated Tactics\" effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Passive Talent.",
+        "img": "Chevreuse/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Vertical Force Coordination",
+        "desc": "After Chevreuse fires an Overcharged Ball using **Short-Range Rapid Interdiction Fire**, nearby **Pyro** and **Electro** characters in the party gain 1% increased ATK for every 1,000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.",
+        "img": "Chevreuse/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Double Time March",
+        "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Sprinting_Stamina",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Stable Front Line's Resolve",
+        "desc": "When the active character with the \"Coordinated Tactics\" status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.\nYou must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
+        "img": "Chevreuse/const_0"
+      },
+      {
+        "name": "Sniper Induced Explosion",
+        "desc": "After Holding **Short-Range Rapid Interdiction Fire** and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals **Pyro DMG** equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG.",
+        "img": "Chevreuse/const_1"
+      },
+      {
+        "name": "Practiced Field Stripping Technique",
+        "desc": "Increases the Level of **Short-Range Rapid Interdiction Fire** by 3.\nMaximum upgrade level is 15.",
+        "img": "Chevreuse/const_2"
+      },
+      {
+        "name": "The Secret to Rapid-Fire Multishots",
+        "desc": "After using **Ring of Bursting Grenades**, the Hold mode of **Short-Range Rapid Interdiction Fire** will not go on cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
+        "img": "Chevreuse/const_3"
+      },
+      {
+        "name": "Enhanced Incendiary Firepower",
+        "desc": "Increases the Level of **Ring of Bursting Grenades** by 3.\nMaximum upgrade level is 15.",
+        "img": "Chevreuse/const_4"
+      },
+      {
+        "name": "In Pursuit of Ending Evil",
+        "desc": "After 12s of the healing effect from **Short-Range Rapid Interdiction Fire**, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once.\nAfter a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% **Pyro DMG Bonus** and **Electro DMG Bonus** for 8s. Max 3 stacks. Each stack's duration is counted independently.",
+        "img": "Chevreuse/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 749.27
+        },
+        {
+          "stat": "Base DEF",
+          "value": 37.8765
+        },
+        {
+          "stat": "Base ATK",
+          "value": 12.106458
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1281.6461
+        },
+        {
+          "stat": "Base DEF",
+          "value": 64.78875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.70841407775879
+        },
+        {
+          "stat": "HP%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1991.4808
+        },
+        {
+          "stat": "Base DEF",
+          "value": 100.67175
+        },
+        {
+          "stat": "Base ATK",
+          "value": 32.17769241333008
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2523.857
+        },
+        {
+          "stat": "Base DEF",
+          "value": 127.584
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.77964782714844
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3056.233
+        },
+        {
+          "stat": "Base DEF",
+          "value": 154.49624633789062
+        },
+        {
+          "stat": "Base ATK",
+          "value": 49.3816032409668
+        },
+        {
+          "stat": "HP%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3588.609130859375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 181.4085
+        },
+        {
+          "stat": "Base ATK",
+          "value": 57.98356246948242
+        },
+        {
+          "stat": "HP%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}
