@@ -1090,14 +1090,14 @@ Inverting barrel damage to EHP linearizes the trend, allowing a linear regressio
 Coefficients
 | | Estimate | Std. Error | t value | Pr\(>\|t\|\) |
 | :--- | :--- | :--- | :--- | :--- |
-| (Intercept) | 1.277e-04 | 1.953e-08 | 6536 | <2e-16 **_  
-| DEF | 1.443e-07 | 1.911e-11 | 7555 | <2e-16 _**
+| (Intercept) | 1.277e-04 | 1.953e-08 | 6536 | &lt;2e-16 **_  
+| DEF | 1.443e-07 | 1.911e-11 | 7555 | &lt;2e-16 _**
 
 Signif. codes: 0 ‘\*\*\*’ 0.001 ‘\*\*’ 0.01 ‘\*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 4.527e-08 on 13 degrees of freedom  
 Multiple R-squared: 1, Adjusted R-squared: 1  
-F-statistic: 5.707e+07 on 1 and 13 DF, p-value: < 2.2e-16
+F-statistic: 5.707e+07 on 1 and 13 DF, p-value: &lt; 2.2e-16
 
 Barrels do Pyro damage, and is affected by reactions such as Vaporize as well as Pyro resist.
 
@@ -1387,7 +1387,7 @@ Therefore, 1 unit in-game represents 1 meter in game.
 
 2. 1px represents 1.68 units at max zoom out and 1920x1080 resolution.  
    Since we know that translation from in-game coordinates to interactive map system does not use scaling, we can use interactive map coordinates system.  
-   We assume format `center=x,y` and we're using interactive map system. Remember that error of <30 is possible for each coordinate.
+   We assume format `center=x,y` and we're using interactive map system. Remember that error of &lt;30 is possible for each coordinate.
 
 ![alt text](https://i.imgur.com/QWv8PSL.png)
 

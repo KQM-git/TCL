@@ -162,7 +162,7 @@ There are several combo variants for Itto, a main category being first rotation 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934236008533360691_937034728031281162_transcript-successful-itto-def-conversion-w-gorou.html)
 
 **Finding:**  
-If characters are directly switched to after Gorou casts his Elemental Burst, they can snapshot the flat DEF buff extremely consistently, if the ping isn’t high (<75ms).
+If characters are directly switched to after Gorou casts his Elemental Burst, they can snapshot the flat DEF buff extremely consistently, if the ping isn’t high (&lt;75ms).
 
 **Evidence:**  
 Many different methods were tested to see when Itto could snapshot Gorou's flat DEF buff:

@@ -1,4 +1,4 @@
-# CharacterName
+# Furina
 
 **Main Page:**
 

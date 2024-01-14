@@ -334,8 +334,8 @@ Another strange place other than Leg Break Bridge where you can kill yourself wi
 Xingqiu's orbital rain swords can apply Hydro multiple times in a short duration with high ping. The higher the ping, the more times the orbitals will apply Hydro.
 
 **Evidence:**  
-High Ping Test: <https://youtu.be/k2f2aAR4AS4>  
-Low Ping Test: <https://www.youtube.com/watch?v=KJTw7EnDtNU&ab_channel=Ayzel>
+High Ping Test: [YouTube](https://youtu.be/k2f2aAR4AS4)  
+Low Ping Test: [YouTube](https://www.youtube.com/watch?v=KJTw7EnDtNU&ab_channel=Ayzel)
 
 **Significance:**  
 Fast shield-breaking tech, can apply Hydro very fast to allow more vapes in Xingqiu teams where Pyro units would typically apply too much Pyro to consistently vape Pyro hits.

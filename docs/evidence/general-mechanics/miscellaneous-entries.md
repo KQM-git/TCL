@@ -631,7 +631,7 @@ The daily cap is 400 for elites and 2000 for common mobs, after receiving drops 
 Elites and common mobs capped on December 20, 2021: [Google Sheets](https://docs.google.com/spreadsheets/d/1J5seFOf4uAEzI_rfnxth511lm1F3uKPfS7vtBlrn4M8/edit#gid=985319600)
 
 * Elites: received Mora amount to 200, 400, or 600; 400 times.
-* Common mobs: received Mora amount to <199; 1999 times.
+* Common mobs: received Mora amount to &lt;199; 1999 times.
 
 **Significance:**  
 The elite cap is 400 and the common mob cap is at least 1999, likely to be 2000. It is possible that some Mora is missed when teleporting in single player; time is paused when using the map in single player and Mora may not have reached the active character in time.
@@ -712,7 +712,7 @@ Singleplayer:
   1\. Place stove.  
   2\. Place Albedo E on stove.  
   3\. Get on the albedo construct.  
-  4\. Idle until <30 seconds \(I recommend ~10 seconds\) left on the stove CD. Note that falling onto the stove directly from the flower keeps you on the flower. Also note that stove CD ticks down while the game is paused.  
+  4\. Idle until &lt;30 seconds \(I recommend ~10 seconds\) left on the stove CD. Note that falling onto the stove directly from the flower keeps you on the flower. Also note that stove CD ticks down while the game is paused.  
   5\. Place a new Albedo flower on the stove you're on.  
   6\. Place a Parametric Transformer to prevent the elevator from ascending. This will "snapshot" its stability, and allow the flower to float in midair after the stove expires.  
   7\. Place a new stove.  

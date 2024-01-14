@@ -113,7 +113,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 * Mika's skill can hit weakspots, however his aim is quite bad.
 * Detector stacks carry over to other teammates after you swap to them.
     * As such, doing Burst > Skill compared to Skill > Burst is slightly more beneficial for Mika due to a chance to gain a Detector stack earlier (so that your Physical dps starts attacking with the Physical DMG Bonus).
-* Mika's Physical DMG buffs (**Detector** stacks) and C6 Physical CRIT DMG buff only affect the active character and are lost either immediately or within a very short time frame (<40 frames) after swapping. Mika's hold Skill does not generate shards in Single Target, so his A1 also does not give any **Detector** stacks in Single Target scenarios. This caps his DMG buff at a maximum of 10% before C2, and 20% on or after in Single Target.
+* Mika's Physical DMG buffs (**Detector** stacks) and C6 Physical CRIT DMG buff only affect the active character and are lost either immediately or within a very short time frame (&lt;40 frames) after swapping. Mika's hold Skill does not generate shards in Single Target, so his A1 also does not give any **Detector** stacks in Single Target scenarios. This caps his DMG buff at a maximum of 10% before C2, and 20% on or after in Single Target.
 
 </TabItem>
 
@@ -196,7 +196,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Mika's Physical DMG buffs (**Detector** stacks) and C6 Physical CRIT DMG buff only affect the active character and are lost either immediately or within a very short time frame (<40 frames) after swapping. Mika's hold Skill does not generate shards in Single Target, so his A1 also does not give any **Detector** stacks in Single Target scenarios. This caps his DMG buff at a maximum of 10% before C2, and 20% on or after in Single Target.  
+* Mika's Physical DMG buffs (**Detector** stacks) and C6 Physical CRIT DMG buff only affect the active character and are lost either immediately or within a very short time frame (&lt;40 frames) after swapping. Mika's hold Skill does not generate shards in Single Target, so his A1 also does not give any **Detector** stacks in Single Target scenarios. This caps his DMG buff at a maximum of 10% before C2, and 20% on or after in Single Target.  
 
 </TabItem>
 </Tabs>

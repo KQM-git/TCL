@@ -69,7 +69,7 @@ It is possible to stack Royal weapons and trigger Favonius weapons with these so
 * Single-target Swirl [YouTube](https://youtu.be/t2Pi4cfNI9Y)  
 * Favonius [YouTube](https://youtu.be/qUZn2eGIPHI)
   
-Notes: This list matches what Raiden's Skill triggers from. It was in our face the whole times <:Starege:965940930895036477>.  
+Notes: This list matches what Raiden's Skill triggers from. It was in our face the whole times.  
   
 Note for Royal weapons: If the talent scaling attack doesn't CRIT and one of the above reactions happen, it still only stacks a single time.  
 [YouTube](https://youtu.be/nUN2sOD1EbY)  
@@ -1544,7 +1544,7 @@ Crystallize reaction has an Global Cooldown of 1s per monster.
 * GCD is shared across different characters. Here Ningguang procs Albedo's Blossom vs 2U Pyro, only 1 Crystallize occurred. - [YouTube](https://youtu.be/x_64sntdO-g)
 * GCD is not shared across different targets. Here Albedo successfully triggers Crystallize on each of the 3 hilichurls. - [YouTube](https://youtu.be/S1GSVLXmGus)
 * GCD for the duration of the cooldown may disable the hit counter for standard ICD. Here Ningguang uses 3 Normal attacks (6 hits total) and trigger Crystallize only once on the first attack. - [YouTube](https://youtu.be/6nRXYxMkC_Y)
-* GCD is shared across different elements. Here Albedo triggers Pyro and Hydro Crystallize one after another (<1s), only 1 Crystallize occurred. - [YouTube](https://youtu.be/M4XJPag4CNI)
+* GCD is shared across different elements. Here Albedo triggers Pyro and Hydro Crystallize one after another (&lt;1s), only 1 Crystallize occurred. - [YouTube](https://youtu.be/M4XJPag4CNI)
 
 **Significance:**  
 Understanding how Crystallize works.

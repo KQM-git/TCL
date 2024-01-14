@@ -119,7 +119,7 @@ Eula's Burst does not snapshot even after she is swapped off-field, allowing for
 * 4-Piece Noblesse Oblige: [YouTube 1](https://youtu.be/oWJQOgDSJDk), [YouTube 2](https://youtu.be/6ThAiLjeSfA)
 * Rosaria's CRIT share buff: [YouTube](https://youtu.be/1tor1JeT-Hg)
 * Diona's swap buff: [YouTube](https://youtu.be/p_cr_tGKXV8)
-* <https://youtu.be/Efp8593Wrmk> for Xinyan buff
+* [YouTube](https://youtu.be/Efp8593Wrmk) for Xinyan buff
 
 **Significance:**  
 Allows for better Burst cycles.

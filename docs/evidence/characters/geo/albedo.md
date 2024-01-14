@@ -137,7 +137,7 @@ The weapon description of the Cinnabar Spindle reads:
 
 > "Elemental Skill DMG is increased by 80% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
 
-With this explanation, since 0.1s is very short (<6 frames for 60FPS), one might assume that even if Albedo performs a quick Normal Attack (N1) after casting his Elemental Skill (E), the first Transient Blossom will not receive the Spindle buff. However, testings have shown that this is not the case.
+With this explanation, since 0.1s is very short (&lt;6 frames for 60FPS), one might assume that even if Albedo performs a quick Normal Attack (N1) after casting his Elemental Skill (E), the first Transient Blossom will not receive the Spindle buff. However, testings have shown that this is not the case.
 
 Testing sheet: [Google Sheets](https://docs.google.com/spreadsheets/d/1gY82fEkHDonUlp8Bho76PusTo-HwGixK2L5ADGMEo40/edit?usp=sharing)
 

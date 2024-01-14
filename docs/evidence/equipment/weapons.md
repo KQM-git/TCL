@@ -1586,7 +1586,7 @@ Stacking HP on a Prototype Amber wielder will not increase its healing.
 
 #### Multiple Prototype Amber Heals Don't Stack
 
-**By:** Pana <3\#0992  
+**By:** Pana &lt;3\#0992  
 **Added:** <Version date="2022-03-01" />  
 **Last tested:** <VersionHl date="2022-03-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_948232531155750952_transcript-multiple-prototype-amber-heals-dont-stack.html)

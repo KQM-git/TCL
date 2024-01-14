@@ -181,7 +181,7 @@ This might also be a bug on other characters when they dash cancel their Skills.
 
 ### Sucrose E Dash E Bug
 
-**By:** Pana <3\#0992  
+**By:** Pana &lt;3\#0992  
 **Added:** <Version date="2022-06-27" />  
 **Last tested:** <VersionHl date="2022-06-27" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/sucrose-e-dash-e-bug)

@@ -411,7 +411,7 @@ Echoes uses total ATK (as expected) including buffs from Bennett, 4-Piece Nobles
 **Evidence:** 
 * Bennett + Echo Hu Tao: [YouTube](https://youtu.be/z7z64VLHLkI)
 * Staff of Homa + Echo Hu Tao: [YouTube](https://youtu.be/giX6K8wMDow)
-* Homa (<50% HP) + Echo Hu Tao: [YouTube](https://youtu.be/9gOWwzUQt2s)
+* Homa (&lt;50% HP) + Echo Hu Tao: [YouTube](https://youtu.be/9gOWwzUQt2s)
 Math: [Google Sheets](https://docs.google.com/spreadsheets/d/14S-_hWzHOtxKHfd2G3x179Wp9MgkGvlPOXIcnGZ5VcA/edit?usp=sharing)
 
 #### Echoes' Hit Registration Procs Before Animation
@@ -1862,14 +1862,14 @@ don't use shields with 4VG unless breakable shields like Baizhu's or Crystallize
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856901008667443211_858418320973365258_transcript-breakpoints-for-2inst2wt-vs-4tfcw.html)
 
 **Finding:**  
-For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at <=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at <=1498 EM (before set bonus).
+For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at &lt;=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at &lt;=1498 EM (before set bonus).
 
 **Evidence:**
 
 * 4TF/CW provides a flat, additive bonus to the total % increase in the formula.
 * The bonus provided 80/160 EM follows a hyperbolic decay as total EM increases.
-* At 0 <= EM without set bonus <= 490 EM, 80 additional EM provides >=40% increase to the damage of a transformative reaction.
-* At 0 <= EM without set bonus <= 1498 EM, 160 additional EM provides >=40% increase to the damage of a transformative reaction.
+* At 0 &lt;= EM without set bonus &lt;= 490 EM, 80 additional EM provides >=40% increase to the damage of a transformative reaction.
+* At 0 &lt;= EM without set bonus &lt;= 1498 EM, 160 additional EM provides >=40% increase to the damage of a transformative reaction.
 
 Desmos sheet for visualization/calculations: [Desmos Link](https://www.desmos.com/calculator/7igtgtirot)
 

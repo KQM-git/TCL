@@ -67,7 +67,7 @@ Conclusion: AI gets skewered under high ping
 * CRIT% buff (Hutao CRIT share): [Video](https://youtu.be/ZPytXaOROx0)
 * ATK speed MV speed (Skyrider passive): [Video](https://youtu.be/bIaaYdjx5kw)
 * Special cases:
-  * Hutao HP <50% bonus:
+  * Hutao HP &lt;50% bonus:
     * Hutao number check: [Video](https://youtu.be/mS5Vh9-7XnU)
   * No 33% Pyro DMG bonus: [Video](https://youtu.be/z5IKX7LrwQQ)
 

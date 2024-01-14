@@ -32,7 +32,7 @@
 
 ## Synergies/Interactions
  
-* Mika's Physical DMG buffs (Detector stacks) and C6 Physical CRIT DMG buff only affect the active character and are lost either immediately or within a very short time frame (<40 frames) after swapping. Mika's hold Skill does not generate shards in Single Target, so his A1 also does not give any Detector stacks in Single Target scenarios. This caps his DMG buff at a maximum of 10% before C2, and 20% on or after in Single Target.  
+* Mika's Physical DMG buffs (Detector stacks) and C6 Physical CRIT DMG buff only affect the active character and are lost either immediately or within a very short time frame (&lt;40 frames) after swapping. Mika's hold Skill does not generate shards in Single Target, so his A1 also does not give any Detector stacks in Single Target scenarios. This caps his DMG buff at a maximum of 10% before C2, and 20% on or after in Single Target.  
     * Video credit to @isilas: [YouTube](https://www.youtube.com/watch?v=r5x4VkBjZL8)  
     * Sheet: [Google Docs](https://docs.google.com/spreadsheets/d/1_cr32SJYarNmBV1t1hPPQIPQxjmD-zEpSkNVPAg0Wek/)  
     * In both the video representation (number) and sheet damage comparison, you only get 2 Detector stacks - one from A4 (Crit with both Mika Skill and Burst active, Eula has 100% CRIT Rate in video), and one from C2 (initial hit of hold Skill). No Detector stacks are gained from A1.  
