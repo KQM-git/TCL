@@ -337,7 +337,7 @@ It ensures that for shields where damage cost is a factor, we can assume that tr
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920, daibangden\#8410  
 **Added:** <Version date="2023-03-20" />  
 **Last tested:** <VersionHl date="2023-03-20" />  
-[Discussion](https://localhost:3000/transcripts/skirmisher-shields-affect-unrelated-reaction-coefficients)
+[Discussion](https://tickets.deeznuts.moe/transcripts/skirmisher-shields-affect-unrelated-reaction-coefficients)
 
 **Finding:**  
 Against shielded Cryo/Electro/Hydro Skirmishers, the reaction coefficients of reactions unrelated to the shield's Element are fixed at 1.  

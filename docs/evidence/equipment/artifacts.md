@@ -905,7 +905,7 @@ Can't use environmental reactions to set up screenshots. Can't use self reaction
 **By:** NZPIEFACE\#8439  
 **Added:** <Version date="2023-02-26" />  
 **Last tested:** <VersionHl date="2023-02-24" />  
-[Discussion](https://localhost:3000/transcripts/4in-for-simultaneous-attacks)
+[Discussion](https://tickets.deeznuts.moe/transcripts/4in-for-simultaneous-attacks)
 
 **Finding:**  
 4pc Instructor effect does apply to the second hit of a simultaneous attack, if the first hit triggered a reaction.  

@@ -83,7 +83,7 @@ If doing meme plunge comps with Hu Tao, less Energy will be gained and fewer Bur
 **By:** Casdela\#5121  
 **Added:** <Version date="2023-04-28" />  
 **Last tested:** <VersionHl date="2023-04-25" />  
-[Discussion](https://localhost:3000/transcripts/hu-taos-skill-activation-0-dmg-hit-is-not-skill-dmg)
+[Discussion](https://tickets.deeznuts.moe/transcripts/hu-taos-skill-activation-0-dmg-hit-is-not-skill-dmg)
 
 **Finding:**  
 Hu Tao's Elemental Skill activation is a 0 DMG hit that isn't counted as Skill DMG, therefore it cannot proc effects that require Skill DMG hit like 4pc Tenacity of the Millelith and 4pc Deepwood Memories set effects.  

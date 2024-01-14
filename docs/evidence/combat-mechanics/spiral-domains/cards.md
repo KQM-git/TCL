@@ -41,7 +41,7 @@ search: false
 **By:** Aeondrew\#5220  
 **Added:** <Version date="2023-05-07" />  
 **Last tested:** <VersionHl date="2023-04-27" />  
-[Discussion](https://localhost:3000/transcripts/character-dmg-within-8s-of-sprint-20-abyss-card-buff-does-not-snapshot)
+[Discussion](https://tickets.deeznuts.moe/transcripts/character-dmg-within-8s-of-sprint-20-abyss-card-buff-does-not-snapshot)
 
 **Finding:**  
 The +20% DMG buff given by the "Character DMG within 8s of sprint +20%" Abyss card does not snapshot.  

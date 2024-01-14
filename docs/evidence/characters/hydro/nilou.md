@@ -86,7 +86,7 @@ May trigger certain on-hit effects.
 **By:** Sabrenn\#8965  
 **Added:** <Version date="2023-04-25" />  
 **Last tested:** <VersionHl date="2023-04-25" />  
-[Discussion](https://localhost:3000/transcripts/tranquility-aura-0-dmg-hit-is-not-skill-dmg)
+[Discussion](https://tickets.deeznuts.moe/transcripts/tranquility-aura-0-dmg-hit-is-not-skill-dmg)
 
 **Finding:**  
 Nilou's Tranquility Aura 0 DMG hit is not counted as Skill DMG, therefore cannot trigger the 4pc Tenacity of the Millelith effect.  

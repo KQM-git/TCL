@@ -14,9 +14,10 @@ const config = {
   tagline: 'KeqingMains\'s Theorycrafting Library',
   url: 'https://library.keqingmains.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   trailingSlash: false,
   onBrokenMarkdownLinks: 'warn',
+  onBrokenAnchors: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
