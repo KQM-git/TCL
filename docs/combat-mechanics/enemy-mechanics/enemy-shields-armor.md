@@ -188,8 +188,8 @@ The following are tables consisting of different types of **Elemental Armor** as
 | Pyro Gunslinger       | 4GU Hydro                                 |
 | Geochanter            | 5~7 Heavy Attacks OR Crystallize Reaction |
 
-* Foreign auras can exist on these armor and there are some interesting interactions when trying to break said armor. See this [Vault Entry](../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md/#fatui-armor-and-aura-interactions) for more information.
-* Against shielded Cryo, Electro, and Hydro Skirmishers, the reaction coefficients of reactions unrelated to the shield's Element are fixed at 1. See this [Vault Entry](../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md/#skirmisher-shields-affect-unrelated-reaction-coefficients) for more information.
+* Foreign auras can exist on these armor and there are some interesting interactions when trying to break said armor. See this [Vault Entry](../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md#fatui-armor-and-aura-interactions) for more information.
+* Against shielded Cryo, Electro, and Hydro Skirmishers, the reaction coefficients of reactions unrelated to the shield's Element are fixed at 1. See this [Vault Entry](../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md#skirmisher-shields-affect-unrelated-reaction-coefficients) for more information.
 
 </TabItem>
 </Tabs>
