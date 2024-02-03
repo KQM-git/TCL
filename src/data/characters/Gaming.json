@@ -1,0 +1,456 @@
+{
+  "name": "Gaming",
+  "star": 4,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 957.3805541992188,
+    "attackBase": 25.28736,
+    "defenseBase": 58.94175,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Stellar Rend",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash. \n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Claymore",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "83.9%",
+              "90.7%",
+              "97.5%",
+              "107.3%",
+              "114.1%",
+              "121.9%",
+              "132.6%",
+              "143.3%",
+              "154.1%",
+              "165.8%",
+              "177.5%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "79.0%",
+              "85.5%",
+              "91.9%",
+              "101.1%",
+              "107.5%",
+              "114.9%",
+              "125.0%",
+              "135.1%",
+              "145.2%",
+              "156.3%",
+              "167.3%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "106.6%",
+              "115.3%",
+              "124.0%",
+              "136.4%",
+              "145.1%",
+              "155.0%",
+              "168.6%",
+              "182.3%",
+              "195.9%",
+              "210.8%",
+              "225.7%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "127.9%",
+              "138.4%",
+              "148.8%",
+              "163.7%",
+              "174.1%",
+              "186.0%",
+              "202.3%",
+              "218.7%",
+              "235.1%",
+              "252.9%",
+              "270.8%"
+            ]
+          },
+          {
+            "name": "Charged Attack Cyclic DMG",
+            "values": [
+              "62.5%",
+              "67.6%",
+              "72.7%",
+              "80.0%",
+              "85.1%",
+              "90.9%",
+              "98.9%",
+              "106.9%",
+              "114.9%",
+              "123.6%",
+              "132.3%"
+            ]
+          },
+          {
+            "name": "Charged Attack Final DMG",
+            "values": [
+              "113%",
+              "122%",
+              "132%",
+              "145%",
+              "154%",
+              "164%",
+              "179%",
+              "193%",
+              "208%",
+              "224%",
+              "239%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "40.0/s"
+          },
+          {
+            "name": "Max Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "64.1%",
+              "69.4%",
+              "74.6%",
+              "82.0%",
+              "87.3%",
+              "93.2%",
+              "101.4%",
+              "109.6%",
+              "117.8%",
+              "126.8%",
+              "135.8%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "139%/173%",
+              "149%/186%",
+              "164%/205%",
+              "174%/218%",
+              "186%/233%",
+              "203%/253%",
+              "219%/274%",
+              "236%/294%",
+              "254%/317%",
+              "271%/339%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bestial Ascent",
+        "desc": "Pounces forward using the Wushou arts, leaping high into the air after coming into contact with a target or surface.\nAfter Gaming has used Bestial Ascent to rise into the air, he will use the especially powerful Plunging Attack: Charmed Cloudstrider when performing a Plunging Attack.\n\n**Plunging Attack: Charmed Cloudstrider**\nThe DMG from Plunging Attacks caused by Bestial Ascent is converted to **Pyro DMG** that cannot be overridden by other elemental infusions. Upon landing, Gaming will consume a fixed amount of HP. Gaming's HP cannot be reduced below 10% by this method.\nCharmed Cloudstrider DMG is considered Plunging Attack DMG.\n\n**\"Auspicious beasts leap high to pluck the greens — that symbolizes good fortune and knowing how to make some serious green, y'know — so may we all rise to new heights, one step at a time!\"**",
+        "img": "Gaming/skill_1",
+        "talentTable": [
+          {
+            "name": "Plunging Attack: Charmed Cloudstrider DMG",
+            "values": [
+              "230.4%",
+              "247.7%",
+              "265.0%",
+              "288.0%",
+              "305.3%",
+              "322.6%",
+              "345.6%",
+              "368.6%",
+              "391.7%",
+              "414.7%",
+              "437.8%",
+              "460.8%",
+              "489.6%"
+            ]
+          },
+          {
+            "name": "HP Cost",
+            "value": "15.0% Max HP"
+          },
+          {
+            "name": "CD",
+            "value": "6.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Suanni's Gilded Dance",
+      "desc": "Gaming enters Wushou Stance, briefly applying **Pyro** to him, recovering a fixed amount of HP, and summons his companion, the Suanni Man Chai, to smash into his target, dealing **AoE Pyro DMG**.\nAfter bashing its target, Man Chai will roll to a nearby location before moving towards Gaming. When it links up with Gaming, Man Chai will leave the field and reset the CD for Gaming's Elemental Skill, Bestial Ascent.\nWhile Wushou Stance is active, his resistance to interruption is increased, and when Gaming lands with Charmed Cloudstrider attack or completes the forward pounce attack from Bestial Ascent with over 50% HP, he will summon Man Chai again.\nEach Gaming can only have 1 Man Chai on the field simultaneously.\nThis effect will be canceled once Gaming leaves the field.\n\n**\"The gilded Suanni spits out fortune like a fireworks show! Hey, now that's what's called prosperity, when business is really 'booming'!\"**",
+      "img": "Gaming/ult",
+      "talentTable": [
+        {
+          "name": "Suanni Man Chai Smash DMG",
+          "values": [
+            "370.4%",
+            "398.2%",
+            "426.0%",
+            "463.0%",
+            "490.8%",
+            "518.6%",
+            "555.6%",
+            "592.6%",
+            "629.7%",
+            "666.7%",
+            "703.8%",
+            "740.8%",
+            "787.1%"
+          ]
+        },
+        {
+          "name": "Skill Healing",
+          "value": "30.0% Max HP"
+        },
+        {
+          "name": "Wushou Stance Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Pyro"
+    },
+    "passive": [
+      {
+        "name": "Dance of Amity",
+        "desc": "After **Bestial Ascent**'s Plunging Attack: Charmed Cloudstrider hits an opponent, Gaming will regain 1.5% of his Max HP once every 0.2s for 0.8s.",
+        "img": "Gaming/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Air of Prosperity",
+        "desc": "When Gaming has less than 50% HP, he will receive a 20% Incoming Healing Bonus. When Gaming has 50% HP or more, Plunging Attack: Charmed Cloudstrider will deal 20% more DMG.",
+        "img": "Gaming/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "The Striding Beast",
+        "desc": "Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00).\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.",
+        "img": "Gaming/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Bringer of Blessing",
+        "desc": "When the Suanni Man Chai from **Suanni's Gilded Dance** meets back up with Gaming, it will heal 15% of Gaming's HP.",
+        "img": "Gaming/const_0"
+      },
+      {
+        "name": "Plum Blossoms Underfoot",
+        "desc": "When Gaming receives healing and this instance of healing overflows, his ATK will be increased by 20% for 5s.",
+        "img": "Gaming/const_1"
+      },
+      {
+        "name": "Awakening Spirit",
+        "desc": "Increases the Level of **Bestial Ascent** by 3.\nMaximum upgrade level is 15.",
+        "img": "Gaming/const_2"
+      },
+      {
+        "name": "Soar Across Mountains",
+        "desc": "When **Bestial Ascent**'s Plunging Attack: Charmed Cloudstrider hits an opponent, it will restore 2 Energy to Gaming. This effect can be triggered once every 0.2s.",
+        "img": "Gaming/const_3"
+      },
+      {
+        "name": "Evil-Daunting Roar",
+        "desc": "Increases the Level of **Suanni's Gilded Dance** by 3.\nMaximum upgrade level is 15.",
+        "img": "Gaming/const_4"
+      },
+      {
+        "name": "To Tame All Beasts",
+        "desc": "**Bestial Ascent**'s Plunging Attack: Charmed Cloudstrider CRIT Rate increased by 20% and CRIT DMG increased by 40%, and its attack radius will be increased.",
+        "img": "Gaming/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 715.2123
+        },
+        {
+          "stat": "Base DEF",
+          "value": 44.0325
+        },
+        {
+          "stat": "Base ATK",
+          "value": 18.891395568847656
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1223.3894
+        },
+        {
+          "stat": "Base DEF",
+          "value": 75.31875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 32.31423
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1900.959
+        },
+        {
+          "stat": "Base DEF",
+          "value": 117.03375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 50.21134
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2409.13623046875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 148.32
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.63417434692383
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2917.313232421875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 179.6062469482422
+        },
+        {
+          "stat": "Base ATK",
+          "value": 77.05701
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3425.490478515625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 210.8925
+        },
+        {
+          "stat": "Base ATK",
+          "value": 90.47984
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

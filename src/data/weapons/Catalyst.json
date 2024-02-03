@@ -2405,6 +2405,94 @@
       "desc": "ATK is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When current HP increases or decreases, Normal Attack DMG will be increased by **16%**/**20%**/**24%**/**28%**/**32%** and Charged Attack DMG will be increased by **14%**/**17.5%**/**21%**/**24.5%**/**28%** for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by **8%**/**10%**/**12%**/**14%**/**16%**."
     }
   },
+  "Crane's Echoing Call": {
+    "name": "Crane's Echoing Call",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 49.1377,
+        "curve": "ATK 3.3"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.036,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Cloudfall Axiom",
+      "desc": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks will deal **28%**/**41%**/**54%**/**67%**/**80%** increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore **2.5**/**2.75**/**3**/**3.25**/**3.5** Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field."
+    }
+  },
   "Everlasting Moonglow": {
     "name": "Everlasting Moonglow",
     "weaponType": "Catalyst",

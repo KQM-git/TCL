@@ -17,6 +17,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Cashflow Supervision" weapons={catalysts} />
 
+### Crane's Echoing Call
+
+<Weapon weapon="Crane's Echoing Call" weapons={catalysts} />
+
 ### Everlasting Moonglow
 
 <Weapon weapon="Everlasting Moonglow" weapons={catalysts} />
