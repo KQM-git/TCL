@@ -108,3 +108,20 @@ Elemental Particle production sheet here: [Google Sheets](https://docs.google.co
 * Xingqiu: 4~5 \(1:1\) -&gt; 5 \(-\)
 * Xinyan: 3~4 \(1:9\) -&gt; 4 \(-\)
 * Xiao: 2~3 \(1:9\) -&gt; 3 \(-\)
+
+## "On field" for energy purposes is determined at energy gain time
+
+**By:** @charliex3000  
+**Added:** <Version date="2023-12-16" />  
+**Last tested:** <VersionHl date="2023-12-16" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/funnel-timing-when-swapping)
+
+**Finding:**  
+Energy "on field" character is determined at energy gain time (thus affected by ping), not particle receive time.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/Z9ew1osyo_8)  
+In the 3rd trial, even though all the particles visually were received by Furina, Zhongli got some of the particles funneled to him. Thus particle energy "on field" is determined at energy gain time, not at particle receive time. He visually has more energy than the 2nd trial, where he was definitely not on field when the energy was gained.  
+
+**Significance:**  
+We are trying to decide appropriate default particle delay in gcsim
