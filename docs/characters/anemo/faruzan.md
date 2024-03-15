@@ -200,6 +200,7 @@ import Constellation from '@site/src/components/char/Constellation'
 * Pressurized Collapses created through Faruzan's C6 are dynamic and do not snapshot her stats.
 * Pressurized Collapse cooldown is not shared between Co-op party members.
 * The number of Pressurized Collapses can exceed the number of players in the party.
+* Recasting Burst does not reset the 3s CD on Pressurized Collapse.
   
 </TabItem>
 </Tabs>
