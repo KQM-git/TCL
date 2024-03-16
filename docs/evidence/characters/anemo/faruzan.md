@@ -115,7 +115,7 @@ Pressurized Collapses created through Faruzan's C6 are dynamic and do not snapsh
 **Significance:**  
 Useful if someone wants to know how Faruzan's damage is affected by buffs.
 
-### C6 Faruzan Coop Pressurized Collapse
+#### C6 Faruzan Coop Pressurized Collapse
 
 **By:** @anoddmedium  
 **Added:** <Version date="2023-10-18" />  
@@ -132,6 +132,22 @@ C6 Faruzan's Pressurized Collapse cooldown is not shared between Co-op party mem
 **Significance:**  
 Unexpected DPS potential for Faru an in Co-op, particularly in AoE.
 
+#### Faru C6 Icd Does Not Reset On Burst Recast
+
+**By:** @felic1an  
+**Added:** <Version date="2024-01-28" />  
+**Last tested:** <VersionHl date="2024-01-17" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/faru-c6-icd-does-not-reset-on-burst-recast)
+
+**Finding:**  
+Faruzan's Burst does not reset the ICD of her C6 Vortex procs  
+  
+**Evidence:**  
+As you may see, if Faruzan's C6 vortex procs' ICD reset upon burst recast, it would have procced on the damage instance during burst recast.  
+[Imgur](https://imgur.com/a/35UITZG) as evidence  
+  
+**Significance:**  
+Faster burst recast does not affect vortex generation, so any hope of overlapping with 5.5s particle generation will not happen because it does not reset. (I can't think of any other practical use other than this niche) Also TCL completion
 
 ## Synergies/Interactions
 
