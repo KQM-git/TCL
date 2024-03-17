@@ -15,6 +15,7 @@ search: false
 * Rosaria's Q applies 1U Cryo on every damage tick with [no ICD](https://imgur.com/jwQ4MTn)
 * Rosaria's CRIT bonus from her A1 is included in her [A4 CRIT sharing](https://imgur.com/Gvmc6pN)
 * Rosaria's A1 CRIT bonus doesn't apply if you use her E while already [behind an enemy](https://imgur.com/Ye5ro0C)
+* Rosaria's Charged Attack doesn't trigger if the button is hold while in her [last combo attack animation](https://imgur.com/a/1gsStta). It can be bypassed by first attacking and then holding the button.
 
 ## Ascension Mechanics
 
