@@ -1,0 +1,450 @@
+{
+  "name": "Chiori",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 890.4009,
+    "attackBase": 25.137,
+    "defenseBase": 74.1892,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Weaving Blade",
+        "desc": "**Normal Attack**\nPerforms up to 4 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "49.4%",
+              "53.4%",
+              "57.5%",
+              "63.2%",
+              "67.2%",
+              "71.8%",
+              "78.1%",
+              "84.5%",
+              "90.8%",
+              "97.7%",
+              "104.6%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "46.8%",
+              "50.6%",
+              "54.5%",
+              "59.9%",
+              "63.7%",
+              "68.1%",
+              "74.1%",
+              "80.1%",
+              "86.0%",
+              "92.6%",
+              "99.1%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "30.4%+30.4%",
+              "32.9%+32.9%",
+              "35.4%+35.4%",
+              "38.9%+38.9%",
+              "41.4%+41.4%",
+              "44.2%+44.2%",
+              "48.1%+48.1%",
+              "52.0%+52.0%",
+              "55.9%+55.9%",
+              "60.1%+60.1%",
+              "64.4%+64.4%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "75.1%",
+              "81.2%",
+              "87.4%",
+              "96.1%",
+              "102.2%",
+              "109.2%",
+              "118.8%",
+              "128.4%",
+              "138.0%",
+              "148.5%",
+              "159.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "54.3%+54.3%",
+              "58.7%+58.7%",
+              "63.2%+63.2%",
+              "69.5%+69.5%",
+              "73.9%+73.9%",
+              "78.9%+78.9%",
+              "85.9%+85.9%",
+              "92.8%+92.8%",
+              "99.8%+99.8%",
+              "107.4%+107.4%",
+              "114.9%+114.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Fluttering Hasode",
+        "desc": "Dashes nimbly forward with silken steps. Once this dash ends, Chiori will summon the automaton doll \"Tamoto\" beside her and sweep her blade upward, dealing **AoE Geo DMG** to nearby opponents based on her ATK and DEF.\nHolding the Skill will cause it to behave differently.\n\n**Hold**\nEnter Aiming Mode to adjust the dash direction.\n\n**Tamoto**\n· Will slash at nearby opponents at intervals, dealing **AoE Geo DMG** based on Chiori's ATK and DEF.\n· While active, if there are nearby **Geo Construct(s)** or **Geo Construct(s)** are created nearby, an additional Tamoto will be summoned next to your active character. Only 1 additional Tamoto can be summoned in this manner, and its duration is independently counted.\n\n**\"Sakura red dyes the brocade, the fragrance suffuses the sleeves, the orioles intoxicated.\"**",
+        "img": "Chiori/skill_1",
+        "talentTable": [
+          {
+            "name": "Tamoto DMG",
+            "values": [
+              "82% ATK+103% DEF",
+              "88% ATK+110% DEF",
+              "94% ATK+118% DEF",
+              "103% ATK+128% DEF",
+              "109% ATK+136% DEF",
+              "115% ATK+144% DEF",
+              "123% ATK+154% DEF",
+              "131% ATK+164% DEF",
+              "140% ATK+174% DEF",
+              "148% ATK+185% DEF",
+              "156% ATK+195% DEF",
+              "164% ATK+205% DEF",
+              "174% ATK+218% DEF"
+            ]
+          },
+          {
+            "name": "Tamoto Duration",
+            "value": "17.0s"
+          },
+          {
+            "name": "Tamoto Attack Interval",
+            "value": "3.6s"
+          },
+          {
+            "name": "Upward Sweep Attack DMG",
+            "values": [
+              "149% ATK+187% DEF",
+              "160% ATK+201% DEF",
+              "172% ATK+215% DEF",
+              "187% ATK+233% DEF",
+              "198% ATK+247% DEF",
+              "209% ATK+261% DEF",
+              "224% ATK+280% DEF",
+              "239% ATK+299% DEF",
+              "254% ATK+317% DEF",
+              "269% ATK+336% DEF",
+              "284% ATK+355% DEF",
+              "299% ATK+373% DEF",
+              "317% ATK+397% DEF"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "16.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Hiyoku: Twin Blades",
+      "desc": "Twin blades leave their sheaths as Chiori slices with the clean cuts of a master tailor, dealing **AoE Geo DMG** based on her ATK and DEF.\n\n**\"Master one principle, and the path to all others shall open to you.\"**",
+      "img": "Chiori/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "256% ATK+320% DEF",
+            "276% ATK+344% DEF",
+            "295% ATK+368% DEF",
+            "320% ATK+401% DEF",
+            "340% ATK+425% DEF",
+            "359% ATK+449% DEF",
+            "384% ATK+481% DEF",
+            "410% ATK+513% DEF",
+            "436% ATK+545% DEF",
+            "461% ATK+577% DEF",
+            "487% ATK+609% DEF",
+            "513% ATK+641% DEF",
+            "545% ATK+681% DEF"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "13.5s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "50"
+        }
+      ],
+      "type": "Geo"
+    },
+    "passive": [
+      {
+        "name": "Tailor-Made",
+        "desc": "Gain different effects depending on the next action you take within a short duration after using **Fluttering Hasode**'s upward sweep. If you Press the Elemental Skill, you will trigger the Tapestry effect. If you Press your Normal Attack, the Tailoring effect will be triggered instead.\n\n**Tapestry**\n· Switches to the next character in your roster.\n· Grants all your party members \"Seize the Moment\": When your active party member's Normal Attacks, Charged Attacks, and Plunging Attacks hit a nearby opponent, \"Tamoto\" will execute a coordinated attack, dealing 100% of Fluttering Hasode's upward sweep DMG as **AoE Geo DMG** at the opponent's location. DMG dealt this way is considered Elemental Skill DMG.\n· \"Seize the Moment\" lasts 8s, and 1 of \"Tamoto\"'s coordinated attack can be unleashed every 2s. 2 such coordinated attacks can occur per \"Seize the Moment\" effect duration.\n\n**Tailoring**\n· Chiori gains **Geo infusion** for 5s.\n\nWhen on the field, if Chiori does not either Press her Elemental Skill or use a Normal Attack within a short time after using Fluttering Hasode's upward sweep, the Tailoring effect will be triggered by default.",
+        "img": "Chiori/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "The Finishing Touch",
+        "desc": "When a nearby party member creates a **Geo Construct**, Chiori will gain 20% **Geo DMG Bonus** for 20s.",
+        "img": "Chiori/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Brocaded Collar's Beauteous Silhouette",
+        "desc": "When any party member is wearing an outfit apart from their default outfit, or is wearing a wind glider other than the Wings of First Flight, your party members will obtain the Swift Stride effect: Movement SPD is increased by 10%.\nThis effect does not take effect in Domains, Trounce Domains, and the Spiral Abyss. Swift Stride does not stack.",
+        "img": "Chiori/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Six Paths of Sage Silkcraft",
+        "desc": "The AoE of the automaton doll \"Tamoto\" summoned by **Fluttering Hasode** is increased by 50%.\nAdditionally, if there is a **Geo** party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed:\n· Summon an additional Tamoto. Only one additional Tamoto can exist at the same time, whether summoned by Chiori this way or through the presence of a Geo Construct.\n· Triggers the Passive Talent \"The Finishing Touch.\" This effect requires you to first unlock the Passive Talent \"The Finishing Touch.\"",
+        "img": "Chiori/const_0"
+      },
+      {
+        "name": "In Five Colors Dyed",
+        "desc": "For 10s after using **Hiyoku: Twin Blades**, a simplified automaton doll, \"Kinu,\" will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing **AoE Geo DMG** equivalent to 170% of Tamoto's DMG. DMG dealt this way is considered Elemental Skill DMG.\nKinu will leave the field after 1 attack or after lasting 3s.",
+        "img": "Chiori/const_1"
+      },
+      {
+        "name": "Four Brocade Embellishments",
+        "desc": "Increases the Level of **Fluttering Hasode** by 3.\nMaximum upgrade level is 15.",
+        "img": "Chiori/const_2"
+      },
+      {
+        "name": "A Tailor's Three Courtesies",
+        "desc": "For 8s after triggering either follow-up effect of the Passive Talent \"Tailor-Made,\" when your current active character's Normal, Charged, or Plunging Attacks hit a nearby opponent, a simplified automaton doll, \"Kinu,\" will be summoned near this opponent. You can summon 1 Kinu every 1s in this way, and up to 3 Kinu may be summoned this way during each instance of \"Tailor-Made\"'s Seize the Moment or Tailoring effect. The above effect can be triggered up to once every 15s.\nMust unlock the Passive Talent \"Tailor-Made\" first.",
+        "img": "Chiori/const_3"
+      },
+      {
+        "name": "Two Silken Plumules",
+        "desc": "Increases the Level of **Hiyoku: Twin Blades** by 3.\nMaximum upgrade level is 15.",
+        "img": "Chiori/const_4"
+      },
+      {
+        "name": "Sole Principle Pursuit",
+        "desc": "After triggering a follow-up effect of the Passive Talent \"Tailor-Made,\" Chiori's own **Fluttering Hasode**'s CD is decreased by 12s. Must unlock the Passive \"Tailor-Made\" first.\nIn addition, the DMG dealt by Chiori's own Normal Attacks is increased by an amount equal to 235% of her own DEF.",
+        "img": "Chiori/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 763.438232421875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 63.612
+        },
+        {
+          "stat": "Base ATK",
+          "value": 21.55113
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1305.8812
+        },
+        {
+          "stat": "Base DEF",
+          "value": 108.81
+        },
+        {
+          "stat": "Base ATK",
+          "value": 36.863773345947266
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2029.1385498046875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 169.074
+        },
+        {
+          "stat": "Base ATK",
+          "value": 57.280635833740234
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2571.58154296875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 214.272
+        },
+        {
+          "stat": "Base ATK",
+          "value": 72.59328
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3114.0244140625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 259.47
+        },
+        {
+          "stat": "Base ATK",
+          "value": 87.90592
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3656.46728515625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 304.668
+        },
+        {
+          "stat": "Base ATK",
+          "value": 103.21857
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.192
+        }
+      ]
+    }
+  ]
+}

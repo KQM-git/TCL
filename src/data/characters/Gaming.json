@@ -170,7 +170,7 @@
       },
       {
         "name": "Bestial Ascent",
-        "desc": "Pounces forward using the Wushou arts, leaping high into the air after coming into contact with a target or surface.\nAfter Gaming has used Bestial Ascent to rise into the air, he will use the especially powerful Plunging Attack: Charmed Cloudstrider when performing a Plunging Attack.\n\n**Plunging Attack: Charmed Cloudstrider**\nThe DMG from Plunging Attacks caused by Bestial Ascent is converted to **Pyro DMG** that cannot be overridden by other elemental infusions. Upon landing, Gaming will consume a fixed amount of HP. Gaming's HP cannot be reduced below 10% by this method.\nCharmed Cloudstrider DMG is considered Plunging Attack DMG.\n\n**\"Auspicious beasts leap high to pluck the greens — that symbolizes good fortune and knowing how to make some serious green, y'know — so may we all rise to new heights, one step at a time!\"**",
+        "desc": "Pounces forward using the Wushou arts, leaping high into the air after coming into contact with a target or surface.\nAfter Gaming has used Bestial Ascent to rise into the air, if he immediately uses a Plunging Attack, he will use the especially powerful Plunging Attack: Charmed Cloudstrider instead.\n\n**Plunging Attack: Charmed Cloudstrider**\nThe DMG from Plunging Attacks caused by Bestial Ascent is converted to **Pyro DMG** that cannot be overridden by other elemental infusions. Upon landing, Gaming will consume a fixed amount of HP. Gaming's HP cannot be reduced below 10% by this method.\nCharmed Cloudstrider DMG is considered Plunging Attack DMG.\n\n**\"Auspicious beasts leap high to pluck the greens — that symbolizes good fortune and knowing how to make some serious green, y'know — so may we all rise to new heights, one step at a time!\"**",
         "img": "Gaming/skill_1",
         "talentTable": [
           {
@@ -259,7 +259,7 @@
       },
       {
         "name": "The Striding Beast",
-        "desc": "Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00).\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.",
+        "desc": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack.",
         "img": "Gaming/passive_2",
         "minAscension": 0
       }

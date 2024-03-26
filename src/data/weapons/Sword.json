@@ -3548,5 +3548,93 @@
       "name": "Golden Majesty",
       "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
     }
+  },
+  "Uraku Misugiri": {
+    "name": "Uraku Misugiri",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.192,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Brocade Bloom, Shrine Sword",
+      "desc": "Normal Attack DMG is increased by **16%**/**20%**/**24%**/**28%**/**32%** and Elemental Skill DMG is increased by **24%**/**30%**/**36%**/**42%**/**48%**. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by **20%**/**25%**/**30%**/**35%**/**40%**."
+    }
   }
 }

@@ -733,6 +733,94 @@
       "desc": "If there are at least 2 opponents nearby, ATK is increased by **16%**/**20%**/**24%**/**28%**/**32%** and DEF is increased by **16%**/**20%**/**24%**/**28%**/**32%**. If there are fewer than 2 opponents nearby, ATK is increased by **24%**/**30%**/**36%**/**42%**/**48%**."
     }
   },
+  "Dialogues of the Desert Sages": {
+    "name": "Dialogues of the Desert Sages",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Principle of Equilibrium",
+      "desc": "When the wielder performs healing, restore **8**/**10**/**12**/**14**/**16** Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field."
+    }
+  },
   "Dragon's Bane": {
     "name": "Dragon's Bane",
     "weaponType": "Polearm",
