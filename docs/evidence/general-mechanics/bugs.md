@@ -52,6 +52,13 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **Bug:** Elemental Skills' and Bursts' CDs do not get reset upon retrying an Abyss floor
 
+:::note
+**Version 4.3 Update Details:**
+> When re-challenging Domains, Trounce Domains, and the Spiral Abyss, if party members' skills are in CD, the CD will be reset.
+
+\- [Hoyoverse](https://www.hoyolab.com/article/23705134)
+:::
+
 **Evidence:** In the first 5 seconds of the clip, I start the Abyss floor and immediately switch to Xingqiu, a character with long CDs, in order to activate Vaporize with Diluc. Xingqiu is equipped with an R1 Sacrificial Sword. In order to achieve the "perfect run", I restart the floor to try to activate Sacrificial Sword's passive. Upon restarting the floor, both Xingqiu's E and Q are off cooldown, causing me to restart the floor again.
 
 [YouTube](https://youtu.be/3_QlBz5P5B8)
@@ -97,6 +104,13 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_947163566954393671_transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)
 
 **Bug:** Resetting or exiting a domain does not reset Elemental Skill cooldowns.
+
+:::note
+**Version 4.3 Update Details:**
+> When re-challenging Domains, Trounce Domains, and the Spiral Abyss, if party members' skills are in CD, the CD will be reset.
+
+\- [Hoyoverse](https://www.hoyolab.com/article/23705134)
+:::
 
 **Evidence:**
 
