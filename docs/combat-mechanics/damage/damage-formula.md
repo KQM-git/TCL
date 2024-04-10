@@ -53,7 +53,7 @@ $$
 | **EM**                   | Sum of all Elemental Mastery from ascension stat, weapons, artifacts, and other sources.                                                                                                                                                        |
 | **AdditiveBaseDMGBonus** | Extra damage from [sources](damage-formula.md#flat-damage-sources) such as [Zhongli's A4](../../characters/geo/zhongli.md#ascension-passives) or [Additive Reactions](damage-formula.md#additive-reaction).                                     |
 | **DMGBonus**             | Sum of all percentage damage increases from goblets, weapons, set bonuses and other buffs. Excludes [Xingqiu's C4](../../characters/hydro/xingqiu.md#constellations) and [Yoimiya's Elemental Skill](../../characters/pyro/yoimiya.md#attacks). |
-| **BaseDMGMultiplier**    | Applies to certain character Talents only. See the [Special Multiplier section](damage-formula.md#base-dmg-multiplier) for full details.                                                                                                         |
+| **BaseDMGMultiplier**    | Applies to certain character Talents only. See the [Base DMG Multiplier section](damage-formula.md#base-dmg-multiplier) for full details.                                                                                                         |
 
 ### Additive Base DMG Sources
 
