@@ -57,18 +57,19 @@
         "swap": 28
     },
     {
-        "name": "Reast",
+        "name": "Recast",
         "hitmark": 26,
+        "hitlag": 0.09,
         "n1": 42,
         "burst": 43,
         "dash": 14,
         "jump": 16,
-        "swap": 42
+        "swap": 42,
+        "notes": "Hitlag in Recast is for Slashing DMG"
     },
     {
         "name": "Thunderclap Slash",
-        "hitmark": 24,
-        "hitlag": 0.09
+        "hitmark": 24
     }],
     "Burst": {
         "name": "Cast",
