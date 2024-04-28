@@ -67,4 +67,35 @@ import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
 
 * Collei's C2 doesn't proc if it is unable to return to the player, regardless of whether it reacts. - [Video](https://youtu.be/dGji1X1tnUA) - sigurd\#3854
 
-## Synergies/Interactions
+### C6: Forest of Falling Arrows
+
+#### Collei C6 Is Not Skill Or Burst Dmg
+
+**By:** @xochiyoh  
+**Added:** <Version date="2024-03-15" />  
+**Last tested:** <VersionHl date="2024-02-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/collei-c6-is-not-skill-or-burst-dmg)
+
+**Finding:**
+
+Collei's C6 DMG is not considered Skill or Burst DMG 
+
+**Evidence:**
+
+* https://youtu.be/zQmiOFMri1A
+  * **Skill Hits 1 & 2 - non-crit:**
+257.0% * Total ATK 326.83 * ( 100% + Total DMG Bonus 20% ) * Enemy DEF Multiplier 50.7% * ( 100% - Total Enemy Dendro DMG RES -10% / 2 ) = **536.31**
+  * **C6 - crit:**
+200% * Total ATK 326.83 * ( 100% + Total Crit DMG 80.3% ) * Enemy DEF Multiplier 50.7% * ( 100% - Total Enemy Dendro DMG RES -10% / 2 ) = **626.99**
+
+* https://youtu.be/tRonOm8xUhY
+  * **Skill - non-crit:**
+189% * Total ATK 235.73 * Enemy DEF Multiplier 47.9% * ( 100% - Total Enemy Dendro DMG RES 10% ) = **192.02**
+  * **C6 - non-crit:**
+200% * Total ATK 235.73 * Enemy DEF Multiplier 47.9% * ( 100% - Total Enemy Dendro DMG RES 10% ) = **203.19**
+
+These calcs assume Skill/Burst DMG% does not apply to C6, and they match the in-game numbers.
+
+**Significance:**
+
+Collei C6 will not benefit from anything like Golden Troupe, Noblesse 2pc, Stringless, etc.
