@@ -252,6 +252,22 @@ Bennett Q - Kazuha N1 Q - [Imgur](https://imgur.com/a/jaZ2UXE)
 **Significance:**  
 Timing Burst on certain cases.
 
+### Kazuha Burst Tick Count
+
+**By:** @staryy_  
+**Added:** <Version date="2024-04-15" />  
+**Last tested:** <VersionHl date="2024-04-03" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kazuha-burst-tick-count)
+
+**Finding:**  
+Kazuha burst DoT ticks 5 times  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/EB7Pz8-OxLI)  
+  
+**Significance:**  
+Better understanding of his kit
+
 ## Ascension Mechanics
 
 ### A1: Soumon Swordsmanship
