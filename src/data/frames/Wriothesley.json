@@ -1,0 +1,79 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0,
+        "next_na": 14,
+        "ca": 23,
+        "walk": 27
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 10,
+        "hitlag": 0,
+        "next_na": 13,
+        "ca": 20,
+        "walk": 25
+    },
+    {
+        "name": "N3",
+        "hitmark": 18,
+        "hitlag": 0.03,
+        "next_na": 24,
+        "ca": 19,
+        "walk": 41
+    },
+    {
+        "name": "N4",
+        "hitmark": [25, 10],
+        "hitlag": [0, 0],
+        "next_na": 41,
+        "ca": 41,
+        "walk": 56
+    },
+    {
+        "name": "N5",
+        "hitmark": 39,
+        "hitlag": 0.06,
+        "next_na": 59,
+        "ca": 39,
+        "walk": 57
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 20,
+        "hitlag": 0.12,
+        "n1": 52,
+        "skill": 52,
+        "burst": 52,
+        "walk": 51,
+        "dash": "",
+        "jump": "",
+        "swap": 49
+    },
+    "Skill": {
+        "name": "Cast",
+        "cd": 1
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 99,
+        "arkhe": 160,
+        "n1": 133,
+        "skill": 133,
+        "walk": 133,
+        "dash": 133,
+        "jump": 133,
+        "cd": 0,
+        "energy": 5,
+        "notes": ["The gap between successive burst hits is <5f (inconsistent)"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 19
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}
