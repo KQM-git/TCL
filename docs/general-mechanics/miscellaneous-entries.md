@@ -144,7 +144,7 @@ The winning "TC" entries of our **KQM 100K Event**, as well as some of our Schol
 ### Radius of Teyvat
 
 * Calculate gravity on the surface of Teyvat, height of Celestia, and use it to find the radius of Teyvat.
-  * Written by [sexyeboy69#2687](https://www.overleaf.com/project/6228b45e92354f715f4f4d7b)
+  * Written by [sexyeboy69#2687](https://www.overleaf.com/read/jmxfvwnfhptk#99fe85)
 
 ### Keqing is Better than a Spoon
 
