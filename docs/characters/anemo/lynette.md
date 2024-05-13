@@ -83,19 +83,19 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='e' />
 
 
-| Attribute      | Enigmatic Thrust         | Surging Blade        | 
-| :------------- | :-------------------     | :------------------- |
-| DMG \(T9%\)    |     455.6%               |      53.04%          |
-| Particles      |     4 \(-\)              |      -               |
-| GU             |     1U                   |      0U              |
-| ICD            |     None                 |      None            |
-| Snapshot       |     Dynamic              |      Dynamic         |
-| Damage Element |     Anemo                |      Anemo           |
-| Damage Type    |     Skill                |      Skill           |
-| Duration       |     Hold: 2.5s           |      -               |
-| CD             |     12s                  |      12s             |
-| Poise Damage   | Tap: 100<br /> Hold: 125 |      20              |
-| Impulse Type   |     2                    |      3               |
+| Attribute      | Enigmatic Thrust         | Surging Blade               | 
+| :------------- | :-------------------     | :-------------------------- |
+| DMG \(T9%\)    |     455.6%               |      53.04%                 |
+| Particles      |     4 \(-\)              |      -                      |
+| GU             |     1U                   |      0U                     |
+| ICD            |     None                 |      None                   |
+| Snapshot       |     Dynamic              |      Dynamic                |
+| Damage Element |     Anemo                |      Anemo                  |
+| Damage Type    |     Skill                |      Skill                  |
+| Duration       |     Hold: 2.5s           |      -                      |
+| CD             |     12s                  | Surging Blade Interval: 10s |
+| Poise Damage   | Tap: 100<br /> Hold: 125 |      20                     |
+| Impulse Type   |     2                    |      3                      |
 
 
 </div>

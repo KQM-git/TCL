@@ -58,10 +58,10 @@
         "release": 50,
         "hitlag": 0,
         "n1": 60,
-        "burst": 32,
+        "burst": 62,
         "dash": 52,
-        "jump": 51,
-        "swap": 50,
+        "jump": 52,
+        "swap": 60,
         "notes": ["C2 hitmark: 149f"]
     }],
     "Burst": {

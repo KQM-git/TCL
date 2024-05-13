@@ -74,6 +74,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* Spiritbreath Thorn Interval: 6s
 * **Grin-Malkin Hat** created by **Prop Arrow** snapshots on creation.
 * Lyney's **Prop Arrow** from his Charged Attack can hit multiple enemies grouped very closely together.
 * Amos' Bow and Slingshot interaction with **Grim-Malkin Hat**'s **Pyrotechnic Strike** is as follows. The bonus is calculated as if the charged attack was fired the moment **Pyrotechnic Strike** was launched (regardless of Lyney's **Prop Arrows**). If Elemental Skill was being used to detonate the **Grim-Malkin Hat**, the time is counted as 0s. 

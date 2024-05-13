@@ -105,10 +105,31 @@ import LumineCA from '../_common/lumine_ca.md'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!-- TODO -->
+| Attribute                           | Torrent Surge, Dewdrop, Spiritbreath Thorn | 
+| :---------------------------------  | :----------------------------------------- |
+| DMG \(T9%\)                         | 321.78%, 55.76%, 55.76%                    |
+| Suffusion DMG Bonus \(T9%\)         | 1.09%  Max HP                              |
+| Suffusion HP Cost                   | 4% Max HP                                  |
+| Particles                           | 3~4 \(2-1\)                                |
+| GU                                  | 1U, 1U, 0U                                 |
+| ICD                                 | None, 1.5s, None                           |
+| Snapshot                            | Dynamic                                    |
+| Damage Element                      | Hydro                                      |
+| Damage Type                         | Skill                                      |
+| CD                                  | 10s <br /> Spiritbreath Thorn Interval: 9s |
+| Duration                            | 6s (maximum)                               |
+| Poise Damage                        | 100, 25, 20                                |
+| Impulse Type                        | 2, 2, 2                                    |
 
 </div>
 
+**Notes**
+
+* The **Arkhe: Pneuma Spiritbreath Thorn** can proc the reset on Sacrificial Sword.
+* Hold Skill shoots a total of 22 Dewdrops over the maximum duration. The last Dewdrop is fired simulatenously with the Torrent Surge attack.
+* Traveler remains stationary for a time after using Hold E on ice bridge and the ice bridge melts. Before they fall into the water, they cannot be controlled.
+* **Sourcewater Droplets** from Skill function similarly to **Klee**/**Aloy** Skill when interacing with **Anemo** abilities. Droplets can be pulled. Droplets do not explode at the same time. Droplets do not have innate **Hydro** aura.
+* In co-op, **Sourcewater Droplets** from other Hydro Travelers do not exist for you. You cannot see other their Sourcewater Droplets and you cannot use them to regain HP.
 
 </TabItem>
 
@@ -117,10 +138,27 @@ import LumineCA from '../_common/lumine_ca.md'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- TODO -->
+| Attribute        | Burst                                                        |
+| :--------------- | :----------------------------------------------------------- |
+| DMG \(T9%\)      | 173.17%                                                      |
+| GU               | 1U                                                           |
+| ICD              | 8s/4 hit                                                     |
+| Snapshot         | Snapshot                                                     |
+| Damage Element   | Hydro                                                        |
+| Damage Type      | Burst                                                        |
+| Energy Cost      | 80                                                           |
+| Duration         | 4s                                                           |
+| Cooldown         | 20s                                                          |
+| Poise Damage     | 40                                                           |
+| Impulse Type     | 2                                                            |
 
 </div>
 
+**Notes**
+
+* Burst snapshots at beginning of animation.
+* Burst cannot be pulled by **Anemo** abilities.
+* Burst doesn't stop against Enemies, Geo Constructs or walls.
 
 </TabItem>
 </Tabs>
@@ -137,12 +175,11 @@ import commonFrames from '@site/src/data/frames/Traveler_(Common).json'
 
 ### Hydro
 
-<!--
+
 import anemoFrames from '@site/src/data/frames/Traveler_(Hydro).json'
 
 <Frames data={anemoFrames} />
--->
-Work in Progress.
+
 
 ## Ascension Passives
 
