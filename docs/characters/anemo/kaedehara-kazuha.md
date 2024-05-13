@@ -147,6 +147,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Absorption priority: Pyro > Hydro > Electro > Cryo
+* DoT ticks 5 times over the burst duration
 
 </TabItem>
 </Tabs>
