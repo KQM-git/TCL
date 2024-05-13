@@ -187,6 +187,10 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
+
+**Notes**
+
+* C6 is neither skill nor burst damage. [Vault entry](../../evidence/characters/dendro/collei.md#collei-c6-is-not-skill-or-burst-dmg)
 </TabItem>
 </Tabs>
 
