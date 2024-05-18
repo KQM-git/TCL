@@ -179,7 +179,11 @@ import SacSeries from './\_common/sac_series.md';
 
 ### Talking Stick
 
-<Weapon weapon="Talking Stick" weapons={claymores} />
+<Weapon weapon="Talking Stick" weapons={claymores}>
+
+* Interactions with specific characters can be found in the [Vault Entry](./../../evidence/equipment/weapons.md#talking-stick-mechanics)
+
+</Weapon>
 
 ### The Bell
 
