@@ -17,8 +17,7 @@ import Image from '@theme/IdealImage'
 
 * [Freminet Mains Discord]()
 * [Full Freminet Written Guide]()
-* [Freminet Quick Guide]()
-* [# Minute Video Guide to Freminet]()
+* [Freminet Quick Guide](https://keqingmains.com/q/freminet-quickguide/)
 -->
 
 ## Base Stats
@@ -37,69 +36,39 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
--->
-
-<!--
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+| String | Talent 9% | Frames | MV/s   | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :----- | :----------- | :----------- |
+| 1-Hit  | 154.76    | 32     | 290.18 | 112.64       | 3            |
+| 2-Hit  | 148.22    | 33     | 269.49 | 107.88       | 3            |
+| 3-Hit  | 187.22    | 59     | 138.58 | 136.27       | 3            |
+| 4-Hit  | 227.46    | 86     | 158.69 | 165.55       | 5            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- sword
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              | 2 + 6        |
-| N1C    |           |        |      | -            | -            |
--->
-
-<!-- claymore
 | String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
-
-<!-- polearm/catalyst
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              |              |
--->
-
-<!-- bow
-| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
-| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
-| Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
--->
+| Spinning DMG |  114.87   |  ?     |   ?  | 60           | 2            |
+| Final DMG    |  207.77   |  ?     |   ?  | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      | 137.03    | 35           | 2            |
+| Low Plunge DMG  | 274.01    | 150          | 4            |
+| High Plunge DMG | 342.25    | 200          | 7            |
+
 
 </div>
 
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* By holding the attack button with good timing it is possible to infinitely extend the spin CA.
 
 </TabItem>
 
@@ -108,23 +77,42 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+| Attribute            | Skill           |
+| :------------------- | :-------------- |
+| Upward Thrust DMG \(T9%\) | 141.17     |
+| Spiritbreath Thorn DMG \(T9%\) | 24.48 |
+| Frost DMG \(T9%\)    | 12.17           |
+| Level 0 DMG \(T9%\)  | 340.82          |
+| Level 1 DMG \(T9%\)  | 170.41 + 82.77  |
+| Level 2 DMG \(T9%\)  | 119.29 + 144.85 |
+| Level 3 DMG \(T9%\)  | 68.16 + 206.92  |
+| Level 4 DMG \(T9%\)  | 0 + 413.95      |
+| Particles      | see notes     |
+| GU             | 1U            |
+| ICD         | Standard, shared |
+| Damage Element | Cryo + Phys   |
+| Damage Type    | Skill         |
+| CD             | 10s           |
+| Spiritbreath Thorn CD | 9s     |
+
+|                    | Poise Damage | Impulse type |
+| :----------------- | :----------- | :----------- |
+| Upward Thrust      | 75           | Air, 0, 600  |
+| Spiritbreath Thorn | 25           | 3            |
+| Frost DMG          | 25           | 1            |
+| Level 0            | 150          | 5            |
+| Level 1-3 Cryo     | 70           | 5            |
+| Level 1-3 Phys     | 70           | 5            |
+| Level 4            | 150          | 5            |
 
 </div>
+
+**Notes**
+
+* Freminet's Skill generates 2 particles on his upthurst and 1 on level 4 Shattering Pressure. During burst, he generates 1 particle on upthurst and 1 on level 4 Shattering Pressure instead.
+* Freminet's Skill cooldown starts on its first cast.
+* The Pers Timer state persists through swaps.
+* If you jump or fall from any height after you reach 4 stacks with his E, you will be able to keep doing normal attacks despite being at full stacks, and you can only E2 by pressing E again.
 
 </TabItem>
 
@@ -133,36 +121,33 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
-<!-- 
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
+| Attribute         | Primary   |
+| :---------------- | :-------- |
+| DMG \(T9%\)       | 541.28    |
+| GU                | 1U        |
+| Damage Element    | Cryo      |
+| Damage Type       | Burst     |
+| Energy Cost       | 60        |
+| Duration          | 10s       |
+| Cooldown          | 15s       |
+| Poise Damage      | 200       |
+| Impulse Type      | 3         |
 
 </div>
+
+**Notes**
+
+* The 200% Frost DMG during Freminet's Burst is a Base DMG Multiplier.
 
 </TabItem>
 </Tabs>
 
-<!--
 ## Frames
 
 import charFrames from '@site/src/data/frames/Freminet.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
 
 ## Ascension Passives
 
