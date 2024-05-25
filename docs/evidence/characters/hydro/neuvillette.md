@@ -8,10 +8,6 @@
 
 ## Attack Mechanics
 
-## Skill Mechanics
-
-## Burst Mechanics
-
 ### Faster Neuvi Balls
 
 **By:** @caramielle., @makeway4pk  
@@ -43,6 +39,10 @@
   
 **Significance:**  
 More balls for sweaty fights
+
+## Skill Mechanics
+
+## Burst Mechanics
 
 ## Ascension Mechanics
 
