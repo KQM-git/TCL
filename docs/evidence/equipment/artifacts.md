@@ -1264,13 +1264,33 @@ Evidence for 4 & 5: [Google Sheets](https://docs.google.com/document/d/1tgOqAyEy
 **Significance:**  
 Better understanding of The Exile. It's important for accurate ER calculations to be aware of how many Energy regeneration ticks The Exile actually gives, since this can vary.
 
+## Unfinished Reverie  
+
+### Unfinished Reverie Snapshots  
+
+**By:** @haafr  
+**Added:** <Version date="2024-05-22" />  
+**Last tested:** <VersionHl date="2024-05-22" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/unfinished-reverie-snapshot)
+
+**Finding:**  
+The DMG Bonus from 4pc Unfinished Reverie can snapshot.  
+
+**Evidence:**  
+Xiangling's damage is expected to drop after 6s in battle without Burning triggered, but the damage stays the same for the entire Burst.  
+[YouTube](https://youtu.be/BObTo8cwWOo?si=6AjXtHKLIGIxWV8B)  
+
+**Significance:**  
+This set can be viable for characters who can snapshot even without Burning, if they can clear a Spiral Abyss chamber in a single rotation.  
+
+
 ## Shimenawa's Reminiscence
 
 ### The buff gained and Energy drain can not reoccur if effect has been activated.
 
 **By:** Kourinn\#6001
 
-Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
+**Evidence:** [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
 
 ### Shimenawa Energy drain delay
 
