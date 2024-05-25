@@ -17,7 +17,7 @@
 
 **Finding:**  
 - Institute tiles to metres conversion factor: 1.25 (4 tiles = 5 meters )  
-- Neuvillette's ball absorb range is at least 2 different overlapping regions:  
+- Neuvillette's Sourcewater Droplet absorption range is at least 2 different overlapping regions:  
   - 1. A cone fixed to the camera (marked by the far away blue line while floating)  
   - 2. A narrow rectangular strip with its long end toward the direction Neuvillette is facing.  
   This is an approximate sketch:  
