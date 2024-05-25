@@ -267,6 +267,14 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 * The 4-Piece set holder does not have to be on-field to receive the 35% damage bonus.
 
+</Artifact>  
+
+### Unfinished Reverie  
+
+<Artifact artifact="Unfinished Reverie">  
+
+* The DMG Bonus from 4pc Unfinished Reverie can snapshot.  
+
 </Artifact>
 
 ### Vermillion Hereafter
