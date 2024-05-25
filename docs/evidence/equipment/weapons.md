@@ -1794,6 +1794,24 @@ $1283 \ \text{(total ATK without SotSS passive)} + 403 \ \text{(EM after diona C
 **Significance:**  
 Pre-stacking SotSS will not give you the full value of the Dream of the Scarlet Sands effect if EM buffs are obtained after the stacks.
 
+---  
+
+#### Staff Of The Scarlet Sands Can Gain Multiple Stacks From One Attack  
+
+**By:** @xochiyoh  
+**Added:** <Version date="2024-05-20" />  
+**Last tested:** <VersionHl date="2024-05-07" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/staff-of-scarlet-sands-can-gain-multiple-stacks-from-one-attack)
+
+**Finding:**  
+Staff of the Scarlet Sands can gain multiple stacks from one attack if it hits multiple enemies.  
+  
+**Evidence:**  
+[www.youtube.com](https://www.youtube.com/watch?v=4S7LhE-KrMs)  
+  
+**Significance:**  
+SoSS can stack faster in AoE situations.  
+
 ---
 
 ### The Bell
