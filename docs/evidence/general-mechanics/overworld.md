@@ -1815,7 +1815,23 @@ Water at the beach is still considered environment: [YouTube](https://youtu.be/j
 Sewer in Liyue is also an environment: [YouTube](https://youtu.be/gm49F_IucEU)  
   
 **Significance:**  
-No extended Wanda's stamina for flying. 
+No extended Wanda's stamina for flying.  
+
+### You Can’t Talk Underwater
+
+**By:** @.magnusartifex  
+**Added:** <Version date="2024-01-29" />  
+**Last tested:** <VersionHl date="2023-11-26" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/you-can’t-talk-underwater)
+
+**Finding:**  
+Characters don’t trigger voice lines while underwater. Tested with fortune and death.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/pIyVBXY)  (Opening Treasure Chest and Fallen voicelines not triggering)
+  
+**Significance:**  
+Hoyo is inconsistent with its own canon since when we do quests we actually talk while diving.  
 
 ## Other
 
