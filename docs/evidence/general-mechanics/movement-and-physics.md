@@ -487,7 +487,7 @@ Fluff and documenting overworld mechanics.
 [Discussion](https://tickets.deeznuts.moe/transcripts/movement-speed-and-gliding)
 
 **Finding:**  
-Movement Speed does not affect Gliding Speed.  
+Movement Speed does not affect gliding SPD.  
   
 **Evidence:**  
 Clip 1: buffed with Lost Prayer, Anemo Resonance, and Dehya basking in the sunlight  
