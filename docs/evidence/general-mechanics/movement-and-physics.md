@@ -477,7 +477,26 @@ When riding an elevator up and jumping just at the right moment before it stops,
 * [Diminished jump](https://imgur.com/a/TvnGQgD)
 
 **Significance:**  
-Fluff and documenting overworld mechanics.
+Fluff and documenting overworld mechanics.  
+
+### Movement Speed And Gliding
+
+**By:** @milktearomance  
+**Added:** <Version date="2024-02-09" />  
+**Last tested:** <VersionHl date="2024-01-31" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/movement-speed-and-gliding)
+
+**Finding:**  
+Movement Speed does not affect Gliding Speed.  
+  
+**Evidence:**  
+Clip 1: buffed with Lost Prayer, Anemo Resonance, and Dehya basking in the sunlight  
+Clip 2: no buffs  
+Observed result: both buffed and unbuffed characters took ~15 seconds to cross the gap  
+[YouTube](https://youtu.be/p9445Lis2dE)  
+  
+**Significance:**  
+Overworld travel  
 
 ## Hitboxes
 
