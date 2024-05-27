@@ -10,21 +10,19 @@ The TCL is organized so that each page has a corresponding Evidence Vault. The E
 
 ## Quick Links
 
-**Most Recent Characters:** [Chevreuse](/characters/pyro/chevreuse.md) | [Navia](/characters/geo/navia.md)
+**Most Recent Characters:** [Arlecchino](/characters/pyro/arlecchino.md) | [Chiori](/characters/geo/chiori.md)
 
 **Elemental Gauge Theory:** [Page](/combat-mechanics/elemental-effects/elemental-gauge-theory)
 
 **Damage Formula:** [Page](/combat-mechanics/damage/damage-formula)
-
-**Newsletter:** The [newsletter](/newsletter) is a way to catch up on the latest submissions to the Theorycrafting Library at a glance. They will be updated after every Character Event Wish ends and archived in a section underneath.
 
 ## Submissions
 
 If you're interested in submitting information/findings to be published in the TCL, follow these steps:
 
 1. Join the KQM Discord: [discord.gg/keqing](https://discord.com/invite/keqing).
-2. Grab the Theorycrafter role, then the Library Submissions and/or Guide Submissions role in the **#theory-readme** channel.
-3. Head to the **#library-submissions** channel and read the guidelines first.
+2. Grab the Theorycrafter role, then the Library Submissions and/or Guide Submissions role in the **#tc-readme** channel.
+3. Head to the **#ticket-start-here** channel and read the guidelines first.
 4. Create a new ticket by pressing one of the "Create ticket" buttons. Library Submissions are for normal tickets and Guide Submissions are for character guides.
    * Make sure you have preliminary findings with evidence already prepared before you create a ticket.
 5. Your ticket will be created and you will be pinged there.
