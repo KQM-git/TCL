@@ -258,8 +258,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'KQM',
-                href: 'https://keqingmains.com/',
+                label: 'KQM Guides',
+                href: 'https://kqm.gg/',
               },
               {
                 label: 'Discord',
