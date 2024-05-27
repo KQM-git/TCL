@@ -40,6 +40,9 @@ search: false
 
 ## Constellation Mechanics
 
+### C1: Kyouka Fuushi
+* C1 benefits both his base Shunsuiken scaling and the HP scaling Namisen additive buff portion of his attacks. - [Video](https://youtu.be/d-Ic_rWXX_Q?si=IJbKLJY2b80Re3Oo), [sheet](https://docs.google.com/spreadsheets/d/1gN1xFtR6CC7ivMwMZv7mpheQfzCJSM8HPc6XgXt3OVo) - jamberry
+
 ### C6: Boundless Origin
 
 * Ayato's C6 is considered Normal Attack damage. - [Video](https://youtu.be/fx9SuTIh55Y) - Bobrokrot\#0111
