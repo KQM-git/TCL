@@ -129,7 +129,7 @@ Let me know/ping me if this is not should not be the case. -->
 * A maximum of 12 Sourcewater Droplets created by Neuvillette can exist at one time.
 * Sourcewater Droplets remain onfield even after Neuvillette dies.
 * In Co-op, the player can only see their own Sourcewater Droplets.
-* Various Anemo abilities can move Sourcewater Droplets. See the [Evidence Vault](../../evidence/characters/hydro/neuvillette.md) for more details.
+* Various Anemo abilities can move Sourcewater Droplets. See the [Evidence Vault](../../evidence/characters/hydro/neuvillette.md#synergiesinteractions) for more details.
 * Spiritbreath Thorn has hitlag and can be used to Dragonstrike.
 
 </TabItem>
