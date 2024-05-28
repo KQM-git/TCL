@@ -201,8 +201,8 @@ const config = {
             label: 'TCG'
           },
           {
-            href: 'https://keqingmains.com/',
-            label: 'KeqingMains',
+            href: 'https://kqm.gg/',
+            label: 'KQM',
             position: 'right',
           },
           {
