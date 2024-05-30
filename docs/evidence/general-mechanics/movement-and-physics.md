@@ -139,7 +139,43 @@ Found that if you mash A and D to rapidly move side to side it drains your stami
 * Stamina drain while rapidly moving side to side [YouTube](https://youtu.be/rqcAJtCP0x0)  
   
 **Significance:**  
-Swim in straight lines for maximum distance \(or speedrun drowning if that's your goal\).
+Swim in straight lines for maximum distance \(or speedrun drowning if that's your goal\).  
+
+### Underwater Travel Speed  
+
+**By:** @caramielle., @staryy_  
+**Added:** <Version date="2023-09-04" />  
+**Last tested:** <VersionHl date="2023-09-02" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/underwater-travel-speed)
+
+**Findings:**  
+1. All character models swim at the same speed underwater.  
+2. Repeatedly tapping swim leads to faster travel speed than holding swim.  
+3. Using the Waverider is still the fastest way to travel across water.  
+
+**Evidence:**  
+*all tests were done by seeing how many frames it took to swim a set distance, count starts on the frame swim button registers input*  
+
+**Body Types**  
+distance is from startpoint -> when the bridge touches the edge of the screen  
+- Tall Female (71f-949f, in total 878f): [YouTube](https://youtu.be/_KwjLF60EF4?si=f7LIE1qf-oMq-lbb)  
+- Tall Male (48f-925f, in total 877f): [YouTube](https://youtu.be/PQ09G0UrZLM?si=2sN7usIP4M6AjNk9)  
+- Short Female (24f-901f, in total 877f): [YouTube](https://youtu.be/uX0Q7JXbUTU?si=m8awW2sO_3UC6OJz)  
+- Short Male (41f-919f, in total 878f): [YouTube](https://youtu.be/IhwjUK35_4U?si=9KkZE8rNWFKR6iVE)  
+- Child (34f-908f, in total 874f): [YouTube](https://youtu.be/u5XG_NJL_VY?si=SgocM5iNqplidRP0)  
+   
+**Tap vs. Hold Swim**  
+distance is startpoint -> 484m distance from questmarker  
+- Hold Swim (21f-1294f, total of 1273f): [YouTube](https://youtu.be/n6CUcNGVpbw?feature=shared)  
+- Tap Swim (69f-1236f, total of 1167f): [YouTube](https://youtu.be/KeHWyFvu6qs?feature=shared)  
+  
+**Waverider**  
+distance is 1115m -> 1228m from questmarker  
+- Character (85f-955f, total of 870f): [YouTube](https://youtu.be/mfx1I3gN80U?feature=shared)  
+- Waverider (151f-785f, total of 634f): [YouTube](https://youtu.be/t-wbqPyh0ic?feature=shared)  
+  
+**Significance:**  
+gotta ~~go~~ swim fast 
 
 ## Movement Speed
 
