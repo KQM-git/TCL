@@ -952,6 +952,23 @@ Ningguang was used due to her low Burst Energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that HP before healing\)
 
+### 4pc Maidens Doesnt Stack
+
+**By:** @clevernt  
+**Added:** <Version date="2024-05-29" />  
+**Last tested:** <VersionHl date="2024-05-29" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4pc-maidens-doesnt-stack)
+
+**Finding:**  
+4pc Maiden's Beloved's effect does not stack on multiple uses, and instead refreshes the duration 
+
+**Evidence:**  
+[YouTube](https://youtu.be/8Iwrv_2h2u4)  
+[YouTube](https://youtu.be/bnbcyfuc6eQ)  
+
+**Significance:**  
+Better understanding of Maiden's Beloved effect.
+
 ## Noblesse Oblige
 
 ### Self 4NO Interactions
