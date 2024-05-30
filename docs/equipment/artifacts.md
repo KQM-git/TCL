@@ -158,6 +158,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 * 4-Piece set bonus is applied to Prototype Amber's healing effect.
 * The active bonus timer will remain even when any piece is removed or the character equipping the set is swapped out of the team.
+* 4-Piece Maiden's Beloved's effect does not stack on multiple uses, and instead refreshes the duration.   
 
 </Artifact>
 
