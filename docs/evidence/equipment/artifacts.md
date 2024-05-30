@@ -952,7 +952,7 @@ Ningguang was used due to her low Burst Energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that HP before healing\)
 
-### 4pc Maidens Doesnt Stack
+### 4-Piece Maiden's Doesnt Stack
 
 **By:** @clevernt  
 **Added:** <Version date="2024-05-29" />  
