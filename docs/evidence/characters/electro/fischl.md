@@ -413,13 +413,13 @@ Helps with accurate calculations as well as rotation crafting.
 
 ## Synergies/Interactions
 
-### Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite?
+### Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Undone Be Thy Sinful Hex?
 
 **By:** Cola\#6861
 
 I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are Anemo which will Swirl the Electro debuff on the enemy.
 
-Upon testing, as expected: it works, and Lightning Smite can also CRIT.
+Upon testing, as expected: it works, and Undone Be Thy Sinful Hex can also CRIT.
 
 **Evidence:**
 

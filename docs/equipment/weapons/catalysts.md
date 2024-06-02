@@ -72,6 +72,8 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Tome of the Eternal Flow" weapons={catalysts} />
 
+* Tome of the Eternal Flow doesn't gain stacks when off field. [@f99shi](../../evidence/equipment/weapons#tome-of-the-eternal-flow-doesnt-gain-stacks-when-off-field)
+
 ### Tulaytullah's Remembrance
 
 <Weapon weapon="Tulaytullah's Remembrance" weapons={catalysts} />
@@ -81,6 +83,8 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 ### Ballad of the Boundless Blue
 
 <Weapon weapon="Ballad of the Boundless Blue" weapons={catalysts} />
+
+* Ballad of the Boundless Blue stacks stay when off field. - [@emmaus](../../evidence/equipment/weapons#ballad-of-the-boundless-blue-stacks-stay-when-off-field)
 
 ### Blackcliff Agate
 

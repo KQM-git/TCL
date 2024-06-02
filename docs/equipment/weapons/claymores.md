@@ -124,6 +124,9 @@ import FavSeries from './\_common/fav_series.md';
 
 <Weapon weapon="Portable Power Saw" weapons={claymores} />
 
+* Roused effect does not trigger without Stoic's Symbols. Eating food can add Stoic's Symbols. There is little to no cooldown between accumulation of stacks. - [@milktearomance](../../evidence/equipment/weapons#portable-power-saw-mechanics)
+* Portable Power Saw passive procs on overhealing. - [@shampoobrain](../../evidence/equipment/weapons#portable-power-saw-passive-procs-on-overhealing) 
+
 ### Prototype Archaic
 
 <Weapon weapon="Prototype Archaic" weapons={claymores} />
