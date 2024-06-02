@@ -12,14 +12,12 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Navia.png')} alt="Navia's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
-<!--
+
 ## Resources
 
-* [Navia Mains Discord]()
-* [Full Navia Written Guide]()
-* [Navia Quick Guide]()
-* [# Minute Video Guide to Navia]()
--->
+* [Full Navia Written Guide](https://keqingmains.com/navia/)
+* [Navia Quick Guide](https://keqingmains.com/q/navia-quickguide/)
+
 
 ## Base Stats
 
@@ -37,49 +35,45 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+
+| String | Talent 9% | Frames  | MV/s | Poise Damage | Impulse Type |
+| :----- | :-------- | :------ | :--- | :----------- | :----------- |
+| 1-Hit  |   171.81  |   23    |      |     129.8    |       3      |
+| 2-Hit  |   158.93  |   22    |      |     120.1    |   Air, 400, 0|
+| 3-Hit  |   64.09x3 | 31-39-48|      |     50.5x3   |     1-1-1    |
+| 4-Hit  |   245.14  |   41    |      |     185.9    | Air, 120, 480|
+
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- claymore
+
 | String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
+| Spinning DMG |   114.87  |        |      | 60           | 3            |
+| Final DMG    |   207.77  |        |      | 120          | 6            |
+
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
+
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      |   137.03  |     35       |      2       |
+| Low Plunge DMG  |   274.01  |     150      |      4       |
+| High Plunge DMG |   342.25  |     200      |      7       |
+
 
 </div>
 
-<!--
+
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
--->
 
 </TabItem>
 
@@ -88,29 +82,27 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+
+| Attribute      | Tap       | Hold       |
+| :------------- | :-------- | :--------- |
+| DMG \(T9%\)    |   671.68*5 | 671.68*11  |
+| Particles      |   -     |  3-4(50%)  |
+| GU             |   1     |     1      |
+| ICD            |   None   |    None    |
+| Snapshot       |           |            |
+| Damage Element |   Geo    |    Geo     |
+| Damage Type    |   Skill  |   Skill    |
+| Duration       |           |            |
+| CD             |   9s     |     9s     |
+| Poise Damage   |   150     |     150    |
+| Impulse Type   |   3     |      3     |
+
 
 </div>
 
-<!--
-**Notes**
 
-* 
--->
+**Notes**
+* Navia's Skill hit box starts from slightly behind her back.
 
 </TabItem>
 
@@ -119,31 +111,29 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
 
-<!--
 | Attribute         | Primary   | Secondary |
 | :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
+| DMG \(T9%\)       |     127.84      |    73.36       |
+| GU                |     2U      |     1U      |
+| ICD               |     No ICD     |     12s/3 Hits      |
+| Snapshot          |     -      |     No      |
+| Damage Element    |     Geo      |     Geo      |
+| Damage Type       |     Burst      |     Burst      |
+| Energy Cost       |     60      |           |
+| Duration          |     12s       |         |
+| Cooldown          |     15s       |          |
+| Poise Damage      |     100      |     50      |
+| Impulse Type      |     4      |     1      |
 -->
 
 </div>
 
-<!--
-**Notes**
 
-* 
--->
+**Notes**
+* Navia's Burst is dynamic.
+* Navia fires 1 Cannon Fire Support approx every ~0.75 seconds, and a total of 17 shots over 12 seconds, for 1+17 hits total including the activation.
+
 
 </TabItem>
 </Tabs>
