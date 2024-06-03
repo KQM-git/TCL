@@ -46,22 +46,22 @@
 * Salon members drain HP at the start of their attacks - [Video](https://youtu.be/0842cSOffsA) - soul_fish
 * Only one instance of Furina's Skill can exist in Co-Op - [Video](https://www.youtube.com/watch?v=BoWnXcZx4iA) - zerodyme.
 * HP is drained even if Furina's Skill hits inaminate objects - [Video](https://youtu.be/MXlRPwrgB8A) - yuvx
-* There is a fanfare crowd animation at every 25% of total fanfare. There is a final flash when you have max fanfare.
-  * At C0, this is at 75/150/225 fanfare for crowd, and 300 for flash - [Video](https://www.youtube.com/watch?v=eNW1gtz2u20) - edisonsmathclub
-  * At C1+, this is at 100/200/300 fanfare for crowd, and 400 for flash - [Video](https://www.youtube.com/watch?v=_JDy0ruuA5Y) - twce_
-  * The animation of the 1st crowd needs to have a HP change to proc (C1 grants an immediate 150 stacks) - [Video](https://www.youtube.com/watch?v=fQajqBFW6Is) - twce_
 * Furina CAx2 resets summons - [Video](https://www.youtube.com/watch?v=EiJ7nj2gvvk) - flyingzambie
 * CA resets pet attack timers and can be used to increase the amount of hits some of them do - [Video 1](https://youtu.be/RyaZ2IxbLk4), [Video 2](https://youtu.be/zpU7tCADzrQ) - soul_fish
 * The HP drain can be iframed with burst, This negates fanfare gain, but it still counts towards the DMG bonus from eligible members - [Video 1](https://youtu.be/TJeCPS4mp60), [Video 2](https://youtu.be/v1L_FTCeKXE) - soul_fish
-* Reviving a fallen party member counts as HP change and can give fanfare stacks - [Video](https://youtu.be/TSZqtr_5NtM) - sharaths21312
 * Ranged CAs are not able to change Salon member targeting above a certain (short) distance - [Video](https://youtu.be/nRTaMqpXOis?si=HR_mfvm1YJfgccRZ) - soul_fish
-* Furina pets drain hp and convert it to fanfare stacks before their own hit takes place. HP drain is sequential with the most likely order being onfielder last and the rest are in the order of their party slots - [Google Sheet](https://docs.google.com/spreadsheets/d/1z3IVOotxfw2Wo_CnC5tZs5vYZZLAjYabhm_px4utJ6E/edit?usp=sharing), [Video](https://youtu.be/_mujLcDCbOw) - is_this_maddie and paimonbukeyi
 
 ## Burst Mechanics
 
 * Burst fanfare range is approximately 14-15 domain tiles, and lingers after leaving range - [Video](https://youtu.be/exioYqBI_I0?si=IPIp-P0QjQ8tYmx_) - clevernt
 * Burst follows the Furina around, giving the buff to anyone nearby in Co-Op - [Video](https://youtu.be/8A95KmAveeQ?si=FBC0S_UuQUKU_k-Z) - clevernt
 * Fanfare resets before Furina's Burst does damage, this also includes any benefits from her C2 \(see HP in clip\) - [Video](https://youtu.be/WclYN_zSBJI?si=CX0xjXIrE5BuqJXI) - soul_fish
+* There is a fanfare crowd animation at every 25% of total fanfare. There is a final flash when you have max fanfare.
+  * At C0, this is at 75/150/225 fanfare for crowd, and 300 for flash - [Video](https://www.youtube.com/watch?v=eNW1gtz2u20) - edisonsmathclub
+  * At C1+, this is at 100/200/300 fanfare for crowd, and 400 for flash - [Video](https://www.youtube.com/watch?v=_JDy0ruuA5Y) - twce_
+  * The animation of the 1st crowd needs to have a HP change to proc (C1 grants an immediate 150 stacks) - [Video](https://www.youtube.com/watch?v=fQajqBFW6Is) - twce_
+* Furina pets drain hp and convert it to fanfare stacks before their own hit takes place. HP drain is sequential with the most likely order being onfielder last and the rest are in the order of their party slots - [Google Sheet](https://docs.google.com/spreadsheets/d/1z3IVOotxfw2Wo_CnC5tZs5vYZZLAjYabhm_px4utJ6E/edit?usp=sharing), [Video](https://youtu.be/_mujLcDCbOw) - is_this_maddie and paimonbukeyi
+* Reviving a fallen party member counts as HP change and can give fanfare stacks - [Video](https://youtu.be/TSZqtr_5NtM) - sharaths21312
 
 ## Ascension Mechanics
 
