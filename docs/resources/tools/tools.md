@@ -14,7 +14,7 @@ import DocCardList from '@theme/DocCardList';
 
 ### Genshin Optimizer
 
-[GitHub](https://frzyc.github.io/genshin-optimizer/)  
+[Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/)  
 _Input artifacts and weapons and let it build your characters for you._
 
 ### gcsim
@@ -64,15 +64,27 @@ This is a tool that can calculate remaining AR EXP and time left before you can 
 
 [Link](https://docs.google.com/spreadsheets/d/1kBbbh6bIUjVeUmG_ZAXtAkG7uFnlfJSYh3wJ11qPlU4/edit?usp=sharing)
 
-### Energy Recharge Calculator
+### Original Energy Recharge Calculator
 
-**By:** Zakharov\#5645  
+**By:** zakharov29229, baloopy
 **Added:** <Version date="2021-07-17" />  
-**Last updated:** <VersionHl date="2022-09-30" />
+**Last updated:** <VersionHl date="2024-05-28" />
 
 A way to calculate the amount of Energy Recharge needed for each member of a team.
 
 [Link](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/edit#gid=1841979497)
+
+### Monte Carlo Energy Recharge Calculator
+
+**By:** rarepossum, baloopy
+**Added:** <Version date="2024-05-28" />  
+**Last updated:** <VersionHl date="2024-05-28" />
+
+[Discussion](https://tickets.deeznuts.moe/transcripts/1063610348533452870)
+
+An alternative way to calculate the amount of Energy Recharge needed for each member of a team. More accurate for handling characters with variable particle gen probabilities, though requires more user input and some loading time. 
+
+[Link](https://docs.google.com/spreadsheets/d/1xHEy8rz6tz9fNGTpRDGTWOEwT0jfD5xQQlch-iIDGZQ/edit?usp=sharing)
 
 ### Resin Calculator
 
