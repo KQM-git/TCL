@@ -952,6 +952,55 @@ Ningguang was used due to her low Burst Energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that HP before healing\)
 
+## Marechaussee Hunter
+
+### 4MH does not trigger on max HP change
+
+**By:** @euphorysm
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)
+
+**Finding:** Max HP buffs do not trigger the Marechaussee Hunter set effect
+
+**Evidence:** https://youtu.be/o2jxeJEtZAM?feature=shared
+
+### 4MH does not stack off field
+
+**By:** @sharaths21312
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Finding:** Marechausse Hunter does not stack off field, however switching off field does not lose stacks
+
+**Evidence:** https://youtu.be/xMhGuuol6po
+
+### 4MH can get multiple stacks simultaneously
+
+**By:** @soul_fish
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Finding:** Hunter can get multiple stacks simultaneously (each instance of HP change regardless of when would then count)
+
+**Evidence:** https://youtu.be/GVl0Y1Bt0Vo
+
+### 4MH stacks share duration
+
+**By:** @chiston
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Finding:** Marechausse Hunter stacks share duration, new stacks refresh existing stacks duration
+
+**Evidence:** https://youtu.be/Ijy_BdF2gNw
+  * Xianyun's healing interval is 2.5 seconds, the first generated stack does not run out after the third healing tick
+(Masanori Timer evidence: 1:38 first stack; 1:33 third stack; stats checked at 1:32)
+
+
 ## Noblesse Oblige
 
 ### Self 4NO Interactions
@@ -1264,13 +1313,33 @@ Evidence for 4 & 5: [Google Sheets](https://docs.google.com/document/d/1tgOqAyEy
 **Significance:**  
 Better understanding of The Exile. It's important for accurate ER calculations to be aware of how many Energy regeneration ticks The Exile actually gives, since this can vary.
 
+## Unfinished Reverie  
+
+### Unfinished Reverie Snapshots  
+
+**By:** @haafr  
+**Added:** <Version date="2024-05-22" />  
+**Last tested:** <VersionHl date="2024-05-22" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/unfinished-reverie-snapshot)
+
+**Finding:**  
+The DMG Bonus from 4pc Unfinished Reverie can snapshot.  
+
+**Evidence:**  
+Xiangling's damage is expected to drop after 6s in battle without Burning triggered, but the damage stays the same for the entire Burst.  
+[YouTube](https://youtu.be/BObTo8cwWOo?si=6AjXtHKLIGIxWV8B)  
+
+**Significance:**  
+This set can be viable for characters who can snapshot even without Burning, if they can clear a Spiral Abyss chamber in a single rotation.  
+
+
 ## Shimenawa's Reminiscence
 
 ### The buff gained and Energy drain can not reoccur if effect has been activated.
 
 **By:** Kourinn\#6001
 
-Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
+**Evidence:** [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
 
 ### Shimenawa Energy drain delay
 

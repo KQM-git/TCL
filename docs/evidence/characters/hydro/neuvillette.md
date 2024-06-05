@@ -22,6 +22,7 @@
 
 ## Attack Mechanics
 
+
 * Neuvillette can move while charging/firing CA Equitable Judgement - [Video](https://www.youtube.com/watch?v=prWlZPU6GfI) - chronopolize
 * CA Equitable Judgement can be canceled with Dash, Jump, Skill, and Burst - [Video](https://www.youtube.com/watch?v=KZEGMwH7Nlk) - lunaflaw
 * Neuvillette can somewhat move up slopes during CA Equitable Judgement - [Video](https://www.youtube.com/watch?v=qX8J1P0zWDU) - lunaflaw
@@ -30,6 +31,38 @@
 * CA absorption in front is approximately the range of his CA. The range from the back is approximately half of the range from the front - [Video](https://youtu.be/1Ip1oTH8Wmc?feature=shared) - caramielle.
 * Neuvillette cannot plunge during special CA - [Video](https://youtube.com/watch?v=XKaglb8YrRc) - niku_ou
 * Neuvillette can still begin chargins his special CA even with no stamina - [Video](https://youtu.be/RXoplPLaTSw?feature=shared) - caramielle.
+
+### Faster Neuvi Balls
+
+**By:** @caramielle., @makeway4pk  
+**Added:** <Version date="2024-03-14" />  
+**Last tested:** <VersionHl date="2023-11-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/faster-neuvi-balls)
+
+**Finding:**  
+- Institute tiles to metres conversion factor: 1.25 (4 tiles = 5 meters )  
+- Neuvillette's Sourcewater Droplet absorption range is at least 2 different overlapping regions:  
+  - 1. A cone fixed to the camera (marked by the far away blue line while floating)  
+  - 2. A narrow rectangular strip with its long end toward the direction Neuvillette is facing.  
+  This is an approximate sketch:  
+  [Desmos Interactive](https://www.desmos.com/calculator/dqy5rvp4xo)  
+  Length unit is width of tiles found in Fontaine Institute buildings.  
+  Specifically, all evidence was gathered at the initial arena of the Experimental Field Generator in the World Quest "Fontaine Research Institute, Stagnating in the Rubble", located on one of the biggest floating cubes in Fontaine. The tile grid is conveniently large.  
+  
+**Evidence:**  
+- [Institute tiles measured using Chonghua field](https://youtu.be/MTESZuGdntQ)  
+- [Extra range behind camera by facing back](https://youtu.be/CXleH_3deDw)  
+- Other measurements:  
+  - Strip Front edge: 11 tiles  
+    - Rear edge: 7 tiles  
+    - Side edges: 4 tiles  
+  - Cone Front edge: 14 tiles  
+    - Right corner: 7 tiles East, 13 tiles North  
+    - Left corner: 9.5 tiles West, 10 tiles North  
+[Strip and Cone dimensions](https://youtu.be/GgA6ckJW5ag) 
+  
+**Significance:**  
+More balls for sweaty fights
 
 ## Skill Mechanics
 

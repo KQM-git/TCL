@@ -43,6 +43,22 @@
     * Boss enemy - [YouTube](https://youtu.be/kSO6OaXhXvQ)
     * Zhongli pillar - [YouTube](https://youtu.be/kByCaRSPrLA)
 
+### HMC Burst Hits Dendro Core
+
+**By:** @.whalien  
+**Added:** <Version date="2024-05-09" />  
+**Last tested:** <VersionHl date="2024-04-08" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/hmc-burst-hits-dendro-core)
+
+**Finding:**  
+HMC's Burst can hit Dendro Cores. Combined with the (very small) AoE nature of damage from her Burst, this can be used to increase damage output.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/UbOxv4j5Mkk) [YouTube](https://youtu.be/l9xzaV8-X54)  
+  
+**Significance:**  
+Make HMC viable again. (this is copium hoyo's probably gonna fix this before this gets published)
+
 ## Ascension Mechanics
 
 ## Constellation Mechanics

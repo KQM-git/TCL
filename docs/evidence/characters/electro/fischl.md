@@ -333,6 +333,15 @@ Further understanding of the Spread reaction.
 
 **Significance:** Fischl C4 can benefit from Burst Damage multipliers
 
+#### Song of Stillness - Fischl C4 interaction
+
+**By:** @hungrydave  
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)
+
+**Finding:** Fischl C4 can proc Song of Stillness, however the buff does not snapshot on the Oz summoned by her Burst
+
 ### C6: Evernight Raven
 
 #### Fischl A4 And C6 Snapshot Mechanics

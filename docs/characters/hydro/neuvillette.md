@@ -100,6 +100,7 @@ Let me know/ping me if this is not should not be the case. -->
 * **Charged Attack: Equitable Judgment** does not snapshot.
 * **Charged Attack: Equitable Judgment** hits 8 times at 60fps.
 * Neuvillette can move during **Charged Attack Empowerment: Legal Evaluation** and **Charged Attack: Equitable Judgment**.
+* When using Charged Attack, Sourcewater Droplets absorb range is atleast [two different overlapping regions](../../evidence/characters/hydro/neuvillette.md#faster-neuvi-balls).
 
 </TabItem>
 
@@ -155,7 +156,6 @@ Let me know/ping me if this is not should not be the case. -->
 | Impulse Type      | Air, 50, 800    | 2               |
 
 </div>
-
 </TabItem>
 </Tabs>
 
