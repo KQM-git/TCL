@@ -159,6 +159,7 @@ import LumineCA from '../_common/lumine_ca.md'
 * Burst snapshots at beginning of animation.
 * Burst cannot be pulled by **Anemo** abilities.
 * Burst doesn't stop against Enemies, Geo Constructs or walls.
+* Burst can hit Dendro Cores.
 
 </TabItem>
 </Tabs>

@@ -43,6 +43,7 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Staff of the Scarlet Sands" weapons={polearms}>
 
+* Staff of the Scarlet Sands can gain multiple stacks from one attack if it hits multiple enemies.
 * Staff of the Scarlet Sands cannot gain stacks while off-field, but still retains stacks while off-field. - [\_Maxi#1776](../../evidence/equipment/weapons.md#staff-of-the-scarlet-sands)
 * Staff of the Scarlet Sands snapshots EM when stacks are obtained. - [nico\#7748](../../evidence/equipment/weapons.md#staff-of-the-scarlet-sands-stacks-snapshot)
 
@@ -148,7 +149,12 @@ import FavSeries from './\_common/fav_series.md';
 
 ### Rightful Reward
 
-<Weapon weapon="Rightful Reward" weapons={polearms} />
+<Weapon weapon="Rightful Reward" weapons={polearms}>
+
+* The passive triggers on overhealing
+* The passive can trigger and eneter cooldown even if the character is full on energy
+
+</Weapon>
 
 ### Royal Spear
 

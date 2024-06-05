@@ -214,7 +214,11 @@ import SacSeries from './\_common/sac_series.md';
 
 ### Wolf-Fang
 
-<Weapon weapon="Wolf-Fang" weapons={swords} />
+<Weapon weapon="Wolf-Fang" weapons={swords}>
+
+* The passive does not stack off-field.
+
+</Weapon>
 
 ### Toukabou Shigure
 

@@ -41,7 +41,7 @@
 ## Constellation Mechanics
 
 ## C1: A Cold Blade Like a Shadow
-* Lynette's C1 has pull radius of about 6m - [YouTube](https://youtu.be/GWEEQYfPeFU) - @mgr_
+* Lynette's C1 has pull radius of about 6m - [YouTube](https://youtu.be/p74E74bfkBE?si=LEIvRp4tl6KO2fSx) - @mgr_
 
 ## Synergies/Interactions
 * Arkhe: Ousia Enigma Thrust can proc the reset on Sacrificial Sword. - [YouTube](https://youtu.be/aJXZIcVcwVc) - @jyro10

@@ -62,7 +62,8 @@ Teleporting to a waypoint does not always teleport you to the same coordinates o
 ## Movement Speed
 
 Increased movement speed increases the horizontal velocity of dashing. This also impacts the distance traveled when dashing off a cliff.  
-All movement speed buffs stack additively.
+All movement speed buffs stack additively.  
+Movement Speed does not affect gliding SPD.
 
 ## Enemy Movement Speed
 
@@ -77,6 +78,10 @@ Character hitboxes extend beyond their model until the weapon floating behind th
 Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift.
 
 Turning while swimming drains extra Stamina, so swimming in straight lines should be done whenever possible.  
+
+All character models swim at the same speed underwater. 
+
+Repeatedly tapping swim leads to faster travel speed than holding swim. 
 
 ## Infinite Dashing
 

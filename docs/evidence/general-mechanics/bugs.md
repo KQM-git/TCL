@@ -713,6 +713,22 @@ All tests on PC and with button presses recorded. First video contains failed Bu
 **Significance:**  
 Useful for successfully executing certain rotations. Necessary to avoid failing the (Q -> swap -> other character Burst -> swap back to catch mirrors) rotation tech for Alhaitham.
 
+### Characterless Bursts
+
+**By:** @.magnusartifex  
+**Added:** <Version date="2023-12-31" />  
+**Last tested:** <VersionHl date="2023-12-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/characterless-bursts)  
+
+**Finding:**  
+If you activate the Kamera gadget before using a 5-star Burst while the “Special Analysis Zoom Lens” option is active, you can achieve characterless bursts. The character disappears a few frames after the burst is activated, and only the visual effects remain.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/gallery/EQTGpe4)  
+  
+**Significance:**  
+Great wallpaper material, ~~Ayaka doesn’t ruin her burst by being there~~.
+
 ## Enemies
 
 ### Disappearing Fatui When They Shouldn't

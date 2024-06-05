@@ -161,11 +161,20 @@ import SacSeries from './\_common/sac_series.md';
 
 ### Scion of the Blazing Sun
 
-<Weapon weapon="Scion of the Blazing Sun" weapons={bows} />
+<Weapon weapon="Scion of the Blazing Sun" weapons={bows}>
+
+* Scion of the Blazing Sun does AoE physical damage, and the effect is applied to all enemies hit.
+
+</Weapon>
 
 ### Song of Stillness
 
-<Weapon weapon="Song of Stillness" weapons={bows} />
+<Weapon weapon="Song of Stillness" weapons={bows}>
+
+* Song of Stillness passive triggers on overheals.
+* The DMG% does not show up in the stats page but it can be snapshotted.
+
+</Weapon>
 
 ### The Stringless
 
