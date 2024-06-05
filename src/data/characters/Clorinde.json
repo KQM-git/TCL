@@ -1,0 +1,514 @@
+{
+  "name": "Clorinde",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1008.61255,
+    "attackBase": 26.2542,
+    "defenseBase": 61.0266,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Oath of Hunting Shadows",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina and fires Suppressing Shots in a fan pattern with her pistolet.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "54.1%",
+              "58.5%",
+              "62.9%",
+              "69.1%",
+              "73.5%",
+              "78.6%",
+              "85.5%",
+              "92.4%",
+              "99.3%",
+              "106.9%",
+              "114.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "51.6%",
+              "55.8%",
+              "60.0%",
+              "66.0%",
+              "70.2%",
+              "75.0%",
+              "81.6%",
+              "88.2%",
+              "94.9%",
+              "102.1%",
+              "109.3%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "34.2%+34.2%",
+              "37.0%+37.0%",
+              "39.8%+39.8%",
+              "43.7%+43.7%",
+              "46.5%+46.5%",
+              "49.7%+49.7%",
+              "54.1%+54.1%",
+              "58.4%+58.4%",
+              "62.8%+62.8%",
+              "67.6%+67.6%",
+              "72.3%+72.3%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "23.1%+23.1%+23.1%",
+              "25.0%+25.0%+25.0%",
+              "26.9%+26.9%+26.9%",
+              "29.6%+29.6%+29.6%",
+              "31.5%+31.5%+31.5%",
+              "33.6%+33.6%+33.6%",
+              "36.6%+36.6%+36.6%",
+              "39.5%+39.5%+39.5%",
+              "42.5%+42.5%+42.5%",
+              "45.7%+45.7%+45.7%",
+              "49.0%+49.0%+49.0%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "90.0%",
+              "97.3%",
+              "104.7%",
+              "115.1%",
+              "122.5%",
+              "130.8%",
+              "142.3%",
+              "153.9%",
+              "165.4%",
+              "177.9%",
+              "190.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "128.1%",
+              "138.6%",
+              "149.0%",
+              "163.9%",
+              "174.3%",
+              "186.3%",
+              "202.6%",
+              "219.0%",
+              "235.4%",
+              "253.3%",
+              "271.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hunter's Vigil",
+        "desc": "Preparing her pistolet, she enters the \"Night Vigil\" state, using steel and shot together. In this state, Clorinde's Normal Attacks will be transformed into \"Swift Hunt\" pistolet attacks, and the DMG dealt is converted into **Electro DMG** that cannot be overridden by infusions, and she will be unable to use Charged Attacks. Using her Elemental Skill will transform it into \"Impale the Night\": Perform a lunging attack, dealing **Electro DMG**. The DMG done through the aforementioned method is considered Normal Attack DMG.\n\n**Swift Hunt**\n· When her Bond of Life is equal to or greater than 100% of her max HP: Performs a pistolet shot.\n· When her Bond of Life is less than 100%, firing her pistolet will grant her Bond of Life, with the amount gained based on her max HP. The shots she fires can pierce opponents, and DMG dealt to opponents in their path is increased.\n\n**Impale the Night**\nThe current percentage value of Clorinde's Bond of Life determines its effect:\n· When the Bond of Life value is 0%, perform a normal lunging strike;\n· When the Bond of Life value is less than 100% of her max HP, Clorinde is healed based on the Bond of Life value, and the AoE of the lunging attack and the DMG dealt is increased;\n· When the value of the Bond of Life is equal to or greater than 100% of her max HP, use Impale the Night: Pact. The healing multiplier is increased, and the AoE and DMG dealt by the lunge is increased even further.\n\nIn addition, when Clorinde is in the Night Vigil state, healing effects other than Impale the Night will not take effect and will instead be converted into a Bond of Life that is a percentage of the healing that would have been received.\n\nClorinde will exit the \"Night Vigil\" state when she leaves the field.\n\n**Arkhe: Ousia**\nPeriodically, when Clorinde's Swift Hunt shots strike opponents, she will summon a Surging Blade at the position hit that deals Ousia-aligned **Electro DMG**.\n\n**Though the evil that lurked in the shadows of the night had been purged across thousands of years, a shadow that the light could not reach clouded human hearts.\nEven now, the warning left by the Golden Hunter is etched into her memory: Those of the Night Vigil, carrying aloft lit candles against the blackness, have greater need still to remain vigilant. Be not corrupted by the cold dark.**",
+        "img": "Clorinde/skill_1",
+        "talentTable": [
+          {
+            "name": "Swift Hunt DMG",
+            "values": [
+              "26.8%/38.8%",
+              "28.9%/41.9%",
+              "31.1%/45.1%",
+              "34.2%/49.6%",
+              "36.4%/52.8%",
+              "38.9%/56.4%",
+              "42.3%/61.3%",
+              "45.7%/66.3%",
+              "49.2%/71.3%",
+              "52.9%/76.7%",
+              "56.6%/82.1%",
+              "60.4%/87.5%",
+              "64.1%/92.9%"
+            ]
+          },
+          {
+            "name": "Swift Hunt Bond of Life Gain",
+            "value": "35.0% Max HP"
+          },
+          {
+            "name": "Impale the Night DMG",
+            "values": [
+              "33.0%/44.0%/25.1%×3",
+              "35.7%/47.5%/27.2%×3",
+              "38.3%/51.1%/29.2%×3",
+              "42.2%/56.2%/32.1%×3",
+              "44.9%/59.8%/34.2%×3",
+              "47.9%/63.9%/36.5%×3",
+              "52.1%/69.5%/39.7%×3",
+              "56.4%/75.1%/42.9%×3",
+              "60.6%/80.8%/46.1%×3",
+              "65.2%/86.9%/49.6%×3",
+              "69.8%/93.0%/53.1%×3",
+              "74.4%/99.2%/56.6%×3",
+              "79.0%/105.3%/60.2%×3"
+            ]
+          },
+          {
+            "name": "Impale the Night Healing",
+            "value": "0%/104.0%/110.0% Bond of Life"
+          },
+          {
+            "name": "Bond of Life Conversion",
+            "value": "80% Healing"
+          },
+          {
+            "name": "Surging Blade DMG",
+            "values": [
+              "43.2%",
+              "46.4%",
+              "49.7%",
+              "54.0%",
+              "57.2%",
+              "60.5%",
+              "64.8%",
+              "69.1%",
+              "73.4%",
+              "77.8%",
+              "82.1%",
+              "86.4%",
+              "91.8%"
+            ]
+          },
+          {
+            "name": "Surging Blade Interval",
+            "value": "10.0s"
+          },
+          {
+            "name": "Night Vigil Duration",
+            "value": "7.5s"
+          },
+          {
+            "name": "CD",
+            "value": "16.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Last Lightfall",
+      "desc": "Grants herself a Bond of Life based upon her own max HP before swiftly evading and striking with saber and sidearm as one, dealing **AoE Electro DMG**.\n\n**It is said the legacy of the ancient art of resisting non-human beings with but a mortal body can be traced back to the Lochknights who resisted the Remurian Empire.\nBe that as it may, so long as one can find a way to control the level of force used, it's not as if it cannot be used in duels against ordinary opponents.**",
+      "img": "Clorinde/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "126.9%×5",
+            "136.4%×5",
+            "145.9%×5",
+            "158.6%×5",
+            "168.1%×5",
+            "177.6%×5",
+            "190.3%×5",
+            "203.0%×5",
+            "215.7%×5",
+            "228.4%×5",
+            "241.1%×5",
+            "253.8%×5",
+            "269.6%×5"
+          ]
+        },
+        {
+          "name": "Bond of Life Gain",
+          "values": [
+            "66.0% Max HP",
+            "72.0% Max HP",
+            "78.0% Max HP",
+            "84.0% Max HP",
+            "90.0% Max HP",
+            "96.0% Max HP",
+            "102.0% Max HP",
+            "108.0% Max HP",
+            "114.0% Max HP",
+            "120.0% Max HP",
+            "126.0% Max HP",
+            "132.0% Max HP",
+            "138.0% Max HP"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Dark-Shattering Flame",
+        "desc": "After a nearby party member triggers an **Electro-related reaction** against an opponent, **Electro DMG** dealt by Clorinde's Normal Attacks and **Last Lightfall** will be increased by 20% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. The Maximum DMG increase achievable this way for the above attacks is 1,800.",
+        "img": "Clorinde/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Lawful Remuneration",
+        "desc": "If Clorinde's Bond of Life is equal to or greater than 100% of her Max HP, her CRIT Rate will increase by 10% for 15s whenever her Bond of Life value increases or decreases. Max 2 stacks. Each stack is counted independently.\nAdditionally, **Hunter's Vigil**'s Night Vigil state is buffed: While it is active, the percent of healing converted to Bond of Life increases to 100%.",
+        "img": "Clorinde/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Night Vigil's Harvest",
+        "desc": "Displays the location of nearby **resources unique to Fontaine** on the mini-map.",
+        "img": "Clorinde/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "\"From This Day, I Pass the Candle's Shadow-Veil\"",
+        "desc": "While **Hunter's Vigil**'s Night Vigil state is active, when **Electro DMG** from Clorinde's Normal Attacks hit opponents, they will trigger 2 coordinated attacks from a Nightvigil Shade summoned near the hit opponent, each dealing 30% of Clorinde's ATK as **Electro DMG**.\nThis effect can occur once every 1.2s. DMG dealt this way is considered Normal Attack DMG.",
+        "img": "Clorinde/const_0"
+      },
+      {
+        "name": "\"Now, As We Face the Perils of the Long Night\"",
+        "desc": "Enhance the Passive Talent \"Dark-Shattering Flame\": After a nearby party member triggers an **Electro-related reaction** against an opponent, **Electro DMG** dealt by Clorinde's Normal Attacks and **Last Lightfall** will be increased by 30% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. When you have 3 stacks, Clorinde's interruption resistance will be increased. The Maximum DMG increase achievable this way for the above attacks is 2,700.\nYou must first unlock the Passive Talent \"Dark-Shattering Flame.\"",
+        "img": "Clorinde/const_1"
+      },
+      {
+        "name": "\"I Pledge to Remember the Oath of Daylight\"",
+        "desc": "Increases the Level of **Hunter's Vigil** by 3.\nMaximum upgrade level is 15.",
+        "img": "Clorinde/const_2"
+      },
+      {
+        "name": "\"To Enshrine Tears, Life, and Love\"",
+        "desc": "When **Last Lightfall** deals DMG to opponent(s), DMG dealt is increased based on Clorinde's Bond of Life percentage. Every 1% of her current Bond of Life will increase **Last Lightfall** DMG by 2%. The maximum **Last Lightfall** DMG increase achievable this way is 200%.",
+        "img": "Clorinde/const_3"
+      },
+      {
+        "name": "\"Holding Dawn's Coming as My Votive\"",
+        "desc": "Increases the Level of **Last Lightfall** by 3.\nMaximum upgrade level is 15.",
+        "img": "Clorinde/const_4"
+      },
+      {
+        "name": "\"And So Shall I Never Despair\"",
+        "desc": "For 12s after **Hunter's Vigil** is used, Clorinde's CRIT Rate will be increased by 10%, and her CRIT DMG by 70%.\nAdditionally, while Night Vigil is active, a Glimbright Shade will appear under specific circumstances, executing an attack that deals 200% of Clorinde's ATK as **Electro DMG**. DMG dealt this way is considered Normal Attack DMG.\nThe Glimbright Shade will appear under the following circumstances:\n· When Clorinde is about to be hit by an attack.\n· When Clorinde uses Impale the Night: Pact.\n1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration.\nIn addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades.",
+        "img": "Clorinde/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 864.79407
+        },
+        {
+          "stat": "Base DEF",
+          "value": 52.326
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.508959
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1479.253
+        },
+        {
+          "stat": "Base DEF",
+          "value": 89.505
+        },
+        {
+          "stat": "Base ATK",
+          "value": 38.502167
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2298.5315
+        },
+        {
+          "stat": "Base DEF",
+          "value": 139.077
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.826443
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2912.9905
+        },
+        {
+          "stat": "Base DEF",
+          "value": 176.256
+        },
+        {
+          "stat": "Base ATK",
+          "value": 75.81965
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3527.4495
+        },
+        {
+          "stat": "Base DEF",
+          "value": 213.435
+        },
+        {
+          "stat": "Base ATK",
+          "value": 91.81286
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4141.908
+        },
+        {
+          "stat": "Base DEF",
+          "value": 250.614
+        },
+        {
+          "stat": "Base ATK",
+          "value": 107.80606
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.192
+        }
+      ]
+    }
+  ]
+}

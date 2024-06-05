@@ -1,0 +1,516 @@
+{
+  "name": "Arlecchino",
+  "star": 5,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 1020.0524,
+    "attackBase": 26.6266,
+    "defenseBase": 59.53085,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Invitation to a Beheading",
+        "desc": "**Normal Attack**\nPerforms up to 6 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a fixed amount of Stamina, dashing toward a nearby opponent and cleaving once.\nContinuously holding this button will cause Arlecchino to consume Stamina and engage in up to 5s of high-speed movement.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n\n**Masque of the Red Death**\nWhen Arlecchino has a Bond of Life equal to or greater than 30% of her Max HP, she will enter the \"Masque of the Red Death\" state, where her Normal, Charged, and Plunging Attacks will be converted to deal **Pyro DMG**. This cannot be overridden.\nWhen in the \"Masque of the Red Death\" state, Arlecchino's Normal Attacks will deal extra DMG to opponents on hit that scales off her ATK multiplied by a certain ratio of her current Bond of Life percentage. This will consume 7.5% of said current Bond of Life. Her Bond of Life can be consumed this way every 0.03s. When her Bond of Life is consumed in this manner, All Is Ash's CD will decrease by 0.8s.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "Masque of the Red Death Increase",
+            "values": [
+              "120.40%",
+              "130.20%",
+              "140.00%",
+              "154.00%",
+              "163.80%",
+              "175.00%",
+              "190.40%",
+              "205.80%",
+              "221.20%",
+              "238.00%",
+              "254.80%"
+            ]
+          },
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "47.5%",
+              "51.4%",
+              "55.2%",
+              "60.8%",
+              "64.6%",
+              "69.0%",
+              "75.1%",
+              "81.2%",
+              "87.3%",
+              "93.9%",
+              "100.5%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "52.1%",
+              "56.3%",
+              "60.6%",
+              "66.6%",
+              "70.9%",
+              "75.7%",
+              "82.4%",
+              "89.1%",
+              "95.7%",
+              "103.0%",
+              "110.3%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "65.4%",
+              "70.7%",
+              "76.0%",
+              "83.6%",
+              "89.0%",
+              "95.0%",
+              "103.4%",
+              "111.8%",
+              "120.1%",
+              "129.3%",
+              "138.4%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "37.1%+37.1%",
+              "40.2%+40.2%",
+              "43.2%+43.2%",
+              "47.5%+47.5%",
+              "50.5%+50.5%",
+              "54.0%+54.0%",
+              "58.7%+58.7%",
+              "63.5%+63.5%",
+              "68.2%+68.2%",
+              "73.4%+73.4%",
+              "78.6%+78.6%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "70.0%",
+              "75.7%",
+              "81.4%",
+              "89.5%",
+              "95.2%",
+              "101.7%",
+              "110.7%",
+              "119.6%",
+              "128.6%",
+              "138.3%",
+              "148.1%"
+            ]
+          },
+          {
+            "name": "6-Hit DMG",
+            "values": [
+              "85.4%",
+              "92.3%",
+              "99.3%",
+              "109.2%",
+              "116.2%",
+              "124.1%",
+              "135.0%",
+              "145.9%",
+              "156.9%",
+              "168.8%",
+              "180.7%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "90.8%",
+              "98.2%",
+              "105.6%",
+              "116.2%",
+              "123.6%",
+              "132.0%",
+              "143.6%",
+              "155.2%",
+              "166.8%",
+              "179.5%",
+              "192.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "High-Speed Movement Stamina Cost",
+            "value": "40.0/s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "127.8%/159.7%",
+              "138.2%/172.7%",
+              "148.6%/185.7%",
+              "163.5%/204.2%",
+              "173.9%/217.2%",
+              "185.8%/232.1%",
+              "202.2%/252.5%",
+              "218.5%/272.9%",
+              "234.9%/293.4%",
+              "252.7%/315.6%",
+              "270.5%/337.9%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "All Is Ash",
+        "desc": "Summons forth Balemoon Bloodfire, dealing **Pyro DMG** to multiple nearby opponents and performing a dash-cleave against one of them, dealing **AoE Pyro DMG**.\nOpponents hit by the aforementioned attack will have a Blood-Debt Directive applied to them.\n\n**Blood-Debt Directive**\n·Lasts 30s. Every 5s, it will deal 1 instance of **Pyro DMG** to the opponent. Max 2 instances. This DMG will be considered Elemental Skill DMG.\n·When Arlecchino uses a Charged Attack or her Elemental Burst, Balemoon Rising, she will absorb and clear nearby Blood-Debt Directives. Each Directive absorbed grants her a Bond of Life worth 65% of her Max HP.\n·The maximum value of the Bond of Life she can be granted through Blood-Debt Directives within 35s after using her Elemental Skill is 145% of her Max HP. Using the Elemental Skill again during this duration will restart the count on duration and the limit on the value of Bond of Life she may gain from Blood-Debt Directives.\n\n**As she sees it, not every grain of wheat that falls upon the earth will grow into an ear, while those who obstruct her, once burned to ashes, can certainly be used to nourish flowers.**",
+        "img": "Arlecchino/skill_1",
+        "talentTable": [
+          {
+            "name": "Spike DMG",
+            "values": [
+              "14.8%",
+              "16.0%",
+              "17.1%",
+              "18.6%",
+              "19.7%",
+              "20.8%",
+              "22.3%",
+              "23.7%",
+              "25.2%",
+              "26.7%",
+              "28.2%",
+              "29.7%",
+              "31.5%"
+            ]
+          },
+          {
+            "name": "Cleave DMG",
+            "values": [
+              "133.6%",
+              "143.6%",
+              "153.6%",
+              "167.0%",
+              "177.0%",
+              "187.0%",
+              "200.3%",
+              "213.7%",
+              "227.1%",
+              "240.4%",
+              "253.8%",
+              "267.1%",
+              "283.8%"
+            ]
+          },
+          {
+            "name": "Blood-Debt Directive DMG",
+            "values": [
+              "31.8%",
+              "34.2%",
+              "36.6%",
+              "39.8%",
+              "42.1%",
+              "44.5%",
+              "47.7%",
+              "50.9%",
+              "54.1%",
+              "57.2%",
+              "60.4%",
+              "63.6%",
+              "67.6%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "30.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Balemoon Rising",
+      "desc": "Arlecchino's great wing of Balemoon Bloodfire beats as she absorbs and clears Blood-Debt Directives around her. She deals **AoE Pyro DMG** before clearing the CD of All Is Ash and healing herself. The healing is based on her Bond of Life value and ATK.\n\n**It is commonly believed throughout Teyvat that moon phases other than the full moon are mere metaphors of ill-omen, used only by those who practice alchemy and astrology.\nShe saw this crimson moon in her dreams many times. Were those portents of disaster? Indeed they were, but the destined catastrophes belonged to those who enraged her.**",
+      "img": "Arlecchino/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "370.4%",
+            "398.2%",
+            "426.0%",
+            "463.0%",
+            "490.8%",
+            "518.6%",
+            "555.6%",
+            "592.6%",
+            "629.7%",
+            "666.7%",
+            "703.8%",
+            "740.8%",
+            "787.1%"
+          ]
+        },
+        {
+          "name": "Amount of HP Restored",
+          "value": "150.0% Bond of Life+150.0% ATK"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Pyro"
+    },
+    "passive": [
+      {
+        "name": "Agony Alone May Be Repaid",
+        "desc": "**Blood-Debt Directives** have the following characteristics:\n·Arlecchino will be granted a Bond of Life worth 130% of her Max HP when an opponent to which she herself applied a Directive is defeated.\n·5s after a Directive is applied, it will be upgraded to a Blood-Debt Due. When absorbed, it will instead grant Arlecchino a Bond of Life worth 130%.\nA Bond of Life created in the aforementioned ways cannot exceed the original limit on the value of Bonds of Life obtained through **All Is Ash**.",
+        "img": "Arlecchino/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Strength Alone Can Defend",
+        "desc": "Arlecchino gains 1% All Elemental and Physical RES for every 100 ATK she has in excess of 1,000. The maximum RES increase she can gain this way for each is 20%.",
+        "img": "Arlecchino/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "The Balemoon Alone May Know",
+        "desc": "While in combat, Arlecchino gains a 40% **Pyro DMG Bonus** and can only be healed through **Balemoon Rising**.",
+        "img": "Arlecchino/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "\"All Reprisals and Arrears, Mine to Bear...\"",
+        "desc": "Masque of the Red Death is further enhanced, the value of the increase is 100%. Additionally, Arlecchino's interruption resistance is increased when she performs Normal or Charged Attacks while affected by the Masque of the Red Death.",
+        "img": "Arlecchino/const_0"
+      },
+      {
+        "name": "\"All Rewards and Retribution, Mine to Bestow...\"",
+        "desc": "**Blood-Debt Directives** are now already Blood-Debt Due when first applied.\nWhen Arlecchino absorbs such a Due, she unleashes Balemoon Bloodfire in front of her, dealing 900% of her ATK as **AoE Pyro DMG** and increasing her All Elemental RES and Physical RES by 20% for 15s. This effect can trigger once every 10s.\nYou must first unlock the Passive Talent \"Agony Alone May Be Repaid.\"",
+        "img": "Arlecchino/const_1"
+      },
+      {
+        "name": "\"You Shall Become a New Member of Our Family...\"",
+        "desc": "Increases the Level of **Normal Attack: Invitation to a Beheading** by 3.\nMaximum upgrade level is 15.",
+        "img": "Arlecchino/const_2"
+      },
+      {
+        "name": "\"You Shall Love and Protect Each Other Henceforth...\"",
+        "desc": "When Arlecchino successfully absorbs a Blood-Debt Directive, **Balemoon Rising**'s CD will decrease by 2s and 15 Elemental Energy will be restored to her. This effect can occur once every 10s.",
+        "img": "Arlecchino/const_3"
+      },
+      {
+        "name": "\"For Alone, We Are as Good as Dead...\"",
+        "desc": "Increases the Level of **Balemoon Rising** by 3.\nMaximum upgrade level is 15.",
+        "img": "Arlecchino/const_4"
+      },
+      {
+        "name": "\"From This Day On, We Shall Delight in New Life Together.\"",
+        "desc": "The DMG of **Balemoon Rising** is increased by Arlecchino's ATK multiplied by 700% of Arlecchino's current Bond of Life percentage.\nFor 20s after Arlecchino uses **All Is Ash**, both her Normal Attacks and Elemental Burst gain 10% increased CRIT Rate and 70% increased CRIT DMG. This effect can be triggered up to once every 15s.",
+        "img": "Arlecchino/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 874.6027
+        },
+        {
+          "stat": "Base DEF",
+          "value": 51.0435
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.828234
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1496.0309
+        },
+        {
+          "stat": "Base DEF",
+          "value": 87.31125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 39.048294
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2324.6018
+        },
+        {
+          "stat": "Base DEF",
+          "value": 135.66824
+        },
+        {
+          "stat": "Base ATK",
+          "value": 60.67504
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2946.03
+        },
+        {
+          "stat": "Base DEF",
+          "value": 171.936
+        },
+        {
+          "stat": "Base ATK",
+          "value": 76.8951
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3567.4585
+        },
+        {
+          "stat": "Base DEF",
+          "value": 208.20375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 93.115166
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4188.8867
+        },
+        {
+          "stat": "Base DEF",
+          "value": 244.4715
+        },
+        {
+          "stat": "Base ATK",
+          "value": 109.33523
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}
