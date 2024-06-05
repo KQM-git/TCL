@@ -1,0 +1,88 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 26,
+        "hitlag": 0.06,
+        "next_na": 32,
+        "walk": 45
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 23,
+        "hitlag": 0.06,
+        "next_na": 33,
+        "walk": 47
+    },
+    {
+        "name": "N3",
+        "hitmark": 42,
+        "hitlag": 0.06,
+        "next_na": 59,
+        "walk": 65
+    },
+    {
+        "name": "N4",
+        "hitmark": 42,
+        "hitlag": 0.09,
+        "next_na": 86,
+        "walk": 68
+    }],
+    "Skill": [{
+        "name": "Floe",
+        "hitmark": 29,
+        "hitmark_thorn": 62,
+        "n1": 42,
+        "skill": 31,
+        "burst": 42,
+        "walk": 46,
+        "dash": 32,
+        "jump": 31,
+        "swap": 46
+    }, {
+        "name": "Levels 0-3",
+        "hitmark": 42,
+        "n1": 53,
+        "skill": 47,
+        "burst": 47,
+        "walk": 55,
+        "dash": 47,
+        "jump": 47,
+        "swap": 51,
+        "cd": 40
+    }, {
+        "name": "Level 4",
+        "hitmark": 37,
+        "n1": 53,
+        "skill": 42,
+        "burst": 42,
+        "walk": 59,
+        "dash": 43,
+        "jump": 42,
+        "swap": 51,
+        "cd": 35
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 44,
+        "n1": 52,
+        "skill_flow": 53,
+        "skill_lvl_0": 52,
+        "skill_lvl_4": 52,
+        "walk": 64,
+        "dash": 53,
+        "jump": 52,
+        "swap": 51,
+        "duration": 602,
+        "cd": 0,
+        "energy": 5,
+        "notes": ["The burst duration is measured until the helmet begins to fade, it is not clear if it lasts a bit longer"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}
