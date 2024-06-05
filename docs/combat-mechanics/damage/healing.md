@@ -102,6 +102,14 @@ Artifacts:
 
 </details>
 
+## Bond of Life
+
+Bond of Life is a mechanic introduced in 4.0 and is present on various weapons, characters and enemies. When it is present on a character, healing done to that character will instead go towards clearing the BOL present. All current BOL sources from enemies, weapons and characters are identical and stack with each other, and all effects that occur depending on BOL in any way (Flowing Purity/Finale of the Deep passive, Fatui Operative HP drain, etc.) trigger regardless of the source.
+
+BOL has a visual indicator of a red region surrounding the HP bar, starting from the right and filling towards the left. When the red region surrounds the full HP bar, then the BOL has a value of 200% of max HP and it is not possible to gain more. Healing done towards clearing BOL counts as normal healing and can trigger any healing related effect. BOL expires in 10 minutes if not cleared.
+
+See the [Evidence Vault](../../evidence/combat-mechanics/damage/healing.md#bond-of-life-mechanics) for more details
+
 ## Evidence Vault
 
 <Card item={require('../../evidence/combat-mechanics/damage/healing.md')} />
