@@ -78,6 +78,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* When using Charged Attack, Sourcewater Droplets absorb range is atleast [two different overlapping regions](../../evidence/characters/hydro/neuvillette.md#faster-neuvi-balls).
 -->
 
 </TabItem>
@@ -141,7 +142,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <!--
 **Notes**
 
-* 
+*   
 -->
 
 </TabItem>
