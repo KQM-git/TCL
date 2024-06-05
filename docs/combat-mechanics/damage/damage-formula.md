@@ -8,9 +8,8 @@ description: An explanation as to how outgoing damage is calculated.
 
 $$
 \text{DMG} = (\Sigma(\text{Base DMG} \times \text{BaseDMGMultiplier}) + \text{AdditiveBaseDMGBonus}) \\
-\times (1 + \text{DMGBonus} - \text{DMGReduction} {\text{Target}}) \\
-\times \text{CRIT}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \\
-\times \text{AmplifyingReaction} + \text{TransformativeReaction} + \text{Proc} \\
+\times (1 + \text{DMGBonus} - \text{DMGReduction} {\text{Target}}) \times \text{CRIT} \\
+\times \text{ EnemyDefMult} \times \text{EnemyResMult} \times \text{AmplifyingReaction} \\
 $$
 
 See the sections below for the breakdown of each individual part of the formula.

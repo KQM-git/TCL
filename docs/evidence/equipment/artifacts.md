@@ -944,7 +944,7 @@ The Aggravated absorbed Electro from Sucrose's Burst deals 1488 damage, which is
 
 **Notes:**
 
-Prototype Malice at R2
+Prototype Amber at R2
 
 Healing bonus of 30.8%
 

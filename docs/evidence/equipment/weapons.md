@@ -803,6 +803,26 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 
 ---
 
+### Ballad of the Boundless Blue
+
+#### Ballad of the Boundless Blue stacks stay when off field
+
+**By:** @emmaus   
+**Added:** <Version date="2024-05-26" />  
+**Last tested:** <VersionHl date="2023-10-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-1-equipment-basic-mechanics)
+
+**Finding:**  
+Ballad of the Boundless Blue stacks do not reset offield. There's also no visible effect on gaining stacks.
+
+**Evidence:**  
+[YouTube](https://youtu.be/2b-ZmUTKnMM) - Yanfei still does the max 3432 CRIT / 1467 non CRIT damage even after swapping to Layla and back.
+
+**Significance**:
+Useful to keep in mind while crafting rotations.
+
+---
+
 ### Beacon of the Reed Sea
 
 #### Beacon of the Reed Sea's passive does not trigger if shielded
@@ -925,11 +945,11 @@ When you can run Yun Jin on deathmatch, the passive snapshot can sometimes maint
 4ESF DMG% bonus works with the ER% from Engulfing Lightning's effect but does not snapshot.
 
 **Evidence:**  
-[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) - Vye's stats, shown in video, are calculated for Burst damage here assuming that the ER passive from Grasscutter does affect the 4-Piece ESF set: $(804+899) \times (1+1.098) \times (1+0.466+0.582) \times (0.9) \times \frac{100+70}{(100+70)+(100+85)} \times 2.508 = 7909$ Which about matches up with the damage number of 7906 in the video.  
+[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) - Vye's stats, shown in video, are calculated for Burst damage here assuming that the ER passive from Engulfing does affect the 4-Piece ESF set: $(804+899) \times (1+1.098) \times (1+0.466+0.582) \times (0.9) \times \frac{100+70}{(100+70)+(100+85)} \times 2.508 = 7909$ Which about matches up with the damage number of 7906 in the video.  
 [No snapshot evidence](https://www.youtube.com/watch?v=asYD3tzpvC0) - In the video, Engulfing Lightning is being used. The ending hits of Xiangling's Burst are lower damage, indicating that the Burst DMG% from Engulfing Lightning's additional ER bonus on Burst cast has worn off.
 
 **Significance:**  
-Grasscutter + 4ESF have better synergy.
+Engulfing + 4ESF have better synergy.
 
 #### Engulfing Lightning ER% buff and off-field Interaction
 
@@ -1520,6 +1540,53 @@ Bring justice to Polar Star's name, in that it had no ICD all along.
 
 ---
 
+### Portable Power Saw
+
+#### Portable Power Saw Mechanics
+
+**By:** @milktearomance  
+**Added:** <Version date="2024-05-26" />  
+**Last tested:** <VersionHl date="2023-10-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-1-equipment-basic-mechanics)
+
+**Finding:**  
+1) Roused effect does not trigger without Stoic's Symbols.   
+2) Eating food can add Stoic's Symbols. 
+3) There is little to no cooldown between accumulation of stacks.  
+  
+**Evidence:**  
+* [YouTube](https://youtu.be/mCsRxN4lNTE) - Steps in video:  
+  * Elemental Skill used without Stoic stacks  
+  * Food eaten to gain Stoic stacks  
+  * Elemental Skill used again within 15s (when Roused's cooldown should expire if in effect)  
+  * Stoic stacks consumed, Sayu's EM buffed  
+ 
+  
+1) Roused was triggered on the second Skill press, consuming the Stoic's Symbols. If Roused had triggered on the first Skill press, cooldown would have been in effect and would have made it impossible to trigger on the second Skill press. Thus, Roused will not trigger if there are no stacks.  
+2) The only healing source was food, and stacks were acquired.  
+3) Two stacks were made after consuming one Sweet Madame, since Sweet Madame actually heals twice in the same instance. Thus, there seems to be little to no cooldown between accumulation of stacks.  
+  
+**Significance:**  
+Effective use of this weapon when crafting rotations.  
+
+#### Portable Power Saw Passive procs on overhealing
+
+**By:** @shampoobrain  
+**Added:** <Version date="2024-05-26" />  
+**Last tested:** <VersionHl date="2023-10-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-1-equipment-basic-mechanics)
+
+**Finding:**  
+Portable Power Saw passive procs on overflow healing.  
+  
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=N6BuYbIZJ30)  
+  
+**Significance:**  
+Don't need to take damage to make use of the weapon fully. 
+
+---
+
 ### Primordial Jade-Winged Spear
 
 #### PJWS On Hit Definition
@@ -1907,6 +1974,26 @@ The Bell's passive %Inc Damage works with any shield, and not just with the proc
 
 **Significance:**  
 Although there's better claymores, this makes The Bell significantly better than the passive description lets on. Makes for an ok Noelle weapon if prototypes are being used on another character.
+
+---
+
+### Tome of the Eternal Flow
+
+#### Tome of the Eternal Flow doesn't gain stacks when off field
+
+**By:** @f99shi  
+**Added:** <Version date="2024-05-26" />  
+**Last tested:** <VersionHl date="2023-10-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-1-equipment-basic-mechanics)
+
+**Finding:**  
+Tome of the Eternal Flow doesnt gain stacks when off field.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/dUDCHo1)  
+
+**Significance:**  
+Useful to keep in mind when crafting rotations.
 
 ---
 

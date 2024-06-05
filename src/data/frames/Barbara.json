@@ -6,7 +6,7 @@
         "next_na": 15,
         "ca": 18,
         "walk": 23,
-        "notes": "Subtract 14f from N1 hitmark if N4 is prior"
+        "notes": "Hitmark of N1 is 14f if N4 is prior"
     }, 
     {
         "name": "N2",

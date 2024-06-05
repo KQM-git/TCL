@@ -30,13 +30,13 @@ There's a video linked showing the issue occurring at 0:02 and 0:19 [**https://d
 
 From what I can tell \(complaints about it on Hoyolab\), this has been in the game since launch. Attacking quickly with Sucrose will, in many instances, lose a significant portion of damage \(and more importantly Swirl potential\) because this bug is still in the game.
 
-### Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite?
+### Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Undone Be Thy Sinful Hex?
 
 **By:** Cola\#6861
 
 I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are Anemo which will Swirl the Electro debuff on the enemy.
 
-Upon testing, as expected: it works, and yes Lightning Smite can also CRIT.
+Upon testing, as expected: it works, and yes Undone Be Thy Sinful Hex can also CRIT.
 
 **Evidence:**
 
