@@ -619,5 +619,31 @@
         "desc": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost."
       }
     ]
+  },
+  "Fragment of Harmonic Whimsy": {
+    "name": "Fragment of Harmonic Whimsy",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "ATK +18%."
+      },
+      {
+        "count": 4,
+        "desc": "When the value of a Bond of Life increases or decreases, this character deals 18% increased DMG for 6s. Max 3 stacks."
+      }
+    ]
+  },
+  "Unfinished Reverie": {
+    "name": "Unfinished Reverie",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "ATK +18%."
+      },
+      {
+        "count": 4,
+        "desc": "After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers if the equipping character is off-field."
+      }
+    ]
   }
 }

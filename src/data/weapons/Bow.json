@@ -733,6 +733,94 @@
       "desc": "After defeating an enemy, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
     }
   },
+  "Cloudforged": {
+    "name": "Cloudforged",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 36,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Crag-Chiseled Forge",
+      "desc": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by **40**/**50**/**60**/**70**/**80** for 18s. Max 2 stacks."
+    }
+  },
   "Compound Bow": {
     "name": "Compound Bow",
     "weaponType": "Bow",
@@ -2931,6 +3019,94 @@
     "refinements": {
       "name": "Daylight's Augury",
       "desc": "Elemental Skill and Elemental Burst DMG increased by **12%**/**15%**/**18%**/**21%**/**24%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **10/20/30/48%** / **12.5/25/37.5/60%** / **15/30/45/72%** / **17.5/35/52.5/84%** / **20/40/60/96%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
+    }
+  },
+  "Silvershower Heartstrings": {
+    "name": "Silvershower Heartstrings",
+    "weaponType": "Bow",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.144,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Dryas's Nocturne",
+      "desc": "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by **12%/24%/40%** / **15%/30%/50%** / **18%/36%/60%** / **21%/42%/70%** / **24%/48%/80%**. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by **28%**/**35%**/**42%**/**49%**/**56%**. This effect will be canceled 4s after falling under 3 stacks."
     }
   },
   "Skyward Harp": {
