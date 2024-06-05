@@ -12,14 +12,9 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Gaming.png')} alt="Gaming's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
-<!--
 ## Resources
 
-* [Gaming Mains Discord]()
-* [Full Gaming Written Guide]()
-* [Gaming Quick Guide]()
-* [# Minute Video Guide to Gaming]()
--->
+* [Gaming Quick Guide](https://keqingmains.com/q/gaming-quickguide/)
 
 ## Base Stats
 
@@ -37,41 +32,32 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+| String | Talent 9% | Frames | MV/s        | Poise Damage | Impulse Type   |
+| :----- | :-------- | :----- | :---------- | :----------- | :-----------   |
+| 1-Hit  | 154.06%   | 30     | 308.12 %/s  | 112.13       | 3              |
+| 2-Hit  | 145.22%   | 32     | 272.29 %/s  | 105.7        | Heavy, 400, 0  |
+| 3-Hit  | 195.93%   | 79     | 148.81 %/s  | 142.61       | Heavy, 400, 0  |
+| 4-Hit  | 235.07%   | 87     | 162.12 %/s  | 171.1        | 5              |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- claymore
-| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
+| String       | Talent 9%  | Frames | MV/s | Poise Damage | Impulse Type |
+| :----------- | :--------  | :----- | :--- | :----------- | :----------- |
+| Spinning DMG | 114.87%    | -      | -    | 60           | 2            |
+| Final DMG    | 207.77%    | -      | -    | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      | 117.85%   | 35           | 2            |
+| Low Plunge DMG  | 236.65%   | 150          | 4            |
+| High Plunge DMG | 294.34%   | 200          | 7            |
 
 </div>
 
@@ -79,6 +65,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 **Notes**
 
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+
 -->
 
 </TabItem>
@@ -88,29 +75,27 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
-| :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+| Attribute      | Charmed Cloudstrider |
+| :------------- | :--------            |
+| DMG \(T9%\)    | 391.68%              |
+| HP Cost        | 15% Max HP           |
+| Particles      | 2 (-)                |
+| GU             | 1U                   |
+| ICD            | None                 |
+| Snapshot       | Dynamic              |
+| Damage Element | Pyro                 |
+| Damage Type    | Plunge               |
+| Duration       | -                    |
+| CD             | 6s                   |
+| Poise Damage   | 150                  |
+| Impulse Type   | 7                    |
 
 </div>
 
-<!--
 **Notes**
 
-* 
--->
+* Gaming's Charmed Cloudstrider can trigger Shatter
+* Gaming's Skill triggers NPC applause
 
 </TabItem>
 
@@ -119,31 +104,25 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
-
-<!--
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
-
+| Attribute         | Burst         |
+| :---------------- | :--------     |
+| DMG \(T9%\)       | 629.68%       |
+| Healing           | 30% Max HP    |
+| GU                | 1U            |
+| ICD               | Standard      |
+| Snapshot          | -             |
+| Damage Element    | Pyro          |
+| Damage Type       | Burst         |
+| Energy Cost       | 60            |
+| Duration          | 12s           |
+| Cooldown          | 15s           |
+| Poise Damage      | 200           |
+| Impulse Type      | Air, 0, 600   |
 </div>
 
-<!--
 **Notes**
 
-* 
--->
+* Gaming's Burst cannot trigger Shatter
 
 </TabItem>
 </Tabs>
