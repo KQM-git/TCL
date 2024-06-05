@@ -148,7 +148,12 @@ import FavSeries from './\_common/fav_series.md';
 
 ### Rightful Reward
 
-<Weapon weapon="Rightful Reward" weapons={polearms} />
+<Weapon weapon="Rightful Reward" weapons={polearms}>
+
+* The passive triggers on overhealing
+* The passive can trigger and eneter cooldown even if the character is full on energy
+
+</Weapon>
 
 ### Royal Spear
 

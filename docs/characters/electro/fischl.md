@@ -271,6 +271,7 @@ import Constellation from '@site/src/components/char/Constellation'
 * C4 can CRIT and has separate CRIT rolls from Q.
 * C4 damage occurs before Q (higher priority)
 * C4 is not a blunt attack and will not Shatter Frozen enemies.
+* C4 can trigger the Song of Stillness passive, however it does not snapshot onto the oz summoned by that burst.
 
 </TabItem>
 

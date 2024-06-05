@@ -1635,6 +1635,24 @@ CA damage on non CRIT before any Skill uses is 181. First Skill use at 30s, CA d
 Affects stack uptime considerations for polearm users with Skill cooldowns less than 12s as it can potentially allow them to keep full uptime on two stacks of Prototype Starglitter's passive.
 
 ---
+### Rightful Reward
+
+#### Rightful Reward mechanics
+
+**By:** @starlighthorizon  
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+Findings:
+* Rightful reward triggers on overhealing
+* Rightful reward passive can trigger and enter cooldown at full energy
+
+Evidence:
+* https://www.youtube.com/watch?v=Z1IgEHqQ6B8
+* https://www.youtube.com/watch?v=3jlS60bstIY
+
+---
 
 ### Rust
 
@@ -1680,7 +1698,25 @@ Truncating decimals aside, the DMG number of "If additive" is the same as in-gam
 **Significance:**  
 The DMG reduction of Rust passive is pretty negligible.
 
---
+---
+
+### Scion of the Blazing Sun
+
+#### Scion of the Blazing Sun works in AoE
+
+**By:** @bobrokrot  
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Finding:**
+Scion of the Blazing Sun does work in AoE. The physical damage is AoE, and the effect is applied to all damaged enemies.
+
+**Evidence:**
+https://youtu.be/u_NWfeK6-xc
+
+
+---
 
 ### Serpent Spine
 
@@ -1706,7 +1742,6 @@ Getting hit by multi hit attacks will still only remove one stack thus increasin
 * Relevant examples in the overworld only: environmental damage
 * Relevant examples: Ruin guard missiles or the Cryo gun attack from the Cryo Fatui \([YouTube](https://youtu.be/qaxgPjY78YE)\)
 
----
 
 #### Serpent Spine Damage Taken affects Shields
 
@@ -1755,6 +1790,26 @@ Definitely just Yoimiya things.
 
 ---
 
+### Song of Stillness
+
+#### Song of Stillness Mechanics  
+
+**By:** @hungrydave  
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+Findings:
+* Song of Stillness buff is snapshottable.
+* The buff procs on overheals.
+* The buff does not appear on the stat screen.
+
+Evidence:
+* https://youtu.be/ujQb7V7ipHA (#1 and #2)
+* https://youtu.be/UtapAXJWSuE (#3)
+
+---
+
 ### Staff of the Scarlet Sands
 
 #### Staff of the Scarlet Sands does not stack off-field
@@ -1772,7 +1827,6 @@ Stacks for Staff of the Scarlet Sands cannot be gained from off field but are re
 **Significance:**  
 Characters need more field time to get optimal use of the weapon. Characters that do not snapshot can still make use of stacks while off field.  
 
----
 
 #### Staff of the Scarlet Sands Stacks Snapshot
 
@@ -1793,6 +1847,25 @@ $1283 \ \text{(total ATK without SotSS passive)} + 403 \ \text{(EM after diona C
   
 **Significance:**  
 Pre-stacking SotSS will not give you the full value of the Dream of the Scarlet Sands effect if EM buffs are obtained after the stacks.
+
+---
+
+### Talking Stick
+
+#### Talking Stick mechanics
+
+**By:** @bobrokrot  
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Findings:**  
+* Beidou E in Bennett burst triggers both abilities.
+* Swapping into a character with Talking stick while Diona shield + Xinayn shield are both active triggers both abilities.
+* Suffering an elemental attack from the enemy while in Bennet field does not trigger the 2nd ability.
+* Suffering an elemental attack normally does trigger the ability.
+
+**Evidence:** https://youtu.be/fKdwoPKplbY
 
 ---
 
@@ -1921,6 +1994,22 @@ Xiphos and Evenstar give their respective buffs 64 frames after being equipped, 
 **Significance:**  
 Mostly fluff, just to confirm that the Tulaytullah Weapon Series (which Xiphos and Evenstar belong in) have 100% buff up-time regardless of the situation, except for the 1.067s delay at the start.
 This info has no practical application other than to test buff timings.
+
+---
+
+### Wolf-Fang
+
+#### Wolf-Fang passive does not stack off-field
+
+**By:** @scooty727  
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Finding:** Wolf-fang crit rate does not stack off-field
+
+**Evidence:**
+Xingqiu's burst misses multiple crits throughout the video which shouldn't be possible at 93% crit rate unless wolf-fang is not stacking off-field https://www.youtube.com/watch?v=ukdNFcvBnI4
 
 ---
 

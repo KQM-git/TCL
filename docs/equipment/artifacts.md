@@ -163,7 +163,14 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Marechaussee Hunter
 
-<Artifact artifact="Marechaussee Hunter" />
+<Artifact artifact="Marechaussee Hunter">
+
+* The 4pc bonus does not trigger on max HP changes
+* The 4pc bonus does not stack off field, and stacks are not cleared when going off field
+* The 4pc bonus can gain multple stacks simultaneously
+* Different stacks of the 4pc bonus share duration and getting a new stack refreshes previous stacks
+
+</Artifact>
 
 ### Nighttime Whispers in the Echoing Woods
 

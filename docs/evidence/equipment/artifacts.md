@@ -952,6 +952,55 @@ Ningguang was used due to her low Burst Energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that HP before healing\)
 
+## Marechaussee Hunter
+
+### 4MH does not trigger on max HP change
+
+**By:** @euphorysm
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)
+
+**Finding:** Max HP buffs do not trigger the Marechaussee Hunter set effect
+
+**Evidence:** https://youtu.be/o2jxeJEtZAM?feature=shared
+
+### 4MH does not stack off field
+
+**By:** @sharaths21312
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Finding:** Marechausse Hunter does not stack off field, however switching off field does not lose stacks
+
+**Evidence:** https://youtu.be/xMhGuuol6po
+
+### 4MH can get multiple stacks simultaneously
+
+**By:** @soul_fish
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Finding:** Hunter can get multiple stacks simultaneously (each instance of HP change regardless of when would then count)
+
+**Evidence:** https://youtu.be/GVl0Y1Bt0Vo
+
+### 4MH stacks share duration
+
+**By:** @chiston
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-04-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4-0-equipment-basic-mechanics)  
+
+**Finding:** Marechausse Hunter stacks share duration, new stacks refresh existing stacks duration
+
+**Evidence:** https://youtu.be/Ijy_BdF2gNw
+  * Xianyun's healing interval is 2.5 seconds, the first generated stack does not run out after the third healing tick
+(Masanori Timer evidence: 1:38 first stack; 1:33 third stack; stats checked at 1:32)
+
+
 ## Noblesse Oblige
 
 ### Self 4NO Interactions
