@@ -79,6 +79,10 @@ Tapping shift while swimming has a stamina cost that is only a little higher tha
 
 Turning while swimming drains extra Stamina, so swimming in straight lines should be done whenever possible.  
 
+All character models swim at the same speed underwater. 
+
+Repeatedly tapping swim leads to faster travel speed than holding swim. 
+
 ## Infinite Dashing
 
 Double dashing with a pause in between to regain stamina can allow for a faster way to move continuously.
