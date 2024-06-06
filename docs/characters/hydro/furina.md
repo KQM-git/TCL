@@ -154,10 +154,10 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 ## Frames
 
-import charFrames from '@site/src/data/frames/Furina.json'
+<!--import charFrames from '@site/src/data/frames/Furina.json'
 import Frames from '@site/src/components/char/Frames'
 
-<Frames data={charFrames} />
+<Frames data={charFrames} />-->
 
 ## Ascension Passives
 

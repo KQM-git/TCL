@@ -9,8 +9,8 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Arlecchino.png')} alt="Arlecchino's gacha art" />
-<blockquote>{frontMatter.description}</blockquote>
+<!--<Image img={require('/img/characters/gacha/Arlecchino.png')} alt="Arlecchino's gacha art" />
+<blockquote>{frontMatter.description}</blockquote>>-->
 
 ## Resources
 

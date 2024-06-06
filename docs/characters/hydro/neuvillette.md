@@ -161,11 +161,12 @@ Let me know/ping me if this is not should not be the case. -->
 
 
 ## Frames
-
+<!--
 import charFrames from '@site/src/data/frames/Neuvillette.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
+-->
 
 ## Ascension Passives
 
