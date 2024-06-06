@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Traveler (Hydro)
 
 **Main Page:**

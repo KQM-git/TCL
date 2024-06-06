@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Lyney
  
 **Main Page:**

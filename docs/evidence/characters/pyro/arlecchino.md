@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Arlecchino
 
 **Main Page:**

@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Wriothesley
 
 **Main Page:**

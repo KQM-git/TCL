@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Mika
 
 **Main Page:**

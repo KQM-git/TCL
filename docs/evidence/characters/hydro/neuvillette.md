@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Neuvillette
 
 **Main Page:**
