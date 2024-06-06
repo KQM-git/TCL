@@ -1,5 +1,5 @@
 ---
-description: "The Knave," Fourth of the Fatui Harbingers. Revered as "Father" by the children of the House of the Hearth.
+description: '"The Knave," Fourth of the Fatui Harbingers. Revered as "Father" by the children of the House of the Hearth.'
 ---
 
 import char from '@site/src/data/characters/Arlecchino.json'
