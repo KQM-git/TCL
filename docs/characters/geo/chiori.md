@@ -1,5 +1,5 @@
 ---
-description: A frank and outspoken fashion designer whose unique sense of style always puts her at the forefront of Fontainian trends.
+description: The owner of Chioriya Boutique. A tailor renowned throughout Fontaine.
 ---
 
 import char from '@site/src/data/characters/Chiori.json'
@@ -9,8 +9,8 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<!--<Image img={require('/img/characters/gacha/Chiori.png')} alt="Chiori's gacha art" />
-<blockquote>{frontMatter.description}</blockquote>-->
+<Image img={require('/img/characters/gacha/Chiori.png')} alt="Chiori's gacha art" />
+<blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 

@@ -1,5 +1,5 @@
 ---
-description: A mysterious desert youth with a friendly smile who loves traveling by foot across both rainforest and desert.
+description: The Temple of Silence's heir. Burdened with secrets, he comes from the sands.
 ---
 
 import char from '@site/src/data/characters/Sethos.json'
@@ -9,8 +9,8 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<!--<Image img={require('/img/characters/gacha/Sethos.png')} alt="Sethos's gacha art" />
-<blockquote>{frontMatter.description}</blockquote>-->
+<Image img={require('/img/characters/gacha/Sethos.png')} alt="Sethos's gacha art" />
+<blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 

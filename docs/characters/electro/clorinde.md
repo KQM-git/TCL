@@ -1,5 +1,5 @@
 ---
-description: The mightiest Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.
+description: An undefeated Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.
 ---
 
 import char from '@site/src/data/characters/Clorinde.json'
@@ -9,8 +9,8 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<!--<Image img={require('/img/characters/gacha/Clorinde.png')} alt="Clorinde's gacha art" />
-<blockquote>{frontMatter.description}</blockquote>-->
+<Image img={require('/img/characters/gacha/Clorinde.png')} alt="Clorinde's gacha art" />
+<blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
