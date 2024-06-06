@@ -1,5 +1,5 @@
 ---
-description: '"The Knave," Fourth of the Fatui Harbingers. Revered as "Father" by the children of the House of the Hearth.'
+description: '"The Knave," Fourth of the Fatui Harbingers. A poised, ruthless diplomat. To the children in the House of the Hearth, she is their feared yet dependable "Father."'
 ---
 
 import char from '@site/src/data/characters/Arlecchino.json'
@@ -9,8 +9,8 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<!--<Image img={require('/img/characters/gacha/Arlecchino.png')} alt="Arlecchino's gacha art" />
-<blockquote>{frontMatter.description}</blockquote>>-->
+<Image img={require('/img/characters/gacha/Arlecchino.png')} alt="Arlecchino's gacha art" />
+<blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
