@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-<Card item={require('../../../characters/pyro/chiori.md')} />
+<Card item={require('../../../characters/geo/chiori.md')} />
 
 ## Basic Mechanics
 
