@@ -1,8 +1,12 @@
+---
+search: false
+---
+
 # Clorinde
 
 **Main Page:**
 
-<Card item={require('../../../characters/pyro/clorinde.md')} />
+<Card item={require('../../../characters/electro/clorinde.md')} />
 
 ## Basic Mechanics
 

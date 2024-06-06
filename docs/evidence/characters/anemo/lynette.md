@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Lynette
 
 **Main Page:**

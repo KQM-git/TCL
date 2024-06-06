@@ -228,11 +228,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
-</TabItem>
 
 **Notes**
 
 * In rare instances, a phantom Sourcewater Droplet can be left behind. This Sourewater Droplet cannot be interacted with.
+</TabItem>
 
 </Tabs>
 

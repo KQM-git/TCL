@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Chiori
 
 **Main Page:**

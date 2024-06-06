@@ -1,8 +1,12 @@
+---
+search: false
+---
+
 # Sethos
 
 **Main Page:**
 
-<Card item={require('../../../characters/pyro/sethos.md')} />
+<Card item={require('../../../characters/electro/sethos.md')} />
 
 ## Basic Mechanics
 

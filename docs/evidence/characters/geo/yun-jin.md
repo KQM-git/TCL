@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Yun Jin
 
 **Main Page:**

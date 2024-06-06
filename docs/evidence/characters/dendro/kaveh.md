@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Kaveh
 
 **Main Page:**

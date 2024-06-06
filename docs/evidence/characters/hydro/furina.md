@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Furina
 
 **Main Page:**

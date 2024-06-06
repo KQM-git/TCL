@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Freminet
 
 **Main Page:**
