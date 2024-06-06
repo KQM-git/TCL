@@ -9,8 +9,8 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Chiori.png')} alt="Chiori's gacha art" />
-<blockquote>{frontMatter.description}</blockquote>
+<!--<Image img={require('/img/characters/gacha/Chiori.png')} alt="Chiori's gacha art" />
+<blockquote>{frontMatter.description}</blockquote>-->
 
 ## Resources
 
@@ -144,4 +144,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/pyro/chiori.md')} />
+<Card item={require('../../evidence/characters/geo/chiori.md')} />
