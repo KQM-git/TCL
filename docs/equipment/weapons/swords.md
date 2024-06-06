@@ -5,6 +5,10 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 ## 5 Stars
 
+### Absolution
+
+<Weapon weapon="Absolution" weapons={swords} />
+
 ### Aquila Favonia
 
 <Weapon weapon="Aquila Favonia" weapons={swords}>
@@ -78,6 +82,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 * Summit Shaper can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md#weapon-stacks-and-zero-damage-attacks)
 
 </Weapon>
+
+### Uraku Misugiri
+
+<Weapon weapon="Uraku Misugiri" weapons={swords} />
 
 ## 4 Stars
 

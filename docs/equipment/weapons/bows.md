@@ -77,6 +77,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <Weapon weapon="Compound Bow" weapons={bows} />
 
+### Cloudforged
+
+<Weapon weapon="Cloudforged" weapons={bows} />
+
 ### End of the Line
 
 <Weapon weapon="End of the Line" weapons={bows} />

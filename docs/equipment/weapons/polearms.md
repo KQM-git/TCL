@@ -9,6 +9,10 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Calamity Queller" weapons={polearms} />
 
+### Crimson Moon's Semblance
+
+<Weapon weapon="Crimson Moon's Semblance" weapons={polearms} />
+
 ### Engulfing Lightning
 
 <Weapon weapon="Engulfing Lightning" weapons={polearms}>
@@ -89,6 +93,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 * The ATK and DEF bonus snapshots the last effect when the holder goes off-field. When swapping back on-field, the passive update is not immediate. - [Aftermath\#7658](../../evidence/equipment/weapons.md#deathmatch-passive-snapshot)
 
 </Weapon>
+
+### Dialogues of the Desert Sages
+
+<Weapon weapon="Dialogues of the Desert Sages" weapons={polearms} />
 
 ### Dragon's Bane
 
