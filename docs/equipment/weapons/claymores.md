@@ -99,7 +99,11 @@ import FavSeries from './\_common/fav_series.md';
 
 ### Lithic Blade
 
-<Weapon weapon="Lithic Blade" weapons={claymores} />
+<Weapon weapon="Lithic Blade" weapons={claymores}>
+
+* Childe does not contribute a stack to the Lithic Series.
+
+</Weapon>
 
 ### Luxurious Sea-Lord
 
