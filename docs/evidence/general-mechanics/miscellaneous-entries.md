@@ -1381,3 +1381,19 @@ Itto is the sole character (that could be found) whose entire weapon changes, bu
 
 **Significance:**  
 Nothing gameplay wise, just interesting.
+
+## The Infiniplunge
+
+**By:** @.magnusartifex  
+**Added:** <Version date="2024-05-26" />  
+**Last tested:** <VersionHl date="2024-01-20" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/the-infiniplunge)
+
+**Finding:**  
+Polearm users, after plunging for some time, will have their visual effects start going haywire, elongating, thinning and eventually moving downwards. The effect is purely visual and has no impact on gameplay.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/gallery/iyfen20)  
+  
+**Significance:**  
+You now can admire the pole dancing abilities of your favorite female character.

@@ -51,6 +51,7 @@ description: For entries that have little practical use.
 * Character Constellations are actually [3D](../evidence/general-mechanics/miscellaneous-entries.md#character-constellations-are-3d)!
 * Item pickup speed [slows down in higher ping environments](../evidence/general-mechanics/miscellaneous-entries.md#ping-and-item-pickup-speed).
 * Elemental Conversions are inconsistent in their visual properties when viewed in Elemental Sight. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#inconsistent-conversions-elemental-sight) for more information.
+* Polearm users, after plunging for some time, will start to have various changes on their visual effects. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#the-infiniplunge) for more information.
 
 ## Canceling
 
