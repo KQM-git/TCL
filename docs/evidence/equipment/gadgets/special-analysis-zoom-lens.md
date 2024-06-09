@@ -14,7 +14,7 @@ Main Page
 Charlotte with new Kamera lens counts as using skill cast.  
   
 **Evidence:**  
-[YouTube](https://youtu.be/heaNef6uhYw) from <@290820916051705868>  
+[YouTube](https://youtu.be/heaNef6uhYw) from @clevernt
   
 **Significance:**  
 Oathsworn triggering and Kagura stacks. Also, the first time a gadget has affected gameplay in Abyss, lmao.
