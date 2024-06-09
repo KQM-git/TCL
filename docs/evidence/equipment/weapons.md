@@ -925,6 +925,28 @@ Confirmation that Cinnabar Spindle's passive is dynamic, even for abilities that
 
 ---
 
+### Cloudforged
+
+#### Cloudforged Stacks Refresh
+
+**By:** @clevernt  
+**Added:** <Version date="2024-06-07" />  
+**Last tested:** <VersionHl date="2024-06-07" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cloudforged-stacks-refresh)
+
+**Finding:**  
+Gaining a stack of Cloudforged's passive refreshes both stacks.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/hje2cnujDfU)  
+Gained a stack at 0s, and a second stack at ~16s.  
+at 24s, both stacks are still active, meaning the second stack refreshed the first.  
+
+**Significance:**  
+Cloudforged's passive can be utilized in short (=<18s) rotations even if the character does not have a way to drain energy outside of Burst.  
+
+---
+
 ### Deathmatch
 
 #### Deathmatch Passive Snapshot
