@@ -729,6 +729,22 @@ If you activate the Kamera gadget before using a 5-star Burst while the “Speci
 **Significance:**  
 Great wallpaper material, ~~Ayaka doesn’t ruin her burst by being there~~.
 
+### What Is A Geo Construct
+
+**By:** @clevernt  
+**Added:** <Version date="2024-03-16" />  
+**Last tested:** <VersionHl date="2024-03-16" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/what-is-a-geo-construct)
+
+**Theory:**  
+A few enemy constructs count for Chiori's Geo-construct-check: Geo Samachurl's pillar, Geo Hypostasis' pillar, and **Cryo Samachurl's icicles** -- the last one being the suspicions one. Why is Cryo Geo? My theory is that it's a *literal* reskinned Geo Samachurl, and hoyo fixed it for Zhongli but not Chiori.  
+
+**Evidence:**  
+[Google Docs](https://docs.google.com/spreadsheets/d/1Tb-PQNe8AZPGMwpIt38zfAgpoSH4kcMClkF2UAwLLcY/edit?usp=sharing)  
+
+**Significance:**  
+Chiori's construct-check is most likely bugged.  
+
 ## Enemies
 
 ### Disappearing Fatui When They Shouldn't
