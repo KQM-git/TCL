@@ -177,6 +177,26 @@ distance is 1115m -> 1228m from questmarker
 **Significance:**  
 gotta ~~go~~ swim fast 
 
+### Fontanian Dolphin Jump
+
+**By:** @cqlqrs  
+**Added:** <Version date="2024-02-08" />  
+**Last tested:** <VersionHl date="2024-02-07" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/fontanian-dolphin-jump)
+
+**Finding:**  
+Fontanians (and the Traveler of any Element) can dolphin jump out of the waters of Fontaine while characters from other regions simply surface when they reach the top of the water.  
+  
+**Evidence:**  
+Fontainians + Traveler (Hydro and Dendro) can dolphin jump  
+[YouTube](https://youtu.be/KjH0B3u4c7o)  
+  
+Non-Fontainians cannot dolphin jump  
+[YouTube](https://youtu.be/t8Rjzsr1APs)  
+  
+**Significance:**  
+Having a Fontainian in the player's team can significantly speed up swimming in Fontaine by abusing the Dolphin Jump Mechanic.
+
 ## Movement Speed
 
 ### Movement Techniques and Player Model Comparisons
