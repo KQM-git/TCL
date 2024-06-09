@@ -1385,6 +1385,30 @@ Extra Razor, lisa, sayu, chongyun framecount: [YouTube](https://www.youtube.com/
 **Significance:**  
 If a character can cast their Elemental Skill and then Burst in about less than 7 frame, they can spend the Energy before being drained, bypassing the large cost of using Shimenawa set. Childe walking E (thanks to Amadurim#8925) is currently the only Skill found to be fast enough for this tech to work, so this remains largely impractical in gameplay, but maybe future character can benefit more from Shimenawa with this finding. Also, with high ping (400-600ms) it is possible to extend the Energy drain delay long enough so other character can Burst before the drain.
 
+## Song of Days Past
+
+### SODP Recording Healing
+
+**By:** @brukin  
+**Added:** <Version date="2024-05-14" />  
+**Last tested:** <VersionHl date="2024-05-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/sodp-recording-healing)
+
+**Finding:**  
+The artifact set Song of Days Past can record healing while the buff is active.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/cl7ODNRTQdk)  
+
+**Significance:**  
+The set has 2 parts:  
+1. The Yearning effect which lasts 6s and records healing.  
+* This effect can only exist 1 at a time.  
+2. The effect is then *transformed* into the Song of Days Past effect which is the buff that lasts 10s.  
+* This effect is different from the Yearning effect which means you can record healing while the buff is active.  
+
+So you could potentially get more damage/procs from the artifact set if your healing lasted longer than 6s (and healed enough :Deadge: )
+
 ## Thundering Fury
 
 ### How 4-Piece Thundering Fury Interacts with Elemental Mastery
