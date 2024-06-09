@@ -81,7 +81,9 @@ Turning while swimming drains extra Stamina, so swimming in straight lines shoul
 
 All character models swim at the same speed underwater. 
 
-Repeatedly tapping swim leads to faster travel speed than holding swim. 
+Repeatedly tapping swim underwater leads to faster travel speed than holding swim.  
+
+Fontanians (and the Traveler of any Element) can dolphin jump out of the waters of Fontaine while characters from other regions simply surface when they reach the top of the water.  
 
 ## Infinite Dashing
 
