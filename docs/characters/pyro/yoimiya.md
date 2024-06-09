@@ -103,6 +103,7 @@ import Skill from '@site/src/components/char/Skill'
 * The DMG Bonus from **Niwabi Fire-Dance** is multiplicative.
 * Yoimiya's Particle generation triggers on infused arrow hit and has an ICD of 2s on Particle generation.
   * Yoimiya's Particle generation procs cannot be buffered, so Yoimiya will ideally generate 4 Particles over the duration of **Niwabi Fire-Dance**
+  * Yoimiya's Skill sometimes generates 5 Particles.
 * Charged Shots during the duration of **Niwabi Fire-Dance** do not generate Particles.
 * Yoimiya can still produce Energy even after **Niwabi Fire-Dance** expires as long as the ICD is off CD and the infused normal attack string arrow lands.
 * Blazing Arows snapshot the DMG Bonus from Niwabi Fire-Dance and still benefit from it even when Yoimiya swaps off-field right before the Blazing Arrows hit.
