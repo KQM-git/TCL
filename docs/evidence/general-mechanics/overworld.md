@@ -828,6 +828,25 @@ Water in certain regions of fontaine can't be frozen
 **Significance:**  
 Water is water, but water is not water.
 
+### Underwater Water Isn't Wet But Only To Enemies
+
+**By:** @.magnusartifex  
+**Added:** <Version date="2023-08-17" />  
+**Last tested:** <VersionHl date="2023-08-16" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/underwater-water-isnt-wet-but-only-to-enemies)  
+
+**Finding:**  
+Recent findings literally show that water, in fact, when underwater, isn’t wet (at least to enemies). As you can see, Nahida’s Skill doesn’t produce Bloom Cores and Raiden’s doesn’t induce Electrocharged.  
+  
+As for characters, water constantly applies Hydro underwater. Jean’s burst has vertical range and keeps swirling the element while it also keeps getting reapplied.  
+  
+**Evidence:**  
+Water isn’t wet: [Imgur](https://imgur.com/a/lWMYFjF)  
+Water is wet: [Imgur](https://imgur.com/a/hoPCkS6)  
+  
+**Significance:**  
+Bringing Raiden can speed up murder but not much. Water isn’t wet. And it is wet. Not only the skies of Teyvat are fake, but so are the oceans.
+
 ## Electro Crystals
 
 ### Electro Crystal Range
