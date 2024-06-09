@@ -245,7 +245,11 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Song of Days Past
 
-<Artifact artifact="Song of Days Past" />
+<Artifact artifact="Song of Days Past">
+
+* The 4-Piece effect of Song of Days Past can record healing while the buff is active.  
+
+</Artifact>
 
 ### Tenacity of the Millelith
 
