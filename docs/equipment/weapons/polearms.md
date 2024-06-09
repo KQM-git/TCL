@@ -141,7 +141,11 @@ import FavSeries from './\_common/fav_series.md';
 
 ### Lithic Spear
 
-<Weapon weapon="Lithic Spear" weapons={polearms} />
+<Weapon weapon="Lithic Spear" weapons={polearms}>
+
+* Childe does not contribute a stack to the Lithic Series.
+
+</Weapon>
 
 ### Prospector's Drill
 
