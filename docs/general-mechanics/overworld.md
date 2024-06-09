@@ -220,7 +220,11 @@ For example: Bennett's tap E, which applies 2U of Pyro, still creates a campfire
 ### Bouncy Mushrooms
 
 * Using a Normal Attack/Skill/Burst while starting a bounce animation (on the Bouncy Mushroom) will cancel the bounce on the player, which is easier to do with attacks that come out quicker.
-  * In the related Sumeru daily commission, the cancel must be input at around 4 frames after the Bouncy Mushroom's bounce animation has started. Doing it early will not count and doing it late risks being up in the air, unable to cancel the animation.
+  * In the related Sumeru daily commission, the cancel must be input at around 4 frames after the Bouncy Mushroom's bounce animation has started. Doing it early will not count and doing it late risks being up in the air, unable to cancel the animation.  
+
+### Jadewater Fruit  
+
+* Elemental Damage against Jadewater Fruit scales with gauge. 
 
 ## Coordinates
 

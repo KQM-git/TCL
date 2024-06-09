@@ -1213,6 +1213,23 @@ Largely fluff. However, the application of Cryo does mean that some Elemental re
 **Significance:**  
 Optimizing the Bouncing Commision on the Last(5th) Bounce.
 
+### Jadewater Fruit Scales With Gauge
+
+**By:** @baloopy  
+**Added:** <Version date="2024-05-21" />  
+**Last tested:** <VersionHl date="2024-05-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/jadewater-fruit-scales-with-gauge)
+
+**Finding:**  
+Jadewater Fruit scales with gauge.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/6X0FUkYd9LU)  
+Ayaka E is 2U and Ayaka Dash is 1U. Skill has twice the break of Dash.    
+  
+**Significance:**  
+Better understanding of exploration mechanics.  
+
 ## Coordinates
 
 ### Coordinates Translation Methods
