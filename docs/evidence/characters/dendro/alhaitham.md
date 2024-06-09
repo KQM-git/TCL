@@ -60,7 +60,32 @@ search: false
     * [Video](https://www.youtube.com/watch?v=aR7v9QfcSBA) -  N1 -> Skill cast procs a 3 Mirror projection 
     * [Video](https://www.youtube.com/watch?v=AhMZC-QujxY) - CA-1 activates A1 "on-hit", but does not apply the gained mirror to CA-1 (only CA-2). This shows that the conditions for a “check” require the hit to happen when >0 mirrors are present.
     * [Video](https://www.youtube.com/watch?v=fnWr70EsG_Q) -  If CA-1 trigger both a projection attack and A-1 at the same time, the "check" happens later and will take into account the gained mirror.
-    This was tested by using Skill -> N1 on a separate target, waiting (to line up the next projection attack timer in between n1 and CA-1), and then doing N1 -> CA on a separate target, with CA-1 killing the target (so we can check if we get the A1 proc to factor into the projection triggered).
+    This was tested by using Skill -> N1 on a separate target, waiting (to line up the next projection attack timer in between n1 and CA-1), and then doing N1 -> CA on a separate target, with CA-1 killing the target (so we can check if we get the A1 proc to factor into the projection triggered).  
+
+### Alhaitham Skill Stack Mechanics
+
+**By:** @baloopy  
+**Added:** <Version date="2024-06-04" />  
+**Last tested:** <VersionHl date="2024-06-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/alhaitham-skill-stack-mechanics)
+
+**Finding:**  
+Alhaitham Mirrors have an independent timer of 4s each, only one Mirror will decay at a time, and only the Mirror with the shortest duration will decay.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/FCYzIAhuH40)  
+Mirror gain/loss:  
+- 2 Mirrors are gained at :03  
+- 1 Mirror is gained at :05  
+- 1 Mirror is lost at :06  
+- 1 Mirror is lost at :11  
+- 1 Mirror is lost at :15  
+  
+The Mirror that had already lost 2 seconds on its timer was the first one to decay and the next 2 Mirrors follow a 4s pattern.  
+  
+**Significance:**  
+Better understanding of Skill stack mechanics.  
+
 ## Burst Mechanics
 
 * Burst has a 2s wait before generating new **Chisel-Light Mirrors**. It is possible to swap to another character, use a skill, and come back in time to catch the new Mirrors generated. - [Video](https://youtu.be/hHC1ZE-fkbs) - Latiwings\#3308
