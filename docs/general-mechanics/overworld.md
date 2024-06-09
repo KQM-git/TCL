@@ -145,6 +145,7 @@ Patch 2.6 introduced The Chasm:
 * Frozen water can be isolated from regular water by changing the water level or position after freezing the water.
   * It is inert and will not be affected by Elemental applications or abilities. This is in contrast to regular Frozen water, which has numerous interactions with Elemental applications.
 * Water from certain sources in Fontaine, including from the city, aquabus routes and hot springs, can't be frozen.
+* Underwater water in Fontaine is not wet for enemies, but is wet for characters. See this [Vault Entry](../evidence/general-mechanics/overworld.md#underwater-water-isnt-wet-but-only-to-enemies) for more information.
 
 ### Rain
 
