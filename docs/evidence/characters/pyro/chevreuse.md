@@ -27,8 +27,8 @@ It appears that high ping can make it proc twice.
 
 **Evidence:**  
 C0 low ping: [YouTube](https://youtu.be/HuNVDsv0HBI)  
-C0 high ping: [YouTube](https://youtu.be/fIhCAb_H4Rg) (courtesy of <@290820916051705868> )  
-C6 high ping: [YouTube](https://youtu.be/17VIYhHE2JI?si=Wv5pgLfJsXaUWBy4) (courtesy of <@741732017040785509> )  
+C0 high ping: [YouTube](https://youtu.be/fIhCAb_H4Rg) (courtesy of @clevernt)  
+C6 high ping: [YouTube](https://youtu.be/17VIYhHE2JI?si=Wv5pgLfJsXaUWBy4) (courtesy of @haafr)  
 
 **Significance:**  
 Chevreuse needs to take the lack of second energy regen into account while calculating her ER needs, and more testing is needed.  
