@@ -179,10 +179,11 @@ Burning grass has standard ICD - 3 hits/2.5 seconds.
 
 * Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
 * Bushes take one unit of Pyro Elemental application to light on fire.
+* For Catalyst users, only Hydro and Pyro are the kinds of Plunge Attacks that can destroy bushes. [Vault Entry](../evidence/general-mechanics/overworld.md#cata-plunge-sometimes-destroys-bush)
 
 ### Trees
 
-* Unloading and reloading an area causes trees/plants to pick up their fruits (like apples, sunsettias, lavender melon and berries). [Vault entry](../evidence/general-mechanics/overworld.md#trees-pick-up-fruits)
+* Unloading and reloading an area causes trees/plants to pick up their fruits (like apples, sunsettias, lavender melon and berries). [Vault Entry](../evidence/general-mechanics/overworld.md#trees-pick-up-fruits)
 
 
 ## Objects
