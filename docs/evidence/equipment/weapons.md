@@ -943,7 +943,7 @@ Gained a stack at 0s, and a second stack at ~16s.
 at 24s, both stacks are still active, meaning the second stack refreshed the first.  
 
 **Significance:**  
-Cloudforged's passive can be utilized in short (=<18s) rotations even if the character does not have a way to drain energy outside of Burst.  
+Cloudforged's passive can be utilized in short (=&lt;18s) rotations even if the character does not have a way to drain energy outside of Burst.  
 
 ---
 
