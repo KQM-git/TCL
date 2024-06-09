@@ -79,7 +79,11 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 ### Cloudforged
 
-<Weapon weapon="Cloudforged" weapons={bows} />
+<Weapon weapon="Cloudforged" weapons={bows}>
+
+* Gaining a stack of Cloudforged's passive refreshes both stacks.
+
+</Weapon>
 
 ### End of the Line
 
