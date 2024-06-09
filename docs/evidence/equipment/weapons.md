@@ -211,7 +211,25 @@ Thanks to EatYourVeggies#7493 for providing the clips for 4LW and 4TS
 * [Google Sheet](https://docs.google.com/spreadsheets/d/10uV_s_nC_O0b-Dz6IVhdjM2KaN9rY125/edit?usp=sharing&ouid=105974977777829459167&rtpof=true&sd=true)
 
 **Significance:**  
-Similar to how Skyward Weapon procs benefit from Physical damage bonus. Crescent Pike Procs benefit from all relevant damage bonuses (phys, 4LW, 4TS, Geo Resonance) since it's based off the user's stats.
+Similar to how Skyward Weapon procs benefit from Physical damage bonus. Crescent Pike Procs benefit from all relevant damage bonuses (phys, 4LW, 4TS, Geo Resonance) since it's based off the user's stats.  
+
+## Lithic Series  
+
+### Lithic Weapons And Childe
+
+**By:** @pinneous  
+**Added:** <Version date="2024-06-06" />  
+**Last tested:** <VersionHl date="2024-06-06" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/lithic-weapons-and-childe)
+
+**Finding:**  
+Childe does not contribute a stack to the Lithic Weapon Series while in the party.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/QT-TCfskj5o) (Footage provided by haafr)  
+  
+**Significance:**  
+Characters that could reasonably use Lithic weapons will not get a stack from Childe while he is in the team. A character like Xiangling will have to account for not getting a stack of the Lithic weapon buff, notably the CRIT Rate buff, while doing calcs/sims/optimizing/building.  
 
 ## Millennial Movement Series
 
