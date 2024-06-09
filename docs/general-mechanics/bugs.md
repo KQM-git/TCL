@@ -60,6 +60,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 * Certain characters' Elemental Skills [may not register in-game as used when being used](../evidence/general-mechanics/bugs.md#phantom-skill-procs), and vice versa.
 * The "Switch to Party Member and Use Elemental Burst" input fails when players [perform inputs a certain way during a cinematic Elemental Burst.](../evidence/general-mechanics/bugs.md#swap-and-burst-input-bug)
 * If you activate the Kamera gadget before using a 5-star Burst while the “Special Analysis Zoom Lens” option is active, you can achieve [characterless bursts](../evidence/general-mechanics/bugs.md#characterless-bursts).
+* Chiori's Geo Construct-check from her Skill [counts Cryo Samachurl's icicles as a Geo Construct](../evidence/general-mechanics/bugs.md#what-is-a-geo-construct). 
 
 ## Enemies
 
