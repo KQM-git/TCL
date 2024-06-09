@@ -987,6 +987,32 @@ Ergo, trees pick up their fruits. This applies to sunsettia, apple and lavender 
 **Significance:**  
 The trees can pick up their fruits. Also, very useful for checking some attacks against trees that need fruits/use fruits as an indicator for something. No need to look for other trees as long as you don't pick up the fruits.
 
+### Cata Plunge Sometimes Destroys Bush
+
+**By:** @acerbus114, @soul_fish, @.whalien  
+**Added:** <Version date="2024-06-09" />  
+**Last tested:** <VersionHl date="2024-05-08" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cata-plunge-sometimes-destroy-bush)
+
+**Finding:**  
+Hydro and Pyro are the only elements where Catalysts can destroy bushes through plunges, but they do it differently.  
+* Hydro plunges cause the bush to wobble, and on the second plunge in short succession will destroy the bush; if this mechanic is thought of as stacks, the stack can be transferred between different characters.  
+* Pyro Catalyst plunges always sets the bush on fire, regardless of if the bush was already affected by one previous Hydro Catalyst plunge (had a "stack"). A second plunge will not cause the bush to wobble nor will it destroy the bush.  
+The above conclusions are unaffected by rain weather.
+
+**Evidence:**  
+[YouTube](https://youtu.be/uE2hC_bebcM) (Kokomi, Barbara, Nahida, Heizou),  
+[YouTube](https://youtu.be/aYd0yEtupnI) (Ningguang, Charlotte, Lisa)  
+[YouTube](https://youtu.be/HdCP5f7R_dk) (Mona, credits to Acerbus)  
+[cdn.discordapp.com](https://cdn.discordapp.com/attachments/1220738624384008232/1220758497302679552/NeuviPlunge.mp4?ex=66101af2&is=65fda5f2&hm=b92a0e70d35a761a581e6c917d1ab56ccfdf6e2d10f5b13b33c1c0b067e2292f&) (Neuv, credit to soul_fish)  
+[YouTube](https://youtu.be/o_kzRm266a4) (rain test)  
+[YouTube](https://youtu.be/oibFOe3n8rQ) (stack transfer)  
+[YouTube](https://youtu.be/MR999YN5Rsg) (Klee, credits to petrb)  
+[YouTube](https://youtu.be/NjPHIDj-L6Q) (Yanfei double plunge, credits to petrb)  
+
+**Significance:**  
+Fluff  
+
 ## Objects
 
 ### Campfires act like 1U of Pyro Aura
