@@ -116,6 +116,22 @@ In this [video](https://youtu.be/zw-yje0DMMw), Yoimiya's Pyro DMG Bonus didn't i
 **Significance:**  
 Better understanding of snapshotting - Even though Yoimiya's normal damage bonus from her Skill is multiplicative and doesn't show up in her "Character Details" page, her arrows still snapshot it.
 
+### Yoimiya Skill Sometimes Generates 5 Particles
+
+**By:** @baloopy  
+**Added:** <Version date="2024-05-15" />  
+**Last tested:** <VersionHl date="2024-05-15" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/yoimiya-skill-sometimes-generates-5-particles)
+
+**Finding:**  
+Yoimiya's skill sometimes generates 5 particles.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/_SXIzPjV4B0)  
+  
+**Significance:**  
+Correction of current TCL conclusions stating that Yoimiya's Skill generates 4 particles. 
+
 ## Burst Mechanics
 
 * Burst doesn't snapshot - [xf3#3123](https://i.imgur.com/gQwo7gs.mp4)
