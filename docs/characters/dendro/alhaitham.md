@@ -110,6 +110,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Chisel-Light Mirror** projection attacks spawn 0-2 frames after damage numbers become visible. Damage numbers appearing is ping-dependent. Therefore, the time a Chisel-Light Mirror Projection attack spawns is ping dependent. Furthermore, the check for the level of mirror projection attacks occurs at (approximately) the same time as the damage numbers appearing.
 * **Chisel-Light Mirror** generation is not affected by ping.
 * **Chisel-Light Mirror**'s Projection Attack Type is not determined by the amount of Mirrors on the triggering hit. The check happens on the Projection Proc.
+* **Chisel-Light Mirrors** have an independent timer of 4 seconds each. Only one Mirror will decay at a time, and only the Mirror with the shortest duration will decay. 
 
 
 </TabItem>
