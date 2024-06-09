@@ -105,11 +105,9 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 </div>
 
-<!--
 **Notes**
 
 * Proccing the Dialogues of the Desert Sages effect twice on Chevreuse' healing effect is inconsistent and may be constellation, hold/tap, ping and/or framerate dependent.
--->
 
 </TabItem>
 
