@@ -1833,6 +1833,22 @@ Characters don’t trigger voice lines while underwater. Tested with fortune and
 **Significance:**  
 Hoyo is inconsistent with its own canon since when we do quests we actually talk while diving.  
 
+### Diving Attacks Trigger On-Hit Effects
+
+**By:** @.magnusartifex  
+**Added:** <Version date="2023-08-17" />  
+**Last tested:** <VersionHl date="2023-08-16" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/diving-attacks-trigger-on-hit-effects)
+
+**Finding:**  
+The underwater attacks count for triggering on-hit/on-damage effects like Raiden’s Skill, but they do not count as normal attacks.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/HtKuQ9R)  
+  
+**Significance:**  
+If you plan on going on an underwater murder spree to kill Ariel, bring Raiden or other characters with you. It’ll make it faster.
+
 ## Other
 
 ### 4-Piece Set Bonuses on Environment Reactions
