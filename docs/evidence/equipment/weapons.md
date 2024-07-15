@@ -2017,6 +2017,24 @@ Although there's better claymores, this makes The Bell significantly better than
 
 ---
 
+### Tidal Shadow
+
+### Tidal Shadow Counts Overheal
+
+**By:** @clevernt  
+**Added:** <Version date="2024-07-08" />  
+**Last tested:** <VersionHl date="2024-07-08" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/tidal-shadow-counts-overheal)
+
+**Finding:**  
+Tidal Shadow passive procs with overheal  
+**Evidence:**  
+[YouTube](https://youtu.be/bASkjpokqR0)  
+**Significance:**  
+don't need to get hit or furina to proc it
+
+---
+
 ### Tome of the Eternal Flow
 
 #### Tome of the Eternal Flow doesn't gain stacks when off field

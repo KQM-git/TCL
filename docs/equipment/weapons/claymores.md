@@ -203,7 +203,11 @@ import SacSeries from './\_common/sac_series.md';
 
 ### Tidal Shadow
 
-<Weapon weapon="Tidal Shadow" weapons={claymores} />
+<Weapon weapon="Tidal Shadow" weapons={claymores}>
+
+* Tidal Shadow's passive can trigger on overheals
+
+</Weapon>
 
 ### "Ultimate Overlord's Mega Magic Sword"
 
