@@ -46,6 +46,22 @@ In line with previous evidence that was non-conclusive, it appears that Guoba ac
 **Significance:**  
 More information about how Guoba mechanics work, and a more precise explanation of why Guoba can cause Pyro Absorption in Anemo Bursts.
 
+### Guoba No Particles On Kill
+
+**By:** @clevernt  
+**Added:** <Version date="2024-06-16" />  
+**Last tested:** <VersionHl date="2024-06-16" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/guoba-no-particles-on-kill)
+
+**Finding:** Guoba does not generate a particle if the hit kills an enemy  
+
+**Evidence:**  
+* [YouTube](https://youtu.be/yumGVMXXRBU)  
+* This also happens if he hits multiple enemies and one of them dies, **evidence:**  
+[YouTube](https://youtu.be/w5nxcOfUge8)  
+
+**Significance:**  Guoba is a fraud
+
 ## Burst Mechanics
 
 ### Xiangling Burst Movement Interaction
