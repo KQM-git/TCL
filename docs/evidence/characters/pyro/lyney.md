@@ -19,6 +19,24 @@ search: false
  
 * Lyney's Prop Arrow from his Charged Attack can hit multiple enemies grouped very closely together. - @anoddmedium
     * [YouTube](https://youtu.be/tOIOOena330) - 100% CRIT Rate (Slingshot); Prop Arrow = 18629  
+
+### Lyney Hat Interaction With MH
+
+**By:** @staryy_  
+**Added:** <Version date="2024-07-01" />  
+**Last tested:** <VersionHl date="2024-06-20" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/lyney-hat-interaction-with-mh)
+
+**Finding:**  
+Lyney hats sometimes don't get an MH stack from the CA that created it. This may depend on ping and distance to your target  
+  
+**Evidence:**  
+- [CA into CA](https://www.youtube.com/watch?v=n9JSseuV3LI)
+- [one CA](https://www.youtube.com/watch?v=LtfkYJNS_OE)  
+  
+**Significance:**  
+Better understanding of MH's effectiveness on Lyney
+
 ## Skill Mechanics
  
 ## Burst Mechanics
