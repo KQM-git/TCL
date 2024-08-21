@@ -746,6 +746,39 @@ Actual ratio: 947/1257=.75
 [Video for 3ESF](https://youtu.be/eSz3Cabe6Vs)
 [Video for 4ESF](https://youtu.be/xRviv6IJeB0)
 
+## Fragment of Harmonic Whimsy
+
+### Fragment Of Harmonic Whimsy procs on Bol Gain
+
+**By:** @soul_fish  
+**Added:** <Version date="2024-05-21" />  
+**Last tested:** <VersionHl date="2024-05-19" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/fragment-of-harmonic-whimsy-on-bol-gain)
+
+**Finding:**  
+Fragment of Harmonic Whimsy does gain a stack upon gaining Bond of Life from none  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/Czqh-iRfT0w)  
+259*1.3 (0.12+0.18 from weapon and set) = 336  
+  
+**Significance:**  
+Clarifying set effect, value "increase" does not have to be of an existing bond.
+
+### Whimsy Snapshots
+
+**By:** @sharaths21312  
+**Added:** <Version date="2024-07-16" />  
+**Last tested:** <VersionHl date="2024-07-15" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/whimsy-snapshots)
+
+**Finding:**  
+Fragment of Harmonic Whimsy 4pc is a snapshottable buff  
+**Evidence:**  
+[YouTube](https://youtu.be/kpt40Ru7mQg) (burst non crits do 1707 damage the whole time despite the buff only lasting 6s)  
+**Significance:**  
+snapshot
+
 ## Gambler
 
 ### 4-Piece Gambler procs without Skill on CD

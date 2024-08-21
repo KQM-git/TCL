@@ -109,6 +109,15 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Flower of Paradise Lost" />
 
+### Fragment of Harmonic Whimsy
+
+<Artifact artifact="Fragment of Harmonic Whimsy">
+
+* The artifact set triggers on the creation of new BOL and not just increase of existing BOL
+* The 4pc effect is a snapshottable damage bonus
+
+</Artifact>
+
 ### Gilded Dreams
 
 <Artifact artifact="Gilded Dreams">
