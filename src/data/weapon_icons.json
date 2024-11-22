@@ -37,7 +37,9 @@
     "Polar Star",
     "Skyward Harp",
     "The First Great Magic",
-    "Thundering Pulse"
+    "Thundering Pulse",
+    "Silvershower Heartstrings",
+    "Chain Breaker"
   ],
   "Catalyst": [
     "Apprentice's Notes",
@@ -76,7 +78,10 @@
     "Memory of Dust",
     "Skyward Atlas",
     "Tome of the Eternal Flow",
-    "Tulaytullah's Remembrance"
+    "Tulaytullah's Remembrance",
+    "Surf's Up",
+    "Ash-Graven Drinking Horn",
+    "Ring of Yaxche"
   ],
   "Claymore": [
     "Waster Greatsword",
@@ -113,7 +118,10 @@
     "Song of Broken Pines",
     "The Unforged",
     "Verdict",
-    "Wolf's Gravestone"
+    "Wolf's Gravestone",
+    "Fang of the Mountain King",
+    "Earth Shaker",
+    "Fruitful Hook"
   ],
   "Polearm": [
     "Beginner's Protector",
@@ -146,7 +154,10 @@
     "Skyward Spine",
     "Staff of Homa",
     "Staff of the Scarlet Sands",
-    "Vortex Vanquisher"
+    "Vortex Vanquisher",
+    "Lumidouce Elegy",
+    "Footprint of the Rainbow",
+    "Mountain-Bracing Bolt"
   ],
   "Sword": [
     "Dull Blade",
@@ -191,6 +202,9 @@
     "Skyward Blade",
     "Splendor of Tranquil Waters",
     "Summit Shaper",
-    "Uraku Misugiri"
+    "Uraku Misugiri",
+    "Flute of Ezpitzal",
+    "Peak Patrol Song",
+    "Sturdy Bone"
   ]
 }
