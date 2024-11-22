@@ -9,6 +9,7 @@
     "Slingshot",
     "Alley Hunter",
     "Blackcliff Warbow",
+    "Chain Breaker",
     "Cloudforged",
     "Compound Bow",
     "End of the Line",
@@ -35,11 +36,10 @@
     "Elegy for the End",
     "Hunter's Path",
     "Polar Star",
+    "Silvershower Heartstrings",
     "Skyward Harp",
     "The First Great Magic",
-    "Thundering Pulse",
-    "Silvershower Heartstrings",
-    "Chain Breaker"
+    "Thundering Pulse"
   ],
   "Catalyst": [
     "Apprentice's Notes",
@@ -49,6 +49,7 @@
     "Otherworldly Story",
     "Thrilling Tales of Dragon Slayers",
     "Twin Nephrite",
+    "Ash-Graven Drinking Horn",
     "Ballad of the Boundless Blue",
     "Blackcliff Agate",
     "Dodoco Tales",
@@ -61,6 +62,7 @@
     "Mappa Mare",
     "Oathsworn Eye",
     "Prototype Amber",
+    "Ring of Yaxche",
     "Royal Grimoire",
     "Sacrificial Fragments",
     "Sacrificial Jade",
@@ -77,11 +79,9 @@
     "Lost Prayer to the Sacred Winds",
     "Memory of Dust",
     "Skyward Atlas",
-    "Tome of the Eternal Flow",
-    "Tulaytullah's Remembrance",
     "Surf's Up",
-    "Ash-Graven Drinking Horn",
-    "Ring of Yaxche"
+    "Tome of the Eternal Flow",
+    "Tulaytullah's Remembrance"
   ],
   "Claymore": [
     "Waster Greatsword",
@@ -93,8 +93,10 @@
     "White Iron Greatsword",
     "Akuoumaru",
     "Blackcliff Slasher",
+    "Earth Shaker",
     "Favonius Greatsword",
     "Forest Regalia",
+    "Fruitful Hook",
     "Katsuragikiri Nagamasa",
     "Lithic Blade",
     "Luxurious Sea-Lord",
@@ -113,15 +115,13 @@
     "\"Ultimate Overlord's Mega Magic Sword\"",
     "Whiteblind",
     "Beacon of the Reed Sea",
+    "Fang of the Mountain King",
     "Redhorn Stonethresher",
     "Skyward Pride",
     "Song of Broken Pines",
     "The Unforged",
     "Verdict",
-    "Wolf's Gravestone",
-    "Fang of the Mountain King",
-    "Earth Shaker",
-    "Fruitful Hook"
+    "Wolf's Gravestone"
   ],
   "Polearm": [
     "Beginner's Protector",
@@ -137,10 +137,12 @@
     "Dragon's Bane",
     "Dragonspine Spear",
     "Favonius Lance",
+    "Footprint of the Rainbow",
     "Kitain Cross Spear",
     "Lithic Spear",
     "Missive Windspear",
     "Moonpiercer",
+    "Mountain-Bracing Bolt",
     "Prospector's Drill",
     "Prototype Starglitter",
     "Rightful Reward",
@@ -150,14 +152,12 @@
     "Calamity Queller",
     "Crimson Moon's Semblance",
     "Engulfing Lightning",
+    "Lumidouce Elegy",
     "Primordial Jade Winged-Spear",
     "Skyward Spine",
     "Staff of Homa",
     "Staff of the Scarlet Sands",
-    "Vortex Vanquisher",
-    "Lumidouce Elegy",
-    "Footprint of the Rainbow",
-    "Mountain-Bracing Bolt"
+    "Vortex Vanquisher"
   ],
   "Sword": [
     "Dull Blade",
@@ -175,6 +175,7 @@
     "Festering Desire",
     "Finale of the Deep",
     "Fleuve Cendre Ferryman",
+    "Flute of Ezpitzal",
     "Iron Sting",
     "Kagotsurube Isshin",
     "Lion's Roar",
@@ -182,6 +183,7 @@
     "Royal Longsword",
     "Sacrificial Sword",
     "Sapwood Blade",
+    "Sturdy Bone",
     "Sword of Descension",
     "Sword of Narzissenkreuz",
     "The Alley Flash",
@@ -198,13 +200,11 @@
     "Key of Khaj-Nisut",
     "Light of Foliar Incision",
     "Mistsplitter Reforged",
+    "Peak Patrol Song",
     "Primordial Jade Cutter",
     "Skyward Blade",
     "Splendor of Tranquil Waters",
     "Summit Shaper",
-    "Uraku Misugiri",
-    "Flute of Ezpitzal",
-    "Peak Patrol Song",
-    "Sturdy Bone"
+    "Uraku Misugiri"
   ]
 }
