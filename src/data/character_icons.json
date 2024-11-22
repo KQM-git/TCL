@@ -10,7 +10,8 @@
     "Wanderer",
     "Faruzan",
     "Lynette",
-    "Xianyun"
+    "Xianyun",
+    "Chasca"
   ],
   "Electro": [
     "Lisa",
@@ -25,7 +26,8 @@
     "Dori",
     "Cyno",
     "Sethos",
-    "Clorinde"
+    "Clorinde",
+    "Ororon"
   ],
   "Hydro": [
     "Barbara",
@@ -38,7 +40,9 @@
     "Candace",
     "Nilou",
     "Neuvillette",
-    "Furina"
+    "Furina",
+    "Sigewinne",
+    "Mualani"
   ],
   "Cryo": [
     "Kaeya",
@@ -83,7 +87,9 @@
     "Arataki Itto",
     "Yun Jin",
     "Navia",
-    "Chiori"
+    "Chiori",
+    "Kachina",
+    "Xilonen"
   ],
   "Dendro": [
     "Collei",
@@ -93,6 +99,8 @@
     "Alhaitham",
     "Kaveh",
     "Baizhu",
-    "Kirara"
+    "Kirara",
+    "Emilie",
+    "Kinich"
   ]
 }
