@@ -22,9 +22,9 @@ Most attacks in Genshin fall under the category of Linear AoE Scaling.
 
 An attack with Quadratic AoE Scaling would have its damage exponentially increased for each enemy hit. This results in damage significantly increase in relation to the number of enemies you are fighting, although some quadratic scaling abilities have a hard cap on how much they can scale quadratically.
 
-Assume Tartaglia is fighting 4 grouped enemies with Riptide marks on each of them. He hits all of them with an attack in his melee stance, which causes Riptide Flashes that do 2000 damage each in an AoE. Each enemy hit will then trigger their own Riptide Flash for a total of 4 Riptide Flashes, and each Riptide Flash will hit all four enemies. The total damage done would then be the damage of a single Riptide Flash multiplied by the number of Riptide Flashes and the total number of enemies, or 2000\*4\*4, which equals 32000.
+Assume Tartaglia is fighting 4 grouped enemies with Riptide marks on each of them. He hits all of them with an attack in his melee stance, which causes Riptide Slashes that do 2000 damage each in an AoE. Each enemy hit will then trigger their own Riptide Slash for a total of 4 Riptide Slashes, and each Riptide Slash will hit all four enemies. The total damage done would then be the damage of a single Riptide Slash multiplied by the number of Riptide Slashes and the total number of enemies, or 2000\*4\*4, which equals 32000.
 
-Since the number of Riptide Flashes is equal to the number of enemies, we can illustrate the total damage done as the following formula.
+Since the number of Riptide Slashes is equal to the number of enemies, we can illustrate the total damage done as the following formula.
 
 $$
 \text{Total Damage} = \text{Base Damage} \times \text{NumberOfEnemies}^{2}
@@ -34,7 +34,7 @@ Similarly, Ganyu Q will spawn an icicle for each enemy within the circle, but un
 
 Notable abilities that have Quadratic AoE Scaling include:
 
-* Tartaglia Riptide Flashes
+* Tartaglia Riptide Slashes
 * Ayato Q (Up to 4 raindrops per wave)
 * Ganyu Q (Up to 5 icicles per wave)
 * Albedo Q (Up to 7 grouped units)

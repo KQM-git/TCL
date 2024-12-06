@@ -120,7 +120,7 @@ import Skill from '@site/src/components/char/Skill'
 | :------------ | :--- | :-------------------------- | :----------------------------------- | :------------------------------------ |
 | Buffs \(T9%\) | -    | 25.3%/37.94%<br />DMG Bonus | 0.422s/0.632s<br />Interval Decrease | 5.685s/8.527s<br />Duration Extension |
 | Snapshot      | -    | Snapshot                    | Snapshot                             | Snapshot                              |
-| Energy Cost   | 15   | -                           | -                                    | -                                     |
+| Energy Cost   | 50   | -                           | -                                    | -                                     |
 | Duration      | 15   | -                           | -                                    | -                                     |
 | Cooldown      | 13.5 | -                           | -                                    | -                                     |
 
