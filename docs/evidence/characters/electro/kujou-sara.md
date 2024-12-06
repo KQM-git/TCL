@@ -224,6 +224,24 @@ Sara's Stormclusters snapshot stats on Titanbreaker cast, but since the Electro 
 **Significance:**  
 Specific mechanics of Sara C6 that can be useful for her personal damage.
 
+### Sara Burst Aoe Mechanics
+
+**By:** @xochiyoh  
+**Added:** <Version date="2024-07-10" />  
+**Last tested:** <VersionHl date="2024-07-08" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/sara-burst-aoe-mechanics)
+
+**Finding:**  
+Sara's Burst AoEs with and without C4 are as follows: [Imgur](https://imgur.com/a/zBGCtfz)
+
+**Evidence:**  
+[Google Docs](https://docs.google.com/spreadsheets/d/1-OmJuY3fi0EEs_uyxpON0tC2390_GHiAddeajmzQFIs/edit?gid=0#gid=0)  
+
+**Significance:**  
+Sara's Burst AoEs with and without C4 look like this: [Imgur](https://imgur.com/a/zBGCtfz) The orientation of the Stormclusters (follow-up hits) is based on Sara's position when casting her Burst, and one row will always be aiming towards that position. After the Titanbreaker hit (initial hit), Stormclusters usually* spawn 6 different times, getting progressively further from the Titanbreaker's position. Without C4, Sara's Burst has a maximum of 25 distinct hits, increasing to 37 with C4. In practical use, the actual amount of times Sara's Stormclusters hit enemies can vary widely based on enemy sizes and shapes, as well as enemy movement and displacement to some extent.  
+  
+*Once, the 6th instance of Stormclusters spawning was observed to not occur. Details and cause are unknown for now.
+
 ## Ascension Mechanics
 
 ### A4: Decorum

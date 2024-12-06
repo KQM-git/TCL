@@ -142,6 +142,7 @@ import Skill from '@site/src/components/char/Skill'
   * Multiple characters can be buffed this way.
 * **Titanbreaker** targets closest enemy, then **Stormcluster** moves outward in a plus-shape with one branch directed at Sara’s location at time of cast, dealing 5 hits each.
 * **Subjugation: Koukou Sendou** does not benefit from its own ATK Bonus.
+* The AOE of Sara's Burst is as follows: [Imgur](https://imgur.com/a/zBGCtfz)
 
 </TabItem>
 </Tabs>
