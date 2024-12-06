@@ -173,7 +173,7 @@ import CharIconLink from '@site/src/components/char/CharIconLink'
 | <CharIconLink char='Xiangling' element='pyro' /> ⭐ | Off-field \(Guoba\). 1 particle per breathe if enemy survives, particle/min assumes full connect without kills.                                    | 12             | 4 \(-\)             | 4.00              | 20.0          |
 |  <CharIconLink char='Xinyan' element='pyro' /> ⭐   | All shield levels produce the same amount of particles. Level 3: Rave's Pyro pulse produces no particles.                                          | 18             | 4 \(-\)             | 4.00              | 13.3          |
 |  <CharIconLink char='Yanfei' element='pyro' /> ⭐   |                                                                                                                                                    | 9              | 3 \(-\)             | 3.00              | 20.0          |
-|  <CharIconLink char='Yoimiya' element='pyro' /> ⭐  | Skill itself produces no particles. Attacks during infusion produce particles \(1 particle, infusion lasts 10s, particle ICD 2s, does not buffer\) | 18             | 4 \(-\)             | 4.00              | 13.3          |
+|  <CharIconLink char='Yoimiya' element='pyro' /> ⭐  | Skill itself produces no particles. Attacks during infusion produce particles \(1 particle, infusion lasts 10s, particle ICD 2s, does not buffer\) | 18             | 4~5 \(-\)             | 4.00              | 13.3          |
 
 </TabItem>
 </Tabs>
