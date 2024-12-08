@@ -93,6 +93,7 @@ import Skill from '@site/src/components/char/Skill'
 * Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
 * Guoba self-applies a Pyro aura when he attacks. This aura can be Swirled.
 * Upon casting, Guoba can snapshot and benefit from 1 stack of the Crimson Witch of Flames 4-Piece Bonus.
+* If Guoba's hit kills an enemy, it does not drop particles regardless of if another enemy was hit or not.
 
 </TabItem>
 
