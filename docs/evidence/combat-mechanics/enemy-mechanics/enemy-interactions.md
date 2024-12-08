@@ -218,6 +218,7 @@ Even more Ws for when you're absolutely carrying your low AR friends. Maybe help
 
 ## General Boss Interactions
 
+
 ### Freeze Interaction on Boss Enemies
 
 **By:** Yukarix\#6534  
@@ -535,6 +536,25 @@ Cryo Regisvine possibly has 2 hurtboxes/1 extended hurtbox for its main body and
 This ticket is derivative of Mcpie\#8672's original ticket linked here: [Link](../../characters/pyro/xiangling.md#pyronado-only-applies-1u-to-cryo-regisvine-shield)  
 You cannot rely solely on Pyronado to break Cryo Regisvine's core.  
 Genshin spaghetti at its finest.
+
+### Emperor of Fire and Iron
+
+#### Some Hydro Attacks Don't Work on Fire Crab
+
+**By:** @brukin  
+**Added:** <Version date="2024-08-04" />  
+**Last tested:** <VersionHl date="2023-10-11" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-hydro-attacks-dont-work-on-fire-crab)
+  
+**Finding:** Some attacks dont work against the boss Emperor of Fire and Iron  
+
+**Evidence:** [Google Sheet](https://docs.google.com/spreadsheets/d/1Pyz4aTCFl42REaMRKA8mC9fgphK0kj6nfgbROF8FUIY/edit?usp=sharing)
+
+**Significance:**
+- The boss requires you to hit the horns in order to get rid of the shield, the problem is that those horns tend to be a bit high for most characters, this means you are gonna have to wait to hit during its attacks.
+- Best characters are neuv, koko and mona because of their notable large aoe and worst is traveler, skill requires scuffed aiming and burst cant hit 99% of the time
+- Character that have large AOE or can directly aim at the horns will have a significant advantage.
+- Another thing of note is the autotargeting point is located on the bottom part of the boss meaning character with homing would have to positioned in a way that the horns are in their pathing and characters with attacks that originate from that point would need to aoe for it to hit the horns
 
 ### Geo Hypostasis
 
