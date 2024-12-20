@@ -113,6 +113,9 @@ import Skill from '@site/src/components/char/Skill'
 | 1 Stack                  | 478.72%   | 3         |
 | 2 Stacks / Perfect Parry | 750.72%   | 4         |
 
+* Beidou can counter damage from Bloom sub-reactions and Burn, even when the source is the player.
+* The shield and self-Electro application also apply to tap skills.
+
 </TabItem>
 
 <TabItem value='q' label='Burst'>

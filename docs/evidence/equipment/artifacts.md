@@ -968,22 +968,16 @@ The Aggravated absorbed Electro from Sucrose's Burst deals 1488 damage, which is
 
 * Yes it does, however the total healing output is nowhere close to 'actual healers' but for those curious here's the answer.
 * Healing Bonus does add on to the weapon as well the difference can be noted from no healing bonus and with healing bonus.
-
-**Without 4-Piece Maiden's = 2139**
-
-**With healing bonus only = 2798**
-
-**With 4-Piece Maiden's = 2888**
+- **Without 4-Piece Maiden's = 2139**
+- **With healing bonus only = 2798**
+- **With 4-Piece Maiden's = 2888**
 
 **Notes:**
 
-Prototype Amber at R2
-
-Healing bonus of 30.8%
-
-Ningguang was used due to her low Burst Energy cost \(40\)
-
-Above numbers have being subtracted from 150 \(started with that HP before healing\)
+- Prototype Amber at R2
+- Healing bonus of 30.8%
+- Ningguang was used due to her low Burst Energy cost \(40\)
+- Above numbers have being subtracted from 150 \(started with that HP before healing\)
 
 ### 4-Piece Maiden's Doesnt Stack
 
@@ -1001,7 +995,7 @@ Above numbers have being subtracted from 150 \(started with that HP before heali
 
 **Significance:**  
 Better understanding of Maiden's Beloved effect.
-=======
+
 ## Marechaussee Hunter
 
 ### 4MH does not trigger on max HP change
@@ -1050,7 +1044,6 @@ Better understanding of Maiden's Beloved effect.
   * Xianyun's healing interval is 2.5 seconds, the first generated stack does not run out after the third healing tick
 (Masanori Timer evidence: 1:38 first stack; 1:33 third stack; stats checked at 1:32)
 
->>>>>>> master
 
 ## Noblesse Oblige
 
