@@ -39,6 +39,10 @@ Triggering a Freeze reaction on a boss entity does not create a Frozen aura on t
 
 * Rifthounds skulls need 3 Geo GU to be charged. They also can be charged with other elements, but it requires 38 attacks to be charged and does not depend on GU at all (example: Beidou Q activation charges them for the same amount as Lisa basic attack). Physical damage has no effect on skulls.
 
+### Setekh Wenut
+
+* Setekh Wenut's "Windbite Bullets" have a much larger hitbox than the visual indicates. Many abilities that do not appear to reach them can actually hit them to disable the boss.
+
 ## Ruin Guards
 
 * Some attacks other than fully-charged bow CAs can stun Ruin Guards. This includes various Skills, Bursts and melee attacks. The list can be found [here](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#melee-can-stun-ruin-guard).
