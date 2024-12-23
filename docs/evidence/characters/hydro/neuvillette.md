@@ -68,6 +68,35 @@ search: false
 **Significance:**  
 More balls for sweaty fights
 
+### 48 Neuvillette Nerf
+
+**By:** @f99shi  
+**Added:** <Version date="2024-08-11" />  
+**Last tested:** <VersionHl date="2024-07-18" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/48-neuvillette-nerf)
+
+:::danger
+This was quickly reverted, and is kept here to serve as documentation of the past.
+
+> [Rolled back the fix to the issue whereby "Neuvillette could rotate at an unusually high speed when casting his Charged Attack, resulting in an abnormal attack range."](https://genshin-impact.fandom.com/wiki/Version/4.8#Post-patch_Optimization_&_Fixes:~:text=2024%2D07%2D18%2C%2017%3A10%20UTC%2B8)
+:::
+
+**Finding:**  
+In version 4.8, an upper limit for camera rotation speed was added for Neuvillette when he uses his charged attack. You can now only rotate at an extremely slow speed no matter how much you move your mouse or how high your DPI is  
+  
+**Evidence:**  
+- [Imgur](https://imgur.com/a/NeQvWFe)  
+  
+**Significance:**  
+This is a completely unwarranted change and a blatant nerf disguised as a bug fix. An entire playstyle was nuked, and neuvillette's AOE potential is massively nerfed. It would have been more believable if the "bug fix" was done in 4.2, but doing it now is straight up scummy after he has had 2 runs, with the spinning being a big factor in many people's decision to pull.  
+  
+This also not only affects the spinning playstyle, regular players are impacted too as you can no longer quickly snap your camera to a different enemy after killing the first one. Neuvillette is now worse to play for all players and you can lose up to 2 ticks of damage on his CA whenever you need to switch to attacking a different enemy, or if an enemy dashes/teleports behind you  
+  
+---- 
+**Fix:** After the 7/18 update, the rotation speed limit was removed. Contrary to CN rumors, the hit registration mechanic was NOT changed. The CA still has independent tick timer per enemy and can damage all enemies around you at once just like before.  
+
+**Evidence:** [Imgur](https://imgur.com/a/Qboo5CS)
+
 ## Skill Mechanics
 
 * Particle Generation: 4 - [Video](https://youtu.be/dCPJqVn0hFw?si=ih83k5K2xringWJG) - clevernt
