@@ -255,6 +255,21 @@ At high ping, Beidou can buffer a Normal Attack hit before activating Q to get a
 **Significance:**  
 Extra arc discharge, especially for teams that don't use Bei as driver, which is most of them.
 
+### Can Riptide Burst Trigger Beidous Burst
+
+**By:** @xochiyoh  
+**Added:** <Version date="2024-12-09" />  
+**Last tested:** <VersionHl date="2024-09-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/can-riptide-burst-trigger-beidous-burst)
+
+**Finding:** Childe's Riptide Burst and Beidou's Burst interactions  
+  
+**Evidence:**  
+-  Riptide Burst triggering Beidou's Burst while Childe is on-field: [YouTube](https://youtu.be/IKRJkKp14lY)  
+- Riptide Burst not triggering Beidou's Burst while childe is off-field: [YouTube](https://youtu.be/pdamOaXH3Ew)  
+  
+**Conclusion:** Childe's Riptide Burst, being considered NA-type DMG, can trigger Beidou's Burst. However, Beidou's Burst can't be triggered by NA DMG from an off-field character.
+
 ## Constellation Mechanics
 
 ### C4: Stunning Revenge
