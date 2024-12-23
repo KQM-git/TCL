@@ -102,6 +102,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Emblem of Severed Fate">
 
 * The base 100% ER and character ascension ER is counted towards the bonus.
+* See this [Vault Entry](../evidence/equipment/artifacts.md#eosf-interactions-with-er-buffs) for a list of \%-based buffs that affect the damage bonus.
 
 </Artifact>
 
