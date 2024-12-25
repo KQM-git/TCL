@@ -133,6 +133,10 @@ description: For entries that have little practical use.
 
 * Holding down sprint in specific cases produces a [Strange Effect](../evidence/general-mechanics/miscellaneous-entries.md#a-strange-visual-effect-that-only-shows-up-when-holding-sprint).
 
+## Some enemies don't count as combat
+
+Small Armored Crabs on land can be aggro'd by the player without it counting as combat. Land Blubberbeasts can't be aggro'd at all
+
 ## 100K Tickets Event Hall of Fame
 
 The winning "TC" entries of our **KQM 100K Event**, as well as some of our Scholars personal favourites.
