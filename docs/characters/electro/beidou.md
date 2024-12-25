@@ -153,6 +153,7 @@ import Skill from '@site/src/components/char/Skill'
 * The attacker must be on field when the attack hits to proc a **lightning discharge.**
 * An extensive collection of proc counts for **Stormbreaker** using different attack strings on different characters can be found [here.](../../evidence/characters/electro/beidou.md#beidou-proc-counts)
 * At high ping, Beidou can buffer a Normal Attack hit before activating Q to get a **lightning discharge**.
+* Beidou Q does not trigger on off-field NA damage.
 
 </TabItem>
 </Tabs>
