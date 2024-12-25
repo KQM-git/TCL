@@ -19,13 +19,6 @@ Triggering a Freeze reaction on a boss entity does not create a Frozen aura on t
 
 * Adequately getting rid of overworld Hydro Aura on the Anemo Hypostasis results in it continuously swirling itself, this damages the cube and applies Hydro to nearby characters. This can be easily done with 2U cyro application. Non-sufficient Cryo application does not result in this occurring.
 
-### Primo Geovishap
-
-* The damage caused by the primo geovishap's shield reflect mechanic will vary depending on the character's shield.
-  * For more details see the [Shield Reflection Mechanic](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
-* The Primordial Shower's internal cool down can be bypassed by opening the Map, thus triggering it continuously.
-* When swapping characters with a shield at the right time, the Primordial Shower will not be reflected.
-
 ### Azhdaha
 
 * Azhdaha's elements are the same across servers/regions and change weekly on mondays.
@@ -38,6 +31,17 @@ Triggering a Freeze reaction on a boss entity does not create a Frozen aura on t
 ### Golden Wolflord
 
 * Rifthounds skulls need 3 Geo GU to be charged. They also can be charged with other elements, but it requires 38 attacks to be charged and does not depend on GU at all (example: Beidou Q activation charges them for the same amount as Lisa basic attack). Physical damage has no effect on skulls.
+
+### Primo Geovishap
+
+* The damage caused by the primo geovishap's shield reflect mechanic will vary depending on the character's shield.
+  * For more details see the [Shield Reflection Mechanic](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
+* The Primordial Shower's internal cool down can be bypassed by opening the Map, thus triggering it continuously.
+* When swapping characters with a shield at the right time, the Primordial Shower will not be reflected.
+
+### Setekh Wenut
+
+* Setekh Wenut's "Windbite Bullets" have a much larger hitbox than the visual indicates. Many abilities that do not appear to reach them can actually hit them to disable the boss.
 
 ## Ruin Guards
 
