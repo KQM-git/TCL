@@ -1397,3 +1397,23 @@ Polearm users, after plunging for some time, will have their visual effects star
   
 **Significance:**  
 You now can admire the pole dancing abilities of your favorite female character.
+
+## Certain Enemies Dont Count As Combat
+
+**By:** @odanobunaga8199  
+**Added:** <Version date="2024-08-20" />  
+**Last tested:** <VersionHl date="2024-08-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/certain-enemies-dont-count-as-combat)
+
+**Finding:**  
+- Armored Crab (small crabs) on land can be aggro'ed by the player but doesn't count as combat  
+- Land Blubberbeasts can't be aggro'ed at all, and won't swim if pushed into the water  
+  
+**Evidence:**  
+Arlecchino's Passive doesn't get trigger (sky doesn't darken, Pyro DMG Bonus doesn't increase); can change weapon  
+[YouTube](https://youtu.be/y5WoKp3BRxA)  
+  
+[YouTube](https://youtu.be/FdN6Ls-dkrk)  
+  
+**Significance:**  
+It's not necessary to kill the cuties to change characters, weapons, artifacts. Land and underwater Blubberbeasts are probably coded differently.

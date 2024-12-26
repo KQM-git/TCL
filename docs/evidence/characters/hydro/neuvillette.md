@@ -68,7 +68,7 @@ search: false
 **Significance:**  
 More balls for sweaty fights
 
-### 48 Neuvillette Nerf
+### 4.8 Neuvillette Nerf
 
 **By:** @f99shi  
 **Added:** <Version date="2024-08-11" />  
