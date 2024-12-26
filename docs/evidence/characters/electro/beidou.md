@@ -120,6 +120,35 @@ in the video, the start till end of the Pyro aura lasted exactly 4 seconds 30 fr
 **Significance:**  
 knowledge about Beidou’s kit and Elemental Gauge decay rates of self-application.  
 
+### Beidou Tap Skill has some of the Hold Effects
+
+**By:** @xochiyoh, @jamberry, @clevernt  
+**Added:** <Version date="2024-12-15" />  
+**Last tested:** <VersionHl date="2024-05-24" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/beidou-skill-is-weird)
+
+**Finding:** Beidou's tap skill has some of the hold effects, namely creating a shield and applying self electro aura  
+
+**Evidence:** [YouTube](https://youtu.be/o4_VTkj1S0g?si=erauS8yV7nSSeJgv)  
+Aside from visual effect, unforged's passive gets the 2nd part when she uses tap skill, so it's a shield  
+
+### Beidou counter can trigger on Dendro reaction self-damage
+
+**By:** @xochiyoh, @jamberry, @clevernt  
+**Added:** <Version date="2024-12-15" />  
+**Last tested:** <VersionHl date="2024-05-24" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/beidou-skill-is-weird)
+
+
+**Finding:** Blooms, Burgeons, and Hyperblooms triggered by the player can be countered by Beidou  
+
+**Evidence:**  
+- [YouTube](https://youtu.be/HHJXMmmQbtk) (Bloom)  
+- [YouTube](https://youtu.be/qgAFrtqYHHM) (Burgeon)  
+- [YouTube](https://youtu.be/QRp_jhYtc1s) (Hyperbloom)  
+
+**Significance:** TCL completion%
+
 ## Burst Mechanics
 
 ### Beidou Lightning Proc ICD
@@ -254,6 +283,21 @@ At high ping, Beidou can buffer a Normal Attack hit before activating Q to get a
 
 **Significance:**  
 Extra arc discharge, especially for teams that don't use Bei as driver, which is most of them.
+
+### Can Riptide Burst Trigger Beidous Burst
+
+**By:** @xochiyoh  
+**Added:** <Version date="2024-12-09" />  
+**Last tested:** <VersionHl date="2024-09-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/can-riptide-burst-trigger-beidous-burst)
+
+**Finding:** Childe's Riptide Burst and Beidou's Burst interactions  
+  
+**Evidence:**  
+-  Riptide Burst triggering Beidou's Burst while Childe is on-field: [YouTube](https://youtu.be/IKRJkKp14lY)  
+- Riptide Burst not triggering Beidou's Burst while childe is off-field: [YouTube](https://youtu.be/pdamOaXH3Ew)  
+  
+**Conclusion:** Childe's Riptide Burst, being considered NA-type DMG, can trigger Beidou's Burst. However, Beidou's Burst can't be triggered by NA DMG from an off-field character.
 
 ## Constellation Mechanics
 

@@ -789,6 +789,24 @@ When attempting to reflect the Primo Geovishap's Primordial Shower with a shield
 **Significance:**  
 Better understanding of the Primordial Shower.
 
+### Setekh Wenut
+
+#### Pyronado Can Hit Wenut Balls
+
+**By:** @asaki_tmk, @staryy_, @avondia, @kuhaisku  
+**Added:** <Version date="2024-02-26" />  
+**Last tested:** <VersionHl date="2024-02-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/pyronado-can-hit-wenut-balls)
+
+**Finding:** The Wenut's Anemo Orbs (Windbite Bullets) have a larger hitbox than what their visuals indicate.
+
+**Evidence:**
+- Kuki: https://imgur.com/gallery/ji5WDqp
+- Xiangling: https://imgur.com/gallery/Tda8rXX
+- Pyronado and Venti for height reference: https://imgur.com/gallery/E7lsCG4
+
+**Significance:** Frequently-hitting attacks that stick mostly to the ground such as Pyronado or Sanctifying Ring can also be sufficient to Paralyze the Wenut from its Floating State.
+
 ## Elite Enemies
 
 ### Abyss Herald

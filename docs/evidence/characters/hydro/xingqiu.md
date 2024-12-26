@@ -168,6 +168,44 @@ Xingqiu's Rain Swords don't reduce the Burgeon DMG dealt to the player.
 **Significance:**  
 Further understanding of how the damage reduction from Rain Swords works.  
 
+### What Triggers Xq Rainsword Healing
+
+**By:** @jamberry, @xochiyoh  
+**Added:** <Version date="2024-06-26" />  
+**Last tested:** <VersionHl date="2024-06-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/what-triggers-xq-rainsword-healing)
+
+**Finding:**  
+What triggers (or doesn't trigger) Xingqiu's rainsword healing  
+  
+**Evidence:**  
+- __Things that CAN trigger rainsword healing:__  
+  - Being hit during Burst invulnerability: [YouTube](https://youtu.be/KF8VdidkEKs)  
+  - Being hit while shielded: [YouTube](https://youtu.be/Op9A_ufVLUk)  
+  - Being Shattered while shielded: [YouTube](https://youtu.be/GbvrmvAraac)  
+  - Being hit while shielded and frozen (without Shattering): [YouTube](https://youtu.be/P07oeAcFxDc)  
+  - Unfreezing (manually, or by automatic expiration): [YouTube](https://youtu.be/C0KoTO_jva8) / [YouTube](https://youtu.be/P07oeAcFxDc)  
+  - Bloom self DMG: [YouTube](https://youtu.be/fINu-uVwrAc)  
+  - Burgeon self DMG: [YouTube](https://youtu.be/V_L32ypc2HQ)  
+  - Burning self DMG: [YouTube](https://youtu.be/g_CKLlZPnc4)  
+  - Burning grass: [YouTube](https://youtu.be/2tGzIjRWiIE)  
+  - Electrified water: [YouTube](https://youtu.be/237mHMEue0E)  
+  - Bennett's full hold E: [YouTube](https://youtu.be/Q1vlIvUGQF8)  
+  
+- __Things that CAN'T trigger rainsword healing:__  
+  - Sheer Cold DoT: [YouTube](https://youtu.be/VlSuORd1izM)  
+  - Inazuma Lightning DoT (Musoujin Gorge): [YouTube](https://youtu.be/w9DOoVmQ8ok)  
+  - Wind Operative's DoT from having BoL: [YouTube](https://youtu.be/ASbf06-NS3U)  
+  - Fall DMG: [YouTube](https://youtu.be/b00ae1omTE4)  
+  - Walking into Yuegui radishes: [YouTube](https://youtu.be/JJ3E6TVKKbI)  
+  - Sara's Crowfeathers: [YouTube](https://youtu.be/QCjRyslMrQE)  
+  - Kazuha's Burst's aura checks: [YouTube](https://youtu.be/LAdC69ctM6U)  
+  
+Datamined code clarifies that rainsword healing will only proc on hits that deal more than 0 DMG and/or Poise DMG to the player.
+  
+**Significance:**  
+nollij
+
 ## Burst Mechanics
 
 ### Introverted Rainswords

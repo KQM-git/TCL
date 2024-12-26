@@ -66,3 +66,22 @@ Electro Resonance is easier to trigger and more consistent with an Anemo driver 
 
 * Transformative: [YouTube](https://youtu.be/k5iV9gdLQ04)
 * Amp: [YouTube](https://youtu.be/wcBAN3d9Vb8)
+
+## Geo Resonance With Off Field Characters
+
+**By:** @xochiyoh  
+**Added:** <Version date="2024-09-13" />  
+**Last tested:** <VersionHl date="2024-08-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/geo-resonance-with-off-field-characters)
+
+**Finding:**  
+Geo Resonance's RES Shred can't be applied from off-field  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/dciC-yWtFZI)  
+With Noelle's A1 shield, Chiori's Tamato damage is the same before and after she goes off-field, but drops down when the shield expires. Additionally, the debuff indicator (down-pointing arrows) on the Lawachurl disappear at ~0:49, which is only ~7s after her most recent shielded hit from off-field, but about 15s (the stated duration of the Geo RES Shred in Geo Resonance's description) after her most recent shielded hit from on-field.  
+[YouTube](https://youtu.be/jfSHVXyF_OI)  
+Kaeya's Burst DMG with no shield is 5811. With his C4 shield, from off-field, his Burst deals 6351 damage. Ningguang's NA DMG is 42 before and after Kaeya's Burst hits while he is shielded and off-field.  
+  
+**Significance:**  
+Geo Resonance can apply its DMG%, but not the ability to apply its Geo RES Shred effect, to off-field characters that have 1-character shields like Noelle's A1, Kaeya's C4, and The Bell.

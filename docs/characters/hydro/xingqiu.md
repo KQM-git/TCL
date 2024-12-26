@@ -111,6 +111,7 @@ import Skill from '@site/src/components/char/Skill'
 * Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s.
 * Using **Guhua Sword: Fatal Rainscreen** applies a very brief 1U Hydro aura onto the character.
 * EQE is about 0.5 \- 1s slower on average compared to QEE or EEQ in teams where Xingqiu's E CD gates the rotation time. See more in this [Vault Entry](../../evidence/characters/hydro/xingqiu.md#xingqiu-eqe-vs-qee).
+* See [this vault entry](../../evidence/characters/hydro/xingqiu.md#what-triggers-xq-rainsword-healing) for a list of specific edge cases that trigger the healing from breaking the Rain Swords
 
 </TabItem>
 

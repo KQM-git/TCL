@@ -700,6 +700,23 @@ Yet another way to initiate plunge attacks on even ground.
 
 ## Other
 
+### Items Hate Physics
+
+**By:** Ultimate Noob\#2955  
+**Added:** <Version date="2022-08-25" />  
+**Last tested:** <VersionHl date="2022-08-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/items-hate-physics)
+
+**Finding:**  
+Items don't care about physics, when they have dropped on the ground they will no longer be updated (things like Swirl exist but won't update if not interacted with). This can be seen by dropping water levels with items on it, such as killing a flying enemy. When the water level drops the item remains at the original position, being unaffected by gravity.
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/5Xhdn5Y)  
+[Imgur](https://imgur.com/fO8PPnx) \(credit to Aevean Leeow\#1362\)
+
+**Significance:**  
+Fluff, Genshin makes 0 sense.
+
 ### Push Pull effects
 
 **By:** Saltyfart\#8946  
@@ -752,19 +769,15 @@ Additional video showing 4 adult male models, landing location very rarely diffe
 
 **Significance:** Might skew the results from Cliff Dash Displacement.
 
-### Items Hate Physics
+### You Can Push People Underwater
 
-**By:** Ultimate Noob\#2955  
-**Added:** <Version date="2022-08-25" />  
-**Last tested:** <VersionHl date="2022-08-25" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/items-hate-physics)
+**By:** @staryy_  
+**Added:** <Version date="2024-12-09" />  
+**Last tested:** <VersionHl date="2024-10-19" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/you-can-push-people-underwater)
 
-**Finding:**  
-Items don't care about physics, when they have dropped on the ground they will no longer be updated (things like Swirl exist but won't update if not interacted with). This can be seen by dropping water levels with items on it, such as killing a flying enemy. When the water level drops the item remains at the original position, being unaffected by gravity.
-
-**Evidence:**  
-[Imgur](https://imgur.com/a/5Xhdn5Y)  
-[Imgur](https://imgur.com/fO8PPnx) \(credit to Aevean Leeow\#1362\)
-
-**Significance:**  
-Fluff, Genshin makes 0 sense.
+**Finding:** You can push other players underwater in coop  
+  
+**Evidence:** [YouTube](https://youtu.be/bxfScvQslJQ)  
+  
+**Significance:** afk movement method

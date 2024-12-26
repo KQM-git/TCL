@@ -31,6 +31,10 @@ Swirling Hydro, Pyro, or Cryo onto an enemy affected by Electro or vice versa wi
 
 Cryo resonance determines if an enemy has Cryo for its buff before reactions remove auras.
 
+## Geo Resonance Off-Field Interactions
+
+While the damage bonus from Geo resonance still applies when a shield persists off-field, the RES shred can't be triggered by an off field shielded character.
+
 ## Evidence Vault
 
 <Card item={require('../../evidence/combat-mechanics/elemental-effects/elemental-resonance.md')} />
