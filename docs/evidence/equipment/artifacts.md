@@ -746,6 +746,39 @@ Actual ratio: 947/1257=.75
 [Video for 3ESF](https://youtu.be/eSz3Cabe6Vs)
 [Video for 4ESF](https://youtu.be/xRviv6IJeB0)
 
+### Eosf Interactions With ER Buffs
+
+**By:** @baloopy, @xochiyoh, @anotherdustbitten  
+**Added:** <Version date="2024-08-19" />  
+**Last tested:** <VersionHl date="2024-07-21" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/eosf-interactions-with-er-buffs)
+
+**Finding:**  
+Full list of current (4.8) ER buffs that affect and don't affect EoSF's Burst DMG%  
+
+**Evidence:**  
+<u>ER buffs that go into EoSF's Burst DMG%</u>  
+- Dori C4: [YouTube](https://youtu.be/8T9ql1yz40Y)  
+- Keqing A4: [YouTube](https://youtu.be/8N7YofIYUfk)  
+- Razor A4: [YouTube](https://youtu.be/uw1HnjyPXM8)  
+- AMC C2: [YouTube](https://youtu.be/Cte74JHfWe8)  
+- Bennett C2: [YouTube](https://youtu.be/vlxDROWC92c)  
+- Collei C1: [YouTube](https://youtu.be/HpyuVBaQO8A)  
+- Fleuve Cendre Ferryman: [YouTube](https://youtu.be/8RW01vSK1n8)  
+- Engulfing Lightning: [YouTube](https://youtu.be/SUaZ2lZ1nOk)  
+- 20% ER Abyss Card: [YouTube](https://youtu.be/2bYsNGatIEA)  
+  
+<u>ER buffs that don't go into EoSF's Burst DMG%</u>  
+- EMC E (with A4): [YouTube](https://youtu.be/SKT-_Psr4E8)  
+- EMC E (without A4): [YouTube](https://youtu.be/_ny12y2rL0w)  
+- Xiphos (on EoSF user): [YouTube](https://youtu.be/3rzPJPzehR8)  
+- Xiphos (from teammate): [YouTube](https://youtu.be/4y0iMClpbd4)  
+  
+So, it seems like EoSF excludes percentage-based buffs (at least, all the current ones). EMC's E without A4 doesn't have any percentage-based scaling, as it's just a flat 20% ER buff at that point, but it seems like Hoyo opted to blacklist the buff entirely, rather than implementing a check for if EMC's A4 is unlocked.  
+
+**Significance:**  
+Synergy (or lackthereof) between EoSF and various ER buffs
+
 ## Fragment of Harmonic Whimsy
 
 ### Fragment Of Harmonic Whimsy procs on Bol Gain
