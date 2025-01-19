@@ -1,0 +1,92 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 19,
+        "hitlag": 0,
+        "next_na": 29,
+        "ca": 20,
+        "walk": 36
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 16,
+        "hitlag": 0,
+        "next_na": 31,
+        "ca": 22,
+        "walk": 33
+    },
+    {
+        "name": "N3",
+        "hitmark": 32,
+        "hitlag": 0,
+        "next_na": 62,
+        "ca": 51,
+        "walk": 61
+    }],
+    "CA": [{
+        "name": "Short CA",
+        "hitmark": 27,
+        "hitlag": 0,
+        "n1": 87,
+        "ca": 69,
+        "skill": 26,
+        "burst": 27,
+        "walk": 61,
+        "dash": 25,
+        "jump": 26,
+        "swap": 58
+    }],
+    "CA Equitable Judgment": [{
+        "name": "CA Equitable Judgment (0 Droplets)",
+        "hitmark": [221, 243, 267, 292, 317, 342, 366, 385],
+        "hitlag": 0,
+        "n1": 438,
+        "walk": 423
+    },
+    {
+        "name": "CA Equitable Judgment (3 Droplets)",
+        "hitmark": [9, 31, 55, 80, 105, 130, 154, 173],
+        "hitlag": 0,
+        "ca": 208,
+        "swap": 205,
+        "notes": ["1 Droplet -  add 153f to all Hitmarks from 3 Droplets",
+        "2 Droplets - Droplets Absorbed: 3f, Healing: 11f, add 98f to all Hitmarks from 3 Droplets",
+        "3 Droplets - Healing:8f",
+        "HP Drain: 46f, 70f, 101f, 131f, 161f"]
+    }
+    ],
+    "Skill": {
+        "name": "Cast (Skill DMG, Spiritbreath Thorn)",
+        "hitmark": [23, 60],
+        "n1": 42,
+        "ca": 21,
+        "burst": 30,
+        "walk": 41,
+        "dash": 29,
+        "jump": 32,
+        "swap": 29,
+        "cd": 20
+    },
+    "Burst": {
+        "name": "Cast (Skill DMG, Waterfall DMG 1, Waterfall DMG 2)",
+        "hitmark": [95, 135, 154],
+        "n1": 135,
+        "ca": 134,
+        "skill": 127,
+        "walk": 134,
+        "dash": 127,
+        "jump": 128,
+        "swap": 120,
+        "cd": 0,
+        "energy": 12,
+        "notes": "Orb Spawn: 94f, 135f, 152f"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 19
+    },
+    {
+        "name": "Jump",
+        "default": 28
+    }]
+}

@@ -1,0 +1,91 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 23,
+        "hitlag": 0.06,
+        "next_na": 28
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 22,
+        "hitlag": 0.06,
+        "next_na": 42
+    },
+    {
+        "name": "N3",
+        "hitmark": [31, 39, 48],
+        "hitlag": [0.01, 0.01, 0.01],
+        "next_na": 48,
+        "skill": 30,
+        "jump": 29
+    },
+    {
+        "name": "N4",
+        "hitmark": 41,
+        "hitlag": 0.06,
+        "next_na": 93
+    }],
+    "Tap Skill": [{
+        "name": "Cast (Skill, Surging Blade)",
+        "hitmark": [20,77],
+        "n1": 38,
+        "skill": 40,
+        "burst": 39,
+        "walk": 35,
+        "dash": 23,
+        "jump": 24,
+        "swap": 38,
+        "cd": 11
+    },
+    {
+        "name": "Cast (3 Stacks) (Skill, Surging Blade)",
+        "hitmark": [20,76],
+        "n1": 40,
+        "skill": 41,
+        "burst": 42,
+        "walk": 39,
+        "dash": 26,
+        "jump": 24,
+        "swap": 40,
+        "cd": 11
+    }],
+    "Hold Skill": [
+    {
+        "name": "Cast (Skill, Surging Blade)",
+        "hitmark": [50,106],
+        "n1": 69,
+        "skill": 71,
+        "burst": 71,
+        "walk": 65,
+        "dash": 55,
+        "jump": 54,
+        "swap": 69,
+        "cd": 41,
+        "notes": "Duration: 240f"
+    },
+    {
+        "name": "Cast (3 Stacks) (Skill, Surging Blade)",
+        "hitmark": [50, 107],
+        "n1": 72,
+        "skill": 73,
+        "burst": 73,
+        "walk": 70,
+        "dash": 56,
+        "jump": 57,
+        "swap": 71,
+        "cd": 41
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 104,
+        "n1": 102,
+        "skill": 102,
+        "walk": 127,
+        "dash": 103,
+        "jump": 102,
+        "swap": 93,
+        "cd": 0,
+        "energy": 12,
+        "notes": "Burst ticks: 168f, 209f, 257f, 299f, 341f, 388f, 430f, 473f, 521f, 561f, 609f, 651f, 693f, 740f, 783f, 825f, 868f"
+    }
+}

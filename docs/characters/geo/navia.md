@@ -86,10 +86,10 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Tap       | Hold       |
 | :------------- | :-------- | :--------- |
 | DMG \(T9%\)    |   671.68*5 | 671.68*11  |
-| Particles      |   -     |  3-4(50%)  |
+| Particles      |   3~4 \(1:1\) |  3~4 \(1:1\)  |
 | GU             |   1     |     1      |
 | ICD            |   None   |    None    |
-| Snapshot       |           |            |
+| Snapshot       |   Dynamic|  Dynamic   |
 | Damage Element |   Geo    |    Geo     |
 | Damage Type    |   Skill  |   Skill    |
 | Duration       |           |            |
@@ -112,12 +112,12 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='q'/>
 
 
-| Attribute         | Primary   | Secondary |
+| Attribute         | Primary   | Cannon Fire Support |
 | :---------------- | :-------- | :-------- |
 | DMG \(T9%\)       |     127.84      |    73.36       |
 | GU                |     2U      |     1U      |
 | ICD               |     No ICD     |     12s/3 Hits      |
-| Snapshot          |     -      |     No      |
+| Snapshot          |     -      |     Dynamic      |
 | Damage Element    |     Geo      |     Geo      |
 | Damage Type       |     Burst      |     Burst      |
 | Energy Cost       |     60      |           |
@@ -138,14 +138,14 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 </Tabs>
 
-<!--
+
 ## Frames
 
 import charFrames from '@site/src/data/frames/Navia.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 

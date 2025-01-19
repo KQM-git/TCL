@@ -12,14 +12,14 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Neuvillette.png')} alt="Neuvillette's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
-<!--
+
 ## Resources
 
-* [Neuvillette Mains Discord]()
-* [Full Neuvillette Written Guide]()
-* [Neuvillette Quick Guide]()
-* [# Minute Video Guide to Neuvillette]()
--->
+<!--* [Neuvillette Mains Discord]()-->
+* [Full Neuvillette Written Guide](https://keqingmains.com/neuvillette/)
+* [Neuvillette Quick Guide](https://keqingmains.com/q/neuvillette-quickguide/)
+<!--* [# Minute Video Guide to Neuvillette]()-->
+
 
 ## Base Stats
 
@@ -114,8 +114,8 @@ Let me know/ping me if this is not should not be the case. -->
 | Skill DMG \(T9%\)                 | 21.87% Max HP | 35.36%             |
 | Particles                         | 4             | 0                  |
 | GU (Skill DMG)                    | 1U            | 0U                 |
-| ICD                               | No ICD        | -                  |
-| Snapshot                          | -             | -                  |
+| ICD                               | None          | None               |
+| Snapshot                          | Dynamic       | Dynamic            |
 | Damage Element                    | Hydro         | Hydro              |
 | Damage Type                       | Skill         | Pneuma             |
 | Sourcewater Droplet Duration      | 15s           | -                  |
@@ -147,7 +147,7 @@ Let me know/ping me if this is not should not be the case. -->
 | DMG \(T9%\)       | 37.84% Max HP   | 15.48% Max HP   |
 | GU                | 1U              | 1U              |
 | ICD               | 2.5s/3 Hits     | 2.5s/3 Hits     |
-| Snapshot          | -               | -               |
+| Snapshot          | Dynamic         | Dynamic         |
 | Damage Element    | Hydro           | Hydro           |
 | Damage Type       | Elemental Burst | Elemental Burst |
 | Energy Cost       | 70              | -               |
@@ -161,12 +161,12 @@ Let me know/ping me if this is not should not be the case. -->
 
 
 ## Frames
-<!--
+
 import charFrames from '@site/src/data/frames/Neuvillette.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
+
 
 ## Ascension Passives
 
