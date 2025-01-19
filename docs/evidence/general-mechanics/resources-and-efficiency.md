@@ -61,6 +61,19 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 **Significance:**  
 More information on the Original Resin Cap change.
 
+### Resin Cap increase to 200
+
+**By:** @.rainfury  
+**Added:** <Version date="2025-01-12" />  
+**Last tested:** <VersionHl date="2025-01-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/resin-cap-of-old-acc-update)
+
+**Finding:** Resin cap was updated to 200 for accounts that is last active even before the resin cap increase 
+
+**Evidence** https://imgur.com/a/tmDLUbZ, https://imgur.com/a/cs75d9F
+
+**Significance:** just an update to an old submission. Awaiting for someone to update 120 > 200 to see if the older resin cap still applies
+
 ## Artifacts
 
 ### Artifact EXP from Vendors Vs Domains
