@@ -4,7 +4,7 @@ search: false
 
 # Enemy Shields and Armor
 
-<Card item={require('../../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md')} />
+<Card item={require('../../../combat-mechanics/enemy-mechanics/enemy-shields-armor.md')} />
 
 ## Reaction Efficiency at Breaking Elemental Shields \(Translation\)
 
@@ -359,3 +359,19 @@ Hydrogunner:
   
 **Significance:**  
 Expands knowledge on EGT mechanics, potentially useful to know for simultaneous reactions against Cryogunners.
+
+## Crystallize Breaks Geo Shields Faster
+
+**By:** @staryy_  
+**Added:** <Version date="2024-12-28" />  
+**Last tested:** <VersionHl date="2024-10-18" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/crystallize-breaks-geo-shields-faster)
+
+**Finding:**  
+Triggering geo crystallize on a geo attack will break more of a geo shield than without crystallize  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/2fcWLjLefoE)  
+  
+**Significance:**  
+Method to break geo shields faster
