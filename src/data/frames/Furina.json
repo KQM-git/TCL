@@ -1,0 +1,94 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 15,
+        "hitlag": 0.01,
+        "next_na": 36,
+        "ca": 39,
+        "walk": 39
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 12,
+        "hitlag": 0.01,
+        "next_na": 28,
+        "ca": 33,
+        "walk": 33
+    },
+    {
+        "name": "N3",
+        "hitmark": 21,
+        "hitlag": 0.02,
+        "next_na": 42,
+        "ca": 51,
+        "walk": 54
+    },
+    {
+        "name": "N4",
+        "hitmark": 27,
+        "hitlag": 0.02,
+        "next_na": 59,
+        "ca": 64,
+        "walk": 64
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 33,
+        "hitlag": 0.02,
+        "n1": 39,
+        "ca": 49,
+        "skill": 6,
+        "burst": 5,
+        "walk": 255,
+        "dash": 9,
+        "jump": 9,
+        "swap": 12,
+        "notes": "Arkhe Swap: 34f"
+    },
+    "Skill": [{
+        "name": "Cast (Ousia)",
+        "hitmark": 18,
+        "n1": 53,
+        "ca": 53,
+        "burst": 54,
+        "walk": 42,
+        "dash": 18,
+        "jump": 18,
+        "swap": 53,
+        "cd": 0
+    },
+    {
+        "name": "Cast (Pneuma)",
+        "n1": 56,
+        "ca": 56,
+        "burst": 57,
+        "walk": 41,
+        "dash": 18,
+        "jump": 18,
+        "swap": 56,
+        "cd": 10,
+        "notes": "Pneuma Healing ticks: 87f, 213f, 338f, 457f, 585f, 708f, 834f, 955f, 1081f, 1205f, 1325f, 1455f"
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 98,
+        "n1": 113,
+        "ca": 113,
+        "skill": 114,
+        "walk": 121,
+        "dash": 115,
+        "jump": 115,
+        "swap": 111,
+        "cd": 0,
+        "energy": 7,
+        "notes": ["Fanfare Start: 96f", "Duration: 1093f"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

@@ -132,7 +132,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 | Fanfare to Incoming Healing Bonus Conversion Ratio (%) | 0.09%         |
 | GU                                                     | 1U            |
 | ICD                                                    | No ICD        |
-| Snapshot                                               | -             |
+| Snapshot                                               | Dynamic       |
 | Damage Element                                         | Hydro         |
 | Damage Type                                            | Burst         |
 | Energy Cost                                            | 60            |
@@ -154,10 +154,10 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 ## Frames
 
-<!--import charFrames from '@site/src/data/frames/Furina.json'
+import charFrames from '@site/src/data/frames/Furina.json'
 import Frames from '@site/src/components/char/Frames'
 
-<Frames data={charFrames} />-->
+<Frames data={charFrames} />
 
 ## Ascension Passives
 
