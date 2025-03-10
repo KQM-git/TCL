@@ -9,6 +9,11 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # CharacterName
 
+<!-- Remove this warning when adding the basic mechs ticket -->
+import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
+
+<NoBasicMechs />
+
 import Image from '@theme/IdealImage'
 
 <Image img={require('/img/characters/gacha/CharacterName.png')} alt="CharacterName's gacha art" />
