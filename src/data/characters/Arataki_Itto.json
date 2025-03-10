@@ -312,7 +312,7 @@
       },
       {
         "name": "Arataki Itto, Present!",
-        "desc": "Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength.",
+        "desc": "Arataki Itto's Charged Attacks deal +70% CRIT DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength.",
         "img": "Arataki_Itto/const_5"
       }
     ]
@@ -368,7 +368,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 1468.0677490234375
+          "value": 1468.0677
         },
         {
           "stat": "Base DEF",
@@ -376,7 +376,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 25.94117546081543
+          "value": 25.941175
         },
         {
           "stat": "CRIT Rate",
@@ -390,7 +390,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2281.1513671875
+          "value": 2281.1514
         },
         {
           "stat": "Base DEF",
@@ -398,7 +398,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 40.30859375
+          "value": 40.308594
         },
         {
           "stat": "CRIT Rate",
@@ -434,7 +434,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3500.77685546875
+          "value": 3500.7769
         },
         {
           "stat": "Base DEF",
@@ -442,7 +442,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 61.85972595214844
+          "value": 61.859726
         },
         {
           "stat": "CRIT Rate",

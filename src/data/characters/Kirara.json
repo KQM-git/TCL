@@ -3,7 +3,7 @@
   "star": 4,
   "weaponType": "Sword",
   "baseStats": {
-    "hpBase": 1021.2059326171875,
+    "hpBase": 1021.20593,
     "attackBase": 18.6984,
     "defenseBase": 45.78,
     "criticalBase": 0.05,
@@ -102,7 +102,7 @@
               "26.0%+52.0%+52.0%",
               "28.6%+57.2%+57.2%",
               "30.4%+60.9%+60.9%",
-              "32.5%+65.0%+65.0%",
+              "32.5%+65.1%+65.1%",
               "35.4%+70.8%+70.8%",
               "38.2%+76.5%+76.5%",
               "41.1%+82.2%+82.2%",
@@ -178,7 +178,7 @@
               "10.8% Max HP+1058",
               "11.5% Max HP+1163",
               "12.5% Max HP+1275",
-              "13.2% Max HP+1395",
+              "13.3% Max HP+1395",
               "14.0% Max HP+1524",
               "15.0% Max HP+1660",
               "16.0% Max HP+1804",
@@ -287,7 +287,7 @@
             "35.6%",
             "38.3%",
             "41.0%",
-            "44.5%",
+            "44.6%",
             "47.2%",
             "49.9%",
             "53.5%",
@@ -362,7 +362,7 @@
       },
       {
         "name": "Countless Sights to See",
-        "desc": "All nearby party members will gain 12% All Elemental DMG Bonus within 15s after Kirara uses her Elemental Skill or Burst.",
+        "desc": "All nearby party members gain a 12% All Elemental DMG Bonus for 15s after Kirara uses her Elemental Skill or Burst.",
         "img": "Kirara/const_5"
       }
     ]
@@ -426,7 +426,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 23.894325256347656
+          "value": 23.894325
         },
         {
           "stat": "HP%",
@@ -448,7 +448,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 37.12810516357422
+          "value": 37.128105
         },
         {
           "stat": "HP%",
@@ -484,7 +484,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3111.80078125
+          "value": 3111.8008
         },
         {
           "stat": "Base DEF",
@@ -492,7 +492,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 56.97877502441406
+          "value": 56.978775
         },
         {
           "stat": "HP%",
@@ -506,7 +506,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3653.8564453125
+          "value": 3653.8564
         },
         {
           "stat": "Base DEF",

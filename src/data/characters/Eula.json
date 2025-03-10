@@ -458,7 +458,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 882.7765502929688
+          "value": 882.77655
         },
         {
           "stat": "Base DEF",
@@ -466,7 +466,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 22.82823371887207
+          "value": 22.828234
         },
         {
           "stat": "CRIT DMG",
@@ -488,7 +488,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 39.04829406738281
+          "value": 39.048294
         },
         {
           "stat": "CRIT DMG",
@@ -502,11 +502,11 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2346.3271484375
+          "value": 2346.3271
         },
         {
           "stat": "Base DEF",
-          "value": 133.2139434814453
+          "value": 133.21394
         },
         {
           "stat": "Base ATK",
@@ -524,7 +524,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2973.563232421875
+          "value": 2973.5632
         },
         {
           "stat": "Base DEF",
@@ -550,11 +550,11 @@
         },
         {
           "stat": "Base DEF",
-          "value": 204.437255859375
+          "value": 204.43726
         },
         {
           "stat": "Base ATK",
-          "value": 93.11516571044922
+          "value": 93.115166
         },
         {
           "stat": "CRIT DMG",

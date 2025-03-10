@@ -454,7 +454,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 16.2830753326416
+          "value": 16.283075
         },
         {
           "stat": "CRIT Rate",
@@ -490,7 +490,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2715.656494140625
+          "value": 2715.6565
         },
         {
           "stat": "Base DEF",
@@ -520,7 +520,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 54.8482551574707
+          "value": 54.848255
         },
         {
           "stat": "CRIT Rate",
@@ -538,7 +538,7 @@
         },
         {
           "stat": "Base DEF",
-          "value": 189.37124633789062
+          "value": 189.37125
         },
         {
           "stat": "Base ATK",
@@ -564,7 +564,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 77.98736572265625
+          "value": 77.987366
         },
         {
           "stat": "CRIT Rate",

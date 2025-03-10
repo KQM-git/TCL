@@ -3,7 +3,7 @@
   "star": 5,
   "weaponType": "Bow",
   "baseStats": {
-    "hpBase": 844.6415405273438,
+    "hpBase": 844.64154,
     "attackBase": 20.8544,
     "defenseBase": 49.0606,
     "criticalBase": 0.05,
@@ -102,7 +102,7 @@
               "51.0%",
               "56.1%",
               "59.7%",
-              "63.7%",
+              "63.8%",
               "69.4%",
               "75.0%",
               "80.6%",
@@ -148,7 +148,7 @@
               "38.6%",
               "41.5%",
               "44.4%",
-              "48.2%",
+              "48.3%",
               "51.1%",
               "54.0%",
               "57.9%",
@@ -364,7 +364,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 724.2037353515625
+          "value": 724.20374
         },
         {
           "stat": "Base DEF",
@@ -372,7 +372,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 17.87945556640625
+          "value": 17.879456
         },
         {
           "stat": "Dendro DMG Bonus",
@@ -416,7 +416,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 47.52171325683594
+          "value": 47.521713
         },
         {
           "stat": "Dendro DMG Bonus",
@@ -438,7 +438,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 60.22553634643555
+          "value": 60.225536
         },
         {
           "stat": "Dendro DMG Bonus",
@@ -474,7 +474,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3468.5546875
+          "value": 3468.5547
         },
         {
           "stat": "Base DEF",

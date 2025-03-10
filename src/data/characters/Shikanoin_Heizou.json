@@ -420,7 +420,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 37.48170471191406
+          "value": 37.481705
         },
         {
           "stat": "Anemo DMG Bonus",
@@ -442,7 +442,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 47.50156784057617
+          "value": 47.501568
         },
         {
           "stat": "Anemo DMG Bonus",
@@ -456,11 +456,11 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2722.82568359375
+          "value": 2722.8257
         },
         {
           "stat": "Base DEF",
-          "value": 174.7237548828125
+          "value": 174.72375
         },
         {
           "stat": "Base ATK",
@@ -478,7 +478,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3197.12451171875
+          "value": 3197.1245
         },
         {
           "stat": "Base DEF",

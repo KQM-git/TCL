@@ -3,7 +3,7 @@
   "star": 5,
   "weaponType": "Claymore",
   "baseStats": {
-    "hpBase": 984.779541015625,
+    "hpBase": 984.77954,
     "attackBase": 27.3714,
     "defenseBase": 61.74456,
     "criticalBase": 0.05,
@@ -188,7 +188,7 @@
               "710.6%",
               "750.1%",
               "789.6%",
-              "838.9%"
+              "839.0%"
             ]
           },
           {
@@ -250,7 +250,7 @@
         {
           "name": "Cannon Fire Support DMG",
           "values": [
-            "43.1%",
+            "43.2%",
             "46.4%",
             "49.6%",
             "53.9%",
@@ -362,7 +362,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 844.3594360351562
+          "value": 844.35944
         },
         {
           "stat": "Base DEF",
@@ -370,7 +370,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 23.466785430908203
+          "value": 23.466785
         },
         {
           "stat": "CRIT DMG",
@@ -392,7 +392,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 40.14055633544922
+          "value": 40.140556
         },
         {
           "stat": "CRIT DMG",
@@ -406,7 +406,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2244.218505859375
+          "value": 2244.2185
         },
         {
           "stat": "Base DEF",
@@ -414,7 +414,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 62.37224578857422
+          "value": 62.372246
         },
         {
           "stat": "CRIT DMG",
@@ -450,7 +450,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3444.09765625
+          "value": 3444.0977
         },
         {
           "stat": "Base DEF",
@@ -472,7 +472,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 4044.037353515625
+          "value": 4044.0374
         },
         {
           "stat": "Base DEF",
@@ -480,7 +480,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 112.3935546875
+          "value": 112.393555
         },
         {
           "stat": "CRIT DMG",

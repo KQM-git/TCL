@@ -1,0 +1,458 @@
+{
+  "name": "Mualani",
+  "star": 5,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 1182.1168,
+    "attackBase": 14.1512,
+    "defenseBase": 44.39386,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Cooling Treatment",
+        "desc": "**Normal Attack**\nPerforms up to 3 attacks that deal **Hydro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to smack a Pufferball into the air that deals **AoE Hydro DMG** upon landing.\n\n**Plunging Attack**\nGathers the power of Hydro and plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Hydro DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "51.4%",
+              "55.3%",
+              "59.1%",
+              "64.2%",
+              "68.1%",
+              "72.0%",
+              "77.1%",
+              "82.2%",
+              "87.4%",
+              "92.5%",
+              "97.7%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "44.6%",
+              "48.0%",
+              "51.3%",
+              "55.8%",
+              "59.1%",
+              "62.5%",
+              "66.9%",
+              "71.4%",
+              "75.9%",
+              "80.3%",
+              "84.8%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "70.0%",
+              "75.3%",
+              "80.5%",
+              "87.5%",
+              "92.8%",
+              "98.0%",
+              "105.1%",
+              "112.1%",
+              "119.1%",
+              "126.1%",
+              "133.1%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "143%",
+              "154%",
+              "164%",
+              "179%",
+              "189%",
+              "200%",
+              "214%",
+              "229%",
+              "243%",
+              "257%",
+              "271%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Surfshark Wavebreaker",
+        "desc": "Combining her mastery of speed and the waves and water, Mualani can surf anytime, anywhere.\nAfter using this skill, Mualani will gain 60 Nightsoul points and enter the Nightsoul's Blessing state.\n\n**Nightsoul's Blessing: Mualani**\nContinuously consume Nightsoul points. When they are depleted or when the skill is used again, Mualani's Nightsoul's Blessing will end. The state itself has the following traits:\n·Mualani mounts her Sharky Surfboard, increasing Mualani's Movement SPD and interruption resistance. Mualani can move on water and liquid Phlogiston while this state is active, and she will take no DMG from the latter.\n·Normal Attacks will be converted to Sharky's Bites, dealing Nightsoul-aligned **Hydro DMG** based on Mualani's Max HP. Sharky's Bites can be used in mid-air. DMG dealt this way is considered Normal Attack DMG.\n·When she makes contact with opponents in this state, Mualani applies \"Marked as Prey\" to them and gains 1 Wave Momentum stack. Max 3 stacks. 1 stack can be gained from the same opponent every 0.7s.\n\n**Wave Momentum and Marked as Prey**\nWhen Mualani uses Sharky's Bite, her DMG dealt increases based on Wave Momentum stacks. When she has 3 stacks, Sharky's Bite will be converted to Sharky's Surging Bite, further increasing her DMG and removing all her stacks when hitting an opponent.\nWhen Sharky's Bite hits an opponent Marked as Prey, that mark will be removed, and she will fire Shark Missiles at up to 5 nearby opponents Marked as Prey, dealing DMG to them equal to this Sharky's Bite instance and clearing their Marks. If more than 1 opponent is the target of Sharky's Bite and Shark Missiles, the DMG dealt will decrease, decreasing at most to 72% of the original DMG when 3 opponents are targeted.\n\n**First off, Sharky is a freshwater shark on top of being a surfboard. Second, it's not that it wants to eat for real, just that it definitely bites for real.**",
+        "img": "Mualani/skill_1",
+        "talentTable": [
+          {
+            "name": "Sharky's Bite Base DMG",
+            "values": [
+              "8.68% Max HP",
+              "9.33% Max HP",
+              "9.98% Max HP",
+              "10.85% Max HP",
+              "11.50% Max HP",
+              "12.15% Max HP",
+              "13.02% Max HP",
+              "13.89% Max HP",
+              "14.76% Max HP",
+              "15.62% Max HP",
+              "16.49% Max HP",
+              "17.36% Max HP",
+              "18.45% Max HP"
+            ]
+          },
+          {
+            "name": "Wave Momentum DMG Bonus",
+            "values": [
+              "4.34% Max HP/Stack",
+              "4.67% Max HP/Stack",
+              "4.99% Max HP/Stack",
+              "5.43% Max HP/Stack",
+              "5.75% Max HP/Stack",
+              "6.08% Max HP/Stack",
+              "6.51% Max HP/Stack",
+              "6.94% Max HP/Stack",
+              "7.38% Max HP/Stack",
+              "7.81% Max HP/Stack",
+              "8.25% Max HP/Stack",
+              "8.68% Max HP/Stack",
+              "9.22% Max HP/Stack"
+            ]
+          },
+          {
+            "name": "Sharky's Surging Bite Additional DMG Bonus",
+            "values": [
+              "21.70% Max HP",
+              "23.33% Max HP",
+              "24.96% Max HP",
+              "27.13% Max HP",
+              "28.75% Max HP",
+              "30.38% Max HP",
+              "32.55% Max HP",
+              "34.72% Max HP",
+              "36.89% Max HP",
+              "39.06% Max HP",
+              "41.23% Max HP",
+              "43.40% Max HP",
+              "46.11% Max HP"
+            ]
+          },
+          {
+            "name": "Sharky's Bite CD",
+            "value": "1.8s"
+          },
+          {
+            "name": "Nightsoul Point Limit",
+            "value": "60.0"
+          },
+          {
+            "name": "CD",
+            "value": "6.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Boomsharka-laka",
+      "desc": "Fires a Super Shark Missile that can track opponents, dealing Nightsoul-aligned **AoE Hydro DMG** based on Mualani's Max HP.\n\n**Mualani picked this moniker for launching her Shark Missile because it combines the warmth of explosive passion with a more chill, laid-back vibe — most hot spring-ish.**",
+      "img": "Mualani/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "58.4% Max HP",
+            "62.8% Max HP",
+            "67.2% Max HP",
+            "73.0% Max HP",
+            "77.4% Max HP",
+            "81.8% Max HP",
+            "87.7% Max HP",
+            "93.5% Max HP",
+            "99.3% Max HP",
+            "105.2% Max HP",
+            "111.0% Max HP",
+            "116.9% Max HP",
+            "124.2% Max HP"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "Heat-Resistant Freshwater Floater",
+        "desc": "When Sharky's Surging Bite hits an opponent, a Puffer will be generated nearby. Mualani will restore 20 Nightsoul points when she picks up a Puffer. Only 2 such Puffers can be created in this way during a single instance of being in Nightsoul's Blessing.",
+        "img": "Mualani/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Natlan's Greatest Guide",
+        "desc": "After a nearby party member triggers a Nightsoul Burst, Mualani will gain 1 stack of Wavechaser's Exploits, which lasts for 20s. Max 3 stacks. When she uses **Boomsharka-laka**, Mualani will clear all Wavechaser's Exploits stacks and increase the DMG of this Boomsharka-laka by 15%/30%/45% of her Max HP based on the number of stacks cleared.",
+        "img": "Mualani/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Night Realm's Gift: Crests and Troughs",
+        "desc": "After her Nightsoul points are depleted, Mualani will switch to consuming Phlogiston to maintain her Nightsoul's Blessing.\nWhile in an area with Phlogiston Mechanics within Natlan, she can use Nightsoul Transmission: Mualani. When the active character is currently sprinting, swimming, in a movement mode caused by certain Talents, or at a certain height in the air, the following will trigger when switching to Mualani: Mualani will enter the Nightsoul's Blessing state and gain 40 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.\n\nAdditionally, Mualani's Nightsoul point or Phlogiston consumption while moving on water and Liquid Phlogiston during Nightsoul's Blessing is decreased by 75% while in Natlan, and her Nightsoul point consumption is decreased by 35% while doing the same outside Natlan.",
+        "img": "Mualani/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "The Trick Is to Keep Smiling!",
+        "desc": "While in an area with Phlogiston Mechanics within Natlan, 15 Phlogiston will be restored when interacting with some harvestable items. Additionally, the location of nearby **resources unique to Natlan** will appear on your mini-map.",
+        "img": "Mualani/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "The Leisurely \"Meztli\"...",
+        "desc": "The DMG dealt by the first Sharky's Surging Bite after Mualani enters Nightsoul's Blessing and the Shark Missiles it triggers is increased by 66% of Mualani's Max HP. This instance of increased DMG is subject to the diminishing DMG rules of **Surfshark Wavebreaker**.\nIn addition, while out of combat, Mualani's Nightsoul's Blessing state consumes 30% less Phlogiston and Nightsoul points.",
+        "img": "Mualani/const_0"
+      },
+      {
+        "name": "Mualani, Going All Out!",
+        "desc": "Mualani gains 2 of **Surfshark Wavebreaker**'s Wave Momentum stacks when she enters Nightsoul's Blessing state. She will gain 1 stack when obtaining a Puffer.\nIn addition, whenever Mualani obtains 2 Puffers within a single instance of the Nightsoul's Blessing state, she will recover an additional 12 Nightsoul points over 2s. This effect requires the Passive Talent \"Heat-Resistant Freshwater Floater\" to be unlocked first.",
+        "img": "Mualani/const_1"
+      },
+      {
+        "name": "Surfing Atop Joyous Seas",
+        "desc": "Increases the Level of **Surfshark Wavebreaker** by 3.\nMaximum upgrade level is 15.",
+        "img": "Mualani/const_2"
+      },
+      {
+        "name": "Sharky Eats Puffies",
+        "desc": "Mualani regenerates 8 Energy when obtaining a Puffer. Must first unlock the Passive Talent \"Heat-Resistant Freshwater Floater.\"\nAdditionally, **Boomsharka-laka** deals 75% increased DMG.",
+        "img": "Mualani/const_3"
+      },
+      {
+        "name": "Same Style of Surfboard on Sale!",
+        "desc": "Increases the Level of **Boomsharka-laka** by 3.\nMaximum upgrade level is 15.",
+        "img": "Mualani/const_4"
+      },
+      {
+        "name": "Spirit of the Springs' People",
+        "desc": "The DMG increase from the Constellation \"The Leisurely 'Meztli'...\" is no longer limited to being triggered once every Nightsoul's Blessing.",
+        "img": "Mualani/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1013.5583
+        },
+        {
+          "stat": "Base DEF",
+          "value": 38.0646
+        },
+        {
+          "stat": "Base ATK",
+          "value": 12.132488
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1733.7181
+        },
+        {
+          "stat": "Base DEF",
+          "value": 65.1105
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.75294
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2693.9312
+        },
+        {
+          "stat": "Base DEF",
+          "value": 101.1717
+        },
+        {
+          "stat": "Base ATK",
+          "value": 32.246876
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3414.091
+        },
+        {
+          "stat": "Base DEF",
+          "value": 128.2176
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.86733
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4134.251
+        },
+        {
+          "stat": "Base DEF",
+          "value": 155.2635
+        },
+        {
+          "stat": "Base ATK",
+          "value": 49.48778
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4854.4106
+        },
+        {
+          "stat": "Base DEF",
+          "value": 182.3094
+        },
+        {
+          "stat": "Base ATK",
+          "value": 58.10823
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.192
+        }
+      ]
+    }
+  ]
+}

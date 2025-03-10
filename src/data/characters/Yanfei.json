@@ -3,7 +3,7 @@
   "star": 4,
   "weaponType": "Catalyst",
   "baseStats": {
-    "hpBase": 784.1402587890625,
+    "hpBase": 784.14026,
     "attackBase": 20.12304,
     "defenseBase": 49.2135,
     "criticalBase": 0.05,
@@ -342,7 +342,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 25.714845657348633
+          "value": 25.714846
         },
         {
           "stat": "Pyro DMG Bonus",
@@ -364,7 +364,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 39.956912994384766
+          "value": 39.956913
         },
         {
           "stat": "Pyro DMG Bonus",
@@ -386,7 +386,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 50.638465881347656
+          "value": 50.638466
         },
         {
           "stat": "Pyro DMG Bonus",
@@ -400,7 +400,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2389.41845703125
+          "value": 2389.4185
         },
         {
           "stat": "Base DEF",
@@ -408,7 +408,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 61.32001495361328
+          "value": 61.320015
         },
         {
           "stat": "Pyro DMG Bonus",
@@ -430,7 +430,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 72.0015640258789
+          "value": 72.001564
         },
         {
           "stat": "Pyro DMG Bonus",

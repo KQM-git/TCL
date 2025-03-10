@@ -458,7 +458,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 1182.8431396484375
+          "value": 1182.8431
         },
         {
           "stat": "Base DEF",
@@ -466,7 +466,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 34.13312530517578
+          "value": 34.133125
         },
         {
           "stat": "Elemental Mastery",
@@ -488,7 +488,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 53.03762435913086
+          "value": 53.037624
         },
         {
           "stat": "Elemental Mastery",

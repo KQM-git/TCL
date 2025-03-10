@@ -1,0 +1,456 @@
+{
+  "name": "Kachina",
+  "star": 4,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 989.2932,
+    "attackBase": 18.16416,
+    "defenseBase": 66.438225,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Cragbiter",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "49.4%",
+              "53.4%",
+              "57.4%",
+              "63.2%",
+              "67.2%",
+              "71.8%",
+              "78.1%",
+              "84.4%",
+              "90.8%",
+              "97.6%",
+              "104.5%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "27.6%+30.6%",
+              "29.8%+33.1%",
+              "32.1%+35.6%",
+              "35.3%+39.2%",
+              "37.5%+41.7%",
+              "40.1%+44.5%",
+              "43.6%+48.4%",
+              "47.1%+52.4%",
+              "50.7%+56.3%",
+              "54.5%+60.6%",
+              "58.3%+64.8%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "70.4%",
+              "76.2%",
+              "81.9%",
+              "90.1%",
+              "95.8%",
+              "102.4%",
+              "111.4%",
+              "120.4%",
+              "129.4%",
+              "139.2%",
+              "149.0%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "77.4%",
+              "83.7%",
+              "90.0%",
+              "99.0%",
+              "105.3%",
+              "112.6%",
+              "122.5%",
+              "132.4%",
+              "142.3%",
+              "153.1%",
+              "163.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "112.7%",
+              "121.8%",
+              "131.0%",
+              "144.1%",
+              "153.3%",
+              "163.8%",
+              "178.2%",
+              "192.6%",
+              "207.0%",
+              "222.7%",
+              "238.4%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Go, Go Turbo Twirly!",
+        "desc": "Fight alongside the turbo trusty Turbo Twirly!\nSummons Turbo Twirly. When the skill is Held and released, Kachina will summon and ride Turbo Twirly.\nAfter the Skill is used, Kachina will gain 60 Nightsoul points and enter the Nightsoul's Blessing state.\n\n**Nightsoul's Blessing: Kachina**\nTurbo Twirly's various actions consume Kachina's Nightsoul points.\nThe Nightsoul's Blessing state will end when these points have been depleted.\n\n**Turbo Twirly**\nCan exist independently or be ridden and operated by Kachina. When Turbo Twirly is present, Kachina's Elemental Skill, \"Go, Go Turbo Twirly!\", will change to an option to Mount/Dismount Turbo Twirly.\n·When present independent of Kachina, it will slam the ground at intervals, dealing Nightsoul-aligned **AoE Geo DMG** based on Kachina's DEF.\n·When Kachina is riding Turbo Twirly, she can control it to move and climb swiftly, and use Normal Attacks to slam the ground, dealing Nightsoul-aligned **AoE Geo DMG** based on Kachina's DEF.\n\nTurbo Twirly will disappear once Kachina's Nightsoul's Blessing state ends, and it is considered a Geo Construct. Only 1 Turbo Twirly created by Kachina herself can exist on the field at any one time.\n\n**Turbo Twirly only looks like a top — it is, in fact, a drill that can split even the strongest rock asunder!**",
+        "img": "Kachina/skill_1",
+        "talentTable": [
+          {
+            "name": "Turbo Twirly Mounted DMG",
+            "values": [
+              "87.8% DEF",
+              "94.3% DEF",
+              "100.9% DEF",
+              "109.7% DEF",
+              "116.3% DEF",
+              "122.9% DEF",
+              "131.6% DEF",
+              "140.4% DEF",
+              "149.2% DEF",
+              "158.0% DEF",
+              "166.7% DEF",
+              "175.5% DEF",
+              "186.5% DEF"
+            ]
+          },
+          {
+            "name": "Turbo Twirly Independent DMG",
+            "values": [
+              "63.8% DEF",
+              "68.5% DEF",
+              "73.3% DEF",
+              "79.7% DEF",
+              "84.5% DEF",
+              "89.3% DEF",
+              "95.6% DEF",
+              "102.0% DEF",
+              "108.4% DEF",
+              "114.8% DEF",
+              "121.1% DEF",
+              "127.5% DEF",
+              "135.5% DEF"
+            ]
+          },
+          {
+            "name": "Nightsoul Point Limit",
+            "value": "60.0"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Time to Get Serious!",
+      "desc": "Striking the ground, Kachina deals **AoE Geo DMG** based on her DEF and creates a Turbo Drill Field.\nThe Field increases Turbo Twirly's attack AoE and its Movement SPD when Kachina is riding it.\n\nIf Kachina's own Turbo Twirly is present when this is used, the Turbo Twirly will be summoned to her side.\n\n**Just as nervous performers might imagine audience members as wooden puppets, Kachina imagines that her opponents are the loveliest of gem-bearing ores — the kind you'd be proud to bring home and hoard.**",
+      "img": "Kachina/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "380.6% DEF",
+            "413.7% DEF",
+            "442.5% DEF",
+            "481.0% DEF",
+            "509.9% DEF",
+            "538.7% DEF",
+            "577.2% DEF",
+            "615.7% DEF",
+            "654.2% DEF",
+            "692.6% DEF",
+            "731.1% DEF",
+            "769.6% DEF",
+            "817.7% DEF"
+          ]
+        },
+        {
+          "name": "Field Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "Geo"
+    },
+    "passive": [
+      {
+        "name": "Mountain Echoes",
+        "desc": "After nearby party members trigger a Nightsoul Burst, Kachina's **Geo DMG Bonus** increases by 20% for 12s.",
+        "img": "Kachina/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "The Weight of Stone",
+        "desc": "**Turbo Twirly**'s DMG is increased by 20% of Kachina's DEF.",
+        "img": "Kachina/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Night Realm's Gift: Heart of Unity",
+        "desc": "After her Nightsoul points are depleted, Kachina will switch to consuming Phlogiston to maintain her Nightsoul's Blessing.\nWhile in an area with Phlogiston Mechanics within Natlan, she can use Nightsoul Transmission: Kachina. When the active character is currently sprinting, climbing, in a movement mode caused by certain Talents, or at a certain height in the air, the following will trigger when switching to Kachina: Kachina will enter the Nightsoul's Blessing state and ride **Turbo Twirly** when taking the field while gaining 30 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.\n\nAdditionally, while in Natlan, Kachina will consume 90% less Stamina when climbing while riding **Turbo Twirly**.",
+        "img": "Kachina/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Boon of Crystal Flame",
+        "desc": "While in an area with Phlogiston Mechanics within Natlan, 20 Stamina will be restored when interacting with some harvestable items. Additionally, the location of nearby **resources unique to Natlan** will appear on your mini-map.",
+        "img": "Kachina/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Shards Are Gems Too",
+        "desc": "When Kachina mounts or dismounts **Turbo Twirly**, she will absorb nearby Elemental Shards created by Crystallize.\nAdditionally, when a party member picks up such a Shard, 3 Energy will be restored to Kachina. Energy can be restored this way once every 5s.",
+        "img": "Kachina/const_0"
+      },
+      {
+        "name": "Never Leave Home Without... Turbo Twirly",
+        "desc": "When Kachina uses **\"Time to Get Serious!\"**, she will regain 20 Nightsoul points. If there is no **Turbo Twirly** belonging to her on the field, she will enter Nightsoul's Blessing and summon one.",
+        "img": "Kachina/const_1"
+      },
+      {
+        "name": "Improved Stabilizer",
+        "desc": "Increases the Level of **Go, Go Turbo Twirly!** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kachina/const_2"
+      },
+      {
+        "name": "More Foes, More Caution",
+        "desc": "When there are 1/2/3/4 (or more) opponents within the Turbo Drill Field created by **\"Time to Get Serious!\"**, the active character within the field gains 8%/12%/16%/20% increased DEF.",
+        "img": "Kachina/const_3"
+      },
+      {
+        "name": "All I've Collected Till Now",
+        "desc": "Increases the Level of **Time to Get Serious!** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kachina/const_4"
+      },
+      {
+        "name": "This Time, I've Gotta Win",
+        "desc": "When your active character's Shield is replaced or destroyed for any reason, Kachina will deal 200% of her DEF as **AoE Geo DMG**. This effect can be triggered once every 5s.",
+        "img": "Kachina/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 739.0527
+        },
+        {
+          "stat": "Base DEF",
+          "value": 49.63275
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.569876
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1264.1691
+        },
+        {
+          "stat": "Base DEF",
+          "value": 84.898125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.21163
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1964.3242
+        },
+        {
+          "stat": "Base DEF",
+          "value": 131.91862
+        },
+        {
+          "stat": "Base ATK",
+          "value": 36.067303
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2489.4407
+        },
+        {
+          "stat": "Base DEF",
+          "value": 167.184
+        },
+        {
+          "stat": "Base ATK",
+          "value": 45.709057
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3014.5571
+        },
+        {
+          "stat": "Base DEF",
+          "value": 202.44937
+        },
+        {
+          "stat": "Base ATK",
+          "value": 55.35081
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3539.6733
+        },
+        {
+          "stat": "Base DEF",
+          "value": 237.71475
+        },
+        {
+          "stat": "Base ATK",
+          "value": 64.99256
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}
