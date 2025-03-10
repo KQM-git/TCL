@@ -131,8 +131,6 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
-
 | Attribute         | Primary   | Secondary |
 | :---------------- | :-------- | :-------- |
 | DMG \(T9%\)       |           |           |
