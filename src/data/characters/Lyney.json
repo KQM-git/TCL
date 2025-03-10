@@ -360,7 +360,7 @@
       {
         "name": "Trivial Observations",
         "desc": "Displays the location of nearby **resources unique to Fontaine** on the mini-map.",
-        "img": "Lyney/passive_2",
+        "img": "Common/Specialties_Fontaine",
         "minAscension": 0
       }
     ],

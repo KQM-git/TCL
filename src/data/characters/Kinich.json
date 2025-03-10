@@ -278,7 +278,7 @@
       {
         "name": "Swift Envoy",
         "desc": "While in an area with Phlogiston Mechanics within Natlan, interacting with some harvestable items will increase your own party members' Movement SPD by 15% for 10s. Additionally, the location of nearby **resources unique to Natlan** will appear on your mini-map.",
-        "img": "Kinich/passive_3",
+        "img": "Common/Specialties_Natlan",
         "minAscension": 0
       }
     ],

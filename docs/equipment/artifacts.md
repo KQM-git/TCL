@@ -200,6 +200,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Nymph's Dream" />
 
+### Obsidian Codex
+
+<Artifact artifact="Obsidian Codex" />
+
 ### Ocean-Hued Clam
 
 <Artifact artifact="Ocean-Hued Clam">
@@ -240,6 +244,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * The 2-Piece shield strength effect only applies to the character equipping the artifact set, not the character creating the shield.
 
 </Artifact>
+
+### Scroll of the Hero of Cinder City
+
+<Artifact artifact="Scroll of the Hero of Cinder City" />
 
 ### Shimenawa's Reminiscence
 

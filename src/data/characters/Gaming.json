@@ -260,7 +260,7 @@
       {
         "name": "The Striding Beast",
         "desc": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack.",
-        "img": "Gaming/passive_2",
+        "img": "Common/Increase_Day_Speed",
         "minAscension": 0
       }
     ],

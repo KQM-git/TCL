@@ -294,7 +294,7 @@
       {
         "name": "Protracted Prayers",
         "desc": "Gains 25% more rewards when dispatched on an Inazuma Expedition for 20 hours.",
-        "img": "Kuki_Shinobu/passive_2",
+        "img": "Common/Expedition_Bonus_Inazuma",
         "minAscension": 0
       }
     ],

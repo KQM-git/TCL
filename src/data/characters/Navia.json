@@ -296,7 +296,7 @@
       {
         "name": "Painstaking Transaction",
         "desc": "Gains 25% more rewards when dispatched on a Fontaine Expedition for 20 hours.",
-        "img": "Navia/passive_2",
+        "img": "Common/Expedition_Bonus_Fontaine",
         "minAscension": 0
       }
     ],

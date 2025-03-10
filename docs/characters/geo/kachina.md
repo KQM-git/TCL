@@ -1,23 +1,23 @@
 ---
-description: A Fontainian perfumer, one who bottles secrets.
+description: A young warrior of the Nanatzcayan, given the Ancient Name of "Uthabiti." Kind-hearted and insatiably persistent, she grows stronger and more capable with each setback she faces.
 ---
 
-import char from '@site/src/data/characters/Emilie.json'
+import char from '@site/src/data/characters/Kachina.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
-# Emilie
+# Kachina
 
+<!-- Remove this warning when adding the basic mechs ticket -->
 import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
 
 <NoBasicMechs />
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Emilie.png')} alt="Emilie's gacha art" />
+<Image img={require('/img/characters/gacha/Kachina.png')} alt="Kachina's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
-
 
 ## Base Stats
 
@@ -39,33 +39,58 @@ import Skill from '@site/src/components/char/Skill'
 take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
 take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
 -->
-
-<!-- | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+<!-- 
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :--- | :----------- | :----------- |
 | 1-Hit  |           |        |      |              |              |
 | 2-Hit  |           |        |      |              |              |
 | 3-Hit  |           |        |      |              |              |
 | 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              | -->
+| 5-Hit  |           |        |      |              |              |
+-->
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+<!-- sword
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              |              | -->
+| CA     |           |        |      |              | 2 + 6        |
+| N1C    |           |        |      | -            | -            |
+-->
 
+<!-- claymore
+| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
+| Spinning DMG |           |        |      | 60           | 2            |
+| Final DMG    |           |        |      | 120          | 5            |
+-->
+
+<!-- polearm/catalyst
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :--- | :----------- | :----------- |
+| CA     |           |        |      |              |              |
+-->
+
+<!-- bow
+| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
+| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
+| Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
+| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+-->
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!-- | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+<!-- 
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
 | Plunge DMG      |           |              |              |
 | Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              | -->
+| High Plunge DMG |           |              |              |
+-->
 
 </div>
 
@@ -80,7 +105,8 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!-- | Attribute      | Tap       | Hold      |
+<!-- 
+| Attribute      | Tap       | Hold      |
 | :------------- | :-------- | :-------- |
 | DMG \(T9%\)    |           |           |
 | Particles      |           |           |
@@ -92,7 +118,8 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 | Duration       |           |           |
 | CD             |           |           |
 | Poise Damage   |           |           |
-| Impulse Type   |           |           | -->
+| Impulse Type   |           |           |
+-->
 
 </div>
 
@@ -107,7 +134,8 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- | Attribute         | Primary   | Secondary |
+<!-- 
+| Attribute         | Primary   | Secondary |
 | :---------------- | :-------- | :-------- |
 | DMG \(T9%\)       |           |           |
 | GU                |           |           |
@@ -119,7 +147,8 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 | Duration          |           |           |
 | Cooldown          |           |           |
 | Poise Damage      |           |           |
-| Impulse Type      |           |           | -->
+| Impulse Type      |           |           |
+-->
 
 </div>
 
@@ -131,11 +160,13 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 </Tabs>
 
 ## Frames
+
 <!-- 
-import charFrames from '@site/src/data/frames/Emilie.json'
+import charFrames from '@site/src/data/frames/Kachina.json'
 import Frames from '@site/src/components/char/Frames'
 
-<Frames data={charFrames} /> -->
+<Frames data={charFrames} />
+-->
 
 ## Ascension Passives
 
@@ -193,4 +224,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/dendro/emilie.md')} />
+<Card item={require('../../evidence/characters/geo/kachina.md')} />

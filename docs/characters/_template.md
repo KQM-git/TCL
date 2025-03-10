@@ -21,10 +21,12 @@ import Image from '@theme/IdealImage'
 
 ## Resources
 
+<!-- 
 * [CharacterName Mains Discord]()
 * [Full CharacterName Written Guide]()
 * [CharacterName Quick Guide]()
 * [# Minute Video Guide to CharacterName]()
+-->
 
 ## Base Stats
 
@@ -168,10 +170,12 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 ## Frames
 
+<!-- 
 import charFrames from '@site/src/data/frames/CharacterName.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
+-->
 
 ## Ascension Passives
 

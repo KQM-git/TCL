@@ -250,7 +250,7 @@
       {
         "name": "Thought and Intent, Like Silken Scent",
         "desc": "When Lan Yan is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.",
-        "img": "Lan_Yan/passive_2",
+        "img": "Common/No_Startle_Crystalfly",
         "minAscension": 0
       }
     ],
