@@ -1,11 +1,11 @@
 ---
-description: A Huitztlan Saurian Hunter skilled at counting costs.
+description: A young man from the Masters of the Night-Wind who instead lives in the wild alongside all manner of life.
 ---
 
-import char from '@site/src/data/characters/Kinich.json'
+import char from '@site/src/data/characters/Ororon.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
-# Kinich
+# Ororon
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
@@ -14,10 +14,17 @@ import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Kinich.png')} alt="Kinich's gacha art" />
+<Image img={require('/img/characters/gacha/Ororon.png')} alt="Ororon's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
+<!-- 
+* [Ororon Mains Discord]()
+* [Full Ororon Written Guide]()
+* [Ororon Quick Guide]()
+* [# Minute Video Guide to Ororon]()
+-->
 
 ## Base Stats
 
@@ -53,11 +60,11 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- claymore
-| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
+<!-- bow
+| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
+| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
+| Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
+| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 -->
 
 </div>
@@ -142,7 +149,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 ## Frames
 
 <!-- 
-import charFrames from '@site/src/data/frames/Kinich.json'
+import charFrames from '@site/src/data/frames/Ororon.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
@@ -208,4 +215,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/dendro/kinich.md')} />
+<Card item={require('../../evidence/characters/electro/ororon.md')} />

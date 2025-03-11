@@ -1,11 +1,11 @@
 ---
-description: A Huitztlan Saurian Hunter skilled at counting costs.
+description: The great shaman from the Masters of the Night-Wind, the universally-revered Granny Itztli.
 ---
 
-import char from '@site/src/data/characters/Kinich.json'
+import char from '@site/src/data/characters/Citlali.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
-# Kinich
+# Citlali
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
@@ -14,10 +14,17 @@ import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Kinich.png')} alt="Kinich's gacha art" />
+<Image img={require('/img/characters/gacha/Citlali.png')} alt="Citlali's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
+<!-- 
+* [Citlali Mains Discord]()
+* [Full Citlali Written Guide]()
+* [Citlali Quick Guide]()
+* [# Minute Video Guide to Citlali]()
+-->
 
 ## Base Stats
 
@@ -53,11 +60,10 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- claymore
-| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
+<!-- polearm/catalyst
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :--- | :----------- | :----------- |
+| CA     |           |        |      |              |              |
 -->
 
 </div>
@@ -142,7 +148,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 ## Frames
 
 <!-- 
-import charFrames from '@site/src/data/frames/Kinich.json'
+import charFrames from '@site/src/data/frames/Citlali.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
@@ -208,4 +214,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/dendro/kinich.md')} />
+<Card item={require('../../evidence/characters/cryo/citlali.md')} />

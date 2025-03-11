@@ -53,31 +53,10 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- sword
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              | 2 + 6        |
-| N1C    |           |        |      | -            | -            |
--->
-
-<!-- claymore
-| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
-
 <!-- polearm/catalyst
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :--- | :----------- | :----------- |
 | CA     |           |        |      |              |              |
--->
-
-<!-- bow
-| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
-| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
-| Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 -->
 
 </div>
@@ -173,7 +152,11 @@ import Frames from '@site/src/components/char/Frames'
 import Passive from '@site/src/components/char/Passive'
 
 <Tabs queryString="passive">
-<TabItem value='passive' label='Passive'>
+<TabItem value='passive' label="Passive">
+<Passive char={char} passive={3} />
+</TabItem>
+
+<TabItem value='nightsoul' label="Night Realm's Gift">
 <Passive char={char} passive={2} />
 </TabItem>
 

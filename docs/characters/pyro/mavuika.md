@@ -1,11 +1,11 @@
 ---
-description: A Huitztlan Saurian Hunter skilled at counting costs.
+description: The leader of Natlan who inherited the Ancient Name of "Kiongozi." She made a vow to illuminate the future of the nation of war with the Sacred Flame.
 ---
 
-import char from '@site/src/data/characters/Kinich.json'
+import char from '@site/src/data/characters/Mavuika.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
-# Kinich
+# Mavuika
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
@@ -14,10 +14,17 @@ import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Kinich.png')} alt="Kinich's gacha art" />
+<Image img={require('/img/characters/gacha/Mavuika.png')} alt="Mavuika's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
+<!-- 
+* [Mavuika Mains Discord]()
+* [Full Mavuika Written Guide]()
+* [Mavuika Quick Guide]()
+* [# Minute Video Guide to Mavuika]()
+-->
 
 ## Base Stats
 
@@ -142,7 +149,7 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 ## Frames
 
 <!-- 
-import charFrames from '@site/src/data/frames/Kinich.json'
+import charFrames from '@site/src/data/frames/Mavuika.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
@@ -208,4 +215,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/dendro/kinich.md')} />
+<Card item={require('../../evidence/characters/pyro/mavuika.md')} />
