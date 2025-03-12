@@ -172,15 +172,6 @@
             "value": "15.0s"
           }
         ]
-      },
-      {
-        "name": "Special Jump",
-        "desc": "If this character is in Natlan, Hold to consume Phlogiston and execute a Rocket Double Jump. When Phlogiston is completely depleted, it will consume Stamina to execute the Double Jump instead.",
-        "img": "Ororon/skill_2",
-        "talentTable": {
-          "name": "Unknown",
-          "value": 0
-        }
       }
     ],
     "ult": {

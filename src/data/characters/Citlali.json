@@ -212,13 +212,6 @@
             "value": "16.0s"
           }
         ]
-      },
-      {
-        "img": "Citlali/skill_2",
-        "talentTable": {
-          "name": "Unknown",
-          "value": 0
-        }
       }
     ],
     "ult": {

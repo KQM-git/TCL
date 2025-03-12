@@ -1,4 +1,4 @@
-# CharacterName
+# Kinich
 
 **Main Page:**
 
