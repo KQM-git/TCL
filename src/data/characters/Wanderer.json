@@ -70,7 +70,7 @@
               "55.4%+55.4%",
               "60.9%+60.9%",
               "64.8%+64.8%",
-              "69.2%+69.2%",
+              "69.3%+69.3%",
               "75.3%+75.3%",
               "81.4%+81.4%",
               "87.5%+87.5%",
@@ -163,7 +163,7 @@
               "136.9% Normal Attack DMG",
               "139.5% Normal Attack DMG",
               "141.5% Normal Attack DMG",
-              "143.4% Normal Attack DMG",
+              "143.5% Normal Attack DMG",
               "146.0% Normal Attack DMG",
               "148.6% Normal Attack DMG",
               "151.2% Normal Attack DMG",
@@ -326,7 +326,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 21.870405197143555
+          "value": 21.870405
         },
         {
           "stat": "CRIT Rate",
@@ -348,7 +348,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 37.40990447998047
+          "value": 37.409904
         },
         {
           "stat": "CRIT Rate",
@@ -384,7 +384,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2285.23828125
+          "value": 2285.2383
         },
         {
           "stat": "Base DEF",
@@ -406,7 +406,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2767.28076171875
+          "value": 2767.2808
         },
         {
           "stat": "Base DEF",
@@ -428,7 +428,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3249.3232421875
+          "value": 3249.3232
         },
         {
           "stat": "Base DEF",
@@ -436,7 +436,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 104.74773406982422
+          "value": 104.747734
         },
         {
           "stat": "CRIT Rate",

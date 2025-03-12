@@ -7,6 +7,11 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # Sethos
 
+<!-- Remove this warning when adding the basic mechs ticket -->
+import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
+
+<NoBasicMechs />
+
 import Image from '@theme/IdealImage'
 
 <Image img={require('/img/characters/gacha/Sethos.png')} alt="Sethos's gacha art" />

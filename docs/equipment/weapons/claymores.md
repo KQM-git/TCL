@@ -5,12 +5,20 @@ import claymores from '@site/src/data/weapons/Claymore.json'
 
 ## 5 Stars
 
+### A Thousand Blazing Suns
+
+<Weapon weapon="A Thousand Blazing Suns" weapons={claymores} />
+
 ### Beacon of the Reed Sea
 
 <Weapon weapon="Beacon of the Reed Sea" weapons={claymores} />
 
 * The passive will not trigger if shielded - [@twce_ ](../../evidence/equipment/weapons.md#beacon-of-the-reed-seas-passive-does-not-trigger-if-shielded)
 * The passive affects Beidou's C1 shield HP. - [@bobrokrot](../../evidence/equipment/weapons.md#beacon-of-the-reed-seas-passive-affects-beidous-c1-shield-hp)
+
+### Fang of the Mountain King
+
+<Weapon weapon="Fang of the Mountain King" weapons={claymores} />
 
 ### Redhorn Stonethresher
 
@@ -75,6 +83,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 </Weapon>
 
+### Earth Shaker
+
+<Weapon weapon="Earth Shaker" weapons={claymores} />
+
 ### Favonius Greatsword
 
 <Weapon weapon="Favonius Greatsword" weapons={claymores}>
@@ -88,6 +100,10 @@ import FavSeries from './\_common/fav_series.md';
 ### Forest Regalia
 
 <Weapon weapon="Forest Regalia" weapons={claymores} />
+
+### Fruitful Hook
+
+<Weapon weapon="Fruitful Hook" weapons={claymores} />
 
 ### Katsuragikiri Nagamasa
 

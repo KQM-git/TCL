@@ -169,7 +169,7 @@
               "7.74%/5.55% Max HP",
               "8.19%/5.87% Max HP",
               "8.65%/6.20% Max HP",
-              "9.10%/6.52% Max HP",
+              "9.11%/6.52% Max HP",
               "9.67%/6.93% Max HP"
             ]
           },
@@ -384,7 +384,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 1733.7181396484375
+          "value": 1733.7181
         },
         {
           "stat": "Base DEF",
@@ -406,7 +406,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2693.93115234375
+          "value": 2693.9312
         },
         {
           "stat": "Base DEF",
@@ -414,7 +414,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 40.73289489746094
+          "value": 40.732895
         },
         {
           "stat": "HP%",
@@ -436,7 +436,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 51.62188720703125
+          "value": 51.621887
         },
         {
           "stat": "HP%",
@@ -472,7 +472,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 4854.41064453125
+          "value": 4854.4106
         },
         {
           "stat": "Base DEF",

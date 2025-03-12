@@ -318,7 +318,7 @@
       {
         "name": "Night Vigil's Harvest",
         "desc": "Displays the location of nearby **resources unique to Fontaine** on the mini-map.",
-        "img": "Clorinde/passive_2",
+        "img": "Common/Specialties_Fontaine",
         "minAscension": 0
       }
     ],

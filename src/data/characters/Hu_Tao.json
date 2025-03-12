@@ -65,7 +65,7 @@
           {
             "name": "3-Hit DMG",
             "values": [
-              "61.0%",
+              "61.1%",
               "65.2%",
               "69.4%",
               "74.9%",
@@ -202,7 +202,7 @@
               "5.66% Max HP",
               "5.96% Max HP",
               "6.26% Max HP",
-              "6.55% Max HP",
+              "6.56% Max HP",
               "6.85% Max HP",
               "7.15% Max HP"
             ]
@@ -288,14 +288,14 @@
             "6.64% Max HP",
             "7.01% Max HP",
             "7.50% Max HP",
-            "7.87% Max HP",
+            "7.88% Max HP",
             "8.25% Max HP",
             "8.74% Max HP",
-            "9.22% Max HP",
+            "9.23% Max HP",
             "9.71% Max HP",
             "10.20% Max HP",
             "10.69% Max HP",
-            "11.17% Max HP",
+            "11.18% Max HP",
             "11.66% Max HP"
           ]
         },
@@ -343,7 +343,7 @@
       },
       {
         "name": "The More the Merrier",
-        "desc": "When Hu Tao cooks a dish perfectly, she has a 18% chance to receive an additional \"Suspicious\" dish of the same type.",
+        "desc": "When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an additional \"Suspicious\" dish of the same type.",
         "img": "Hu_Tao/passive_2",
         "minAscension": 0
       }
@@ -432,7 +432,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 1775.662841796875
+          "value": 1775.6628
         },
         {
           "stat": "Base DEF",
@@ -462,7 +462,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 18.881393432617188
+          "value": 18.881393
         },
         {
           "stat": "CRIT DMG",
@@ -484,7 +484,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 23.928895950317383
+          "value": 23.928896
         },
         {
           "stat": "CRIT DMG",
@@ -506,7 +506,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 28.976398468017578
+          "value": 28.976398
         },
         {
           "stat": "CRIT DMG",

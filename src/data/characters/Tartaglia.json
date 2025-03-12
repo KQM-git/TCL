@@ -134,7 +134,7 @@
               "51.0%",
               "56.1%",
               "59.7%",
-              "63.7%",
+              "63.8%",
               "69.4%",
               "75.0%",
               "80.6%",
@@ -178,7 +178,7 @@
             "name": "Riptide Burst DMG",
             "values": [
               "62.0%",
-              "66.6%",
+              "66.7%",
               "71.3%",
               "77.5%",
               "82.2%",
@@ -293,13 +293,13 @@
               "56.3%",
               "60.9%",
               "65.5%",
-              "72.0%",
+              "72.1%",
               "76.6%",
               "81.9%",
               "89.1%",
               "96.3%",
               "103.5%",
-              "111.3%",
+              "111.4%",
               "119.2%",
               "127.1%",
               "134.9%"
@@ -511,7 +511,7 @@
     "constellations": [
       {
         "name": "Foul Legacy: Tide Withholder",
-        "desc": "Decreases the CD of **Foul Legacy: Raging Tide** by 20%",
+        "desc": "Decreases the CD of **Foul Legacy: Raging Tide** by 20%.",
         "img": "Tartaglia/const_0"
       },
       {
@@ -578,7 +578,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 20.11438751220703
+          "value": 20.114388
         },
         {
           "stat": "Hydro DMG Bonus",
@@ -614,7 +614,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2324.601806640625
+          "value": 2324.6018
         },
         {
           "stat": "Base DEF",
@@ -622,7 +622,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 53.4619255065918
+          "value": 53.461926
         },
         {
           "stat": "Hydro DMG Bonus",
@@ -658,7 +658,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3567.45849609375
+          "value": 3567.4585
         },
         {
           "stat": "Base DEF",
@@ -680,7 +680,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 4188.88671875
+          "value": 4188.8867
         },
         {
           "stat": "Base DEF",

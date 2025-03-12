@@ -3,7 +3,7 @@
   "star": 4,
   "weaponType": "Claymore",
   "baseStats": {
-    "hpBase": 957.3805541992188,
+    "hpBase": 957.38055,
     "attackBase": 25.28736,
     "defenseBase": 58.94175,
     "criticalBase": 0.05,
@@ -260,7 +260,7 @@
       {
         "name": "The Striding Beast",
         "desc": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack.",
-        "img": "Gaming/passive_2",
+        "img": "Common/Increase_Day_Speed",
         "minAscension": 0
       }
     ],
@@ -334,7 +334,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 18.891395568847656
+          "value": 18.891396
         },
         {
           "stat": "ATK%",
@@ -392,7 +392,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2409.13623046875
+          "value": 2409.1362
         },
         {
           "stat": "Base DEF",
@@ -400,7 +400,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 63.63417434692383
+          "value": 63.634174
         },
         {
           "stat": "ATK%",
@@ -414,11 +414,11 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2917.313232421875
+          "value": 2917.3132
         },
         {
           "stat": "Base DEF",
-          "value": 179.6062469482422
+          "value": 179.60625
         },
         {
           "stat": "Base ATK",
@@ -436,7 +436,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3425.490478515625
+          "value": 3425.4905
         },
         {
           "stat": "Base DEF",

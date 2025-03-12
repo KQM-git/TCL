@@ -1,0 +1,446 @@
+{
+  "name": "Lan Yan",
+  "star": 4,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 775.02234,
+    "attackBase": 21.01344,
+    "defenseBase": 48.64125,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Black Pheasant Strides on Water",
+        "desc": "**Normal Attack**\nWields her Feathermoon Rings to perform up to 4 attacks, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to throw out a Feathermoon Ring, dealing **Anemo DMG**.\n\n**Plunging Attack**\nGathers the power of Anemo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Anemo DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "41.4%",
+              "44.5%",
+              "47.7%",
+              "51.8%",
+              "54.9%",
+              "58.0%",
+              "62.2%",
+              "66.3%",
+              "70.4%",
+              "74.6%",
+              "78.7%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "20.4%+24.9%",
+              "21.9%+26.8%",
+              "23.5%+28.7%",
+              "25.5%+31.2%",
+              "27.0%+33.1%",
+              "28.6%+34.9%",
+              "30.6%+37.4%",
+              "32.7%+39.9%",
+              "34.7%+42.4%",
+              "36.7%+44.9%",
+              "38.8%+47.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "26.9%+26.9%",
+              "28.9%+28.9%",
+              "31.0%+31.0%",
+              "33.7%+33.7%",
+              "35.7%+35.7%",
+              "37.7%+37.7%",
+              "40.4%+40.4%",
+              "43.1%+43.1%",
+              "45.8%+45.8%",
+              "48.5%+48.5%",
+              "51.1%+51.1%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "64.6%",
+              "69.4%",
+              "74.2%",
+              "80.7%",
+              "85.5%",
+              "90.4%",
+              "96.8%",
+              "103.3%",
+              "109.8%",
+              "116.2%",
+              "122.7%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "37.8%×3",
+              "40.7%×3",
+              "43.5%×3",
+              "47.3%×3",
+              "50.1%×3",
+              "53.0%×3",
+              "56.8%×3",
+              "60.5%×3",
+              "64.3%×3",
+              "68.1%×3",
+              "71.9%×3"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Swallow-Wisp Pinion Dance",
+        "desc": "Summoning forth the Swallow-Wisp Shield, a secret art passed down across generations, Lan Yan dashes forward and, upon making contact with her target, will leap back into the air.\nThe Swallow-Wisp Shield's DMG absorption scales based on her ATK, and has a 250% absorption efficiency against **Anemo DMG**.\nWhile in mid-air due to the effects of her Elemental Skill: Swallow-Wisp Pinion Dance, pressing her Elemental Skill again or pressing Normal Attack will cause Lan Yan to hurl her Feathermoon Rings at an opponent, and they will spin between nearby opponents twice upon hit, dealing **Anemo DMG**.\nHolding the Skill will cause it to behave differently.\n\n**Hold**\nEnter Aiming Mode to adjust the dash direction.\n\n**\"The clouds cut the lunar light, like shadows silver gracing one's sight.\"**",
+        "img": "Lan_Yan/skill_1",
+        "talentTable": [
+          {
+            "name": "Feathermoon Ring DMG",
+            "values": [
+              "96.3%",
+              "103.5%",
+              "110.7%",
+              "120.3%",
+              "127.5%",
+              "134.8%",
+              "144.4%",
+              "154.0%",
+              "163.6%",
+              "173.3%",
+              "182.9%",
+              "192.5%",
+              "204.5%"
+            ]
+          },
+          {
+            "name": "Shield DMG Absorption",
+            "values": [
+              "276.5% ATK+1156",
+              "297.2% ATK+1271",
+              "318.0% ATK+1396",
+              "345.6% ATK+1531",
+              "366.3% ATK+1676",
+              "387.1% ATK+1830",
+              "414.7% ATK+1993",
+              "442.4% ATK+2167",
+              "470.0% ATK+2350",
+              "497.7% ATK+2542",
+              "525.3% ATK+2745",
+              "553.0% ATK+2957",
+              "587.5% ATK+3178"
+            ]
+          },
+          {
+            "name": "Shield Duration",
+            "value": "12.5s"
+          },
+          {
+            "name": "CD",
+            "value": "16.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Lustrous Moonrise",
+      "desc": "Lan Yan creates a Feathermoon Swallow Array, pulling in nearby opponents and objects and dealing multiple instances of **AoE Anemo DMG**.\n\n**Strictly speaking, with only Lan Yan herself present, it cannot properly be called an \"array.\" However, if her Rattan Figures are brought into the picture, she can sort of fulfill the requirements... Probably.**",
+      "img": "Lan_Yan/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "241.1%×3",
+            "259.1%×3",
+            "277.2%×3",
+            "301.3%×3",
+            "319.4%×3",
+            "337.5%×3",
+            "361.6%×3",
+            "385.7%×3",
+            "409.8%×3",
+            "433.9%×3",
+            "458.0%×3",
+            "482.1%×3",
+            "512.3%×3"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Anemo"
+    },
+    "passive": [
+      {
+        "name": "Four Sealing Divination Charms",
+        "desc": "When the dash from the Elemental Skill **Swallow-Wisp Pinion Dance** hits a target, if it interacts with **Hydro**/**Pyro**/**Cryo**/**Electro**, the Swallow-Wisp Shield will undergo Elemental Absorption, with the converted shield absorbing DMG from the corresponding element with 250% efficiency.\nAdditionally, if this use of **Swallow-Wisp Pinion Dance** causes the Swallow-Wisp Shield to undergo Elemental Absorption, the Feathermoon Rings that Lan Yan throws at her foes additionally deal Elemental DMG equal to 50% of the original in the corresponding Elemental Type. This DMG is considered Elemental Skill DMG.",
+        "img": "Lan_Yan/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Skyfeather Evil-Subduing Charm",
+        "desc": "The Elemental Skill **Swallow-Wisp Pinion Dance** and the Elemental Burst **Lustrous Moonrise** deal increased DMG equal to 309% and 774% of Lan Yan's Elemental Mastery respectively.",
+        "img": "Lan_Yan/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Thought and Intent, Like Silken Scent",
+        "desc": "When Lan Yan is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.",
+        "img": "Common/No_Startle_Crystalfly",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "\"As One Might Stride Betwixt the Clouds\"",
+        "desc": "After triggering the Elemental Absorption from the Passive Talent \"Four Sealing Divination Charms,\" this instance of Lan Yan's Elemental Skill **Swallow-Wisp Pinion Dance** will produce another Feathermoon Ring when they are thrown at opponents.\nYou must first unlock the Passive Talent \"Four Sealing Divination Charms.\"",
+        "img": "Lan_Yan/const_0"
+      },
+      {
+        "name": "\"Dance Vestments Billow Like Rainbow Jade\"",
+        "desc": "While the **Swallow-Wisp Shield** is active, when your active party member's Normal Attacks deal DMG, 40% of the Shield's DMG absorption will be restored, up to its original maximum absorption. This effect can occur once every 2s.",
+        "img": "Lan_Yan/const_1"
+      },
+      {
+        "name": "\"On White Wings Pierce Through Cloud and Fog\"",
+        "desc": "Increases the Level of **Swallow-Wisp Pinion Dance** by 3.\nMaximum upgrade level is 15.",
+        "img": "Lan_Yan/const_2"
+      },
+      {
+        "name": "\"With Drakefalcon's Blood-Pearls Adorned\"",
+        "desc": "After Lan Yan uses her Elemental Burst **Lustrous Moonrise**, the Elemental Mastery of all nearby party members increases by 60 for 12s.",
+        "img": "Lan_Yan/const_3"
+      },
+      {
+        "name": "\"Having Met You, My Heart is Gladdened\"",
+        "desc": "Increases the Level of **Lustrous Moonrise** by 3.\nMaximum upgrade level is 15.",
+        "img": "Lan_Yan/const_4"
+      },
+      {
+        "name": "\"Let Us Away on Sylphic Wing, the Silvered Ornaments to Ring\"",
+        "desc": "**Swallow-Wisp Pinion Dance** gains 1 additional charge.",
+        "img": "Lan_Yan/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 578.9814
+        },
+        {
+          "stat": "Base DEF",
+          "value": 36.3375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 15.698484
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 990.36285
+        },
+        {
+          "stat": "Base DEF",
+          "value": 62.15625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 26.85267
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1538.8716
+        },
+        {
+          "stat": "Base DEF",
+          "value": 96.58125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 41.72492
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1950.253
+        },
+        {
+          "stat": "Base DEF",
+          "value": 122.4
+        },
+        {
+          "stat": "Base ATK",
+          "value": 52.879105
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2361.6345
+        },
+        {
+          "stat": "Base DEF",
+          "value": 148.21875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 64.03329
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2773.016
+        },
+        {
+          "stat": "Base DEF",
+          "value": 174.0375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 75.18748
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

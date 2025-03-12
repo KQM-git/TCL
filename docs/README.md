@@ -10,7 +10,7 @@ The TCL is organized so that each page has a corresponding Evidence Vault. The E
 
 ## Quick Links
 
-**Most Recent Characters:** [Clorinde](/characters/electro/clorinde.md) | [Sethos](/characters/electro/sethos.md)
+**Most Recent Characters:** [Yumemizuki Mizuki](/characters/anemo/yumemizuki-mizuki.md) | [Lan Yan](/characters/anemo/lan-yan.md)
 
 **Elemental Gauge Theory:** [Page](/combat-mechanics/elemental-effects/elemental-gauge-theory)
 

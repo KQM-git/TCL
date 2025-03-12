@@ -213,7 +213,7 @@
             "4.8% Max HP",
             "5.2% Max HP",
             "5.6% Max HP",
-            "6.0% Max HP",
+            "6.1% Max HP",
             "6.4% Max HP",
             "6.8% Max HP",
             "7.3% Max HP",
@@ -382,7 +382,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 899.124267578125
+          "value": 899.12427
         },
         {
           "stat": "Base DEF",
@@ -426,7 +426,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2389.777587890625
+          "value": 2389.7776
         },
         {
           "stat": "Base DEF",
@@ -434,7 +434,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 41.58149719238281
+          "value": 41.581497
         },
         {
           "stat": "Hydro DMG Bonus",
@@ -448,7 +448,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3028.629150390625
+          "value": 3028.6292
         },
         {
           "stat": "Base DEF",
@@ -456,7 +456,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 52.69734573364258
+          "value": 52.697346
         },
         {
           "stat": "Hydro DMG Bonus",
@@ -470,11 +470,11 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3667.48046875
+          "value": 3667.4805
         },
         {
           "stat": "Base DEF",
-          "value": 178.90875244140625
+          "value": 178.90875
         },
         {
           "stat": "Base ATK",

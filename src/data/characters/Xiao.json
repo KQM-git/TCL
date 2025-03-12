@@ -219,14 +219,14 @@
           "name": "Normal/Charged/Plunging Attack DMG Bonus",
           "values": [
             "58.5%",
-            "61.9%",
+            "62.0%",
             "65.5%",
             "70.0%",
             "73.5%",
             "77.0%",
             "81.6%",
             "86.1%",
-            "90.6%",
+            "90.7%",
             "95.2%",
             "99.8%",
             "104.3%",
@@ -392,7 +392,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2259.42626953125
+          "value": 2259.4263
         },
         {
           "stat": "Base DEF",
@@ -400,7 +400,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 61.94794464111328
+          "value": 61.947945
         },
         {
           "stat": "CRIT Rate",
@@ -414,7 +414,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2863.43115234375
+          "value": 2863.4312
         },
         {
           "stat": "Base DEF",
@@ -422,7 +422,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 78.50828552246094
+          "value": 78.508286
         },
         {
           "stat": "CRIT Rate",
@@ -436,7 +436,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3467.436279296875
+          "value": 3467.4363
         },
         {
           "stat": "Base DEF",
@@ -458,7 +458,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 4071.441162109375
+          "value": 4071.4412
         },
         {
           "stat": "Base DEF",
@@ -466,7 +466,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 111.62897491455078
+          "value": 111.628975
         },
         {
           "stat": "CRIT Rate",

@@ -58,6 +58,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 </Weapon>
 
+### Peak Patrol Song
+
+<Weapon weapon="Peak Patrol Song" weapons={swords} />
+
 ### Primordial Jade Cutter
 
 <Weapon weapon="Primordial Jade Cutter" weapons={swords} />
@@ -107,6 +111,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 </Weapon>
 
+### Calamity of Eshu
+
+<Weapon weapon="Calamity of Eshu" weapons={swords} />
+
 ### Cinnabar Spindle
 
 <Weapon weapon="Cinnabar Spindle" weapons={swords}>
@@ -137,6 +145,10 @@ import FavSeries from './\_common/fav_series.md';
 ### Fleuve Cendre Ferryman
 
 <Weapon weapon="Fleuve Cendre Ferryman" weapons={swords} />
+
+### Flute of Ezpitzal
+
+<Weapon weapon="Flute of Ezpitzal" weapons={swords} />
 
 ### Iron Sting
 
@@ -187,6 +199,10 @@ import SacSeries from './\_common/sac_series.md';
 ### Sapwood Blade
 
 <Weapon weapon="Sapwood Blade" weapons={swords} />
+
+### Sturdy bone
+
+<Weapon weapon="Sturdy Bone" weapons={swords} />
 
 ### Sword of Descension
 

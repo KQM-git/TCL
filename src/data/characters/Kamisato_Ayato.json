@@ -193,13 +193,13 @@
               "58.9%",
               "63.7%",
               "68.5%",
-              "75.3%",
+              "75.4%",
               "80.1%",
               "85.6%",
               "93.2%",
               "100.7%",
               "108.2%",
-              "116.4%",
+              "116.5%",
               "124.7%",
               "132.9%",
               "141.1%"
@@ -217,7 +217,7 @@
               "102.7%",
               "111.0%",
               "119.3%",
-              "128.3%",
+              "128.4%",
               "137.4%",
               "146.5%",
               "155.5%"
@@ -345,7 +345,7 @@
       },
       {
         "name": "Kamisato Art: Daily Cooking",
-        "desc": "When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional \"Suspicious\" dish of the same type.",
+        "desc": "When Ayato cooks a dish perfectly, he has an 18% chance to receive an additional \"Suspicious\" dish of the same type.",
         "img": "Kamisato_Ayato/passive_2",
         "minAscension": 0
       }
@@ -442,7 +442,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 34.13312530517578
+          "value": 34.133125
         },
         {
           "stat": "CRIT DMG",
@@ -456,7 +456,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2433.228271484375
+          "value": 2433.2283
         },
         {
           "stat": "Base DEF",
@@ -464,7 +464,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 53.03762435913086
+          "value": 53.037624
         },
         {
           "stat": "CRIT DMG",

@@ -86,7 +86,7 @@
               "66.2%",
               "72.8%",
               "77.5%",
-              "82.7%",
+              "82.8%",
               "90.0%",
               "97.3%",
               "104.6%",
@@ -134,7 +134,7 @@
               "51.0%",
               "56.1%",
               "59.7%",
-              "63.7%",
+              "63.8%",
               "69.4%",
               "75.0%",
               "80.6%",
@@ -274,7 +274,7 @@
               "95.8% ATK/Stack",
               "101.1% ATK/Stack",
               "106.4% ATK/Stack",
-              "113.0% ATK/Stack"
+              "113.1% ATK/Stack"
             ]
           },
           {
@@ -300,7 +300,7 @@
             "165.6%",
             "177.1%",
             "192.5%",
-            "204.0%",
+            "204.1%",
             "215.6%",
             "231.0%",
             "246.4%",
@@ -318,7 +318,7 @@
             "445.1%",
             "476.1%",
             "517.5%",
-            "548.5%",
+            "548.6%",
             "579.6%",
             "621.0%",
             "662.4%",
@@ -326,7 +326,7 @@
             "745.2%",
             "786.6%",
             "828.0%",
-            "879.7%"
+            "879.8%"
           ]
         },
         {
@@ -360,7 +360,7 @@
       {
         "name": "Trivial Observations",
         "desc": "Displays the location of nearby **resources unique to Fontaine** on the mini-map.",
-        "img": "Lyney/passive_2",
+        "img": "Common/Specialties_Fontaine",
         "minAscension": 0
       }
     ],
@@ -426,7 +426,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 735.6471557617188
+          "value": 735.64716
         },
         {
           "stat": "Base DEF",
@@ -434,7 +434,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 21.231853485107422
+          "value": 21.231853
         },
         {
           "stat": "CRIT Rate",
@@ -448,7 +448,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 1258.34375
+          "value": 1258.3438
         },
         {
           "stat": "Base DEF",
@@ -456,7 +456,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 36.31764602661133
+          "value": 36.317646
         },
         {
           "stat": "CRIT Rate",
@@ -478,7 +478,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 56.43203353881836
+          "value": 56.432034
         },
         {
           "stat": "CRIT Rate",
@@ -492,7 +492,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2477.96923828125
+          "value": 2477.9692
         },
         {
           "stat": "Base DEF",
@@ -522,7 +522,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 86.6036148071289
+          "value": 86.603615
         },
         {
           "stat": "CRIT Rate",
@@ -536,7 +536,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3523.362548828125
+          "value": 3523.3625
         },
         {
           "stat": "Base DEF",

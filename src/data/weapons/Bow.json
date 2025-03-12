@@ -733,6 +733,94 @@
       "desc": "After defeating an enemy, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
     }
   },
+  "Chain Breaker": {
+    "name": "Chain Breaker",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Flower-Feather Song",
+      "desc": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains **4.8%**/**6%**/**7.2%**/**8.4%**/**9.6%** increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains **24**/**30**/**36**/**42**/**48** Elemental Mastery."
+    }
+  },
   "Cloudforged": {
     "name": "Cloudforged",
     "weaponType": "Bow",
@@ -1171,6 +1259,94 @@
     "refinements": {
       "name": "Windfall",
       "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
+    }
+  },
+  "Flower-Wreathed Feathers": {
+    "name": "Flower-Wreathed Feathers",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Inflorescence Unattainable",
+      "desc": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by **6%**/**7.5%**/**9%**/**10.5%**/**12%** every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode."
     }
   },
   "Hamayumi": {
@@ -2757,6 +2933,94 @@
       "desc": "HP is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **20%**/**25%**/**30%**/**35%**/**40%**. This will take effect whether the character is on-field or not."
     }
   },
+  "Astral Vulture's Crimson Plumage": {
+    "name": "Astral Vulture's Crimson Plumage",
+    "weaponType": "Bow",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.144,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "The Moonring Sighted",
+      "desc": "For 12s after triggering a Swirl reaction, ATK increases by **24%**/**30%**/**36%**/**42%**/**48%**. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by **20%/48%** / **25%/60%** / **30%/72%** / **35%/84%** / **40%/96%** and Elemental Burst DMG dealt is increased by **10%/24%** / **12.5%/30%** / **15%/36%** / **17.5%/42%** / **20%/48%**."
+    }
+  },
   "Elegy for the End": {
     "name": "Elegy for the End",
     "weaponType": "Bow",
@@ -3019,6 +3283,94 @@
     "refinements": {
       "name": "Daylight's Augury",
       "desc": "Elemental Skill and Elemental Burst DMG increased by **12%**/**15%**/**18%**/**21%**/**24%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **10/20/30/48%** / **12.5/25/37.5/60%** / **15/30/45/72%** / **17.5/35/52.5/84%** / **20/40/60/96%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
+    }
+  },
+  "Silvershower Heartstrings": {
+    "name": "Silvershower Heartstrings",
+    "weaponType": "Bow",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.144,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Dryas's Nocturne",
+      "desc": "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by **12%/24%/40%** / **15%/30%/50%** / **18%/36%/60%** / **21%/42%/70%** / **24%/48%/80%**. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by **28%**/**35%**/**42%**/**49%**/**56%**. This effect will be canceled 4s after falling under 3 stacks."
     }
   },
   "Skyward Harp": {

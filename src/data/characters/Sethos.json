@@ -248,7 +248,7 @@
       {
         "name": "Thoth's Revelation",
         "desc": "Displays the location of nearby **resources unique to Sumeru** on the mini-map.",
-        "img": "Sethos/passive_2",
+        "img": "common/Specialties_Sumeru",
         "minAscension": 0
       }
     ],

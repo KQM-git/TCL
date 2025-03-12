@@ -27,7 +27,7 @@
     "talents": [
       {
         "name": "Normal Attack: Dough-Fu",
-        "desc": "**Normal Attack**\nPerforms up to five consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 5 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "img": "Common/Polearm",
         "talentTable": [
           {
@@ -102,12 +102,12 @@
               "82.6%",
               "90.9%",
               "96.6%",
-              "103.3%",
-              "112.3%",
-              "121.4%",
-              "130.5%",
-              "140.4%",
-              "151.8%"
+              "103%",
+              "112%",
+              "121%",
+              "131%",
+              "140%",
+              "152%"
             ]
           },
           {
@@ -115,7 +115,7 @@
             "values": [
               "122%",
               "132%",
-              "141%",
+              "142%",
               "156%",
               "166%",
               "177%",
@@ -207,14 +207,14 @@
             "82.8%",
             "90.0%",
             "95.4%",
-            "100.8%",
-            "108.0%",
-            "115.2%",
-            "122.4%",
-            "129.6%",
-            "136.8%",
-            "144.0%",
-            "153.0%"
+            "101%",
+            "108%",
+            "115%",
+            "122%",
+            "130%",
+            "137%",
+            "144%",
+            "153%"
           ]
         },
         {
@@ -222,17 +222,17 @@
           "values": [
             "88.0%",
             "94.6%",
-            "101.2%",
-            "110.0%",
-            "116.6%",
-            "123.2%",
-            "132.0%",
-            "140.8%",
-            "149.6%",
-            "158.4%",
-            "167.2%",
-            "176.0%",
-            "187.0%"
+            "101%",
+            "110%",
+            "117%",
+            "123%",
+            "132%",
+            "141%",
+            "150%",
+            "158%",
+            "167%",
+            "176%",
+            "187%"
           ]
         },
         {
@@ -368,7 +368,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 681.154541015625
+          "value": 681.15454
         },
         {
           "stat": "Base DEF",
@@ -420,7 +420,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 37.48170471191406
+          "value": 37.481705
         },
         {
           "stat": "Elemental Mastery",
@@ -434,7 +434,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2294.415283203125
+          "value": 2294.4153
         },
         {
           "stat": "Base DEF",
@@ -442,7 +442,7 @@
         },
         {
           "stat": "Base ATK",
-          "value": 47.50156784057617
+          "value": 47.501568
         },
         {
           "stat": "Elemental Mastery",
@@ -456,7 +456,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 2778.3935546875
+          "value": 2778.3936
         },
         {
           "stat": "Base DEF",
@@ -478,7 +478,7 @@
       "statsUp": [
         {
           "stat": "Base HP",
-          "value": 3262.371826171875
+          "value": 3262.3718
         },
         {
           "stat": "Base DEF",

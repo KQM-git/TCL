@@ -1,0 +1,448 @@
+{
+  "name": "Ororon",
+  "star": 4,
+  "weaponType": "Bow",
+  "baseStats": {
+    "hpBase": 775.02234,
+    "attackBase": 20.4792,
+    "defenseBase": 49.2135,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Spiritvessel Snapshot",
+        "desc": "**Normal Attack**\nPerforms up to 3 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, Electro energy will accumulate on the arrowhead. A fully charged arrow will deal **Electro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "img": "Common/Bow",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "50.6%",
+              "54.8%",
+              "58.9%",
+              "64.8%",
+              "68.9%",
+              "73.6%",
+              "80.1%",
+              "86.6%",
+              "93.0%",
+              "100.1%",
+              "107.2%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "44.4%",
+              "48.0%",
+              "51.6%",
+              "56.8%",
+              "60.4%",
+              "64.5%",
+              "70.2%",
+              "75.8%",
+              "81.5%",
+              "87.7%",
+              "93.9%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "69.8%",
+              "75.5%",
+              "81.2%",
+              "89.3%",
+              "95.0%",
+              "101.5%",
+              "110.4%",
+              "119.3%",
+              "128.3%",
+              "138.0%",
+              "147.8%"
+            ]
+          },
+          {
+            "name": "Aimed Shot",
+            "values": [
+              "43.9%",
+              "47.4%",
+              "51.0%",
+              "56.1%",
+              "59.7%",
+              "63.8%",
+              "69.4%",
+              "75.0%",
+              "80.6%",
+              "86.7%",
+              "92.8%"
+            ]
+          },
+          {
+            "name": "Fully-Charged Aimed Shot",
+            "values": [
+              "124%",
+              "133%",
+              "143%",
+              "155%",
+              "164%",
+              "174%",
+              "186%",
+              "198%",
+              "211%",
+              "223%",
+              "236%"
+            ]
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Night's Sling",
+        "desc": "Ororon manifests an ancient mystical technique from the Masters of the Night-Wind as a **Spirit Orb** of midnight shade and throws it at his foe, dealing Nightsoul-aligned **Electro DMG**.\nWhen other opponents are nearby, the Spirit Orb will bounce between them, dealing Nightsoul-aligned **Electro DMG**. Each time Night's Sling is used, each opponent can only be selected as a target once.\nAfter 3 bounces, or if there are no eligible targets left, the Orb will disappear.\n\n**\"People always wish to foretell the future, but that might be because they have yet to discover that which they must do... Sorry, I'm saying complicated things again, aren't I...\"**",
+        "img": "Ororon/skill_1",
+        "talentTable": [
+          {
+            "name": "Spirit Orb DMG",
+            "values": [
+              "197.6%",
+              "212.4%",
+              "227.2%",
+              "247.0%",
+              "261.8%",
+              "276.6%",
+              "296.4%",
+              "316.2%",
+              "335.9%",
+              "355.7%",
+              "375.4%",
+              "395.2%",
+              "419.9%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Dark Voices Echo",
+      "desc": "Ororon works an ancient ritual, dealing Nightsoul-aligned **AoE Electro DMG**, summoning forth a Supersonic Oculus.\n\n**Supersonic Oculus**\n·Continuously taunts nearby opponents and attracts attacks from them.\n·Continuously rotates and fires off sonic waves that deal Nightsoul-aligned **Electro DMG**.\n\n**Those with sharp enough senses can hear the minute voices with which all things speak. That way, they will never lose their way — not even on long, lightless nights.**",
+      "img": "Ororon/ult",
+      "talentTable": [
+        {
+          "name": "Ritual DMG",
+          "values": [
+            "174.4%",
+            "187.5%",
+            "200.5%",
+            "218.0%",
+            "231.1%",
+            "244.1%",
+            "261.6%",
+            "279.0%",
+            "296.5%",
+            "313.9%",
+            "331.3%",
+            "348.8%",
+            "370.6%"
+          ]
+        },
+        {
+          "name": "Soundwave Collision DMG",
+          "values": [
+            "33.2%",
+            "35.7%",
+            "38.2%",
+            "41.5%",
+            "44.0%",
+            "46.5%",
+            "49.8%",
+            "53.1%",
+            "56.4%",
+            "59.8%",
+            "63.1%",
+            "66.4%",
+            "70.6%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "9.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Nightshade Synesthesia",
+        "desc": "After a nearby party member triggers Nightsoul Burst, Ororon will gain 40 Nightsoul points. Within 15s after using his Elemental Skill, when other party members' **Hydro** or **Electro** attacks hit opponents, Ororon will gain 5 Nightsoul points, an effect that can occur every 0.3s for a maximum of 10 times during this 15s duration.\nOroron can have a maximum of 80 Nightsoul points.\n\nAlso, when nearby opponents take **Electro-Charged** reaction DMG or Nightsoul-aligned DMG dealt by other nearby characters, Ororon will consume 10 Nightsoul points (provided he has at least that amount), entering the Nightsoul's Blessing state and triggering the Hypersense effect: Deal Nightsoul-aligned **Electro DMG** based on 160% of Ororon's ATK to at most 4 nearby opponents. The aforementioned effect can trigger once every 1.8s.\n\n**Nightsoul's Blessing: Ororon**\nOroron's Nightsoul's Blessing state lasts 6s.",
+        "img": "Ororon/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Aspect Catalyst",
+        "desc": "After the Elemental Skill **Night's Sling**'s **Spirit Orb** hits an opponent, Ororon will gain the Aspect Sigil effect for 15s.\n\n**Aspect Sigil**\nWhen a nearby active party member hits an opponent with Normal, Charged, or Plunging Attacks, that character will restore 3 Energy. If Ororon is off-field, Ororon will also restore 3 Energy. This effect can trigger once every 1s, and can trigger 3 times per duration.",
+        "img": "Ororon/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Night Realm's Gift: Flowing Fog, Spritely Shadows",
+        "desc": "While in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Ororon. When the active character is currently in the air, the following will trigger when switching to Ororon: Ororon will leap up high. Nightsoul Transmission can be triggered once every 10s by your party.\n\nHolding Aiming Mode will cause Ororon to enter the \"Spiritspeaker\" state, which will allow him to interact with \"Nightspirit Graffiti\" and \"Nightspirit Sigils,\" extracting information and power from them. The rules for interacting with these objects follow the same rules as those governing Iktomisaurus interactions.\n\nAdditionally, holding the jump button will cause Ororon to consume 75 Stamina and leap. In areas within Natlan where Phlogiston mechanics are present, Ororon will prioritize consuming 5 Phlogiston to leap to a height higher still.\nWhen in the air, Ororon can Hold his Normal Attack to consume Phlogiston or Stamina and enter Aiming Mode.",
+        "img": "Ororon/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "The Art of Skinchanging",
+        "desc": "Increases gliding SPD for your own party members by 15%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Ororon/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Trails Amidst the Forest Fog",
+        "desc": "The Elemental Skill **Night's Sling**'s **Spirit Orb** can bounce 2 additional times.\nAdditionally, after the **Spirit Orb** hits an opponent, it will apply the Nighttide effect to them for 12s. Opponents affected by Nighttide take 50% increased DMG from Hypersense triggered by the Passive Talent, \"Nightshade Synesthesia.\" Unlock the aforementioned Passive Talent to trigger this effect.",
+        "img": "Ororon/const_0"
+      },
+      {
+        "name": "King Bee of the Hidden Honeyed Wine",
+        "desc": "After using his Elemental Burst, **Dark Voices Echo**, Ororon will obtain the Spiritual Supersense effect for 9s.\n\n**Spiritual Supersense**\nGain 8% **Electro DMG Bonus**.\nAdditionally, during this time, every additional opponent hit by the Elemental Burst **Dark Voices Echo** or **Supersonic Oculus** will grant Ororon a further 8% **Electro DMG Bonus**. The maximum that can be gained this way is 32% **Electro DMG Bonus**.",
+        "img": "Ororon/const_1"
+      },
+      {
+        "name": "Roosting Bat's Spiritcage",
+        "desc": "Increases the Level of **Dark Voices Echo** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ororon/const_2"
+      },
+      {
+        "name": "As the Mysteries of the Night Wind",
+        "desc": "The **Supersonic Oculus** summoned by the Elemental Burst **Dark Voices Echo** rotates 25% faster.\nAdditionally, Ororon will restore 8 Energy to himself after using **Dark Voices Echo**.",
+        "img": "Ororon/const_3"
+      },
+      {
+        "name": "A Gift For the Soul",
+        "desc": "Increases the Level of **Night's Sling** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ororon/const_4"
+      },
+      {
+        "name": "Ode to Deep Springs",
+        "desc": "After triggering Hypersense through the Passive Talent, Nightshade Synesthesia, your current active character's ATK is increased by 10% for 9s. Max 3 stacks, each stack is counted independently.\nAdditionally, when you use the Elemental Burst **Dark Voices Echo**, you will trigger one instance of an effect equivalent to Hypersense, dealing 200% of its original DMG.\nYou must unlock the Passive Talent \"Nightshade Synesthesia\" first.",
+        "img": "Ororon/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 578.9814
+        },
+        {
+          "stat": "Base DEF",
+          "value": 36.765
+        },
+        {
+          "stat": "Base ATK",
+          "value": 15.29937
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 990.36285
+        },
+        {
+          "stat": "Base DEF",
+          "value": 62.8875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 26.169975
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1538.8716
+        },
+        {
+          "stat": "Base DEF",
+          "value": 97.7175
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.664116
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1950.253
+        },
+        {
+          "stat": "Base DEF",
+          "value": 123.84
+        },
+        {
+          "stat": "Base ATK",
+          "value": 51.53472
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2361.6345
+        },
+        {
+          "stat": "Base DEF",
+          "value": 149.9625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 62.405327
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2773.016
+        },
+        {
+          "stat": "Base DEF",
+          "value": 176.085
+        },
+        {
+          "stat": "Base ATK",
+          "value": 73.27593
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

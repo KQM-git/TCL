@@ -68,6 +68,18 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 </Weapon>
 
+### Starcaller's Watch
+
+<Weapon weapon="Starcaller's Watch" weapons={catalysts} />
+
+### Sunny Morning Sleep-In
+
+<Weapon weapon="Sunny Morning Sleep-In" weapons={catalysts} />
+
+### Surf's Up
+
+<Weapon weapon="Surf's Up" weapons={catalysts} />
+
 ### Tome of the Eternal Flow
 
 <Weapon weapon="Tome of the Eternal Flow" weapons={catalysts} />
@@ -79,6 +91,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 <Weapon weapon="Tulaytullah's Remembrance" weapons={catalysts} />
 
 ## 4 Stars
+
+### Ash-Graven Drinking Horn
+
+<Weapon weapon="Ash-Graven Drinking Horn" weapons={catalysts} />
 
 ### Ballad of the Boundless Blue
 
@@ -162,6 +178,10 @@ import FavSeries from './\_common/fav_series.md';
 
 </Weapon>
 
+### Ring of Yaxche
+
+<Weapon weapon="Ring of Yaxche" weapons={catalysts} />
+
 ### Royal Grimoire
 
 <Weapon weapon="Royal Grimoire" weapons={catalysts}>
@@ -206,6 +226,10 @@ import SacSeries from './\_common/sac_series.md';
 * Evenstar buff begins 64 frames after it's equipped, all timers are reset when removed or when enter/exit domains \(including challenge again, abyss try again, etc.\), allowing the buff to reapply 64 frames after re-equipping or enter/exit domains regardless of the previous timer.
 
 </Weapon>
+
+### Waveriding Whirl
+
+<Weapon weapon="Waveriding Whirl" weapons={catalysts} />
 
 ### Wine and Song
 

@@ -17,6 +17,10 @@ import bows from '@site/src/data/weapons/Bow.json'
 
 </Weapon>
 
+### Astral Vulture's Crimson Plumage
+
+<Weapon weapon="Astral Vulture's Crimson Plumage" weapons={bows} />
+
 ### Elegy for the End
 
 <Weapon weapon="Elegy for the End" weapons={bows}>
@@ -44,6 +48,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 * **Polar Star** has no ICD for gaining independent stacks.
 
 </Weapon>
+
+### Silvershower Heartstrings
+
+<Weapon weapon="Silvershower Heartstrings" weapons={bows} />
 
 ### Skyward Harp
 
@@ -73,9 +81,9 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 </Weapon>
 
-### Compound Bow
+### Chain Breaker
 
-<Weapon weapon="Compound Bow" weapons={bows} />
+<Weapon weapon="Chain Breaker" weapons={bows} />
 
 ### Cloudforged
 
@@ -84,6 +92,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 * Gaining a stack of Cloudforged's passive refreshes both stacks.
 
 </Weapon>
+
+### Compound Bow
+
+<Weapon weapon="Compound Bow" weapons={bows} />
 
 ### End of the Line
 
@@ -106,6 +118,10 @@ import FavSeries from './\_common/fav_series.md';
 <FavSeries/>
 
 </Weapon>
+
+### Flower-Wreathed Feathers
+
+<Weapon weapon="Flower-Wreathed Feathers" weapons={bows} />
 
 ### Hamayumi
 

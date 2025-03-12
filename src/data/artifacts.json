@@ -645,5 +645,31 @@
         "desc": "After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers if the equipping character is off-field."
       }
     ]
+  },
+  "Scroll of the Hero of Cinder City": {
+    "name": "Scroll of the Hero of Cinder City",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy."
+      },
+      {
+        "count": 4,
+        "desc": "After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack."
+      }
+    ]
+  },
+  "Obsidian Codex": {
+    "name": "Obsidian Codex",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by 15%."
+      },
+      {
+        "count": 4,
+        "desc": "After the equipping character consumes 1 Nightsoul point while on the field, CRIT Rate increases by 40% for 6s. This effect can trigger once every second."
+      }
+    ]
   }
 }

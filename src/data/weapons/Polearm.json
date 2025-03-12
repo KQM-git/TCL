@@ -1085,6 +1085,94 @@
       "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
     }
   },
+  "Footprint of the Rainbow": {
+    "name": "Footprint of the Rainbow",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "DEF%",
+        "init": 0.1126,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Pact of Flowing Springs",
+      "desc": "Using an Elemental Skill increases DEF by **16%**/**20%**/**24%**/**28%**/**32%** for 15s."
+    }
+  },
   "Kitain Cross Spear": {
     "name": "Kitain Cross Spear",
     "weaponType": "Polearm",
@@ -1437,6 +1525,94 @@
       "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **16%**/**20%**/**24%**/**28%**/**32%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
     }
   },
+  "Mountain-Bracing Bolt": {
+    "name": "Mountain-Bracing Bolt",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.066667,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Hope Beyond the Peaks",
+      "desc": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by **12%**/**15%**/**18%**/**21%**/**24%**. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by **12%**/**15%**/**18%**/**21%**/**24%** for 8s."
+    }
+  },
   "Prospector's Drill": {
     "name": "Prospector's Drill",
     "weaponType": "Polearm",
@@ -1787,6 +1963,94 @@
     "refinements": {
       "name": "Focus",
       "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+    }
+  },
+  "Tamayuratei no Ohanashi": {
+    "name": "Tamayuratei no Ohanashi",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.066667,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Busybody's Running Light",
+      "desc": "Increase ATK by **20%**/**25%**/**30%**/**35%**/**40%** and Movement SPD by 10% for 10s when using an Elemental Skill."
     }
   },
   "\"The Catch\"": {
@@ -2227,6 +2491,94 @@
     "refinements": {
       "name": "Timeless Dream: Eternal Stove",
       "desc": "ATK increased by **28%**/**35%**/**42%**/**49%**/**56%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **80%**/**90%**/**100%**/**110%**/**120%** ATK. Gain **30%**/**35%**/**40%**/**45%**/**50%** Energy Recharge for 12s after using an Elemental Burst."
+    }
+  },
+  "Lumidouce Elegy": {
+    "name": "Lumidouce Elegy",
+    "weaponType": "Polearm",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.072,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Bright Dawn Overture",
+      "desc": "ATK increased by **15%**/**19%**/**23%**/**27%**/**31%**. After the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by **18%**/**23%**/**28%**/**33%**/**38%**. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore **12**/**13**/**14**/**15**/**16** Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field."
     }
   },
   "Primordial Jade Winged-Spear": {
