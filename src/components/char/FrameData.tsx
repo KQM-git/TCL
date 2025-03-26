@@ -18,6 +18,7 @@ const nameMap: Record<keyof FrameTab, string> = {
   dash: "Dash",
   jump: "Jump",
   swap: "Swap",
+  arkhe: "Arkhe",
   cd: "CD",
   energy: "Energy",
   notes: "Notes",

@@ -4,9 +4,10 @@ import { Character, TalentTable, TalentValue } from '@site/src/data/types'
 import { getTalent } from '@site/src/utils/skill'
 import { ReactElement } from 'react-markdown/lib/react-markdown'
 
-export default function Talent({ char, skill }: {
+export default function Talent({ char, skill, max }: {
   char: Character
   skill: number | string
+  max: number | undefined
 }) {
   const talent = getTalent(char, skill)
   const table = talent.talentTable
