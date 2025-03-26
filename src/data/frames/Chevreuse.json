@@ -1,0 +1,91 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 11,
+        "hitlag": 0.06,
+        "next_na": 31,
+        "ca": 35,
+        "walk": 41
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 12,
+        "hitlag": 0.06,
+        "next_na": 34,
+        "ca": 36,
+        "walk": 41
+    },
+    {
+        "name": "N3",
+        "hitmark": [15, 10],
+        "hitlag": [0, 0.06],
+        "next_na": 41,
+        "ca": 44,
+        "walk": 54
+    },
+    {
+        "name": "N4",
+        "hitmark": 33,
+        "hitlag": 0,
+        "next_na": 64,
+        "walk": 67
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 27,
+        "hitlag": 0,
+        "n1": 58,
+        "skill": 58,
+        "burst": 58,
+        "walk": 65,
+        "swap": 57
+    },
+    "Skill": [
+    {
+        "name": "Press",
+        "hitmark": 27,
+        "n1": 31,
+        "burst": 31,
+        "walk": 24,
+        "dash": 23,
+        "jump": 26,
+        "swap": 24,
+        "cd": 18,
+        "arkhe": 59
+    },
+    {
+        "name": "Hold",
+        "hitmark": 19,
+        "n1": 25,
+        "burst": 26,
+        "walk": 24,
+        "dash": 21,
+        "jump": 23,
+        "arkhe": 55,
+        "swap": 23,
+        "cd": 13,
+        "notes": ["Enter aim mode (Hold): 11f", "Max duration (Hold): 324f"]
+    }
+    ],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 58,
+        "n1": 57,
+        "skill": 59,
+        "walk": 61,
+        "dash": 57,
+        "jump": 57,
+        "swap": 56,
+        "cd": 0,
+        "energy": 7,
+        "notes": ["Secondary explosions spawn: 57f", "First secondary explosion hitmark: 24f", "Additional delay per explosion: 9f"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

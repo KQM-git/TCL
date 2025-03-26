@@ -101,6 +101,7 @@ export interface FrameTab {
     walk?: FrameInfo
     dash?: FrameInfo
     jump?: FrameInfo
+    arkhe?: FrameInfo
     swap?: FrameInfo
     cd?: FrameInfo
     energy?: FrameInfo
