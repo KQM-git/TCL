@@ -73,7 +73,7 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Skill    | Mortuary Rite |
 | :------------- | :------- | :------------ |
 | DMG \(T9%\)    | 221.68%  | 266.56%       |
-| Particles      | 3 \(\-\) | 1~2 \(1:2\)   |
+| Particles      | 3 \(\-\) | 1~2 \(2:1\)   |
 | GU             | 1U       | 1U            |
 | ICD            | 0.2s     | None          |
 | Snapshot       | Dynamic  | Dynamic       |

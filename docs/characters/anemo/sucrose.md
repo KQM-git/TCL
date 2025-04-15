@@ -107,7 +107,7 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 251.6%   | 74.8%                    |
 | GU                | 1U       | 1U                       |
 | ICD               | None     | None                     |
-| Snapshot?         | Snapshot | Snapshot                 |
+| Snapshot          | Snapshot | Snapshot                 |
 | DMG Element       | Anemo    | Absorbed Element         |
 | DMG Type          | Burst    | Burst                    |
 | Energy Cost       | 80       | -                        |
