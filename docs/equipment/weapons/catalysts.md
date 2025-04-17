@@ -90,6 +90,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Tulaytullah's Remembrance" weapons={catalysts} />
 
+### Vivid Notions
+
+<Weapon weapon="Vivid Notions" weapons={catalysts} />
+
 ## 4 Stars
 
 ### Ash-Graven Drinking Horn

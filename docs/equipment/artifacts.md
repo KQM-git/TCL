@@ -106,6 +106,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 </Artifact>
 
+### Finale of the Deep Galleries
+
+<Artifact artifact="Finale of the Deep Galleries" />
+
 ### Flower of Paradise Lost
 
 <Artifact artifact="Flower of Paradise Lost" />
@@ -161,6 +165,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * The 4-Piece set holder does not have to be on-field to receive the 35% damage bonus.
 
 </Artifact>
+
+### Long Night's Oath
+
+<Artifact artifact="Long Night's Oath" />
 
 ### Maiden Beloved
 

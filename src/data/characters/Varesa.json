@@ -1,0 +1,580 @@
+{
+  "name": "Varesa",
+  "star": 5,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 988.59283,
+    "attackBase": 27.7438,
+    "defenseBase": 60.84711,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: By the Horns",
+        "desc": "**Normal Attack**\nGotta try... to do battle like the greatest champion luchadors do! Varesa launches up to 3 strikes, dealing **Electro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to headbutt opponents in front, dealing Nightsoul-aligned **Electro DMG** and using the momentum to leap into the air.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing Nightsoul-aligned **AoE Electro DMG** upon impact. If Varesa is in a combat state upon landing, or if the shockwave from her plunging attack hits an opponent, she will gain 25 Nightsoul points. She enters the Fiery Passion state upon reaching maximum Nightsoul points through this method.\n\n**Fiery Passion**\nIn this state, Varesa's Normal, Charged, and Plunging Attacks will gain corresponding buffs:\n\n**Normal Attack**\nFight like a superstar champion luchador! Launches up to 3 fierce strikes, dealing greater **Electro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to slam into her opponents, dealing greater amounts of Nightsoul-aligned **Electro DMG** and using the momentum to leap into the air.\n\n**Plunging Attack**\nConsumes all her Nightsoul points and slams down on the ground from mid-air, dealing DMG to opponents in her path and dealing greater amounts of Nightsoul-aligned **AoE Electro DMG** upon hitting the ground.",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "46.8%",
+              "50.3%",
+              "53.8%",
+              "58.5%",
+              "62.0%",
+              "65.5%",
+              "70.2%",
+              "74.8%",
+              "79.5%",
+              "84.2%",
+              "88.9%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "40.0%",
+              "43.0%",
+              "46.0%",
+              "50.0%",
+              "53.0%",
+              "56.0%",
+              "60.0%",
+              "64.0%",
+              "68.0%",
+              "72.1%",
+              "76.1%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "56.3%",
+              "60.5%",
+              "64.8%",
+              "70.4%",
+              "74.6%",
+              "78.8%",
+              "84.5%",
+              "90.1%",
+              "95.7%",
+              "101.4%",
+              "107.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "89.3%",
+              "96.0%",
+              "102.7%",
+              "111.6%",
+              "118.3%",
+              "125.0%",
+              "133.9%",
+              "142.8%",
+              "151.8%",
+              "160.7%",
+              "169.6%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "74.6%",
+              "80.7%",
+              "86.7%",
+              "95.4%",
+              "101.5%",
+              "108.4%",
+              "118.0%",
+              "127.5%",
+              "137.0%",
+              "147.4%",
+              "157.8%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "149%/186%",
+              "161%/201%",
+              "173%/217%",
+              "191%/238%",
+              "203%/253%",
+              "217%/271%",
+              "236%/295%",
+              "255%/318%",
+              "274%/342%",
+              "295%/368%",
+              "316%/394%"
+            ]
+          },
+          {
+            "name": "Fiery Passion 1-Hit DMG",
+            "values": [
+              "54.4%",
+              "58.5%",
+              "62.6%",
+              "68.0%",
+              "72.1%",
+              "76.2%",
+              "81.6%",
+              "87.1%",
+              "92.5%",
+              "97.9%",
+              "103.4%"
+            ]
+          },
+          {
+            "name": "Fiery Passion 2-Hit DMG",
+            "values": [
+              "52.0%",
+              "55.9%",
+              "59.8%",
+              "65.0%",
+              "68.9%",
+              "72.8%",
+              "78.0%",
+              "83.2%",
+              "88.4%",
+              "93.7%",
+              "98.9%"
+            ]
+          },
+          {
+            "name": "Fiery Passion 3-Hit DMG",
+            "values": [
+              "73.6%",
+              "79.1%",
+              "84.6%",
+              "92.0%",
+              "97.5%",
+              "103.0%",
+              "110.4%",
+              "117.7%",
+              "125.1%",
+              "132.5%",
+              "139.8%"
+            ]
+          },
+          {
+            "name": "Fiery Passion Charged Attack DMG",
+            "values": [
+              "92.6%",
+              "99.6%",
+              "106.5%",
+              "115.8%",
+              "122.7%",
+              "129.7%",
+              "139.0%",
+              "148.2%",
+              "157.5%",
+              "166.8%",
+              "176.0%"
+            ]
+          },
+          {
+            "name": "Fiery Passion Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Fiery Passion Plunge DMG",
+            "values": [
+              "74.6%",
+              "80.7%",
+              "86.7%",
+              "95.4%",
+              "101.5%",
+              "108.4%",
+              "118.0%",
+              "127.5%",
+              "137.0%",
+              "147.4%",
+              "157.8%"
+            ]
+          },
+          {
+            "name": "Fiery Passion Low/High Plunge DMG",
+            "values": [
+              "224%/279%",
+              "242%/302%",
+              "260%/325%",
+              "286%/357%",
+              "304%/380%",
+              "325%/406%",
+              "354%/442%",
+              "382%/478%",
+              "411%/513%",
+              "442%/552%",
+              "473%/591%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Riding the Night-Rainbow",
+        "desc": "With footwork swift as lightning and fierce as thunder, Varesa displays the true spirit of lucha libre, rushing forward a certain distance and dealing Nightsoul-aligned **Electro DMG** to opponents in her path.\nAfter using this Skill, Varesa gains 20 Nightsoul points and gains the \"Follow-Up Strike\" effect: Varesa has increased interruption resistance during this time, and upon pressing her Normal Attack, she will quickly unleash a Charged Attack that does not consume Stamina. \"Follow-Up Strike\" will be canceled after Varesa uses a Charged Attack.\nShe will use different techniques based on whether the skill is Tapped or Held.\n\n**Tap**\nQuickly rush a certain distance forward.\n\n**Hold**\nVaresa enters the Nightsoul's Blessing state and switches to Sudden Onrush mode.\n\n**Sudden Onrush**\nContinuously consumes Nightsoul points. In this state, Varesa's Movement SPD and interruption resistance are increased. She can use terrain to execute flying leaps or consume additional Nightsoul points to traverse atop water or liquid Phlogiston while remaining immune to DMG from the latter.\n\n**Nightsoul's Blessing: Varesa**\nWhen she runs out of Nightsoul points, her Nightsoul's Blessing state will be canceled. When Varesa is in the Sudden Onrush state or Fiery Passion state, she will always be counted as being in the Nightsoul's Blessing state.\n\nHas 2 charges. When Varesa enters the Fiery Passion state, she will obtain an additional Tap charge of her Elemental Skill and its DMG will be increased.\n\n**Fiery Passion**\n· While not in the Fiery Passion state, Varesa can use Plunging Attacks to gain Nightsoul points. She will enter Fiery Passion when she reaches maximum Nightsoul points via this method, or when she uses her Elemental Burst **Guardian Vent!**\n· While in the Fiery Passion state, her Normal Attacks, Elemental Skill, and Elemental Burst will gain unique buffs. She can also use a special Elemental Burst shortly after using a Plunging Attack.\n· The Fiery Passion state lasts for up to 15s and will end when she runs out of Nightsoul points or after she leaves combat for a period of time.\n\n**\"Right now, I'm my own hero.\"**",
+        "img": "Varesa/skill_1",
+        "talentTable": [
+          {
+            "name": "Rush DMG",
+            "values": [
+              "74.5%",
+              "80.1%",
+              "85.7%",
+              "93.1%",
+              "98.7%",
+              "104.3%",
+              "111.7%",
+              "119.2%",
+              "126.6%",
+              "134.1%",
+              "141.5%",
+              "149.0%",
+              "158.3%"
+            ]
+          },
+          {
+            "name": "Fiery Passion Rush DMG",
+            "values": [
+              "106.4%",
+              "114.4%",
+              "122.4%",
+              "133.0%",
+              "141.0%",
+              "149.0%",
+              "159.6%",
+              "170.2%",
+              "180.9%",
+              "191.5%",
+              "202.2%",
+              "212.8%",
+              "226.1%"
+            ]
+          },
+          {
+            "name": "Follow-Up Strike Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "Nightsoul Point Limit",
+            "value": "40.0"
+          },
+          {
+            "name": "CD",
+            "value": "9.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Guardian Vent!",
+      "desc": "Leaps into the air before using the momentum of the drop to unleash a powerful flying kick, dealing Nightsoul-aligned **AoE Electro DMG** to opponents — just like those heroes of justice in woven scrolls for kids!\nAfter using this Skill, Varesa's Nightsoul points will be restored to maximum and she will enter the Fiery Passion state.\n\nIn the Fiery Passion state, Varesa's Elemental Burst will deal a greater amount of Nightsoul-aligned **AoE Electro DMG**.\n\nAdditionally, she will briefly activate Apex Drive after using a Plunging Attack while in her Fiery Passion state.\n\n**Apex Drive**\nIncreases Varesa's interruption resistance. While affected by Apex Drive, Varesa can ignore her Elemental Burst CD and consume less Energy to use her special Elemental Burst, \"Guardian Vent: Volcano Kablam\": This causes her to use the especially powerful Plunging Attack, the \"Thunderous Tornado Eruption,\" which deals Nightsoul-aligned **AoE Electro DMG** upon landing before causing her to exit Apex Drive. This DMG is considered Plunging Attack DMG.\nVaresa will exit Apex Drive after using her Elemental Skill.\n\n**In truth, the original name Varesa gave this move was the \"Invincible Dynamic Heroic Justice Super Mega Ultimate Thundercrash Sky-Splitting Supersonic Boom Kick.\" Alas, this name proved too long, and she was too embarrassed to shout it in front of everyone, even with her mask on. As such, she changed it to its present title instead.**",
+      "img": "Varesa/ult",
+      "talentTable": [
+        {
+          "name": "Flying Kick DMG",
+          "values": [
+            "345.1%",
+            "371.0%",
+            "396.9%",
+            "431.4%",
+            "457.3%",
+            "483.2%",
+            "517.7%",
+            "552.2%",
+            "586.7%",
+            "621.2%",
+            "655.7%",
+            "690.2%",
+            "733.4%"
+          ]
+        },
+        {
+          "name": "Fiery Passion Flying Kick DMG",
+          "values": [
+            "575.2%",
+            "618.3%",
+            "661.5%",
+            "719.0%",
+            "762.1%",
+            "805.3%",
+            "862.8%",
+            "920.3%",
+            "977.8%",
+            "1035.4%",
+            "1092.9%",
+            "1150.4%",
+            "1222.3%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        },
+        {
+          "name": "Volcano Kablam DMG",
+          "values": [
+            "402.6%",
+            "432.8%",
+            "463.0%",
+            "503.3%",
+            "533.5%",
+            "563.7%",
+            "604.0%",
+            "644.2%",
+            "684.5%",
+            "724.8%",
+            "765.0%",
+            "805.3%",
+            "855.6%"
+          ]
+        },
+        {
+          "name": "Volcano Kablam Energy Cost",
+          "value": "30"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Tag-Team Triple Jump!",
+        "desc": "After using the Elemental Skill **Riding the Night-Rainbow**, Varesa gains \"Rainbow Crash\" for 5s.\nDuring this time, when Varesa uses a Plunging Attack, the shockwave DMG dealt when she hits the ground is increased by 50% of her ATK. If Varesa is in the Fiery Passion state, this ground impact DMG is increased by 180% of her ATK instead.\n\nThe Rainbow Crash effect will be canceled once a ground impact hits an opponent, or when its duration expires.",
+        "img": "Varesa/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "The Hero Twice-Returned!",
+        "desc": "When a nearby party member triggers a Nightsoul Burst, Varesa's ATK increases by 35% for 12s. Max 2 stacks. Each stack's duration is counted independently.",
+        "img": "Varesa/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Night Realm's Gift: A Torch That Incinerates Evil",
+        "desc": "After Nightsoul points have been fully depleted, Varesa will switch to using Phlogiston to maintain the Sudden Onrush mode from her Nightsoul's Blessing.\nWhile in an area with Phlogiston Mechanics within Natlan, Nightsoul Transmission: Varesa can be used. When the current active character is sprinting or in movement modes caused by certain Talents, or at a certain height in the air, switching to Varesa will trigger the following: Varesa enters the Nightsoul's Blessing state, switches to Sudden Onrush mode, and obtains 20 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own party.\nWhile in an area with Phlogiston Mechanics within Natlan, Varesa will not take fall DMG when using terrain differences to make leaps.",
+        "img": "Common/Natlan_Run",
+        "minAscension": 0
+      },
+      {
+        "name": "Blazing Heart, Singular Advance!",
+        "desc": "Varesa's Sprint speed is increased. When she is not in combat, her Sprint Stamina consumption will also increase.\nAdditionally, while in an area with Phlogiston Mechanics within Natlan, your party members will restore 20 Phlogiston when consuming food. This effect can occur once every 10s and does not take effect in Domains, Trounce Domains, or the Spiral Abyss.",
+        "img": "Varesa/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Undying Passion",
+        "desc": "The effects of the Passive Talent \"Tag-Team Triple Jump!\" are enhanced:\nWhen performing the Special Plunging Attack \"Thunderous Tornado Eruption,\" Varesa will also gain \"Rainbow Crash\" for 5s.\nWhen \"Rainbow Crash\" is in effect, Varesa's Plunging Attack ground impact DMG is increased by 180% of her ATK, whether she is in the Fiery Passion state or not. You must first unlock the Passive Talent \"Tag-Team Triple Jump!\" to access the above effect.\n\nAdditionally, when Varesa is in the Sudden Onrush mode of her Nightsoul's Blessing, she consumes 30% less Nightsoul points or Phlogiston.",
+        "img": "Varesa/const_0"
+      },
+      {
+        "name": "Beyond the Edge of Light",
+        "desc": "Varesa will enter Apex Drive after using a Plunging Attack, regardless of whether she is in the Fiery Passion state or not.\nWhen Apex Drive is active, Varesa's interruption resistance will also further increase.\nAdditionally, Varesa will restore 11.5 Energy when her Plunging Attack ground impact hits an opponent.",
+        "img": "Varesa/const_1"
+      },
+      {
+        "name": "Unbowed Resolve",
+        "desc": "Increases the Level of **Guardian Vent!** by 3.\nMaximum upgrade level is 15.",
+        "img": "Varesa/const_2"
+      },
+      {
+        "name": "The Courage to Press On",
+        "desc": "Varesa will receive various buffs based on her state when using her Elemental Burst **Guardian Vent!** If Varesa:\n· Has neither Fiery Passion nor Apex Drive active, she will gain Diligent Refinement for 15s, which will increase her Plunging Attack ground impact DMG by 500% of her ATK, with a maximum increase of 20,000 DMG. This effect will be canceled once the ground impact hits an opponent, or if its duration ends.\n· If she has either Fiery Passion or Apex Drive active, this instance of her Elemental Burst **Guardian Vent!** deals 100% increased DMG.",
+        "img": "Varesa/const_3"
+      },
+      {
+        "name": "Thoughts Floating on the Warm Breeze",
+        "desc": "Increases the Level of **Normal Attack: By the Horns** by 3.\nMaximum upgrade level is 15.",
+        "img": "Varesa/const_4"
+      },
+      {
+        "name": "A Hero of Justice's Triumph",
+        "desc": "Varesa restores 30 Energy when she enters Apex Drive.\nHer Plunging Attacks and Elemental Burst **Guardian Vent!** gain 10% CRIT Rate and 100% CRIT DMG.\nAdditionally, when Varesa uses the Hold version of her Elemental Skill **Riding the Night-Rainbow**, or Taps her Elemental Skill while in the Sudden Onrush mode, she will restore Nightsoul points up to her maximum.",
+        "img": "Varesa/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 847.62897
+        },
+        {
+          "stat": "Base DEF",
+          "value": 52.1721
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.786062
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1449.8916
+        },
+        {
+          "stat": "Base DEF",
+          "value": 89.24175
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.686684
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2252.9087
+        },
+        {
+          "stat": "Base DEF",
+          "value": 138.66795
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.220848
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2855.1714
+        },
+        {
+          "stat": "Base DEF",
+          "value": 175.7376
+        },
+        {
+          "stat": "Base ATK",
+          "value": 80.121475
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3457.434
+        },
+        {
+          "stat": "Base DEF",
+          "value": 212.80725
+        },
+        {
+          "stat": "Base ATK",
+          "value": 97.022095
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4059.6965
+        },
+        {
+          "stat": "Base DEF",
+          "value": 249.8769
+        },
+        {
+          "stat": "Base ATK",
+          "value": 113.922714
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.192
+        }
+      ]
+    }
+  ]
+}

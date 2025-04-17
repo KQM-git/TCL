@@ -90,6 +90,12 @@ const config = {
           { from: ['/kazuha', '/characters/anemo/kazuha'], to: '/characters/anemo/kaedehara-kazuha' },
           { from: '/evidence/characters/anemo/kazuha', to: '/evidence/characters/anemo/kaedehara-kazuha' },
 
+          { from: ['/lanyan', '/characters/anemo/lanyan'], to: '/characters/anemo/lan-yan' },
+          { from: '/evidence/characters/anemo/lanyan', to: '/evidence/characters/anemo/lan-yan' },
+
+          { from: ['/mizuki', '/characters/anemo/mizuki'], to: '/characters/anemo/yumemizuki-mizuki' },
+          { from: '/evidence/characters/anemo/mizuki', to: '/evidence/characters/anemo/yumemizuki-mizuki' },
+
           { from: ['/ayaka', '/characters/cryo/ayaka'], to: '/characters/cryo/kamisato-ayaka' },
           { from: '/evidence/characters/cryo/ayaka', to: '/evidence/characters/cryo/kamisato-ayaka' },
 
