@@ -4,7 +4,7 @@
     "bonuses": [
       {
         "count": 2,
-        "desc": "Max HP increased by 1000."
+        "desc": "Max HP increased by 1,000."
       },
       {
         "count": 4,
@@ -669,6 +669,32 @@
       {
         "count": 4,
         "desc": "After the equipping character consumes 1 Nightsoul point while on the field, CRIT Rate increases by 40% for 6s. This effect can trigger once every second."
+      }
+    ]
+  },
+  "Long Night's Oath": {
+    "name": "Long Night's Oath",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Plunging Attack DMG increased by 25%."
+      },
+      {
+        "count": 4,
+        "desc": "After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of \"Radiance Everlasting.\" Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently."
+      }
+    ]
+  },
+  "Finale of the Deep Galleries": {
+    "name": "Finale of the Deep Galleries",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Cryo DMG Bonus +15%"
+      },
+      {
+        "count": 4,
+        "desc": "When the equipping character has 0 Elemental Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field."
       }
     ]
   }

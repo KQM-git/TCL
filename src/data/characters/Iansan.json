@@ -1,0 +1,468 @@
+{
+  "name": "Iansan",
+  "star": 4,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 893.5552,
+    "attackBase": 21.54768,
+    "defenseBase": 53.505375,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Weighted Spike",
+        "desc": "**Normal Attack**\nPerforms up to 3 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n\n**Nightsoul State: Swift Stormflight**\nWhile in the Nightsoul's Blessing state: Iansan's Charged Attack will be transformed into the formidable Swift Stormflight, consuming a certain amount of Stamina to stomp fiercely down, dealing Nightsoul-aligned **AoE Electro DMG**.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "47.0%",
+              "50.8%",
+              "54.6%",
+              "60.1%",
+              "63.9%",
+              "68.3%",
+              "74.3%",
+              "80.3%",
+              "86.3%",
+              "92.9%",
+              "99.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "42.8%",
+              "46.2%",
+              "49.7%",
+              "54.7%",
+              "58.2%",
+              "62.2%",
+              "67.6%",
+              "73.1%",
+              "78.6%",
+              "84.5%",
+              "90.5%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "64.4%",
+              "69.6%",
+              "74.9%",
+              "82.4%",
+              "87.6%",
+              "93.6%",
+              "101.8%",
+              "110.1%",
+              "118.3%",
+              "127.3%",
+              "136.3%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "100.3%",
+              "108.4%",
+              "116.6%",
+              "128.3%",
+              "136.4%",
+              "145.8%",
+              "158.6%",
+              "171.4%",
+              "184.2%",
+              "198.2%",
+              "212.2%"
+            ]
+          },
+          {
+            "name": "Swift Stormflight DMG",
+            "values": [
+              "84.2%",
+              "91.0%",
+              "97.9%",
+              "107.7%",
+              "114.5%",
+              "122.4%",
+              "133.1%",
+              "143.9%",
+              "154.7%",
+              "166.4%",
+              "178.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack & Swift Stormflight Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Thunderbolt Rush",
+        "desc": "Iansan charges forward a certain distance, dealing Nightsoul-aligned **Electro DMG** to all opponents in her path.\nAfter this Skill is used, Iansan will regain 54 Nightsoul points and enter the Nightsoul's Blessing state. Within 5s after this is done, using a Normal Attack will trigger 1 quick Swift Stormflight stomp from Iansan that will not consume Stamina.\n\n**Nightsoul's Blessing: Iansan**\nContinuously consumes Nightsoul points. If she runs out, or uses this Skill again, her Nightsoul's Blessing state will end. It has the following properties:\n· Increases Iansan's Movement SPD.\n· Holding sprint will switch Iansan to Rushing Thunderbolt mode, greatly increasing her Movement SPD temporarily. In this mode, Iansan can make flying leaps using terrain, or consume additional Nightsoul points to move on water or liquid Phlogiston while being immune to DMG from the latter.\n\n**\"Faster, stronger! That's what all that hard work is for!\"**",
+        "img": "Iansan/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "286.4%",
+              "307.9%",
+              "329.4%",
+              "358.0%",
+              "379.5%",
+              "401.0%",
+              "429.6%",
+              "458.2%",
+              "486.9%",
+              "515.5%",
+              "544.2%",
+              "572.8%",
+              "608.6%"
+            ]
+          },
+          {
+            "name": "Nightsoul Point Limit",
+            "value": "54.0"
+          },
+          {
+            "name": "CD",
+            "value": "16.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "The Three Principles of Power",
+      "desc": "Iansan's stomping foot shatters the very earth with \"Power,\" dealing Nightsoul-aligned **AoE Electro DMG**. She then whips out her \"Limited-Edition Kinetic Energy Scale (For Workouts).\"\nWhen this Skill is used, Iansan will gain 15 Nightsoul points and enter the Nightsoul's Blessing state.\nWhen the Kinetic Energy Scale leaves the field, Iansan's Nightsoul's Blessing state will end.\n\n**Kinetic Energy Scale**\nThe Kinetic Energy Scale will follow the character around, boosting the ATK of your current active party member in different ways based on Iansan's Nightsoul points.\n· If Iansan has less than 42 Nightsoul points, the ATK bonus will be based on her Nightsoul points and ATK.\n· If Iansan has at least 42 Nightsoul points, the Kinetic Energy Scale will switch to the \"Ardent Support!\" state, in which the ATK bonus will be stronger and based on her ATK alone.\nAdditionally, the Scale will log the distance your current active character (excluding Iansan) has moved so long as it is active, restoring Nightsoul points to Iansan every second based on the distance moved in the previous second.\nThe Scale will disappear once her Nightsoul's Blessing state ends. It will also disappear after 1 second when you are not in a state of combat. While it is active, Iansan's Nightsoul's Blessing state will not end even if she is not on the field.\n\n**\"Power is not about natural talent. Power stems from unceasing practice. Power must be exercised correctly.\"**",
+      "img": "Iansan/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "430.4%",
+            "462.7%",
+            "495.0%",
+            "538.0%",
+            "570.3%",
+            "602.6%",
+            "645.6%",
+            "688.6%",
+            "731.7%",
+            "774.7%",
+            "817.8%",
+            "860.8%",
+            "914.6%"
+          ]
+        },
+        {
+          "name": "High Nightsoul Points ATK Conversion Rate",
+          "value": "27% ATK"
+        },
+        {
+          "name": "Low Nightsoul Points ATK Conversion Rate",
+          "value": "0.5% ATK / Nightsoul Point"
+        },
+        {
+          "name": "Max ATK Bonus",
+          "values": [
+            "330.0",
+            "370.0",
+            "410.0",
+            "450.0",
+            "490.0",
+            "530.0",
+            "570.0",
+            "610.0",
+            "650.0",
+            "690.0",
+            "730.0",
+            "770.0",
+            "810.0"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "Non-Combat State Duration",
+          "value": "1.0s"
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Enhanced Resistance Training",
+        "desc": "After Swift Stormflight hits opponents, Iansan will gain the Precise Movement effect for 15s.\nDuring this time, her ATK is increased by 20%, and whenever she regains Nightsoul points through the Kinetic Energy Scale in her Elemental Burst, **The Three Principles of Power**, she will gain 1 extra Nightsoul point. Additionally, when your current active party member consumes or restores Nightsoul points, the extra Nightsoul points Iansan gains the next time she restores Nightsoul points via the Scale will be increased to 4. This effect can occur once every 2.8s.\n\"Precise Movement\" will expire when Iansan's Nightsoul's Blessing state ends.",
+        "img": "Iansan/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Kinetic Energy Gradient Test",
+        "desc": "When a nearby party member triggers a Nightsoul Burst, Iansan will obtain the Warming Up effect for 10s.\nDuring this time, when Iansan restores at least 1 Nightsoul point, she will heal your current active character for 60% of her ATK. This effect can be triggered once every 2.8s.",
+        "img": "Iansan/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Night Realm's Gift: Hard Work and Drive",
+        "desc": "After Nightsoul points have been fully depleted and Iansan is on the field, she will switch to using Phlogiston to maintain her Nightsoul's Blessing.\nWhile in an area with Phlogiston Mechanics within Natlan, Nightsoul Transmission: Iansan can be used. When the current active character is sprinting or in movement modes caused by certain Talents, or at a certain height in the air, switching to Iansan will trigger the following: Iansan enters the Nightsoul's Blessing state and obtains 25 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own party.\nWhile in an area with Phlogiston Mechanics within Natlan, Iansan will not take fall DMG when using terrain differences to make leaps.",
+        "img": "Common/Natlan_Run",
+        "minAscension": 0
+      },
+      {
+        "name": "Caloric Balancing Plan",
+        "desc": "While in an area with Phlogiston Mechanics within Natlan, regain 10 Phlogiston when Phlogiston levels drop below 50%. This can occur once every 10s.",
+        "img": "Iansan/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Starting's Never Easy",
+        "desc": "When Iansan is in combat and is in the Nightsoul's Blessing state, she will restore 15 Elemental Energy for every 6 Nightsoul points she consumes. This effect can trigger once every 18s.",
+        "img": "Iansan/const_0"
+      },
+      {
+        "name": "Laziness is the Enemy!",
+        "desc": "When using the Elemental Burst **The Three Principles of Power**, Iansan will also gain the Precise Movement effect from her Passive Talent \"Enhanced Resistance Training\" for 15s. Additionally, if Iansan is off-field while Precise Movement is active, she will also increase your current active character's ATK by 30%. You must first unlock the Passive Talent \"Enhanced Resistance Training\" to access the above effect.",
+        "img": "Iansan/const_1"
+      },
+      {
+        "name": "Scientific Diet Planning",
+        "desc": "Increases the Level of **Thunderbolt Rush** by 3.\nMaximum upgrade level is 15.",
+        "img": "Iansan/const_2"
+      },
+      {
+        "name": "Slow and Steady Wins the Race",
+        "desc": "When the Kinetic Energy Scale is present, Iansan will gain 2 stacks of Surging Force after your current active character (excluding herself) uses their Elemental Burst. The stacks last until the Scale leaves the field, and Surging Force can be gained once per Scale summoning. Whenever Iansan restores Nightsoul points via the Scale, she will consume 1 Surging Force stack and restore 4 additional Nightsoul points.\nAdditionally, if her Nightsoul restoration from the Scale overflows, Iansan will gain 50% of the overflow the next time she restores Nightsoul points via the Scale.",
+        "img": "Iansan/const_3"
+      },
+      {
+        "name": "We Can Push It Further!",
+        "desc": "Increases the Level of **The Three Principles of Power** by 3.\nMaximum upgrade level is 15.",
+        "img": "Iansan/const_4"
+      },
+      {
+        "name": "Teachings of the Collective of Plenty",
+        "desc": "The Kinetic Energy Scale's duration is increased by 3s.\nAdditionally, when Iansan triggers Nightsoul point restoration, if there is any overflow, she will gain the Extreme Force effect, which increases the DMG dealt by your current active character by 25% for 3s.",
+        "img": "Iansan/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 667.5315
+        },
+        {
+          "stat": "Base DEF",
+          "value": 39.97125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 16.097597
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1141.8302
+        },
+        {
+          "stat": "Base DEF",
+          "value": 68.37187
+        },
+        {
+          "stat": "Base ATK",
+          "value": 27.535364
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1774.2284
+        },
+        {
+          "stat": "Base DEF",
+          "value": 106.23937
+        },
+        {
+          "stat": "Base ATK",
+          "value": 42.78572
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2248.527
+        },
+        {
+          "stat": "Base DEF",
+          "value": 134.64
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.223488
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2722.8257
+        },
+        {
+          "stat": "Base DEF",
+          "value": 163.04062
+        },
+        {
+          "stat": "Base ATK",
+          "value": 65.661255
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3197.1245
+        },
+        {
+          "stat": "Base DEF",
+          "value": 191.44125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 77.09902
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

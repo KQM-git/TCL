@@ -6,7 +6,13 @@ import Tabs from '@theme/Tabs'
 import ArtifactSetBonus from './ArtifactSetBonus'
 
 export default function Artifact({ artifact, children }: { artifact: string, children?: ReactElement | null }) {
-  if (!children) return <ArtifactSetBonus artifact={artifact} />
+  if (!children) {
+    return <Tabs>
+      <TabItem value="desc" label="Description">
+        <ArtifactSetBonus artifact={artifact} />
+      </TabItem>
+    </Tabs>
+  }
   return <Tabs>
     <TabItem value="desc" label="Description">
       <ArtifactSetBonus artifact={artifact} />
