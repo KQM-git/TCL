@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Cooling Treatment",
+        "name": "Cooling Treatment",
         "desc": "**Normal Attack**\nPerforms up to 3 attacks that deal **Hydro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to smack a Pufferball into the air that deals **AoE Hydro DMG** upon landing.\n\n**Plunging Attack**\nGathers the power of Hydro and plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Hydro DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

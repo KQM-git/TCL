@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Shadow-Stealing Spirit Vessel",
+        "name": "Shadow-Stealing Spirit Vessel",
         "desc": "**Normal Attack**\nCalls upon secret arts passed down through the Masters of the Night-Wind from generation to generation, performing up to three strikes that deal **Cryo DMG**.\n\n**Charged Attack**\nEnters Aiming Mode, and after Holding, consumes a certain amount of Stamina to call forth a Frost Star that deals **Cryo DMG** to opponents in its path.\n\n**Plunging Attack**\nGathers the power of Cryo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals **Aoe Cryo DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

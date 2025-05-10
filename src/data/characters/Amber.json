@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Sharpshooter",
+        "name": "Sharpshooter",
         "desc": "**Normal Attack**\nPerforms up to 5 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal **Pyro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
         "img": "Common/Bow",
         "talentTable": [

@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: The Classics of Acupuncture",
+        "name": "The Classics of Acupuncture",
         "desc": "**Normal Attack**\nPerforms up to 4 attacks that deal **Dendro DMG** to opponents in front of him.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Dendro DMG** to opponents in front of him after a short casting time.\n\n**Plunging Attack**\nCalling upon the might of Dendro, Baizhu plunges towards the ground from mid-air, damaging all opponents in his path. Deals **AoE Dendro DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

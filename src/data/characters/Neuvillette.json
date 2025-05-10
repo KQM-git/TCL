@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: As Water Seeks Equilibrium",
+        "name": "As Water Seeks Equilibrium",
         "desc": "**Normal Attack**\nWith light flourishes, Neuvillette commands the tides to unleash a maximum of 3 attacks, dealing **Hydro DMG**.\n\n**Charged Attack Empowerment: Legal Evaluation**\nWhile charging up, Neuvillette will gather the power of water, forming it into a Seal of Arbitration. In this state, Neuvillette can move and change facing, and also absorb any Sourcewater Droplets in a certain AoE.\nEvery Droplet he absorbs will increase the formation speed of the Seal, and will heal Neuvillette.\nWhen the charging is stopped, if the Symbol has yet to be formed, then a Charged Attack will be unleashed. If it has been formed, then a Charged Attack: Equitable Judgment will be unleashed.\n\n**Charged Attack**\nConsumes a fixed amount of Stamina to attack opponents with a rupturing blast of water, dealing **AoE Hydro DMG**.\n\n**Charged Attack: Equitable Judgment**\nUnleashes surging torrents, dealing continuous **AoE Hydro DMG** to all opponents in a straight-line area in front of him.\nEquitable Judgment will not consume any Stamina and lasts 3s.\nIf Neuvillette's HP is above 50%, he will continuously lose HP while using this attack.\n\n**Plunging Attack**\nGathering the might of Hydro, Neuvillette plunges towards the ground from mid-air, damaging all opponents in his path. Deals **AoE Hydro DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

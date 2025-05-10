@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Shuumatsuban Ninja Blade",
+        "name": "Shuumatsuban Ninja Blade",
         "desc": "**Normal Attack**\nPerforms up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash. \n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "img": "Common/Claymore",
         "talentTable": [
@@ -170,7 +170,7 @@
       },
       {
         "name": "Yoohoo Art: Fuuin Dash",
-        "desc": "The special technique of the Yoohoo Ninja Arts!\nSayu curls up into a rolling Fuufuu Windwheel and smashes into opponents at high speed, dealing **Anemo DMG**. When the duration ends, she unleashes a Fuufuu Whirlwind Kick, dealing **AoE Anemo DMG**.\n\n**Press**\nEnters the Fuufuu Windwheel state, rolling forward a short distance before using the Fuufuu Whirlwind Kick.\n\n**Hold**\nRolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state.\nDuring this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick.\nThe Hold version of this skill can trigger Elemental Absorption.\n\nThis skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD.\n\n**Elemental Absorption**\nIf Sayu comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** while in her Windwheel state, she will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use of this skill.\n\n**Sayu can pull this skill off with her eyes closed. This technique was originally created for escaping, but now that she's got a Vision, might as well make her foes eat dirt while she's at it.**",
+        "desc": "The special technique of the Yoohoo Ninja Arts!\nSayu curls up into a rolling Fuufuu Windwheel and smashes into opponents at high speed, dealing **Anemo DMG**. When the duration ends, she unleashes a Fuufuu Whirlwind Kick, dealing **AoE Anemo DMG**.\n\n**#Press**\nEnters the Fuufuu Windwheel state, rolling forward a short distance before using the Fuufuu Whirlwind Kick.\n\n**Hold**\nRolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state.\nDuring this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick.\nThe Hold version of this skill can trigger Elemental Absorption.\n\nThis skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD.\n\n**Elemental Absorption**\nIf Sayu comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** while in her Windwheel state, she will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use of this skill.\n\n**Sayu can pull this skill off with her eyes closed. This technique was originally created for escaping, but now that she's got a Vision, might as well make her foes eat dirt while she's at it.**",
         "img": "Sayu/skill_1",
         "talentTable": [
           {
@@ -192,7 +192,7 @@
             ]
           },
           {
-            "name": "Fuufuu Whirlwind Kick Press DMG",
+            "name": "Fuufuu Whirlwind Kick #Press DMG",
             "values": [
               "158.4%",
               "170.3%",
@@ -394,7 +394,7 @@
       },
       {
         "name": "Egress Prep",
-        "desc": "**Yoohoo Art: Fuuin Dash** gains the following effects:\n·DMG of Fuufuu Whirlwind Kick in Press Mode increased by 3.3%.\n·Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%.",
+        "desc": "**Yoohoo Art: Fuuin Dash** gains the following effects:\n·DMG of Fuufuu Whirlwind Kick in #Press Mode increased by 3.3%.\n·Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%.",
         "img": "Sayu/const_1"
       },
       {

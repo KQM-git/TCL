@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Parthian Shot",
+        "name": "Parthian Shot",
         "desc": "**Normal Attack**\nPerforms up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal **Anemo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path and dealing AoE DMG upon impact.",
         "img": "Common/Bow",
         "talentTable": [

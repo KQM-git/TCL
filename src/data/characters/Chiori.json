@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Weaving Blade",
+        "name": "Weaving Blade",
         "desc": "**Normal Attack**\nPerforms up to 4 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "img": "Common/Sword",
         "talentTable": [
@@ -241,7 +241,7 @@
     "passive": [
       {
         "name": "Tailor-Made",
-        "desc": "Gain different effects depending on the next action you take within a short duration after using **Fluttering Hasode**'s upward sweep. If you Press the Elemental Skill, you will trigger the Tapestry effect. If you Press your Normal Attack, the Tailoring effect will be triggered instead.\n\n**Tapestry**\n· Switches to the next character in your roster.\n· Grants all your party members \"Seize the Moment\": When your active party member's Normal Attacks, Charged Attacks, and Plunging Attacks hit a nearby opponent, \"Tamoto\" will execute a coordinated attack, dealing 100% of Fluttering Hasode's upward sweep DMG as **AoE Geo DMG** at the opponent's location. DMG dealt this way is considered Elemental Skill DMG.\n· \"Seize the Moment\" lasts 8s, and 1 of \"Tamoto\"'s coordinated attack can be unleashed every 2s. 2 such coordinated attacks can occur per \"Seize the Moment\" effect duration.\n\n**Tailoring**\n· Chiori gains **Geo infusion** for 5s.\n\nWhen on the field, if Chiori does not either Press her Elemental Skill or use a Normal Attack within a short time after using Fluttering Hasode's upward sweep, the Tailoring effect will be triggered by default.",
+        "desc": "Gain different effects depending on the next action you take within a short duration after using **Fluttering Hasode**'s upward sweep. If you #Press the Elemental Skill, you will trigger the Tapestry effect. If you #Press your Normal Attack, the Tailoring effect will be triggered instead.\n\n**Tapestry**\n· Switches to the next character in your roster.\n· Grants all your party members \"Seize the Moment\": When your active party member's Normal Attacks, Charged Attacks, and Plunging Attacks hit a nearby opponent, \"Tamoto\" will execute a coordinated attack, dealing 100% of Fluttering Hasode's upward sweep DMG as **AoE Geo DMG** at the opponent's location. DMG dealt this way is considered Elemental Skill DMG.\n· \"Seize the Moment\" lasts 8s, and 1 of \"Tamoto\"'s coordinated attack can be unleashed every 2s. 2 such coordinated attacks can occur per \"Seize the Moment\" effect duration.\n\n**Tailoring**\n· Chiori gains **Geo infusion** for 5s.\n\nWhen on the field, if Chiori does not either #Press her Elemental Skill or use a Normal Attack within a short time after using Fluttering Hasode's upward sweep, the Tailoring effect will be triggered by default.",
         "img": "Chiori/passive_0",
         "minAscension": 1
       },

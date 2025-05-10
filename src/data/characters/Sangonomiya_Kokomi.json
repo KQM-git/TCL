@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: The Shape of Water",
+        "name": "The Shape of Water",
         "desc": "**Normal Attack**\nPerforms up to 3 consecutive attacks that take the form of swimming fish, dealing **Hydro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Hydro DMG** after a short casting time.\n\n**Plunging Attack**\nGathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Hydro DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

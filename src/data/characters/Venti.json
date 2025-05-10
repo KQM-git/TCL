@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Divine Marksmanship",
+        "name": "Divine Marksmanship",
         "desc": "**Normal Attack**\nPerforms up to 6 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal **Anemo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
         "img": "Common/Bow",
         "talentTable": [
@@ -194,7 +194,7 @@
       },
       {
         "name": "Skyward Sonnet",
-        "desc": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\n\n**Press**\nSummons a Wind Domain at the opponent's location, dealing **AoE Anemo DMG** and launching opponents into the air.\n\n**Hold**\nSummons an even larger Wind Domain with Venti as the epicenter, dealing **AoE Anemo DMG** and launching affected opponents into the air.\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\n\nOpponents hit by Skyward Sonnet will fall to the ground slowly.\n\n**In the days when gods and men walked the earth together, the heavens were filled with countless songs. This melody has long since been forgotten.**",
+        "desc": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\n\n**#Press**\nSummons a Wind Domain at the opponent's location, dealing **AoE Anemo DMG** and launching opponents into the air.\n\n**Hold**\nSummons an even larger Wind Domain with Venti as the epicenter, dealing **AoE Anemo DMG** and launching affected opponents into the air.\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\n\nOpponents hit by Skyward Sonnet will fall to the ground slowly.\n\n**In the days when gods and men walked the earth together, the heavens were filled with countless songs. This melody has long since been forgotten.**",
         "img": "Venti/skill_1",
         "talentTable": [
           {

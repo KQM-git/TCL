@@ -1,0 +1,454 @@
+{
+  "name": "Ifa",
+  "star": 4,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 845.2303,
+    "attackBase": 14.95872,
+    "defenseBase": 50.758575,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Rite of Dispelling Winds",
+        "desc": "**Normal Attack**\nPerforms up to 3 attacks, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina and fires off a shot, dealing **AoE Anemo DMG**.\n\n**Plunging Attack**\nPlunges towards the ground from mid-air, damaging all opponents along the path. Deals **AoE Anemo DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "53.6%",
+              "57.6%",
+              "61.6%",
+              "67.0%",
+              "71.0%",
+              "75.1%",
+              "80.4%",
+              "85.8%",
+              "91.1%",
+              "96.5%",
+              "101.9%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "47.5%",
+              "51.0%",
+              "54.6%",
+              "59.3%",
+              "62.9%",
+              "66.5%",
+              "71.2%",
+              "75.9%",
+              "80.7%",
+              "85.4%",
+              "90.2%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "74.8%",
+              "80.4%",
+              "86.0%",
+              "93.4%",
+              "99.1%",
+              "104.7%",
+              "112.1%",
+              "119.6%",
+              "127.1%",
+              "134.6%",
+              "142.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "147.0%",
+              "158.1%",
+              "169.1%",
+              "183.8%",
+              "194.8%",
+              "205.9%",
+              "220.6%",
+              "235.3%",
+              "250.0%",
+              "264.7%",
+              "279.4%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Airborne Disease Prevention",
+        "desc": "It's time for the real bash bros to step up! Ifa calls Cacucu in as backup.\nAfter using this skill, Ifa gains 80 Nightsoul points and enters the **Nightsoul's Blessing** state. In the Nightsoul's Blessing state, Ifa will hover with Cacucu's help. When he uses Normal Attacks in this state, he will use different kinds of **Supporting Fire** depending on whether you Tap or Hold, firing Tonicshots that are capable of healing all party members.\n\nAdditionally, Holding the Elemental Skill **Airborne Disease Prevention** while Ifa is in Nightsoul's Blessing will cause him to use a Nightsoul-aligned Plunging Attack. Letting go of the skill button will interrupt this Plunging Attack to maintain his hover. If Ifa lands due to this Plunging Attack, his Nightsoul's Blessing state will end.",
+        "img": "Ifa/skill_1",
+        "talentTable": [
+          {
+            "name": "Tonicshot DMG",
+            "values": [
+              "133.4%",
+              "143.4%",
+              "153.4%",
+              "166.7%",
+              "176.7%",
+              "186.7%",
+              "200.0%",
+              "213.4%",
+              "226.7%",
+              "240.0%",
+              "253.4%",
+              "266.7%",
+              "283.4%"
+            ]
+          },
+          {
+            "name": "Tonicshot Healing On Hit",
+            "values": [
+              "20.2% Elemental Mastery+48.1",
+              "21.7% Elemental Mastery+53.0",
+              "23.2% Elemental Mastery+58.2",
+              "25.2% Elemental Mastery+63.8",
+              "26.7% Elemental Mastery+69.8",
+              "28.2% Elemental Mastery+76.2",
+              "30.2% Elemental Mastery+83.1",
+              "32.3% Elemental Mastery+90.3",
+              "34.3% Elemental Mastery+97.9",
+              "36.3% Elemental Mastery+105.9",
+              "38.3% Elemental Mastery+114.4",
+              "40.3% Elemental Mastery+123.2",
+              "42.8% Elemental Mastery+132.4"
+            ]
+          },
+          {
+            "name": "Nightsoul Point Limit",
+            "value": "80.0"
+          },
+          {
+            "name": "CD",
+            "value": "7.5s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Compound Sedation Field",
+      "desc": "Fires a Therapeutic Sedative at a (temporarily aggressive) opponent. The sedative will explode on impact, creating a restraining wind current that pulls nearby objects and opponents in while dealing Nightsoul-aligned **AoE Anemo DMG**.\nWhen the Therapeutic Sedative hits an opponent affected by **Hydro**/**Pyro**/**Cryo**/**Electro**, it will apply a **Sedation Mark** to them.",
+      "img": "Ifa/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "508.5%",
+            "546.6%",
+            "584.8%",
+            "635.6%",
+            "673.7%",
+            "711.9%",
+            "762.7%",
+            "813.6%",
+            "864.4%",
+            "915.3%",
+            "966.1%",
+            "1017.0%",
+            "1080.5%"
+          ]
+        },
+        {
+          "name": "Sedation Mark DMG",
+          "values": [
+            "109.0%",
+            "117.1%",
+            "125.3%",
+            "136.2%",
+            "144.4%",
+            "152.5%",
+            "163.4%",
+            "174.3%",
+            "185.2%",
+            "196.1%",
+            "207.0%",
+            "217.9%",
+            "231.5%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Anemo"
+    },
+    "passive": [
+      {
+        "name": "Field Medic's Vision",
+        "desc": "When Ifa is in the Nightsoul's Blessing state, every 1 Nightsoul point out of the total in his entire party will grant him 1 **Rescue Essentials** point. Rescue Essentials will increase the Swirl and Electro-Charged DMG dealt by all nearby party members.",
+        "img": "Ifa/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Mutual Aid Agreement",
+        "desc": "When nearby party members trigger Nightsoul Bursts, Ifa's Elemental Mastery increases by 80 for 10s.",
+        "img": "Ifa/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Night Realm's Gift: Focused Emergency Rescue",
+        "desc": "After his Nightsoul points are exhausted, Ifa will switch to consuming Phlogiston to maintain his Nightsoul's Blessing.\nWhile in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Ifa. When the active character is a certain height in the air, the following will occur when switching to Ifa: Ifa will enter the Nightsoul's Blessing state and gain 32 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.",
+        "img": "Ifa/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Tactical Warm Compress Bandaging",
+        "desc": "While in an area with Phlogiston Mechanics within Natlan, when the current active party member or indwelt saurian has less than 40% HP, Ifa will consume 10 Phlogiston and restore 40% of their HP. This effect can trigger once every 10s, and does not take effect in Domains, Trounce Domains, or the Spiral Abyss.",
+        "img": "Ifa/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Vitiferous Elixir's Concoction",
+        "desc": "When **Supporting Fire** hits an opponent, it will restore 6 Energy for Ifa. One such Energy restoration can be triggered once every 8s.",
+        "img": "Ifa/const_0"
+      },
+      {
+        "name": "Guiding Spirit of Ballistic Prayer",
+        "desc": "When Ifa is in the Nightsoul's Blessing state, every Nightsoul point the party has above a total of 60 will grant Ifa 4 additional **Rescue Essentials** points.\nAdditionally, Ifa's Rescue Essentials limit is increased by 50.\nYou must first unlock the Passive Talent **Field Medic's Vision**.",
+        "img": "Ifa/const_1"
+      },
+      {
+        "name": "Rebuttal in Negotiations With the Night",
+        "desc": "Increases the Level of **Airborne Disease Prevention** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ifa/const_2"
+      },
+      {
+        "name": "Decayed Vessel's Permutation",
+        "desc": "The restraining wind current created by the Elemental Burst **Compound Sedation Field** has its duration extended to 3s.\nAdditionally, Ifa gains 100 Elemental Mastery for 15s after using his Elemental Burst **Compound Sedation Field**.",
+        "img": "Ifa/const_3"
+      },
+      {
+        "name": "Vow of Universal Coexistence",
+        "desc": "Increases the Level of **Compound Sedation Field** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ifa/const_4"
+      },
+      {
+        "name": "Oath on a Feathered Knot",
+        "desc": "When Ifa uses the Hold version of his **Supporting Fire**, there is a 50% chance that he will fire an additional Tonicshot that deals 120% of Ifa's ATK as Anemo DMG. This DMG is considered Normal Attack DMG.\nAdditionally, when he is not in combat, Ifa will consume 20% less Nightsoul points and Phlogiston in his Nightsoul's Blessing state.",
+        "img": "Ifa/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 631.4303
+        },
+        {
+          "stat": "Base DEF",
+          "value": 37.91925
+        },
+        {
+          "stat": "Base ATK",
+          "value": 11.175192
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1080.0781
+        },
+        {
+          "stat": "Base DEF",
+          "value": 64.86188
+        },
+        {
+          "stat": "Base ATK",
+          "value": 19.11546
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1678.2753
+        },
+        {
+          "stat": "Base DEF",
+          "value": 100.78538
+        },
+        {
+          "stat": "Base ATK",
+          "value": 29.702484
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2126.923
+        },
+        {
+          "stat": "Base DEF",
+          "value": 127.728
+        },
+        {
+          "stat": "Base ATK",
+          "value": 37.642754
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2575.5708
+        },
+        {
+          "stat": "Base DEF",
+          "value": 154.67062
+        },
+        {
+          "stat": "Base ATK",
+          "value": 45.58302
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 72
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3024.2188
+        },
+        {
+          "stat": "Base DEF",
+          "value": 181.61325
+        },
+        {
+          "stat": "Base ATK",
+          "value": 53.52329
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 96
+        }
+      ]
+    }
+  ]
+}

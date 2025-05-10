@@ -57,6 +57,10 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 </Weapon>
 
+### Symphonist of Scents
+
+<Weapon weapon="Symphonist of Scents" weapons={polearms} />
+
 ### Vortex Vanquisher
 
 <Weapon weapon="Vortex Vanquisher" weapons={polearms}>

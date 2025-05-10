@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Secret Spear of Wangsheng",
+        "name": "Secret Spear of Wangsheng",
         "desc": "**Normal Attack**\nPerforms up to 6 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "img": "Common/Polearm",
         "talentTable": [
