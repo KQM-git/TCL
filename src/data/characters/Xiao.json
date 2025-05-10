@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Whirlwind Thrust",
+        "name": "Whirlwind Thrust",
         "desc": "**Normal Attack**\nPerforms up to 6 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to perform an upward thrust.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\nXiao does not take DMG from performing Plunging Attacks.",
         "img": "Common/Polearm",
         "talentTable": [

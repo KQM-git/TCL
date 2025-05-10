@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Pure Heart, Pure Dreams",
+        "name": "Pure Heart, Pure Dreams",
         "desc": "**Normal Attack**\nPerforms up to 3 attacks, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina and deals **AoE Anemo DMG** after a short casting time.\n\n**Plunging Attack**\nCalling upon the power of Anemo, she plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Anemo DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Spiritfox Sin-Eater",
+        "name": "Spiritfox Sin-Eater",
         "desc": "**Normal Attack**\nSummons forth kitsune spirits, initiating a maximum of 3 attacks that deal **Electro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Electro DMG** after a short casting time.\n\n**Plunging Attack**\nPlunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals **AoE Electro DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

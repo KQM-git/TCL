@@ -2,8 +2,6 @@
 description: A laid-back orchard manager and warrior of the Collective of Plenty. An aspiring hero who hungers for justice... and lots and lots of food!
 ---
 
-<!-- replace every instance of "Varesa" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and Varesa lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
-
 import char from '@site/src/data/characters/Varesa.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
@@ -62,32 +60,12 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- sword
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              | 2 + 6        |
-| N1C    |           |        |      | -            | -            |
--->
-
-<!-- claymore
-| String       | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Spinning DMG |           |        |      | 60           | 2            |
-| Final DMG    |           |        |      | 120          | 5            |
--->
-
 <!-- polearm/catalyst
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :--- | :----------- | :----------- |
 | CA     |           |        |      |              |              |
 -->
 
-<!-- bow
-| Type          | Talent 9% | Frames | MV/s | GU  | Poise Damage        | Impulse Type      |
-| :------------ | :-------- | :----- | :--- | :-- | :------------------ | :---------------- |
-| Aimed Shot    |           |        |      | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| Fully Charged |           |        |      | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
--->
 
 </div>
 <div class='talent-columns'>

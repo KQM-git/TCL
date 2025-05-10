@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Targeted Treatment",
+        "name": "Targeted Treatment",
         "desc": "**Normal Attack**\nPerforms up to 3 consecutive attacks.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, the power of Hydro will continually accumulate on the arrow. After fully charging, Sigewinne will periodically fire slow-moving Mini-Stration Bubbles toward the target, dealing **Hydro DMG**. When released, an arrow imbued with torrential energy will deal **Hydro DMG** to the opponent hit.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
         "img": "Common/Bow",
         "talentTable": [

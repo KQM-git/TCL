@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Oceanborne",
+        "name": "Oceanborne",
         "desc": "**Normal Attack**\nPerforms up to 5 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, performs a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
         "img": "Common/Claymore",
         "talentTable": [
@@ -186,7 +186,7 @@
       },
       {
         "name": "Tidecaller",
-        "desc": "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\n\n**Press**\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing **Electro DMG**.\n\n**Hold**\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing **Electro DMG**. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\nThe shield possesses the following properties:\n·Has 250% **Electro DMG** Absorption Efficiency.\n·Applies the **Electro element** to Beidou upon activation.\n\n**Conquer the high seas! Pursue the waves and chase the storm!**",
+        "desc": "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\n\n**#Press**\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing **Electro DMG**.\n\n**Hold**\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing **Electro DMG**. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\nThe shield possesses the following properties:\n·Has 250% **Electro DMG** Absorption Efficiency.\n·Applies the **Electro element** to Beidou upon activation.\n\n**Conquer the high seas! Pursue the waves and chase the storm!**",
         "img": "Beidou/skill_1",
         "talentTable": [
           {

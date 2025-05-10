@@ -10,7 +10,7 @@ The TCL is organized so that each page has a corresponding Evidence Vault. The E
 
 ## Quick Links
 
-**Most Recent Characters:** [Varesa](/characters/electro/varesa.md) | [Iansan](/characters/electro/iansan.md)
+**Most Recent Characters:** [Escoffier](/characters/cryo/escoffier.md) | [Ifa](/characters/anemo/ifa.md)
 
 **Elemental Gauge Theory:** [Page](/combat-mechanics/elemental-effects/elemental-gauge-theory)
 

@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Fudou Style Martial Arts",
+        "name": "Fudou Style Martial Arts",
         "desc": "**Normal Attack**\nPerforms up to 5 fisticuffs empowered by a mighty wind, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina and performs a sweeping kick that deals **Anemo DMG**.\n\n**Plunging Attack**\nCalling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals **AoE Anemo DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

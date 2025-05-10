@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Supplicant's Bowmanship",
+        "name": "Supplicant's Bowmanship",
         "desc": "**Normal Attack**\nPerforms up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, Dendro energy will accumulate on the arrowhead. A fully charged arrow will deal **Dendro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
         "img": "Common/Bow",
         "talentTable": [

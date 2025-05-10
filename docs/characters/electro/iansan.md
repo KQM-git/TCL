@@ -2,13 +2,10 @@
 description: Head coach of the fitness club at the Collective of Plenty, and a renowned Natlanese nutritionist.
 ---
 
-<!-- replace every instance of "Iansan" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and Iansan lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
-
 import char from '@site/src/data/characters/Iansan.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # Iansan
-
 <!-- Remove this warning when adding the basic mechs ticket -->
 import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
 

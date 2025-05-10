@@ -200,6 +200,9 @@ import SacSeries from './\_common/sac_series.md';
 
 </Weapon>
 
+### Sequence of Solitude
+<Weapon weapon="Sequence of Solitude" weapons={bows} />
+
 ### The Stringless
 
 <Weapon weapon="The Stringless" weapons={bows} />

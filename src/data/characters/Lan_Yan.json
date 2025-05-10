@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Black Pheasant Strides on Water",
+        "name": "Black Pheasant Strides on Water",
         "desc": "**Normal Attack**\nWields her Feathermoon Rings to perform up to 4 attacks, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to throw out a Feathermoon Ring, dealing **Anemo DMG**.\n\n**Plunging Attack**\nGathers the power of Anemo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Anemo DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

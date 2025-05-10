@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Rapid Ritesword",
+        "name": "Rapid Ritesword",
         "desc": "**Normal Attack**\nPerforms up to 4 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "img": "Common/Sword",
         "talentTable": [
@@ -150,7 +150,7 @@
       },
       {
         "name": "Enigmatic Feint",
-        "desc": "Flicks her mantle and executes an Enigma Thrust, dealing **Anemo DMG**.\nWhen the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second.\nBased on whether you press or hold this ability, she will use Enigma Thrust differently.\n\n**Press**\nShe swiftly uses an Enigma Thrust.\n\n**Hold**\nLynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent. You can control her movement direction during this state, and you can end it prematurely by using this skill again.\nWhen this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust.\n\nA maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled.\n\n**Arkhe: Ousia**\nAt specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned **Anemo DMG**.\n\n**\"Now then, turn your eyes to the stage and continue to enjoy the performance. When I next appear, I'll be where you least expect.\"**",
+        "desc": "Flicks her mantle and executes an Enigma Thrust, dealing **Anemo DMG**.\nWhen the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second.\nBased on whether you #press or hold this ability, she will use Enigma Thrust differently.\n\n**#Press**\nShe swiftly uses an Enigma Thrust.\n\n**Hold**\nLynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent. You can control her movement direction during this state, and you can end it prematurely by using this skill again.\nWhen this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust.\n\nA maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled.\n\n**Arkhe: Ousia**\nAt specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned **Anemo DMG**.\n\n**\"Now then, turn your eyes to the stage and continue to enjoy the performance. When I next appear, I'll be where you least expect.\"**",
         "img": "Lynette/skill_1",
         "talentTable": [
           {

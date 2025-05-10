@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Lightning Touch",
+        "name": "Lightning Touch",
         "desc": "**Normal Attack**\nPerforms up to 4 lightning attacks that deal **Electro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Electro DMG** after a short casting time.\n\n**Plunging Attack**\nGathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Electro DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [
@@ -150,7 +150,7 @@
       },
       {
         "name": "Violet Arc",
-        "desc": "Channels the power of lightning to sweep bothersome matters away.\n\n**Press**\nReleases a homing Lightning Orb.\nOn hit, it deals **Electro DMG** and applies a stack of the Conductive status (max 3 stacks) to opponents in a small AoE.\n\n**Hold**\nAfter an extended casting time, calls down lightning from the heavens, dealing massive **Electro DMG** to all nearby opponents.\nDeals great amounts of extra damage to opponents based on the number of Conductive stacks applied to them, and clears their Conductive status.\n\n**Electro Purple is the raiment of the Witch of Purple Rose.**",
+        "desc": "Channels the power of lightning to sweep bothersome matters away.\n\n**#Press**\nReleases a homing Lightning Orb.\nOn hit, it deals **Electro DMG** and applies a stack of the Conductive status (max 3 stacks) to opponents in a small AoE.\n\n**Hold**\nAfter an extended casting time, calls down lightning from the heavens, dealing massive **Electro DMG** to all nearby opponents.\nDeals great amounts of extra damage to opponents based on the number of Conductive stacks applied to them, and clears their Conductive status.\n\n**Electro Purple is the raiment of the Witch of Purple Rose.**",
         "img": "Lisa/skill_1",
         "talentTable": [
           {

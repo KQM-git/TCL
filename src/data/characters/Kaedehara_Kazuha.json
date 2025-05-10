@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Garyuu Bladework",
+        "name": "Garyuu Bladework",
         "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by Chihayaburu, it will be converted to Plunging Attack: Midare Ranzan.\n\n**Plunging Attack: Midare Ranzan**\nWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to **Anemo DMG** and will create a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.",
         "img": "Common/Sword",
         "talentTable": [
@@ -166,7 +166,7 @@
       },
       {
         "name": "Chihayaburu",
-        "desc": "Unleashes a secret technique as fierce as the rushing wind that pulls objects and opponents towards Kazuha's current position before launching opponents within the AoE, dealing **Anemo DMG** and lifting Kazuha into the air on a rushing gust of wind.\nWithin 10s of remaining airborne after casting Chihayaburu, Kazuha can unleash a powerful Plunging Attack known as Midare Ranzan.\n\n**Press**\nCan be used in mid-air.\n\n**Hold**\nCharges up before unleashing greater **Anemo DMG** over a larger AoE than Press Mode.\n\n**Plunging Attack: Midare Ranzan**\nWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to **Anemo DMG**. On landing, Kazuha creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.\nMidare Ranzan's DMG is considered Plunging Attack DMG.\n\n**\"Wind in branches grieves\nBygone ages, gods of old\nWithered autumn leaves\"**",
+        "desc": "Unleashes a secret technique as fierce as the rushing wind that pulls objects and opponents towards Kazuha's current position before launching opponents within the AoE, dealing **Anemo DMG** and lifting Kazuha into the air on a rushing gust of wind.\nWithin 10s of remaining airborne after casting Chihayaburu, Kazuha can unleash a powerful Plunging Attack known as Midare Ranzan.\n\n**#Press**\nCan be used in mid-air.\n\n**Hold**\nCharges up before unleashing greater **Anemo DMG** over a larger AoE than #Press Mode.\n\n**Plunging Attack: Midare Ranzan**\nWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to **Anemo DMG**. On landing, Kazuha creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.\nMidare Ranzan's DMG is considered Plunging Attack DMG.\n\n**\"Wind in branches grieves\nBygone ages, gods of old\nWithered autumn leaves\"**",
         "img": "Kaedehara_Kazuha/skill_1",
         "talentTable": [
           {
@@ -328,7 +328,7 @@
       },
       {
         "name": "Oozora Genpou",
-        "desc": "When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:\n·Pressing or Holding **Chihayaburu** regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.\n·When gliding, Kaedehara Kazuha regenerates 2 Energy per second.",
+        "desc": "When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:\n·#Pressing or Holding **Chihayaburu** regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.\n·When gliding, Kaedehara Kazuha regenerates 2 Energy per second.",
         "img": "Kaedehara_Kazuha/const_3"
       },
       {

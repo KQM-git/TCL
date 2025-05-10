@@ -2405,6 +2405,94 @@
       "desc": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing **60%**/**75%**/**90%**/**105%**/**120%** ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take **28%**/**35%**/**42%**/**49%**/**56%** more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s."
     }
   },
+  "Sequence of Solitude": {
+    "name": "Sequence of Solitude",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Silent Trigger",
+      "desc": "When an attack hits an opponent, deal AoE DMG equal to **40%**/**50%**/**60%**/**70%**/**80%** of Max HP at the target location. This effect can be triggered once every 15s."
+    }
+  },
   "Song of Stillness": {
     "name": "Song of Stillness",
     "weaponType": "Bow",

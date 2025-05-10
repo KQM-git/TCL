@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Card Force Translocation",
+        "name": "Card Force Translocation",
         "desc": "**Normal Attack**\nPerforms up to 4 consecutive shots with a bow.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, flames will run across the arrowhead before being fired. Different effects will occur based on the time spent charging.\n·Charge Level 1: Fires off a Pyro-infused arrow, dealing **Pyro DMG**.\n·Charge Level 2: Fires off a Prop Arrow that deals **Pyro DMG**, and upon hit, it will summon a Grin-Malkin Hat.\nWhen firing the Prop Arrow, and when Lyney has more than 60% HP, he will consume a portion of his HP to obtain 1 Prop Surplus stack. Max 5 stacks. The effect will be removed after the character spends 30s out of combat.\nThe lowest Lyney can drop to through this method is 60% of his Max HP.\n\n**Grin-Malkin Hat**\n·Can taunt nearby opponents and attract their attacks. Each opponent can only be taunted by the Hat once every 5s.\n·The Hat will inherit a percentage of Lyney's Max HP.\n·If destroyed, or if its duration expires, it will fire off a **Pyrotechnic Strike** at 1 nearby opponent, dealing **Pyro DMG**.\nOnly 1 Hat can exist at any given time.\n\n**Arkhe: Pneuma**\nAt certain intervals, the Prop Arrow will cause a Spiritbreath Thorn to descend upon its hit location, dealing Pneuma-aligned **Pyro DMG**.",
         "img": "Common/Bow",
         "talentTable": [

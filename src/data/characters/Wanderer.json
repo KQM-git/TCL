@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Yuuban Meigen",
+        "name": "Yuuban Meigen",
         "desc": "**Normal Attack**\nPerforms up to 3 attacks using wind blades, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina, gathers a build up of high wind pressure, and deals **AoE Anemo DMG** after a short casting time.\n\n**Plunging Attack**\nCalling upon the power of Anemo, the Wanderer plunges towards the ground from mid-air, damaging all opponents in his path. Deals **AoE Anemo DMG** upon impact with the ground.",
         "img": "Common/Catalyst",
         "talentTable": [

@@ -26,7 +26,7 @@
   "skill": {
     "talents": [
       {
-        "name": "Normal Attack: Soloist's Solicitation",
+        "name": "Soloist's Solicitation",
         "desc": "**Normal Attack**\nPerforms up to 4 consecutive strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or the Singer of Many Waters summoned by her Elemental Skill \"Salon Solitaire\" is present, their lineup will switch in response.\n\n**Arkhe: Seats Sacred and Secular**\nAt intervals, when Furina's Normal Attacks hit, a Spiritbreath Thorn or a Surging Blade will descend based on her current Arkhe alignment, dealing Pneuma- or Ousia-aligned **Hydro DMG**.\nWhen Furina takes the field, her starting Arkhe alignment will be Ousia.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "img": "Common/Sword",
         "talentTable": [
