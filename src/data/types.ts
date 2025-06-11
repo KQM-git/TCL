@@ -86,27 +86,34 @@ export interface Frames {
 }
 
 export type FrameInfo = number | string | (number | string)[];
-export interface FrameTab {
-    name?: string
-    release?: FrameInfo
-    hitmark?: FrameInfo
-    hitlag?: FrameInfo
-    default?: FrameInfo
-    next_na?: FrameInfo
-    n1?: FrameInfo
-    plunge: FrameInfo
-    ca?: FrameInfo
-    skill?: FrameInfo
-    burst?: FrameInfo
-    walk?: FrameInfo
-    dash?: FrameInfo
-    jump?: FrameInfo
-    arkhe?: FrameInfo
-    swap?: FrameInfo
-    cd?: FrameInfo
-    energy?: FrameInfo
-    notes?: string | string[]
-}
+// export interface FrameTab {
+//     name?: string
+//     release?: FrameInfo
+//     hitmark?: FrameInfo
+//     hitlag?: FrameInfo
+//     default?: FrameInfo
+//     next_na?: FrameInfo
+//     n1?: FrameInfo
+//     plunge: FrameInfo
+//     ca?: FrameInfo
+//     skill?: FrameInfo
+//     burst?: FrameInfo
+//     walk?: FrameInfo
+//     dash?: FrameInfo
+//     jump?: FrameInfo
+//     arkhe?: FrameInfo
+//     swap?: FrameInfo
+//     cd?: FrameInfo
+//     energy?: FrameInfo
+//     notes?: string | string[]
+// }
+
+export type FrameTab = {
+    name?: string;
+    notes?: string | string[];
+} & Record<Exclude<string, "name" | "notes">,
+            FrameInfo | undefined>;
+
 
 // Weapon
 export interface Weapon {
