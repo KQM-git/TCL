@@ -94,12 +94,17 @@ export default function PortraitGenerator({
       localStorage.setItem(localStorageKey, JSON.stringify(custom))
   }, [custom])
 
+  const [travelersPortraits, setTravelersPortraits] = useState(roundedTravelers as {
+    name: string;
+    path: string;
+  }[])
+  
   const iconsMisc = [
     {
       name: "Fill slot",
       path: "/img/characters/abstract-user-flat-3-colored.svg",
     },
-    ...travelers
+    ...travelersPortraits
   ]
 
   const iconsChar = Object.entries(charIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([element, icons]) => ({
@@ -245,8 +250,10 @@ export default function PortraitGenerator({
         const isChecked = document.getElementById("charPortraits") as HTMLInputElement;
         if (isChecked.checked) {
           setCharPortraits(iconsChar)
+          setTravelersPortraits(travelers)
         } else {
           setCharPortraits(iconsRoundChar)
+          setTravelersPortraits(roundedTravelers)
         }
       }}/>
     </label> <br/> <br/>
