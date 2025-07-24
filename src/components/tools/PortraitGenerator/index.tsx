@@ -51,18 +51,26 @@ const travelers = [{
   name: "Lumine",
   path: "/img/characters/icon/Lumine.png",
 }]
+const roundedTravelers = [{
+  name: "Aether",
+  path: "/img/characters/round-icon/Aether.png",
+}, {
+  name: "Lumine",
+  path: "/img/characters/round-icon/Lumine.png",
+}]
 const localStorageKey = "portrait-generator-custom-icons"
 
 export default function PortraitGenerator({
-  charIcons, artiIcons, weaponIcons
+  charIcons, roundedCharIcons, artiIcons, weaponIcons
 }: {
   charIcons: Record<string, string[]>,
+  roundedCharIcons: Record<string, string[]>,
   artiIcons: Record<string, string[]>,
   weaponIcons: Record<string, string[]>
 }) {
   const [active, setActive] = useState([{
     name: "Keqing",
-    path: `/img/characters/icon/Keqing.png`,
+    path: `/img/characters/round-icon/Keqing_V2.png`,
     note: "C2+"
   }] as PortraitIcon[])
   const [custom, setCustom] = useState([] as PortraitIcon[])
@@ -86,12 +94,17 @@ export default function PortraitGenerator({
       localStorage.setItem(localStorageKey, JSON.stringify(custom))
   }, [custom])
 
+  const [travelersPortraits, setTravelersPortraits] = useState(roundedTravelers as {
+    name: string
+    path: string
+  }[])
+  
   const iconsMisc = [
     {
       name: "Fill slot",
       path: "/img/characters/abstract-user-flat-3-colored.svg",
     },
-    ...travelers
+    ...travelersPortraits
   ]
 
   const iconsChar = Object.entries(charIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([element, icons]) => ({
@@ -106,6 +119,35 @@ export default function PortraitGenerator({
       elementalIcon: relevant
     })))
   }))
+
+  const iconsRoundChar = Object.entries(roundedCharIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([element, icons]) => ({
+    element,
+    chars: icons.sort().map(name => ({
+      name,
+      path: `/img/characters/round-icon/${filename(name)}.png`
+    })),
+    travelerIcons: elements.filter(x => x.name == element).flatMap(relevant => roundedTravelers.map(traveler => ({
+      ...traveler,
+      name: `${traveler.name} (${relevant.name})`,
+      elementalIcon: relevant
+    })))
+  }))
+
+  const [charPortraits, setCharPortraits] = useState(iconsRoundChar as {
+    element: string
+    chars: {
+        name: string
+        path: string
+    }[]
+    travelerIcons: {
+        name: string
+        elementalIcon: {
+            name: string
+            path: string
+        }
+        path: string
+    }[]
+  }[])
 
   const iconsArtifacts = Object.entries(artiIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([level, icons]) => ({
     level,
@@ -125,8 +167,8 @@ export default function PortraitGenerator({
     }))
   }))
 
-  const allIcons: PortraitIcon[] = [
-    ...iconsChar.flatMap(x => [...x.chars, ...x.travelerIcons]),
+  var allIcons: PortraitIcon[] = [
+    ...charPortraits.flatMap(x => [...x.chars, ...x.travelerIcons]),
     ...elements,
     ...iconsArtifacts.flatMap(x => x.icons),
     ...iconsWeapons.flatMap(x => x.icons),
@@ -201,9 +243,22 @@ export default function PortraitGenerator({
       />}
     </div>
 
+    <br/>
     <h2>Characters</h2>
+    <label>
+      Toggle to swap between different portrait styles: <input type="checkbox" id="charPortraits" onClick={() => {
+        const isChecked = document.getElementById("charPortraits") as HTMLInputElement
+        if (isChecked.checked) {
+          setCharPortraits(iconsChar)
+          setTravelersPortraits(travelers)
+        } else {
+          setCharPortraits(iconsRoundChar)
+          setTravelersPortraits(roundedTravelers)
+        }
+      }}/>
+    </label> <br/> <br/>
     <Tabs>
-      {iconsChar.map(({ element, chars, travelerIcons }) => {
+      {charPortraits.map(({ element, chars, travelerIcons }) => {
         return <TabItem key={element} value={element} label={element}>
           <CharSelector
             icons={chars}
