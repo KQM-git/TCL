@@ -95,8 +95,8 @@ export default function PortraitGenerator({
   }, [custom])
 
   const [travelersPortraits, setTravelersPortraits] = useState(roundedTravelers as {
-    name: string;
-    path: string;
+    name: string
+    path: string
   }[])
   
   const iconsMisc = [
@@ -134,19 +134,19 @@ export default function PortraitGenerator({
   }))
 
   const [charPortraits, setCharPortraits] = useState(iconsRoundChar as {
-    element: string;
+    element: string
     chars: {
-        name: string;
-        path: string;
-    }[];
+        name: string
+        path: string
+    }[]
     travelerIcons: {
-        name: string;
+        name: string
         elementalIcon: {
-            name: string;
-            path: string;
-        };
-        path: string;
-    }[];
+            name: string
+            path: string
+        }
+        path: string
+    }[]
   }[])
 
   const iconsArtifacts = Object.entries(artiIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([level, icons]) => ({
@@ -247,7 +247,7 @@ export default function PortraitGenerator({
     <h2>Characters</h2>
     <label>
       Toggle to swap between different portrait styles: <input type="checkbox" id="charPortraits" onClick={() => {
-        const isChecked = document.getElementById("charPortraits") as HTMLInputElement;
+        const isChecked = document.getElementById("charPortraits") as HTMLInputElement
         if (isChecked.checked) {
           setCharPortraits(iconsChar)
           setTravelersPortraits(travelers)
