@@ -316,7 +316,7 @@ function drawTLDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, siz
 }
 
 function filterName(name: string) {
-  return name.replace(/ Skin[0-9]+| V[0-9]+/g, "");
+  return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "");
 }
 
 function getIndex(effectiveFramePad: number, effectivePortraitPad: number, frameSize: number, e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {
