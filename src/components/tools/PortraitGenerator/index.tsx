@@ -70,7 +70,7 @@ export default function PortraitGenerator({
 }) {
   const [active, setActive] = useState([{
     name: "Keqing",
-    path: `/img/characters/round-icon/Keqing_V2.png`,
+    path: `/img/characters/round-icon/Keqing_Alt1.png`,
     note: "C2+"
   }] as PortraitIcon[])
   const [custom, setCustom] = useState([] as PortraitIcon[])
