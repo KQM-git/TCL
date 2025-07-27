@@ -214,7 +214,8 @@ export default function PortraitGenerator({
     setActive([...active])
   }
   function filterName(name: string) {
-    return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "")
+    // Filter out Skin or Version number and Elements written in parenthesis (for the Travelers)
+    return name.replace(/ Skin[0-9]+| Alt[0-9]+| \([A-z]+\)/g, "")
   }
 
   return <div>
