@@ -176,7 +176,7 @@ export default function PortraitGenerator({
     ...custom
   ]
 
-  const matches = findFuzzyBestCandidates(allIcons.map(x => x.name), search, 8)
+  const matches = findFuzzyBestCandidates(allIcons.map(x => filterName(x.name)), search, 8)
   const searchMatches = search.length == 0 ? [] : matches.flatMap(m => allIcons.filter(x => m == filterName(x.name))).filter((v, i, a) => a.indexOf(v) == i)
 
   function add(icon: PortraitIcon, multi: boolean, note: boolean) {
