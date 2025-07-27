@@ -316,6 +316,7 @@ function drawTLDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, siz
 }
 
 function filterName(name: string) {
+  // Filter out Skin or Version number
   return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "");
 }
 
