@@ -4,15 +4,22 @@ description: take the first quote from https://genshin-impact.fandom.com/wiki/Ch
 
 <!-- replace every instance of "CharacterName" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and charactername lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
 
+<!-- 
+Checklist for other pages:
+Gauges: docs/resources/compendiums/elemental-gauges.md
+Particles: docs/resources/compendiums/elemental-skill-particles.md
+Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
+Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
+-->
 import char from '@site/src/data/characters/CharacterName.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # CharacterName
 
 <!-- Remove this warning when adding the basic mechs ticket -->
-import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
-
-<NoBasicMechs />
+:::caution
+This character has not yet had their findings added to the TCL. Most information will be unavailable.
+:::
 
 import Image from '@theme/IdealImage'
 
