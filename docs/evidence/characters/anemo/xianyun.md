@@ -11,8 +11,17 @@ search: false
 ## Basic Mechanics
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/xianyun-basic-mechanics)
+
 [Frames](https://docs.google.com/spreadsheets/d/1LkWYcksW1T2JpyMiJsa24O7rZTFWG5HZoQ8rtvD_x7U/edit) - @caramielle
 
+* Gauges & ICD [@soul_fish](https://www.youtube.com/watch?v=jSwyZcxgOlc) 
+  * CA: 1U, No ICD
+  * Skill:
+    * Skyladder - 0U
+    * Driftcloud Wave - 1U, No ICD
+  * Burst:
+    * Activation - 1U, No ICD
+    * Starwicker - 1U, No ICD
 
 ## Attack Mechanics
 * CA projectiles travel along the ground - [@anoddmedium](https://www.youtube.com/watch?v=mK79_LBWqPI) [cliff](https://www.youtube.com/watch?v=vBlw-RWOVBQ)
@@ -26,10 +35,12 @@ search: false
 * Fall damage mitigation from the skill state expires after some time [@.mcpie](https://youtu.be/qEQGCTPwpaA)
 * Xianyun E cast can trigger sacrificial [@.mcpie](https://youtu.be/fdOibcKHD7I)
 * Xianyun can plunge upwards [@.mcpie](https://youtu.be/jdoDHmTVboE)
+* Xianyun can use Skyladder when gliding [@acerbus](https://youtu.be/QhS6SZZV7To)
 
 ## Burst Mechanics
 * Adeptal Assistance stacks are shared and deplete faster in coop - [@anoddmedium](https://youtu.be/vEv4TfjaEv0)
 * Starwicker Continuous Healing is every ~2.5s - [@plumetra](https://youtu.be/bYKeDm9E30w)
+* Starwicker does not snapshot - @soul_fish [damage](https://youtu.be/xZS5A6DZz1A) [healing](https://youtu.be/D8cJEJg6zh8)
 
 ## Ascension Mechanics
 
