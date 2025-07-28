@@ -6,6 +6,8 @@
 
 ## Basic Mechanics
 
+[Discussion](https://tickets.deeznuts.moe/transcripts/)
+
 ## Attack Mechanics
 
 ## Skill Mechanics

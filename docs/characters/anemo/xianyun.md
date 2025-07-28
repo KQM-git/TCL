@@ -7,10 +7,6 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # Xianyun
 
-<!-- Remove this warning when adding the basic mechs ticket -->
-import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
-
-<NoBasicMechs />
 
 import Image from '@theme/IdealImage'
 
@@ -42,48 +38,37 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-<!--
-take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
-take poise damage (rounded to 2 decimal points) and impulse type from https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Data or the character's wiki page
-
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| 1-Hit  |           |        |      |              |              |
-| 2-Hit  |           |        |      |              |              |
-| 3-Hit  |           |        |      |              |              |
-| 4-Hit  |           |        |      |              |              |
-| 5-Hit  |           |        |      |              |              |
--->
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 68.5%     | 17     | 241.76%   | 7.6          | 2            |
+| 2-Hit  | 66.1%     | 24     | 166.25%   | 7.3          | 2            |
+| 3-Hit  | 83.1%     | 40     | 124.65%   | 9.2          | 2            |
+| 4-Hit  | 110.4%    | 93     | 71.23%    | 12.2         | 3            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-<!-- polearm/catalyst
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :--- | :----------- | :----------- |
-| CA     |           |        |      |              |              |
--->
+| CA     | 209.3%    | 56     | 224.25% | 90        | 4            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-<!--
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      |           |              |              |
-| Low Plunge DMG  |           |              |              |
-| High Plunge DMG |           |              |              |
--->
+| Plunge DMG      | 104.41%   | 5            | 2            |
+| Low Plunge DMG  | 208.77%   | 50           | 3            |
+| High Plunge DMG | 260.76%   | 100          | 4            |
 
 </div>
 
-<!--
 **Notes**
 
+* CA projectiles travel along the ground and can go through walls
 * MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
--->
 
 </TabItem>
 
@@ -92,29 +77,39 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-<!--
-| Attribute      | Tap       | Hold      |
+
+<div>
+
+| Attribute      | Skyladder | Driftcloud Wave |
 | :------------- | :-------- | :-------- |
-| DMG \(T9%\)    |           |           |
-| Particles      |           |           |
-| GU             |           |           |
-| ICD            |           |           |
-| Snapshot       |           |           |
-| Damage Element |           |           |
-| Damage Type    |           |           |
-| Duration       |           |           |
-| CD             |           |           |
-| Poise Damage   |           |           |
-| Impulse Type   |           |           |
--->
+| DMG \(T9%\)    | 42.16%    |           |
+| Particles      | -         | 4         |
+| GU             | 0U        | 1U        |
+| ICD            | None      | None      |
+| Damage Element | Anemo     | Anemo     |
+| Damage Type    | Skill     | Plunge    |
+| CD             | 12s/9s    |           |
+| Poise Damage   | 30        |           |
+| Impulse Type   | 3         |           |
+
+| Driftcloud Wave | DMG (T9%) | Poise Damage | Impulse Type  |
+| :-------------- | :-------- | :----------- | :------------ |
+| Level 1         | 197.2%    | 75           | 3             |
+| Level 2         | 251.6%    | 75           | Air, 0, 600   |
+| Level 3         | 573.9%    | 150          | Air, 100, 800 |
 
 </div>
 
-<!--
+</div>
+
+
 **Notes**
 
-* 
--->
+* Using the Skill alone generates no particles with a 9s CD, while using the Plunge after the Skill creates 4 particles with a 12s CD
+* After using the Skill, the special Plunge can still be used for a short while after landing
+* Level 2/3 Driftcloud Wave has minor grouping on enemies
+* The fall damage mitigation expires after some time
+* The Driftcloud Wave animation expires ~2s after cast
 
 </TabItem>
 
@@ -123,43 +118,44 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-<!-- take snapshot details from https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit?usp=sharing -->
 
-<!--
-| Attribute         | Primary   | Secondary |
-| :---------------- | :-------- | :-------- |
-| DMG \(T9%\)       |           |           |
-| GU                |           |           |
-| ICD               |           |           |
-| Snapshot          |           |           |
-| Damage Element    |           |           |
-| Damage Type       |           |           |
-| Energy Cost       |           |           |
-| Duration          |           |           |
-| Cooldown          |           |           |
-| Poise Damage      |           |           |
-| Impulse Type      |           |           |
--->
+| Attribute         |           |
+| :---------------- | :-------- |
+| DMG \(T9%\)       | 194.4%    |
+| Starwicker  DMG (T9%) | 66.64%|
+| Healing (T9%)      | 156.67% ATK + 1175 |
+| Continuous Healing (T9%) | 73.11% ATK + 548 |
+| GU                | 1U        |
+| ICD               | Standard (Starwicker) |
+| Snapshot          | No (DMG and heal) |
+| Damage Element    | Anemo     |
+| Damage Type       | Burst     |
+| Energy Cost       | 70        |
+| Duration          | 16s       |
+| Cooldown          | 18s       |
+| Poise Damage      | 100 / 50    |
+| Impulse Type      | Air, 50, 800 / 100 |
+
 
 </div>
 
-<!--
+
 **Notes**
 
-* 
--->
+* Adeptal Assistance stacks are shared in Co-op
+* The healing ticks every 2.5 seconds
+
+
 
 </TabItem>
 </Tabs>
 
-<!--
 ## Frames
 
 import charFrames from '@site/src/data/frames/Xianyun.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
 
 ## Ascension Passives
 
@@ -206,6 +202,10 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
+
+**Notes:**
+* Particle generation is disabled in C6 state
+
 </TabItem>
 </Tabs>
 

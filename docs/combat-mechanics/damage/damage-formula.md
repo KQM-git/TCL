@@ -75,6 +75,7 @@ $$
 - Yun Jin's [**Cliffbreaker's Banner**](../../characters/geo/yun-jin.md#attacks) (Elemental Burst)
 - Yun Jin's [**Breaking Conventions**](../../characters/geo/yun-jin.md#ascension-passives) (A4)
 - Zhongli's [**Dominance of Earth**](../../characters/geo/zhongli.md#ascension-passives) (A4)
+- Xianyun's [**Consider, the Adeptus in Her Realm**](../../characters/anemo/xianyun.md#ascension-passives) (A4)
 
 **Constellations:**
 
@@ -103,6 +104,7 @@ $$
 <summary>Artifacts</summary>
 
 - [**Echoes of an Offering**](../../equipment/artifacts.md#echoes-of-an-offering)'s 4-Piece Set Bonus
+- [**Song of Days Past**](../../equipment/artifacts.md#song-of-days-past)'s 4-Piece Set Bonus
 
 </details>
 

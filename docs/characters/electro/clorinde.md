@@ -8,9 +8,9 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 # Clorinde
 
 <!-- Remove this warning when adding the basic mechs ticket -->
-import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
-
-<NoBasicMechs />
+:::caution
+This character has not yet had their findings added to the TCL. Most information will be unavailable.
+:::
 
 
 import Image from '@theme/IdealImage'
