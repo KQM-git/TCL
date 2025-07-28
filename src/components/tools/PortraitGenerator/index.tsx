@@ -102,7 +102,7 @@ export default function PortraitGenerator({
   const iconsMisc = [
     {
       name: "Fill slot",
-      path: "/img/characters/abstract-user-flat-3-colored.svg",
+      path: "/img/characters/abstract-user-flat-3-colored.png",
     },
     ...travelersPortraits
   ]
