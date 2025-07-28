@@ -262,7 +262,7 @@ export default function PortraitGenerator({
       />}
     </div>
     <label>
-      Potrait style: <select id="charPortraits" onClick={() => {
+      Character portrait style: <select id="charPortraits" onClick={() => {
         const isChecked = document.getElementById("charPortraits") as HTMLSelectElement
         if (isChecked.value == "Plain") {
           setCharPortraits(iconsChar)
