@@ -27,7 +27,9 @@ export default function Preview({ active, remove, background, portraitPadding, n
   const totalHeight = 2 * effectiveFramePad + 2 * effectivePortraitPad + portraitSize + (names ? (background ? bottomOffset : bottomOffset + framePad) : 0)
 
   function getName(x: PortraitIcon) {
-    return `${x.name}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
+    // Filter out Skin or Version number
+    var filteredName = filterName(x.name);
+    return `${filteredName}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
   }
   const list = active.map(x => getName(x)).join(" - ")
 
@@ -168,8 +170,10 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
       ctx.textAlign = "center"
       ctx.fillStyle = "#FFFFFF"
       ctx.textBaseline = "alphabetic"
+      // Filter out Skin or Version number
+      var filteredName = filterName(icon.name);
       // ctx.fillText(icon.name, x + size / 2, y + size + 34)
-      wrapText(ctx, icon.name, x + size / 2, y + size + 34, 180, 20)
+      wrapText(ctx, filteredName, x + size / 2, y + size + 34, 180, 20)
         .forEach(([text, x, y]) => ctx.fillText(text, x, y))
     }
   }
@@ -309,6 +313,11 @@ function drawTLDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, siz
   ctx.moveTo(x + lineOffset, y + lineOffset)
   ctx.lineTo(x + size - lineOffset, y + size - lineOffset)
   ctx.stroke()
+}
+
+function filterName(name: string) {
+  // Filter out Skin or Version number
+  return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "");
 }
 
 function getIndex(effectiveFramePad: number, effectivePortraitPad: number, frameSize: number, e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {
