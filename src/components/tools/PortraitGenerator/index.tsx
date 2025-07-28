@@ -230,7 +230,7 @@ export default function PortraitGenerator({
       </label> <br/> <br/>
 
       <label>
-        Character names: <CheckboxInput set={setNames} value={names} />
+        Names text: <CheckboxInput set={setNames} value={names} />
       </label>
     </MDXComponents.Details>
     
