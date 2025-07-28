@@ -9,9 +9,9 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 # Ifa
 
 <!-- Remove this warning when adding the basic mechs ticket -->
-import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
-
-<NoBasicMechs />
+:::caution
+This character has not yet had their findings added to the TCL. Most information will be unavailable.
+:::
 
 import Image from '@theme/IdealImage'
 
@@ -161,7 +161,11 @@ import Frames from '@site/src/components/char/Frames'
 import Passive from '@site/src/components/char/Passive'
 
 <Tabs queryString="passive">
-<TabItem value='passive' label='Passive'>
+<TabItem value='passive' label="Passive">
+<Passive char={char} passive={3} />
+</TabItem>
+
+<TabItem value='nightsoul' label="Night Realm's Gift">
 <Passive char={char} passive={2} />
 </TabItem>
 

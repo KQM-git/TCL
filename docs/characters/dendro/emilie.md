@@ -7,9 +7,9 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # Emilie
 
-import NoBasicMechs from '@site/src/components/char/NoBasicMechs'
-
-<NoBasicMechs />
+:::caution
+This character has not yet had their findings added to the TCL. Most information will be unavailable.
+:::
 
 import Image from '@theme/IdealImage'
 

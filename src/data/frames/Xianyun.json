@@ -1,0 +1,149 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 12,
+        "hitlag": 0,
+        "next_na": 17,
+        "walk": 34,
+        "ca": 17
+    }, 
+    {
+        "name": "N2",
+        "release": 14,
+        "hitlag": 0,
+        "next_na": 24,
+        "walk": 38,
+        "ca": 23
+    },
+    {
+        "name": "N3",
+        "release": 34,
+        "hitlag": 0,
+        "next_na": 40,
+        "walk": 65,
+        "ca": 40
+    },
+    {
+        "name": "N4",
+        "release": 38,
+        "hitlag": 0,
+        "next_na": 93,
+        "walk": 92,
+        "ca": 91
+    }],
+    "CA": {
+        "name": "CA",
+        "release": 56,
+        "hitlag": 0,
+        "n1": 62,
+        "ca": 61,
+        "skill": 62,
+        "burst": 61,
+        "walk": 73
+    },
+    "Skill": [{
+        "name": "1E",
+        "hitmark": 3,
+        "plunge_hitmark": 28,
+        "n1": 221,
+        "ca": 244,
+        "burst": 40,
+        "walk": 43,
+        "dash": 39,
+        "jump": 41,
+        "swap": 36,
+        "plunge": 13,
+        "skill": 13,
+        "CD_plunge": 13,
+        "CD_no_plunge": 220,
+        "notes": "The plunge hitmark is observed starting from the frame where the cooldown number appears"
+    },
+    {
+        "name": "2E",
+        "plunge_hitmark": 33,
+        "n1": 243,
+        "ca": 243,
+        "burst": 61,
+        "walk": 66,
+        "dash": 60,
+        "jump": 60,
+        "swap": 59,
+        "plunge": 14,
+        "skill": 15,
+        "CD_plunge": 14,
+        "CD_no_plunge": 135
+    },
+    {
+        "name": "3E",
+        "plunge_hitmark": 39,
+        "n1": 178,
+        "ca": 179,
+        "burst": 126,
+        "walk": 125,
+        "dash": 130,
+        "jump": 129,
+        "swap": 128,
+        "plunge": 18,
+        "skill": 128
+    }],
+    "Skill Plunges": [{
+        "name": "1EP",
+        "ground_timing": 28,
+        "n1": 57,
+        "ca": 56,
+        "burst": 54,
+        "walk": 65,
+        "dash": 51,
+        "jump": 56,
+        "swap": 49,
+        "skill": 56
+    },{
+        "name": "2EP",
+        "ground_timing": 40,
+        "n1": 60,
+        "ca": 61,
+        "burst": 61,
+        "walk": 70,
+        "dash": 55,
+        "jump": 62,
+        "swap": 53,
+        "skill": 56
+    },{
+        "name": "3EP",
+        "ground_timing": 46,
+        "n1": 66,
+        "ca": 67,
+        "burst": 67,
+        "walk": 76,
+        "dash": 63,
+        "jump": 68,
+        "swap": 62,
+        "skill": 64
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 75,
+        "n1": 101,
+        "ca": 102,
+        "skill": 101,
+        "walk": 101,
+        "dash": 101,
+        "jump": 103,
+        "swap": 99,
+        "cd": 0,
+        "energy": 18,
+        "notes": "The exact frames for the heal tick on her burst appears to be somewhat random, refer to the sheet for more details"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 22
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    },
+    {
+        "name": "N0",
+        "default": 10
+    }]
+}
