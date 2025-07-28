@@ -223,14 +223,14 @@ export default function PortraitGenerator({
     <MDXComponents.Details>
       <summary>Settings</summary>
       <label>
-        Enable background: <CheckboxInput set={setBackground} value={background} />
+        Background: <CheckboxInput set={setBackground} value={background} />
       </label> <br/>
       <label>
-        Enable portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
+        Portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
       </label> <br/> <br/>
 
       <label>
-        Enable names text: <CheckboxInput set={setNames} value={names} />
+        Character names: <CheckboxInput set={setNames} value={names} />
       </label>
     </MDXComponents.Details>
     
