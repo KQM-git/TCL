@@ -249,18 +249,6 @@ export default function PortraitGenerator({
 
     <br/>
     <h2>Characters</h2>
-    <label>
-      Toggle to swap between different portrait styles: <input type="checkbox" id="charPortraits" onClick={() => {
-        const isChecked = document.getElementById("charPortraits") as HTMLInputElement
-        if (isChecked.checked) {
-          setCharPortraits(iconsChar)
-          setTravelersPortraits(travelers)
-        } else {
-          setCharPortraits(iconsRoundChar)
-          setTravelersPortraits(roundedTravelers)
-        }
-      }}/>
-    </label> <br/> <br/>
     <Tabs>
       {charPortraits.map(({ element, chars, travelerIcons }) => {
         return <TabItem key={element} value={element} label={element}>
@@ -316,6 +304,21 @@ export default function PortraitGenerator({
     </>}
 
     <h2>Settings</h2>
+    <label>
+      Potrait style: <select id="charPortraits" onClick={() => {
+        const isChecked = document.getElementById("charPortraits") as HTMLSelectElement
+        if (isChecked.value == "Plain") {
+          setCharPortraits(iconsChar)
+          setTravelersPortraits(travelers)
+        } else {
+          setCharPortraits(iconsRoundChar)
+          setTravelersPortraits(roundedTravelers)
+        }
+      }}>
+        <option value={"Rounded"}>Rounded</option>
+        <option value={"Plain"}>Plain</option>
+      </select>
+    </label> <br/>
     <label>
       Use background: <CheckboxInput set={setBackground} value={background} />
     </label> <br/>
