@@ -8,6 +8,7 @@ import TabItem from '@theme/TabItem'
 import Tabs from '@theme/Tabs'
 import { CheckboxInput } from '../../common/input/CheckboxInput'
 import filename from '@site/src/utils/filename'
+import MDXComponents from '@site/src/theme/MDXComponents'
 
 export interface PortraitIcon {
   name: string
@@ -219,6 +220,20 @@ export default function PortraitGenerator({
   }
 
   return <div>
+    <MDXComponents.Details>
+      <summary>Settings</summary>
+      <label>
+        Background: <CheckboxInput set={setBackground} value={background} />
+      </label> <br/>
+      <label>
+        Portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
+      </label> <br/> <br/>
+
+      <label>
+        Names text: <CheckboxInput set={setNames} value={names} />
+      </label>
+    </MDXComponents.Details>
+    
     <Preview
       active={active}
       remove={(i: number) => setActive([...active.slice(0, i), ...active.slice(i + 1)])}
@@ -246,8 +261,22 @@ export default function PortraitGenerator({
         onClick={add}
       />}
     </div>
-
-    <br/>
+    <label>
+      Character portrait style: <select id="charPortraits" onClick={() => {
+        const isChecked = document.getElementById("charPortraits") as HTMLSelectElement
+        if (isChecked.value == "Plain") {
+          setCharPortraits(iconsChar)
+          setTravelersPortraits(travelers)
+        } else {
+          setCharPortraits(iconsRoundChar)
+          setTravelersPortraits(roundedTravelers)
+        }
+      }}>
+        <option value={"Rounded"}>Rounded</option>
+        <option value={"Plain"}>Plain</option>
+      </select>
+    </label> <br/> <br/>
+    
     <h2>Characters</h2>
     <Tabs>
       {charPortraits.map(({ element, chars, travelerIcons }) => {
@@ -265,7 +294,7 @@ export default function PortraitGenerator({
     </Tabs>
 
     <h2>Elements</h2>
-    <CharSelector icons={elements} onClick={add} />
+    <CharSelector icons={elements} onClick={add} /> <br/>
 
     <h2>Artifacts</h2>
     <Tabs>
@@ -292,42 +321,9 @@ export default function PortraitGenerator({
     </Tabs>
 
     <h2>Misc</h2>
-    <CharSelector icons={iconsMisc} onClick={add} />
+    <CharSelector icons={iconsMisc} onClick={add} /> <br/>
 
-    {custom.length > 0 && <>
-      <h2>Custom</h2>
-      <CharSelector icons={custom} onClick={add} onCtrlClick={icon => {
-        if (!confirm(`Are you sure you want to delete ${icon.name}`))
-          return
-        setCustom(custom.filter(x => x != icon))
-      }} />
-    </>}
-
-    <h2>Settings</h2>
-    <label>
-      Potrait style: <select id="charPortraits" onClick={() => {
-        const isChecked = document.getElementById("charPortraits") as HTMLSelectElement
-        if (isChecked.value == "Plain") {
-          setCharPortraits(iconsChar)
-          setTravelersPortraits(travelers)
-        } else {
-          setCharPortraits(iconsRoundChar)
-          setTravelersPortraits(roundedTravelers)
-        }
-      }}>
-        <option value={"Rounded"}>Rounded</option>
-        <option value={"Plain"}>Plain</option>
-      </select>
-    </label> <br/>
-    <label>
-      Use background: <CheckboxInput set={setBackground} value={background} />
-    </label> <br/>
-    <label>
-      Portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
-    </label> <br/>
-    <label>
-      Add names text: <CheckboxInput set={setNames} value={names} />
-    </label> <br/>
+    <h2>Custom</h2>
     <a href='#' onClick={e => {
       e.preventDefault()
       const name = prompt("Name", `Custom Icon`)
@@ -336,6 +332,11 @@ export default function PortraitGenerator({
         name,
         path: url,
       }])
-    }}>Add custom image</a>
+    }}>Add custom image</a> <br/> <br/>
+    <CharSelector icons={custom} onClick={add} onCtrlClick={icon => {
+      if (!confirm(`Are you sure you want to delete ${icon.name}`))
+        return
+      setCustom(custom.filter(x => x != icon))
+    }} />
   </div>
 }

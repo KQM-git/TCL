@@ -12,13 +12,17 @@ Recommended to use a Chromium based browser due to [imageSmoothingQuality](https
 
 ## Instructions
 
-* Click on an icon below to add them to the team.
-* Shift + click on an icon below to add them to the last icon as a multi-icon.
-* Alt + click on an icon below to add them with a note.
-* Click on an icon in the preview to remove them from the current team.
-* A link to download as .png is available below the preview.
-* Ctrl + click on an icon in the custom section to delete it.
-* See the settings section for more options.
+<details>
+  <summary>Show Instructions</summary>
+  
+  + Click on an icon below to add them to the team.
+  + Shift + click on an icon below to add them to the last icon as a multi-icon.
+  + Alt + click on an icon below to add them with a note.
+  + Click on an icon in the preview to remove them from the current team.
+  + A link to download as .png is available below the preview.
+  + Ctrl + click on an icon in the custom section to delete it.
+  + See the settings section for more options.
+</details>
 
 ## Output
 
