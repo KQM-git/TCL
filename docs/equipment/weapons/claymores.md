@@ -97,6 +97,10 @@ import FavSeries from './\_common/fav_series.md';
 
 </Weapon>
 
+### Flame-Forged Insight
+
+<Weapon weapon="Flame-Forged Insight" weapons={claymores} />
+
 ### Forest Regalia
 
 <Weapon weapon="Forest Regalia" weapons={claymores} />

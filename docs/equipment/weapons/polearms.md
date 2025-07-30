@@ -22,6 +22,10 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 </Weapon>
 
+### Fractured Halo
+
+<Weapon weapon="Fractured Halo" weapons={polearms} />
+
 ### Lumidouce Elegy
 
 <Weapon weapon="Lumidouce Elegy" weapons={polearms}/>
