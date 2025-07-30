@@ -18,6 +18,10 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 </Weapon>
 
+### Azurelight
+
+<Weapon weapon="Azurelight" weapons={swords} />
+
 ### Freedom-Sworn
 
 <Weapon weapon="Freedom-Sworn" weapons={swords}>

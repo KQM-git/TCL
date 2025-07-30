@@ -300,7 +300,7 @@ const config = {
           apiKey: 'VXstnBtIuOWIUb1VRaY6hKcdWv47QzBK'
         }
       }
-    }),
+    })
 };
 
 module.exports = config;

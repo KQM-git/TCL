@@ -1,0 +1,446 @@
+{
+  "name": "Dahlia",
+  "star": 4,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1048.5597,
+    "attackBase": 15.84912,
+    "defenseBase": 46.9245,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Favonius Bladework - Ritual",
+        "desc": "**Normal Attack**\nPerforms up to 4 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "43.5%",
+              "47.1%",
+              "50.6%",
+              "55.7%",
+              "59.2%",
+              "63.3%",
+              "68.9%",
+              "74.4%",
+              "80.0%",
+              "86.1%",
+              "92.2%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "40.1%",
+              "43.4%",
+              "46.6%",
+              "51.3%",
+              "54.6%",
+              "58.3%",
+              "63.4%",
+              "68.5%",
+              "73.7%",
+              "79.3%",
+              "84.9%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "23.7%+29.0%",
+              "25.7%+31.4%",
+              "27.6%+33.7%",
+              "30.4%+37.1%",
+              "32.3%+39.5%",
+              "34.5%+42.2%",
+              "37.5%+45.9%",
+              "40.6%+49.6%",
+              "43.6%+53.3%",
+              "46.9%+57.4%",
+              "50.3%+61.4%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "65.7%",
+              "71.0%",
+              "76.3%",
+              "84.0%",
+              "89.3%",
+              "95.4%",
+              "103.8%",
+              "112.2%",
+              "120.6%",
+              "129.8%",
+              "138.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "39.9%+55.1%",
+              "43.1%+59.5%",
+              "46.4%+64.0%",
+              "51.0%+70.4%",
+              "54.3%+74.9%",
+              "58.0%+80.0%",
+              "63.1%+87.1%",
+              "68.2%+94.1%",
+              "73.3%+101.2%",
+              "78.8%+108.9%",
+              "84.4%+116.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Immersive Ordinance",
+        "desc": "Time for a fun little trick! Summons the Sacramental Shower in different ways depending on whether you Tap or Hold it.\n\n**Tap**\nAfter a short prayer, summons the Sacramental Shower in front.\n\n**Hold**\nEngages in continuous prayer, and when done, summons forth a Sacramental Shower in the designated position.\n\n**Sacramental Shower**\nWhen opponents or nearby party members touch the Sacramental Shower, different effects will occur depending on the one who touches it:\nIf an opponent touches the Shower, it will explode and deal **AoE Hydro DMG** to nearby opponents.\nIf a nearby party member touches it, it will bounce the one who touches it high in the air.\n\nOnly 1 Sacramental Shower summoned by Dahlia himself can be on the field at once.",
+        "img": "Dahlia/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "232.8%",
+              "250.3%",
+              "267.7%",
+              "291.0%",
+              "308.5%",
+              "325.9%",
+              "349.2%",
+              "372.5%",
+              "395.8%",
+              "419.0%",
+              "442.3%",
+              "465.6%",
+              "494.7%"
+            ]
+          },
+          {
+            "name": "Skill CD",
+            "value": "9.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Radiant Psalter",
+      "desc": "Appeals to the divine with earnestness and song, dealing **AoE Hydro DMG** to nearby opponents and granting his party members Favonian Favor, summoning a Shield of Sacred Favor.\nThe Shield of Sacred Favor's DMG absorption is based on Dahlia's Max HP, and it will absorb **Hydro DMG** with 250% effectiveness.\n\n**Favonian Favor**\nWhile this effect is active, 1 Benison stack may be consumed to summon a new Shield of Sacred Favor when an existing Shield is broken via DMG.\n\nDahlia can obtain Benison via the following methods:\n· He will gain 1 Benison stack when his own active party member hits opponents 4 times with Normal Attacks while affected by Favonian Favor.\n· After triggering the effect of his Passive Talent, \"The Wind's Gentle Grace\" (You must first unlock this Passive Talent.)\nDahlia can gain a maximum of 4 Benison stacks per Favonian Favor duration.",
+      "img": "Dahlia/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "406.4%",
+            "436.9%",
+            "467.4%",
+            "508.0%",
+            "538.5%",
+            "569.0%",
+            "609.6%",
+            "650.2%",
+            "690.9%",
+            "731.5%",
+            "772.2%",
+            "812.8%",
+            "863.6%"
+          ]
+        },
+        {
+          "name": "Shield of Sacred Favor DMG Absorption",
+          "values": [
+            "3.4% Max HP+324",
+            "3.6% Max HP+356",
+            "3.9% Max HP+391",
+            "4.2% Max HP+429",
+            "4.5% Max HP+469",
+            "4.7% Max HP+512",
+            "5.0% Max HP+558",
+            "5.4% Max HP+607",
+            "5.7% Max HP+658",
+            "6.0% Max HP+712",
+            "6.4% Max HP+769",
+            "6.7% Max HP+828",
+            "7.1% Max HP+890"
+          ]
+        },
+        {
+          "name": "Favonian Favor Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        }
+      ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "The Wind's Gentle Grace",
+        "desc": "When characters affected by the Favonian Favor effect of the Elemental Burst **Radiant Psalter** trigger Frozen reactions on opponents, they will grant Dahlia 2 Benison stacks. This effect can trigger once every 8s.",
+        "img": "Dahlia/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Prayer of Well-Wrought Joy",
+        "desc": "When your active party member is affected by the Favonian Favor effect of the Elemental Burst **\"Radiant Psalter,\"** their ATK SPD will increase based on Dahlia's Max HP: Every 1,000 Max HP will cause an increase of 0.5%, up to a maximum of 20%.",
+        "img": "Dahlia/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Pilgrimage Upon Returning Winds",
+        "desc": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or the Spiral Abyss. Swift Stride does not stack.",
+        "img": "Common/Increase_Day_Speed",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Infallible Procession",
+        "desc": "Each time Dahlia gains 1 of his Elemental Burst **Radiant Psalter**'s Benison stacks, he will regain 2.5 Elemental Energy.",
+        "img": "Dahlia/const_0"
+      },
+      {
+        "name": "Revelation of Mercy",
+        "desc": "After Dahlia consumes his Elemental Burst **Radiant Psalter**'s Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s.",
+        "img": "Dahlia/const_1"
+      },
+      {
+        "name": "Windblume Offertory",
+        "desc": "Increases the Level of **Radiant Psalter** by 3.\nMaximum upgrade level is 15.",
+        "img": "Dahlia/const_2"
+      },
+      {
+        "name": "Collect of the Assembly",
+        "desc": "The Favonian Favor from Dahlia's Elemental Burst **Radiant Psalter** lasts 3 more seconds.",
+        "img": "Dahlia/const_3"
+      },
+      {
+        "name": "Let It Be Subtly So",
+        "desc": "Increases the Level of **Immersive Ordinance** by 3.\nMaximum upgrade level is 15.",
+        "img": "Dahlia/const_4"
+      },
+      {
+        "name": "You Shall Go Out With Joy",
+        "desc": "The current active character affected by the Elemental Burst **Radiant Psalter**'s Favonian Favor has their ATK SPD increased by 10%.\nAdditionally, when an active character affected by Favonian Favor falls, immediately:\n· Revive them.\n· Restore their HP to 100%.\nThis effect can trigger once every 15 minutes.",
+        "img": "Dahlia/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 783.32776
+        },
+        {
+          "stat": "Base DEF",
+          "value": 35.055
+        },
+        {
+          "stat": "Base ATK",
+          "value": 11.840382
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1339.9027
+        },
+        {
+          "stat": "Base DEF",
+          "value": 59.9625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.253284
+        },
+        {
+          "stat": "HP%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2082.0027
+        },
+        {
+          "stat": "Base DEF",
+          "value": 93.1725
+        },
+        {
+          "stat": "Base ATK",
+          "value": 31.47049
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2638.5776
+        },
+        {
+          "stat": "Base DEF",
+          "value": 118.08
+        },
+        {
+          "stat": "Base ATK",
+          "value": 39.883392
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3195.1526
+        },
+        {
+          "stat": "Base DEF",
+          "value": 142.9875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 48.296295
+        },
+        {
+          "stat": "HP%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3751.7275
+        },
+        {
+          "stat": "Base DEF",
+          "value": 167.895
+        },
+        {
+          "stat": "Base ATK",
+          "value": 56.709198
+        },
+        {
+          "stat": "HP%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

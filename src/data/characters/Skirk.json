@@ -1,0 +1,628 @@
+{
+  "name": "Skirk",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 966.6665,
+    "attackBase": 27.93,
+    "defenseBase": 62.76167,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Havoc: Sunder",
+        "desc": "**Normal Attack**\nPerforms up to 5 consecutive attacks.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to hurl a spinning crystal spear, dealing DMG to opponents ahead.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "54.5%",
+              "59.0%",
+              "63.4%",
+              "69.7%",
+              "74.2%",
+              "79.3%",
+              "86.2%",
+              "93.2%",
+              "100.2%",
+              "107.8%",
+              "115.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "49.8%",
+              "53.8%",
+              "57.9%",
+              "63.7%",
+              "67.7%",
+              "72.4%",
+              "78.7%",
+              "85.1%",
+              "91.5%",
+              "98.4%",
+              "105.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "32.4%+32.4%",
+              "35.1%+35.1%",
+              "37.7%+37.7%",
+              "41.5%+41.5%",
+              "44.1%+44.1%",
+              "47.1%+47.1%",
+              "51.3%+51.3%",
+              "55.4%+55.4%",
+              "59.6%+59.6%",
+              "64.1%+64.1%",
+              "68.6%+68.6%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "60.8%",
+              "65.8%",
+              "70.7%",
+              "77.8%",
+              "82.7%",
+              "88.4%",
+              "96.2%",
+              "103.9%",
+              "111.7%",
+              "120.2%",
+              "128.7%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "82.9%",
+              "89.7%",
+              "96.4%",
+              "106.0%",
+              "112.8%",
+              "120.5%",
+              "131.1%",
+              "141.7%",
+              "152.3%",
+              "163.9%",
+              "175.4%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "66.8%×2",
+              "72.3%×2",
+              "77.7%×2",
+              "85.5%×2",
+              "90.9%×2",
+              "97.1%×2",
+              "105.7%×2",
+              "114.2%×2",
+              "122.8%×2",
+              "132.1%×2",
+              "141.4%×2"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Havoc: Warp",
+        "desc": "Imitates the combat style of \"The Foul.\" Produces different effects depending on whether you Tap or Hold.\n\n**Tap**\nSkirk gains 45 **Serpent's Subtlety** and switches to **Seven-Phase Flash** mode.\n\n**Hold**\nSkirk gains 45 Serpent's Subtlety and will continuously move at high speed. Her interruption resistance is increased in this state.\nDuring this time, Skirk can control her movement direction and move atop water. She can also use this Skill again to end rapid movement prematurely.",
+        "img": "Skirk/skill_1",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "132.8%",
+              "143.6%",
+              "154.4%",
+              "169.9%",
+              "180.7%",
+              "193.1%",
+              "210.0%",
+              "227.0%",
+              "244.0%",
+              "262.6%",
+              "281.1%",
+              "299.6%",
+              "318.2%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "119.8%",
+              "129.6%",
+              "139.3%",
+              "153.2%",
+              "163.0%",
+              "174.1%",
+              "189.5%",
+              "204.8%",
+              "220.1%",
+              "236.8%",
+              "253.5%",
+              "270.2%",
+              "287.0%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "75.7%+75.7%",
+              "81.9%+81.9%",
+              "88.1%+88.1%",
+              "96.9%+96.9%",
+              "103.0%+103.0%",
+              "110.1%+110.1%",
+              "119.7%+119.7%",
+              "129.4%+129.4%",
+              "139.1%+139.1%",
+              "149.7%+149.7%",
+              "160.3%+160.3%",
+              "170.8%+170.8%",
+              "181.4%+181.4%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "80.5%+80.5%",
+              "87.1%+87.1%",
+              "93.7%+93.7%",
+              "103.0%+103.0%",
+              "109.6%+109.6%",
+              "117.1%+117.1%",
+              "127.4%+127.4%",
+              "137.7%+137.7%",
+              "148.0%+148.0%",
+              "159.2%+159.2%",
+              "170.4%+170.4%",
+              "181.7%+181.7%",
+              "192.9%+192.9%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "196.6%",
+              "212.6%",
+              "228.6%",
+              "251.5%",
+              "267.5%",
+              "285.8%",
+              "310.9%",
+              "336.1%",
+              "361.2%",
+              "388.7%",
+              "416.1%",
+              "443.5%",
+              "471.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "44.5%×3",
+              "48.2%×3",
+              "51.8%×3",
+              "57.0%×3",
+              "60.6%×3",
+              "64.8%×3",
+              "70.4%×3",
+              "76.1%×3",
+              "81.8%×3",
+              "88.1%×3",
+              "94.3%×3",
+              "100.5%×3",
+              "106.7%×3"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%",
+              "144.2%",
+              "153.1%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%",
+              "288%/360%",
+              "306%/382%"
+            ]
+          },
+          {
+            "name": "Seven-Phase Flash Mode Duration",
+            "value": "12.5s"
+          },
+          {
+            "name": "Max Serpent's Subtlety",
+            "value": "100.0"
+          },
+          {
+            "name": "CD",
+            "value": "8.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Havoc: Ruin",
+      "desc": "Skirk's Elemental Burst is not reliant on Elemental Energy but instead on **Serpent's Subtlety**.\nWhen Skirk has at least 50 Serpent's Subtlety, she can expend all her Serpent's Subtlety to unleash her Elemental Burst, ripping the space before her apart and using rapid consecutive slashes that deal **AoE Cryo DMG**. At the same time, the DMG dealt by an instance of this Elemental Burst will be increased by every point of Serpent's Subtlety over 50 when it is unleashed. Up to 12 points can be counted for this purpose.\n\nWhen Skirk is in **Seven-Phase Flash** mode, Havoc: Ruin will be replaced by Havoc: Extinction.\n\n**Havoc: Extinction**\nA special Elemental Burst that can be used even without consuming Serpent's Subtlety.\nAfter using it, Skirk will gain the \"All Shall Wither\" effect, which will last until Seven-Phase Flash ends. After unlocking the Passive Talent **Reason Beyond Reason**, she can also absorb nearby Void Rifts.\nWhile \"All Shall Wither\" is active, every 0.1s, after Skirk's Normal Attack hits an opponent, that Normal Attack will deal increased DMG. If she absorbed any Void Rifts while using **Havoc: Extinction**, this Normal Attack's DMG will be further increased based on the number of Rifts absorbed.\nThis effect will be canceled when it has triggered 10 times.",
+      "img": "Skirk/ult",
+      "talentTable": [
+        {
+          "name": "Slash DMG",
+          "values": [
+            "122.8% ×5",
+            "132.0% ×5",
+            "141.2% ×5",
+            "153.5% ×5",
+            "162.7% ×5",
+            "171.9% ×5",
+            "184.1% ×5",
+            "196.4% ×5",
+            "208.7% ×5",
+            "221.0% ×5",
+            "233.2% ×5",
+            "245.5% ×5",
+            "260.9% ×5"
+          ]
+        },
+        {
+          "name": "Final Slash DMG",
+          "values": [
+            "204.6%",
+            "219.9%",
+            "235.3%",
+            "255.8%",
+            "271.1%",
+            "286.4%",
+            "306.9%",
+            "327.4%",
+            "347.8%",
+            "368.3%",
+            "388.7%",
+            "409.2%",
+            "434.8%"
+          ]
+        },
+        {
+          "name": "Serpent's Subtlety Bonus",
+          "values": [
+            "19.32% ATK Per Point",
+            "20.77% ATK Per Point",
+            "22.22% ATK Per Point",
+            "24.15% ATK Per Point",
+            "25.60% ATK Per Point",
+            "27.05% ATK Per Point",
+            "28.99% ATK Per Point",
+            "30.92% ATK Per Point",
+            "32.85% ATK Per Point",
+            "34.78% ATK Per Point",
+            "36.71% ATK Per Point",
+            "38.65% ATK Per Point",
+            "41.06% ATK Per Point"
+          ]
+        },
+        {
+          "name": "0/1/2/3 Void Rift Absorption DMG Bonus",
+          "values": [
+            "3.5%/6.6%/8.8%/11.0%",
+            "4.0%/7.2%/9.6%/12.0%",
+            "4.5%/7.8%/10.4%/13.0%",
+            "5.0%/8.4%/11.2%/14.0%",
+            "5.5%/9.0%/12.0%/15.0%",
+            "6.0%/9.6%/12.8%/16.0%",
+            "6.5%/10.2%/13.6%/17.0%",
+            "7.0%/10.8%/14.4%/18.0%",
+            "7.5%/11.4%/15.2%/19.0%",
+            "8.0%/12.0%/16.0%/20.0%",
+            "8.5%/12.6%/16.8%/21.0%",
+            "9.0%/13.2%/17.6%/22.0%",
+            "9.5%/13.8%/18.4%/23.0%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        }
+      ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Reason Beyond Reason",
+        "desc": "When nearby party members trigger Frozen, Superconduct, Cryo Swirl, or Cryo Crystallize reactions against opponents, a Void Rift will be created near this opponent. This effect can be triggered once every 2.5s. 3 Void Rifts created by Skirk herself can exist on the field at once.\n\nSkirk can use the following methods to absorb nearby Void Rifts:\n· When she hits an opponent with a Charged Attack in her **Seven-Phase Flash** mode.\n· When she uses the special Elemental Burst **Havoc: Extinction** while in Seven-Phase Flash mode.\n· When she Holds her Elemental Skill **Havoc: Warp** to engage in rapid movement.\n\nEach Rift absorbed will grant her 8 **Serpent's Subtlety** points.",
+        "img": "Skirk/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Return to Oblivion",
+        "desc": "When nearby **Hydro** party members' **Hydro** attacks hit opponents, or when nearby **Cryo** party members apart from Skirk hit opponents with **Cryo** attacks, Skirk will gain the \"Death's Crossing\" effect for 20s. Max 3 stacks, each stack's duration is counted independently.\nEach character can grant Skirk at most 1 \"Death's Crossing\" stack by this means.\nEach \"Death's Crossing\" stack increases the Normal Attack DMG dealt by Skirk in **Seven-Phase Flash** mode to 110%/120%/170% of its original DMG and the DMG dealt when using her Elemental Burst **Havoc: Ruin** to 105%/115%/160% of its original DMG.",
+        "img": "Skirk/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Mutual Weapons Mentorship",
+        "desc": "When all party members are either **Hydro** or **Cryo**, and if there is at least 1 Hydro and 1 Cryo character, your own party members' **Elemental Skill** Level is increased by 1.",
+        "img": "Skirk/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Far to Fall",
+        "desc": "Enhances the effects of the Passive Talent **Reason Beyond Reason**: Every Void Rift absorbed will summon a crystal blade to attack nearby opponents, dealing 500% of Skirk's ATK as **Cryo DMG**. This DMG is considered Charged Attack DMG.\nYou must first unlock the Passive Talent Reason Beyond Reason.",
+        "img": "Skirk/const_0"
+      },
+      {
+        "name": "Into the Abyss",
+        "desc": "After unleashing her Elemental Skill **Havoc: Warp**, Skirk will gain 10 additional **Serpent's Subtlety** points.\nWhen using her Elemental Burst **Havoc: Ruin**, the DMG of this Elemental Burst instance will be increased by taking up to 10 more Serpent's Subtlety points into account.\nAdditionally, within 12.5s after Skirk unleashes the special Elemental Burst **Havoc: Extinction** while in her **Seven-Phase Flash** mode, her ATK is increased by 70%. This effect will be canceled when she leaves the Seven-Phase Flash mode.",
+        "img": "Skirk/const_1"
+      },
+      {
+        "name": "Serendipitous Sin",
+        "desc": "Increases the Level of **Havoc: Ruin** by 3.\nMaximum upgrade level is 15.",
+        "img": "Skirk/const_2"
+      },
+      {
+        "name": "Fractured Flow",
+        "desc": "Enhances the effects of the Passive Talent **Return to Oblivion**: Each Death's Crossing stack also increases Skirk's ATK by 10%/20%/40%.\nYou must first unlock the Passive Talent Return to Oblivion.",
+        "img": "Skirk/const_3"
+      },
+      {
+        "name": "End of Wishes",
+        "desc": "Increases the Level of **Havoc: Warp** by 3.\nMaximum upgrade level is 15.",
+        "img": "Skirk/const_4"
+      },
+      {
+        "name": "To the Source",
+        "desc": "Each Void Rift Skirk absorbs via the effects of the Passive Talent **Reason Beyond Reason** will grant her 1 Havoc: Sever stack. She can consume such stacks to initiate coordinated attacks and decrease the DMG she takes while in **Seven-Phase Flash** mode. These stacks last for 15s, and each stack's duration is counted independently (max 3 stacks).\nYou must first unlock the Passive Talent \"Reason Beyond Reason.\"\n\n**Havoc: Sever**\n· When Skirk uses the Elemental Burst **Havoc: Ruin**, she will consume all **Havoc: Sever** stacks to initiate a coordinated attack in which each **Havoc: Sever** stack will deal 750% of Skirk's ATK as **Cryo DMG**. This DMG is considered Elemental Burst DMG.\n· When she uses Normal Attacks while in Seven-Phase Flash mode, 1 **Havoc: Sever** stack will be consumed when her third or fifth sequenced attacks hit an opponent to launch 3 coordinated attacks. Each coordinated attack deals 180% of Skirk's ATK as **Cryo DMG**. This damage is considered Normal Attack DMG.\n· When Skirk takes DMG while in Seven-Phase Flash mode, 1 **Havoc: Sever** stack will be consumed to decrease this DMG instance by 80% and attack nearby opponents 3 times, with each attack dealing 180% of Skirk's ATK as **Cryo DMG**. This DMG is considered Charged Attack DMG.",
+        "img": "Skirk/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 828.8291
+        },
+        {
+          "stat": "Base DEF",
+          "value": 53.8137
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.9457
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1417.734
+        },
+        {
+          "stat": "Base DEF",
+          "value": 92.04975
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.95975
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2202.9404
+        },
+        {
+          "stat": "Base DEF",
+          "value": 143.03114
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.64515
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2791.8455
+        },
+        {
+          "stat": "Base DEF",
+          "value": 181.2672
+        },
+        {
+          "stat": "Base ATK",
+          "value": 80.6592
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3380.7502
+        },
+        {
+          "stat": "Base DEF",
+          "value": 219.50325
+        },
+        {
+          "stat": "Base ATK",
+          "value": 97.67325
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3969.6553
+        },
+        {
+          "stat": "Base DEF",
+          "value": 257.7393
+        },
+        {
+          "stat": "Base ATK",
+          "value": 114.6873
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}

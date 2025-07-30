@@ -12,7 +12,7 @@ export default function Talent({ char, skill, max }: {
   const talent = getTalent(char, skill)
   const table = talent.talentTable
 
-  const maxLevel = table.reduce((p, c) => Math.max(p, isValueTable(c) ? c.values.length : 1), 1)
+  const maxLevel = Math.min(max || Infinity, table.reduce((p, c) => Math.max(p, isValueTable(c) ? c.values.length : 1), 1))
   const levels = []
   for (let i = 0; i < maxLevel; i++)
     levels.push(i)
@@ -62,7 +62,7 @@ export default function Talent({ char, skill, max }: {
       <tbody>
         {valueTable.map(row => <tr key={row.name}>
           <td style={({ minWidth: "140px" })}>{row.name}</td>
-          {row.values.map((v, i, arr) => arr[i - 1] != v && <td key={row.name + "-" + i} colSpan={countUp(arr, v, i)} align='center'>{hint(v)}</td>)}
+          {row.values.slice(0, maxLevel).map((v, i, arr) => arr[i - 1] != v && <td key={row.name + "-" + i} colSpan={countUp(arr, v, i)} align='center'>{hint(v)}</td>)}
         </tr>)}
       </tbody>
     </table>}
