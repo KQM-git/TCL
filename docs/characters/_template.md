@@ -110,9 +110,9 @@ take poise damage (rounded to 2 decimal points) and impulse type from https://ge
 
 </div>
 
-**Notes**
+<!-- **Notes**
 
-* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames). -->
 
 </TabItem>
 

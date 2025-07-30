@@ -202,7 +202,7 @@
     ],
     "refinements": {
       "name": "Rapids",
-      "desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by **20%**/**25%**/**30%**/**35%**/**40%** for 12s."
+      "desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by **20%**/**25%**/**30%**/**35%**/**40%** for 12s."
     }
   },
   "Magic Guide": {

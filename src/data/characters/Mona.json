@@ -308,7 +308,7 @@
     "constellations": [
       {
         "name": "Prophecy of Submersion",
-        "desc": "When any of your own party members hits an opponent affected by an Omen, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%.",
+        "desc": "When any of your own party members hits an opponent affected by an Omen, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:\n· Electro-Charged DMG increases by 15%.\n· Lunar-Charged DMG increases by 15%.\n· Vaporize DMG increases by 15%.\n· Hydro Swirl DMG increases by 15%.\n· Frozen duration is extended by 15%.",
         "img": "Mona/const_0"
       },
       {

@@ -1,0 +1,474 @@
+{
+  "name": "Ineffa",
+  "star": 5,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 981.9196,
+    "attackBase": 25.6956,
+    "defenseBase": 64.43691,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Cyclonic Duster",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to perform a spinning attack.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "34.8%",
+              "37.7%",
+              "40.5%",
+              "44.6%",
+              "47.4%",
+              "50.6%",
+              "55.1%",
+              "59.5%",
+              "64.0%",
+              "68.9%",
+              "73.7%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "34.2%",
+              "37.0%",
+              "39.8%",
+              "43.8%",
+              "46.6%",
+              "49.7%",
+              "54.1%",
+              "58.5%",
+              "62.9%",
+              "67.6%",
+              "72.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "22.8%+22.8%",
+              "24.6%+24.6%",
+              "26.5%+26.5%",
+              "29.1%+29.1%",
+              "31.0%+31.0%",
+              "33.1%+33.1%",
+              "36.0%+36.0%",
+              "38.9%+38.9%",
+              "41.8%+41.8%",
+              "45.0%+45.0%",
+              "48.2%+48.2%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "56.1%",
+              "60.6%",
+              "65.2%",
+              "71.7%",
+              "76.3%",
+              "81.5%",
+              "88.7%",
+              "95.8%",
+              "103.0%",
+              "110.8%",
+              "118.7%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "94.9%",
+              "102.7%",
+              "110.4%",
+              "121.4%",
+              "129.2%",
+              "138.0%",
+              "150.1%",
+              "162.3%",
+              "174.4%",
+              "187.7%",
+              "200.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cleaning Mode: Carrier Frequency",
+        "desc": "Ineffa engages her Enhanced Cleaning Module, dealing a single instance of **AoE Electro DMG** to nearby opponents, activating her Optical Flow Shield Barrier, and summoning the Multipurpose Smart Assistance Unit, **Birgitta**.\nThe Optical Flow Shield Barrier absorbs DMG based on Ineffa's ATK, and it will absorb **Electro DMG** with 250% effectiveness.",
+        "img": "Ineffa/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "86.4%",
+              "92.9%",
+              "99.4%",
+              "108.0%",
+              "114.5%",
+              "121.0%",
+              "129.6%",
+              "138.2%",
+              "146.9%",
+              "155.5%",
+              "164.2%",
+              "172.8%",
+              "183.6%"
+            ]
+          },
+          {
+            "name": "Shield DMG Absorption",
+            "values": [
+              "221.2% ATK+1387",
+              "237.8% ATK+1525",
+              "254.4% ATK+1676",
+              "276.5% ATK+1837",
+              "293.1% ATK+2011",
+              "309.7% ATK+2196",
+              "331.8% ATK+2392",
+              "353.9% ATK+2600",
+              "376.0% ATK+2820",
+              "398.1% ATK+3051",
+              "420.2% ATK+3294",
+              "442.4% ATK+3548",
+              "470.0% ATK+3814"
+            ]
+          },
+          {
+            "name": "Shield Duration",
+            "value": "20.0s"
+          },
+          {
+            "name": "Birgitta Discharge DMG",
+            "values": [
+              "96.0%",
+              "103.2%",
+              "110.4%",
+              "120.0%",
+              "127.2%",
+              "134.4%",
+              "144.0%",
+              "153.6%",
+              "163.2%",
+              "172.8%",
+              "182.4%",
+              "192.0%",
+              "204.0%"
+            ]
+          },
+          {
+            "name": "Birgitta Duration",
+            "value": "20.0s"
+          },
+          {
+            "name": "CD",
+            "value": "16.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Supreme Instruction: Cyclonic Exterminator",
+      "desc": "Through Multipurpose Smart Assistance Unit, **Birgitta**, Ineffa can use Rocket Punches to quickly clean up opponents! Shoots Birgitta into the fray, dealing **AoE Electro DMG** and allowing Birgitta to remain on the field.\n\nIf Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.",
+      "img": "Ineffa/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "676.8%",
+            "727.6%",
+            "778.3%",
+            "846.0%",
+            "896.8%",
+            "947.5%",
+            "1015.2%",
+            "1082.9%",
+            "1150.6%",
+            "1218.2%",
+            "1285.9%",
+            "1353.6%",
+            "1438.2%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Overclocking Circuit",
+        "desc": "If there are thunderclouds created by Lunar-Charged reactions nearby when **Birgitta** unleashes Discharge attacks, she will initiate an additional attack, dealing **AoE Electro DMG** equal to 65% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.",
+        "img": "Ineffa/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Panoramic Permutation Protocol",
+        "desc": "When using the Elemental Burst **Supreme Instruction: Cyclonic Exterminator**, all your party members will gain the Parameter Permutation effect: Increases Ineffa and your own active party member's Elemental Mastery by 6% of Ineffa's ATK for 20s.",
+        "img": "Ineffa/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Moonsign Benediction: Assemblage Hub",
+        "desc": "When a party member triggers an Electro-Charged reaction, it will be converted into the Lunar-Charged reaction, with every 100 ATK that Ineffa has increasing Lunar-Charged's Base DMG by 0.7%, up to a maximum of 14%.\n\nFurther blessings may follow the new moon's rise...",
+        "img": "Ineffa/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Flavor Synthesis Unit",
+        "desc": "When Ineffa uses food, there is a 30% chance of gaining a seasoning ingredient.\n\nAdditionally, in Nod-Krai, it seems you'll be able to change Birgitta's appearance through certain means...",
+        "img": "Ineffa/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Rectifying Processor",
+        "desc": "When Ineffa activates her Optical Flow Shield Barrier, all nearby party members will gain the Carrier Flow Composite effect for 20s: Increases Lunar-Charged DMG by 2.5% for every 100 ATK that Ineffa has, up to a maximum of 50%.",
+        "img": "Ineffa/const_0"
+      },
+      {
+        "name": "Support Cleaning Module",
+        "desc": "After the Elemental Burst **Supreme Instruction: Cyclonic Exterminator** hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take **AoE Electro DMG** equal to 300% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.\nAdditionally, when the Elemental Burst **Supreme Instruction: Cyclonic Exterminator** is unleashed, nearby party members will gain Optical Flow Shield Barriers.",
+        "img": "Ineffa/const_1"
+      },
+      {
+        "name": "Enhanced Emotion Emulator",
+        "desc": "Increases the Level of **Cleaning Mode: Carrier Frequency** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ineffa/const_2"
+      },
+      {
+        "name": "The Edictless Path",
+        "desc": "When your own party members trigger Lunar-Charged reactions, recover 5 Elemental Energy. This effect can occur once every 4s.",
+        "img": "Ineffa/const_3"
+      },
+      {
+        "name": "Mirror's Dream Transcension",
+        "desc": "Increases the Level of **Supreme Instruction: Cyclonic Exterminator** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ineffa/const_4"
+      },
+      {
+        "name": "A Dawning Morn for You",
+        "desc": "When Ineffa is affected by the Carrier Flow Composite effect, she will deal **AoE Electro DMG** equal to 135% of her ATK to opponents in the current active character's vicinity after nearby thunderclouds release bursts of lightning at opponents. This DMG is considered Lunar-Charged DMG. The aforementioned effect can trigger once every 3.5s.",
+        "img": "Ineffa/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 841.9073
+        },
+        {
+          "stat": "Base DEF",
+          "value": 55.2501
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.030045
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1440.1045
+        },
+        {
+          "stat": "Base DEF",
+          "value": 94.50675
+        },
+        {
+          "stat": "Base ATK",
+          "value": 37.68297
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2237.701
+        },
+        {
+          "stat": "Base DEF",
+          "value": 146.84895
+        },
+        {
+          "stat": "Base ATK",
+          "value": 58.55354
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2835.8982
+        },
+        {
+          "stat": "Base DEF",
+          "value": 186.1056
+        },
+        {
+          "stat": "Base ATK",
+          "value": 74.20647
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3434.0955
+        },
+        {
+          "stat": "Base DEF",
+          "value": 225.36224
+        },
+        {
+          "stat": "Base ATK",
+          "value": 89.85939
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4032.2927
+        },
+        {
+          "stat": "Base DEF",
+          "value": 264.6189
+        },
+        {
+          "stat": "Base ATK",
+          "value": 105.512314
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.192
+        }
+      ]
+    }
+  ]
+}

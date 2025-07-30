@@ -290,7 +290,7 @@
     ],
     "refinements": {
       "name": "Overloaded",
-      "desc": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by **20%** for 12s."
+      "desc": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, Lunar-Charged, or Electro-infused Swirl reaction, ATK is increased by **20%** for 12s."
     }
   },
   "Fillet Blade": {
