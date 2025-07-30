@@ -10,10 +10,8 @@ A tool for making team portraits to use on KeqingMains guides. Based on muakasan
 Recommended to use a Chromium based browser due to [imageSmoothingQuality](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/imageSmoothingQuality#browser_compatibility) support.
 :::
 
-## Instructions
-
 <details>
-  <summary>Show Instructions</summary>
+  <summary>Instructions</summary>
   
   + Click on an icon below to add them to the team.
   + Shift + click on an icon below to add them to the last icon as a multi-icon.
