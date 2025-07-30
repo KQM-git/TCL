@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "prebuild": "node src/utils/scripts/prebuild.mjs",
-    "start": "npm run prebuild && docusaurus start",
-    "build": "npm run prebuild && docusaurus build",
+    "prepare_data": "node src/utils/scripts/prebuild.mjs",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
