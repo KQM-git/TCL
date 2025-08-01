@@ -246,6 +246,7 @@ export default function PortraitGenerator({
       active={active}
       remove={(i: number) => setActive([...active.slice(0, i), ...active.slice(i + 1)])}
       background={background}
+      secondaryBackground={secondaryBackground}
       portraitPadding={portraitPadding}
       names={names}
     />
