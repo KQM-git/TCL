@@ -16,13 +16,13 @@ const noteHeight = 45
 const noteFont = "bold 25px \"Arial\""
 const nameFont = "bold 17px \"Arial\""
 
-export default function Preview({ active, remove, background, portraitPadding, names }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, portraitPadding: boolean, names: boolean }) {
+export default function Preview({ active, remove, background, portraitPadding, changedWidth, names }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, portraitPadding: boolean, changedWidth: number, names: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
   const effectiveFramePad = background ? framePad : 0
   const effectivePortraitPad = portraitPadding ? portraitPad : 0
-  const frameSize = portraitSize + 2 * effectivePortraitPad
+  const frameSize = portraitSize * changedWidth + 2 * effectivePortraitPad
   const totalWidth = effectiveFramePad * 2 + frameSize * active.length + spacing * (active.length - 1)
   const totalHeight = 2 * effectiveFramePad + 2 * effectivePortraitPad + portraitSize + (names ? (background ? bottomOffset : bottomOffset + framePad) : 0)
 
@@ -61,11 +61,11 @@ export default function Preview({ active, remove, background, portraitPadding, n
       const icon = active[i]
 
       // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
-      const x = leftBorder + effectivePortraitPad
+      const x = leftBorder + effectivePortraitPad + portraitSize * (changedWidth - 1) / 2
       const y = effectiveFramePad + effectivePortraitPad
       await drawIcon(ctx, icon, x, y, portraitSize, names)
     }
-  })(), [active, background, effectivePortraitPad, names])
+  })(), [active, background, effectivePortraitPad, changedWidth, names])
 
   return <div>
     <canvas
