@@ -77,7 +77,10 @@ export default function PortraitGenerator({
   const [custom, setCustom] = useState([] as PortraitIcon[])
   const [background, setBackground] = useState(true)
   const [portraitPadding, setPortraitPadding] = useState(true)
+  
   const [names, setNames] = useState(false)
+  const [tripleSplit, setTripleSplit] = useState(true)
+  
   const [search, setSearch] = useState("")
 
   // Loading of custom icons
@@ -232,6 +235,9 @@ export default function PortraitGenerator({
       <label>
         Names text: <CheckboxInput set={setNames} value={names} />
       </label>
+      <label>
+        Improved triple split: <CheckboxInput set={setTripleSplit} value={tripleSplit} />
+      </label>
     </MDXComponents.Details>
     
     <Preview
@@ -240,6 +246,7 @@ export default function PortraitGenerator({
       background={background}
       portraitPadding={portraitPadding}
       names={names}
+      tripleSplit={tripleSplit}
     />
 
     <label>
