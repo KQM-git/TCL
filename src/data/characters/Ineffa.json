@@ -150,7 +150,7 @@
       },
       {
         "name": "Cleaning Mode: Carrier Frequency",
-        "desc": "Ineffa engages her Enhanced Cleaning Module, dealing a single instance of **AoE Electro DMG** to nearby opponents, activating her Optical Flow Shield Barrier, and summoning the Multipurpose Smart Assistance Unit, **Birgitta**.\nThe Optical Flow Shield Barrier absorbs DMG based on Ineffa's ATK, and it will absorb **Electro DMG** with 250% effectiveness.",
+        "desc": "Ineffa engages her Enhanced Cleaning Module, dealing a single instance of **AoE Electro DMG** to nearby opponents, activating her Optical Flow Shield Barrier, and summoning the Multipurpose Smart Assistance Unit, **Birgitta**.\nThe Optical Flow Shield Barrier absorbs DMG based on Ineffa's ATK, and it will absorb **Electro DMG** with 250% effectiveness.\n[Details title=\"Birgitta\"]Ineffa's assistant and companion in battle, she can be summoned to the battlefield via Elemental Skill or Elemental Burst.\nIf there are opponents nearby, Birgitta will quickly move close to an opponent and unleash Discharge attacks every 2s, dealing **AoE Electro DMG**.\nOnly one Birgitta that has been summoned by Ineffa herself can exist at any one time.\n\nAdditionally, in Nod-Krai, it seems you'll be able to change Birgitta's appearance through certain means...[/Details]",
         "img": "Ineffa/skill_1",
         "talentTable": [
           {
@@ -224,7 +224,7 @@
     ],
     "ult": {
       "name": "Supreme Instruction: Cyclonic Exterminator",
-      "desc": "Through Multipurpose Smart Assistance Unit, **Birgitta**, Ineffa can use Rocket Punches to quickly clean up opponents! Shoots Birgitta into the fray, dealing **AoE Electro DMG** and allowing Birgitta to remain on the field.\n\nIf Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.",
+      "desc": "Through Multipurpose Smart Assistance Unit, **Birgitta**, Ineffa can use Rocket Punches to quickly clean up opponents! Shoots Birgitta into the fray, dealing **AoE Electro DMG** and allowing Birgitta to remain on the field.\n\nIf Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.\n[Details title=\"Birgitta\"]Ineffa's assistant and companion in battle, she can be summoned to the battlefield via Elemental Skill or Elemental Burst.\nIf there are opponents nearby, Birgitta will quickly move close to an opponent and unleash Discharge attacks every 2s, dealing **AoE Electro DMG**.\nOnly one Birgitta that has been summoned by Ineffa herself can exist at any one time.\n\nAdditionally, in Nod-Krai, it seems you'll be able to change Birgitta's appearance through certain means...[/Details]",
       "img": "Ineffa/ult",
       "talentTable": [
         {
@@ -259,13 +259,13 @@
     "passive": [
       {
         "name": "Overclocking Circuit",
-        "desc": "If there are thunderclouds created by Lunar-Charged reactions nearby when **Birgitta** unleashes Discharge attacks, she will initiate an additional attack, dealing **AoE Electro DMG** equal to 65% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.",
+        "desc": "If there are thunderclouds created by Lunar-Charged reactions nearby when **Birgitta** unleashes Discharge attacks, she will initiate an additional attack, dealing **AoE Electro DMG** equal to 65% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.\n[Details title=\"Birgitta\"]Ineffa's assistant and companion in battle, she can be summoned to the battlefield via Elemental Skill or Elemental Burst.\nIf there are opponents nearby, Birgitta will quickly move close to an opponent and unleash Discharge attacks every 2s, dealing **AoE Electro DMG**.\nOnly one Birgitta that has been summoned by Ineffa herself can exist at any one time.\n\nAdditionally, in Nod-Krai, it seems you'll be able to change Birgitta's appearance through certain means...[/Details]",
         "img": "Ineffa/passive_0",
         "minAscension": 1
       },
       {
         "name": "Panoramic Permutation Protocol",
-        "desc": "When using the Elemental Burst **Supreme Instruction: Cyclonic Exterminator**, all your party members will gain the Parameter Permutation effect: Increases Ineffa and your own active party member's Elemental Mastery by 6% of Ineffa's ATK for 20s.",
+        "desc": "When using the Elemental Burst **Supreme Instruction: Cyclonic Exterminator**, all your party members will gain the Parameter Permutation effect: Increases Ineffa and your own active party member's Elemental Mastery by 6% of Ineffa's ATK for 20s.\n[Details title=\"Supreme Instruction: Cyclonic Exterminator\"]Through Multipurpose Smart Assistance Unit, **Birgitta**, Ineffa can use Rocket Punches to quickly clean up opponents! Shoots Birgitta into the fray, dealing **AoE Electro DMG** and allowing Birgitta to remain on the field.\n\nIf Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.[/Details]",
         "img": "Ineffa/passive_1",
         "minAscension": 4
       },
@@ -290,12 +290,12 @@
       },
       {
         "name": "Support Cleaning Module",
-        "desc": "After the Elemental Burst **Supreme Instruction: Cyclonic Exterminator** hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take **AoE Electro DMG** equal to 300% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.\nAdditionally, when the Elemental Burst **Supreme Instruction: Cyclonic Exterminator** is unleashed, nearby party members will gain Optical Flow Shield Barriers.",
+        "desc": "After the Elemental Burst **Supreme Instruction: Cyclonic Exterminator** hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take **AoE Electro DMG** equal to 300% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.\nAdditionally, when the Elemental Burst **Supreme Instruction: Cyclonic Exterminator** is unleashed, nearby party members will gain Optical Flow Shield Barriers.\n[Details title=\"Supreme Instruction: Cyclonic Exterminator\"]Through Multipurpose Smart Assistance Unit, **Birgitta**, Ineffa can use Rocket Punches to quickly clean up opponents! Shoots Birgitta into the fray, dealing **AoE Electro DMG** and allowing Birgitta to remain on the field.\n\nIf Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.[/Details]",
         "img": "Ineffa/const_1"
       },
       {
         "name": "Enhanced Emotion Emulator",
-        "desc": "Increases the Level of **Cleaning Mode: Carrier Frequency** by 3.\nMaximum upgrade level is 15.",
+        "desc": "Increases the Level of **Cleaning Mode: Carrier Frequency** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Cleaning Mode: Carrier Frequency\"]Ineffa engages her Enhanced Cleaning Module, dealing a single instance of **AoE Electro DMG** to nearby opponents, activating her Optical Flow Shield Barrier, and summoning the Multipurpose Smart Assistance Unit, **Birgitta**.\nThe Optical Flow Shield Barrier absorbs DMG based on Ineffa's ATK, and it will absorb **Electro DMG** with 250% effectiveness.[/Details]",
         "img": "Ineffa/const_2"
       },
       {
@@ -305,7 +305,7 @@
       },
       {
         "name": "Mirror's Dream Transcension",
-        "desc": "Increases the Level of **Supreme Instruction: Cyclonic Exterminator** by 3.\nMaximum upgrade level is 15.",
+        "desc": "Increases the Level of **Supreme Instruction: Cyclonic Exterminator** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Supreme Instruction: Cyclonic Exterminator\"]Through Multipurpose Smart Assistance Unit, **Birgitta**, Ineffa can use Rocket Punches to quickly clean up opponents! Shoots Birgitta into the fray, dealing **AoE Electro DMG** and allowing Birgitta to remain on the field.\n\nIf Birgitta is already on the field, having been summoned by Ineffa, this Skill will re-summon Birgitta at the target's location and reset her duration.[/Details]",
         "img": "Ineffa/const_4"
       },
       {

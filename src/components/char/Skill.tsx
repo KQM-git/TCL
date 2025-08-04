@@ -5,6 +5,7 @@ import MDXContent from '@theme/MDXContent'
 
 import { Character } from '@site/src/data/types'
 import { cleanup, getTalent } from '@site/src/utils/skill'
+import { preprocessDesc } from '../common/Tooltip_Details'
 
 export default function Skill({ char, skill, sectionFilter }: {
   char: Character
@@ -27,7 +28,11 @@ export default function Skill({ char, skill, sectionFilter }: {
     }
   }
 
-  return <div><MDXContent>
-    <ReactMarkdown>{desc}</ReactMarkdown>
-  </MDXContent></div>
+  const mdxdesc = preprocessDesc(desc)
+
+  return <div>
+      <MDXContent>
+        {mdxdesc}
+      </MDXContent>
+      </div>
 }
