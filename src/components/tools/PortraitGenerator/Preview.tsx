@@ -422,6 +422,12 @@ function filterName(name: string) {
   return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "");
 }
 
+function imageType(path: string) {
+  return path.includes("/img/characters") ? "Character" : 
+        (path.includes("/img/weapons/icon_ascended") ? "Weapon" : 
+        (path.includes("/img/artifacts/icon") ? "Artifact" : "Other"))
+}
+
 function getIndex(effectiveFramePad: number, effectivePortraitPad: number, frameSize: number, e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {
   const rect = e.currentTarget.getBoundingClientRect()
   const x = e.clientX - rect.left
