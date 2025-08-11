@@ -55,7 +55,7 @@ More data on what does and does not snapshot. Because this buff does not snapsho
 
 ### Abyss Card Heal 30% On Burst General Mechanics
 
-**By:** @anotherdustbitten, @jwalk511  
+**By:** @jwalk511  
 **Added:** <Version date="2025-06-07" />  
 **Last tested:** <VersionHl date="2025-03-23" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/abyss-card-heal-30-on-burst-general-mechanics)
