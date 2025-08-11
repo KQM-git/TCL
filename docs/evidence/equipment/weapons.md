@@ -1323,6 +1323,26 @@ Key users must have some dedicated field time to refresh the stacks of the buff,
 
 ---
 
+#### Both Parts Of Key Of Khaj Nisut Passive Apply To The Wielder
+
+**By:** @.chronicler  
+**Added:** <Version date="2025-06-07" />  
+**Last tested:** <VersionHl date="2025-03-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/both-parts-of-key-of-khaj-nisut-passive-applies-to-the-wielder)
+
+**Finding:**  
+Both portions of Key's passive increase the wielder's EM  
+
+**Evidence:**  
+[www.youtube.com](https://www.youtube.com/watch?v=Ecskh98jvqo)  
+  
+273 + (3\*70494\*0.0012) + (0.002\*70494) = 667.8  
+
+**Significance:**  
+Weapon mechanics  
+  
+---
+
 ### Kitain Cross Spear
 
 #### Kitain Spear Energy Drain Delay
