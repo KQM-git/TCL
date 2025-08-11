@@ -77,6 +77,7 @@ export default function PortraitGenerator({
   const [custom, setCustom] = useState([] as PortraitIcon[])
   const [background, setBackground] = useState(true)
   const [portraitPadding, setPortraitPadding] = useState(true)
+  const [secondaryBackground, setSecondaryBackground] = useState("PerPortrait")
   const [names, setNames] = useState(false)
   const [search, setSearch] = useState("")
 
@@ -223,7 +224,14 @@ export default function PortraitGenerator({
     <MDXComponents.Details>
       <summary>Settings</summary>
       <label>
-        Background: <CheckboxInput set={setBackground} value={background} />
+        Main background: <CheckboxInput set={setBackground} value={background} />
+      </label> <br/>
+      <label>
+        Secondary background: <select onChange={e => setSecondaryBackground(e.target.value)} value={secondaryBackground}>
+          <option value="PerPortrait">Per Portrait</option>
+          <option value="Merged">Merged</option>
+          <option value="None">None</option>
+        </select>
       </label> <br/>
       <label>
         Portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
@@ -238,6 +246,7 @@ export default function PortraitGenerator({
       active={active}
       remove={(i: number) => setActive([...active.slice(0, i), ...active.slice(i + 1)])}
       background={background}
+      secondaryBackground={secondaryBackground}
       portraitPadding={portraitPadding}
       names={names}
     />
@@ -262,9 +271,8 @@ export default function PortraitGenerator({
       />}
     </div>
     <label>
-      Character portrait style: <select id="charPortraits" onClick={() => {
-        const isChecked = document.getElementById("charPortraits") as HTMLSelectElement
-        if (isChecked.value == "Plain") {
+      Character portrait style: <select onChange={e => {
+        if (e.target.value == "Plain") {
           setCharPortraits(iconsChar)
           setTravelersPortraits(travelers)
         } else {
