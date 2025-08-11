@@ -60,6 +60,10 @@ External Shield Strength Bonuses, such as 2 Piece Retracing Bolide, apply to **C
 
 The answer is **No,** Shields **Don't** stack. For Example, Casting a Shield that has **1000 BA**, then casting a Shield with **500 BA** will not grant you a total of **1500 BA**. What actually happens is that the two Shields take damage simultaneously and the Shield with **500 BA** will **Break** before the **1000 BA** one.
 
+## Do Shields Snapshot?  
+
+Shields "snapshot" their respective character's stat at the time of Shield creation, rather than their stats afterwards. Shields have a static strength.  
+
 ## Special Cases
 
 ### Diona
