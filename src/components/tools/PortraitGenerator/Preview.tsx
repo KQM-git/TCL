@@ -16,19 +16,19 @@ const noteHeight = 45
 const noteFont = "bold 25px \"Arial\""
 const nameFont = "bold 17px \"Arial\""
 
-export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, names }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, names: boolean }) {
+export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, changedWidth, names, tripleSplit }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, changedWidth: number, names: boolean, tripleSplit: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
   const effectiveFramePad = background ? framePad : 0
   const effectivePortraitPad = portraitPadding ? portraitPad : 0
-  const frameSize = portraitSize + 2 * effectivePortraitPad
+  const frameSize = portraitSize * changedWidth + 2 * effectivePortraitPad
   const totalWidth = effectiveFramePad * 2 + frameSize * active.length + spacing * (active.length - 1)
   const totalHeight = 2 * effectiveFramePad + 2 * effectivePortraitPad + portraitSize + (names ? (background ? bottomOffset : bottomOffset + framePad) : 0)
 
   function getName(x: PortraitIcon) {
     // Filter out Skin or Version number
-    var filteredName = filterName(x.name)
+    var filteredName = filterName(x.name);
     return `${filteredName}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
   }
   const list = active.map(x => getName(x)).join(" - ")
@@ -69,11 +69,11 @@ export default function Preview({ active, remove, background, secondaryBackgroun
       const icon = active[i]
 
       // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
-      const x = leftBorder + effectivePortraitPad
+      const x = leftBorder + effectivePortraitPad + portraitSize * (changedWidth - 1) / 2
       const y = effectiveFramePad + effectivePortraitPad
-      await drawIcon(ctx, icon, x, y, portraitSize, names)
+      await drawIcon(ctx, icon, x, y, portraitSize, names, tripleSplit)
     }
-  })(), [active, background, secondaryBackground, effectivePortraitPad, names])
+  })(), [active, background, secondaryBackground, effectivePortraitPad, changedWidth, names, tripleSplit])
 
   return <div>
     <canvas
@@ -111,7 +111,7 @@ function loadImage(path: string): Promise<HTMLImageElement> {
   })
 }
 
-async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number, names: boolean) {
+async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number, names: boolean, tripleSplit: boolean) {
   const baseImage = await loadImage(icon.path)
   if (icon.others) {
     if (icon.others.length == 1) {
@@ -125,20 +125,39 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
       drawDiagonal(ctx, x, y, size)
     } else {
       // 3/4 images
-      await drawTopCenter(ctx, icon, baseImage, x, y, size)
-
       const secondIcon = icon.others[0]
       const second = await loadImage(secondIcon.path)
-      await drawLeftCenter(ctx, secondIcon, second, x, y, size)
-
+  
       const thirdIcon = icon.others[1]
       const third = await loadImage(thirdIcon.path)
-      if (icon.others.length == 2) {
+      
+      var fourthIconType = "None"
+      if (icon.others.length == 3) {
+        fourthIconType = imageType(icon.others[2].path)
+      }
+      
+      if (fourthIconType == "None" && tripleSplit) {
+        await drawTopLeft(ctx, icon, baseImage, x, y, size)
+        await drawTopRight(ctx, secondIcon, second, x, y, size)
+      } else {
+        await drawTopCenter(ctx, icon, baseImage, x, y, size)
+        await drawLeftCenter(ctx, secondIcon, second, x, y, size)
+      }
+      
+      if (fourthIconType == "None") {
         // 3 images
-        await drawBottomHalf(ctx, thirdIcon, third, x, y, size)
+        if (tripleSplit) {
+          await drawBottomCenter2(ctx, thirdIcon, third, x, y, size)
 
-        drawDiagonal(ctx, x, y, size)
-        drawTLHalfDiagonal(ctx, x, y, size)
+          drawHalfMiddleSplit(ctx, x, y, size)
+          drawHalfFirstTripleDiagonal(ctx, x, y, size)
+          drawHalfSecondTripleDiagonal(ctx, x, y, size)
+        } else {
+          await drawBottomHalf(ctx, thirdIcon, third, x, y, size)
+  
+          drawDiagonal(ctx, x, y, size)
+          drawTLHalfDiagonal(ctx, x, y, size)
+        }
       } else {
         // 4 images
         await drawRightCenter(ctx, thirdIcon, third, x, y, size)
@@ -179,7 +198,7 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
       ctx.fillStyle = "#FFFFFF"
       ctx.textBaseline = "alphabetic"
       // Filter out Skin or Version number
-      var filteredName = filterName(icon.name)
+      var filteredName = filterName(icon.name);
       // ctx.fillText(icon.name, x + size / 2, y + size + 34)
       wrapText(ctx, filteredName, x + size / 2, y + size + 34, 180, 20)
         .forEach(([text, x, y]) => ctx.fillText(text, x, y))
@@ -298,6 +317,65 @@ async function drawBottomCenter(ctx: CanvasRenderingContext2D, icon: PortraitIco
   }
   ctx.restore()
 }
+
+async function drawBottomCenter2(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  const smaller = half * .8
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x, y + size)
+  ctx.lineTo(x + size, y + size)
+  ctx.lineTo(x + size, y + size - lineOffset * 20)
+  ctx.lineTo(x + half, y + half)
+  ctx.lineTo(x, y + size - lineOffset * 20)
+  ctx.lineTo(x, y + size)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x + half - smaller / 2, y + size - smaller, smaller)
+  }
+  ctx.restore()
+}
+
+async function drawTopLeft(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  const smaller = half * .8
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x, y)
+  ctx.lineTo(x + half, y)
+  ctx.lineTo(x + half, y + half)
+  ctx.lineTo(x, y + half + lineOffset * 23)
+  ctx.lineTo(x, y)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x + lineOffset * 2, y + half - smaller, smaller)
+  }
+  ctx.restore()
+}
+
+async function drawTopRight(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  const smaller = half * .8
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x + size, y)
+  ctx.lineTo(x + half, y)
+  ctx.lineTo(x + half, y + half)
+  ctx.lineTo(x + size, y + half + lineOffset * 23)
+  ctx.lineTo(x + size, y)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x + half + smaller / 4 - lineOffset * 2, y + half - smaller, smaller)
+  }
+  ctx.restore()
+}
+
 function drawDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, size: number) {
   ctx.strokeStyle = "#FFFFFF"
   ctx.lineWidth = 2
@@ -322,10 +400,40 @@ function drawTLDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, siz
   ctx.lineTo(x + size - lineOffset, y + size - lineOffset)
   ctx.stroke()
 }
+function drawHalfMiddleSplit(ctx: CanvasRenderingContext2D, x: number, y: number, size: number) {
+  ctx.strokeStyle = "#FFFFFF"
+  ctx.lineWidth = 2
+  ctx.beginPath()
+  ctx.moveTo(x + size / 2, y + lineOffset)
+  ctx.lineTo(x + size / 2, y + size / 2)
+  ctx.stroke()
+}
+function drawHalfFirstTripleDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, size: number) {
+  ctx.strokeStyle = "#FFFFFF"
+  ctx.lineWidth = 2
+  ctx.beginPath()
+  ctx.moveTo(x + size / 2, y + size / 2)
+  ctx.lineTo(x + size - lineOffset, y + size - lineOffset * 20)
+  ctx.stroke()
+}
+function drawHalfSecondTripleDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, size: number) {
+  ctx.strokeStyle = "#FFFFFF"
+  ctx.lineWidth = 2
+  ctx.beginPath()
+  ctx.moveTo(x + size / 2, y + size / 2)
+  ctx.lineTo(x + lineOffset, y + size - lineOffset * 20)
+  ctx.stroke()
+}
 
 function filterName(name: string) {
   // Filter out Skin or Version number
-  return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "")
+  return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "");
+}
+
+function imageType(path: string) {
+  return path.includes("/img/characters") ? "Character" : 
+        (path.includes("/img/weapons/icon_ascended") ? "Weapon" : 
+        (path.includes("/img/artifacts/icon") ? "Artifact" : "Other"))
 }
 
 function getIndex(effectiveFramePad: number, effectivePortraitPad: number, frameSize: number, e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {

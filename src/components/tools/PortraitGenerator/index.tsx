@@ -78,7 +78,11 @@ export default function PortraitGenerator({
   const [background, setBackground] = useState(true)
   const [portraitPadding, setPortraitPadding] = useState(true)
   const [secondaryBackground, setSecondaryBackground] = useState("PerPortrait")
+  const [changedWidth, setChangedWidth] = useState(1)
+  
   const [names, setNames] = useState(false)
+  const [tripleSplit, setTripleSplit] = useState(true)
+  
   const [search, setSearch] = useState("")
 
   // Loading of custom icons
@@ -235,10 +239,23 @@ export default function PortraitGenerator({
       </label> <br/>
       <label>
         Portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
+      </label> <br/>
+      <label>
+        Width multiplier: <select onChange={e => setChangedWidth(parseFloat(e.target.value))} value={changedWidth}>
+          <option value="1">x1</option>
+          <option value="1.1">x1.1</option>
+          <option value="1.2">x1.2</option>
+          <option value="1.3">x1.3</option>
+          <option value="1.4">x1.4</option>
+          <option value="1.5">x1.5</option>
+        </select>
       </label> <br/> <br/>
 
       <label>
         Names text: <CheckboxInput set={setNames} value={names} />
+      </label>
+      <label>
+        Improved triple split: <CheckboxInput set={setTripleSplit} value={tripleSplit} />
       </label>
     </MDXComponents.Details>
     
@@ -248,7 +265,9 @@ export default function PortraitGenerator({
       background={background}
       secondaryBackground={secondaryBackground}
       portraitPadding={portraitPadding}
+      changedWidth={changedWidth}
       names={names}
+      tripleSplit={tripleSplit}
     />
 
     <label>
