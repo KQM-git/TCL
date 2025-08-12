@@ -77,6 +77,8 @@ export default function PortraitGenerator({
   const [custom, setCustom] = useState([] as PortraitIcon[])
   const [background, setBackground] = useState(true)
   const [portraitPadding, setPortraitPadding] = useState(true)
+  const [secondaryBackground, setSecondaryBackground] = useState("PerPortrait")
+  const [changedWidth, setChangedWidth] = useState(1)
   
   const [names, setNames] = useState(false)
   const [tripleSplit, setTripleSplit] = useState(true)
@@ -226,10 +228,27 @@ export default function PortraitGenerator({
     <MDXComponents.Details>
       <summary>Settings</summary>
       <label>
-        Background: <CheckboxInput set={setBackground} value={background} />
+        Main background: <CheckboxInput set={setBackground} value={background} />
+      </label> <br/>
+      <label>
+        Secondary background: <select onChange={e => setSecondaryBackground(e.target.value)} value={secondaryBackground}>
+          <option value="PerPortrait">Per Portrait</option>
+          <option value="Merged">Merged</option>
+          <option value="None">None</option>
+        </select>
       </label> <br/>
       <label>
         Portrait padding: <CheckboxInput set={setPortraitPadding} value={portraitPadding} />
+      </label> <br/>
+      <label>
+        Width multiplier: <select onChange={e => setChangedWidth(parseFloat(e.target.value))} value={changedWidth}>
+          <option value="1">x1</option>
+          <option value="1.1">x1.1</option>
+          <option value="1.2">x1.2</option>
+          <option value="1.3">x1.3</option>
+          <option value="1.4">x1.4</option>
+          <option value="1.5">x1.5</option>
+        </select>
       </label> <br/> <br/>
 
       <label>
@@ -244,7 +263,9 @@ export default function PortraitGenerator({
       active={active}
       remove={(i: number) => setActive([...active.slice(0, i), ...active.slice(i + 1)])}
       background={background}
+      secondaryBackground={secondaryBackground}
       portraitPadding={portraitPadding}
+      changedWidth={changedWidth}
       names={names}
       tripleSplit={tripleSplit}
     />
@@ -269,9 +290,8 @@ export default function PortraitGenerator({
       />}
     </div>
     <label>
-      Character portrait style: <select id="charPortraits" onClick={() => {
-        const isChecked = document.getElementById("charPortraits") as HTMLSelectElement
-        if (isChecked.value == "Plain") {
+      Character portrait style: <select onChange={e => {
+        if (e.target.value == "Plain") {
           setCharPortraits(iconsChar)
           setTravelersPortraits(travelers)
         } else {

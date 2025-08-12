@@ -6,6 +6,7 @@ import MDXContent from '@theme/MDXContent'
 import { Character } from '@site/src/data/types'
 import { cleanup } from '@site/src/utils/skill'
 import SkillIconTitle from './SkillIconTitle'
+import { preprocessDesc } from '../common/Tooltip_Details'
 
 export default function Passive({ char, passive }: {
   char: Character
@@ -14,10 +15,11 @@ export default function Passive({ char, passive }: {
   const depot = char.skill
   const entry = depot.passive[passive]
   const desc = cleanup(entry.desc)
+  const mdxdesc = preprocessDesc(desc)
 
   return <MDXContent>
     <SkillIconTitle skill={entry} />
-    <ReactMarkdown>{desc}</ReactMarkdown>
+    {mdxdesc}
   </MDXContent>
 }
 

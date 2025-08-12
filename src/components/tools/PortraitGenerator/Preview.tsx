@@ -16,13 +16,13 @@ const noteHeight = 45
 const noteFont = "bold 25px \"Arial\""
 const nameFont = "bold 17px \"Arial\""
 
-export default function Preview({ active, remove, background, portraitPadding, names, tripleSplit }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, portraitPadding: boolean, names: boolean, tripleSplit: boolean }) {
+export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, changedWidth, names, tripleSplit }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, changedWidth: number, names: boolean, tripleSplit: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
   const effectiveFramePad = background ? framePad : 0
   const effectivePortraitPad = portraitPadding ? portraitPad : 0
-  const frameSize = portraitSize + 2 * effectivePortraitPad
+  const frameSize = portraitSize * changedWidth + 2 * effectivePortraitPad
   const totalWidth = effectiveFramePad * 2 + frameSize * active.length + spacing * (active.length - 1)
   const totalHeight = 2 * effectiveFramePad + 2 * effectivePortraitPad + portraitSize + (names ? (background ? bottomOffset : bottomOffset + framePad) : 0)
 
@@ -51,21 +51,29 @@ export default function Preview({ active, remove, background, portraitPadding, n
     }
     roundRect(ctx, 0, 0, totalWidth, totalHeight, 19)
 
-    for (let i = 0; i < active.length; i++) {
-      const leftBorder = effectiveFramePad + i * (frameSize + spacing)
+    if (secondaryBackground == "Merged") {
       ctx.fillStyle = "#0B0923"
       ctx.strokeStyle = "#000000"
-      if (background)
+      roundRect(ctx, effectiveFramePad, effectiveFramePad, active.length * (frameSize + spacing) - spacing, portraitSize + 2 * effectivePortraitPad, 10)
+    }
+    
+    for (let i = 0; i < active.length; i++) {
+      const leftBorder = effectiveFramePad + i * (frameSize + spacing)
+
+      if (secondaryBackground == "PerPortrait") {
+        ctx.fillStyle = "#0B0923"
+        ctx.strokeStyle = "#000000"
         roundRect(ctx, leftBorder, effectiveFramePad, frameSize, portraitSize + 2 * effectivePortraitPad, 10)
+      }
 
       const icon = active[i]
 
       // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
-      const x = leftBorder + effectivePortraitPad
+      const x = leftBorder + effectivePortraitPad + portraitSize * (changedWidth - 1) / 2
       const y = effectiveFramePad + effectivePortraitPad
       await drawIcon(ctx, icon, x, y, portraitSize, names, tripleSplit)
     }
-  })(), [active, background, effectivePortraitPad, names, tripleSplit])
+  })(), [active, background, secondaryBackground, effectivePortraitPad, changedWidth, names, tripleSplit])
 
   return <div>
     <canvas

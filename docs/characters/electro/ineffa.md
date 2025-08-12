@@ -188,6 +188,10 @@ import Passive from '@site/src/components/char/Passive'
 
 <Tabs queryString="passive">
 <TabItem value='passive' label='Passive'>
+<Passive char={char} passive={3} />
+</TabItem>
+
+<TabItem value='moonsign' label='Moonsign Benediction'>
 <Passive char={char} passive={2} />
 </TabItem>
 
