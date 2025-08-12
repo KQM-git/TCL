@@ -47,6 +47,7 @@ At each chamber of a floor, 3 cards are offered. You may select one. These cards
 
 * If a player presses retry and reselects the Max HP +25% card, they will be missing some HP - [Chameleon\#9008](../../evidence/combat-mechanics/spiral-domains/cards.md#hp-loss-on-retry)
 * The +20% DMG buff provided by the "Character DMG within 8s of sprint +20%" Abyss card does not snapshot - [Aeondrew#5220](../../evidence/combat-mechanics/spiral-domains/cards.md#character-dmg-within-8s-of-sprint-20-abyss-card-buff-does-not-snapshot)
+* The Abyss card "Character Elemental Bursts instantly restore 30% HP" counts as a heal, but does not attribute the source of the heal to the character that performed the Elemental Burst. - [@jwalk511](../../evidence/combat-mechanics/spiral-domains/cards.md#abyss-card-heal-30-on-burst-general-mechanics)
 
 ## Evidence Vault
 

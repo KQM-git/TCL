@@ -51,4 +51,29 @@ The +20% DMG buff given by the "Character DMG within 8s of sprint +20%" Abyss ca
 When this Abyss buff is selected, sprinting after Fischl has cast her Elemental Skill increases Oz's damage on CRIT from 7207 to 7894. After the buff expires, as seen on the bottom of the screen, Oz's damage returns to 7207.  
   
 **Significance:**  
-More data on what does and does not snapshot. Because this buff does not snapshot, it will not last for the full duration of longer snapshotting abilities, such as Fischl's Skill or Ganyu's Burst. Teams whose snapshotting abilities do the majority of their damage later in the rotation should avoid activating this buff too early; otherwise, it will expire before the point where it would be most effective.
+More data on what does and does not snapshot. Because this buff does not snapshot, it will not last for the full duration of longer snapshotting abilities, such as Fischl's Skill or Ganyu's Burst. Teams whose snapshotting abilities do the majority of their damage later in the rotation should avoid activating this buff too early; otherwise, it will expire before the point where it would be most effective.  
+
+### Abyss Card Heal 30% On Burst General Mechanics
+
+**By:** @jwalk511  
+**Added:** <Version date="2025-06-07" />  
+**Last tested:** <VersionHl date="2025-03-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/abyss-card-heal-30-on-burst-general-mechanics)
+
+**Finding:**  
+The Abyss card "Character Elemental Bursts instantly restore 30% HP" counts as a heal, but does not attribute the source of the heal to the character that performed the Elemental Burst.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/xnjDThtU-qg)  
+Furina heals herself to full using this card's effects. As a result, her A1 procs and heals all teammates. Furina's A1 does not proc on self-heal, proving this heal does not come from Furina.  
+  
+[YouTube](https://youtu.be/300WLCATpBk)  
+Furina was given a 4-piece OHC artifact set.  
+Furina uses her Elemental Burst and is healed, but does not generate the Clam bubble.  
+She has a max HP of 41749, of which 30% is 12524.7. Her heal raised her HP from 20441 to 32965, for an amount of 12524 HP. This demonstrates that the heal amount is not affected by the Healing Bonus given by the 2pc Clam set.  
+She does generate her Clam bubble as normal after casting her Skill, proving the set was equipped.  
+  
+Ororon uses his Burst to generate Fanfare, and then Kazuha uses his Burst. Kazuha has a max HP of 24211, of which 30% is 7263.3. He uses his Burst, and goes from 12556 to 23421, a difference of 10,865. This is much higher than 30%, proving that his incoming HP% bonus does affect the heal. 17 frames later, Kazuha is healed to full by Furina's summon, proving that the extra heal was not from Furina ticking on the same frame.  
+  
+**Significance:**  
+This card cannot be used to proc artifact sets or other conditionals that require the character to perform a heal, but it can affect any modifier dependent only on a heal occurring, such as for stacking Furina's Fanfare.
