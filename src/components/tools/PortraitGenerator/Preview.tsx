@@ -16,19 +16,19 @@ const noteHeight = 45
 const noteFont = "bold 25px \"Arial\""
 const nameFont = "bold 17px \"Arial\""
 
-export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, names }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, names: boolean }) {
+export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, changedWidth, names }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, changedWidth: number, names: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
   const effectiveFramePad = background ? framePad : 0
   const effectivePortraitPad = portraitPadding ? portraitPad : 0
-  const frameSize = portraitSize + 2 * effectivePortraitPad
+  const frameSize = portraitSize * changedWidth + 2 * effectivePortraitPad
   const totalWidth = effectiveFramePad * 2 + frameSize * active.length + spacing * (active.length - 1)
   const totalHeight = 2 * effectiveFramePad + 2 * effectivePortraitPad + portraitSize + (names ? (background ? bottomOffset : bottomOffset + framePad) : 0)
 
   function getName(x: PortraitIcon) {
     // Filter out Skin or Version number
-    var filteredName = filterName(x.name)
+    var filteredName = filterName(x.name);
     return `${filteredName}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
   }
   const list = active.map(x => getName(x)).join(" - ")
@@ -69,11 +69,11 @@ export default function Preview({ active, remove, background, secondaryBackgroun
       const icon = active[i]
 
       // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
-      const x = leftBorder + effectivePortraitPad
+      const x = leftBorder + effectivePortraitPad + portraitSize * (changedWidth - 1) / 2
       const y = effectiveFramePad + effectivePortraitPad
       await drawIcon(ctx, icon, x, y, portraitSize, names)
     }
-  })(), [active, background, secondaryBackground, effectivePortraitPad, names])
+  })(), [active, background, secondaryBackground, effectivePortraitPad, changedWidth, names])
 
   return <div>
     <canvas
@@ -179,7 +179,7 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
       ctx.fillStyle = "#FFFFFF"
       ctx.textBaseline = "alphabetic"
       // Filter out Skin or Version number
-      var filteredName = filterName(icon.name)
+      var filteredName = filterName(icon.name);
       // ctx.fillText(icon.name, x + size / 2, y + size + 34)
       wrapText(ctx, filteredName, x + size / 2, y + size + 34, 180, 20)
         .forEach(([text, x, y]) => ctx.fillText(text, x, y))
@@ -325,7 +325,7 @@ function drawTLDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, siz
 
 function filterName(name: string) {
   // Filter out Skin or Version number
-  return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "")
+  return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "");
 }
 
 function getIndex(effectiveFramePad: number, effectivePortraitPad: number, frameSize: number, e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {
