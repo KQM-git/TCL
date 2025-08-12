@@ -16,7 +16,7 @@ const noteHeight = 45
 const noteFont = "bold 25px \"Arial\""
 const nameFont = "bold 17px \"Arial\""
 
-export default function Preview({ active, remove, background, portraitPadding, changedWidth, names }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, portraitPadding: boolean, changedWidth: number, names: boolean }) {
+export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, changedWidth, names }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, changedWidth: number, names: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
@@ -51,12 +51,20 @@ export default function Preview({ active, remove, background, portraitPadding, c
     }
     roundRect(ctx, 0, 0, totalWidth, totalHeight, 19)
 
-    for (let i = 0; i < active.length; i++) {
-      const leftBorder = effectiveFramePad + i * (frameSize + spacing)
+    if (secondaryBackground == "Merged") {
       ctx.fillStyle = "#0B0923"
       ctx.strokeStyle = "#000000"
-      if (background)
+      roundRect(ctx, effectiveFramePad, effectiveFramePad, active.length * (frameSize + spacing) - spacing, portraitSize + 2 * effectivePortraitPad, 10)
+    }
+    
+    for (let i = 0; i < active.length; i++) {
+      const leftBorder = effectiveFramePad + i * (frameSize + spacing)
+
+      if (secondaryBackground == "PerPortrait") {
+        ctx.fillStyle = "#0B0923"
+        ctx.strokeStyle = "#000000"
         roundRect(ctx, leftBorder, effectiveFramePad, frameSize, portraitSize + 2 * effectivePortraitPad, 10)
+      }
 
       const icon = active[i]
 
@@ -65,7 +73,7 @@ export default function Preview({ active, remove, background, portraitPadding, c
       const y = effectiveFramePad + effectivePortraitPad
       await drawIcon(ctx, icon, x, y, portraitSize, names)
     }
-  })(), [active, background, effectivePortraitPad, changedWidth, names])
+  })(), [active, background, secondaryBackground, effectivePortraitPad, changedWidth, names])
 
   return <div>
     <canvas

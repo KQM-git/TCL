@@ -994,7 +994,7 @@
     ],
     "refinements": {
       "name": "Mind in Bloom",
-      "desc": "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore **12**/?/?/?/? Elemental Energy and increase Elemental Mastery by **60**/?/?/?/? for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
+      "desc": "When Electro-Charged, Lunar-Charged, or Bloom is triggered, restore **12**/**15**/**18**/**21**/**24** Elemental Energy and increase Elemental Mastery by **60**/**75**/**90**/**105**/**120** for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
     }
   },
   "Forest Regalia": {
