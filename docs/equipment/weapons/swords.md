@@ -46,6 +46,7 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 * Key of Khaj-Nisut's EM buff does not affect Kazuha's A4 buff. [CrystalOfSugar\#8624](../../evidence/equipment/weapons.md#key-of-khaj-nisut)
 * Stacks remain even after switching out, and they share their duration, meaning they expire at the same time when the timer of the last stack gained expires.
 * Stacks cannot be gained when the user is off-field, and the duration of the stacks continues counting down even when the user is off-field.
+* Both portions of Key's passive increase the wielder's EM. [@.chronicler](../../evidence/equipment/weapons.md#both-parts-of-key-of-khaj-nisut-passive-apply-to-the-wielder)
 
 </Weapon>
 
