@@ -56,4 +56,20 @@ My original math is in the description of the video. [YouTube](https://www.youtu
 
 **Significance:**
 
-Other shield effectiveness is not accounted for, but it stands to reason that they work the same way. We can both say that a shield has 2.5x of its current value, or the damage is reduced by 2.5x, against it's effective Element.
+Other shield effectiveness is not accounted for, but it stands to reason that they work the same way. We can both say that a shield has 2.5x of its current value, or the damage is reduced by 2.5x, against it's effective Element.  
+
+## Do Shields “Snapshot”  
+
+**By:** @mikeskies, @aureba  
+**Added:** <Version date="2025-06-05" />  
+**Last tested:** <VersionHl date="2025-06-05" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/do-shields-“snapshot”)  
+
+**Theory:**  
+Shields snapshot their respective stat.  
+  
+**Evidence:**  
+Videos of different shielders using their Shields before and after stat buffs show that Shields use their character stat at the time of Shield creation, rather than their current stat. Shields have a static strength. [YouTube](https://youtu.be/mAKrRJdger4?si=9SQ9kD2pmP1yBa0c)  
+  
+**Significance:**  
+Temporary stat buffs (e.g. ATK buffs to Lan Yan) can be used to increase the strength of a Shield a character generates.
