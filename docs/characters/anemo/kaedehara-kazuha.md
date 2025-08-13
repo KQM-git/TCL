@@ -239,6 +239,9 @@ import Constellation from '@site/src/components/char/Constellation'
 **Notes**
 
 * The Anemo infusion can be overridden by other infusion effects such as Bennett's C6 Inspiration Field.
+* Kazuha can have ownership of weapon Swirls involving his C6 if his infusion is applied onto another infusion's Aura.  
+* Weapon Swirls owned by Kazuha can trigger his 4VV set effect. However, they cannot trigger his A4.  
+
 
 </TabItem>
 </Tabs>

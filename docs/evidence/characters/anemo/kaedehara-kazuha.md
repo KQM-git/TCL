@@ -311,7 +311,28 @@ This finding can potentially impact rotation planning. When using teams involvin
 
 * Kazuha's Anemo Infusion can be overridden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)
 * The Anemo infusion from C6 can react with infusion field triggering a Swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)
-* Damage bonus works regardless of infusion overlap, but only during infusion duration. - [xTuki\#4893](https://imgur.com/eJJc5K6)
+* Damage bonus works regardless of infusion overlap, but only during infusion duration. - [xTuki\#4893](https://imgur.com/eJJc5K6)  
+
+#### Kazuha C6 Weapon Swirl Interactions
+
+**By:** @xochiyoh  
+**Added:** <Version date="2025-02-28" />  
+**Last tested:** <VersionHl date="2024-08-17" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kazuha-c6-weapon-swirl-interactions)  
+
+**Finding:**  
+Kazuha C6 weapon Swirl interactions  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/uv-ffGfK28s)  
+Kazuha can have ownership of weapon Swirls involving his C6 if his infusion is applied onto another infusion's Aura  
+Weapon Swirls owned by him can trigger his 4VV set effect  
+  
+[YouTube](https://youtu.be/rzIV_BWPQkA)  
+Weapon Swirls owned by Kazuha cannot trigger his A4  
+  
+**Significance:**  
+real weapon swirl info in tcl!!!  
 
 ## Synergies/Interactions
 
