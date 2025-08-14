@@ -76,8 +76,8 @@ export default function PortraitGenerator({
   }] as PortraitIcon[])
   const [custom, setCustom] = useState([] as PortraitIcon[])
   const [background, setBackground] = useState(true)
-  const [portraitPadding, setPortraitPadding] = useState(true)
   const [secondaryBackground, setSecondaryBackground] = useState("PerPortrait")
+  const [portraitPadding, setPortraitPadding] = useState(true)
   const [changedWidth, setChangedWidth] = useState(1)
   
   const [names, setNames] = useState(false)
@@ -228,6 +228,21 @@ export default function PortraitGenerator({
     <MDXComponents.Details>
       <summary>Settings</summary>
       <label>
+        <button onClick={e => {
+          if (confirm(`Are you sure you want to reset your settings?`)) {
+            setBackground(true)
+            setSecondaryBackground("PerPortrait")
+            setPortraitPadding(true)
+            setChangedWidth(1)
+
+            setNames(false)
+            setTripleSplit(true)
+          }
+        }}>
+        Reset to default settings</button>
+      </label> <br/> <br/>
+      
+      <label>
         Main background: <CheckboxInput set={setBackground} value={background} />
       </label> <br/>
       <label>
@@ -253,7 +268,7 @@ export default function PortraitGenerator({
 
       <label>
         Names text: <CheckboxInput set={setNames} value={names} />
-      </label>
+      </label> <br/>
       <label>
         Improved triple split: <CheckboxInput set={setTripleSplit} value={tripleSplit} />
       </label>
