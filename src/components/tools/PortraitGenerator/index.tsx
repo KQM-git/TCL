@@ -110,7 +110,11 @@ export default function PortraitGenerator({
       name: "Fill slot",
       path: "/img/characters/abstract-user-flat-3-colored.png",
     },
-    ...travelersPortraits
+    ...travelersPortraits,
+    {
+      name: "Natlan",
+      path: "/img/regions/Natlan.png",
+    }
   ]
 
   const iconsChar = Object.entries(charIcons).sort((a, b) => a[0].localeCompare(b[0])).map(([element, icons]) => ({
