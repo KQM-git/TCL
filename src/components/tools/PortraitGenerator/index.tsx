@@ -82,6 +82,8 @@ export default function PortraitGenerator({
   
   const [names, setNames] = useState(false)
   const [tripleSplit, setTripleSplit] = useState(true)
+
+  const [artifactSplit, setArtifactSplit] = useState(true)
   
   const [search, setSearch] = useState("")
 
@@ -237,6 +239,8 @@ export default function PortraitGenerator({
 
             setNames(false)
             setTripleSplit(true)
+
+            setArtifactSplit(true)
           }
         }}>
         Reset to default settings</button>
@@ -271,6 +275,13 @@ export default function PortraitGenerator({
       </label> <br/>
       <label>
         Improved triple split: <CheckboxInput set={setTripleSplit} value={tripleSplit} />
+      </label> <br/> <br/>
+
+      <label>
+        Artifacts: <select onChange={e => setArtifactSplit(e.target.value ? true : false)} value={artifactSplit ? "1" : ""}>
+          <option value="1">Partial</option>
+          <option value="">Full</option>
+        </select>
       </label>
     </MDXComponents.Details>
     
@@ -283,6 +294,7 @@ export default function PortraitGenerator({
       changedWidth={changedWidth}
       names={names}
       tripleSplit={tripleSplit}
+      artifactSplit={artifactSplit}
     />
 
     <label>

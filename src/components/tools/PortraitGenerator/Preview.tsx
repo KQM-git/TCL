@@ -16,7 +16,7 @@ const noteHeight = 45
 const noteFont = "bold 25px \"Arial\""
 const nameFont = "bold 17px \"Arial\""
 
-export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, changedWidth, names, tripleSplit }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, changedWidth: number, names: boolean, tripleSplit: boolean }) {
+export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, changedWidth, names, tripleSplit, artifactSplit }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, changedWidth: number, names: boolean, tripleSplit: boolean, artifactSplit: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
@@ -71,9 +71,9 @@ export default function Preview({ active, remove, background, secondaryBackgroun
       // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
       const x = leftBorder + effectivePortraitPad + portraitSize * (changedWidth - 1) / 2
       const y = effectiveFramePad + effectivePortraitPad
-      await drawIcon(ctx, icon, x, y, portraitSize, names, tripleSplit)
+      await drawIcon(ctx, icon, x, y, portraitSize, names, tripleSplit, artifactSplit)
     }
-  })(), [active, background, secondaryBackground, effectivePortraitPad, changedWidth, names, tripleSplit])
+  })(), [active, background, secondaryBackground, effectivePortraitPad, changedWidth, names, tripleSplit, artifactSplit])
 
   return <div>
     <canvas
@@ -111,13 +111,23 @@ function loadImage(path: string): Promise<HTMLImageElement> {
   })
 }
 
-async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number, names: boolean, tripleSplit: boolean) {
+async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number, names: boolean, tripleSplit: boolean, artifactSplit: boolean) {
   const baseImage = await loadImage(icon.path)
+  const firstIconType = imageType(icon.path)
+
+  if (firstIconType == "Artifact") {
+    icon.full = artifactSplit
+  }
+  
   if (icon.others) {
     if (icon.others.length == 1) {
       // 2 images
       await drawTopHalf(ctx, icon, baseImage, x, y, size)
 
+      const secondIconType = imageType(icon.others[0].path)
+      if (secondIconType == "Artifact") {
+        icon.others[0].full = artifactSplit
+      }
       const secondIcon = icon.others[0]
       const second = await loadImage(secondIcon.path)
       await drawBottomHalf(ctx, secondIcon, second, x, y, size)
@@ -125,15 +135,26 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
       drawDiagonal(ctx, x, y, size)
     } else {
       // 3/4 images
+      const secondIconType = imageType(icon.others[0].path)
+      if (secondIconType == "Artifact") {
+        icon.others[0].full = artifactSplit
+      }
       const secondIcon = icon.others[0]
       const second = await loadImage(secondIcon.path)
-  
+
+      const thirdIconType = imageType(icon.others[1].path)
+      if (thirdIconType == "Artifact") {
+        icon.others[1].full = artifactSplit
+      }
       const thirdIcon = icon.others[1]
       const third = await loadImage(thirdIcon.path)
       
       var fourthIconType = "None"
       if (icon.others.length == 3) {
         fourthIconType = imageType(icon.others[2].path)
+        if (fourthIconType == "Artifact") {
+          icon.others[2].full = artifactSplit
+        }
       }
       
       if (fourthIconType == "None" && tripleSplit) {
