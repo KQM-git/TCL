@@ -10,6 +10,7 @@ Gauges: docs/resources/compendiums/elemental-gauges.md
 Particles: docs/resources/compendiums/elemental-skill-particles.md
 Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
+Proc damage: docs/combat=mechanics/damage/damage-formula#proc-damage-sources
 -->
 import char from '@site/src/data/characters/CharacterName.json'
 import SkillIcon from '@site/src/components/char/SkillIcon'

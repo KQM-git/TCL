@@ -191,6 +191,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 </Artifact>
 
+### Night of the Sky's Unveiling
+
+<Artifact artifact="Night of the Sky's Unveiling" />
+
 ### Nighttime Whispers in the Echoing Woods
 
 <Artifact artifact="Nighttime Whispers in the Echoing Woods" />
@@ -268,6 +272,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
 
 </Artifact>
+
+### Silken Moon's Serenade
+
+<Artifact artifact="Silken Moon's Serenade" />
 
 ### Song of Days Past
 

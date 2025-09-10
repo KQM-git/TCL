@@ -2493,6 +2493,94 @@
       "desc": "When an attack hits an opponent, deal AoE DMG equal to **40%**/**50%**/**60%**/**70%**/**80%** of Max HP at the target location. This effect can be triggered once every 15s."
     }
   },
+  "Snare Hook": {
+    "name": "Snare Hook",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.133333,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Phantom Flash",
+      "desc": "Upon causing an Elemental Reaction, increases Elemental Mastery by **60**/**75**/**90**/**105**/**120** for 12s. Moonsign: Ascendant Gleam: Elemental Mastery from this effect is further increased by **60**/**75**/**90**/**105**/**120**. This effect can be triggered even if the equipping character is off-field."
+    }
+  },
   "Song of Stillness": {
     "name": "Song of Stillness",
     "weaponType": "Bow",

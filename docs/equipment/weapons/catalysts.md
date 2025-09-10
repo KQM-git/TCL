@@ -60,6 +60,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 </Weapon>
 
+### Nightweaver's Looking Glass
+
+<Weapon weapon="Nightweaver's Looking Glass" weapons={catalysts} />
+
 ### Skyward Atlas
 
 <Weapon weapon="Skyward Atlas" weapons={catalysts}>
@@ -115,6 +119,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 <BlackcliffSeries/>
 
 </Weapon>
+
+### Blackmarrow Lantern
+
+<Weapon weapon="Blackmarrow Lantern" weapons={catalysts} />
 
 ### Dodoco Tales
 

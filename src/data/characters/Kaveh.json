@@ -200,7 +200,7 @@
     ],
     "ult": {
       "name": "Painted Dome",
-      "desc": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing **AoE Dendro DMG** to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:\n·Increases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to **Dendro DMG** that cannot be overridden.\n·All Dendro Cores created by all your own party members through Bloom reactions will deal additional DMG when they burst.\n·Increases Kaveh's resistance to interruption.\nThese effects will be canceled once Kaveh leaves the field.\n\n**\"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalescences of human memories.\"**",
+      "desc": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing **AoE Dendro DMG** to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:\n· Increases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to **Dendro DMG** that cannot be overridden.\n· All Dendro Cores created by all your own party members through Bloom and Lunar-Bloom reactions will deal additional DMG when they burst.\n· Increases Kaveh's resistance to interruption.\nThese effects will be canceled once Kaveh leaves the field.\n\n**\"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalescences of human memories.\"**",
       "img": "Kaveh/ult",
       "talentTable": [
         {
@@ -292,7 +292,7 @@
       },
       {
         "name": "Feast of Apadana",
-        "desc": "Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.",
+        "desc": "Dendro Cores created from Bloom and Lunar-Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.",
         "img": "Kaveh/const_3"
       },
       {
@@ -442,7 +442,7 @@
     },
     {
       "level": 6,
-      "maxLevel": 90,
+      "maxLevel": 100,
       "statsUp": [
         {
           "stat": "Base HP",

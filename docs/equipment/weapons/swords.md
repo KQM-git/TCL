@@ -205,6 +205,10 @@ import SacSeries from './\_common/sac_series.md';
 
 <Weapon weapon="Sapwood Blade" weapons={swords} />
 
+### Serenity's Call
+
+<Weapon weapon="Serenity's Call" weapons={swords} />
+
 ### Sturdy bone
 
 <Weapon weapon="Sturdy Bone" weapons={swords} />

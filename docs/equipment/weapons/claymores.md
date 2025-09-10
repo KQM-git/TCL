@@ -144,6 +144,10 @@ import FavSeries from './\_common/fav_series.md';
 
 <Weapon weapon="Makhaira Aquamarine" weapons={claymores} />
 
+### Master Key
+
+<Weapon weapon="Master Key" weapons={claymores} />
+
 ### Portable Power Saw
 
 <Weapon weapon="Portable Power Saw" weapons={claymores} />

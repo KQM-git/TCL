@@ -452,7 +452,7 @@
     },
     {
       "level": 6,
-      "maxLevel": 90,
+      "maxLevel": 100,
       "statsUp": [
         {
           "stat": "Base HP",

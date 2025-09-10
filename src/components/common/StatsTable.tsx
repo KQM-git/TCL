@@ -56,7 +56,7 @@ export default function StatsTable({
       </thead>
       <tbody>
         {levels
-          .filter((r) => expanded ? true : (r.a == 0 && r.lv == 1) || (r.a == maxAscension.level && r.lv == maxAscension.maxLevel))
+          .filter((r) => expanded ? true : (r.a == 0 && r.lv == 1) || (r.a == maxAscension.level && r.lv == 90) || (r.a == maxAscension.level && r.lv == maxAscension.maxLevel))
           .map(({ a, lv }) => <tr key={a + "," + lv}>
             <td align='left'>A{a}</td>
             <td align='left'>{lv}</td>

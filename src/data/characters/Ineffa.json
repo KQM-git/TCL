@@ -271,7 +271,7 @@
       },
       {
         "name": "Moonsign Benediction: Assemblage Hub",
-        "desc": "When a party member triggers an Electro-Charged reaction, it will be converted into the Lunar-Charged reaction, with every 100 ATK that Ineffa has increasing Lunar-Charged's Base DMG by 0.7%, up to a maximum of 14%.\n\nFurther blessings may follow the new moon's rise...",
+        "desc": "When a party member triggers an Electro-Charged reaction, it will be converted into the Lunar-Charged reaction, with every 100 ATK that Ineffa has increasing Lunar-Charged's Base DMG by 0.7%, up to a maximum of 14%.\n\nAdditionally, when Ineffa is in the party, the party's **Moonsign** will increase by 1 level.",
         "img": "Ineffa/passive_2",
         "minAscension": 0
       },
@@ -450,7 +450,7 @@
     },
     {
       "level": 6,
-      "maxLevel": 90,
+      "maxLevel": 100,
       "statsUp": [
         {
           "stat": "Base HP",

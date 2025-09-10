@@ -11,6 +11,9 @@ export default function CharStatsTable({ char }: { char: Character }) {
   let prev = 1
   for (const asc of char.ascensions) {
     baseLevels.push({ a: asc.level, lv: prev })
+    if (asc.level == 6) {
+      baseLevels.push({ a: 6, lv: 90 })
+    }
     baseLevels.push({ a: asc.level, lv: asc.maxLevel })
     prev = asc.maxLevel
   }

@@ -449,7 +449,7 @@
       },
       {
         "name": "Serendipitous Sin",
-        "desc": "Increases the Level of **Havoc: Ruin** by 3.\nMaximum upgrade level is 15.",
+        "desc": "Increases the Level of **Havoc: Ruin** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Havoc: Ruin\"]Skirk's Elemental Burst is not reliant on Elemental Energy but instead on **Serpent's Subtlety**.\nWhen Skirk has at least 50 Serpent's Subtlety, she can expend all her Serpent's Subtlety to unleash her Elemental Burst, ripping the space before her apart and using rapid consecutive slashes that deal **AoE Cryo DMG**. At the same time, the DMG dealt by an instance of this Elemental Burst will be increased by every point of Serpent's Subtlety over 50 when it is unleashed. Up to 12 points can be counted for this purpose.\n\nWhen Skirk is in **Seven-Phase Flash** mode, Havoc: Ruin will be replaced by Havoc: Extinction.\n\n**Havoc: Extinction**\nA special Elemental Burst that can be used even without consuming Serpent's Subtlety.\nAfter using it, Skirk will gain the \"All Shall Wither\" effect, which will last until Seven-Phase Flash ends. After unlocking the Passive Talent **Reason Beyond Reason**, she can also absorb nearby Void Rifts.\nWhile \"All Shall Wither\" is active, every 0.1s, after Skirk's Normal Attack hits an opponent, that Normal Attack will deal increased DMG. If she absorbed any Void Rifts while using **Havoc: Extinction**, this Normal Attack's DMG will be further increased based on the number of Rifts absorbed.\nThis effect will be canceled when it has triggered 10 times.[/Details]",
         "img": "Skirk/const_2"
       },
       {
@@ -459,7 +459,7 @@
       },
       {
         "name": "End of Wishes",
-        "desc": "Increases the Level of **Havoc: Warp** by 3.\nMaximum upgrade level is 15.",
+        "desc": "Increases the Level of **Havoc: Warp** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Havoc: Warp\"]Imitates the combat style of \"The Foul.\" Produces different effects depending on whether you Tap or Hold.\n\n**Tap**\nSkirk gains 45 **Serpent's Subtlety** and switches to **Seven-Phase Flash** mode.\n\n**Hold**\nSkirk gains 45 Serpent's Subtlety and will continuously move at high speed. Her interruption resistance is increased in this state.\nDuring this time, Skirk can control her movement direction and move atop water. She can also use this Skill again to end rapid movement prematurely.[/Details]",
         "img": "Skirk/const_4"
       },
       {
@@ -604,7 +604,7 @@
     },
     {
       "level": 6,
-      "maxLevel": 90,
+      "maxLevel": 100,
       "statsUp": [
         {
           "stat": "Base HP",

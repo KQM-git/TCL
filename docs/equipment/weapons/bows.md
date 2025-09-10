@@ -191,6 +191,10 @@ import SacSeries from './\_common/sac_series.md';
 
 </Weapon>
 
+### Snare Hook
+
+<Weapon weapon="Snare Hook" weapons={bows} />
+
 ### Song of Stillness
 
 <Weapon weapon="Song of Stillness" weapons={bows}>
