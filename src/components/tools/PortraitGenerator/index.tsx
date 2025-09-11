@@ -112,8 +112,12 @@ export default function PortraitGenerator({
     },
     ...travelersPortraits,
     {
-      name: "Natlan",
+      name: "Natlan slot",
       path: "/img/regions/Natlan.png",
+    },
+    {
+      name: "Nod Krai slot",
+      path: "/img/regions/Nod_Krai.png",
     }
   ]
 
