@@ -1,4 +1,4 @@
-# CharacterName
+# Traveler (Pyro)
 
 **Main Page:**
 
@@ -17,3 +17,4 @@
 ## Constellation Mechanics
 
 ## Synergies/Interactions
+
