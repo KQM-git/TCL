@@ -16,7 +16,10 @@ const noteHeight = 45
 const noteFont = "bold 25px \"Arial\""
 const nameFont = "bold 17px \"Arial\""
 
-export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, changedWidth, names, tripleSplit, artifactSplit }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, changedWidth: number, names: boolean, tripleSplit: boolean, artifactSplit: boolean }) {
+export default function Preview({ active, remove, background, secondaryBackground, portraitPadding, changedWidth, names,
+                                 tripleSplit, artifactSplit, twoWeapons, twoWeaponsDistance, threeWeapons, threeWeaponsDistance }:
+                                { active: PortraitIcon[], remove: (i: number) => void, background: boolean, secondaryBackground: string, portraitPadding: boolean, changedWidth: number, names: boolean,
+                                 tripleSplit: boolean, artifactSplit: boolean, twoWeapons: string, twoWeaponsDistance: number, threeWeapons: string, threeWeaponsDistance: number }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
@@ -28,7 +31,7 @@ export default function Preview({ active, remove, background, secondaryBackgroun
 
   function getName(x: PortraitIcon) {
     // Filter out Skin or Version number
-    var filteredName = filterName(x.name);
+    var filteredName = filterName(x.name)
     return `${filteredName}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
   }
   const list = active.map(x => getName(x)).join(" - ")
@@ -71,9 +74,10 @@ export default function Preview({ active, remove, background, secondaryBackgroun
       // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
       const x = leftBorder + effectivePortraitPad + portraitSize * (changedWidth - 1) / 2
       const y = effectiveFramePad + effectivePortraitPad
-      await drawIcon(ctx, icon, x, y, portraitSize, names, tripleSplit, artifactSplit)
+      await drawIcon(ctx, icon, x, y, portraitSize, names, tripleSplit, artifactSplit, twoWeapons, twoWeaponsDistance, threeWeapons, threeWeaponsDistance)
     }
-  })(), [active, background, secondaryBackground, effectivePortraitPad, changedWidth, names, tripleSplit, artifactSplit])
+  })(), [active, background, secondaryBackground, effectivePortraitPad, changedWidth, names, 
+         tripleSplit, artifactSplit, twoWeapons, twoWeaponsDistance, threeWeapons, threeWeaponsDistance])
 
   return <div>
     <canvas
@@ -111,7 +115,8 @@ function loadImage(path: string): Promise<HTMLImageElement> {
   })
 }
 
-async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number, names: boolean, tripleSplit: boolean, artifactSplit: boolean) {
+async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number, names: boolean,
+                        tripleSplit: boolean, artifactSplit: boolean, twoWeapons: string, twoWeaponsDistance: number, threeWeapons: string, threeWeaponsDistance: number) {
   const baseImage = await loadImage(icon.path)
   const firstIconType = imageType(icon.path)
 
