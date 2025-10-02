@@ -110,3 +110,29 @@ Confirmation that the bugfix introduced with the 3.1 update "Fixes an issue wher
   * Significance: A1 Passive can be triggered for 50 extra em before using his Burst while also getting Particles back.
 
 ## Synergies/Interactions
+
+
+### Tighnari Clusterbloom Travel Time And Slingshot Buff
+
+**By:** @mechatr0nix  
+**Added:** <Version date="2025-10-02" />  
+**Last tested:** <VersionHl date="2025-02-02" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/tighnari-clusterbloom-travel-time-and-slingshot-buff)
+
+**Finding:**
+Certain enemy geometry allows Slingshot to buff Tighnari's Clusterbloom hits  
+  
+**Evidence:**  
+*  [YouTube](https://youtu.be/5A4057wqBG0), [genshin.aspirine.su](https://genshin.aspirine.su/#bCcCseagbbbbBmDmgfbbaaDpcbacraCeFEqcafabLebaabLfbaaccBmbaabLebaabLfbadaaa)  
+*  C0 L70 T6-NA L90 R5 Slingshot. No Artifacts. A1 seems to always be active(Ping dependent?)  
+*  Basically any Clusterbloom hit over 209 is Slingshot effect working  
+*  Where does it work? (Far from exhaustive)  
+    * Looks reliable: Primo Vishap, Lawachurl ankles, PMA, Ruin Guard, Ruin Hunter front of propellor, Aeonblight  
+    * May have good spot: Regisvines, Wolflord, T Manifestation  
+    * Rarely: Wenut, Kenki, Marble Statue, ASIMON  
+    * Nope: Human sized enemies 
+
+*  After too much testing, you'll be able to hear when the travel time is too long and you're losing the buff  
+  
+## **Significance:**  
+Slingshot has the situational viability that far exceeds Prototype Crescent.
