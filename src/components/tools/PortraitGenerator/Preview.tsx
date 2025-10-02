@@ -126,20 +126,30 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
   
   if (icon.others) {
     if (icon.others.length == 1) {
-      // 2 images
-      await drawTopHalf(ctx, icon, baseImage, x, y, size)
-
       const secondIconType = imageType(icon.others[0].path)
       if (secondIconType == "Artifact") {
         icon.others[0].full = artifactSplit
       }
       const secondIcon = icon.others[0]
       const second = await loadImage(secondIcon.path)
-      await drawBottomHalf(ctx, secondIcon, second, x, y, size)
+      
+      if (twoWeapons != "Split" && firstIconType == "Weapon" && secondIconType == "Weapon") {
+        // 2 images (1st Weapon + 2nd Weapon overlapped or side-by-side)
+        if (twoWeapons == "Overlap") {
+          await drawImg(ctx, icon, baseImage, x, y, size)
+          await drawMirroredImg(ctx, secondIcon, second, x, y, size)
+        } else if (twoWeapons == "SideBySide") {
+          await drawSlightlyLeft(ctx, icon, baseImage, x, y, size, twoWeaponsDistance * 0.8)
+          await drawSlightlyRight(ctx, secondIcon, second, x, y, size, twoWeaponsDistance * 0.8)
+        }
+      } else {
+        // 2 images
+        await drawTopHalf(ctx, icon, baseImage, x, y, size)
+        await drawBottomHalf(ctx, secondIcon, second, x, y, size)
 
-      drawDiagonal(ctx, x, y, size)
+        drawDiagonal(ctx, x, y, size)
+      }
     } else {
-      // 3/4 images
       const secondIconType = imageType(icon.others[0].path)
       if (secondIconType == "Artifact") {
         icon.others[0].full = artifactSplit
@@ -161,43 +171,50 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
           icon.others[2].full = artifactSplit
         }
       }
-      
-      if (fourthIconType == "None" && tripleSplit) {
-        await drawTopLeft(ctx, icon, baseImage, x, y, size)
-        await drawTopRight(ctx, secondIcon, second, x, y, size)
-      } else {
-        await drawTopCenter(ctx, icon, baseImage, x, y, size)
-        await drawLeftCenter(ctx, secondIcon, second, x, y, size)
-      }
-      
-      if (fourthIconType == "None") {
-        // 3 images
-        if (tripleSplit) {
-          await drawBottomCenter2(ctx, thirdIcon, third, x, y, size)
 
-          drawHalfMiddleSplit(ctx, x, y, size)
-          drawHalfFirstTripleDiagonal(ctx, x, y, size)
-          drawHalfSecondTripleDiagonal(ctx, x, y, size)
+      if (threeWeapons == "SideBySide" && firstIconType == "Weapon" && secondIconType == "Weapon" && thirdIconType == "Weapon" && fourthIconType == "None") {
+        // 3 images (1st Weapon + 2nd Weapon + 3nd Weapon side-by-side)
+        await drawSlightlyLeft(ctx, icon, baseImage, x, y, size, threeWeaponsDistance)
+        await drawImg(ctx, secondIcon, second, x, y, size)
+        await drawSlightlyRight(ctx, thirdIcon, third, x, y, size, threeWeaponsDistance)
+      } else {
+        // 3/4 images
+        if (fourthIconType == "None" && tripleSplit) {
+          await drawTopLeft(ctx, icon, baseImage, x, y, size)
+          await drawTopRight(ctx, secondIcon, second, x, y, size)
         } else {
-          await drawBottomHalf(ctx, thirdIcon, third, x, y, size)
+          await drawTopCenter(ctx, icon, baseImage, x, y, size)
+          await drawLeftCenter(ctx, secondIcon, second, x, y, size)
+        }
+      
+        if (fourthIconType == "None") {
+          // 3 images
+          if (tripleSplit) {
+            await drawBottomCenter2(ctx, thirdIcon, third, x, y, size)
+  
+            drawHalfMiddleSplit(ctx, x, y, size)
+            drawHalfFirstTripleDiagonal(ctx, x, y, size)
+            drawHalfSecondTripleDiagonal(ctx, x, y, size)
+          } else {
+            await drawBottomHalf(ctx, thirdIcon, third, x, y, size)
+    
+            drawDiagonal(ctx, x, y, size)
+            drawTLHalfDiagonal(ctx, x, y, size)
+          }
+        } else {
+          // 4 images
+          await drawRightCenter(ctx, thirdIcon, third, x, y, size)
+  
+          const fourthIcon = icon.others[2]
+          const fourth = await loadImage(fourthIcon.path)
+  
+          await drawBottomCenter(ctx, fourthIcon, fourth, x, y, size)
   
           drawDiagonal(ctx, x, y, size)
-          drawTLHalfDiagonal(ctx, x, y, size)
+          drawTLDiagonal(ctx, x, y, size)
         }
-      } else {
-        // 4 images
-        await drawRightCenter(ctx, thirdIcon, third, x, y, size)
-
-        const fourthIcon = icon.others[2]
-        const fourth = await loadImage(fourthIcon.path)
-
-        await drawBottomCenter(ctx, fourthIcon, fourth, x, y, size)
-
-        drawDiagonal(ctx, x, y, size)
-        drawTLDiagonal(ctx, x, y, size)
       }
     }
-
   } else {
     // Draw singular
     drawImg(ctx, icon, baseImage, x, y, size)
@@ -224,7 +241,7 @@ async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: nu
       ctx.fillStyle = "#FFFFFF"
       ctx.textBaseline = "alphabetic"
       // Filter out Skin or Version number
-      var filteredName = filterName(icon.name);
+      var filteredName = filterName(icon.name)
       // ctx.fillText(icon.name, x + size / 2, y + size + 34)
       wrapText(ctx, filteredName, x + size / 2, y + size + 34, 180, 20)
         .forEach(([text, x, y]) => ctx.fillText(text, x, y))
@@ -238,6 +255,21 @@ async function drawImg(ctx: CanvasRenderingContext2D, icon: PortraitIcon, baseIm
     const elementalImage = await loadImage(icon.elementalIcon.path)
     ctx.drawImage(elementalImage, x, y, size * elementalSizeMultiplier, size * elementalSizeMultiplier)
   }
+}
+
+async function drawMirroredImg(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  ctx.save()
+  ctx.scale(-1, 1)
+  await drawImg(ctx, icon, img, -x -size, y, size)
+  ctx.restore()
+}
+
+async function drawSlightlyLeft(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number, distance: number) {
+  await drawImg(ctx, icon, img, x - ((size / 6) * distance), y, size)
+}
+
+async function drawSlightlyRight(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number, distance: number) {
+  await drawImg(ctx, icon, img, x + ((size / 6) * distance), y, size)
 }
 
 async function drawBottomHalf(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
@@ -453,7 +485,7 @@ function drawHalfSecondTripleDiagonal(ctx: CanvasRenderingContext2D, x: number, 
 
 function filterName(name: string) {
   // Filter out Skin or Version number
-  return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "");
+  return name.replace(/ Skin[0-9]+| Alt[0-9]+/g, "")
 }
 
 function imageType(path: string) {
