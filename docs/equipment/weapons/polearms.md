@@ -5,6 +5,10 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 ## 5 Stars
 
+### Bloodsoaked Ruins
+
+<Weapon weapon="Bloodsoaked Ruins" weapons={polearms} />
+
 ### Calamity Queller
 
 <Weapon weapon="Calamity Queller" weapons={polearms} />

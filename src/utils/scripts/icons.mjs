@@ -38,7 +38,13 @@ function readCharList(data_path) {
             }
         }
     })
-    return icons
+    const sortedIcons = {};
+    Object.keys(icons)
+      .sort()
+      .forEach(key => {
+          sortedIcons[key] = icons[key];
+      });
+    return sortedIcons;
 }
 
 function updateIcons() {

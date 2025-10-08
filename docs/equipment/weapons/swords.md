@@ -177,6 +177,10 @@ import BaneSeries from './\_common/bane_series.md';
 
 </Weapon>
 
+### Moonweaver's Dawn
+
+<Weapon weapon="Moonweaver's Dawn" weapons={swords} />
+
 ### Prototype Rancour
 
 <Weapon weapon="Prototype Rancour" weapons={swords} />

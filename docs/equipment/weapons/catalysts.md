@@ -128,6 +128,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <Weapon weapon="Dodoco Tales" weapons={catalysts} />
 
+### Etherlight Spindlelute
+
+<Weapon weapon="Etherlight Spindlelute" weapons={catalysts} />
+
 ### Eye of Perception
 
 <Weapon weapon="Eye of Perception" weapons={catalysts} />
