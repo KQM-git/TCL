@@ -847,6 +847,23 @@ Water is wet: [Imgur](https://imgur.com/a/hoPCkS6)
 **Significance:**  
 Bringing Raiden can speed up murder but not much. Water isn’t wet. And it is wet. Not only the skies of Teyvat are fake, but so are the oceans.
 
+### Inazuma Bath Water Is More Hydro Than The Hydro Nations Water
+
+**By:** @acerbus114  
+**Added:** <Version date="2025-10-02" />  
+**Last tested:** <VersionHl date="2025-02-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/inazuma-bath-water-is-more-hydro-than-the-hydro-nations-water)
+
+**Finding:**  
+Aisa's bathwater is "Hydro" in the sense that you can trigger Elemental Reactions on it  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/RJvmPwBPLss)  
+  
+**Significance:**  
+Inazuma's bathwater is less fake than the water in the Hydro Nation Fontaine
+
+
 ## Electro Crystals
 
 ### Electro Crystal Range
