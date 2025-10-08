@@ -55,6 +55,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Tighnari can paralyze the Aeonblight Drake with 1 aimed shot using a Wreath Arrow.
+* Tighnari's Clusterbloom Arrows can activate the Slingshot passive reliably on certain enemy geometry
 
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
