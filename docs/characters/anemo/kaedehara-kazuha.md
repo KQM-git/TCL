@@ -120,6 +120,7 @@ import Skill from '@site/src/components/char/Skill'
 * Kazuha E will, under certain conditions, fail to absorb self auras
 * **Midare Ranzan** does not have a minimum height limit, meaning Kazuha can start the Plunging Attack a lot lower than a regular Plunging Attack.
 * **Midare Ranzan** can be considered as an Anemo Infusion which cannot be overridden by other Infusions.
+* Kazuha can skip **Midare Ranzan** by using Chihayaburu in midair and pressing attack at the same time. For PC users, inputs are Spacebar > Left Mouse Button + E. Can also be done with dash jumps. It can be done very close to the ground or done late as long as you are in the air.  
 
 </TabItem>
 
