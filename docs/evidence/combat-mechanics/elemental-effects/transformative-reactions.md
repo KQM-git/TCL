@@ -2097,6 +2097,26 @@ Electro Crystals, Boom Blossoms, Consecrated Beasts' Phagocyctic Blocks, and coo
 * You can deflect enemy Hyperblooms with certain constructs 
 * Hoyoverse isn't consistent
 
+### Hyperbloom And Burgeon DMG Snapshotting And Artifact Interactions
+
+**By:** @xochiyoh  
+**Added:** <Version date="2025-10-07" />  
+**Last tested:** <VersionHl date="2025-08-02" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/hyperbloom-and-burgeon-dmg-snapshotting-and-artifact-interactions)
+
+**Finding:**  
+Hyperbloom DMG does not snapshot EM on trigger, and Hyperbloom + Burgeon can benefit from the same 4pc FoPL/Gilded proc they trigger (however, Burgeon is inconsistent with Gilded for unknown reasons, and presumably FoPL too).  
+  
+**Evidence:**  
+Hyperbloom not snapshotting EM: [YouTube](https://youtu.be/zQjBakuC2eI)  
+Hyperbloom benefitting from the 4pc FoPL stack it granted: [YouTube](https://youtu.be/YaZ9ZuXoHxE)  
+Burgeon benefitting from the 4pc FoPL stack it granted: [YouTube](https://youtu.be/QEUvJqKx6l0?si=iUev6X-NWqbdrLOK)  
+Burgeon being inconsistent with the 4pc Gilded effect it triggered: [YouTube](https://youtu.be/TNc8oNY_TuE?si=H-GNpJnbcYU4Jlm4)  
+[YouTube](https://youtu.be/NFfehzd2Mwc?si=7nRtF6JJISvtBgWk)  
+  
+**Significance:**  
+Nollij
+
 ## Burgeon
 
 ### Burgeon Self-Damage is Only Affected By Character RES
