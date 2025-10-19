@@ -32,6 +32,26 @@ After a certain quest chain in Chapter III: Act I of the Sumeru Archon Quest, th
 **Significance:**  
 For updated stats and calculation purposes.  
 
+### Traveler Buff Via Skirk Quest
+
+**By:** @grankrathalos  
+**Added:** <Version date="2025-10-02" />  
+**Last tested:** <VersionHl date="2025-07-08" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/traveler-buff-via-skirk-quest)
+
+**Finding:**  
+Traveler obtains permanent stat buffs after completing the 3 training sessions from Skirk's Story Quest. Specifically:  
+  
+- 7 Base ATK after completing the first session (bladework).  
+- 15 Base EM after completing the second session (elemental skills).  
+- 50 Base HP after completing the third session (reasoning).  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/syV8DmeEnOs)  
+  
+**Significance:**  
+Slight changes to Traveler calculations and a very small increase to Traveler's performance. With enough of these, perhaps by 7.X, Traveler will be a real 5* character.  
+
 ## Skill Mechanics
 
 ### AMC E Additional Elemental Damage
