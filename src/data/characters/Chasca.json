@@ -347,12 +347,12 @@
     "constellations": [
       {
         "name": "Cylinder, the Restless Roulette",
-        "desc": "When triggering the Passive Talent \"Bullet Trick\"'s \"Spiritbinding Conversion,\" the 2nd **Shadowhunt Shell** loaded into the cylinder will be additionally converted into a **Shining Shadowhunt Shell**.\nThe chance to trigger \"Spiritbinding Conversion\" is increased: If there are party members who meet the Elemental Conversion Type requirements, the chance to trigger \"Spiritbinding Conversion\" is increased by 33.3%, up to a maximum of 100%.\n\nYou must first unlock the Passive Talent \"Bullet Trick.\"\nIn addition, Chasca's Nightsoul point and Phlogiston consumption in her Nightsoul's Blessing state is decreased by 30% while out of combat.",
+        "desc": "When triggering the Ascension Talent \"Bullet Trick\"'s \"Spiritbinding Conversion,\" the 2nd **Shadowhunt Shell** loaded into the cylinder will be additionally converted into a **Shining Shadowhunt Shell**.\nThe chance to trigger \"Spiritbinding Conversion\" is increased: If there are party members who meet the Elemental Conversion Type requirements, the chance to trigger \"Spiritbinding Conversion\" is increased by 33.3%, up to a maximum of 100%.\n\nYou must first unlock the Ascension Talent \"Bullet Trick.\"\nIn addition, Chasca's Nightsoul point and Phlogiston consumption in her Nightsoul's Blessing state is decreased by 30% while out of combat.",
         "img": "Chasca/const_0"
       },
       {
         "name": "Muzzle, the Searing Smoke",
-        "desc": "When Chasca takes the field, she will obtain 1 stack of \"Spirit of the Radiant Shadow\" from the Passive Talent \"Bullet Trick.\" You must first unlock the Passive Talent \"Bullet Trick\" for this effect.\nIn addition, when the **Shining Shadowhunt Shells** from **Spirit Reins, Shadow Hunt**'s **Multitarget Fire** hit opponents, they will deal AoE Elemental DMG of the corresponding Elemental Type of the **Shining Shadowhunt Shells** equal to 400% of Chasca's ATK. This DMG is considered Charged Attack DMG. This effect can be triggered once each time Chasca uses **Multitarget Fire**.",
+        "desc": "When Chasca takes the field, she will obtain 1 stack of \"Spirit of the Radiant Shadow\" from the Ascension Talent \"Bullet Trick.\" You must first unlock the Ascension Talent \"Bullet Trick\" for this effect.\nIn addition, when the **Shining Shadowhunt Shells** from **Spirit Reins, Shadow Hunt**'s **Multitarget Fire** hit opponents, they will deal AoE Elemental DMG of the corresponding Elemental Type of the **Shining Shadowhunt Shells** equal to 400% of Chasca's ATK. This DMG is considered Charged Attack DMG. This effect can be triggered once each time Chasca uses **Multitarget Fire**.",
         "img": "Chasca/const_1"
       },
       {
@@ -372,7 +372,7 @@
       },
       {
         "name": "Showdown, the Glory of Battle",
-        "desc": "Chasca's **Multitarget Fire** charge time is decreased, and after the Passive Talent \"Bullet Trick\"'s \"Spiritbinding Conversion\" is triggered, Chasca will gain the \"Fatal Rounds\" state: For the next 3s, the next time Chasca uses **Spirit Reins, Shadow Hunt**'s **Multitarget Fire**, the shots will finish charging instantly, and the CRIT DMG of that instance of **Multitarget Fire**'s **Shadowhunt Shells** and **Shining Shadowhunt Shells** increases by 120%. 1 \"Fatal Rounds\" effect can be gained once every 3s.\n\nYou must first unlock the Passive Talent \"Bullet Trick\" to gain access to the above effect.",
+        "desc": "Chasca's **Multitarget Fire** charge time is decreased, and after the Ascension Talent \"Bullet Trick\"'s \"Spiritbinding Conversion\" is triggered, Chasca will gain the \"Fatal Rounds\" state: For the next 3s, the next time Chasca uses **Spirit Reins, Shadow Hunt**'s **Multitarget Fire**, the shots will finish charging instantly, and the CRIT DMG of that instance of **Multitarget Fire**'s **Shadowhunt Shells** and **Shining Shadowhunt Shells** increases by 120%. 1 \"Fatal Rounds\" effect can be gained once every 3s.\n\nYou must first unlock the Ascension Talent \"Bullet Trick\" to gain access to the above effect.",
         "img": "Chasca/const_5"
       }
     ]

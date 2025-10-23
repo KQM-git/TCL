@@ -206,6 +206,10 @@ import RoyalSeries from './\_common/royal_series.md';
 
 </Weapon>
 
+### Sacrificer's Staff
+
+<Weapon weapon="Sacrificer's Staff" weapons={polearms} />
+
 ### Tamayuratei no Ohanashi
 
 <Weapon weapon="Tamayuratei no Ohanashi" weapons={polearms} />

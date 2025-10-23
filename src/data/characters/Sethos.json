@@ -260,7 +260,7 @@
       },
       {
         "name": "Papyrus Scripture of Silent Secrets",
-        "desc": "When any of the following conditions are met, Sethos gains a 15% **Electro DMG Bonus** for 10s that may stack twice, with each stack duration counted independently:\n· Consuming Elemental Energy through Aimed Shots; you must first unlock the Passive Talent \"Black Kite's Enigma\" to trigger this condition.\n· Regaining Elemental Energy by triggering Elemental Reactions using **Ancient Rite: The Thundering Sands**.\n· Using **Secret Rite: Twilight Shadowpiercer**.",
+        "desc": "When any of the following conditions are met, Sethos gains a 15% **Electro DMG Bonus** for 10s that may stack twice, with each stack duration counted independently:\n· Consuming Elemental Energy through Aimed Shots. You must first unlock the Ascension Talent \"Black Kite's Enigma\" to trigger this condition.\n· Regaining Elemental Energy by triggering Elemental Reactions using **Ancient Rite: The Thundering Sands**.\n· Using **Secret Rite: Twilight Shadowpiercer**.",
         "img": "Sethos/const_1"
       },
       {
@@ -280,7 +280,7 @@
       },
       {
         "name": "Pylon of the Sojourning Sun Temple",
-        "desc": "After **Shadowpiercing Shot** strikes an opponent, the Elemental Energy consumed by the Passive Talent \"Black Kite's Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent \"Black Kite's Enigma.\"",
+        "desc": "After **Shadowpiercing Shot** strikes an opponent, the Elemental Energy consumed by the Ascension Talent \"Black Kite's Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Ascension Talent \"Black Kite's Enigma.\"",
         "img": "Sethos/const_5"
       }
     ]

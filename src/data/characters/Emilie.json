@@ -301,12 +301,12 @@
     "constellations": [
       {
         "name": "Light Fragrance Leaching",
-        "desc": "Increases the DMG dealt by **Fragrance Extraction** and her Passive Talent's Cleardew Cologne \"Lingering Fragrance\" by 20%. The latter requires unlocking said Passive Talent first.\nAdditionally, when nearby party members trigger the Burning reaction on opponents or deal **Dendro DMG** to Burning opponents, they will generate an additional **Scent**. This effect can be triggered once every 2.9s.",
+        "desc": "Increases the DMG dealt by **Fragrance Extraction** and her Ascension Talent's Cleardew Cologne \"Lingering Fragrance\" by 20%. The latter requires unlocking said Ascension Talent first.\nAdditionally, when nearby party members trigger the Burning reaction on opponents or deal **Dendro DMG** to Burning opponents, they will generate an additional **Scent**. This effect can be triggered once every 2.9s.",
         "img": "Emilie/const_0"
       },
       {
         "name": "Lakelight Top Note",
-        "desc": "When **Fragrance Extraction**, **Aromatic Explication**, or Cleardew Cologne produced by the Passive Talent \"Lingering Fragrance\" (the last of which requires Passive Talent activation) hits opponents, those opponents' **Dendro RES** is decreased by 30% for 10s.",
+        "desc": "When **Fragrance Extraction**, **Aromatic Explication**, or Cleardew Cologne produced by the Ascension Talent \"Lingering Fragrance\" (the last of which requires Ascension Talent activation) hits opponents, those opponents' **Dendro RES** is decreased by 30% for 10s.",
         "img": "Emilie/const_1"
       },
       {

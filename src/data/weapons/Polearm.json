@@ -2053,6 +2053,94 @@
       "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
     }
   },
+  "Sacrificer's Staff": {
+    "name": "Sacrificer's Staff",
+    "weaponType": "Polearm",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.0687,
+        "curve": "ATK 2.3"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.02,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Untainted Desire",
+      "desc": "For 6s after an Elemental Skill hits an opponent, ATK is increased by **8%**/**10%**/**12%**/**14%**/**16%** and Energy Recharge is increased by **6%**/**7.5%**/**9%**/**10.5%**/**12%**. Max 3 stacks. This effect can be triggered even when the equipping character is off-field."
+    }
+  },
   "Tamayuratei no Ohanashi": {
     "name": "Tamayuratei no Ohanashi",
     "weaponType": "Polearm",

@@ -315,7 +315,7 @@
     "constellations": [
       {
         "name": "Swelling Lake",
-        "desc": "Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler.\nRequires the Passive Talent \"Spotless Waters.\"",
+        "desc": "Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler.\nYou must first unlock the Ascension Talent \"Spotless Waters.\"",
         "img": "Traveler/3/const_0"
       },
       {

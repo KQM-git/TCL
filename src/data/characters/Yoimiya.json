@@ -291,7 +291,7 @@
       },
       {
         "name": "Summer Night's Dawn",
-        "desc": "Using **Ryuukin Saxifrage** causes nearby party members (not including Yoimiya) to gain a 10% ATK increase for 15s. Additionally, a further ATK Bonus will be added on based on the number of \"Tricks of the Trouble-Maker\" stacks Yoimiya possesses when using **Ryuukin Saxifrage**. Each stack increases this ATK Bonus by 1%.",
+        "desc": "Using **Ryuukin Saxifrage** causes nearby party members (not including Yoimiya) to gain a 10% ATK increase for 15s. Additionally, a further ATK Bonus will be added on based on the number of Ascension Talent \"Tricks of the Trouble-Maker\" stacks Yoimiya possesses when using **Ryuukin Saxifrage**. Each stack increases this ATK Bonus by 1%.",
         "img": "Yoimiya/passive_1",
         "minAscension": 4
       },

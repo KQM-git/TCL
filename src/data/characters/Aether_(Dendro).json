@@ -282,7 +282,7 @@
       },
       {
         "name": "Treacle Grass",
-        "desc": "After the **Lea Lotus Lamp** triggers a Lotuslight Transfiguration, it will obtain 5 stacks of the Overflowing Lotuslight effect from the Passive Talent \"Verdant Overgrowth.\"\nYou must have unlocked this Passive Talent first.",
+        "desc": "After the **Lea Lotus Lamp** triggers a Lotuslight Transfiguration, it will obtain 5 stacks of the Overflowing Lotuslight effect from the Ascension Talent \"Verdant Overgrowth.\"\nYou must first unlock the Ascension Talent \"Verdant Overgrowth.\"",
         "img": "Traveler/8/const_3"
       },
       {

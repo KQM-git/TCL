@@ -64,6 +64,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Nightweaver's Looking Glass" weapons={catalysts} />
 
+### Reliquary of Truth
+
+<Weapon weapon="Reliquary of Truth" weapons={catalysts} />
+
 ### Skyward Atlas
 
 <Weapon weapon="Skyward Atlas" weapons={catalysts}>
@@ -123,6 +127,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 ### Blackmarrow Lantern
 
 <Weapon weapon="Blackmarrow Lantern" weapons={catalysts} />
+
+### Dawning Frost
+
+<Weapon weapon="Dawning Frost" weapons={catalysts} />
 
 ### Dodoco Tales
 

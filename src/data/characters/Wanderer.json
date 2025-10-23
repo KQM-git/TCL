@@ -259,7 +259,7 @@
     "constellations": [
       {
         "name": "Shoban: Ostentatious Plumage",
-        "desc": "When in the **Windfavored** state, the Attack SPD of the Wanderer's Kuugo: Fushoudan and Kuugo: Toufukai is increased by 10%.\nAdditionally, the wind arrows fired by the Passive Talent \"Gales of Reverie\" will deal an additional 25% of his ATK as DMG. You must unlock the Passive Talent \"Gales of Reverie\" first.",
+        "desc": "When in the **Windfavored** state, the Attack SPD of the Wanderer's Kuugo: Fushoudan and Kuugo: Toufukai is increased by 10%.\nAdditionally, the wind arrows fired by the Ascension Talent \"Gales of Reverie\" will deal an additional 25% of his ATK as DMG. You must first unlock the Ascension Talent \"Gales of Reverie.\"",
         "img": "Wanderer/const_0"
       },
       {
@@ -274,7 +274,7 @@
       },
       {
         "name": "Yonban: Set Adrift into Spring",
-        "desc": "When casting **Hanega: Song of the Wind**, should the Passive Talent \"Jade-Claimed Flower\" be triggered, the character will gain buffs in correspondence to the contacted Elemental Type(s), and also obtain a random untriggered buff. A maximum of 3 such corresponding elemental buffs can exist simultaneously.\nYou must unlock the Passive Talent \"Jade-Claimed Flower\" first.",
+        "desc": "When casting **Hanega: Song of the Wind**, should the Ascension Talent \"Jade-Claimed Flower\" be triggered, the character will gain buffs in correspondence to the contacted Elemental Type(s), and also obtain a random untriggered buff. A maximum of 3 such corresponding elemental buffs can exist simultaneously.\nYou must first unlock the Ascension Talent \"Jade-Claimed Flower.\"",
         "img": "Wanderer/const_3"
       },
       {
