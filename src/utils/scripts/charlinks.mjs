@@ -8,10 +8,17 @@ const charDir = path.resolve(__dirname, '../../../docs/characters');
 const outputFile = path.resolve(__dirname, '../../data/char_links.json');
 
 const generateCharLinks = () => {
-  const charLinks = {};
-  const elements = ["anemo", "cryo", "dendro", "electro", "geo", "hydro", "pyro"];
+  const charLinks = {
+    "anemo": [],
+    "cryo": [],
+    "dendro": [],
+    "electro": [],
+    "geo": [],
+    "hydro": [],
+    "pyro": []
+  };
 
-  for (const element of elements) {
+  for (const element in charLinks) {
     const elementDir = path.join(charDir, element);
     if (fs.existsSync(elementDir) && fs.statSync(elementDir).isDirectory()) {
       fs.readdirSync(elementDir).filter(file => !file.startsWith("_")).forEach((file) => {
