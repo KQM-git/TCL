@@ -84,6 +84,10 @@ export default function PortraitGenerator({
   const [tripleSplit, setTripleSplit] = useState(true)
 
   const [artifactSplit, setArtifactSplit] = useState(true)
+  const [twoWeapons, setTwoWeapons] = useState("Split")
+  const [twoWeaponsDistance, setTwoWeaponsDistance] = useState(1)
+  const [threeWeapons, setThreeWeapons] = useState("Split")
+  const [threeWeaponsDistance, setThreeWeaponsDistance] = useState(1)
   
   const [search, setSearch] = useState("")
 
@@ -249,6 +253,10 @@ export default function PortraitGenerator({
             setTripleSplit(true)
 
             setArtifactSplit(true)
+            setTwoWeapons("Split")
+            setTwoWeaponsDistance(1)
+            setThreeWeapons("Split")
+            setThreeWeaponsDistance(1)
           }
         }}>
         Reset to default settings</button>
@@ -290,7 +298,42 @@ export default function PortraitGenerator({
           <option value="1">Partial</option>
           <option value="">Full</option>
         </select>
+      </label> <br/>
+      <label>
+        Two weapons: <select onChange={e => setTwoWeapons(e.target.value)} value={twoWeapons}>
+          <option value="Split">Split</option>
+          <option value="Overlap">Overlap</option>
+          <option value="SideBySide">Side-by-Side</option>
+        </select>
       </label>
+      {twoWeapons == "SideBySide" && <label>
+        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        Distance between two weapons: <select onChange={e => setTwoWeaponsDistance(parseFloat(e.target.value))} value={twoWeaponsDistance}>
+          <option value="1">x1</option>
+          <option value="1.1">x1.1</option>
+          <option value="1.2">x1.2</option>
+          <option value="1.3">x1.3</option>
+          <option value="1.4">x1.4</option>
+          <option value="1.5">x1.5</option>
+        </select>
+      </label>} <br/>
+      <label>
+        Three weapons: <select onChange={e => setThreeWeapons(e.target.value)} value={threeWeapons}>
+          <option value="Split">Split</option>
+          <option value="SideBySide">Side-by-Side</option>
+        </select>
+      </label>
+      {threeWeapons == "SideBySide" && <label>
+        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        Distance between three weapons: <select onChange={e => setThreeWeaponsDistance(parseFloat(e.target.value))} value={threeWeaponsDistance}>
+          <option value="1">x1</option>
+          <option value="1.1">x1.1</option>
+          <option value="1.2">x1.2</option>
+          <option value="1.3">x1.3</option>
+          <option value="1.4">x1.4</option>
+          <option value="1.5">x1.5</option>
+        </select>
+      </label>}
     </MDXComponents.Details>
     
     <Preview
@@ -303,6 +346,10 @@ export default function PortraitGenerator({
       names={names}
       tripleSplit={tripleSplit}
       artifactSplit={artifactSplit}
+      twoWeapons={twoWeapons}
+      twoWeaponsDistance={twoWeaponsDistance}
+      threeWeapons={threeWeapons}
+      threeWeaponsDistance={threeWeaponsDistance}
     />
 
     <label>
