@@ -1,0 +1,96 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 17,
+        "hitlag": 0.06,
+        "next_na": 28,
+        "next_na_air": 27,
+        "ca": 22
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 16,
+        "hitlag": 0.06,
+        "next_na": 25,
+        "next_na_air": 33,
+        "ca": 33
+    },
+    {
+        "name": "N3",
+        "hitmark": [24, 32],
+        "hitlag": 0.06,
+        "next_na": 41,
+        "next_na_air": 47,
+        "ca": 42
+    },
+    {
+        "name": "N4",
+        "hitmark": 37,
+        "hitlag": 0,
+        "next_na": 58,
+        "next_na_air": 60
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 25,
+        "hitlag": 0.06,
+        "n1": 39,
+        "skill": 39,
+        "burst": 39,
+        "walk": 39
+    },
+    "Low Plunge": {
+        "name" : "Low Plunge",
+        "hitmark": 41,
+        "n1": 54,
+        "skill": 53,
+        "burst": 54,
+        "dash": 43,
+        "jump": 69,
+        "swap": 56,
+        "walk": 69
+    },
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 21,
+        "n1": 42,
+        "burst": 43,
+        "skill": 30,
+        "walk": 51,
+        "dash": 42,
+        "jump": 42,
+        "swap": 49,
+        "cd": 19,
+        "notes": "Press: A1 passive from 26f - 103f"
+    },
+    {
+        "name": "Hold",
+        "hitmark": 37,
+        "n1": 88,
+        "burst": 88,
+        "skill": 44,
+        "walk": 86,
+        "dash": 87,
+        "jump": 88,
+        "swap": 87,
+        "cd": 34,
+        "notes": "Hold: A1 passive from 42f to 119f"
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 92,
+        "n1": 101,
+        "skill": 100,
+        "walk": 100,
+        "dash": 100,
+        "jump": 100,
+        "swap": 99,
+        "cd": 0,
+        "energy": 10
+    },
+    "Other": [{
+        "name": "N0",
+        "Yelan": 3,
+        "Xingqiu": 11
+    }]
+}
