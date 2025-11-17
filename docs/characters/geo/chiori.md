@@ -62,7 +62,10 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes**
-
+* Chiori Skill allows swapping in mid-air
+* Each Chiori can have 2 of their own Tamoto dolls in co-op
+* Tamato dolls can be repositioned with abilities like Kazuha skill
+* Constructs that are instantly destroyed are counted for Chiori's additional Tamoto
 
 </TabItem>
 
@@ -79,14 +82,12 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 </Tabs>
 
-<!--
 ## Frames
 
 import charFrames from '@site/src/data/frames/Chiori.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
 
 ## Ascension Passives
 
@@ -113,10 +114,18 @@ import Constellation from '@site/src/components/char/Constellation'
 <Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
+
+**Notes**
+* Chiori C1 does not trigger with multiple Chioris in co-op
+
 </TabItem>
 
 <TabItem value='c2' label='C2'>
 <Constellation char={char} constellation={2} />
+
+**Notes**
+* Chiori C2 spawns 3 "Kinu" automatons per burst
+
 </TabItem>
 
 <TabItem value='c3' label='C3'>
