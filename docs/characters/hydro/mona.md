@@ -204,6 +204,11 @@ import Passive from '@site/src/components/char/Passive'
 * The Hydro DMG Bonus increase only shows when Mona is in an active party.
 
 </TabItem>
+
+<TabItem value="hexerei" label="Witch's Eve Rite" >
+<Passive char={char} passive={3} />
+</TabItem>
+
 </Tabs>
 
 ## Constellations
@@ -212,7 +217,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
-<Constellation char={char} constellation={1} />
+<Constellation char={char} constellation={1} buffedTitle="Hexerei" />
 
 **Notes**  
 This bonus effect is additive and classified as **ReactionBonus.** See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#amplifying-reaction-bonus)
@@ -227,7 +232,7 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 </TabItem>
 
 <TabItem value='c2' label='C2'>
-<Constellation char={char} constellation={2} />
+<Constellation char={char} constellation={2} buffedTitle="Hexerei" />
 
 | Poise Damage | Impulse Type |
 | :----------- | :----------- |
@@ -245,7 +250,7 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 </TabItem>
 
 <TabItem value='c4' label='C4'>
-<Constellation char={char} constellation={4} />
+<Constellation char={char} constellation={4} buffedTitle="Hexerei" />
 
 **Notes**
 
@@ -258,7 +263,7 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 </TabItem>
 
 <TabItem value='c6' label='C6'>
-<Constellation char={char} constellation={6} />
+<Constellation char={char} constellation={6} buffedTitle="Hexerei" />
 </TabItem>
 </Tabs>
 

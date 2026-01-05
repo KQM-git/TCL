@@ -280,6 +280,12 @@
         "desc": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.",
         "img": "Common/Expedition_Mondstadt",
         "minAscension": 0
+      },
+      {
+        "name": "Witch's Eve Rite: Phantasmal Nocturne",
+        "desc": "After completing **Witch's Homework: Of the Unexpected**, Fischl will become a **Hexerei** character. When the party includes at least 2 Hexerei characters, you will gain the **Hexerei: Secret Rite** effect, which enhances Hexerei characters.\n\n**Hexerei: Secret Rite**\nHark, Prince Nachtraben, Ozvaldo Hrafnavins, he who has witnessed the fall of countless worlds. Sing now the starry septet for your sovereign, for this is the moment of deepest sin, when the gathered souls at the end of causality shatter the darkness of fate.\nAdditionally, when Oz is on the field, party members will gain additional buff effects:\n· After a nearby party member triggers an Overloaded reaction, Fischl and other nearby active party members have their ATK increased by 22.5% for 10s.\n· After a nearby party member triggers an Electro-Charged or Lunar-Charged reaction, Fischl and other nearby active party members have their Elemental Mastery increased by 90 for 10s.",
+        "img": "Fischl/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
@@ -311,6 +317,7 @@
       {
         "name": "Evernight Raven",
         "desc": "Extends the duration of Oz's presence on the field by 2s. Additionally, Oz performs coordinated attacks with your active character when present, dealing 30% of Fischl's ATK as **Electro DMG**.",
+        "buffed_desc": "Extends the duration of Oz's presence on the field by 2s. Additionally, Oz performs coordinated attacks with your active character when present, dealing 30% of Fischl's ATK as **Electro DMG**.\nAfter Oz performs a coordinated attack, the increased ATK and Elemental Mastery effects of **Witch's Eve Rite: Phantasmal Nocturne** are further increased by 100% for 10s.",
         "img": "Fischl/const_5"
       }
     ]

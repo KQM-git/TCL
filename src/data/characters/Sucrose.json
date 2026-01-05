@@ -252,6 +252,12 @@
         "desc": "When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.",
         "img": "Sucrose/passive_2",
         "minAscension": 0
+      },
+      {
+        "name": "Witch's Eve Rite: Sevenfold Transmutation",
+        "desc": "After completing **Witch's Homework: Of Wonderland Flowers**, Sucrose will become a **Hexerei** character. When the party includes at least 2 Hexerei characters, you will gain the **Hexerei: Secret Rite** effect, which enhances Hexerei characters.\n\n**Hexerei: Secret Rite**\n· After Sucrose creates a Small Wind Spirit, nearby party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 5.71428% for 15s.\n· After Sucrose creates a Large Wind Spirit, nearby Hexerei party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 7.14285% for 20s.",
+        "img": "Sucrose/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
@@ -283,6 +289,7 @@
       {
         "name": "Chaotic Entropy",
         "desc": "If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.",
+        "buffed_desc": "If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during the skill's duration, while nearby Hexerei characters in the party gain an additional 8.57142% Elemental DMG Bonus for the corresponding absorbed element.",
         "img": "Sucrose/const_5"
       }
     ]

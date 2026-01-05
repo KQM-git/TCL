@@ -169,6 +169,10 @@ import Passive from '@site/src/components/char/Passive'
 * A4 effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
+
+<TabItem value="hexerei" label="Witch's Eve Rite" >
+<Passive char={char} passive={3} />
+</TabItem>
 </Tabs>
 
 ## Constellations
@@ -211,7 +215,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c6' label='C6'>
-<Constellation char={char} constellation={6} />
+<Constellation char={char} constellation={6} buffedTitle="Hexerei" />
 
 **Notes**
 

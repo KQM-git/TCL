@@ -18,6 +18,10 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 </Weapon>
 
+### Athame Artis
+
+<Weapon weapon="Athame Artis" weapons={swords} />
+
 ### Azurelight
 
 <Weapon weapon="Azurelight" weapons={swords} />

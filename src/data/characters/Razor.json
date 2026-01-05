@@ -328,6 +328,12 @@
         "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
         "img": "Common/Decrease_Sprinting_Stamina",
         "minAscension": 0
+      },
+      {
+        "name": "Witch's Eve Rite: Surge of Lightning",
+        "desc": "After completing **Witch's Homework: Of the Little Wolf Pack**, Razor will become a **Hexerei** character. When the party includes at least 2 Hexerei characters, you will gain the **Hexerei: Secret Rite** effect, which enhances Hexerei characters.\nAdditionally, Razor's Elemental Burst **Lightning Fang** is enhanced: **The Wolf Within**'s DMG dealt is increased by 70% of Razor's ATK.\n\n**Hexerei: Secret Rite**\nWhile the Wolf Within summoned by Razor's Elemental Burst **Lightning Fang** is active, if the Electro Sigils from Razor's Elemental Skill **Claw and Thunder** overflow, the Wolf Within will call down a lightning strike on nearby enemies, dealing AoE Electro DMG equal to 150% of Razor's ATK and restoring 7 Energy to Razor. This effect can be triggered once every 1s.",
+        "img": "Razor/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
@@ -359,6 +365,7 @@
       {
         "name": "Lupus Fulguris",
         "desc": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.\nWhen Razor is not using **Lightning Fang**, a lightning strike on an opponent will grant Razor an Electro Sigil for **Claw and Thunder**.",
+        "buffed_desc": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.\nWhen Razor is not using **Lightning Fang**, lightning strikes on an opponent will grant 3 Electro Sigils for his Elemental Skill **Claw and Thunder**.\nAdditionally, when Razor gains Electro Sigils through his Elemental Skill **Claw and Thunder**, he will gain 3 Sigils instead.\nFor 15s after consuming Electro Sigils, Razor's CRIT Rate is increased by 10% and CRIT DMG by 50%.",
         "img": "Razor/const_5"
       }
     ]

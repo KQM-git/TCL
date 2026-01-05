@@ -226,6 +226,7 @@
       {
         "name": "Pounding Surprise",
         "desc": "When **Jumpy Dumpty** and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark.\nThis Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.",
+        "buffed_desc": "When Klee's Elemental Skill **Jumpy Dumpty** and Normal Attacks deal DMG, there is a 50% chance to grant her an Explosive Spark. Using her Elemental Skill **Jumpy Dumpty** or Elemental Burst **Sparks 'n' Splash** also grants 1 Explosive Spark. Klee can hold up to 3 Explosive Sparks.\nWhile holding an Explosive Spark, Klee's Charged Attack will consume 1 Spark to perform a special stamina-free Charged Attack, Boom-Boom Strike, dealing 50% increased DMG.\n\n**Hexerei: Secret Rite**\nDuring the duration of Klee's Elemental Burst **Sparks 'n' Splash**, her Normal Attack sequence does not reset. If Klee holds an Explosive Spark while performing Normal Attacks, the third attack in the sequence will consume 1 Spark to unleash an additional attack equivalent to Boom-Boom Strike.",
         "img": "Klee/passive_0",
         "minAscension": 1
       },
@@ -240,17 +241,25 @@
         "desc": "Displays the location of nearby **resources unique to Mondstadt** on the mini-map.",
         "img": "Common/Specialties_Mondstadt",
         "minAscension": 0
+      },
+      {
+        "name": "Witch's Eve Rite: Sparkborne Magic",
+        "desc": "After completing **Witch's Homework: Of Leaves That Spark**, Klee will become a **Hexerei** character. When the party includes at least 2 Hexerei characters, you will gain the **Hexerei: Secret Rite** effect, which enhances Hexerei characters.\n\n**Hexerei: Secret Rite**\nWhen Klee deals DMG with Normal Attacks, Elemental Skills, or Elemental Bursts, she gains 1 Boom Badge that lasts 20s. Each type of attack can grant at most 1 Boom Badge this way, and each badge has its own independent timer. While Klee has 1/2/3 Boom Badges, her special Charged Attack Boom-Boom Strike deals 115%/130%/150% of its original DMG.",
+        "img": "Klee/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
       {
         "name": "Chained Reactions",
         "desc": "Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of **Sparks 'n' Splash**'s DMG.",
+        "buffed_desc": "Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of **Sparks 'n' Splash**'s DMG.\nFor 12s after triggering the above effect, Klee's ATK is increased by 60%.",
         "img": "Klee/const_0"
       },
       {
         "name": "Explosive Frags",
         "desc": "Being hit by **Jumpy Dumpty**'s mines decreases opponents' DEF by 23% for 10s.",
+        "buffed_desc": "When Klee's Elemental Skill hits an opponent, that opponent's DEF will be decreased by 23% for 10s.",
         "img": "Klee/const_1"
       },
       {
@@ -261,6 +270,7 @@
       {
         "name": "Sparkly Explosion",
         "desc": "If Klee leaves the field during the duration of **Sparks 'n' Splash**, her departure triggers an explosion that deals 555% of her ATK as **AoE Pyro DMG**.",
+        "buffed_desc": "An explosion will be triggered if Klee leaves the field while **Sparks 'n' Splash** is active or when Sparks 'n' Splash ends, dealing 555% of ATK as **AoE Pyro DMG**. If Klee is on-field when the explosion occurs, its DMG will be increased by 100%.",
         "img": "Klee/const_3"
       },
       {
@@ -271,6 +281,7 @@
       {
         "name": "Blazing Delight",
         "desc": "While under the effects of **Sparks 'n' Splash**, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.\nWhen **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG Bonus** for 25s.",
+        "buffed_desc": "While under the effects of **Sparks 'n' Splash**, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.\nFor 25s after **Sparks 'n' Splash** is used, all other party members will gain a 10% **Pyro DMG Bonus**, and Klee will gain a 50% **Pyro DMG Bonus**.\n\n**Hexerei: Secret Rite**\n· When Klee uses an **Explosive Spark**, there is a 50% chance it will not be consumed. Additionally, while **Sparks 'n' Splash** is active, Klee's Normal Attacks have a 40% chance on the first and second hits to consume an Explosive Spark, dealing an additional attack equivalent to Boom-Boom Strike to her opponent(s).",
         "img": "Klee/const_5"
       }
     ]

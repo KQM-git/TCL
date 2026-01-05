@@ -57,6 +57,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <Weapon weapon="Skyward Harp" weapons={bows} />
 
+### The Daybreak Chronicles
+
+<Weapon weapon="The Daybreak Chronicles" weapons={bows} />
+
 ### The First Great Magic
 
 <Weapon weapon="The First Great Magic" weapons={bows} />
@@ -150,6 +154,10 @@ import FavSeries from './\_common/fav_series.md';
 ### Prototype Crescent
 
 <Weapon weapon="Prototype Crescent" weapons={bows} />
+
+### Rainbow Serpent's Rain Bow
+
+<Weapon weapon="Rainbow Serpent's Rain Bow" weapons={bows} />
 
 ### Range Gauge
 

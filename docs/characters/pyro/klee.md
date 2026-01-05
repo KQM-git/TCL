@@ -148,7 +148,7 @@ import Passive from '@site/src/components/char/Passive'
 </TabItem>
 
 <TabItem value='a1' label='Ascension 1'>
-<Passive char={char} passive={0} />
+<Passive char={char} passive={0} buffedTitle="Hexerei" />
 
 **Notes**
 
@@ -170,6 +170,10 @@ import Passive from '@site/src/components/char/Passive'
 * This Energy can proc vs enemy shields.
 
 </TabItem>
+
+<TabItem value="hexerei" label="Witch's Eve Rite" >
+<Passive char={char} passive={3} />
+</TabItem>
 </Tabs>
 
 ## Constellations
@@ -178,7 +182,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
-<Constellation char={char} constellation={1} />
+<Constellation char={char} constellation={1} buffedTitle="Hexerei" />
 
 | Attribute      | Chained Reactions            |
 | -------------- | ---------------------------- |
@@ -201,7 +205,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c2' label='C2'>
-<Constellation char={char} constellation={2} />
+<Constellation char={char} constellation={2} buffedTitle="Hexerei" />
 
 **Notes**
  
@@ -214,7 +218,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c4' label='C4'>
-<Constellation char={char} constellation={4} />
+<Constellation char={char} constellation={4} buffedTitle="Hexerei" />
 
 | Type              | GU  | ICD  |
 | :---------------- | :-- | :--- |
@@ -233,7 +237,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c6' label='C6'>
-<Constellation char={char} constellation={6} />
+<Constellation char={char} constellation={6} buffedTitle="Hexerei" />
 
 **Notes**
 

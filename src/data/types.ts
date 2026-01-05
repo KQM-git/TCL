@@ -42,13 +42,15 @@ export interface Skills {
 export interface Passive {
     name: string
     desc: string
+    buffed_desc: string | undefined
     img: string
     minAscension?: number
 }
 
 export interface Skill {
     name: string
-    desc: string
+    desc: string,
+    buffed_desc: string | undefined
     img: string
     talentTable: (TalentTable | TalentValue)[]
     type?: string
@@ -66,6 +68,7 @@ export interface TalentValue {
 export interface Constellation {
     name: string
     desc: string
+    buffed_desc: string | undefined
     img: string
 }
 
@@ -86,27 +89,6 @@ export interface Frames {
 }
 
 export type FrameInfo = number | string | (number | string)[];
-// export interface FrameTab {
-//     name?: string
-//     release?: FrameInfo
-//     hitmark?: FrameInfo
-//     hitlag?: FrameInfo
-//     default?: FrameInfo
-//     next_na?: FrameInfo
-//     n1?: FrameInfo
-//     plunge: FrameInfo
-//     ca?: FrameInfo
-//     skill?: FrameInfo
-//     burst?: FrameInfo
-//     walk?: FrameInfo
-//     dash?: FrameInfo
-//     jump?: FrameInfo
-//     arkhe?: FrameInfo
-//     swap?: FrameInfo
-//     cd?: FrameInfo
-//     energy?: FrameInfo
-//     notes?: string | string[]
-// }
 
 export type FrameTab = {
     name?: string;

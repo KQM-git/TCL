@@ -3285,6 +3285,94 @@
       "desc": "ATK is increased by **20%**/**25%**/**30%**/**35%**/**40%**. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to **100%**/**115%**/**130%**/**145%**/**160%** of ATK and dealing **200%**/**230%**/**260%**/**290%**/**320%** of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
     }
   },
+  "Athame Artis": {
+    "name": "Athame Artis",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.072,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Day King's Splendor Solis",
+      "desc": "CRIT DMG from Elemental Bursts is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When an Elemental Burst hits an opponent, gain the Blade of the Daylight Hours effect: ATK is increased by **20%**/**25%**/**30%**/**35%**/**40%**. Nearby active party members other than the equipping character have their ATK increased by **16%**/**20%**/**24%**/**28%**/**32%** for 3s.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, the effects of Blade of the Daylight Hours are increased by an additional 75%. This effect can be triggered even if the equipping character is off-field."
+    }
+  },
   "Azurelight": {
     "name": "Azurelight",
     "weaponType": "Sword",

@@ -1965,6 +1965,94 @@
       "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **36%**/**45%**/**54%**/**63%**/**72%** for 10s."
     }
   },
+  "Rainbow Serpent's Rain Bow": {
+    "name": "Rainbow Serpent's Rain Bow",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.1,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Astral Whispers Beyond the Sacred Throne",
+      "desc": "ATK is increased by **28%**/**35%**/**42%**/**49%**/**56%** for 8s after the equipping character's attacks hit an opponent while the equipping character is off-field."
+    }
+  },
   "Range Gauge": {
     "name": "Range Gauge",
     "weaponType": "Bow",
@@ -3635,6 +3723,94 @@
     "refinements": {
       "name": "Echoing Ballad",
       "desc": "Increases CRIT DMG by **20%**/**25%**/**30%**/**35%**/**40%**. Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **4**/**3.5**/**3**/**2.5**/**2**s."
+    }
+  },
+  "The Daybreak Chronicles": {
+    "name": "The Daybreak Chronicles",
+    "weaponType": "Bow",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 47.537,
+        "curve": "ATK 3.2"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.096,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Ode Beyond Time",
+      "desc": "The equipping character gains Stirring Dawn Breeze: 3s after leaving combat, Normal Attack, Elemental Skill, and Elemental Burst DMG is increased by **60%**/**75%**/**90%**/**105%**/**120%**. While in combat, this DMG Bonus will decrease by **10%**/**12.5%**/**15%**/**17.5%**/**20%** per second until it reaches 0%. When the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for the corresponding DMG type is increased by **10%**/**12.5%**/**15%**/**17.5%**/**20%** until it reaches **60%**/**75%**/**90%**/**105%**/**120%**. This effect can be triggered once every 0.1s for each of the attack types mentioned above. This effect can be triggered even if the equipping character is off-field.\nAdditionally, when the party possesses Hexerei: Secret Rite effects, when the equipping character's Normal Attacks, Elemental Skills, or Elemental Bursts hit an opponent, the DMG Bonus for all these DMG types is increased by **20%**/**25%**/**30%**/**35%**/**40%** instead."
     }
   },
   "The First Great Magic": {

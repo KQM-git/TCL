@@ -303,17 +303,25 @@
         "desc": "When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used.",
         "img": "Mona/passive_2",
         "minAscension": 0
+      },
+      {
+        "name": "Witch's Eve Rite: Genesis of Starsigns",
+        "desc": "After completing **Witch's Homework: Of Untested Insight**, Mona will become a **Hexerei** character. When the party includes at least 2 Hexerei characters, you will gain the **Hexerei: Secret Rite** effect, which enhances Hexerei characters.\n\n**Hexerei: Secret Rite**\nWhen Mona's Normal Attacks or Charged Attacks hit an opponent, she gains 1 stack of **Astral Glow of Mercury**, for 8s. Max 3 stacks. This effect can grant at most one stack every 0.1s. When other party members trigger a Vaporize reaction on an enemy, all Astral Glow of Mercury stacks are consumed. Each stack consumed increases the damage of that Vaporize reaction by 5%.\nAdditionally, when Mona's Normal Attacks or Charged Attacks hit an opponent, the enemy's **Omen** duration is extended by 2s. This effect can trigger at most once every 0.5s, and can extend the Omen by up to 8s through this method.",
+        "img": "Mona/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
       {
         "name": "Prophecy of Submersion",
         "desc": "When any of your own party members hits an opponent affected by an Omen, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:\n· Electro-Charged DMG increases by 15%.\n· Lunar-Charged DMG increases by 15%.\n· Vaporize DMG increases by 15%.\n· Hydro Swirl DMG increases by 15%.\n· Frozen duration is extended by 15%.",
+        "buffed_desc": "When any of your own party members hits an opponent affected by an Omen, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:\n· Electro-Charged DMG increases by 15%.\n· Lunar-Charged DMG increases by 15%.\n· Vaporize DMG increases by 15%.\n· Hydro Swirl DMG increases by 15%.\n· Frozen duration is extended by 15%.\n\nAdditionally, when your off-field party members trigger the above effect, the DMG Bonus to the above Hydro-related Elemental Reactions is enhanced to 160% of its original effect.",
         "img": "Mona/const_0"
       },
       {
         "name": "Lunar Chain",
         "desc": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s.",
+        "buffed_desc": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack. Additionally, within 5s after Mona unleashes her Elemental Burst **Stellaris Phantasm**, her next Normal Attack that hits an enemy will automatically trigger a Charged Attack.\nThe aforementioned Charged Attack effect can only occur once every 5s.\nWhen Mona's Charged Attack hits an opponent, all nearby party members will have their Elemental Mastery increased by 80 for 12s.",
         "img": "Mona/const_1"
       },
       {
@@ -324,6 +332,7 @@
       {
         "name": "Prophecy of Oblivion",
         "desc": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%.",
+        "buffed_desc": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%.\nWhen any Hexerei party member attacks an opponent affected by an Omen, their CRIT DMG is increased by 15%.",
         "img": "Mona/const_3"
       },
       {
@@ -334,6 +343,7 @@
       {
         "name": "Rhetorics of Calamitas",
         "desc": "Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.",
+        "buffed_desc": "While Mona is the active character, while she is in the **Illusory Torrent** state or there are opponents affected by an Omen nearby, she gains a 60% increase to the DMG of her next Charged Attack per second. A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.\nAdditionally, the DMG Mona's Charged Attacks deal to opponents affected by an Omen will be increased to 200% of the original DMG.",
         "img": "Mona/const_5"
       }
     ]

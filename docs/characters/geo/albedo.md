@@ -143,7 +143,7 @@ import Passive from '@site/src/components/char/Passive'
 </TabItem>
 
 <TabItem value='a1' label='Ascension 1'>
-<Passive char={char} passive={0} />
+<Passive char={char} passive={0} buffedTitle="Hexerei" />
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
@@ -155,13 +155,42 @@ import Passive from '@site/src/components/char/Passive'
 * The buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding.
 
 </TabItem>
+
+<TabItem value="hexerei" label="Witch's Eve Rite" >
+<Passive char={char} passive={3} />
+</TabItem>
+
 </Tabs>
 
 ## Constellations
 
-import ConstellationsFull from '@site/src/components/char/ConstellationsFull'
+import Constellation from '@site/src/components/char/Constellation'
 
-<ConstellationsFull char={char} />
+<Tabs queryString="constellation">
+<TabItem value='c1' label='C1'>
+<Constellation buffedTitle="Hexerei" char={char} constellation={1} />
+</TabItem>
+
+<TabItem value='c2' label='C2'>
+<Constellation buffedTitle="Hexerei" char={char} constellation={2} />
+</TabItem>
+
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
+</TabItem>
+
+<TabItem value='c4' label='C4'>
+<Constellation buffedTitle="Hexerei" char={char} constellation={4} />
+</TabItem>
+
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
+</TabItem>
+
+<TabItem value='c6' label='C6'>
+<Constellation buffedTitle="Hexerei" char={char} constellation={6} />
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 

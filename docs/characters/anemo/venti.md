@@ -63,6 +63,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter="Hexerei: Secret Rite" buffedFilter="true"/>
+| Type            | Talent 9% |
+| :-------------- | :-------- |
+| Windsurfer Arrow DMG | 240% Normal Attack DMG |
+</div>
+
 **Notes**
 
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
@@ -145,9 +152,26 @@ import Frames from '@site/src/components/char/Frames'
 
 ## Ascension Passives
 
-import PassivesFull from '@site/src/components/char/PassivesFull'
+import Passive from '@site/src/components/char/Passive'
 
-<PassivesFull char={char} />
+<Tabs queryString="passive">
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
+</TabItem>
+
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+<Passive char={char} passive={1} />
+</TabItem>
+
+<TabItem value="hexerei" label="Witch's Eve Rite" >
+<Passive char={char} passive={3} />
+</TabItem>
+</Tabs>
+
 
 ## Constellations
 
@@ -155,7 +179,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
-<Constellation char={char} constellation={1} />
+<Constellation buffedTitle="Hexerei" char={char} constellation={1} />
 
 | Attack                                 | Poise Damage | Impulse Type |
 | :------------------------------------- | :----------- | :----------- |
@@ -171,7 +195,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c2' label='C2'>
-<Constellation char={char} constellation={2} />
+<Constellation buffedTitle="Hexerei" char={char} constellation={2} />
 
 **Notes**
  
@@ -184,7 +208,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c4' label='C4'>
-<Constellation char={char} constellation={4} />
+<Constellation buffedTitle="Hexerei" char={char} constellation={4} />
 </TabItem>
 
 <TabItem value='c5' label='C5'>
@@ -192,7 +216,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c6' label='C6'>
-<Constellation char={char} constellation={6} />
+<Constellation buffedTitle="Hexerei" char={char} constellation={6} />
 
 **Notes**
 
