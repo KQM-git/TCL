@@ -244,6 +244,8 @@ The damage dealt by Hyperbloom scales off of the Electro applier's stats, whethe
 
 Electro Crystals can trigger Hyperbloom. Hyperblooms triggered by Electro Crystals or Enemies are inconsistent in what they do or do not target. For more information, see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#information-on-hyperblooms-not-triggered-by-the-player).  
 
+Hyperbloom DMG does not snapshot EM on trigger, and Hyperbloom can benefit from the same 4pc FoPL/Gilded proc it triggers.  
+
 ### Burgeon
 
 Burgeon is a second-stage Transformative Reaction that deals Dendro DMG when Pyro is applied to a Dendro core, this instance of damage does not stagger.
@@ -251,6 +253,8 @@ Burgeon is a second-stage Transformative Reaction that deals Dendro DMG when Pyr
 The damage dealt by Burgeon scales off of the Pyro applier's stats, whether it's a Pyro character using a Pyro attack, an Anemo character Swirling Pyro, or any melee character under the effect of [Bennett C6](../../characters/pyro/bennett.md#constellations).
 
 Similar to Bloom Explosion, Burgeon also has an AoE radius of 5m, does 95% reduced damage to the player, and can damage Ley Line Monoliths. The damage dealt to the player is only affected by the player's Dendro RES, and reducing the enemy's Dendro RES does nothing to the self-damage. 
+
+Burgeon can benefit from the same 4pc FoPL/Gilded proc it triggers. However, [Burgeon shows inconsistency with the Gilded set](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#hyperbloom-and-burgeon-dmg-snapshotting-and-artifact-interactions).  
 
 ## Evidence Vault
 
