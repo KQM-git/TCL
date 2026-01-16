@@ -2,8 +2,6 @@
 description: The remarkably resourceful owner of the Curatorium of Secrets.
 ---
 
-<!-- replace every instance of "Nefer" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and Nefer lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
-
 <!-- 
 Checklist for other pages:
 Gauges: docs/resources/compendiums/elemental-gauges.md

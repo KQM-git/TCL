@@ -248,6 +248,12 @@
         "desc": "The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as **AoE Geo DMG**.",
         "img": "Traveler/6/passive_1",
         "minAscension": 4
+      },
+      {
+        "name": "Foreign Adamantine",
+        "desc": "Draw new strength from journeys past. For every element you have resonated with, you gain additional **buffs**.\n\nAdditionally, when nearby party members become protected by a shield, when the shield is replaced for any reason, or when **Geo Constructs** are created, the Traveler will receive 1 stack of Blade of Archaic Petra, max 3 stacks. Up to 1 stack may be obtained every second in this way. After obtaining 3 stacks of Blade of Archaic Petra, performing a Charged Attack will consume all stacks of Blade of Archaic Petra and transform into the special **Charged Attack: Rockfell**.\n\n**Charged Attack: Rockfell**\n· Each Charged Attack hit deals increased **Geo DMG**. Increase in DMG is equal to 120% of Traveler's ATK.\n· For 15s after hitting an opponent, nearby party members will have their shield strength temporarily increased by 20%.\n· **Charged Attack: Rockfell** can be triggered up to once every 15s.\n[Details title=\"Additional Buff Effects\"]The Traveler gains an attribute bonus for every element they have resonated with: \n**Anemo**: CRIT Rate is increased by 10%,\n**Geo**: DEF is increased by 20%,\n**Electro**: Energy Recharge is increased by 20%, \n**Dendro**: Elemental Mastery is increased by 60,\n**Hydro**: HP is increased by 20%,\n**Pyro**: ATK is increased by 20%,\n**Cryo**: CRIT DMG is increased by 20%.[/Details]",
+        "img": "Traveler/6/passive_2",
+        "minAscension": 0
       }
     ],
     "constellations": [

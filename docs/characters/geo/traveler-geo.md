@@ -199,10 +199,14 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
+* This attack is considered as Normal Attack Damage.
 * This allows Geo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
 * This instance of damage happens before N5 for Aether and after N5 for Lumine.
 
+</TabItem>
+
+<TabItem value="passive" label="Additional Talent">
+<Passive char={char} passive={2} />
 </TabItem>
 </Tabs>
 

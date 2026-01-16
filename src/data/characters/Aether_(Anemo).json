@@ -320,6 +320,12 @@
         "desc": "**Palm Vortex** kills regenerate 2% HP for 5s.\nThis effect can only occur once every 5s.",
         "img": "Traveler/4/passive_1",
         "minAscension": 4
+      },
+      {
+        "name": "Foreign Windwrath",
+        "desc": "Draw new strength from journeys past. For every element you have resonated with, you gain additional **buffs**.\n\nAdditionally, when **Pyro**, **Hydro**, **Cryo**, or **Electro** attacks from nearby party members hit opponents, Traveler will receive 1 stack of Blade of the Dawn Breeze. Each Elemental Type can grant 1 Blade of the Dawn Breeze stack. After obtaining at least 2 stacks of Blade of the Dawn Breeze, performing a Charged Attack will consume all stacks of Blade of the Dawn Breeze and transform into the special **Charged Attack: Whirlwind**.\n\n**Charged Attack: Whirlwind**\n· Each Charged Attack hit deals increased **Anemo DMG**. Increase in DMG is equal to 60% of Traveler's ATK.\n· Every time a Blade of the Dawn Breeze of a certain elemental type is consumed, a Blade Wind matching this elemental type will also be summoned, dealing elemental DMG equal to 50% of Traveler's ATK. This DMG is considered Charged Attack DMG.\n· **Charged Attack: Whirlwind** can be triggered up to once every 15s.\n· For the duration of **Charged Attack: Whirlwind**, no Blade of the Dawn Breeze will be obtained.\n[Details title=\"Additional Buff Effects\"]The Traveler gains an attribute bonus for every element they have resonated with: \n**Anemo**: CRIT Rate is increased by 10%,\n**Geo**: DEF is increased by 20%,\n**Electro**: Energy Recharge is increased by 20%, \n**Dendro**: Elemental Mastery is increased by 60,\n**Hydro**: HP is increased by 20%,\n**Pyro**: ATK is increased by 20%,\n**Cryo**: CRIT DMG is increased by 20%.[/Details]",
+        "img": "Traveler/4/passive_2",
+        "minAscension": 0
       }
     ],
     "constellations": [

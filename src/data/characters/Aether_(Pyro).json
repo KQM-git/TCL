@@ -280,6 +280,12 @@
         "desc": "After the current active character inside a **Blazing Threshold** or **Scorching Threshold** triggers a **Pyro-related reaction**, the Traveler will regain 5 Energy. This can occur once every 12s. Additionally, when a nearby party member triggers a Nightsoul Burst, the Traveler will regain 4 Energy.",
         "img": "Traveler/2/passive_1",
         "minAscension": 4
+      },
+      {
+        "name": "Foreign Starfire",
+        "desc": "Draw new strength from journeys past. For every element you have resonated with, you gain additional **buffs**.\n\nAdditionally, when nearby party members trigger Nightsoul Burst, Traveler will receive 1 stack of Blade of the Sacred Flame, max 2 stacks. After obtaining 2 stacks of Blade of the Sacred Flame, performing a Charged Attack will consume all stacks of Blade of the Sacred Flame and transform into a special **Charged Attack: Inferno**.\n\n**Charged Attack: Inferno**\n· Each Charged Attack hit deals increased, Nightsoul-aligned **Pyro DMG**. Increase in DMG is equal to 200% of Traveler's ATK.\n· **Charged Attack: Inferno** can be triggered up to once every 15s.\n[Details title=\"Additional Buff Effects\"]The Traveler gains an attribute bonus for every element they have resonated with: \n**Anemo**: CRIT Rate is increased by 10%,\n**Geo**: DEF is increased by 20%,\n**Electro**: Energy Recharge is increased by 20%, \n**Dendro**: Elemental Mastery is increased by 60,\n**Hydro**: HP is increased by 20%,\n**Pyro**: ATK is increased by 20%,\n**Cryo**: CRIT DMG is increased by 20%.[/Details]",
+        "img": "Traveler/2/passive_2",
+        "minAscension": 0
       }
     ],
     "constellations": [

@@ -209,6 +209,10 @@ import Passive from '@site/src/components/char/Passive'
 * A4 snapshots the EM that DMC has when they go off-field and updates it when they come back on-field.
 
 </TabItem>
+
+<TabItem value="passive" label="Additional Talent">
+<Passive char={char} passive={2} />
+</TabItem>
 </Tabs>
 
 ## Constellations

@@ -994,7 +994,7 @@
     ],
     "refinements": {
       "name": "Mind in Bloom",
-      "desc": "When Electro-Charged, Lunar-Charged, Bloom, or Lunar-Bloom is triggered, restore **12**/**15**/**18**/**21**/**24** Elemental Energy and increase Elemental Mastery by **60**/**75**/**90**/**105**/**120** for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field."
+      "desc": "When Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Crystallize or Lunar-Crystallize is triggered, restore **12**/**15**/**18**/**21**/**24** Elemental Energy and increase Elemental Mastery by **60**/**75**/**90**/**105**/**120** for 15 seconds. This effect can be triggered at most once every 15s and can be triggered even when the equipping character is off-field."
     }
   },
   "Forest Regalia": {
@@ -3458,7 +3458,7 @@
     ],
     "refinements": {
       "name": "Many Oaths of Dawn and Dusk",
-      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by **18%**/**22.5%**/**27%**/**31.5%**/**36%**. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by **18%**/**22.5%**/**27%**/**31.5%**/**36%**. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
     }
   },
   "Wolf's Gravestone": {

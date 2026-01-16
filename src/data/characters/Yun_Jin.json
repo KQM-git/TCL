@@ -346,7 +346,7 @@
       },
       {
         "name": "Flower and a Fighter",
-        "desc": "When Yun Jin triggers the Crystallize Reaction, her DEF is increased by 20% for 12s.",
+        "desc": "When Yun Jin triggers Crystallize or Lunar-Crystallize reactions, her DEF is increased by 20% for 12s.",
         "img": "Yun_Jin/const_3"
       },
       {

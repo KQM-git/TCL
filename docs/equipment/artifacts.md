@@ -10,6 +10,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ## 5 Star Artifact Sets
 
+### A Day Carved From Rising Winds
+
+<Artifact artifact="A Day Carved From Rising Winds" />
+
 ### Archaic Petra
 
 <Artifact artifact="Archaic Petra">
@@ -19,6 +23,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
 
 </Artifact>
+
+### Aubade of Morningstar and Moon
+
+<Artifact artifact="Aubade of Morningstar and Moon"/>
 
 ### Blizzard Strayer
 

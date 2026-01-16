@@ -64,6 +64,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Nightweaver's Looking Glass" weapons={catalysts} />
 
+### Nocturne's Curtain Call
+
+<Weapon weapon="Nocturne's Curtain Call" />
+
 ### Reliquary of Truth
 
 <Weapon weapon="Reliquary of Truth" weapons={catalysts} />

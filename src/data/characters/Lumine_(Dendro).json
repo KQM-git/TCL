@@ -262,6 +262,12 @@
         "desc": "Every point of Elemental Mastery the Traveler possesses increases the DMG dealt by **Razorgrass Blade** by 0.15% and the DMG dealt by **Surgent Manifestation** by 0.1%.",
         "img": "Traveler/8/passive_1",
         "minAscension": 4
+      },
+      {
+        "name": "Foreign Verdalume",
+        "desc": "Draw new strength from journeys past. For every element you have resonated with, you gain additional **buffs**. \n\nAdditionally, when Dendro Cores (including Bountiful Cores, Seeds of Deceit) appear nearby on the field, or when the party obtains Verdant Dew, Traveler will receive 1 stack of Blade of Verdant Viridis. These two methods can each grant the Traveler up to 1 stack of Blade of Verdant Viridis every 4s, max 3 stacks. After obtaining 3 stacks of Blade of Verdant Viridis, performing a Charged Attack will consume all stacks of Blade of Verdant Viridis and transform into the special **Charged Attack: Verdessence**.\n\n**Charged Attack: Verdessence**\n· Each Charged Attack hit deals increased **Dendro DMG**. The increase in DMG is equal to 80% of Traveler's ATK. Two **Vinecores** will also be created on the spot, which will explode after 4/8s respectively, inflicting **Dendro DMG** equal to 120% of Traveler's ATK. This DMG is considered Charged Attack DMG.\n· **Charged Attack: Verdessence** can be triggered up to once every 15s.\n[Details title=\"Additional Buff Effects\"]The Traveler gains an attribute bonus for every element they have resonated with: \n**Anemo**: CRIT Rate is increased by 10%,\n**Geo**: DEF is increased by 20%,\n**Electro**: Energy Recharge is increased by 20%, \n**Dendro**: Elemental Mastery is increased by 60,\n**Hydro**: HP is increased by 20%,\n**Pyro**: ATK is increased by 20%,\n**Cryo**: CRIT DMG is increased by 20%.[/Details]",
+        "img": "Traveler/8/passive_2",
+        "minAscension": 0
       }
     ],
     "constellations": [

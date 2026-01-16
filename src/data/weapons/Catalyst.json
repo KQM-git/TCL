@@ -3549,6 +3549,94 @@
       "desc": "When the equipping character's Elemental Skill deals Hydro or Dendro DMG, they will gain Prayer of the Far North: Elemental Mastery is increased by **60**/**75**/**90**/**105**/**120** for 4.5s. When nearby party members trigger Lunar-Bloom reactions, the equipping character gains New Moon Verse: Elemental Mastery is increased by **60**/**75**/**90**/**105**/**120** for 10s. When both Prayer of the Far North and New Moon Verse are in effect, all nearby party members' Bloom DMG is increased by **120%**/**150%**/**180%**/**210%**/**240%**, their Hyperbloom and Burgeon DMG is increased by **80%**/**100%**/**120%**/**140%**/**160%**, and their Lunar-Bloom DMG is increased by **40%**/**50%**/**60%**/**70%**/**80%**. This effect cannot stack. The aforementioned effects can be triggered even if the equipping character is off-field."
     }
   },
+  "Nocturne's Curtain Call": {
+    "name": "Nocturne's Curtain Call",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.192,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Ballad of the Crossroads",
+      "desc": "Max HP increases by **10%**/**12%**/**14%**/**16%**/**18%**. When triggering Lunar reactions or inflicting Lunar Reaction DMG on opponents, the equipping character will recover **14**/**15**/**16**/**17**/**18** Energy, and receive the Bountiful Sea's Sacred Wine effect for 12s: Max HP increases by an additional **14%**/**16%**/**18%**/**20%**/**22%**, CRIT DMG from Lunar Reaction DMG increases by **60%**/**80%**/**100%**/**120%**/**140%**. The Energy recovery effect can be triggered at most once every 18s, and can be triggered even when the equipping character is off-field."
+    }
+  },
   "Reliquary of Truth": {
     "name": "Reliquary of Truth",
     "weaponType": "Catalyst",

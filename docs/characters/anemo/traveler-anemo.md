@@ -204,6 +204,10 @@ import Passive from '@site/src/components/char/Passive'
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
 </TabItem>
+
+<TabItem value="passive" label="Additional Talent">
+<Passive char={char} passive={2} />
+</TabItem>
 </Tabs>
 
 ## Constellations

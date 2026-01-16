@@ -292,7 +292,7 @@
       },
       {
         "name": "The Burden of Creative Genius",
-        "desc": "For the next 15s after using the Elemental Burst **Precision Hydronic Cooler**, DMG from nearby active characters' Electro-Charged, Bloom, Lunar-Charged, and Lunar-Bloom reactions is increased by 15%.\n**Moonsign: Ascendant Gleam**: DMG from the aforementioned reactions will be further increased by 20%.\n[Details title=\"Precision Hydronic Cooler\"]Aino deploys a custom water-spraying device, the **Cool Your Jets Ducky** to establish a **Focused Hydronic Cooling Zone**.\nWhile active, the Cool Your Jets Ducky will periodically fire water balls at nearby opponents, dealing **Hydro DMG**.[/Details]",
+        "desc": "For the next 15s after using the Elemental Burst **Precision Hydronic Cooler**, DMG from nearby active characters' Electro-Charged, Bloom, Lunar-Charged, Lunar-Bloom, and Lunar-Crystallize reactions is increased by 15%.\n**Moonsign: Ascendant Gleam**: DMG from the aforementioned reactions will be further increased by 20%.\n[Details title=\"Precision Hydronic Cooler\"]Aino deploys a custom water-spraying device, the **Cool Your Jets Ducky** to establish a **Focused Hydronic Cooling Zone**.\nWhile active, the Cool Your Jets Ducky will periodically fire water balls at nearby opponents, dealing **Hydro DMG**.[/Details]",
         "img": "Aino/const_5"
       }
     ]

@@ -207,6 +207,10 @@ import Passive from '@site/src/components/char/Passive'
 * This effect only takes into account the Traveler's original Energy Recharge. Picking up an **Amulet** to increase the Traveler's ER will not impact the amount of ER shared by **Resounding Roar** for other Amulet pickups.
 
 </TabItem>
+
+<TabItem value="passive" label="Additional Talent">
+<Passive char={char} passive={2} />
+</TabItem>
 </Tabs>
 
 ## Constellations

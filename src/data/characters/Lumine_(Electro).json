@@ -310,6 +310,12 @@
         "desc": "Increases the Energy Recharge effect granted by **Lightning Blade**'s Abundance Amulet by 10% of the Traveler's Energy Recharge.",
         "img": "Traveler/7/passive_1",
         "minAscension": 4
+      },
+      {
+        "name": "Foreign Thundertrail",
+        "desc": "Draw new strength from journeys past. For every element you have resonated with, you gain additional **buffs**.\n\nIn addition, when nearby party members unleash an Elemental Burst, Traveler will receive 1 stack of Blade of Resounding Thunder, max 3 stacks. After obtaining 3 stacks of Blade of Resounding Thunder, performing a Charged Attack will consume all stacks of Blade of Resounding Thunder and transform into the special **Charged Attack: Detonate**.\n\n**Charged Attack: Detonate**\n· Each Charged Attack hit deals increased **Electro DMG**. Increase in DMG is equal to 100% of Traveler's ATK. \n· 3s after hitting the enemy, 1 additional lightning strike will be triggered, dealing **Electro DMG** equal to 200% of Traveler's ATK. 1 Abundance Amulet will also be created. This DMG is considered Charged Attack DMG.\n· **Charged Attack: Detonate** can be triggered up to once every 15s.\n[Details title=\"Additional Buff Effects\"]The Traveler gains an attribute bonus for every element they have resonated with: \n**Anemo**: CRIT Rate is increased by 10%,\n**Geo**: DEF is increased by 20%,\n**Electro**: Energy Recharge is increased by 20%, \n**Dendro**: Elemental Mastery is increased by 60,\n**Hydro**: HP is increased by 20%,\n**Pyro**: ATK is increased by 20%,\n**Cryo**: CRIT DMG is increased by 20%.[/Details]",
+        "img": "Traveler/7/passive_2",
+        "minAscension": 0
       }
     ],
     "constellations": [

@@ -187,11 +187,10 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
+</TabItem>
 
-**Notes**
-
-* This effect only takes into account the Traveler's original Energy Recharge. Picking up an **Amulet** to increase the Traveler's ER will not impact the amount of ER shared by **Resounding Roar** for other Amulet pickups.
-
+<TabItem value="passive" label="Additional Talent">
+<Passive char={char} passive={2} />
 </TabItem>
 </Tabs>
 
@@ -206,11 +205,6 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c2' label='C2'>
 <Constellation char={char} constellation={2} />
-
-**Notes**
-  
-* This effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
-
 </TabItem>
 
 <TabItem value='c3' label='C3'>
