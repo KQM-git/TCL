@@ -2,6 +2,11 @@
 description: A Lightkeeper of Nod-Krai, guardian of a lighthouse and graveyard on a northern isle. An enigmatic gentleman, cultured and courtly.
 ---
 
+import char from '@site/src/data/characters/Flins.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Flins
+
 <!-- 
 Checklist for other pages:
 Gauges: docs/resources/compendiums/elemental-gauges.md
@@ -10,10 +15,6 @@ Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 Proc damage: docs/combat=mechanics/damage/damage-formula#proc-damage-sources
 -->
-import char from '@site/src/data/characters/Flins.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Flins
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution

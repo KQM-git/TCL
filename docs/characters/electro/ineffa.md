@@ -2,6 +2,11 @@
 description: A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.
 ---
 
+import char from '@site/src/data/characters/Ineffa.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Ineffa
+
 <!-- 
 Checklist for other pages:
 Gauges: docs/resources/compendiums/elemental-gauges.md
@@ -9,10 +14,6 @@ Particles: docs/resources/compendiums/elemental-skill-particles.md
 Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 -->
-import char from '@site/src/data/characters/Ineffa.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Ineffa
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution

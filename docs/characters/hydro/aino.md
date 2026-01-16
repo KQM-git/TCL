@@ -2,6 +2,11 @@
 description: A genius mechanic and inventor from Nod-Krai who loves interesting machines and sweet treats.
 ---
 
+import char from '@site/src/data/characters/Aino.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Aino
+
 <!-- replace every instance of "Aino" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and Aino lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
 
 <!-- 
@@ -12,10 +17,6 @@ Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 Proc damage: docs/combat=mechanics/damage/damage-formula#proc-damage-sources
 -->
-import char from '@site/src/data/characters/Aino.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Aino
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution

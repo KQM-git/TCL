@@ -2,6 +2,11 @@
 description: The Moon Maiden born in Nod-Krai, and also the welkin moon returning home.
 ---
 
+import char from '@site/src/data/characters/Columbina.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Columbina
+
 <!-- 
 Checklist for other pages:
 Gauges: docs/resources/compendiums/elemental-gauges.md
@@ -10,10 +15,6 @@ Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 Proc damage: docs/combat=mechanics/damage/damage-formula#proc-damage-sources
 -->
-import char from '@site/src/data/characters/Columbina.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Columbina
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution

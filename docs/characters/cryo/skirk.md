@@ -2,6 +2,11 @@
 description: A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.
 ---
 
+import char from '@site/src/data/characters/Skirk.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Skirk
+
 <!-- 
 Checklist for other pages:
 Gauges: docs/resources/compendiums/elemental-gauges.md
@@ -9,10 +14,6 @@ Particles: docs/resources/compendiums/elemental-skill-particles.md
 Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 -->
-import char from '@site/src/data/characters/Skirk.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Skirk
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution

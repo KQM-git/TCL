@@ -16,9 +16,14 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   trailingSlash: false,
-  onBrokenMarkdownLinks: 'warn',
   onBrokenAnchors: 'warn',
   favicon: 'img/favicon.ico',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn'
+    }
+  },
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -156,6 +161,7 @@ const config = {
           path: 'newsletter',
           editUrl: 'https://github.com/KQM-git/TCL/blob/master/',
           postsPerPage: 5,
+          onUntruncatedBlogPosts: 'ignore',
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
         },

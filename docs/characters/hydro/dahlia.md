@@ -2,6 +2,11 @@
 description: Deacon of the Church of Favonius and the Anemo Archon's representative in the church.
 ---
 
+import char from '@site/src/data/characters/Dahlia.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Dahlia
+
 <!-- 
 Checklist for other pages:
 Gauges: docs/resources/compendiums/elemental-gauges.md
@@ -9,10 +14,6 @@ Particles: docs/resources/compendiums/elemental-skill-particles.md
 Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 -->
-import char from '@site/src/data/characters/Dahlia.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Dahlia
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution

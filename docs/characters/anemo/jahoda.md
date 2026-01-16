@@ -2,6 +2,11 @@
 description: The Curatorium of Secrets' extremely reliable, do-it-all super employee (or so she claims).
 ---
 
+import char from '@site/src/data/characters/Jahoda.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Jahoda
+
 <!-- replace every instance of "Jahoda" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and Jahoda lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
 
 <!-- 
@@ -12,10 +17,6 @@ Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 Proc damage: docs/combat=mechanics/damage/damage-formula#proc-damage-sources
 -->
-import char from '@site/src/data/characters/Jahoda.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Jahoda
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution

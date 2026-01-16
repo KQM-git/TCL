@@ -2,6 +2,11 @@
 description: A Maiden blessed by moonlight and the grove alike, hope born to the Frostmoon Scions.
 ---
 
+import char from '@site/src/data/characters/Lauma.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Lauma
+
 <!-- 
 Checklist for other pages:
 Gauges: docs/resources/compendiums/elemental-gauges.md
@@ -10,10 +15,6 @@ Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 Proc damage: docs/combat=mechanics/damage/damage-formula#proc-damage-sources
 -->
-import char from '@site/src/data/characters/Lauma.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Lauma
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution

@@ -2,7 +2,10 @@
 description: A dragon born from M's pen, who came to alight in the human world. His "story" continues to unfold.
 ---
 
-<!-- replace every instance of "Durin" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and Durin lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
+import char from '@site/src/data/characters/Durin.json'
+import SkillIcon from '@site/src/components/char/SkillIcon'
+
+# Durin
 
 <!-- 
 Checklist for other pages:
@@ -12,10 +15,6 @@ Flat damage buffs: docs/combat-mechanics/damage/damage-formula.md
 Snapshot/Dynamic: docs/combat-mechanics/snapshot-and-dynamic.md
 Proc damage: docs/combat=mechanics/damage/damage-formula#proc-damage-sources
 -->
-import char from '@site/src/data/characters/Durin.json'
-import SkillIcon from '@site/src/components/char/SkillIcon'
-
-# Durin
 
 <!-- Remove this warning when adding the basic mechs ticket -->
 :::caution
