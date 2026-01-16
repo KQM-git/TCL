@@ -45,7 +45,7 @@ description: For entries that have little practical use.
 * Using a non\-canceled 5\* Elemental Burst or opening a UI menu on PC will reset walking mode to running mode, but not on mobile. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#certain-actions-reset-walking-mode) for more information.
 * Specialty dish rates are affected by dish rarity and quality. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#specialty-dish-rates) for more information.
 * Slimes that are in barrels or Frozen can blink.
-* Certain characters buffs and/or infusions are limited by a finite vertical range, while others showcase near unlimited vertical range. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#vertical-ranges-of-certain-abilities) for more information.
+* Certain characters buffs and/or infusions are limited by a finite vertical range, while others showcase near unlimited vertical range. See this [Vault Entry](/evidence/general-mechanics/miscellaneous-entries#vertical-range-of-certain-abilities) for more information.
 * The birds inside the cages of The Chasm underground camps have some weird behavior. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#chasm-glitchy-bird) for more information.
 * Anemo units Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.
 * Character Constellations are actually [3D](../evidence/general-mechanics/miscellaneous-entries.md#character-constellations-are-3d)!
@@ -159,7 +159,7 @@ The winning "TC" entries of our **KQM 100K Event**, as well as some of our Schol
 ### Magical Lizards
 
 * Some lizards in Teyvat can spawn mid-air then fall without taking any damage. Let's unravel one of Teyvat's biggest magic trick.
-  * Written by [pai#3602](/evidence/general-mechanics/miscellaneous-entries.md#magical-lizards)
+  * Written by [pai#3602](/evidence/general-mechanics/miscellaneous-entries#magical-lizards)
 
 ### Eula Lawrence Is Best Girl And Every Other Opinion Is Factually Wrong
 

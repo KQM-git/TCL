@@ -66,7 +66,7 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 ### Nocturne's Curtain Call
 
-<Weapon weapon="Nocturne's Curtain Call" />
+<Weapon weapon="Nocturne's Curtain Call" weapons={catalysts} />
 
 ### Reliquary of Truth
 

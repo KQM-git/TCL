@@ -312,7 +312,6 @@ export default function PortraitGenerator({
           setSearch("")
           return
         }
-        console.log(e)
         if (e.key == "Backspace" && e.shiftKey && search.length == 0 && active.length > 0) {
           pop()
         }

@@ -3,7 +3,6 @@ import ReactMarkdown from 'react-markdown'
 import React from 'react'
 
 export default function Tooltip_Details({ title, children }) {
-    console.log({title, children})
     return <MDXComponents.Details>
             <summary><strong>{title}</strong></summary>
             <ReactMarkdown>{children}</ReactMarkdown>
