@@ -226,6 +226,23 @@ Kazuha's E > plunge Anemo infusion/conversion is not overtaken by weapon infusio
 **Significance:**  
 Kazuha's E > plunge can be considered as an Anemo infusion which cannot be overridden by weapon infusion as seen in the likes of keqing or ayaka or chongyun.
 
+### Kazuha Midare Ranzan Skip
+
+**By:** @mustproceedquickly  
+**Added:** <Version date="2025-10-07" />  
+**Last tested:** <VersionHl date="2025-03-19" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kazuha-midare-ranzan-skip)
+
+**Finding:**  
+Kazuha can skip Midare Ranzan by using Chihayaburu in midair and pressing attack at the same time. For PC users, inputs are Spacebar > Left Mouse Button + E. Can also be done with dash jumps. It can be done very close to the ground or done late as long as you are in the air.  
+
+**Evidence:**
+[Youtube](https://www.youtube.com/playlist?list=PL9xH2gqXUkMCbNzWcUsIXpYpuLwPrZPA4)
+Bilibili speedrun showcasing skip. [Bilibili](https://www.vxbilibili.com/video/BV16oXjYWEgA/)
+  
+**Significance:** 
+Higher DPS in Xianyun teams and can also ignore Midare Ranzan absorption (since it is skipped) when fighting aura innate mobs if elemental priority is not in your favor and you have a weapon infusion.
+
 ## Burst Mechanics
 
 * Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
