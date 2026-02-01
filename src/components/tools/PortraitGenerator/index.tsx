@@ -51,14 +51,28 @@ const travelers = [{
 }, {
   name: "Lumine",
   path: "/img/characters/icon/Lumine.png",
+}, {
+  name: "Aether_Skin1",
+  path: "/img/characters/icon/Aether_Skin1.png",
+}, {
+  name: "Lumine_Skin1",
+  path: "/img/characters/icon/Lumine_Skin1.png",
 }]
+
 const roundedTravelers = [{
   name: "Aether",
   path: "/img/characters/round-icon/Aether.png",
 }, {
   name: "Lumine",
   path: "/img/characters/round-icon/Lumine.png",
+}, {
+  name: "Aether_Skin1",
+  path: "/img/characters/round-icon/Aether_Skin1.png",
+}, {
+  name: "Lumine_Skin1",
+  path: "/img/characters/round-icon/Lumine_Skin1.png",
 }]
+
 const localStorageKey = "portrait-generator-custom-icons"
 
 export default function PortraitGenerator({
