@@ -20,6 +20,10 @@ import claymores from '@site/src/data/weapons/Claymore.json'
 
 <Weapon weapon="Fang of the Mountain King" weapons={claymores} />
 
+### Gest of the Mighty Wolf
+
+<Weapon weapon="Gest of the Mighty Wolf" weapons={claymores} />
+
 ### Redhorn Stonethresher
 
 <Weapon weapon="Redhorn Stonethresher" weapons={claymores} />

@@ -1,0 +1,496 @@
+{
+  "name": "Illuga",
+  "star": 4,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 1002.9701,
+    "attackBase": 16.0272,
+    "defenseBase": 68.2122,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Oathkeeper's Spear",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "47.4%",
+              "51.2%",
+              "55.1%",
+              "60.6%",
+              "64.4%",
+              "68.8%",
+              "74.9%",
+              "81.0%",
+              "87.0%",
+              "93.6%",
+              "100.2%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "48.5%",
+              "52.5%",
+              "56.4%",
+              "62.1%",
+              "66.0%",
+              "70.5%",
+              "76.7%",
+              "82.9%",
+              "89.2%",
+              "95.9%",
+              "102.7%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "31.4%+31.4%",
+              "34.0%+34.0%",
+              "36.6%+36.6%",
+              "40.2%+40.2%",
+              "42.8%+42.8%",
+              "45.7%+45.7%",
+              "49.7%+49.7%",
+              "53.7%+53.7%",
+              "57.7%+57.7%",
+              "62.1%+62.1%",
+              "66.5%+66.5%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "76.3%",
+              "82.5%",
+              "88.7%",
+              "97.6%",
+              "103.8%",
+              "110.9%",
+              "120.6%",
+              "130.4%",
+              "140.1%",
+              "150.8%",
+              "161.4%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "111.0%",
+              "120.1%",
+              "129.1%",
+              "142.0%",
+              "151.0%",
+              "161.4%",
+              "175.6%",
+              "189.8%",
+              "204.0%",
+              "219.5%",
+              "235.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dawnbearing Songbird",
+        "desc": "Summons the trusty messenger bird, \"Aedon.\" Different effects are produced depending on whether the skill is Tapped or Held.\n\n**Tap**\nAedon dashes towards enemies in front, dealing **Geo DMG** to enemies it comes into contact with.\n\n**Hold**\nEnter aiming mode, and command Aedon to dash towards opponents being aimed at, dealing **Geo DMG** to opponents it comes into contact with.",
+        "img": "Illuga/skill_1",
+        "talentTable": [
+          {
+            "name": "Press DMG",
+            "values": [
+              "483% Elemental Mastery+241% DEF",
+              "519% Elemental Mastery+259% DEF",
+              "555% Elemental Mastery+277% DEF",
+              "603% Elemental Mastery+302% DEF",
+              "639% Elemental Mastery+320% DEF",
+              "676% Elemental Mastery+338% DEF",
+              "724% Elemental Mastery+362% DEF",
+              "772% Elemental Mastery+386% DEF",
+              "820% Elemental Mastery+410% DEF",
+              "869% Elemental Mastery+434% DEF",
+              "917% Elemental Mastery+458% DEF",
+              "965% Elemental Mastery+483% DEF",
+              "1025% Elemental Mastery+513% DEF"
+            ]
+          },
+          {
+            "name": "Hold DMG",
+            "values": [
+              "603% Elemental Mastery+302% DEF",
+              "648% Elemental Mastery+324% DEF",
+              "694% Elemental Mastery+347% DEF",
+              "754% Elemental Mastery+377% DEF",
+              "799% Elemental Mastery+400% DEF",
+              "844% Elemental Mastery+422% DEF",
+              "905% Elemental Mastery+452% DEF",
+              "965% Elemental Mastery+483% DEF",
+              "1025% Elemental Mastery+513% DEF",
+              "1086% Elemental Mastery+543% DEF",
+              "1146% Elemental Mastery+573% DEF",
+              "1206% Elemental Mastery+603% DEF",
+              "1282% Elemental Mastery+641% DEF"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Shadowless Reflection",
+      "desc": "Light the lamp, dealing **AoE Geo DMG**, and gain Haunted Night's Oriole-Song effect for 20s. When this effect is active, Illuga gains 21 stacks of **Nightingale's Song**. When Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts of nearby active party members deal **Geo DMG** to opponents, 1 stack of Nightingale's Song is consumed to increase the DMG dealt. Increase in DMG is based on Illuga's Elemental Mastery. If DMG is inflicted by Lunar-Crystallize, DMG dealt will increase further.\nWhen **Geo DMG** dealt in this manner hits multiple opponents, multiple stacks of Nightingale's Song will be consumed, depending on how many opponents are hit.\n\nAdditionally, if there are **Geo Constructs** created by nearby party members on the battlefield while Illuga unleashes his Elemental Burst, or when nearby party members create **Geo Constructs** while Haunted Night's Oriole-Song is active, every **Geo Construct** on the battlefield will allow Illuga to gain 5 additional stacks of Nightingale's Song. Within 20s after unleashing his Elemental Burst, Illuga can gain a maximum of 15 additional stacks of Nightingale's Song this way.\n\nWhen all stacks of Nightingale's Song have been consumed, or when the state's duration ends, the Haunted Night's Oriole-Song effect will end.\n[Details title=\"Nightingale's Song\"]The effect gained after Illuga unleashes his Elemental Burst **Shadowless Reflection**. It can increase the **Geo DMG** inflicted by current active characters.[/Details]",
+      "img": "Illuga/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "827% Elemental Mastery+414% DEF",
+            "889% Elemental Mastery+445% DEF",
+            "951% Elemental Mastery+476% DEF",
+            "1034% Elemental Mastery+517% DEF",
+            "1096% Elemental Mastery+548% DEF",
+            "1158% Elemental Mastery+579% DEF",
+            "1241% Elemental Mastery+620% DEF",
+            "1324% Elemental Mastery+662% DEF",
+            "1406% Elemental Mastery+703% DEF",
+            "1489% Elemental Mastery+744% DEF",
+            "1572% Elemental Mastery+786% DEF",
+            "1654% Elemental Mastery+827% DEF",
+            "1758% Elemental Mastery+879% DEF"
+          ]
+        },
+        {
+          "name": "Geo DMG Bonus",
+          "values": [
+            "33.6% Elemental Mastery",
+            "36.1% Elemental Mastery",
+            "38.6% Elemental Mastery",
+            "42.0% Elemental Mastery",
+            "44.5% Elemental Mastery",
+            "47.0% Elemental Mastery",
+            "50.4% Elemental Mastery",
+            "53.8% Elemental Mastery",
+            "57.1% Elemental Mastery",
+            "60.5% Elemental Mastery",
+            "63.8% Elemental Mastery",
+            "67.2% Elemental Mastery",
+            "71.4% Elemental Mastery"
+          ]
+        },
+        {
+          "name": "Lunar-Crystallize Reaction DMG Bonus",
+          "values": [
+            "225.9% Elemental Mastery",
+            "242.9% Elemental Mastery",
+            "259.8% Elemental Mastery",
+            "282.4% Elemental Mastery",
+            "299.3% Elemental Mastery",
+            "316.3% Elemental Mastery",
+            "338.9% Elemental Mastery",
+            "361.5% Elemental Mastery",
+            "384.1% Elemental Mastery",
+            "406.7% Elemental Mastery",
+            "429.2% Elemental Mastery",
+            "451.8% Elemental Mastery",
+            "480.1% Elemental Mastery"
+          ]
+        },
+        {
+          "name": "Nightingale's Song Stacks Gained from Elemental Burst",
+          "value": "21"
+        },
+        {
+          "name": "Nightingale's Song Stacks Gained from Geo Constructs",
+          "value": " 5 Per Geo Construct"
+        },
+        {
+          "name": "Duration",
+          "value": "20.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Geo"
+    },
+    "passive": [
+      {
+        "name": "Torchforger's Covenant",
+        "desc": "After unleashing Elemental Skill **Dawnbearing Songbird** or Elemental Burst **Shadowless Reflection**, other nearby party members will gain the Lightkeeper's Oath effect for 20s: For **Geo DMG** dealt to opponents, CRIT Rate increases by 5% and CRIT DMG increases by 10%.\n\n**Moonsign: Ascendant Gleam** \nParty members affected by the Lightkeeper's Oath effect have their Elemental Mastery increased by 50.\n[Details title=\"Dawnbearing Songbird\"]Summons the trusty messenger bird, \"Aedon.\" Different effects are produced depending on whether the skill is Tapped or Held.\n\n**Tap**\nAedon dashes towards enemies in front, dealing **Geo DMG** to enemies it comes into contact with.\n\n**Hold**\nEnter aiming mode, and command Aedon to dash towards opponents being aimed at, dealing **Geo DMG** to opponents it comes into contact with.[/Details]\n[Details title=\"Shadowless Reflection\"]Light the lamp, dealing **AoE Geo DMG**, and gain Haunted Night's Oriole-Song effect for 20s. When this effect is active, Illuga gains 21 stacks of **Nightingale's Song**. When Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts of nearby active party members deal **Geo DMG** to opponents, 1 stack of Nightingale's Song is consumed to increase the DMG dealt. Increase in DMG is based on Illuga's Elemental Mastery. If DMG is inflicted by Lunar-Crystallize, DMG dealt will increase further.\nWhen **Geo DMG** dealt in this manner hits multiple opponents, multiple stacks of Nightingale's Song will be consumed, depending on how many opponents are hit.\n\nAdditionally, if there are **Geo Constructs** created by nearby party members on the battlefield while Illuga unleashes his Elemental Burst, or when nearby party members create **Geo Constructs** while Haunted Night's Oriole-Song is active, every **Geo Construct** on the battlefield will allow Illuga to gain 5 additional stacks of Nightingale's Song. Within 20s after unleashing his Elemental Burst, Illuga can gain a maximum of 15 additional stacks of Nightingale's Song this way.\n\nWhen all stacks of Nightingale's Song have been consumed, or when the state's duration ends, the Haunted Night's Oriole-Song effect will end.[/Details]",
+        "img": "Illuga/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Demonhunter's Dusk",
+        "desc": "**Nightingale's Song**'s effects are enhanced: When there are 1/2/3 **Hydro** or **Geo** characters in the party, Nightingale's Song will further increase DMG. Increase in DMG is equal to 7%/14%/24% of Illuga's Elemental Mastery. If this aforementioned DMG is inflicted by a Lunar-Crystallize reaction, increase in DMG is equal to 48%/96%/160% of Illuga's Elemental Mastery.\n[Details title=\"Nightingale's Song\"]The effect gained after Illuga unleashes his Elemental Burst **Shadowless Reflection**. It can increase the **Geo DMG** inflicted by current active characters.[/Details]",
+        "img": "Illuga/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Moonsign Benediction: Unwithering in Winter",
+        "desc": "When Illuga is in the party, the party's **Moonsign** will increase by 1 level.",
+        "img": "Illuga/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Night Warden's Stride",
+        "desc": "At night (18:00 – 06:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack.\nAdditionally, Illuga appears to be able to decipher the whispers of the Wild Hunt...",
+        "img": "Illuga/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Vigilant Sentinel",
+        "desc": "After Illuga triggers a **Geo-related Reaction** on the field, he will regain 12 Elemental Energy. This effect can be triggered at most once every 15s.",
+        "img": "Illuga/const_0"
+      },
+      {
+        "name": "Elk With Fanged Antlers",
+        "desc": "When Elemental Burst **Shadowless Reflection**'s Haunted Night's Oriole-Song effect is active, for every 7 stacks of **Nightingale's Song** consumed, Illuga will summon Aedon, dealing a single instance of **Geo DMG** to 1 nearby opponent. The DMG dealt is based on 400% of Illuga's Elemental Mastery and 200% of his DEF. This DMG is considered Elemental Burst DMG.\n[Details title=\"Shadowless Reflection\"]Light the lamp, dealing **AoE Geo DMG**, and gain Haunted Night's Oriole-Song effect for 20s. When this effect is active, Illuga gains 21 stacks of **Nightingale's Song**. When Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts of nearby active party members deal **Geo DMG** to opponents, 1 stack of Nightingale's Song is consumed to increase the DMG dealt. Increase in DMG is based on Illuga's Elemental Mastery. If DMG is inflicted by Lunar-Crystallize, DMG dealt will increase further.\nWhen **Geo DMG** dealt in this manner hits multiple opponents, multiple stacks of Nightingale's Song will be consumed, depending on how many opponents are hit.\n\nAdditionally, if there are **Geo Constructs** created by nearby party members on the battlefield while Illuga unleashes his Elemental Burst, or when nearby party members create **Geo Constructs** while Haunted Night's Oriole-Song is active, every **Geo Construct** on the battlefield will allow Illuga to gain 5 additional stacks of Nightingale's Song. Within 20s after unleashing his Elemental Burst, Illuga can gain a maximum of 15 additional stacks of Nightingale's Song this way.\n\nWhen all stacks of Nightingale's Song have been consumed, or when the state's duration ends, the Haunted Night's Oriole-Song effect will end.[/Details]\n[Details title=\"Nightingale's Song\"]The effect gained after Illuga unleashes his Elemental Burst **Shadowless Reflection**. It can increase the **Geo DMG** inflicted by current active characters.[/Details]",
+        "img": "Illuga/const_1"
+      },
+      {
+        "name": "Earthshaking Maw",
+        "desc": "Increases the Level of Elemental Burst **Shadowless Reflection** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Shadowless Reflection\"]Light the lamp, dealing **AoE Geo DMG**, and gain Haunted Night's Oriole-Song effect for 20s. When this effect is active, Illuga gains 21 stacks of **Nightingale's Song**. When Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts of nearby active party members deal **Geo DMG** to opponents, 1 stack of Nightingale's Song is consumed to increase the DMG dealt. Increase in DMG is based on Illuga's Elemental Mastery. If DMG is inflicted by Lunar-Crystallize, DMG dealt will increase further.\nWhen **Geo DMG** dealt in this manner hits multiple opponents, multiple stacks of Nightingale's Song will be consumed, depending on how many opponents are hit.\n\nAdditionally, if there are **Geo Constructs** created by nearby party members on the battlefield while Illuga unleashes his Elemental Burst, or when nearby party members create **Geo Constructs** while Haunted Night's Oriole-Song is active, every **Geo Construct** on the battlefield will allow Illuga to gain 5 additional stacks of Nightingale's Song. Within 20s after unleashing his Elemental Burst, Illuga can gain a maximum of 15 additional stacks of Nightingale's Song this way.\n\nWhen all stacks of Nightingale's Song have been consumed, or when the state's duration ends, the Haunted Night's Oriole-Song effect will end.[/Details]",
+        "img": "Illuga/const_2"
+      },
+      {
+        "name": "Solarhunting Wolf",
+        "desc": "When Elemental Burst **Shadowless Reflection**'s Haunted Night's Oriole-Song effect is active, nearby active party members will have their DEF increased by 200.\n[Details title=\"Shadowless Reflection\"]Light the lamp, dealing **AoE Geo DMG**, and gain Haunted Night's Oriole-Song effect for 20s. When this effect is active, Illuga gains 21 stacks of **Nightingale's Song**. When Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts of nearby active party members deal **Geo DMG** to opponents, 1 stack of Nightingale's Song is consumed to increase the DMG dealt. Increase in DMG is based on Illuga's Elemental Mastery. If DMG is inflicted by Lunar-Crystallize, DMG dealt will increase further.\nWhen **Geo DMG** dealt in this manner hits multiple opponents, multiple stacks of Nightingale's Song will be consumed, depending on how many opponents are hit.\n\nAdditionally, if there are **Geo Constructs** created by nearby party members on the battlefield while Illuga unleashes his Elemental Burst, or when nearby party members create **Geo Constructs** while Haunted Night's Oriole-Song is active, every **Geo Construct** on the battlefield will allow Illuga to gain 5 additional stacks of Nightingale's Song. Within 20s after unleashing his Elemental Burst, Illuga can gain a maximum of 15 additional stacks of Nightingale's Song this way.\n\nWhen all stacks of Nightingale's Song have been consumed, or when the state's duration ends, the Haunted Night's Oriole-Song effect will end.[/Details]",
+        "img": "Illuga/const_3"
+      },
+      {
+        "name": "Hurricane Steed",
+        "desc": "Increases the Level of Elemental Skill **Dawnbearing Songbird** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Dawnbearing Songbird\"]Summons the trusty messenger bird, \"Aedon.\" Different effects are produced depending on whether the skill is Tapped or Held.\n\n**Tap**\nAedon dashes towards enemies in front, dealing **Geo DMG** to enemies it comes into contact with.\n\n**Hold**\nEnter aiming mode, and command Aedon to dash towards opponents being aimed at, dealing **Geo DMG** to opponents it comes into contact with.[/Details]",
+        "img": "Illuga/const_4"
+      },
+      {
+        "name": "Nightmare Orioles",
+        "desc": "Enhances the Lightkeeper's Oath effect of the Ascension Talent **Torchforger's Covenant**: For **Geo DMG** dealt to opponents, CRIT Rate is increased by 10%, CRIT DMG is increased by 30%.\n\n**Moonsign: Ascendant Gleam:**\nWhen characters are affected by Lightkeeper's Oath, Elemental Mastery is increased by 80.\nYou must first unlock the Ascension Talent \"**Torchforger's Covenant**.\"\n[Details title=\"Torchforger's Covenant\"]After unleashing Elemental Skill **Dawnbearing Songbird** or Elemental Burst **Shadowless Reflection**, other nearby party members will gain the Lightkeeper's Oath effect for 20s: For **Geo DMG** dealt to opponents, CRIT Rate increases by 5% and CRIT DMG increases by 10%.\n\n**Moonsign: Ascendant Gleam** \nParty members affected by the Lightkeeper's Oath effect have their Elemental Mastery increased by 50.[/Details]",
+        "img": "Illuga/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 749.27
+        },
+        {
+          "stat": "Base DEF",
+          "value": 50.958
+        },
+        {
+          "stat": "Base ATK",
+          "value": 11.97342
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1281.6461
+        },
+        {
+          "stat": "Base DEF",
+          "value": 87.165
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.48085
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1991.4808
+        },
+        {
+          "stat": "Base DEF",
+          "value": 135.441
+        },
+        {
+          "stat": "Base ATK",
+          "value": 31.82409
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2523.857
+        },
+        {
+          "stat": "Base DEF",
+          "value": 171.648
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.33152
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3056.233
+        },
+        {
+          "stat": "Base DEF",
+          "value": 207.855
+        },
+        {
+          "stat": "Base ATK",
+          "value": 48.83895
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 72
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 100,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3588.6091
+        },
+        {
+          "stat": "Base DEF",
+          "value": 244.062
+        },
+        {
+          "stat": "Base ATK",
+          "value": 57.34638
+        },
+        {
+          "stat": "Elemental Mastery",
+          "value": 96
+        }
+      ]
+    }
+  ]
+}

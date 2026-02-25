@@ -58,6 +58,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <Weapon weapon="Light of Foliar Incision" weapons={swords} />
 
+### Lightbearing Moonshard
+
+<Weapon weapon="Lightbearing Moonshard" weapons={swords} />
+
 ### Mistsplitter Reforged
 
 <Weapon weapon="Mistsplitter Reforged" weapons={swords}>
