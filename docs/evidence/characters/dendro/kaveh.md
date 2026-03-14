@@ -20,7 +20,7 @@ search: false
 * Gauges - [YouTube](https://youtu.be/aPlC0qDlhPw) - @emmaus :
     * Converted NA - 1U 
     * Skill - 1U
-    * Burst - 1U
+    * Burst - 2U
 
 ## Attack Mechanics
 
