@@ -7,11 +7,6 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # Arlecchino
 
-<!-- Remove this warning when adding the basic mechs ticket -->
-:::caution
-This character has not yet had their findings added to the TCL. Most information will be unavailable.
-:::
-
 import Image from '@theme/IdealImage'
 
 <Image img={require('/img/characters/gacha/Arlecchino.png')} alt="Arlecchino's gacha art" />
@@ -37,24 +32,39 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
+| String | Talent 9%   | Frames |
+| :----- | :---------- | :----- |
+| 1-Hit  | 87.3%       | 11     |
+| 2-Hit  | 95.7%       | 21     |
+| 3-Hit  | 120.1%      | 31     |
+| 4-Hit  | 68.2%+68.2% | 49     |
+| 5-Hit  | 128.6%      | 33     |
+| 6-Hit  | 156.9%      | 55     |
+
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
+| String | Talent 9% | Frames |
+| :----- | :-------- | :----- |
+| CA     | 166.8%    | 54     |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
+| Damage Type     | Talent 9% |
+| :-------------- | :-------- |
+| Plunge DMG      | 117.5%    |
+| Low Plunge DMG  | 234.9%    |
+| High Plunge DMG | 293.4%    |
 
 </div>
 
-<!--
+
 **Notes**
-
-* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
-
--->
+- N3 pulls the opponent towards Arlecchino, providing slight CC
+- CA can attack over water, which can be chained for continuous travel
 
 </TabItem>
 
@@ -63,11 +73,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
+| Attribute                        | Tap    |
+| :------------------------------- | :----- |
+| Spike DMG \(T9%\)                | 25.2%  |
+| Cleave DMG \(T9%\)               | 227.1% |
+| Blood-Debt Directive DMG \(T9%\) | 54.1%  |
+| Particles                        | 5      |
+| GU                               | 1U     |
+| CD                               | 30s    |
 
 </div>
 
 **Notes**
-
+- Arlecchino's Skill has iframes, equivalent to dash iframes (attacks that ignore dash iframes can still connect).
+- Cleave and Blood-Debt Directive have a shared 2 hit ICD, while Spike has its own independent ICD
+- Bug: Arlecchino can't absorb Blood-Debt Directive from Stormterror Dvalin
 
 </TabItem>
 
@@ -79,19 +99,17 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 
 **Notes**
-
+- The self heal counts as healing for triggering 4pc Clam/Dialogues
 
 </TabItem>
 </Tabs>
 
-<!--
 ## Frames
 
 import charFrames from '@site/src/data/frames/Arlecchino.json'
 import Frames from '@site/src/components/char/Frames'
 
 <Frames data={charFrames} />
--->
 
 ## Ascension Passives
 

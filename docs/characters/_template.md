@@ -56,13 +56,13 @@ import Skill from '@site/src/components/char/Skill'
 take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing
 -->
 <!-- 
-| String | Talent 9% | Frames | MV/s |
-| :----- | :-------- | :----- | :--- |
-| 1-Hit  |           |        |      |
-| 2-Hit  |           |        |      |
-| 3-Hit  |           |        |      |
-| 4-Hit  |           |        |      |
-| 5-Hit  |           |        |      |
+| String | Talent 9% | Frames |
+| :----- | :-------- | :----- |
+| 1-Hit  |           |        |
+| 2-Hit  |           |        |
+| 3-Hit  |           |        |
+| 4-Hit  |           |        |
+| 5-Hit  |           |        |
 -->
 
 </div>
@@ -70,30 +70,30 @@ take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spr
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 <!-- sword
-| String | Talent 9% | Frames | MV/s |
-| :----- | :-------- | :----- | :--- |
-| CA     |           |        |      |
-| N1C    |           |        |      |
+| String | Talent 9% | Frames |
+| :----- | :-------- | :----- |
+| CA     |           |        |
+| N1C    |           |        |
 -->
 
 <!-- claymore
-| String       | Talent 9% | Frames | MV/s |
-| :----------- | :-------- | :----- | :--- |
-| Spinning DMG |           |        |      |
-| Final DMG    |           |        |      |
+| String       | Talent 9% | Frames |
+| :----------- | :-------- | :----- |
+| Spinning DMG |           |        |
+| Final DMG    |           |        |
 -->
 
 <!-- polearm/catalyst
-| String | Talent 9% | Frames | MV/s |
-| :----- | :-------- | :----- | :--- |
-| CA     |           |        |      |
+| String | Talent 9% | Frames |
+| :----- | :-------- | :----- |
+| CA     |           |        |
 -->
 
 <!-- bow
-| Type          | Talent 9% | Frames | MV/s | GU  |
-| :------------ | :-------- | :----- | :--- | :-- |
-| Aimed Shot    |           |        |      | -   |
-| Fully Charged |           |        |      | 1U  |
+| Type          | Talent 9% | Frames | GU  |
+| :------------ | :-------- | :----- | :-- |
+| Aimed Shot    |           |        | -   |
+| Fully Charged |           |        | 1U  |
 -->
 
 </div>
@@ -112,7 +112,7 @@ take frames (with hitlag -> na column) and mv/s from https://docs.google.com/spr
 
 <!-- **Notes**
 
-* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames). -->
+-->
 
 </TabItem>
 

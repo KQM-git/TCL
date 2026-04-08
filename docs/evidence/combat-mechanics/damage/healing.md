@@ -94,3 +94,14 @@ The two are additive.
 - on death + revival
 
 **Evidence:** [YouTube](https://youtu.be/Sz6eG82_OqE)  
+
+### Bond of Life Mechanics
+
+**Note:** There are brought over from [arlecchino-basic-mechanics](https://tickets.deeznuts.moe/transcripts/arlecchino-basic-mechanics)
+
+- Bond of Life does not disappear on Teleport unless the teleport is to a different map - [YouTube](https://youtu.be/BsB6kE0fmyc) - @alphaflyte
+- When in range of a Statue of the Seven - [YouTube](https://youtu.be/IxePEW0ffyU)
+  - Bond of Life is automatically cleared, without consuming any healing power
+  - This is instant like revives
+  - This occurs even if auto recovery is disabled
+- Bond of Life values are an exact number, a change in max HP does not change the value of BOL, but as a result does change the % of max HP - [YouTube](https://youtu.be/xjrnVbiazdA), [YouTube](https://youtu.be/oaYnSebLzcw) - @defaultedusername
