@@ -161,6 +161,7 @@ import CharIconLink from '@site/src/components/char/CharIconLink'
 
 |                        Character                        | Ability                                            | Notes                                   |
 | :-----------------------------------------------------: | -------------------------------------------------- | --------------------------------------- |
+|    <CharIconLink char='Arlecchino' element='pyro' />    | Elemental Skill: All is Ash                        | Blood-Debt Directive DMG                |
 |       <CharIconLink char='Eula' element='cryo' />       | Elemental Burst: Glacial Illumination              | Lightfall Sword Base DMG and Stack DMG  |
 |    <CharIconLink char='Fischl' element='electro' />     | Elemental Burst: Midnight Phantasmagoria           | Falling Thunder DMG                     |
 |      <CharIconLink char='Hu Tao' element='pyro' />      | Elemental Skill: Guide to Afterlife                | Blood Blossom DMG                       |

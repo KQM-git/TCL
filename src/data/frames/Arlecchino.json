@@ -1,0 +1,108 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 11,
+        "hitlag": "yes",
+        "next_na": 11,
+        "ca": 17,
+        "walk": 25
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 16,
+        "hitlag": "yes",
+        "next_na": 21,
+        "ca": 26,
+        "walk": 31
+    },
+    {
+        "name": "N3",
+        "hitmark": 17,
+        "hitlag": "yes",
+        "next_na": 31,
+        "ca": 33,
+        "walk": 39
+    },
+    {
+        "name": "N4",
+        "hitmark": [24, 35],
+        "hitlag": "no",
+        "next_na": 49,
+        "ca": 49,
+        "walk": 55
+    },
+    {
+        "name": "N5",
+        "hitmark": 21,
+        "hitlag": "no",
+        "next_na": 30,
+        "ca": 33,
+        "walk": 42
+    },
+    {
+        "name": "N6",
+        "hitmark": 44,
+        "hitlag": "yes",
+        "next_na": 58,
+        "ca": 55,
+        "walk": 59
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 37,
+        "hitlag": "yes",
+        "n1": 42,
+        "ca": 53,
+        "skill": 42,
+        "burst": 42,
+        "walk": 60,
+        "swap": 58,
+        "notes": ["CA has 12 frames of windup, these are included in the frame numbers. The windup is skipped on NA/E -> CA and should be subtracted from CA hitmarks/CA -> X in that case", 
+                  "C2 hitmark: 50f",
+                  "Blood-Debt Directive absorption: 12f"]
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": [17, 38],
+        "n1": 70,
+        "ca": 65,
+        "burst": 70,
+        "walk": 77,
+        "dash": 72,
+        "jump": 73,
+        "swap": 60,
+        "cd": 16,
+        "notes": ["Blood-Debt Directive application: 16f"]
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 110,
+        "heal": 123,
+        "n1": 113,
+        "ca": 124,
+        "skill": 146,
+        "walk": 146,
+        "dash": 111,
+        "jump": 113,
+        "swap": 145,
+        "cd": 0,
+        "energy": 13,
+        "notes": ["Skill CD Reset: 107f", "C2 hitmark: 69", "Blood-Debt Directive absorption: 22f"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 22
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    },
+    {
+        "name": "Xingqiu N0",
+        "default": 15
+    },
+    {
+        "name": "Yelan N0",
+        "default": 7
+    }]
+}
