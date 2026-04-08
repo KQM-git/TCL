@@ -13,7 +13,7 @@ import bows from '@site/src/data/weapons/Bow.json'
 
 <Weapon weapon="Aqua Simulacra" weapons={bows}>
 
-* The Cleansing Form does not seem to have a vertical range limit.
+- The Cleansing Form does not seem to have a vertical range limit.
 
 </Weapon>
 
@@ -29,7 +29,7 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <MillennialMovementSeries/>
 
-* Stacking is inconsistent depending on ping, FPS, and the specific character. - [Wüolf\#3334](../../evidence/equipment/weapons.md#elegy-stack-inconsistencies)
+- Stacking is inconsistent depending on ping, FPS, and the specific character. - [Wüolf\#3334](../../evidence/equipment/weapons.md#elegy-stack-inconsistencies)
 
 </Weapon>
 
@@ -37,7 +37,7 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <Weapon weapon="Hunter's Path" weapons={bows}>
 
-* **Hunter's Path** passive benefits from percentage-based EM buffs.  
+- **Hunter's Path** passive benefits from percentage-based EM buffs.  
 
 </Weapon>
 
@@ -45,7 +45,7 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <Weapon weapon="Polar Star" weapons={bows}>
 
-* **Polar Star** has no ICD for gaining independent stacks.
+- **Polar Star** has no ICD for gaining independent stacks.
 
 </Weapon>
 
@@ -93,7 +93,7 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <Weapon weapon="Cloudforged" weapons={bows}>
 
-* Gaining a stack of Cloudforged's passive refreshes both stacks.
+- Gaining a stack of Cloudforged's passive refreshes both stacks.
 
 </Weapon>
 
@@ -109,7 +109,7 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <Weapon weapon="Fading Twilight" weapons={bows}>
 
-* Fading Twilight does not snapshot - [TheFirstRapher#9207](../../evidence/equipment/weapons.md#fading-twilight-does-not-snapshot)
+- Fading Twilight does not snapshot - [TheFirstRapher#9207](../../evidence/equipment/weapons.md#fading-twilight-does-not-snapshot)
 
 </Weapon>
 
@@ -177,7 +177,7 @@ import RoyalSeries from './\_common/royal_series.md';
 
 <Weapon weapon="Rust" weapons={bows}>
 
-* Rust damage reduction is additive and is considered DMG% in calculations
+- Rust damage reduction is additive and is considered DMG% in calculations
 
 </Weapon>
 
@@ -195,7 +195,7 @@ import SacSeries from './\_common/sac_series.md';
 
 <Weapon weapon="Scion of the Blazing Sun" weapons={bows}>
 
-* Scion of the Blazing Sun does AoE physical damage, and the effect is applied to all enemies hit.
+- Scion of the Blazing Sun does AoE physical damage, and the effect is applied to all enemies hit.
 
 </Weapon>
 
@@ -207,8 +207,8 @@ import SacSeries from './\_common/sac_series.md';
 
 <Weapon weapon="Song of Stillness" weapons={bows}>
 
-* Song of Stillness passive triggers on overheals.
-* The DMG% does not show up in the stats page but it can be snapshotted.
+- Song of Stillness passive triggers on overheals.
+- The DMG% does not show up in the stats page but it can be snapshotted.
 
 </Weapon>
 
@@ -247,7 +247,7 @@ import BaneSeries from './\_common/bane_series.md';
 
 <Weapon weapon="Recurve Bow" weapons={bows}>
 
-* HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
+- HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
 
 </Weapon>
 
@@ -259,7 +259,7 @@ import BaneSeries from './\_common/bane_series.md';
 
 <Weapon weapon="Slingshot" weapons={bows}>
 
-* There is a medium zone where neither buff nor debuff applies. The buff applies until roughly the same distance as it takes for **Amos' Bow** to move from 3 stack to 4 stack passive for charged shots. - [jamberry\#7142, ItzSomebody\#0029](../../evidence/equipment/weapons.md#slingshot-passive-mechanics)
+- There is a medium zone where neither buff nor debuff applies. The buff applies until roughly the same distance as it takes for **Amos' Bow** to move from 3 stack to 4 stack passive for charged shots. - [jamberry\#7142, ItzSomebody\#0029](../../evidence/equipment/weapons.md#slingshot-passive-mechanics)
 
 </Weapon>
 
@@ -283,12 +283,12 @@ import BaneSeries from './\_common/bane_series.md';
 
 There is a cap range for an arrow - damage just falls off after a certain range.
 
-* [Amos Test](https://streamable.com/pnfumf)
-* Sacrificial Bow Test: _Streamable link lost to the sands of time_
+- [Amos Test](https://streamable.com/pnfumf)
+- Sacrificial Bow Test: _Streamable link lost to the sands of time_
 
 ## External Links
 
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Bows)
+- [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Bows)
 
 ## Evidence Vault
 
