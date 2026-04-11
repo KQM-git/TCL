@@ -8,6 +8,16 @@ exceptions.set(getWeeksSinceLaunch("2022-09-28"), 3.1) // 5 week schedule
 exceptions.set(getWeeksSinceLaunch("2022-11-02"), 3.2) // 5 week schedule
 exceptions.set(getWeeksSinceLaunch("2022-12-07"), 3.3) // 5 week schedule
 exceptions.set(getWeeksSinceLaunch("2023-08-16"), 4.0)
+exceptions.set(getWeeksSinceLaunch("2024-08-28"), 5.0)
+exceptions.set(getWeeksSinceLaunch("2025-09-10"), 6.0)
+
+const namedVersions = new Map<string, string>()
+namedVersions.set("6.0", "Luna I")
+namedVersions.set("6.1", "Luna II")
+namedVersions.set("6.2", "Luna III")
+namedVersions.set("6.3", "Luna IV")
+namedVersions.set("6.4", "Luna V")
+namedVersions.set("6.5", "Luna VI")
 
 export function getVersionNumber(weeksSinceLaunch: number): number {
   let [lowerWeek, lowerVersion] = [0, 1.0]
@@ -35,7 +45,11 @@ export function version(date: string): string {
   const weeksSinceLaunch = getWeeksSinceLaunch(date)
   // console.log(date, weeksSinceLaunch)
   if (weeksSinceLaunch < 0) return "1.0"
-  return (Math.floor(getVersionNumber(weeksSinceLaunch) * 10) / 10).toFixed(1)
+  let versionString = (Math.floor(getVersionNumber(weeksSinceLaunch) * 10) / 10).toFixed(1)
+  if (namedVersions.has(versionString)) {
+    return namedVersions.get(versionString)!
+  }
+  return versionString
 }
 
 export function getWeeksSinceLaunch(date: string): number {
