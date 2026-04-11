@@ -1575,6 +1575,36 @@ Accurate calculations and simulations with this weapon.
 
 ---
 
+### Peak Patrol Song
+
+#### Peak Patrol Song snapshots
+
+**By:** @ellieeeeeeeee  
+**Added:** <Version date="2026-4-11" />  
+**Last tested:** <VersionHl date="2024-10-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-1-weapon-basic-mechanics)  
+
+**Finding:** Peak Patrol Song snapshots
+
+**Evidence:** [YouTube](https://youtu.be/Y1Aj1-zeEa8?si=mUOCH93hI1ynIbv4) 2710 def and 41.7 dmg% on Xilonen after n2,  2873 def and 41.7 dmg% after triggering nightsoul burst via her E, 283 def and 43 dmg% after doing an additional N1.
+
+**Significance:** Snapshot
+
+#### Peak Patrol Song's personal buff applies before the team buff
+
+**By:** @ellieeeeeeeee  
+**Added:** <Version date="2026-4-11" />  
+**Last tested:** <VersionHl date="2024-10-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-1-weapon-basic-mechanics)  
+
+**Finding:** Peak Patrol Song buff applies after the 2nd stack is triggered
+
+**Evidence:** [YouTube](https://youtu.be/dDzux96LgsA) When the second stack is gained, characters gain 21.7 dmg% (2710*0.008). When refreshing the second stack, dmg% stays at 21.7, meaning the 8% defense from the second stack is triggered first (and counted towards defense for the weapon passive), and then the buff is triggered, rather than them triggering at the same time
+
+**Significance:** Weapon mechanic
+
+---
+
 ### Polar Star
 
 #### Polar Star ICD

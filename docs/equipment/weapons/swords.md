@@ -73,7 +73,12 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 ### Peak Patrol Song
 
-<Weapon weapon="Peak Patrol Song" weapons={swords} />
+<Weapon weapon="Peak Patrol Song" weapons={swords}>
+
+* The buff's value snapshots
+* The second stack of the DEF buff applies before the team buff is calculated
+
+</Weapon>
 
 ### Primordial Jade Cutter
 
