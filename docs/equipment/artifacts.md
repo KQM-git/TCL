@@ -176,7 +176,11 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Long Night's Oath
 
-<Artifact artifact="Long Night's Oath" />
+<Artifact artifact="Long Night's Oath">
+
+- The stacks are applied after damage
+
+</Artifact>
 
 ### Maiden Beloved
 

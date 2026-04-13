@@ -85,6 +85,8 @@ Since some effects will end instantly if the holder leaves the party, it's impor
 
 As we get new artifact sets, more options to pre-buff in the overworld may become available and as such, having access to a list of buffs that remain will be valuable for players trying to maximise output for a damage showcase.  
 
+---
+
 ## Adventurer
 
 ### 4 Piece Adventurer Heal Trigger Conditions
@@ -111,6 +113,8 @@ Adventurer Set 4 piece interactions, what works is listed below.
 **Significance:**  
 Best exploration set LMAO.
 
+---
+
 ## Archaic Petra
 
 ### Geovishap Hatchling Shields with 4 Petra
@@ -128,6 +132,8 @@ Geovishap Hatching shields don't activate the 4 Petra bonus
 
 **Significance:**  
 Even though they're mechanically similar to Crystallize shields, hatchling shields don't activate Petra, yet another reason the 4set is trash
+
+---
 
 ## Blizzard Strayer
 
@@ -279,6 +285,8 @@ Blizzard Strayer gives CRIT Rate buff to reactions that would remove the Cryo/fr
 **Significance:**  
 Better understanding of Blizzard Strayer for reaction comps.
 
+---
+
 ## Bloodstained Chivalry
 
 ### 4-Piece Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill
@@ -332,6 +340,8 @@ t=18, buff deactivates
 - You still require the minimum amount of stamina to perform a Charged Attack, your stamina just won't be reduced on execution.
 - Stamina regen will continue even while performing Charged Attacks provided the buff is active allowing you to save stamina for dashing.
 
+---
+
 ## Crimson Witch of Flames
 
 ### Gaining stacks refreshes the duration of old stacks
@@ -379,6 +389,8 @@ The 4CW set adds 40% DMG to Overload reactions. If the Pyro holder drops a persi
 
 - Pyro supports can hold 4 set crimson witch and be quickly swapped in and out to drop their persistent Pyro abilities without losing the bonus damage to Overload.
 - 4CW set effect applies even if the holder is not the active character. However, the holder must provide the triggering Element.
+
+---
 
 ## Echoes of an Offering
 
@@ -732,6 +744,8 @@ N3:
 [YouTube](https://www.youtube.com/watch?v=UdntmwQl2rk)  
 [YouTube](https://www.youtube.com/watch?v=62pGzyDR67U)
 
+---
+
 ## Emblem of Severed Fate
 
 ### 4ESF takes into account both base ER and ER from ascension
@@ -779,6 +793,8 @@ So, it seems like EoSF excludes percentage-based buffs (at least, all the curren
 **Significance:**  
 Synergy (or lackthereof) between EoSF and various ER buffs
 
+---
+
 ## Fragment of Harmonic Whimsy
 
 ### Fragment Of Harmonic Whimsy procs on Bol Gain
@@ -812,6 +828,8 @@ Fragment of Harmonic Whimsy 4pc is a snapshottable buff
 **Significance:**  
 snapshot
 
+---
+
 ## Gambler
 
 ### 4-Piece Gambler procs without Skill on CD
@@ -833,6 +851,8 @@ Killing 2 foxes [Imgur](https://i.imgur.com/bxSVtzA.mp4)
 **Significance:**  
 Knowledge.
 
+---
+
 ## Gilded Dreams
 
 ### Gilded Dreams' 4-Piece Passive does not apply to the hit that triggered its effect
@@ -850,6 +870,8 @@ Gilded Dreams' 4-Piece Passive does not apply to the hit that triggered it or th
   
 **Significance**  
 Better understand of GD for artifact recommendations and calculations.
+
+---
 
 ## Husk of Opulent Dreams
 
@@ -882,6 +904,8 @@ Better understand of GD for artifact recommendations and calculations.
 
 **Significance:**  
  Clarification of Husk mechanics, explanation for apparent damage losses for no reason, and a reminder to read the descriptions more carefully.
+
+---
 
 ## Instructor
 
@@ -983,6 +1007,24 @@ The Aggravated absorbed Electro from Sucrose's Burst deals 1488 damage, which is
 1. Reaction triggered effects apply immediately. Attack stats are per instance of damage.  
 2. I said so.  
 
+---
+
+## Long Night's Oath
+
+### Long Night's Oath stack mechanics
+
+**By:** @aftermathrar  
+**Added:** <Version date="2026-04-13" />  
+**Last tested:** <VersionHl date="2025-03-28" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-5-equipment-basic-mechanics)
+
+**Finding:**  
+Long Night's Oath behaves as its description states - each method of gaining a stack has a separate cooldown and is applied on damage.
+
+**Evidence:** [Imgur](https://imgur.com/a/sfhuKjM) Video compares 0% dmg bonus to 4p LNO with an E CA P combo. With the 4-piece set, Varesa gains the flat 25% plunge bonus and 4 stacks of the 15% plunge bonus, 2 each from her Skill and Charge Attack prior to plunging. The plunge collision does not grant a stack in this test, which could be due to ping.  
+
+---
+
 ## Maiden Beloved
 
 ### 4-Piece Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber
@@ -1028,6 +1070,8 @@ The Aggravated absorbed Electro from Sucrose's Burst deals 1488 damage, which is
 
 **Significance:**  
 Better understanding of Maiden's Beloved effect.
+
+---
 
 ## Marechaussee Hunter
 
@@ -1077,6 +1121,7 @@ Better understanding of Maiden's Beloved effect.
 - Xianyun's healing interval is 2.5 seconds, the first generated stack does not run out after the third healing tick
 (Masanori Timer evidence: 1:38 first stack; 1:33 third stack; stats checked at 1:32)
 
+---
 
 ## Noblesse Oblige
 
@@ -1101,6 +1146,8 @@ Non snapshot units are still tested to see if the buff applies in time for the f
 
 **Significance:**  
 Whether you should run 4NO.
+
+---
 
 ## Ocean-Hued Clam
 
@@ -1260,6 +1307,8 @@ _Other:_
 **Significance:**
 Better understanding of OHC and what it benefits from.
 
+---
+
 ## Pale Flame
 
 ### 4-Piece Pale Flame Stacks persist after swap
@@ -1311,6 +1360,8 @@ Values were tested and compared with sheet calcs at multiple ping levels, but I 
 **Significance:**  
 4pc PF works differently than most think, it's a slightly delayed buff.
 
+---
+
 ## Retracing Bolide
 
 ### 2-Piece set bonus only works on user
@@ -1325,6 +1376,8 @@ Values were tested and compared with sheet calcs at multiple ping levels, but I 
 **Evidence:** https://www.youtube.com/watch?v=GccS6vz6U7g
 
 **Significance:** using 2-Piece bolide on shield supports for the shield strength bonus is pointless.
+
+---
 
 ## Tenacity of the Millelith
 
@@ -1364,6 +1417,8 @@ Buff activates at 11s ish (18s left in the vid), I open menu between 12s - 17s a
 **Significance:**  
 Stacking 4 TotM on 2 characters on the same team has consequences.
 
+---
+
 ## The Exile
 
 ### The Exile Mechanics
@@ -1390,6 +1445,8 @@ Evidence for 4 & 5: [Google Sheets](https://docs.google.com/document/d/1tgOqAyEy
 **Significance:**  
 Better understanding of The Exile. It's important for accurate ER calculations to be aware of how many Energy regeneration ticks The Exile actually gives, since this can vary.
 
+---
+
 ## Unfinished Reverie  
 
 ### Unfinished Reverie Snapshots  
@@ -1409,6 +1466,7 @@ Xiangling's damage is expected to drop after 6s in battle without Burning trigge
 **Significance:**  
 This set can be viable for characters who can snapshot even without Burning, if they can clear a Spiral Abyss chamber in a single rotation.  
 
+---
 
 ## Shimenawa's Reminiscence
 
@@ -1444,6 +1502,8 @@ Extra Razor, lisa, sayu, chongyun framecount: [YouTube](https://www.youtube.com/
 **Significance:**  
 If a character can cast their Elemental Skill and then Burst in about less than 7 frame, they can spend the Energy before being drained, bypassing the large cost of using Shimenawa set. Childe walking E (thanks to Amadurim#8925) is currently the only Skill found to be fast enough for this tech to work, so this remains largely impractical in gameplay, but maybe future character can benefit more from Shimenawa with this finding. Also, with high ping (400-600ms) it is possible to extend the Energy drain delay long enough so other character can Burst before the drain.
 
+---
+
 ## Song of Days Past
 
 ### SODP Recording Healing
@@ -1467,6 +1527,8 @@ The set has 2 parts:
 - This effect is different from the Yearning effect which means you can record healing while the buff is active.  
 
 So you could potentially get more damage/procs from the artifact set if your healing lasted longer than 6s (and healed enough :Deadge: )
+
+---
 
 ## Thundering Fury
 
@@ -1636,6 +1698,8 @@ Here is a third example, where we don't rely on Oz as our Electro crutch. Tested
 
 **Additionally**: No, 4TF does not reduce sac sword cooldown.
 
+---
+
 ## Thundersoother
 
 ### 4-Piece Thundersoother's effect Works for Heroes Off-Field
@@ -1649,6 +1713,8 @@ Here is a third example, where we don't rely on Oz as our Electro crutch. Tested
 **Significance:**
 
 It does work for characters off screen, can be useful for pure Electro DMG parties using Fischl as extra damage source
+
+---
 
 ## Tiara Sets
 
@@ -1698,6 +1764,8 @@ Test 1 - No tiara nor Elemental resonance - Duration of the Debuff 20 seconds.
 
 Test 2 - Tiara on, no Elemental resonance - Duration of the Debuff 12 seconds.
 
+---
+
 ## Tiny Miracle
 
 ### 4-Piece Tiny Miracle Doesn't Proc on Damage Dealt to Shields
@@ -1710,6 +1778,8 @@ Test 2 - Tiara on, no Elemental resonance - Duration of the Debuff 12 seconds.
 Tiny Miracle is equipped and you don't get RES% buff until after shield is broken, shown in video
 
 **Significance:** Very important for Tiny Miracle users. Min max your shield by getting hit before the shield is up.
+
+---
 
 ## Viridescent Verener
 
@@ -1988,6 +2058,8 @@ In high ping circumstances, the debuff may apply late to enemies in an AoE and b
 
 - Note: While I say attack and hit, I don't specifically mean damage. Hydro Swirls still apply VV in AoE.
 
+---
+
 ## Vourukasha's Glow
 
 ### HP drain does not proc 4 piece effect of Vourukasha's Glow
@@ -2021,6 +2093,7 @@ HP drain does not proc 4 piece effect of Vourukasha's Glow
 **Significance:**  
 don't use shields with 4VG unless breakable shields like Baizhu's or Crystallize or other ~~HP drain~~ mechanics.
 
+---
 
 ## Wanderer's Troupe
 
@@ -2064,6 +2137,8 @@ Charts by Zakharov\#5645: [Imgur](https://imgur.com/9LoeHW1)
 
 **Significance:**  
 Below 842 EM, 2WT2Ins will provide more value for Swirl damage than 4VV before accounting for resistance
+
+--- 
 
 ## Artifact Substats Distribution
 
