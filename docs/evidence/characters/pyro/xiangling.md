@@ -302,3 +302,19 @@ Changing direction while hitting enemies:
 
 **Significance:**  
 Allows us to better understand how and/or when Xiangling's Pyronado rotates the opposite direction than when it was cast. This change in direction rarely triggers in realistic circumstances and will very slightly increase damage with the “extra swing".
+
+### Bennett buff snapshotting when alt-swapping into Xiangling
+
+**By:** @pi45, @jamberry  
+**Added:** <Version date="2026-05-05" />  
+**Last Tested:** <Version date="2024-05-09" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/pyronado-alt-swap-bennett-snapshot)
+
+**Finding:** There is a 10-14 frame window where Xiangling can miss Bennett's buff when she is alt swapped in during his Burst. Bennett's Burst applies its buff once per second, so this amounts to a ~1/6-1/4 chance of missing buff. 
+
+**Evidence:** 
+https://docs.google.com/spreadsheets/d/1UbDF519jKTB95DgtWj9ZK8tsIQh2NmWjTIKIT6AZf1Q/edit#gid=0
+Xiangling snapshots 46 frames from cast, leaving up to a 14 frame window where she may miss Bennett's buff if timing aligns poorly. Alt swap Bursts may not cast exactly immediately, cutting down this window further. In the videos in this sheet, the snapshot appears to be 49-50 frames after swap, with ~50ms ping. Tests at higher ping showed similar 3-4 frame delays from swap in to Burst cast.
+Missing snapshot may be avoided by not swapping directly after a tick occurs, performing an N1 on Xiangling first, or just resetting. 
+
+**Significance:** Snapshot frames

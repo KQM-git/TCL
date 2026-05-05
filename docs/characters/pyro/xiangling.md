@@ -120,8 +120,10 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Moving in the opposite direction of **Pyronado**'s spin will increase the number of hits.
-* **Pyronado** has a ~36 frame lockout before it can deal damage to the same enemy again.
+- Moving in the opposite direction of **Pyronado**'s spin will increase the number of hits.
+- **Pyronado** has a ~36 frame lockout before it can deal damage to the same enemy again.
+- **Pyronado** snapshots ~46 frames after cast.
+  - This results in a ~1/6-1/4 chance of missing Bennett's Burst buff on alt-swapping into Xiangling
 
 </TabItem>
 </Tabs>
