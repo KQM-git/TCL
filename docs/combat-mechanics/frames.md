@@ -56,11 +56,11 @@ While each character's dash and jump animations take a different amount of time,
 
 ### Swap
 
-Just like Energy, character swap is also ping-dependent. The total amount of time needed to perform a swap is called Swap Latency, and is calculated as follows:  
+Just like Energy, character swaps are also ping-dependent. The total amount of time needed to perform a swap is called Swap Latency, and is roughly as follows:
 
-$$\text{Swap Latency} = \text{Network Latency} + 50ms$$
+$$\text{Swap Latency} = \text{Network Latency} + 90ms$$
 
-For consistency, all frame data on the TCL uses ~20ms ping unless otherwise specified.  
+This latency is calculated from the frame the button is pressed, which may not be the frame that the game accepts the input at.
 
 ## Hitlag
 

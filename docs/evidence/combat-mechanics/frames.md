@@ -235,3 +235,18 @@ The exact frames for the short and long versions for all catalyst characters are
 
 **Significance:**  
 Better optimization of catalyst attack strings.
+
+## Ping vs Swap delay interaction
+
+**By:** @sharaths21312 \
+**Added:** <Version date="2026-05-05" /> \
+**Last tested:** <VersionHl date="2024-10-26" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/ping-vs-swap-delay-interaction)
+
+**Finding:** The amount of swap delay is approximately 90ms + ping
+
+**Evidence:** [Google Docs](https://docs.google.com/spreadsheets/d/17WKudZk8pcy0iqbsniKC1Wybr-HWj514Y65xKzpzau8/edit?usp=sharing) \
+There is reasonably close agreement with only 2 outliers in around 75 data points, the outliers were removed when calculating the best fit line. The frame counting was done by taking the `(frame of HP bar change) - (frame of input appearance)`
+
+**Significance:** Can be used in sims to approximate the practical amount of swap delay at a personal ping amount \
+This is a correction to both the [TCL](https://library.keqingmains.com/combat-mechanics/frames#swap) and [gcsim](https://docs.gcsim.app/guides/understanding_config_files/#simulator-options) docs, the former stating a delay of `ping + 50`, and the latter implying  `2 × ping`.
