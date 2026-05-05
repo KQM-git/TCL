@@ -832,24 +832,27 @@ snapshot
 
 ## Gambler
 
-### 4-Piece Gambler procs without Skill on CD
+### 4pc Gambler Proc Mechanics
 
-**By:** Mcpie\#8672  
-**Added:** <Version date="2021-08-17" />  
-**Last tested:** <VersionHl date="2021-08-17" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876370102969327646_877095662821449748_transcript-4-piece-gambler-procs-without-skill-on-cd.html)
+**By:** @xochiyoh  
+**Added:** <Version date="2026-05-05" />  
+**Last tested:** <VersionHl date="2024-09-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/4pc-gambler-proc-mechanics)
 
 **Finding:**  
-Cooldown of 4-Piece gambler effect starts on any DMG output from Elemental Skill.  
-For example, Sayu's roll does not trigger Sacrificial Greatsword effect - it does not reset the cooldown while using 4-Piece gambler as well, however it does proc the effect since 4-Piece gambler starts 15s cooldown timer.  
-Another example could be Fischl's Oz, however it's harder to test.
+How 4pc Gambler works  
 
 **Evidence:**  
-Killing 2 Geo slimes [Imgur](https://i.imgur.com/ZeCFqc2.mp4)  
-Killing 2 foxes [Imgur](https://i.imgur.com/bxSVtzA.mp4)
+4pc Gambler being normal: [YouTube](https://youtu.be/vqCrs0H4qZQ)  
+4pc Gambler not triggering when the user doesn't land the killing blow: [YouTube](https://youtu.be/6PZEIT6V0Ak)  
+4pc Gambler not triggering while the user is off-field: [YouTube](https://youtu.be/rBs-83iCsj0) / [YouTube](https://youtu.be/BEMboHTNDBs)  
+4pc Gambler proc not affecting other users in the team: [YouTube](https://youtu.be/BEMboHTNDBs)  
+4pc Gambler triggering when killing with non-skill dmg: [YouTube](https://youtu.be/xEvgDid0YsI)  
+4pc Gambler going on cd when killing while skill is ready: [YouTube](https://youtu.be/jBxlnQAm_Ew)  
+4pc Gambler not going on cd when dealing nonlethal skill dmg: [YouTube](https://youtu.be/x2GAeKhSnr0)  
+4pc Gambler only granting 1 skill charge and resetting the charge timer: [YouTube](https://youtu.be/Iw-4z7MwowQ)  
 
-**Significance:**  
-Knowledge.
+**Conclusion:** When an on-field 4pc Gambler user lands a killing blow on an enemy, the set's 15s cd will trigger, and if the user's own elemental skill is on cd, the skill cd will also reset. If the user's skill has multiple charges, only the current charge timer will be completed, granting 1 charge.  
 
 ---
 

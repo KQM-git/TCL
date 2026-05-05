@@ -391,7 +391,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Gambler">
 
-- The 15s CD of the 4-Piece set bonus will start upon any DMG output from an Elemental Skill, even if the Elemental Skill is not on cooldown.
+- For trigger conditions, refer to [this finding](../evidence/equipment/artifacts.md#4pc-gambler-proc-mechanics)
 
 </Artifact>
 
