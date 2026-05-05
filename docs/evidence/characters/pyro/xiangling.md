@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1tWMpn1M34w0rCutUQ5cem28fIVoFVp7YjOXtIm2Rvow/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+- Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1tWMpn1M34w0rCutUQ5cem28fIVoFVp7YjOXtIm2Rvow/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
 
 ## Skill Mechanics
 
@@ -56,8 +56,8 @@ More information about how Guoba mechanics work, and a more precise explanation 
 **Finding:** Guoba does not generate a particle if the hit kills an enemy  
 
 **Evidence:**  
-* [YouTube](https://youtu.be/yumGVMXXRBU)  
-* This also happens if he hits multiple enemies and one of them dies, **evidence:**  
+- [YouTube](https://youtu.be/yumGVMXXRBU)  
+- This also happens if he hits multiple enemies and one of them dies, **evidence:**  
 [YouTube](https://youtu.be/w5nxcOfUge8)  
 
 **Significance:**  Guoba is a fraud
@@ -75,10 +75,10 @@ The hitbox of Xiangling's ultimate can hit more than once per rotation by manipu
 
 **Evidence:**
 
-* [12 ult hits when standing still against Ruin Guard \(no hitbox extensions\)](https://youtu.be/CV01mRP-oZA)
-* [15+ ult hits when enemy extends their hitboxes and some small movement](https://youtu.be/sBW6qrqfs_E?t=10)
-* [15+ ult hits when using charged attacks to displace ult](https://youtu.be/PWpTYNlnIic?t=10)
-* [Dashing through with ultimate changes clockwise rotation to anti-clockwise on some hits \(first hit notably in below video\)](https://youtu.be/oILW9mK8neQ)
+- [12 ult hits when standing still against Ruin Guard \(no hitbox extensions\)](https://youtu.be/CV01mRP-oZA)
+- [15+ ult hits when enemy extends their hitboxes and some small movement](https://youtu.be/sBW6qrqfs_E?t=10)
+- [15+ ult hits when using charged attacks to displace ult](https://youtu.be/PWpTYNlnIic?t=10)
+- [Dashing through with ultimate changes clockwise rotation to anti-clockwise on some hits \(first hit notably in below video\)](https://youtu.be/oILW9mK8neQ)
 
 **Significance:**  
 It is possible to significantly boost the total damage of Xiangling's ultimate \(&gt;25%\) by moving in specific patterns and utilizing enemy hitboxes to get more hits in per ult.
@@ -95,12 +95,12 @@ Xiangling Pyronado has an enemy specific lock that lasts about 36f or 0.6s or 18
 
 **Evidence:**
 
-* [Xiangling Pyronado procs standing next to Cryo Regisvine](https://m.youtube.com/watch?v=ZGhlg6dY0EE)
-* [Xiangling Pyronado procs standing inside Cryo Regisvine](https://m.youtube.com/watch?v=96dM8S5Dehk)
-* [Xiangling Pyronado procs standing next to Azhadha](https://m.youtube.com/watch?v=x5AhnjKuMkE)
-* [Xiangling pyronado procs standing next to Andrius](https://m.youtube.com/watch?v=WT734JeV77E)
-* [Xiangling pyronado procs surrounded by Ruin Grader](https://m.youtube.com/watch?v=uQ7c91y_qMA)
-* [Google Sheet containing all the frame counts mentioned](https://docs.google.com/spreadsheets/d/14FzSNVsEFG6wg1oDt49b8vPr_zjmKzRJsAQ2VC71OIc/edit).
+- [Xiangling Pyronado procs standing next to Cryo Regisvine](https://m.youtube.com/watch?v=ZGhlg6dY0EE)
+- [Xiangling Pyronado procs standing inside Cryo Regisvine](https://m.youtube.com/watch?v=96dM8S5Dehk)
+- [Xiangling Pyronado procs standing next to Azhadha](https://m.youtube.com/watch?v=x5AhnjKuMkE)
+- [Xiangling pyronado procs standing next to Andrius](https://m.youtube.com/watch?v=WT734JeV77E)
+- [Xiangling pyronado procs surrounded by Ruin Grader](https://m.youtube.com/watch?v=uQ7c91y_qMA)
+- [Google Sheet containing all the frame counts mentioned](https://docs.google.com/spreadsheets/d/14FzSNVsEFG6wg1oDt49b8vPr_zjmKzRJsAQ2VC71OIc/edit).
 
 **Significance:**  
 These data sheds light onto Pyronado mechanics and how to maximize their Burst damage. It also explains how moving around an enemy in the opposite direction of the rotation can increase damage of both bursts. However, you should not move too fast or else the enemy hit box loses contact with your Burst before the lock expires.
@@ -120,17 +120,15 @@ These data sheds light onto Pyronado mechanics and how to maximize their Burst d
 Xiangling's first Constellation, **Crispy Outside, Tender Inside**, can affect enemies without Guoba hitting them directly, as long as they are hit by certain transformative reactions triggered by Guoba.  
   
 **Evidence:**  
-* Yanfei NA DMG on Ruin Guard : [Video](https://youtu.be/EviQbHWkF1s) (Burgeon)  
-    * 256 (Non-Crit)  
-    * 577 (Crit)  
-    * 292 (Non-Crit with Xiangling C1)  
-  
-* Yanfei NA DMG on Pyro Fungi :  [Video](https://youtu.be/JWUAJ7tdRYM) (Overload)  
-    * 224 (Non-Crit)  
-    * 266 (Non-Crit with Xiangling C1)    
-  
-* Debuff goes through even if target doesn't take damage: [Video](https://youtu.be/P0SySNJtvlA)  
-  
+- Yanfei NA DMG on Ruin Guard : [Video](https://youtu.be/EviQbHWkF1s) (Burgeon)  
+  - 256 (Non-Crit)  
+  - 577 (Crit)  
+  - 292 (Non-Crit with Xiangling C1)
+- Yanfei NA DMG on Pyro Fungi :  [Video](https://youtu.be/JWUAJ7tdRYM) (Overload)  
+  - 224 (Non-Crit)  
+  - 266 (Non-Crit with Xiangling C1)
+- Debuff goes through even if target doesn't take damage: [Video](https://youtu.be/P0SySNJtvlA)  
+
 **Significance:**  
 Knowing more about properties radiating via transformative reactions, some niche uses in Overload teams where the Pyro shred can matter.
 
@@ -138,7 +136,7 @@ Knowing more about properties radiating via transformative reactions, some niche
 
 #### Xiangling C2 damage
 
-**By:** jamberry\#7142  
+**By:** @jamberry, @peekays  
 **Added:** <Version date="2021-08-07" />  
 **Last tested:** <VersionHl date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
@@ -146,11 +144,10 @@ Knowing more about properties radiating via transformative reactions, some niche
 **Finding:**  
 Xiangling’s C2 damage instance has no ability type scaling tags.
 
-**Evidence:**  
-Testing done by Peekays\#2722  
-Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=B3NEUfa40tg)  
-Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=9FpVplwcxFg)  
-Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=Gl-u-8xOfPs)
+**Evidence:**  Testing done by @peekays  
+- Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=B3NEUfa40tg)  
+- Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=9FpVplwcxFg)  
+- Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=Gl-u-8xOfPs)
 
 **Significance:**  
 Damage calculations for Xiangling.
@@ -277,28 +274,28 @@ DMG calculation.
 **Finding:**  
 It has been found that if you use Xiangling's Q and then use certain characters' attacks when the Pyronado is in a specific position, it can begin rotating the opposite way. The attack has to be used when the Pyronado is somewhere in the direction in which they "dodge" or "shift".
 
-* The Pyronado follows a [Quadrant Rule](https://imgur.com/a/ik17Hjy) where the active character must use their attack when the Pyronado is in the 1st or 4th quadrant, depending on the direction the active character shifts in when performing an attack. For example, Kujou Sara must cast her Elemental Skill when the Pyronado is in the 4th Quadrant, since she dodges backwards.
-* This usually works against large or Geo mobs such as Geovishaps, Geovishap Hatchlings, Geo Lawachurls, Ruin Graders, etc.
-* Some characters such as Sara, Rosaria, and Keqing can perform their Elemental Skills in air and make the Pyronado switch directions.
-* Keqing is the only character who can make this happen within her Normal Attack string (N5), but she must hit an enemy.
-* Polearm characters such as Hu Tao, Xiangling, and Thoma can also make this direction change happen with their Charged Attack, but you also must hit a heavy or Geo enemy.
+- The Pyronado follows a [Quadrant Rule](https://imgur.com/a/ik17Hjy) where the active character must use their attack when the Pyronado is in the 1st or 4th quadrant, depending on the direction the active character shifts in when performing an attack. For example, Kujou Sara must cast her Elemental Skill when the Pyronado is in the 4th Quadrant, since she dodges backwards.
+- This usually works against large or Geo mobs such as Geovishaps, Geovishap Hatchlings, Geo Lawachurls, Ruin Graders, etc.
+- Some characters such as Sara, Rosaria, and Keqing can perform their Elemental Skills in air and make the Pyronado switch directions.
+- Keqing is the only character who can make this happen within her Normal Attack string (N5), but she must hit an enemy.
+- Polearm characters such as Hu Tao, Xiangling, and Thoma can also make this direction change happen with their Charged Attack, but you also must hit a heavy or Geo enemy.
 
 **Evidence:**  
 Changing direction without hitting any enemy:
 
-* [Sara Skill](https://i.imgur.com/XRo6whB) - Pyronado must be in 4th quadrant
-* [Rosaria Skill](https://imgur.com/Y5lSXgA) - Pyronado must be in 1st quadrant
-* [Keqing Skill Teleport](https://imgur.com/aRuruh1) - Pyronado must be in 1st quadrant
+- [Sara Skill](https://i.imgur.com/XRo6whB) - Pyronado must be in 4th quadrant
+- [Rosaria Skill](https://imgur.com/Y5lSXgA) - Pyronado must be in 1st quadrant
+- [Keqing Skill Teleport](https://imgur.com/aRuruh1) - Pyronado must be in 1st quadrant
 
 Polearm CAs, such as Xiangling CA, cannot change Pyronado direction while hitting air: [Imgur](https://imgur.com/6M4n96x)
 
 Changing direction while hitting enemies:
 
-* [Hu Tao CA vs Lawachurl](https://i.imgur.com/UNRdp7T)
-* [Hu Tao CA vs Geovishap Hatchling](https://i.imgur.com/mCpB6Ii)
-* [Xiangling CA vs Geovishap](https://imgur.com/mzVXiXT)
-* [Raiden N1 vs Ruin Grader](https://i.imgur.com/OZrwzPt) - Asaki\#9139
-* [Keqing N5 vs Geovishap](https://i.imgur.com/W4i24Fd)
+- [Hu Tao CA vs Lawachurl](https://i.imgur.com/UNRdp7T)
+- [Hu Tao CA vs Geovishap Hatchling](https://i.imgur.com/mCpB6Ii)
+- [Xiangling CA vs Geovishap](https://imgur.com/mzVXiXT)
+- [Raiden N1 vs Ruin Grader](https://i.imgur.com/OZrwzPt) - Asaki\#9139
+- [Keqing N5 vs Geovishap](https://i.imgur.com/W4i24Fd)
 
 **Significance:**  
 Allows us to better understand how and/or when Xiangling's Pyronado rotates the opposite direction than when it was cast. This change in direction rarely triggers in realistic circumstances and will very slightly increase damage with the “extra swing".

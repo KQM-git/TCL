@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage'
 
 ## Resources
 
-* [Xiangling Guide](https://keqingmains.com/xiangling/)
+- [Xiangling Guide](https://keqingmains.com/xiangling/)
 
 ## Base Stats
 
@@ -63,7 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+- MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
 
 </TabItem>
 
@@ -90,10 +90,10 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
-* Guoba self-applies a Pyro aura when he attacks. This aura can be Swirled.
-* Upon casting, Guoba can snapshot and benefit from 1 stack of the Crimson Witch of Flames 4-Piece Bonus.
-* If Guoba's hit kills an enemy, it does not drop particles regardless of if another enemy was hit or not.
+- Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
+- Guoba self-applies a Pyro aura when he attacks. This aura can be Swirled.
+- Upon casting, Guoba can snapshot and benefit from 1 stack of the Crimson Witch of Flames 4-Piece Bonus.
+- If Guoba's hit kills an enemy, it does not drop particles regardless of if another enemy was hit or not.
 
 </TabItem>
 
@@ -153,7 +153,7 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
   
-* The buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+- The buff persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
 
 </TabItem>
 </Tabs>
@@ -168,8 +168,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* This effect can also be triggered if Guoba triggers Overload or Burgeon on the enemy, even if the target doesn't take damage.  
-* The effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+- This effect can also be triggered if Guoba triggers Overload or Burgeon on the enemy, even if the target doesn't take damage.  
+- The effect persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
  
 </TabItem>
 
@@ -182,8 +182,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* C2 DMG instance has no ability type scaling tags.
-* C2 DMG also does not snapshot.
+- C2 DMG instance has no ability type scaling tags.
+- C2 DMG also does not snapshot.
 
 </TabItem>
 
@@ -204,7 +204,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Pyronado itself does not benefit from C6, but the third hit of her initial swings can receive the 15% **Pyro** DMG Bonus.
+- Pyronado itself does not benefit from C6, but the third hit of her initial swings can receive the 15% **Pyro** DMG Bonus.
 
 </TabItem>
 </Tabs>
