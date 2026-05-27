@@ -33,6 +33,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 </Weapon>
 
+### Golden Frostbound Oath
+
+<Weapon weapon="Golden Frostbound Oath" weapons={bows} />
+
 ### Hunter's Path
 
 <Weapon weapon="Hunter's Path" weapons={bows}>

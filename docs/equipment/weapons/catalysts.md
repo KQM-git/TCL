@@ -13,6 +13,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 </Weapon>
 
+### Angelos' Heptades
+
+<Weapon weapon="Angelos' Heptades" weapons={catalysts} />
+
 ### Cashflow Supervision
 
 <Weapon weapon="Cashflow Supervision" weapons={catalysts} />

@@ -53,6 +53,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 </Artifact>
 
+### Celestial Gift
+
+<Artifact artifact="Celestial Gift" />
+
 ### Crimson Witch of Flames
 
 <Artifact artifact="Crimson Witch of Flames">
@@ -77,6 +81,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 ### Desert Pavilion Chronicle
 
 <Artifact artifact="Desert Pavilion Chronicle" />
+
+### Disenchantment in Deep Shadow
+
+<Artifact artifact="Disenchantment in Deep Shadow" />
 
 ### Echoes of an Offering
 
