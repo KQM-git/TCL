@@ -18,6 +18,8 @@ namedVersions.set("6.2", "Luna III")
 namedVersions.set("6.3", "Luna IV")
 namedVersions.set("6.4", "Luna V")
 namedVersions.set("6.5", "Luna VI")
+namedVersions.set("6.6", "Luna VII")
+namedVersions.set("6.7", "Luna VIII")
 
 export function getVersionNumber(weeksSinceLaunch: number): number {
   let [lowerWeek, lowerVersion] = [0, 1.0]

@@ -86,7 +86,11 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 ### Starcaller's Watch
 
-<Weapon weapon="Starcaller's Watch" weapons={catalysts} />
+<Weapon weapon="Starcaller's Watch" weapons={catalysts}>
+
+* Starcaller's Watch only triggers on crystallize if the holder picks up a shard also created by them
+
+</Weapon>
 
 ### Sunny Morning Sleep-In
 

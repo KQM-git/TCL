@@ -103,7 +103,11 @@ import FavSeries from './\_common/fav_series.md';
 
 ### Flame-Forged Insight
 
-<Weapon weapon="Flame-Forged Insight" weapons={claymores} />
+<Weapon weapon="Flame-Forged Insight" weapons={claymores}>
+
+* The passive can only be triggered by the wielder
+
+</Weapon>
 
 ### Forest Regalia
 

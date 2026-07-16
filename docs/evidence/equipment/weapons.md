@@ -821,6 +821,40 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 
 ---
 
+### Azurelight
+
+#### Azurelight's passive applies to the skill triggering it
+
+**By:** @laylaithink \
+**Added:** <Version date="2026-6-24" /> \
+**Last tested:** <VersionHl date="2025-06-19" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-7-equipment-basic-mechanics)
+
+**Finding:** First part of Azurelight's passive (ATK% after skill) applies to the skill that triggers it
+
+**Evidence:** https://youtu.be/QTzvCFVlnG0
+- **unbuffed:** `430.6%*1929*(1+46.6%)*(1+145.9%)*49.4%*0.9 = 13299`
+- **adding 24% atk:** `430.6%*2173*(1+46.6%)*(1+145.9%)*49.4%*0.9 = 14981`
+
+**Significance:** weapon mechanics
+
+#### Azurelight's passive is snapshottable
+
+**By:** @astroluxeon \
+**Added:** <Version date="2026-6-24" /> \
+**Last tested:** <VersionHl date="2025-06-19" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-7-equipment-basic-mechanics)
+
+**Finding:** Azurelight's 0 energy passive is snapshottable
+
+**Evidence:**
+[Snapshotted](https://youtu.be/G1SbUc_VkW8) \
+[Particles caught before snapshot](https://youtu.be/lPMDSuaga90)
+
+**Significance:** Weapon Mechanics
+
+---
+
 ### Ballad of the Boundless Blue
 
 #### Ballad of the Boundless Blue stacks stay when off field
@@ -1028,6 +1062,21 @@ Excuse the scuffed clip but you can see my Fischl's CRITs doing 2008 first, then
 
 **Significance:**  
 Can't keep the buff for the whole duration of a snapshottable Skill.
+
+---
+
+### Flame-Forged Insight
+
+#### Flame-Forged Insight doesn't proc from teammates
+
+**By:** @jamberry \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-08-02" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-8-equipment-basic-mechanics)
+
+**Finding:** Flame-Forged Insight doesn't proc from teammates, has to be holder themself.
+
+**Evidence:** https://youtu.be/eVswI2g_guA?si=dtdEXSg-UVpyZArS
 
 ---
 
@@ -2005,7 +2054,6 @@ $1283 \ \text{(total ATK without SotSS passive)} + 403 \ \text{(EM after diona C
 **Significance:**  
 Pre-stacking SotSS will not give you the full value of the Dream of the Scarlet Sands effect if EM buffs are obtained after the stacks.
 
----  
 
 #### Staff Of The Scarlet Sands Can Gain Multiple Stacks From One Attack  
 
@@ -2022,6 +2070,64 @@ Staff of the Scarlet Sands can gain multiple stacks from one attack if it hits m
   
 **Significance:**  
 SoSS can stack faster in AoE situations.  
+
+---
+
+### Starcaller's Watch
+
+#### Starcaller's Watch Crystallize interaction
+
+**By:** @breadcatow \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-02-23" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-3-weapon-basic-mechanics)
+
+**Finding:** Starcaller's Watch triggers upon holder picking up a crystalize shard created by the holder, but does not trigger if the holder picks up a crystalize shard created by another character or if another character picks up a crystalize shard created by the holder.
+
+**Evidence:** https://youtu.be/DzmaivoKKDM
+
+---
+
+### Symphonist of Scents
+
+#### Symphonist buffs all characters that receive heal
+
+**By:** @breadcatow \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-05-07" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-6-equipment-basic-mechanics)
+
+**Finding:** Symphonist of Scents buffs all characters that receive heal, not just the active character (expected)
+
+**Evidence:** https://youtu.be/Q6iSScxL7ms
+
+**Significance:** better understanding of weapon buff
+
+#### Symphonist buff does not stack
+
+**By:** @breadcatow \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-05-07" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-6-equipment-basic-mechanics)
+
+**Finding:** Symphonist of Scents buff will not stack if multiple characters hold the weapon and trigger its passive.
+
+**Evidence:** https://youtu.be/XsD736K24Xs
+
+**Significance:** Can't run double Symphonist
+
+#### Symphonist buffs on heal attempt
+
+**By:** @breadcatow \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-05-07" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-6-equipment-basic-mechanics)
+
+**Finding:** Symphonist of Scents buff will trigger on heal attempt
+
+**Evidence:** https://youtu.be/C_qPkSLB2zI
+
+**Significance:** Weapon can buff Arlecchino and does not require the character receiving healing to lose hp prior to receiving healing
 
 ---
 

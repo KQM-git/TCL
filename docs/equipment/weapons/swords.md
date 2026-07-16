@@ -24,7 +24,12 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 ### Azurelight
 
-<Weapon weapon="Azurelight" weapons={swords} />
+<Weapon weapon="Azurelight" weapons={swords}>
+
+* The first part of Azurelight's passive (ATK% after skill) applies to the skill that triggers it
+* Azurelight's 0 energy passive is snapshottable
+
+</Weapon>
 
 ### Freedom-Sworn
 

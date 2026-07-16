@@ -67,7 +67,13 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 ### Symphonist of Scents
 
-<Weapon weapon="Symphonist of Scents" weapons={polearms} />
+<Weapon weapon="Symphonist of Scents" weapons={polearms}>
+
+* Symphonist of Scents' buff is applied on heal attempt
+* Symphonist of Scents' buff is applied to all healed allies
+* Symphonist of Scents' buff does not stack
+
+</Weapon>
 
 ### Vortex Vanquisher
 
