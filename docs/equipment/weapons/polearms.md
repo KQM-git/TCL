@@ -17,6 +17,10 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Crimson Moon's Semblance" weapons={polearms} />
 
+### Disaster and Remorse
+
+<Weapon weapon="Disaster and Remorse" weapons={polearms} />
+
 ### Engulfing Lightning
 
 <Weapon weapon="Engulfing Lightning" weapons={polearms}>

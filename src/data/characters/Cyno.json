@@ -151,6 +151,7 @@
       {
         "name": "Secret Rite: Chasmic Soulfarer",
         "desc": "Performs a swift thrust, dealing **Electro DMG** to opponents along the path.\n\nWhen Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a **Mortuary Rite** that deals thunderous **AoE Electro DMG** and extends the duration of Pactsworn Pathclearer.\n\n**\"This judgment brooks no choice. There is no rejection or acceptance here... We have both long been bound up in this conviction.\"**",
+        "buffed_desc": "Performs a swift thrust, dealing **Electro DMG** to opponents along the way.\n\nWhen Cyno is in the Pactsworn Pathclearer state, he will instead unleash a **Mortuary Rite** that deals thunderous **AoE Electro DMG**. If Cyno enters the Pactsworn Pathclearer through the Elemental Burst **Sacred Rite: Wolf's Swiftness**, unleashing **Mortuary Rite** will also extend the duration of the current instance of Pactsworn Pathclearer.\n\n**\"This judgment brooks no choice. There is no rejection or acceptance here... We have both long been bound up in this conviction.\"**",
         "img": "Cyno/skill_1",
         "talentTable": [
           {
@@ -380,12 +381,14 @@
       {
         "name": "Featherfall Judgment",
         "desc": "When Cyno is in the Pactsworn Pathclearer state activated by **Sacred Rite: Wolf's Swiftness**, Cyno will enter the Endseer stance at intervals. If he activates **Secret Rite: Chasmic Soulfarer** while affected by this stance, he will activate the Judication effect, increasing the DMG of this Secret Rite: Chasmic Soulfarer by 35%, and firing off 3 Duststalker Bolts that deal 100% of Cyno's ATK as **Electro DMG.**\nDuststalker Bolt DMG is considered Elemental Skill DMG.",
+        "buffed_desc": "When Cyno is in the Pactsworn Pathclearer state, he will enter the Endseer stance at intervals. If he activates **Secret Rite: Chasmic Soulfarer** while affected by this stance, he will activate the Judication effect, increasing the DMG of this Secret Rite: Chasmic Soulfarer by 35%, and firing off 3 Duststalker Bolts that deal 100% of Cyno's ATK as **Electro DMG.** Duststalker Bolt DMG is considered Elemental Skill DMG.\n\n**Radiance: Stellar-Conduct**: When Judication is triggered, Cyno will instead fire 3 **Duststalker Bolts - Starsame** to his front, dealing **Electro DMG** at 200% of his ATK. This DMG is considered Stellar-Conduct DMG.",
         "img": "Cyno/passive_0",
         "minAscension": 1
       },
       {
         "name": "Authority Over the Nine Bows",
         "desc": "Cyno's DMG values will be increased based on his Elemental Mastery as follows:\n· Pactsworn Pathclearer's Normal Attack DMG is increased by 150% of his Elemental Mastery.\n· Duststalker Bolt DMG from his Ascension Talent Featherfall Judgment is increased by 250% of his Elemental Mastery.",
+        "buffed_desc": "Cyno's DMG values will be increased based on his Elemental Mastery as follows:\n· Pactsworn Pathclearer's Normal Attack DMG is increased by 150% of his Elemental Mastery.\n· Duststalker Bolt DMG from his Ascension Talent Featherfall Judgment is increased by 250% of his Elemental Mastery.\n· Duststalker Bolts - Starsame from the Ascension Talent \"Featherfall Judgment\": 600% of Elemental Mastery.",
         "img": "Cyno/passive_1",
         "minAscension": 4
       },
@@ -394,17 +397,25 @@
         "desc": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.",
         "img": "Common/Expedition_Sumeru",
         "minAscension": 0
+      },
+      {
+        "name": "A Star With Which to Start the Journey",
+        "desc": "If Cyno unleashes the Elemental Skill **Secret Rite: Chasmic Soulfarer** while not in the Pactsworn Pathclearer state, he will enter Pactsworn Pathclearer for 6s.\nAdditionally, when in a **Polestar Field**, Cyno will enter the **Radiance: Stellar-Conduct** state.\n[Details title=\"Polestar Field\"]When Stellar-Conduct is triggered, the surrounding area will transform into a **Polestar Field** for a short period of time, and when inside a Polestar Field, certain characters will enter the **Radiance: Stellar-Conduct** state, which grants various skill buffs.[/Details]",
+        "img": "Cyno/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
       {
         "name": "Ordinance: Unceasing Vigil",
         "desc": "After using **Sacred Rite: Wolf's Swiftness**, Cyno's Normal Attack SPD will be increased by 20% for 10s. If the Judication effect of his Ascension Talent Featherfall Judgment is triggered during **Secret Rite: Chasmic Soulfarer**, the duration of this increase will be refreshed.\nYou must first unlock the Ascension Talent \"Featherfall Judgment.\"",
+        "buffed_desc": "After using **Sacred Rite: Wolf's Swiftness**, Cyno's Normal Attack SPD will be increased by 20% for 10s. If the Judication effect of his Ascension Talent Featherfall Judgment is triggered during **Secret Rite: Chasmic Soulfarer**, the duration of this increase will be refreshed.\nYou must first unlock the Ascension Talent \"Featherfall Judgment.\"\n\n**Radiance: Stellar-Conduct**: When Cyno enters the Pactsworn Pathclearer state, he will also gain the **Together We Rise** effect: Elemental Mastery is increased by 200. During this time, when switching characters from Cyno on the field, the incoming active character will take on the **Together We Rise** effect for the remaining duration.",
         "img": "Cyno/const_0"
       },
       {
         "name": "Ceremony: Homecoming of Spirits",
         "desc": "When Cyno's Normal Attacks hit opponents, his **Electro DMG Bonus** will increase by 10% for 4s. This effect can be triggered once every 0.1s. Max 5 stacks.",
+        "buffed_desc": "When Cyno's Normal Attacks hit opponents, his **Electro DMG Bonus** will increase by 10% for 4s. This effect can be triggered once every 0.1s. Max 5 stacks.\n\nAdditionally, when characters affected by **Together We Rise** hit opponents with their Normal Attacks or Charged Attacks, their Stellar-Conduct DMG dealt is increased by 16%. This effect, which can trigger once every 0.1s, will remain active for the remaining duration of **Together We Rise**. Max 5 stacks.",
         "img": "Cyno/const_1"
       },
       {
@@ -414,7 +425,8 @@
       },
       {
         "name": "Austerity: Forbidding Guard",
-        "desc": "When Cyno is in the Pactsworn Pathclearer state triggered by **Sacred Rite: Wolf's Swiftness**, after he triggers an Electro-Charged, Lunar-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\nThis effect can occur 5 times within one use of **Sacred Rite: Wolf's Swiftness**.",
+        "desc": "When Cyno is in the Pactsworn Pathclearer state triggered by **Sacred Rite: Wolf's Swiftness**, after he triggers an Electro-Charged, Lunar-Charged, Superconduct, Stellar-Conduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\nThis effect can occur 5 times within one use of **Sacred Rite: Wolf's Swiftness**.",
+        "buffed_desc": "When Cyno is in the Pactsworn Pathclearer state triggered by **Sacred Rite: Wolf's Swiftness**, after he triggers an Electro-Charged, Lunar-Charged, Superconduct, Stellar-Conduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reaction, he will restore 3 Elemental Energy to all nearby party members (except himself). This effect can occur 5 times within one use of **Sacred Rite: Wolf's Swiftness**.\n\nWhen other characters affected by **Together We Rise** trigger the aforementioned reaction, they will also regenerate 20 Elemental Energy for Cyno. This effect can trigger once every 18s.",
         "img": "Cyno/const_3"
       },
       {
@@ -425,6 +437,7 @@
       {
         "name": "Raiment: Just Scales",
         "desc": "After using **Sacred Rite: Wolf's Swiftness** or triggering the Judication effect of the Ascension Talent \"Featherfall Judgment,\" Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to fire off one Duststalker Bolt.\n\"Day of the Jackal\" lasts for 8s. Max 8 stacks. It will be canceled once Pactsworn Pathclearer ends.\nA maximum of 1 Duststalker Bolt can be unleashed this way every 0.4s.\nYou must first unlock the Ascension Talent \"Featherfall Judgment.\"",
+        "buffed_desc": "After using **Sacred Rite: Wolf's Swiftness** or triggering the Judication effect of the Ascension Talent \"Featherfall Judgment,\" Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to fire off one Duststalker Bolt. If Cyno is affected by **Together We Rise**, he will fire one **Duststalker Bolt - Starsame** instead.\nDay of the Jackal\" lasts for 8s. Max 8 stacks for each instance of Pactsworn Pathclearer. It will be canceled once Pactsworn Pathclearer from Sacred Rite: Wolf's Swiftness ends.\nA maximum of 1 Duststalker Bolt or 1 Duststalker Bolt - Starsame can be unleashed this way every 0.4s.\nYou must first unlock the Ascension Talent \"Featherfall Judgment.\"",
         "img": "Cyno/const_5"
       }
     ]

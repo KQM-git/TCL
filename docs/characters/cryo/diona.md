@@ -164,6 +164,10 @@ import Frames from '@site/src/components/char/Frames'
 import Passive from '@site/src/components/char/Passive'
 
 <Tabs queryString="passive">
+<TabItem value="hexerei" label="Witch's Revelation" >
+<Passive char={char} passive={3} />
+</TabItem>
+
 <TabItem value='passive' label='Passive'>
 <Passive char={char} passive={2} />
 </TabItem>
@@ -223,7 +227,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c6' label='C6'>
-<Constellation char={char} constellation={6} />
+<Constellation char={char} constellation={6} buffedTitle="Witch's Revelation" />
 
 **Notes**
 

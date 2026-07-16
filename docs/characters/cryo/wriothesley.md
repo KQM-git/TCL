@@ -144,6 +144,10 @@ import Frames from '@site/src/components/char/Frames'
 import Passive from '@site/src/components/char/Passive'
 
 <Tabs queryString="passive">
+<TabItem value="witchsrevelation" label="Witch's Revelation" >
+<Passive char={char} passive={3} />
+</TabItem>
+
 <TabItem value='passive' label='Passive'>
 <Passive char={char} passive={2} />
 </TabItem>
@@ -163,11 +167,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
-<Constellation char={char} constellation={1} />
+<Constellation char={char} constellation={1} buffedTitle="Witch's Revelation" />
 </TabItem>
 
 <TabItem value='c2' label='C2'>
-<Constellation char={char} constellation={2} />
+<Constellation char={char} constellation={2} buffedTitle="Witch's Revelation" />
 </TabItem>
 
 <TabItem value='c3' label='C3'>
@@ -175,7 +179,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c4' label='C4'>
-<Constellation char={char} constellation={4} />
+<Constellation char={char} constellation={4} buffedTitle="Witch's Revelation" />
 </TabItem>
 
 <TabItem value='c5' label='C5'>
@@ -183,7 +187,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c6' label='C6'>
-<Constellation char={char} constellation={6} />
+<Constellation char={char} constellation={6} buffedTitle="Witch's Revelation" />
 </TabItem>
 </Tabs>
 

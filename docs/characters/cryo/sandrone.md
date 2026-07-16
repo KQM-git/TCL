@@ -1,5 +1,5 @@
 ---
-description: take the first quote from https://genshin-impact.fandom.com/wiki/Sandrone/Lore#Personality or re-run data script after creating page
+description: The Seventh of the Fatui Harbingers, "Marionette." Interprets all phenomena through the prism of mathematics, and is an elegant lady who is never absent from a tea party.
 ---
 
 import char from '@site/src/data/characters/Sandrone.json'

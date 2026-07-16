@@ -1,5 +1,5 @@
 ---
-description: take the first quote from https://genshin-impact.fandom.com/wiki/Lohen/Lore#Personality or re-run data script after creating page
+description: Vice Captain of the Knights of Favonius Ranged Company, a knight known for his unorthodox approach and fondness for unconventional tactics.
 ---
 
 import char from '@site/src/data/characters/Lohen.json'

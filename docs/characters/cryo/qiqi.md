@@ -70,7 +70,7 @@ import Skill from '@site/src/components/char/Skill'
 <TabItem value='e' label='Skill'>
 <SkillIcon char={char} skill='e' />
 <div class='talent-columns'>
-<Skill char={char} skill='e' />
+<Skill char={char} skill='e' buffedTitle="Witch's Revelation" />
 
 | Attribute                       | Skill             |
 | :------------------------------ | :---------------- |
@@ -97,7 +97,7 @@ import Skill from '@site/src/components/char/Skill'
 <TabItem value='q' label='Burst'>
 <SkillIcon char={char} skill='q' />
 <div class='talent-columns'>
-<Skill char={char} skill='q'/>
+<Skill char={char} skill='q' buffedTitle="Witch's Revelation"/>
 
 | Attribute         | Skill           |
 | :---------------- | :-------------- |
@@ -135,15 +135,55 @@ import Frames from '@site/src/components/char/Frames'
 
 ## Ascension Passives
 
-import PassivesFull from '@site/src/components/char/PassivesFull'
+import Passive from '@site/src/components/char/Passive'
 
-<PassivesFull char={char} />
+<Tabs queryString="passive">
+<TabItem value="witchsrevelation" label="Witch's Revelation" >
+<Passive char={char} passive={3} />
+</TabItem>
+
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
+</TabItem>
+
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+<Passive char={char} passive={1} />
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-import ConstellationsFull from '@site/src/components/char/ConstellationsFull'
+import Constellation from '@site/src/components/char/Constellation'
 
-<ConstellationsFull char={char} />
+<Tabs queryString="constellation">
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} buffedTitle="Witch's Revelation" />
+</TabItem>
+
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} buffedTitle="Witch's Revelation" />
+</TabItem>
+
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
+</TabItem>
+
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} buffedTitle="Witch's Revelation" />
+</TabItem>
+
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
+</TabItem>
+
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} buffedTitle="Witch's Revelation" />
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 

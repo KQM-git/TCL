@@ -5,6 +5,10 @@ import claymores from '@site/src/data/weapons/Claymore.json'
 
 ## 5 Stars
 
+### A Teaspoon of Transcendence
+
+<Weapon weapon="A Teaspoon of Transcendence" weapons={claymores} />
+
 ### A Thousand Blazing Suns
 
 <Weapon weapon="A Thousand Blazing Suns" weapons={claymores} />

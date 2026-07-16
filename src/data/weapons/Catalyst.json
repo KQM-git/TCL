@@ -3018,7 +3018,7 @@
     ],
     "refinements": {
       "name": "Golden Blood-Tide",
-      "desc": "ATK is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When current HP increases or decreases, Normal Attack DMG will be increased by **16%**/**20%**/**24%**/**28%**/**32%** and Charged Attack DMG will be increased by **14%**/**17.5%**/**21%**/**24.5%**/**28%** for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by **8%**/**10%**/**12%**/**14%**/**16%**."
+      "desc": "ATK is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When current HP increases or decreases, Normal Attack DMG is increased by **16%**/**20%**/**24%**/**28%**/**32%**, Charged Attack DMG is increased by **14%**/**17.5%**/**21%**/**24.5%**/**28%**, and Stellar-Conduct DMG is increased by **14%**/**17.5%**/**21%**/**24.5%**/**28%** for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by **8%**/**10%**/**12%**/**14%**/**16%**."
     }
   },
   "Crane's Echoing Call": {
@@ -3370,7 +3370,7 @@
     ],
     "refinements": {
       "name": "Kagura Dance of the Sacred Sakura",
-      "desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by **12%**/**15%**/**18%**/**21%**/**24%** for 16s. Max 3 stacks. This character will gain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus when they possess 3 stacks."
+      "desc": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by **12%**/**15%**/**18%**/**21%**/**24%** as well as their Stellar-Conduct DMG by **12%**/**15%**/**18%**/**21%**/**24%** for 24s. Max 3 stacks. This character will gain a **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus when they possess 3 stacks."
     }
   },
   "Lost Prayer to the Sacred Winds": {

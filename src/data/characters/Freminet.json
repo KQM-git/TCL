@@ -404,7 +404,7 @@
       },
       {
         "name": "Dance of the Snowy Moon and Flute",
-        "desc": "After Freminet triggers Frozen, Shatter, or Superconduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s.",
+        "desc": "After Freminet triggers Frozen, Shatter, Superconduct, or Stellar-Conduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s.",
         "img": "Freminet/const_3"
       },
       {
@@ -414,7 +414,7 @@
       },
       {
         "name": "Moment of Waking and Resolve",
-        "desc": "After Freminet triggers Frozen, Shatter, or Superconduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s.",
+        "desc": "After Freminet triggers Frozen, Shatter, Superconduct, or Stellar-Conduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s.",
         "img": "Freminet/const_5"
       }
     ]

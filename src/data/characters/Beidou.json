@@ -342,6 +342,12 @@
         "desc": "Decreases swimming Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
         "img": "Common/Decrease_Swimming_Stamina",
         "minAscension": 0
+      },
+      {
+        "name": "Polaris",
+        "desc": "When holding down on the Elemental Skill **Tidecaller**, 1 stack of power will accumulate every 0.8s, even when not under attack. This increases the DMG dealt at the point of unleashing.\nAdditionally, holding down to unleash **Tidecaller** and hitting the opponent also gives extra boosts based on the power accumulated: every stack active decreases Beidou's Elemental Skill CD by 4s, as well as regenerates 8 Elemental Energy for her. This effect can trigger once every 15s.\nAdditionally, when inside a **Polestar Field**, Beidou will enter the **Radiance: Stellar-Conduct** state.\n[Details title=\"Polestar Field\"]When Stellar-Conduct is triggered, the surrounding area will transform into a **Polestar Field** for a short period of time, and when inside a Polestar Field, certain characters will enter the **Radiance: Stellar-Conduct** state, which grants various skill buffs.[/Details]",
+        "img": "Beidou/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
@@ -373,6 +379,7 @@
       {
         "name": "Bane of Evil",
         "desc": "During the duration of **Stormbreaker**, the **Electro RES** of surrounding opponents is decreased by 15%.",
+        "buffed_desc": "While **Stormbreaker** is active, nearby opponents' **Electro RES** is reduced by 15%.\n\n**Radiance: Stellar-Conduct**: The **Cryo RES** of nearby opponents is decreased by 15%, and the Elemental Mastery of the current active character is increased by 200, while Stormbreaker is active.",
         "img": "Beidou/const_5"
       }
     ]

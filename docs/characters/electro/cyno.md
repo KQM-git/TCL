@@ -68,7 +68,7 @@ import Skill from '@site/src/components/char/Skill'
 <TabItem value='e' label='Skill'>
 <SkillIcon char={char} skill='e' />
 <div class='talent-columns'>
-<Skill char={char} skill='e' />
+<Skill char={char} skill='e' buffedTitle="Witch's Revelation" />
 
 | Attribute      | Skill    | Mortuary Rite |
 | :------------- | :------- | :------------ |
@@ -147,6 +147,10 @@ import Frames from '@site/src/components/char/Frames'
 import Passive from '@site/src/components/char/Passive'
 
 <Tabs queryString="passive">
+<TabItem value="hexerei" label="Witch's Eve Rite" >
+<Passive char={char} passive={3} />
+</TabItem>
+
 <TabItem value='passive' label='Passive'>
 <Passive char={char} passive={2} />
 </TabItem>
@@ -161,7 +165,7 @@ import Passive from '@site/src/components/char/Passive'
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-<Passive char={char} passive={1} />
+<Passive char={char} passive={1} buffedTitle="Witch's Revelation" />
 </TabItem>
 </Tabs>
 
@@ -171,11 +175,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <Tabs queryString="constellation">
 <TabItem value='c1' label='C1'>
-<Constellation char={char} constellation={1} />
+<Constellation char={char} constellation={1} buffedTitle="Witch's Revelation" />
 </TabItem>
 
 <TabItem value='c2' label='C2'>
-<Constellation char={char} constellation={2} />
+<Constellation char={char} constellation={2} buffedTitle="Witch's Revelation" />
 </TabItem>
 
 <TabItem value='c3' label='C3'>
@@ -183,7 +187,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c4' label='C4'>
-<Constellation char={char} constellation={4} />
+<Constellation char={char} constellation={4} buffedTitle="Witch's Revelation" />
 </TabItem>
 
 <TabItem value='c5' label='C5'>
@@ -191,7 +195,7 @@ import Constellation from '@site/src/components/char/Constellation'
 </TabItem>
 
 <TabItem value='c6' label='C6'>
-<Constellation char={char} constellation={6} />
+<Constellation char={char} constellation={6} buffedTitle="Witch's Revelation" />
 </TabItem>
 </Tabs>
 

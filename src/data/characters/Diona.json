@@ -338,6 +338,12 @@
         "desc": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
         "img": "Common/Perfect_Cooking_Healing",
         "minAscension": 0
+      },
+      {
+        "name": "Choice Treasures",
+        "desc": "Within 20s after using the Elemental Skill **Icy Paws**, Diona will also fire off three **Icy Paws** when party members trigger Superconduct or Stellar-Conduct reactions. **Icy Paws** fired this way cannot generate Elemental Particles, nor will they generate a shield upon hitting opponents. This effect can occur once every 3.5s.\nAdditionally, when inside a **Polestar Field**, Diona will enter the **Radiance: Stellar-Conduct** state.\n[Details title=\"Polestar Field\"]When Stellar-Conduct is triggered, the surrounding area will transform into a **Polestar Field** for a short period of time, and when inside a Polestar Field, certain characters will enter the **Radiance: Stellar-Conduct** state, which grants various skill buffs.[/Details]",
+        "img": "Diona/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
@@ -369,6 +375,7 @@
       {
         "name": "Cat's Tail Closing Time",
         "desc": "Characters within **Signature Mix**'s radius will gain the following effects based on their HP amounts:\n·Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\n·Elemental Mastery increased by 200 when HP is above 50%.",
+        "buffed_desc": "Characters within **Signature Mix**'s radius gain the following effects based on their HP levels:\n· The Incoming Healing Bonus is increased by 30% when HP is at, or lower than, 50%.\n· Elemental Mastery is increased by 200 when HP is above 50%.\n\nAdditionally, Diona's Max HP is increased by 25%.\n\n**Radiance: Stellar-Conduct**: Characters within **Signature Mix**'s radius deal 40% increased Superconduct and Stellar-Conduct Reaction DMG.",
         "img": "Diona/const_5"
       }
     ]

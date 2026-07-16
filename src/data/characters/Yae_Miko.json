@@ -223,6 +223,7 @@
     "ult": {
       "name": "Great Secret Art: Tenko Kenshin",
       "desc": "Legends of \"kitsunetsuki,\" or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing **AoE Electro DMG**.\nWhen she uses this skill, Yae Miko will unseal nearby Sesshou Sakura, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing **AoE Electro DMG**. Each Sesshou Sakura destroyed in this way will create one Tenko Thunderbolt.\n\n**Only at times like these will Yae reveal her Sky Kitsune form and wield lightning itself. None have seen the Lady Guuji's tails and lived to tell the story... so remember, as far as you are concerned, Lady Yae does not have a tail.**",
+      "buffed_desc": "Legends of \"kitsunetsuki,\" or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing **AoE Electro DMG**.\nWhen this is cast, Yae Miko will transform nearby Sesshou Sakura into Tenko Thunderbolts that descend from the skies, dealing **AoE Electro DMG**. Each Sesshou Sakura within range transforms into one Tenko Thunderbolt.\n\n**Only at times like these will Yae reveal her Sky Kitsune form and wield lightning itself. None have seen the Lady Guuji's tails and lived to tell the story... so remember, as far as you are concerned, Lady Yae does not have a tail.**",
       "img": "Yae_Miko/ult",
       "talentTable": [
         {
@@ -276,6 +277,7 @@
       {
         "name": "The Shrine's Sacred Shade",
         "desc": "When casting **Great Secret Art: Tenko Kenshin**, each Sesshou Sakura destroyed resets the cooldown for 1 charge of **Yakan Evocation: Sesshou Sakura**.",
+        "buffed_desc": "When **Great Secret Art: Tenko Kenshin** is unleashed, each Sesshou Sakura involved will reset the cooldown for one instance of **Yakan Evocation: Sesshou Sakura**.\nWhen there are at least 3 Sesshou Sakura nearby at the same time, unleashing **Yakan Evocation: Sesshou Sakura** will cause Yae Miko to unleash an additional lightning strike which deals **Electro DMG** at 40% of her ATK.\n**Radiance: Stellar-Conduct**: The aforementioned additional lightning strike becomes an instance of **Electro DMG** at 50% of Yae Miko's ATK instead. This DMG will also be considered Stellar-Conduct DMG.",
         "img": "Yae_Miko/passive_0",
         "minAscension": 1
       },
@@ -290,17 +292,25 @@
         "desc": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.",
         "img": "Yae_Miko/passive_2",
         "minAscension": 0
+      },
+      {
+        "name": "Edict of Cleansing",
+        "desc": "Extends the duration of the Sesshou Sakura by 10s. When a nearby party member triggers a Superconduct or Stellar-Conduct reaction, the next instance of Sesshou Sakura lightning is enhanced as follows: DMG dealt is increased at 80% of Yae Miko's ATK. This effect can trigger once every 2.5s.\n**Radiance: Stellar-Conduct**: An enhanced Sesshou Sakura lightning bolt hit on an opponent will also cause an additional instance of **Electro DMG** at 200% of Yae Miko's ATK. This DMG is considered Stellar-Conduct DMG.\nAdditionally, when inside a **Polestar Field**, Yae Miko will enter the **Radiance: Stellar-Conduct** state.\n[Details title=\"Polestar Field\"]When Stellar-Conduct is triggered, the surrounding area will transform into a **Polestar Field** for a short period of time, and when inside a Polestar Field, certain characters will enter the **Radiance: Stellar-Conduct** state, which grants various skill buffs.[/Details]",
+        "img": "Yae_Miko/passive_3",
+        "minAscension": 0
       }
     ],
     "constellations": [
       {
         "name": "Yakan Offering",
         "desc": "Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.",
+        "buffed_desc": "Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko restores 8 Elemental Energy to herself. After Yae Miko triggers a Superconduct or Stellar-Conduct reaction, or deals Stellar-Conduct DMG, nearby party members will gain a 50% Electro DMG and Stellar-Conduct DMG Bonus for 10s. Triggering these reactions again will refresh the duration of the DMG bonuses.",
         "img": "Yae_Miko/const_0"
       },
       {
         "name": "Fox's Mooncall",
         "desc": "**Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.",
+        "buffed_desc": "**Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%. Additionally, when there are Sesshou Sakura in the field, Yae Miko's and your current active character's Elemental Mastery will also be increased by 60/90/120/200 points, depending on the level of the Sesshou Sakura.",
         "img": "Yae_Miko/const_1"
       },
       {
@@ -311,6 +321,7 @@
       {
         "name": "Sakura Channeling",
         "desc": "When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s.",
+        "buffed_desc": "When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s, and Yae Miko regenerates 8 Elemental Energy. The aforementioned Elemental Energy recovery effect can trigger once every 5s. Additionally, Yae Miko's Elemental Burst DMG is increased by 100%.",
         "img": "Yae_Miko/const_3"
       },
       {
@@ -321,6 +332,7 @@
       {
         "name": "Forbidden Art: Daisesshou",
         "desc": "**The Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF.",
+        "buffed_desc": "**Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF. The CRIT DMG of Yae Miko's Stellar-Conduct DMG is increased by 200%.",
         "img": "Yae_Miko/const_5"
       }
     ]
