@@ -32,6 +32,11 @@ _Easy-to-use achievement tracker, character ascension planner, and simple damage
 [Paimon.moe](https://paimon.moe/)  
 _Wish tracker, character & weapon calculators, task lists, game database, and event timeline._
 
+### Genshin Pity & Pull Calculator
+
+[Genshin Pity & Pull Calculator](https://smart-calculators.net/en-US/tools/genshin-pity-calculator)  
+_Closed-form pull-probability calculator: enter your current pity and guaranteed status to get the exact odds of landing the featured 5-star within a pull budget, on the Character, Weapon (Epitomized Path) and Standard banners._
+
 ### ShinShin.moe
 
 [ShinShin.moe](https://shinshin.moe/)  
