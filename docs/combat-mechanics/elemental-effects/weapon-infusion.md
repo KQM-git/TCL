@@ -9,6 +9,8 @@ Infusion is a mechanic that converts a character's attacks to a specific Element
 
 Infusions apply a 1WU (Weapon Gauge Unit) every refresh timing if overrideable. This follows standard reaction principles.
 
+Weapon Infusion reactions occur at the location of the last character swap, if the active character's weapon is sheathed prior to its infusion.
+
 ## List of Infusions and Characteristics
 
 | Character                                            | Infusion Ability                    | Element | Target                       | Can be overridden? | Refresh Timing   |

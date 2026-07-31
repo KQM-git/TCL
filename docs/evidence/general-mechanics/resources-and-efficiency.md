@@ -74,6 +74,19 @@ More information on the Original Resin Cap change.
 
 **Significance:** just an update to an old submission. Awaiting for someone to update 120 > 200 to see if the older resin cap still applies
 
+### Condensed Resin Snapshot
+
+**By:** @brukin  
+**Added:** <Version date="2026-07-31" />  
+**Last tested:** <VersionHl date="2025-09-10" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/condensed-resin-snapshot)
+
+**Finding:** Condensed resin snapshots the 40 crafted resin before luna 1 and gives 3 rewards after luna 1 update  
+
+**Evidence:** [YouTube](https://youtu.be/880USrBYAcI)
+
+**Significance:** +100 resin (ignore the part its a 1 time only deal)
+
 ## Artifacts
 
 ### Artifact EXP from Vendors Vs Domains

@@ -14,8 +14,8 @@ import Image from '@theme/IdealImage'
 
 ## Resources
 
-* [Kazuha Written Guide: Scarlet Leaves Pursue Wild Waves](https://keqingmains.com/kazuha/)
-* [6 Minute Video Guide to Kazuha](https://youtu.be/QpaxtAxTJuA)
+- [Kazuha Written Guide: Scarlet Leaves Pursue Wild Waves](https://keqingmains.com/kazuha/)
+- [6 Minute Video Guide to Kazuha](https://youtu.be/QpaxtAxTJuA)
 
 ## Base Stats
 
@@ -63,10 +63,10 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
-* Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
-* Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kaedehara-kazuha.md#dragonstrike-of-n5).
-* Kazuha's 2-hit N3 is "not linked" but his 3-hit N5 is "linked" when it comes to [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering). For more information see this [Vault Entry](../../evidence/equipment/artifacts.md#kazuha-na-interaction-with-echoes).
+- MV/s are calculated using the shortest possible frames without any animation cancels, for different cancels see [below](#frames).
+- Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
+- Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kaedehara-kazuha.md#dragonstrike-of-n5).
+- Kazuha's 2-hit N3 is "not linked" but his 3-hit N5 is "linked" when it comes to [Echoes of an Offering](../../equipment/artifacts.md#echoes-of-an-offering). For more information see this [Vault Entry](../../evidence/equipment/artifacts.md#kazuha-na-interaction-with-echoes).
 
 </TabItem>
 
@@ -112,15 +112,15 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
-* By double tapping your glider as soon as you've tapped your Skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some Frozen enemies but you don't want to Shatter them).
-* Some forms of interruption after casting **Chihayaburu** may cause the ability to cast **Midare Ranzan** to persist up to 10s without remaining airborne.
-* Plunging immediately after a tap E guarantees a high plunge while waiting might give low plunge damage.
-* Absorption priority: Pyro > Hydro > Electro > Cryo
-* Kazuha E will, under certain conditions, fail to absorb self auras
-* **Midare Ranzan** does not have a minimum height limit, meaning Kazuha can start the Plunging Attack a lot lower than a regular Plunging Attack.
-* **Midare Ranzan** can be considered as an Anemo Infusion which cannot be overridden by other Infusions.
-* Kazuha can skip **Midare Ranzan** by using Chihayaburu in midair and pressing attack at the same time. For PC users, inputs are Spacebar > Left Mouse Button + E. Can also be done with dash jumps. It can be done very close to the ground or done late as long as you are in the air.  
+- Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
+- By double tapping your glider as soon as you've tapped your Skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some Frozen enemies but you don't want to Shatter them).
+- Some forms of interruption after casting **Chihayaburu** may cause the ability to cast **Midare Ranzan** to persist up to 10s without remaining airborne.
+- Plunging immediately after a tap E guarantees a high plunge while waiting might give low plunge damage.
+- Absorption priority: Pyro > Hydro > Electro > Cryo
+- Kazuha E will, under certain conditions, fail to absorb self auras
+- **Midare Ranzan** does not have a minimum height limit, meaning Kazuha can start the Plunging Attack a lot lower than a regular Plunging Attack.
+- **Midare Ranzan** can be considered as an Anemo Infusion which cannot be overridden by other Infusions.
+- Kazuha can skip **Midare Ranzan** by using Chihayaburu in midair and pressing attack at the same time. For PC users, inputs are Spacebar > Left Mouse Button + E. Can also be done with dash jumps. It can be done very close to the ground or done late as long as you are in the air.  
 
 </TabItem>
 
@@ -147,8 +147,8 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Absorption priority: Pyro > Hydro > Electro > Cryo
-* DoT ticks 5 times over the burst duration
+- Absorption priority: Pyro > Hydro > Electro > Cryo
+- DoT ticks 5 times over the burst duration
 
 </TabItem>
 </Tabs>
@@ -181,8 +181,8 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* The Elemental damage is applied before Midare Ranzan, allowing it to Swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no Swirl.
-* Absorption priority: Pyro > Hydro > Electro > Cryo
+- The Elemental damage is applied before Midare Ranzan, allowing it to Swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no Swirl.
+- Absorption priority: Pyro > Hydro > Electro > Cryo
 
 </TabItem>
 
@@ -191,10 +191,10 @@ import Passive from '@site/src/components/char/Passive'
 
 **Notes**
 
-* Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
-* Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
-* Kazuha's 4th ascension passive overrides previous instances on every Swirl of the same Element, using his current Elemental Mastery.
-* The Elemental DMG Bonus persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
+- Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
+- Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
+- Kazuha's 4th ascension passive overrides previous instances on every Swirl of the same Element, using his current Elemental Mastery.
+- The Elemental DMG Bonus persists for its full duration even when this character leaves party. Click [here](../../evidence/combat-mechanics/party-mechanics.md#debuffsteam-buffs-with-duration-persist-after-applier-leaves-party) for the finding. 
 
 </TabItem>
 </Tabs>
@@ -213,7 +213,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Sucrose's A4 shares 20% of EM from this Constellation.
+- Sucrose's A4 shares 20% of EM from this Constellation.
 
 </TabItem>
 
@@ -226,7 +226,7 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The Energy gained while gliding is not affected by Energy Recharge.
+- The Energy gained while gliding is not affected by Energy Recharge.
 
 </TabItem>
 
@@ -239,10 +239,9 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* The Anemo infusion can be overridden by other infusion effects such as Bennett's C6 Inspiration Field.
-* Kazuha can have ownership of weapon Swirls involving his C6 if his infusion is applied onto another infusion's Aura.  
-* Weapon Swirls owned by Kazuha can trigger his 4VV set effect. However, they cannot trigger his A4.  
-
+- The Anemo infusion can be overridden by other infusion effects such as Bennett's C6 Inspiration Field.
+- Kazuha can have ownership of weapon Swirls involving his C6 if his infusion is applied onto another infusion's Aura.  
+- Weapon Swirls owned by Kazuha can trigger his 4VV set effect. However, they cannot trigger his A4.  
 
 </TabItem>
 </Tabs>

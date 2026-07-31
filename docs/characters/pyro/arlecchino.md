@@ -88,6 +88,7 @@ import Skill from '@site/src/components/char/Skill'
 - Arlecchino's Skill has iframes, equivalent to dash iframes (attacks that ignore dash iframes can still connect).
 - Cleave and Blood-Debt Directive have a shared 2 hit ICD, while Spike has its own independent ICD
 - Bug: Arlecchino can't absorb Blood-Debt Directive from Stormterror Dvalin
+- Absorbing BoL from multiple enemies counts as multiple stacks, and triggers Fragment of Harmonic Whimsy multiple times
 
 </TabItem>
 

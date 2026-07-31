@@ -2,7 +2,7 @@
 search: false
 ---
 
-# Ley Line Disorders
+# Spiral Abyss Ley Line Disorders
 
 <Card item={require('../../combat-mechanics/spiral-domains/ley-line-disorders.md')} />
 
