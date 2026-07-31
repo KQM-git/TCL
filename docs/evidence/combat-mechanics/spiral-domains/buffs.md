@@ -2,11 +2,13 @@
 search: false
 ---
 
-# Blessings
+# Buffs
 
-<Card item={require('../../../combat-mechanics/spiral-domains/blessings.md')} />
+<Card item={require('../../../combat-mechanics/spiral-domains/buffs.md')} />
 
-## Splendiferous Moon Abyss Blessing Mechanics
+## Blessings of the Abyssal Moon
+
+### Splendiferous Moon Abyss Blessing Mechanics
 
 **By:** jamberry\#7142 and NZPIEFACE\#8439  
 **Added:** <Version date="2021-12-16" />  
@@ -43,3 +45,18 @@ On top of the properties listed in the above finding, True DMG from Blessings in
 **Evidence:**  
 This sheet shows a copy of data from the previous ticket, and compares it to the shockwave DMG from this abyss blessing at various levels, as well as showing their relationship to the enemy/environment level multiplier. The Nov 16, 2023 abyss uses a multiplier of 12 (c.o. fooshi), the Dec 1, 2023 abyss used a multiplier of 6 (c.o. clevernt, but not shown on sheet), and the previous recorded blessing used a multiplier of 5 and 8.33:  
 [Google Docs](https://docs.google.com/spreadsheets/d/1lwBcU0L1lqRk8Kv-t8HdMD2VKnjPnUvnr9Leo4BNZgk/edit?usp=sharing)
+
+## Ley Line Disorders
+
+### 5.6b Abyss Leyline Disorder Doesnt Snapshot
+
+**By:** @haafr  
+**Added:** <Version date="2026-7-31" />  
+**Last tested:** <VersionHl date="2025-06-16" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/56b-abyss-leyline-disorder-doesnt-snapshot)
+
+**Finding:** Abyss, 5.6B leyline disorder, give dmg% bonus when energy is 0%. This dmg% doesn't snapshot.  
+
+**Evidence:** [YouTube](https://youtu.be/BKq22lCPAD8?si=i9Ffg92r1Z7RIdJG)  
+
+**Significance**: characters can't benefit from this disorder despite snapshotting once they get energy
