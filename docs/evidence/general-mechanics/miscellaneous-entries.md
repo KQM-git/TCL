@@ -1417,3 +1417,26 @@ Arlecchino's Passive doesn't get trigger (sky doesn't darken, Pyro DMG Bonus doe
   
 **Significance:**  
 It's not necessary to kill the cuties to change characters, weapons, artifacts. Land and underwater Blubberbeasts are probably coded differently.
+
+## Version 5.4 Update Added Glowing Special Effect To Upgradable Talent Icons
+
+**By:** @casdela  
+**Added:** <Version date="2026-7-31" />  
+**Last tested:** <VersionHl date="2025-10-12" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/version-54-update-added-glowing-special-effect-to-upgradable-talent-icons)
+
+**Finding:**  
+As specified by [Version 5.4's Patch Notes]([genshin.hoyoverse.com](https://genshin.hoyoverse.com/en/news/detail/154285),) within "Enhancement Systems" bullet point:
+
+> *...In the "Character" interface, there will be special effect prompts when a character's Talent can be leveled up.*
+
+A new subtle glowing effect appears on a Talent's icon when it meets the following conditions:
+
+- The Talent's level has not reach the max upgradable level cap.
+- The player have enough materials to upgrade the Talent at least once.
+
+Aside from the special effect, the Training Guide will also indicate each character's upgradable Talents in Character Talents tab.  
+
+**Evidence:** [YouTube](https://youtu.be/rETVcc5vRfU)  
+
+**Significance:** Shiny buttons.
