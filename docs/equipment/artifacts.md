@@ -128,7 +128,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Flower of Paradise Lost
 
-<Artifact artifact="Flower of Paradise Lost" />
+<Artifact artifact="Flower of Paradise Lost">
+- The set bonus buffs the damage of the hyperbloom seed that triggers it
+
+</Artifact>
 
 ### Fragment of Harmonic Whimsy
 
@@ -144,6 +147,8 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Gilded Dreams">
 
 - Gilded Dreams' 4-Piece effect does not apply to the hit that triggered it or the reactions triggered by that hit. - [Rare Possum\#0511](../evidence/equipment/artifacts.md#gilded-dreams)
+- Hyperbloom does not snapshot the EM buff, and the buff is applied to the damage of the seed triggering the set.
+  - Burgeon is inconsistenmt
 
 </Artifact>
 
