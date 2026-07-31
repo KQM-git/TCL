@@ -21,9 +21,9 @@ interacting with each other in specific ways that yield the appearance of a hier
 
 **Evidence:**
 
-* [YouTube infusion tests](https://youtu.be/rJKYkrvlnxg)
-* [Infusion Tests GIF](https://imgur.com/a/wAchZUi)
-* [Diluc/Chongyun Infusion](https://imgur.com/a/mbixEuJ)
+- [YouTube infusion tests](https://youtu.be/rJKYkrvlnxg)
+- [Infusion Tests GIF](https://imgur.com/a/wAchZUi)
+- [Diluc/Chongyun Infusion](https://imgur.com/a/mbixEuJ)
 
 **Conclusion:**  
 Weapon Elemental Gauge Units or WU, can be used to describe the strength of Weapon infusions. Keqing infuses her
@@ -76,9 +76,9 @@ When doing Kazuha/Lynette C6 Weapon Swirl setups, be careful of the location.
 **Evidence:**  
 Venti’s arrows are swirled in the rain and Amber’s arrows are vaporized in the rain, showing that arrows are self-applied aura entities.
 
-* [Venti swirling twice in the rain](https://youtu.be/5hX2UeGsLXc)
-* [Amber vaporizing in the rain](https://youtu.be/qXwODL_xtuk)
-* [Rain Swirl damage](https://youtu.be/yT7cYnd8wHo)
+- [Venti swirling twice in the rain](https://youtu.be/5hX2UeGsLXc)
+- [Amber vaporizing in the rain](https://youtu.be/qXwODL_xtuk)
+- [Rain Swirl damage](https://youtu.be/yT7cYnd8wHo)
 
 **Conclusion:** Arrows are entities that are infused with the same aura they apply.  
 
