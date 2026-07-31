@@ -25,22 +25,27 @@ _Team DPS simulator with detailed damage breakdowns._
 ### Genshin Center
 
 [Genshin Center](https://genshin-center.com)  
-_Easy-to-use achievement tracker, character ascension planner, and simple damage calculator._
+_Easy-to-use achievement tracker, and resource planner_
 
 ### Paimon.moe
 
 [Paimon.moe](https://paimon.moe/)  
 _Wish tracker, character & weapon calculators, task lists, game database, and event timeline._
 
-### ShinShin.moe
-
-[ShinShin.moe](https://shinshin.moe/)  
-_Collage generator for easy-to-share character build cards._
-
 ### Enka.Network
 
 [Enka Network](https://enka.network/)  
 _Automatically generated character build cards that use data from the in-game character showcase._
+
+### Gacha Pull Calculator
+
+[Hu Tao](https://hutaobot.moe/tools/gachacalc)  
+_A calculator that helps plan pulls for various games_
+
+### ShinShin.moe
+
+[ShinShin.moe](https://shinshin.moe/)  
+_Collage generator for easy-to-share character build cards._
 
 ### Official Interactive Map
 
