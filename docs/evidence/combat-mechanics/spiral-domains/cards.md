@@ -2,7 +2,7 @@
 search: false
 ---
 
-# Cards
+# Spiral Abyss Cards
 
 <Card item={require('../../../combat-mechanics/spiral-domains/cards.md')} />
 

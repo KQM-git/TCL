@@ -1,4 +1,4 @@
-# Buffs
+# Spiral Abyss Buffs
 
 ## Blessing of the Abyssal Moon
 

@@ -1,4 +1,4 @@
-# Ley Line Disorders
+# Spiral Abyss Ley Line Disorders
 
 Ley Line Disorders operate by setting your party's gauge to the following characteristics:
 

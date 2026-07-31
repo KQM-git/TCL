@@ -1,4 +1,4 @@
-# Cards
+# Spiral Abyss Cards
 
 At each chamber of a floor, 3 cards are offered. You may select one. These cards offer some form of a buff which take effect immediately [\[1\]](../../evidence/combat-mechanics/spiral-domains/cards.md#cards-activate-immediately-after-selection).
 

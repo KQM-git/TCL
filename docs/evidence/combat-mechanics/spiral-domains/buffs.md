@@ -2,7 +2,7 @@
 search: false
 ---
 
-# Buffs
+# Spiral Abyss Buffs
 
 <Card item={require('../../../combat-mechanics/spiral-domains/buffs.md')} />
 
