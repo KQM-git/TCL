@@ -50,3 +50,30 @@ search: false
 
 ## Synergies/Interactions
 - Song of Days Past records healing for an on-field, in-combat Arlecchino - [YouTube](https://youtu.be/dhiJPf3xQtY) - @mechantr0nix
+
+### Fragment of Harmonic Whimsy Interaction With Arlecchino
+
+**By:** @acerbus114  
+**Added:** <Version date="2026-07-31" />  
+**Last tested:** <VersionHl date="2025-01-17" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/fhm-interaction-with-arlecchino)
+
+**Finding:**  
+When Arlecchino absorbs her Blood-Debt Directives (E marks) on multiple enemies, she gains BoL in a way that can trigger multiple 4pc Fragment of Harmonic Whimsy's stacks.  
+  
+**Evidence:** [YouTube](https://youtu.be/yaY5sfpMFNY)  
+Stats:
+- Total ATK: 1554  
+- AdditiveBaseDMGBonus from BoL: 1554\*238%*145% = 5362.854 (She gains 145% BoL at maximum per E)  
+- CRIT Multiplier: 1 + 142% = 2.42 (CRIT hit)  
+- Total DMG% (excluding 4pc Whimsy): 40% (A4) + 46.6% (Goblet) +  48% (Weapon) + 75% (Abyss Leyline Disorder) = 209.6%  
+- Total DMG% (with 3 Whimsy stacks): 169.6% + 54% = 263.6%  
+- Total DMG% (with 2 Whimsy stacks): 169.6% + 36% = 245.6%  
+- RES Multiplier: 0.9  
+- DEF Multiplier (Enemy=95, Arle=90): ~0.4935  
+  
+**Scenario 1:** Arlecchino absorbs E marks when they are not upgraded to Blood-Debt Due yet, giving 65% BoL per enemy. Because the maximum BoL she can gain per E is 145%, she gains 65%+65% BoL from first two enemies, and 15% BoL from the third one. The game seemingly registers it as 3 BoL gaining events. The damage is: `(1554 * 93.9% + 5362.854) * (2.42) * (1 + 2.636) * 0.9 * 0.4935 = ~26661` which is similar to the number `26668` in game. \
+**Scenario 2:** Arlecchino absorbs E marks when they are already upgraded to Blood-Debt Due. Because each Due gives her 130% BoL, she only gains 130% and 15% BoL from the first and two enemies, respectively. The game also seemingly registers it as 2 BoL gaining events. The damage is: `(1554 * 93.9% + 5362.854) * (2.42) * (1 + 2.456) * 0.9 * 0.4935 = ~25341` which is similar to the number `25348` in game.  
+  
+**Significance:**  
+Arlecchino can gain Whimsy's 4pc effect more quickly in multi-targets.
