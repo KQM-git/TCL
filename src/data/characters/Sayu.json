@@ -369,7 +369,7 @@
     "passive": [
       {
         "name": "Someone More Capable",
-        "desc": "When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.\nThis effect can be triggered once every 2s.",
+        "desc": "When Sayu triggers a Swirl or Stellar Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.\nThis effect can be triggered once every 2s.",
         "img": "Sayu/passive_0",
         "minAscension": 1
       },
@@ -404,7 +404,7 @@
       },
       {
         "name": "Skiving: New and Improved",
-        "desc": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.\nThis effect occurs once every 2s.",
+        "desc": "Sayu recovers 1.2 Energy when she triggers a Swirl or Stellar Swirl reaction while on-field.\nThis effect occurs once every 2s.",
         "img": "Sayu/const_3"
       },
       {

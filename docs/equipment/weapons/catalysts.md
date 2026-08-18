@@ -140,6 +140,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <Weapon weapon="Blackmarrow Lantern" weapons={catalysts} />
 
+### Clash of Kings
+
+<Weapon weapon="Clash of Kings" weapons={catalysts} />
+
 ### Dawning Frost
 
 <Weapon weapon="Dawning Frost" weapons={catalysts} />
@@ -147,6 +151,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 ### Dodoco Tales
 
 <Weapon weapon="Dodoco Tales" weapons={catalysts} />
+
+### Echoes of the Heart
+
+<Weapon weapon="Echoes of the Heart" weapons={catalysts} />
 
 ### Etherlight Spindlelute
 

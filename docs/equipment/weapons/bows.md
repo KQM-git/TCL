@@ -105,6 +105,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <Weapon weapon="Compound Bow" weapons={bows} />
 
+### Covenant of Frost and Snow
+
+<Weapon weapon="Covenant of Frost and Snow" weapons={bows} />
+
 ### End of the Line
 
 <Weapon weapon="End of the Line" weapons={bows} />
@@ -138,6 +142,10 @@ import FavSeries from './\_common/fav_series.md';
 ### Ibis Piercer
 
 <Weapon weapon="Ibis Piercer" weapons={bows} />
+
+### Jade Vista
+
+<Weapon weapon="Jade Vista" weapons={bows} />
 
 ### King's Squire
 

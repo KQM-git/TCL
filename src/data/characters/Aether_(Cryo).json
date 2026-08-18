@@ -1,0 +1,566 @@
+{
+  "name": "Aether (Cryo)",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 911.791,
+    "attackBase": 17.808,
+    "defenseBase": 57.225,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Foreign Frostglint",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "44.5%",
+              "48.1%",
+              "51.7%",
+              "56.9%",
+              "60.5%",
+              "64.6%",
+              "70.3%",
+              "76.0%",
+              "81.7%",
+              "87.9%",
+              "94.1%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "43.4%",
+              "47.0%",
+              "50.5%",
+              "55.6%",
+              "59.1%",
+              "63.1%",
+              "68.7%",
+              "74.2%",
+              "79.8%",
+              "85.9%",
+              "91.9%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "53.0%",
+              "57.3%",
+              "61.6%",
+              "67.8%",
+              "72.1%",
+              "77.0%",
+              "83.8%",
+              "90.6%",
+              "97.3%",
+              "105%",
+              "112%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "58.3%",
+              "63.1%",
+              "67.8%",
+              "74.6%",
+              "79.3%",
+              "84.8%",
+              "92.2%",
+              "99.7%",
+              "107%",
+              "115%",
+              "123%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "70.8%",
+              "76.5%",
+              "82.3%",
+              "90.5%",
+              "96.3%",
+              "103%",
+              "112%",
+              "121%",
+              "130%",
+              "140%",
+              "150%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "55.9%+60.7%",
+              "60.5%+65.7%",
+              "65.0%+70.6%",
+              "71.5%+77.7%",
+              "76.1%+82.6%",
+              "81.3%+88.3%",
+              "88.4%+96.0%",
+              "95.6%+104%",
+              "103%+112%",
+              "111%+120%",
+              "118%+128%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ice Fog Piercer",
+        "desc": "Stabs at the opponent with the Traveler's weapon, which releases an ice-cold fog. This deals **Cryo DMG** to opponents up ahead and forms a Frostpierce Star next to the Traveler.\n\n**Frostpierce Star**\n· Follows your own party members around the field and periodically fires ice crystals at nearby opponents, dealing **Cryo DMG**.\n**Radiance: Stellar-Conduct**: The Frostpierce Star will no longer fire ice crystals at opponents at intervals but will instead fire an ice crystal at opponents in a coordinated attack when the Traveler hits an opponent with a Normal Attack, Charged Attack, or Plunging Attack. This effect can trigger once every 0.2s.\n· When an opponent is hit with an ice crystal, the Traveler gains 1 stack of **Frostglow** (max 8 stacks).\n· When not in combat, **Frostglow** expires after 30s.\n\n**You observed the formation of frost together with Paimon.**\n[Details title=\"Frostglow\"]The following special effect is granted when an ice crystal from a **Frostpierce Star** generated by the Traveler hits an opponent, or when the Traveler unleashes a **Charged Attack: Freezing Ice** after unlocking the Talent **Foreign Permafrost**. Max 8 stacks.\nUnleashing the Elemental Burst **Frostbound Javelin** consumes all of the Traveler's **Frostglow** stacks to increase the DMG dealt by the current Elemental Burst. If 8 stacks are consumed, the number of strikes in the Elemental Burst is also increased.[/Details]",
+        "img": "Traveler/5/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "91.7%",
+              "98.6%",
+              "105.4%",
+              "114.6%",
+              "121.5%",
+              "128.4%",
+              "137.5%",
+              "146.7%",
+              "155.9%",
+              "165.0%",
+              "174.2%",
+              "183.4%",
+              "194.8%"
+            ]
+          },
+          {
+            "name": "Ice Crystal DMG",
+            "values": [
+              "21.4%",
+              "23.0%",
+              "24.6%",
+              "26.7%",
+              "28.3%",
+              "29.9%",
+              "32.1%",
+              "34.2%",
+              "36.4%",
+              "38.5%",
+              "40.6%",
+              "42.8%",
+              "45.5%"
+            ]
+          },
+          {
+            "name": "Frostpierce Star Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Frostbound Javelin",
+      "desc": "Generates an ice javelin with the power of Cryo, then directs it at enemies to deal multiple instances of **Cryo DMG**.\nWhen cast, the Traveler consumes all existing stacks of **Frostglow**, which in turn increases the DMG dealt by this Elemental Burst. When 8 stacks of **Frostglow** are consumed, the number of DMG instances caused by the javelins is also increased.\n\n**Radiance: Stellar Glimmer**: DMG from the current Elemental Burst is changed to **Cryo DMG** of the corresponding Stellar Glimmer reaction type.\n\n**You felt the keen edge of the icicles alongside Paimon.**\n[Details title=\"Frostglow\"]The following special effect is granted when an ice crystal from a **Frostpierce Star** generated by the Traveler hits an opponent, or when the Traveler unleashes a **Charged Attack: Freezing Ice** after unlocking the Talent **Foreign Permafrost**. Max 8 stacks.\nUnleashing the Elemental Burst **Frostbound Javelin** consumes all of the Traveler's **Frostglow** stacks to increase the DMG dealt by the current Elemental Burst. If 8 stacks are consumed, the number of strikes in the Elemental Burst is also increased.[/Details]\n[Details title=\"Radiance: Stellar Glimmer\"]**Radiance: Stellar-Conduct** and **Radiance: Stellar Swirl** are both considered **Radiance: Stellar Glimmer** states.\nCharacters can only be affected by one Radiance state at any one time, and where more than one state can be triggered, **Radiance: Stellar-Conduct** shall apply first.[/Details]",
+      "img": "Traveler/5/ult",
+      "talentTable": [
+        {
+          "name": "Ice Javelin DMG",
+          "values": [
+            "55.1%/Strike",
+            "59.3%/Strike",
+            "63.4%/Strike",
+            "68.9%/Strike",
+            "73.0%/Strike",
+            "77.2%/Strike",
+            "82.7%/Strike",
+            "88.2%/Strike",
+            "93.7%/Strike",
+            "99.2%/Strike",
+            "104.7%/Strike",
+            "110.3%/Strike",
+            "117.2%/Strike"
+          ]
+        },
+        {
+          "name": "Frostglow DMG Bonus",
+          "values": [
+            "2.8%",
+            "3.0%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5.0%",
+            "5.2%",
+            "5.5%",
+            "5.9%"
+          ]
+        },
+        {
+          "name": "Stellar-Conduct Ice Javelin Single Strike DMG",
+          "values": [
+            "36.8%",
+            "39.5%",
+            "42.3%",
+            "45.9%",
+            "48.7%",
+            "51.5%",
+            "55.1%",
+            "58.8%",
+            "62.5%",
+            "66.2%",
+            "69.8%",
+            "73.5%",
+            "78.1%"
+          ]
+        },
+        {
+          "name": "Stellar-Conduct Frostglow DMG Bonus",
+          "values": [
+            "1.8%",
+            "2.0%",
+            "2.1%",
+            "2.3%",
+            "2.4%",
+            "2.6%",
+            "2.8%",
+            "2.9%",
+            "3.1%",
+            "3.3%",
+            "3.5%",
+            "3.7%",
+            "3.9%"
+          ]
+        },
+        {
+          "name": "Stellar Swirl Ice Javelin Single Strike DMG",
+          "values": [
+            "55.1%",
+            "59.3%",
+            "63.4%",
+            "68.9%",
+            "73.0%",
+            "77.2%",
+            "82.7%",
+            "88.2%",
+            "93.7%",
+            "99.2%",
+            "104.7%",
+            "110.3%",
+            "117.2%"
+          ]
+        },
+        {
+          "name": "Stellar Swirl Frostglow DMG Bonus",
+          "values": [
+            "2.8%",
+            "3.0%",
+            "3.2%",
+            "3.4%",
+            "3.7%",
+            "3.9%",
+            "4.1%",
+            "4.4%",
+            "4.7%",
+            "5.0%",
+            "5.2%",
+            "5.5%",
+            "5.9%"
+          ]
+        },
+        {
+          "name": "No. of Strikes in Attack",
+          "value": "3"
+        },
+        {
+          "name": "Additional Frostglow Attack Strikes at Stack Max",
+          "value": "2"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Ever-Keen Frost",
+        "desc": "**Radiance: Stellar-Conduct**: When a **Frostpierce Star** is on the field, DMG from the Traveler's Normal Attacks, Charged Attacks, and Plunging Attacks are converted to **Cryo DMG** that cannot be overridden by another elemental infusion, and DMG dealt is also increased by 80% of the Traveler's ATK.",
+        "img": "Traveler/5/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Lucent Ice",
+        "desc": "The Traveler's Elemental Mastery is increased by 8% of their ATK. Up to 160 Elemental Mastery can be gained in this way.",
+        "img": "Traveler/5/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Stellar Jubilee: Illusory Frostmirror",
+        "desc": "The Traveler will enter the **Radiance: Stellar-Conduct** state when inside a **Polestar Field**, or the **Radiance: Stellar Swirl** state for 8s after a nearby party member triggers a Stellar Swirl reaction.\nWhen a party member triggers a Superconduct or Cryo Swirl reaction, it becomes a Stellar-Conduct or Stellar Swirl reaction instead, and the Base DMG of said reaction is also increased by 0.35% for every 100 points of the Traveler's ATK. A maximum 7% increase can be obtained in this way.\n[Details title=\"Polestar Field\"]When Stellar-Conduct is triggered, the surrounding area will transform into a **Polestar Field** for a short period of time, and when inside a Polestar Field, certain characters will enter the **Radiance: Stellar-Conduct** state, which grants various skill buffs.[/Details]",
+        "img": "Traveler/5/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Foreign Permafrost",
+        "desc": "Draws new strength and power from their past travels: Every Elemental Type the Traveler has resonated with now grants an additional **enhancement effect**.\n\nAdditionally, when a nearby party member deals Stellar-Conduct or Stellar Swirl DMG, the Traveler gains 1 stack of \"Icepoint.\" 1 stack of Icepoint can be obtained in this way once every 2s, max 3 stacks. When the Traveler unleashes a Charged Attack at 3 stacks of Icepoint, all stacks are consumed to change the attack into a special **Charged Attack: Freezing Ice**.\n\n**Charged Attack: Freezing Ice**\n· **Cryo DMG** dealt is increased by 140% of the Traveler's ATK, and the Traveler also gains 2 stacks of **Frostglow**.\n· **Charged Attack: Freezing Ice** can be unleashed once every 15s. Additionally, the DMG Bonus from the Ascension Talent \"Ever-Keen Frost\" does not apply to **Charged Attack: Freezing Ice**.\n**Radiance: Stellar Glimmer**: DMG from **Charged Attack: Freezing Ice** is instead considered **Cryo DMG** of the corresponding Stellar Glimmer reaction type.\n[Details title=\"Additional Buff Effects\"]The Traveler gains an attribute bonus for every element they have resonated with: \n**Anemo**: CRIT Rate is increased by 10%,\n**Geo**: DEF is increased by 20%,\n**Electro**: Energy Recharge is increased by 20%, \n**Dendro**: Elemental Mastery is increased by 60,\n**Hydro**: HP is increased by 20%,\n**Pyro**: ATK is increased by 20%,\n**Cryo**: CRIT DMG is increased by 20%.[/Details]\n[Details title=\"Frostglow\"]The following special effect is granted when an ice crystal from a **Frostpierce Star** generated by the Traveler hits an opponent, or when the Traveler unleashes a **Charged Attack: Freezing Ice** after unlocking the Talent **Foreign Permafrost**. Max 8 stacks.\nUnleashing the Elemental Burst **Frostbound Javelin** consumes all of the Traveler's **Frostglow** stacks to increase the DMG dealt by the current Elemental Burst. If 8 stacks are consumed, the number of strikes in the Elemental Burst is also increased.[/Details]\n[Details title=\"Radiance: Stellar Glimmer\"]**Radiance: Stellar-Conduct** and **Radiance: Stellar Swirl** are both considered **Radiance: Stellar Glimmer** states.\nCharacters can only be affected by one Radiance state at any one time, and where more than one state can be triggered, **Radiance: Stellar-Conduct** shall apply first.[/Details]",
+        "img": "Traveler/5/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Somber Freeze",
+        "desc": "The Traveler regenerates 5 Elemental Energy when they deal Stellar Glimmer DMG. This effect can trigger once every 0.5s.",
+        "img": "Traveler/5/const_0"
+      },
+      {
+        "name": "Frostfall Reverberation",
+        "desc": "The active character's Elemental Mastery is increased by 60 for 5s when an opponent is hit by an **ice crystal** fired by the Elemental Skill **Ice Fog Piercer**.\nAdditionally, when a character affected by the aforementioned effect triggers a Stellar Glimmer reaction or deals Stellar Glimmer reaction DMG, the Elemental Mastery boost described above will be increased to 120 for its duration.\n[Details title=\"Ice Fog Piercer\"]Stabs at the opponent with the Traveler's weapon, which releases an ice-cold fog. This deals **Cryo DMG** to opponents up ahead and forms a Frostpierce Star next to the Traveler.\n\n**Frostpierce Star**\n· Follows your own party members around the field and periodically fires ice crystals at nearby opponents, dealing **Cryo DMG**.\n**Radiance: Stellar-Conduct**: The Frostpierce Star will no longer fire ice crystals at opponents at intervals but will instead fire an ice crystal at opponents in a coordinated attack when the Traveler hits an opponent with a Normal Attack, Charged Attack, or Plunging Attack. This effect can trigger once every 0.2s.\n· When an opponent is hit with an ice crystal, the Traveler gains 1 stack of **Frostglow** (max 8 stacks).\n· When not in combat, **Frostglow** expires after 30s.\n\n**You observed the formation of frost together with Paimon.**[/Details]",
+        "img": "Traveler/5/const_1"
+      },
+      {
+        "name": "Glacial Shard",
+        "desc": "Increases the Level of the Elemental Burst **Frostbound Javelin** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Frostbound Javelin\"]Generates an ice javelin with the power of Cryo, then directs it at enemies to deal multiple instances of **Cryo DMG**.\nWhen cast, the Traveler consumes all existing stacks of **Frostglow**, which in turn increases the DMG dealt by this Elemental Burst. When 8 stacks of **Frostglow** are consumed, the number of DMG instances caused by the javelins is also increased.\n\n**Radiance: Stellar Glimmer**: DMG from the current Elemental Burst is changed to **Cryo DMG** of the corresponding Stellar Glimmer reaction type.\n\n**You felt the keen edge of the icicles alongside Paimon.**[/Details]",
+        "img": "Traveler/5/const_2"
+      },
+      {
+        "name": "Enduring Ice",
+        "desc": "The duration of the **Frostpierce Star** created by the Elemental Skill **Ice Fog Piercer** is increased by 25%.\n[Details title=\"Ice Fog Piercer\"]Stabs at the opponent with the Traveler's weapon, which releases an ice-cold fog. This deals **Cryo DMG** to opponents up ahead and forms a Frostpierce Star next to the Traveler.\n\n**Frostpierce Star**\n· Follows your own party members around the field and periodically fires ice crystals at nearby opponents, dealing **Cryo DMG**.\n**Radiance: Stellar-Conduct**: The Frostpierce Star will no longer fire ice crystals at opponents at intervals but will instead fire an ice crystal at opponents in a coordinated attack when the Traveler hits an opponent with a Normal Attack, Charged Attack, or Plunging Attack. This effect can trigger once every 0.2s.\n· When an opponent is hit with an ice crystal, the Traveler gains 1 stack of **Frostglow** (max 8 stacks).\n· When not in combat, **Frostglow** expires after 30s.\n\n**You observed the formation of frost together with Paimon.**[/Details]",
+        "img": "Traveler/5/const_3"
+      },
+      {
+        "name": "Bittercold Fog",
+        "desc": "Increases the Level of the Elemental Skill **Ice Fog Piercer** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Ice Fog Piercer\"]Stabs at the opponent with the Traveler's weapon, which releases an ice-cold fog. This deals **Cryo DMG** to opponents up ahead and forms a Frostpierce Star next to the Traveler.\n\n**Frostpierce Star**\n· Follows your own party members around the field and periodically fires ice crystals at nearby opponents, dealing **Cryo DMG**.\n**Radiance: Stellar-Conduct**: The Frostpierce Star will no longer fire ice crystals at opponents at intervals but will instead fire an ice crystal at opponents in a coordinated attack when the Traveler hits an opponent with a Normal Attack, Charged Attack, or Plunging Attack. This effect can trigger once every 0.2s.\n· When an opponent is hit with an ice crystal, the Traveler gains 1 stack of **Frostglow** (max 8 stacks).\n· When not in combat, **Frostglow** expires after 30s.\n\n**You observed the formation of frost together with Paimon.**[/Details]",
+        "img": "Traveler/5/const_4"
+      },
+      {
+        "name": "Brumal Grimfrost",
+        "desc": "Every stack of **Frostglow** consumed when using the Elemental Burst **Frostbound Javelin** increases Stellar Glimmer reaction DMG dealt by other party members by 5% for 15s. A maximum 40% increase can be obtained in this way.\n[Details title=\"Frostglow\"]The following special effect is granted when an ice crystal from a **Frostpierce Star** generated by the Traveler hits an opponent, or when the Traveler unleashes a **Charged Attack: Freezing Ice** after unlocking the Talent **Foreign Permafrost**. Max 8 stacks.\nUnleashing the Elemental Burst **Frostbound Javelin** consumes all of the Traveler's **Frostglow** stacks to increase the DMG dealt by the current Elemental Burst. If 8 stacks are consumed, the number of strikes in the Elemental Burst is also increased.[/Details]\n[Details title=\"Frostbound Javelin\"]Generates an ice javelin with the power of Cryo, then directs it at enemies to deal multiple instances of **Cryo DMG**.\nWhen cast, the Traveler consumes all existing stacks of **Frostglow**, which in turn increases the DMG dealt by this Elemental Burst. When 8 stacks of **Frostglow** are consumed, the number of DMG instances caused by the javelins is also increased.\n\n**Radiance: Stellar Glimmer**: DMG from the current Elemental Burst is changed to **Cryo DMG** of the corresponding Stellar Glimmer reaction type.\n\n**You felt the keen edge of the icicles alongside Paimon.**[/Details]",
+        "img": "Traveler/5/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 681.15454
+        },
+        {
+          "stat": "Base DEF",
+          "value": 42.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.3038
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1165.1328
+        },
+        {
+          "stat": "Base DEF",
+          "value": 73.125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.7565
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1810.4371
+        },
+        {
+          "stat": "Base DEF",
+          "value": 113.625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.3601
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2294.4153
+        },
+        {
+          "stat": "Base DEF",
+          "value": 144
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.8128
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2778.3936
+        },
+        {
+          "stat": "Base DEF",
+          "value": 174.375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.2655
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 100,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3262.3718
+        },
+        {
+          "stat": "Base DEF",
+          "value": 204.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.7182
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

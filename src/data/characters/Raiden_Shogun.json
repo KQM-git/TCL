@@ -488,9 +488,13 @@
         "minAscension": 4
       },
       {
+        "img": "Raiden_Shogun/passive_2",
+        "minAscension": 0
+      },
+      {
         "name": "All-Preserver",
         "desc": "Mora expended when ascending Swords and Polearms is decreased by 50%.",
-        "img": "Raiden_Shogun/passive_2",
+        "img": "Raiden_Shogun/passive_3",
         "minAscension": 0
       }
     ],

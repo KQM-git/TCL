@@ -152,6 +152,10 @@ import FavSeries from './\_common/fav_series.md';
 
 <Weapon weapon="Footprint of the Rainbow" weapons={polearms} />
 
+### Frostbreath
+
+<Weapon weapon="Frostbreath" weapons={polearms} />
+
 ### Missive Windspear
 
 <Weapon weapon="Missive Windspear" weapons={polearms} />
@@ -219,6 +223,10 @@ import RoyalSeries from './\_common/royal_series.md';
 ### Sacrificer's Staff
 
 <Weapon weapon="Sacrificer's Staff" weapons={polearms} />
+
+### Song of the Vigil
+
+<Weapon weapon="Song of the Vigil" weapons={polearms} />
 
 ### Tamayuratei no Ohanashi
 

@@ -299,7 +299,7 @@
       },
       {
         "name": "Poetics of Fuubutsu",
-        "desc": "Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members a 0.04% Elemental DMG Bonus to the element absorbed by Swirl for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.",
+        "desc": "Upon triggering a Swirl or Stellar Swirl reaction, Kaedehara Kazuha will grant all party members a 0.04% Elemental DMG Bonus to the element absorbed by Swirl for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.",
         "img": "Kaedehara_Kazuha/passive_1",
         "minAscension": 4
       },

@@ -1,0 +1,606 @@
+{
+  "name": "Odette",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1010.5192,
+    "attackBase": 26.068,
+    "defenseBase": 61.26592,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Snow Swan Variation",
+        "desc": "**Normal Attack**\nUnleashes a sword attack of up to 5 consecutive strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash a dazzling slash on opponents in front of her.\n\n**Plunging Attack**\nAttacks opponents in her path while plunging from mid-air, then deals AoE DMG upon landing.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "51.9%",
+              "56.1%",
+              "60.3%",
+              "66.3%",
+              "70.5%",
+              "75.4%",
+              "82.0%",
+              "88.6%",
+              "95.3%",
+              "102.5%",
+              "109.7%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "51.5%",
+              "55.7%",
+              "59.9%",
+              "65.9%",
+              "70.1%",
+              "74.9%",
+              "81.5%",
+              "88.0%",
+              "94.6%",
+              "101.8%",
+              "109.0%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "32.6%+38.3%",
+              "35.3%+41.4%",
+              "37.9%+44.5%",
+              "41.7%+49.0%",
+              "44.4%+52.1%",
+              "47.4%+55.6%",
+              "51.6%+60.5%",
+              "55.7%+65.4%",
+              "59.9%+70.3%",
+              "64.5%+75.7%",
+              "69.0%+81.0%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "74.6%",
+              "80.6%",
+              "86.7%",
+              "95.4%",
+              "101.5%",
+              "108.4%",
+              "117.9%",
+              "127.5%",
+              "137.0%",
+              "147.4%",
+              "157.8%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "90.2%",
+              "97.6%",
+              "104.9%",
+              "115.4%",
+              "122.7%",
+              "131.1%",
+              "142.7%",
+              "154.2%",
+              "165.7%",
+              "178.3%",
+              "190.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "107.4%",
+              "116.2%",
+              "124.9%",
+              "137.4%",
+              "146.1%",
+              "156.1%",
+              "169.9%",
+              "183.6%",
+              "197.3%",
+              "212.3%",
+              "227.3%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Adagio: Phantom Night Dancers",
+        "desc": "With slow, graceful dance steps, Odette deals **AoE Cryo DMG** to the opponent, and also summons her **Solo Dance Double** to the field.\nIf a **Dance Double** summoned by Odette is already on the field, this will re-summon the Dance Double and reset its duration.\n\n**Solo Dance Double**\nAlternates between the **Plume** and **Wing** dance moves, periodically attacking nearby opponents and dealing to them **AoE Cryo DMG**.\nAdditionally, for 6s after unleashing the Elemental Skill **Adagio: Phantom Night Dancers**, Odette's Elemental Skill **Adagio: Phantom Night Dancers** will become the special Elemental Skill **Adagio: Coda at Dawn's Tolling** instead, where a dance duet deals **AoE Cryo DMG** to nearby opponents over time. Then, when the duet ends, she deals another instance of **AoE Cryo DMG** that is considered Stellar-Conduct or Stellar Swirl DMG.\n[Details title=\"Solo Dance Double\"]A psychic double of Odette's that dances a duet with her. May be summoned to the field through her Elemental Skill or Elemental Burst.\nAlternates between the **Plume** and **Wing** dance moves to periodically attack nearby opponents, dealing **AoE Cryo DMG**.\nA maximum of one **Solo Dance Double** summoned by Odette is allowed on the field at any one time.\n\nAdditionally, when there is a **Dance Double** summoned by Odette nearby, her Elemental Skill **Adagio: Phantom Night Dancers** is changed to the special Elemental Skill **Adagio: Coda at Dawn's Tolling**.[/Details]\n[Details title=\"Adagio: Coda at Dawn's Tolling\"]Odette's special Elemental Skill, which deals to nearby opponents **AoE Cryo DMG** over time. Then, when the dance duet ends, she deals another instance of **AoE Cryo DMG** that is considered Stellar-Conduct DMG. During the dance duet, Odette can control the direction of the dance steps.\n**Radiance: Stellar Glimmer**: The DMG dealt when the dance duet ends is changed to **AoE Cryo DMG** of the corresponding Stellar reaction type.\n\nAdditionally, after Odette unleashes the special Elemental Skill **Adagio: Coda at Dawn's Tolling**, should she be in the **Radiance: Stellar Glimmer** state while her **Dance Double** is still on the field, the **Dance Double**'s two dance moves types will also deal additional **AoE Cryo DMG** of the corresponding Stellar Glimmer reaction type.[/Details]\n[Details title=\"Radiance: Stellar Glimmer\"]**Radiance: Stellar-Conduct** and **Radiance: Stellar Swirl** are both considered **Radiance: Stellar Glimmer** states.\nCharacters can only be affected by one Radiance state at any one time, and where more than one state can be triggered, **Radiance: Stellar-Conduct** shall apply first.[/Details]",
+        "img": "Odette/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "108.1%",
+              "116.2%",
+              "124.3%",
+              "135.1%",
+              "143.2%",
+              "151.3%",
+              "162.1%",
+              "172.9%",
+              "183.7%",
+              "194.5%",
+              "205.4%",
+              "216.2%",
+              "229.7%"
+            ]
+          },
+          {
+            "name": "Coda at Dawn's Tolling DoT",
+            "values": [
+              "95.8%",
+              "103.0%",
+              "110.2%",
+              "119.8%",
+              "127.0%",
+              "134.2%",
+              "143.8%",
+              "153.3%",
+              "162.9%",
+              "172.5%",
+              "182.1%",
+              "191.7%",
+              "203.7%"
+            ]
+          },
+          {
+            "name": "Coda at Dawn's Tolling Stellar-Conduct/Stellar Swirl DMG",
+            "values": [
+              "306%/459%",
+              "329%/493%",
+              "352%/527%",
+              "382%/573%",
+              "405%/608%",
+              "428%/642%",
+              "459%/688%",
+              "489%/734%",
+              "520%/780%",
+              "550%/826%",
+              "581%/871%",
+              "612%/917%",
+              "650%/975%"
+            ]
+          },
+          {
+            "name": "\"Plume\" Dance Move DMG",
+            "values": [
+              "43.0%",
+              "46.3%",
+              "49.5%",
+              "53.8%",
+              "57.0%",
+              "60.3%",
+              "64.6%",
+              "68.9%",
+              "73.2%",
+              "77.5%",
+              "81.8%",
+              "86.1%",
+              "91.5%"
+            ]
+          },
+          {
+            "name": "\"Plume\" Dance Move Stellar-Conduct/Stellar Swirl DMG",
+            "values": [
+              "27%/41%",
+              "29%/44%",
+              "31%/47%",
+              "34%/51%",
+              "36%/54%",
+              "38%/57%",
+              "41%/61%",
+              "43%/65%",
+              "46%/69%",
+              "49%/73%",
+              "51%/77%",
+              "54%/81%",
+              "57%/86%"
+            ]
+          },
+          {
+            "name": "\"Wing\" Dance Move DMG",
+            "values": [
+              "51.5%",
+              "55.3%",
+              "59.2%",
+              "64.3%",
+              "68.2%",
+              "72.0%",
+              "77.2%",
+              "82.3%",
+              "87.5%",
+              "92.6%",
+              "97.8%",
+              "102.9%",
+              "109.4%"
+            ]
+          },
+          {
+            "name": "\"Wing\" Dance Move Stellar-Conduct/Stellar Swirl DMG",
+            "values": [
+              "32%/48%",
+              "35%/52%",
+              "37%/56%",
+              "40%/61%",
+              "43%/64%",
+              "45%/68%",
+              "48%/73%",
+              "52%/78%",
+              "55%/82%",
+              "58%/87%",
+              "61%/92%",
+              "65%/97%",
+              "69%/103%"
+            ]
+          },
+          {
+            "name": "Coda at Dawn's Tolling CD",
+            "value": "15.0s"
+          },
+          {
+            "name": "Solo Dance Double Duration",
+            "value": "20.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Presto: Bluebird Finale",
+      "desc": "With quick, lively dance steps, Odette deals multiple instances of **AoE Cryo DMG**, and summons her **Solo Dance Double**. She also gains **Snow Swan's Dream**, which increases the Stellar Glimmer reaction DMG Odette deals.\nAdditionally, for 6s after unleashing the Elemental Burst **Presto: Bluebird Finale**, Odette's Elemental Skill **Adagio: Phantom Night Dancers** will be replaced with the special Elemental Skill **Adagio: Coda at Dawn's Tolling** instead.\n\nIf there is a Solo Dance Double summoned by Odette on the field, it will be summoned to her side with its duration refreshed.\n[Details title=\"Solo Dance Double\"]A psychic double of Odette's that dances a duet with her. May be summoned to the field through her Elemental Skill or Elemental Burst.\nAlternates between the **Plume** and **Wing** dance moves to periodically attack nearby opponents, dealing **AoE Cryo DMG**.\nA maximum of one **Solo Dance Double** summoned by Odette is allowed on the field at any one time.\n\nAdditionally, when there is a **Dance Double** summoned by Odette nearby, her Elemental Skill **Adagio: Phantom Night Dancers** is changed to the special Elemental Skill **Adagio: Coda at Dawn's Tolling**.[/Details]\n[Details title=\"Adagio: Coda at Dawn's Tolling\"]Odette's special Elemental Skill, which deals to nearby opponents **AoE Cryo DMG** over time. Then, when the dance duet ends, she deals another instance of **AoE Cryo DMG** that is considered Stellar-Conduct DMG. During the dance duet, Odette can control the direction of the dance steps.\n**Radiance: Stellar Glimmer**: The DMG dealt when the dance duet ends is changed to **AoE Cryo DMG** of the corresponding Stellar reaction type.\n\nAdditionally, after Odette unleashes the special Elemental Skill **Adagio: Coda at Dawn's Tolling**, should she be in the **Radiance: Stellar Glimmer** state while her **Dance Double** is still on the field, the **Dance Double**'s two dance moves types will also deal additional **AoE Cryo DMG** of the corresponding Stellar Glimmer reaction type.[/Details]\n[Details title=\"Radiance: Stellar Glimmer\"]**Radiance: Stellar-Conduct** and **Radiance: Stellar Swirl** are both considered **Radiance: Stellar Glimmer** states.\nCharacters can only be affected by one Radiance state at any one time, and where more than one state can be triggered, **Radiance: Stellar-Conduct** shall apply first.[/Details]",
+      "img": "Odette/ult",
+      "talentTable": [
+        {
+          "name": "Slash DMG",
+          "values": [
+            "110.2% ×3",
+            "118.4% ×3",
+            "126.7% ×3",
+            "137.7% ×3",
+            "146.0% ×3",
+            "154.2% ×3",
+            "165.3% ×3",
+            "176.3% ×3",
+            "187.3% ×3",
+            "198.3% ×3",
+            "209.3% ×3",
+            "220.4% ×3",
+            "234.1% ×3"
+          ]
+        },
+        {
+          "name": "Final Slash DMG",
+          "values": [
+            "170.3%",
+            "183.0%",
+            "195.8%",
+            "212.8%",
+            "225.6%",
+            "238.4%",
+            "255.4%",
+            "272.4%",
+            "289.5%",
+            "306.5%",
+            "323.5%",
+            "340.5%",
+            "361.8%"
+          ]
+        },
+        {
+          "name": "Snow Swan's Dream Stellar Glimmer Reaction DMG Bonus",
+          "values": [
+            "14.0%",
+            "18.0%",
+            "22.0%",
+            "26.0%",
+            "30.0%",
+            "34.0%",
+            "38.0%",
+            "42.0%",
+            "46.0%",
+            "50.0%",
+            "54.0%",
+            "58.0%",
+            "62.0%"
+          ]
+        },
+        {
+          "name": "Snow Swan's Dream Duration",
+          "value": "20.0s"
+        },
+        {
+          "name": "Solo Dance Double Duration",
+          "value": "20.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Spring Rite of the Chosen One",
+        "desc": "When Odette summons her **Solo Dance Double**, she also obtains 4 stacks of **Marvelous Splendor**.\n[Details title=\"Solo Dance Double\"]A psychic double of Odette's that dances a duet with her. May be summoned to the field through her Elemental Skill or Elemental Burst.\nAlternates between the **Plume** and **Wing** dance moves to periodically attack nearby opponents, dealing **AoE Cryo DMG**.\nA maximum of one **Solo Dance Double** summoned by Odette is allowed on the field at any one time.\n\nAdditionally, when there is a **Dance Double** summoned by Odette nearby, her Elemental Skill **Adagio: Phantom Night Dancers** is changed to the special Elemental Skill **Adagio: Coda at Dawn's Tolling**.[/Details]\n[Details title=\"Marvelous Splendor\"]After unlocking the Ascension Talent \"Spring Rite of the Chosen One,\" Odette will obtain a special effect when she summons her **Solo Dance Double**.\nEvery stack of **Marvelous Splendor** active increases the character's Stellar Glimmer DMG by 15%. This lasts until her **Dance Double** exits the field or when she summons her **Solo Dance Double** again.\nWhen Odette is off-field, she loses 1 stack of **Marvelous Splendor** every 1 second, while other nearby party members gain the corresponding number of **Marvelous Splendor** stacks at the same time.[/Details]",
+        "img": "Odette/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Pathetique of Pateticheskaya",
+        "desc": "For every 100 ATK Odette has over 1,000, her Stellar Glimmer DMG is additionally increased by 1.5% of the original DMG. She can deal up to 30% more additional DMG in this way.",
+        "img": "Odette/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Stellar Jubilee: Dance of Aurore",
+        "desc": "Odette will enter the **Radiance: Stellar-Conduct** state when she is inside a **Polestar Field**, or the **Radiance: Stellar Swirl** state for 8s after a nearby party member triggers a Stellar Swirl reaction.\nWhen a party member triggers a Superconduct or Cryo Swirl reaction, it becomes a Stellar-Conduct or Stellar Swirl reaction instead, and the Base DMG of said reaction is also increased by 0.7% for every 100 points of Odette's ATK. A maximum increase of 14% can be obtained in this way.\n[Details title=\"Polestar Field\"]When Stellar-Conduct is triggered, the surrounding area will transform into a **Polestar Field** for a short period of time, and when inside a Polestar Field, certain characters will enter the **Radiance: Stellar-Conduct** state, which grants various skill buffs.[/Details]",
+        "img": "Odette/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Echo of Winter Daydreams",
+        "desc": "Shows the locations of **Snezhnaya's Local Specialties** on the mini-map.\nPracticing dance in one's spare time might even trigger other effects...",
+        "img": "Odette/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "\"On This Danceless Morn, She Gazes at Her Reflection\"",
+        "desc": "After unleashing the special Elemental Skill **Adagio: Coda at Dawn's Tolling**, at the dance duet's end Odette will deal an additional instance of **Cryo AoE DMG** to nearby opponents that is considered:\n**Radiance: Stellar-Conduct** or when not in a Radiance state: Stellar-Conduct reaction DMG at 300% of Odette's ATK;\n**Radiance: Stellar Swirl**: Stellar Swirl reaction DMG at 450% of Odette's ATK.\n\nAdditionally, the Ascension Talent \"Spring Rite of the Chosen One\" is also enhanced: now, when the **Solo Dance Double** is summoned, Odette also gains 2 stacks of **Marvelous Splendor**. When Odette is off-field, the rate at which **Marvelous Splendor** is removed is sped up to 2 stacks per second.\n[Details title=\"Adagio: Coda at Dawn's Tolling\"]Odette's special Elemental Skill, which deals to nearby opponents **AoE Cryo DMG** over time. Then, when the dance duet ends, she deals another instance of **AoE Cryo DMG** that is considered Stellar-Conduct DMG. During the dance duet, Odette can control the direction of the dance steps.\n**Radiance: Stellar Glimmer**: The DMG dealt when the dance duet ends is changed to **AoE Cryo DMG** of the corresponding Stellar reaction type.\n\nAdditionally, after Odette unleashes the special Elemental Skill **Adagio: Coda at Dawn's Tolling**, should she be in the **Radiance: Stellar Glimmer** state while her **Dance Double** is still on the field, the **Dance Double**'s two dance moves types will also deal additional **AoE Cryo DMG** of the corresponding Stellar Glimmer reaction type.[/Details]\n[Details title=\"Solo Dance Double\"]A psychic double of Odette's that dances a duet with her. May be summoned to the field through her Elemental Skill or Elemental Burst.\nAlternates between the **Plume** and **Wing** dance moves to periodically attack nearby opponents, dealing **AoE Cryo DMG**.\nA maximum of one **Solo Dance Double** summoned by Odette is allowed on the field at any one time.\n\nAdditionally, when there is a **Dance Double** summoned by Odette nearby, her Elemental Skill **Adagio: Phantom Night Dancers** is changed to the special Elemental Skill **Adagio: Coda at Dawn's Tolling**.[/Details]\n[Details title=\"Marvelous Splendor\"]After unlocking the Ascension Talent \"Spring Rite of the Chosen One,\" Odette will obtain a special effect when she summons her **Solo Dance Double**.\nEvery stack of **Marvelous Splendor** active increases the character's Stellar Glimmer DMG by 15%. This lasts until her **Dance Double** exits the field or when she summons her **Solo Dance Double** again.\nWhen Odette is off-field, she loses 1 stack of **Marvelous Splendor** every 1 second, while other nearby party members gain the corresponding number of **Marvelous Splendor** stacks at the same time.[/Details]",
+        "img": "Odette/const_0"
+      },
+      {
+        "name": "\"I Must See the Snow Swan's Unseen Dream for Myself, She Thought\"",
+        "desc": "The Ascension Talent \"Spring Rite of the Chosen One\" is enhanced as follows: every stack of **Marvelous Splendor** active also increases the character's ATK by 7%.\nAdditionally, if Odette is in the **Radiance: Stellar Glimmer** state when there is a **Solo Dance Double** on the field, opponents near the **Dance Double** will also have their corresponding Elemental RES lowered by 20%.\n·**Radiance: Stellar-Conduct**: **Cryo** and **Electro**.\n·**Radiance: Stellar Swirl**: **Cryo** and **Anemo**.\n[Details title=\"Marvelous Splendor\"]After unlocking the Ascension Talent \"Spring Rite of the Chosen One,\" Odette will obtain a special effect when she summons her **Solo Dance Double**.\nEvery stack of **Marvelous Splendor** active increases the character's Stellar Glimmer DMG by 15%. This lasts until her **Dance Double** exits the field or when she summons her **Solo Dance Double** again.\nWhen Odette is off-field, she loses 1 stack of **Marvelous Splendor** every 1 second, while other nearby party members gain the corresponding number of **Marvelous Splendor** stacks at the same time.[/Details]\n[Details title=\"Radiance: Stellar Glimmer\"]**Radiance: Stellar-Conduct** and **Radiance: Stellar Swirl** are both considered **Radiance: Stellar Glimmer** states.\nCharacters can only be affected by one Radiance state at any one time, and where more than one state can be triggered, **Radiance: Stellar-Conduct** shall apply first.[/Details]\n[Details title=\"Solo Dance Double\"]A psychic double of Odette's that dances a duet with her. May be summoned to the field through her Elemental Skill or Elemental Burst.\nAlternates between the **Plume** and **Wing** dance moves to periodically attack nearby opponents, dealing **AoE Cryo DMG**.\nA maximum of one **Solo Dance Double** summoned by Odette is allowed on the field at any one time.\n\nAdditionally, when there is a **Dance Double** summoned by Odette nearby, her Elemental Skill **Adagio: Phantom Night Dancers** is changed to the special Elemental Skill **Adagio: Coda at Dawn's Tolling**.[/Details]",
+        "img": "Odette/const_1"
+      },
+      {
+        "name": "\"I'll Chase the Shouting Wind Along, Climbing Alone As I Go\"",
+        "desc": "Increases the Level of **Adagio: Phantom Night Dancers** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Adagio: Phantom Night Dancers\"]With slow, graceful dance steps, Odette deals **AoE Cryo DMG** to the opponent, and also summons her **Solo Dance Double** to the field.\nIf a **Dance Double** summoned by Odette is already on the field, this will re-summon the Dance Double and reset its duration.\n\n**Solo Dance Double**\nAlternates between the **Plume** and **Wing** dance moves, periodically attacking nearby opponents and dealing to them **AoE Cryo DMG**.\nAdditionally, for 6s after unleashing the Elemental Skill **Adagio: Phantom Night Dancers**, Odette's Elemental Skill **Adagio: Phantom Night Dancers** will become the special Elemental Skill **Adagio: Coda at Dawn's Tolling** instead, where a dance duet deals **AoE Cryo DMG** to nearby opponents over time. Then, when the duet ends, she deals another instance of **AoE Cryo DMG** that is considered Stellar-Conduct or Stellar Swirl DMG.[/Details]",
+        "img": "Odette/const_2"
+      },
+      {
+        "name": "\"Up, Up the Long, Delirious, Burning Blue\"",
+        "desc": "The Elemental Burst **Presto: Bluebird Finale** is enhanced as follows: when Odette obtains **Snow Swan's Dream**, Stellar Glimmer reaction DMG dealt by other nearby party members is increased by 50% of **Snow Swan Dream**'s effects.\n\nAdditionally, when a party member deals Stellar Glimmer reaction DMG to an opponent, Odette will also join in with a coordinated attack, dealing an instance of **AoE Cryo DMG**. This effect, which can trigger once every 3.5s, will be considered:\n·**Radiance: Stellar-Conduct** or when not in a Radiance state: Stellar-Conduct reaction DMG at 66% of Odette's ATK.\n·**Radiance: Stellar Swirl**: Stellar Swirl reaction DMG at 99% of Odette's ATK.",
+        "img": "Odette/const_3"
+      },
+      {
+        "name": "\"Oh! I Have Slipped the Surly Bonds of Earth\"",
+        "desc": "Increases the Level of **Presto: Bluebird Finale ** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Presto: Bluebird Finale\"]With quick, lively dance steps, Odette deals multiple instances of **AoE Cryo DMG**, and summons her **Solo Dance Double**. She also gains **Snow Swan's Dream**, which increases the Stellar Glimmer reaction DMG Odette deals.\nAdditionally, for 6s after unleashing the Elemental Burst **Presto: Bluebird Finale**, Odette's Elemental Skill **Adagio: Phantom Night Dancers** will be replaced with the special Elemental Skill **Adagio: Coda at Dawn's Tolling** instead.\n\nIf there is a Solo Dance Double summoned by Odette on the field, it will be summoned to her side with its duration refreshed.[/Details]",
+        "img": "Odette/const_4"
+      },
+      {
+        "name": "\"Put Out My Hand, and Touched the Face of the Divine\"",
+        "desc": "The Ascension Talent \"Spring Rite of the Chosen One\" is enhanced as follows: When Odette grants **Marvelous Splendor** to all nearby party members, her own Marvelous Splendor stacks will no longer decrease.\nAdditionally, characters affected by **Marvelous Splendor** have their Stellar Glimmer reaction DMG dealt to opponents **elevated** by 25%, and Stellar Glimmer reaction DMG dealt by Odette is elevated by an additional 20%.\n[Details title=\"Marvelous Splendor\"]After unlocking the Ascension Talent \"Spring Rite of the Chosen One,\" Odette will obtain a special effect when she summons her **Solo Dance Double**.\nEvery stack of **Marvelous Splendor** active increases the character's Stellar Glimmer DMG by 15%. This lasts until her **Dance Double** exits the field or when she summons her **Solo Dance Double** again.\nWhen Odette is off-field, she loses 1 stack of **Marvelous Splendor** every 1 second, while other nearby party members gain the corresponding number of **Marvelous Splendor** stacks at the same time.[/Details]\n[Details title=\"Elevation\"]Special DMG Boost effect. It is calculated independently of other DMG Boost effects.[/Details]",
+        "img": "Odette/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 866.42883
+        },
+        {
+          "stat": "Base DEF",
+          "value": 52.5312
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.34932
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1482.0493
+        },
+        {
+          "stat": "Base DEF",
+          "value": 89.856
+        },
+        {
+          "stat": "Base ATK",
+          "value": 38.2291
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2302.8767
+        },
+        {
+          "stat": "Base DEF",
+          "value": 139.6224
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.40214
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2918.497
+        },
+        {
+          "stat": "Base DEF",
+          "value": 176.9472
+        },
+        {
+          "stat": "Base ATK",
+          "value": 75.28192
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3534.1177
+        },
+        {
+          "stat": "Base DEF",
+          "value": 214.272
+        },
+        {
+          "stat": "Base ATK",
+          "value": 91.1617
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 100,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4149.7383
+        },
+        {
+          "stat": "Base DEF",
+          "value": 251.5968
+        },
+        {
+          "stat": "Base ATK",
+          "value": 107.04148
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}

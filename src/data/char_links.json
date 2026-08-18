@@ -131,6 +131,10 @@
     "url": "/characters/cryo/mika",
     "elt": "cryo"
   },
+  "odette": {
+    "url": "/characters/cryo/odette",
+    "elt": "cryo"
+  },
   "qiqi": {
     "url": "/characters/cryo/qiqi",
     "elt": "cryo"
@@ -149,6 +153,10 @@
   },
   "skirk": {
     "url": "/characters/cryo/skirk",
+    "elt": "cryo"
+  },
+  "traveler-cryo": {
+    "url": "/characters/cryo/traveler-cryo",
     "elt": "cryo"
   },
   "wriothesley": {
@@ -206,6 +214,10 @@
   "yaoyao": {
     "url": "/characters/dendro/yaoyao",
     "elt": "dendro"
+  },
+  "alyosha": {
+    "url": "/characters/electro/alyosha",
+    "elt": "electro"
   },
   "beidou": {
     "url": "/characters/electro/beidou",

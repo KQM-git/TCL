@@ -997,6 +997,94 @@
       "desc": "Normal Attack and Charged Attack hits increase ATK by **4%**/**5%**/**6%**/**7%**/**8%** and Normal ATK SPD by **1.2%**/**1.5%**/**1.8%**/**2.1%**/**2.4%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
     }
   },
+  "Covenant of Frost and Snow": {
+    "name": "Covenant of Frost and Snow",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "DEF%",
+        "init": 0.1126,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "The Law's Equilibrium",
+      "desc": "For 12s after the equipping character uses an Elemental Skill, their Elemental Mastery is increased by **120**/**150**/**180**/**210**/**240**."
+    }
+  },
   "End of the Line": {
     "name": "End of the Line",
     "weaponType": "Bow",
@@ -1523,6 +1611,94 @@
     "refinements": {
       "name": "Secret Wisdom's Favor",
       "desc": "The character's Elemental Mastery will increase by **40**/**50**/**60**/**70**/**80** within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s."
+    }
+  },
+  "Jade Vista": {
+    "name": "Jade Vista",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "A Candle Woven From the Night",
+      "desc": "For every party member other than the equipping character: · Who is of the same Elemental Type as the equipper: The equipping character's Elemental Mastery is increased by **64**/**80**/**96**/**112**/**128**; · Who is not of the same Elemental Type as the equipper: The equipping character's ATK increases by **12%**/**15%**/**18%**/**21%**/**24%**. The two effects described above can stack up to 3 times in total, with Elemental Mastery buffs applied first."
     }
   },
   "King's Squire": {
@@ -3282,7 +3458,7 @@
     ],
     "refinements": {
       "name": "The Moonring Sighted",
-      "desc": "For 12s after triggering a Swirl reaction, ATK increases by **24%**/**30%**/**36%**/**42%**/**48%**. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by **20%/48%** / **25%/60%** / **30%/72%** / **35%/84%** / **40%/96%** and Elemental Burst DMG dealt is increased by **10%/24%** / **12.5%/30%** / **15%/36%** / **17.5%/42%** / **20%/48%**."
+      "desc": "For 12s after triggering a Swirl or Stellar Swirl reaction, ATK increases by **24%**/**30%**/**36%**/**42%**/**48%**. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by **20%/48%** / **25%/60%** / **30%/72%** / **35%/84%** / **40%/96%**, and Elemental Burst DMG dealt is increased by **10%/24%** / **12.5%/30%** / **15%/36%** / **17.5%/42%** / **20%/48%**."
     }
   },
   "Elegy for the End": {

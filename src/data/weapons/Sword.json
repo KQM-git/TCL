@@ -997,6 +997,94 @@
       "desc": "Elemental Skill DMG is increased by **40%**/**50%**/**60%**/**70%**/**80%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
     }
   },
+  "Emberwell": {
+    "name": "Emberwell",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 36,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Starfire Upon the Snowplains",
+      "desc": "Triggering an Elemental Reaction increases the equipping character's ATK by **16%**/**20%**/**24%**/**28%**/**32%** for 12s. Triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by **16%**/**20%**/**24%**/**28%**/**32%** for 12s. The aforementioned effects can trigger even when the character is not on the field."
+    }
+  },
   "Favonius Sword": {
     "name": "Favonius Sword",
     "weaponType": "Sword",
@@ -1435,6 +1523,94 @@
     "refinements": {
       "name": "Smoke-and-Mirror Mystery",
       "desc": "Using an Elemental Skill increases DEF by **16%**/**20%**/**24%**/**28%**/**32%** for 15s."
+    }
+  },
+  "Heretic's Molten Blade": {
+    "name": "Heretic's Molten Blade",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Lone Light's Blessing",
+      "desc": "After the equipping character uses their Elemental Skill, they gain \"Gleam of First Light.\" While active, Gleam of First Light tracks their distance traveled. Each second, the equipping character gains an ATK Bonus ranging from **18%**/**22.5%**/**27%**/**31.5%**/**36%** to **36%**/**45%**/**54%**/**63%**/**72%** based on the distance traveled during the previous second. Gleam of First Light lasts 14s, can be triggered once every 14s, and is removed when the equipping character leaves the field."
     }
   },
   "Iron Sting": {
@@ -3461,6 +3637,94 @@
       "desc": "Within 12s after an Elemental Skill is used, ATK is increased by **24%**/**30%**/**36%**/**42%**/**48%**. During this time, when the equipping character has 0 Energy, ATK will be further increased by **24%**/**30%**/**36%**/**42%**/**48%**, and CRIT DMG will be increased by **40%**/**50%**/**60%**/**70%**/**80%**."
     }
   },
+  "Exaiphanes Blade": {
+    "name": "Exaiphanes Blade",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.072,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Traveler's Path",
+      "desc": "When the Traveler equips this, their ATK will increase by **16%**/**20%**/**24%**/**32%**/**40%** for **8**/**3**/**5**/**5**/**5**s after they hit an opponent. At the same time, they will also regenerate **3** Elemental Energy. This effect can trigger once every **5**s. This can be triggered even when the character is not on the field."
+    }
+  },
   "Freedom-Sworn": {
     "name": "Freedom-Sworn",
     "weaponType": "Sword",
@@ -4515,6 +4779,94 @@
     "refinements": {
       "name": "Brocade Bloom, Shrine Sword",
       "desc": "Normal Attack DMG is increased by **16%**/**20%**/**24%**/**28%**/**32%** and Elemental Skill DMG is increased by **24%**/**30%**/**36%**/**42%**/**48%**. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by **20%**/**25%**/**30%**/**35%**/**40%**."
+    }
+  },
+  "Whitelake Frostfeather": {
+    "name": "Whitelake Frostfeather",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 47.537,
+        "curve": "ATK 3.2"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.048,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Snow Swan's Finale",
+      "desc": "When the equipping character hits an opponent with their Elemental Skill, they gain \"Lake-Hued Lament\": ATK increases by **8%**/**10%**/**12%**/**14%**/**16%** for 8s. This effect can trigger once every 0.1s. Max 3 stacks, and each stack's duration is independent. At 3 stacks, the CRIT DMG of any Stellar Glimmer reaction DMG caused by the equipping character is increased by **50%**/**65%**/**80%**/**95%**/**110%**, and triggering Stellar Glimmer reactions or Stellar Glimmer reaction DMG will also restore **4**/**4.5**/**5**/**5.5**/**6** Elemental Energy to the character. This Energy recovery effect can trigger once every 3.5s. Can be triggered even when the equipping character is off-field."
     }
   }
 }

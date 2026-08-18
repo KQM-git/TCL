@@ -909,6 +909,94 @@
       "desc": "Bloom DMG is increased by **48%**/**60%**/**72%**/**84%**/**96%**, and Lunar-Bloom DMG is increased by **12%**/**15%**/**18%**/**21%**/**24%**. Moonsign: Ascendant Gleam: Lunar-Bloom DMG is increased by an additional **12%**/**15%**/**18%**/**21%**/**24%**."
     }
   },
+  "Clash of Kings": {
+    "name": "Clash of Kings",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Without Heed for Day nor Night",
+      "desc": "Using an Elemental Skill grants the equipping character \"Laws of the Board,\" which increases their ATK by **20%**/**25%**/**30%**/**35%**/**40%** and their Elemental Mastery by **100**/**125**/**150**/**175**/**200**. This effect lasts 6s and can trigger once every 12s. Does not stack. The duration of this effect will also be extended by 6s if the equipping character hits an opponent with a Charged Attack while it is active. The effect can be extended for max 6s in this way."
+    }
+  },
   "Dawning Frost": {
     "name": "Dawning Frost",
     "weaponType": "Catalyst",
@@ -1083,6 +1171,94 @@
     "refinements": {
       "name": "Dodoventure!",
       "desc": "Normal Attack hits on opponents increase Charged Attack DMG by **16%**/**20%**/**24%**/**28%**/**32%** for 6s. Charged Attack hits on opponents increase ATK by **8%**/**10%**/**12%**/**14%**/**16%** for 6s."
+    }
+  },
+  "Echoes of the Heart": {
+    "name": "Echoes of the Heart",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Echo of a Vow",
+      "desc": "Triggering an Elemental Reaction increases the equipping character's Elemental Mastery by **60**/**75**/**90**/**105**/**120** for 12s, while triggering a Stellar Glimmer reaction increases their Stellar Glimmer reaction DMG dealt by **16%**/**20%**/**24%**/**28%**/**32%** for 12s. The aforementioned effects can trigger even when the character is not on the field."
     }
   },
   "Etherlight Spindlelute": {
@@ -4074,7 +4250,7 @@
     ],
     "refinements": {
       "name": "Bathhouses, Hawks, and Narukami",
-      "desc": "Elemental Mastery increases by **120**/**150**/**180**/**210**/**240** for 6s after triggering Swirl. Elemental Mastery increases by **96**/**120**/**144**/**168**/**192** for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by **32**/**40**/**48**/**56**/**64** for 30s after the wielder's Elemental Burst hits an opponent."
+      "desc": "Elemental Mastery increases by **120**/**150**/**180**/**210**/**240** for 6s after triggering Swirl or Stellar Swirl. Elemental Mastery increases by **96**/**120**/**144**/**168**/**192** for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by **32**/**40**/**48**/**56**/**64** for 30s after the wielder's Elemental Burst hits an opponent."
     }
   },
   "Surf's Up": {

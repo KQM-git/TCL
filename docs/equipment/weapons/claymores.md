@@ -81,6 +81,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <Weapon weapon="Akuoumaru" weapons={claymores} />
 
+### Blade of Atonement
+
+<Weapon weapon="Blade of Atonement" weapons={claymores} />
+
 ### Blackcliff Slasher
 
 <Weapon weapon="Blackcliff Slasher" weapons={claymores}>
@@ -116,6 +120,10 @@ import FavSeries from './\_common/fav_series.md';
 ### Forest Regalia
 
 <Weapon weapon="Forest Regalia" weapons={claymores} />
+
+### Forged by the Golden Melody
+
+<Weapon weapon="Forged by the Golden Melody" weapons={claymores} />
 
 ### Fruitful Hook
 

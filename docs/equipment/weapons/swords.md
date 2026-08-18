@@ -31,6 +31,10 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 </Weapon>
 
+### Exaiphanes Blade
+
+<Weapon weapon="Exaiphanes Blade" weapons={swords} />
+
 ### Freedom-Sworn
 
 <Weapon weapon="Freedom-Sworn" weapons={swords}>
@@ -114,6 +118,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <Weapon weapon="Uraku Misugiri" weapons={swords} />
 
+### Whitelake Frostfeather
+
+<Weapon weapon="Whitelake Frostfeather" weapons={swords} />
+
 ## 4 Stars
 
 ### Amenoma Kageuchi
@@ -147,6 +155,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
   
 </Weapon>
 
+### Emberwell
+
+<Weapon weapon="Emberwell" weapons={swords} />
+
 ### Favonius Sword
 
 <Weapon weapon="Favonius Sword" weapons={swords}>
@@ -172,6 +184,10 @@ import FavSeries from './\_common/fav_series.md';
 ### Flute of Ezpitzal
 
 <Weapon weapon="Flute of Ezpitzal" weapons={swords} />
+
+### Heretic's Molten Blade
+
+<Weapon weapon="Heretic's Molten Blade" weapons={swords} />
 
 ### Iron Sting
 

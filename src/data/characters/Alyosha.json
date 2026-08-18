@@ -1,0 +1,496 @@
+{
+  "name": "Alyosha",
+  "star": 4,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 1002.9701,
+    "attackBase": 22.26,
+    "defenseBase": 58.94175,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Skirmishing Spear",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive spear strikes and applies the **Hunter's Mark** to the opponent hit by the final strike.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents in his path.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\n[Details title=\"Hunter's Mark\"]A special effect Alyosha can apply on the opponent.\nWhen this effect is applied to an opponent who is already under the **Hunter's Mark** effect, it will activate **Hunter's Mark** instead, which removes said mark and grants all nearby party members the **Hunter's Precision** effect, which increases their ATK when they are on the field.[/Details]",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "47.8%",
+              "51.7%",
+              "55.6%",
+              "61.2%",
+              "65.1%",
+              "69.5%",
+              "75.6%",
+              "81.7%",
+              "87.8%",
+              "94.5%",
+              "101.2%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "48.2%",
+              "52.1%",
+              "56.0%",
+              "61.6%",
+              "65.5%",
+              "70.0%",
+              "76.2%",
+              "82.3%",
+              "88.5%",
+              "95.2%",
+              "101.9%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "34.2%+31.8%",
+              "37.0%+34.4%",
+              "39.8%+37.0%",
+              "43.8%+40.7%",
+              "46.6%+43.3%",
+              "49.8%+46.3%",
+              "54.1%+50.3%",
+              "58.5%+54.4%",
+              "62.9%+58.5%",
+              "67.7%+62.9%",
+              "72.4%+67.3%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "75.9%",
+              "82.0%",
+              "88.2%",
+              "97.0%",
+              "103.2%",
+              "110.3%",
+              "120.0%",
+              "129.7%",
+              "139.4%",
+              "149.9%",
+              "160.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "111.0%",
+              "120.1%",
+              "129.1%",
+              "142.0%",
+              "151.0%",
+              "161.4%",
+              "175.6%",
+              "189.8%",
+              "204.0%",
+              "219.5%",
+              "235.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "127.8%/159.7%",
+              "138.2%/172.7%",
+              "148.6%/185.7%",
+              "163.5%/204.2%",
+              "173.9%/217.2%",
+              "185.8%/232.1%",
+              "202.2%/252.5%",
+              "218.5%/272.9%",
+              "234.9%/293.4%",
+              "252.7%/315.6%",
+              "270.5%/337.9%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Thunderbolt Strike",
+        "desc": "Follows his hunter's instincts. Tap or hold to produce different effects as well as apply the **Hunter's Mark** effect to the hit opponents.\n\n**Tapping**\nFires at opponents in front of him, dealing **AoE Electro DMG**.\n\n**Holding**\nEnters aiming mode, then targets opponents within a certain area in front of him. Alyosha's Interruption RES is enhanced when in this mode.\nAt the end of the button hold, he deals **Electro DMG** to the targeted opponents.\n\n**The reckless hunter once reached for the spear's edge, and it was only after they survived a lesson paid in blood that they came to understand the harsh truths of survival on the frozen plains.**\n[Details title=\"Hunter's Mark\"]A special effect Alyosha can apply on the opponent.\nWhen this effect is applied to an opponent who is already under the **Hunter's Mark** effect, it will activate **Hunter's Mark** instead, which removes said mark and grants all nearby party members the **Hunter's Precision** effect, which increases their ATK when they are on the field.[/Details]",
+        "img": "Alyosha/skill_1",
+        "talentTable": [
+          {
+            "name": "Press DMG",
+            "values": [
+              "286.7%",
+              "308.2%",
+              "329.7%",
+              "358.4%",
+              "379.9%",
+              "401.4%",
+              "430.1%",
+              "458.8%",
+              "487.4%",
+              "516.1%",
+              "544.8%",
+              "573.4%",
+              "609.3%"
+            ]
+          },
+          {
+            "name": "Hold DMG",
+            "values": [
+              "358.4%",
+              "385.3%",
+              "412.2%",
+              "448.0%",
+              "474.9%",
+              "501.8%",
+              "537.6%",
+              "573.4%",
+              "609.3%",
+              "645.1%",
+              "681.0%",
+              "716.8%",
+              "761.6%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          },
+          {
+            "name": "Hunter's Mark Duration",
+            "value": "15.0s"
+          },
+          {
+            "name": "Hunter's Precision ATK Bonus",
+            "values": [
+              "11.7%",
+              "12.7%",
+              "13.8%",
+              "14.8%",
+              "15.9%",
+              "17.0%",
+              "18.0%",
+              "19.1%",
+              "20.1%",
+              "21.2%",
+              "22.5%",
+              "23.7%",
+              "25.0%"
+            ]
+          },
+          {
+            "name": "Hunter's Precision Duration",
+            "value": "15.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Hunter's Advance",
+      "desc": "Summons his trusted companion **Tugarin** to fight alongside him on the field. This also turns an area in front of him into a **Fulgurite Hunting Field** for a short time.\n\n**Fulgurite Hunting Field**\n· Continuously taunts nearby opponents to incite them to attack.\n· Every 2s, deals an instance of **AoE Electro DMG** to any opponent that enters the field.\n\n**Tugarin**\n· If there are any opponents nearby, Tugarin will quickly move close to an opponent and maul them every 2s, dealing **Electro DMG**.\n· If an opponent affected by the **Hunter's Mark** effect is hit, the **Hunter's Mark** will also be activated.\n· Where there are multiple opponents, Tugarin will attack those affected by the **Hunter's Mark** effect first.\n\n**Wait. Keep waiting until the impatience fades. That's when the red-bellied plover shall sweep across the birch grove and present itself before one's arrow.**",
+      "img": "Alyosha/ult",
+      "talentTable": [
+        {
+          "name": "Fulgurite Hunting Field DMG",
+          "values": [
+            "75.0%",
+            "80.6%",
+            "86.2%",
+            "93.7%",
+            "99.3%",
+            "104.9%",
+            "112.4%",
+            "119.9%",
+            "127.4%",
+            "134.9%",
+            "142.4%",
+            "149.9%",
+            "159.3%"
+          ]
+        },
+        {
+          "name": "Tugarin DMG",
+          "values": [
+            "50.2%",
+            "54.0%",
+            "57.8%",
+            "62.8%",
+            "66.5%",
+            "70.3%",
+            "75.3%",
+            "80.4%",
+            "85.4%",
+            "90.4%",
+            "95.4%",
+            "100.4%",
+            "106.7%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "14.0s"
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Awakened by the Baying Hounds",
+        "desc": "When **Tugarin** attacks, it will also restore HP to nearby active characters at 120% of Alyosha's ATK.\n[Details title=\"Tugarin\"]Alyosha's trusted hunting hound and companion, which can be summoned to the field using the Elemental Burst **Hunter's Advance**.\nPeriodically moves close to an opponent to maul them, and activate any existing **Hunter's Marks**.[/Details]",
+        "img": "Alyosha/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Suffer the Winter Wheat Will",
+        "desc": "Increases the DMG Alyosha deals with his Elemental Skill and Elemental Burst by 0.35% for every 1% of his Energy Recharge. Up to a 70% increase can be obtained in this way.",
+        "img": "Alyosha/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Into the Fray",
+        "desc": "Alyosha will enter the **Radiance: Stellar-Conduct** state when inside a **Polestar Field**.\n**Radiance: Stellar-Conduct**: The **Hunter's Precision** effect obtained when the **Hunter's Mark** is activated will also increase Stellar-Conduct reaction DMG dealt by the character when on the field by 20%.\n[Details title=\"Polestar Field\"]When Stellar-Conduct is triggered, the surrounding area will transform into a **Polestar Field** for a short period of time, and when inside a Polestar Field, certain characters will enter the **Radiance: Stellar-Conduct** state, which grants various skill buffs.[/Details]\n[Details title=\"Hunter's Mark\"]A special effect Alyosha can apply on the opponent.\nWhen this effect is applied to an opponent who is already under the **Hunter's Mark** effect, it will activate **Hunter's Mark** instead, which removes said mark and grants all nearby party members the **Hunter's Precision** effect, which increases their ATK when they are on the field.[/Details]",
+        "img": "Alyosha/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Treetop Watch",
+        "desc": "Displays the location of nearby **resources unique to Snezhnaya** on the mini-map.",
+        "img": "Alyosha/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Frostvale Thunderclap",
+        "desc": "Alyosha regenerates 15 Elemental Energy when nearby party members trigger an **Electro-related reaction** on an opponent. This effect can trigger once every 18s.",
+        "img": "Alyosha/const_0"
+      },
+      {
+        "name": "Howl From Afar",
+        "desc": "The duration of the Elemental Burst **Hunter's Advance** is extended by 6s.\nAdditionally, each time **Tugarin** attacks the opponent, he will also apply the **Hunter's Mark** to a target. This effect does not activate existing **Hunter's Marks**.\n[Details title=\"Tugarin\"]Alyosha's trusted hunting hound and companion, which can be summoned to the field using the Elemental Burst **Hunter's Advance**.\nPeriodically moves close to an opponent to maul them, and activate any existing **Hunter's Marks**.[/Details]\n[Details title=\"Hunter's Mark\"]A special effect Alyosha can apply on the opponent.\nWhen this effect is applied to an opponent who is already under the **Hunter's Mark** effect, it will activate **Hunter's Mark** instead, which removes said mark and grants all nearby party members the **Hunter's Precision** effect, which increases their ATK when they are on the field.[/Details]",
+        "img": "Alyosha/const_1"
+      },
+      {
+        "name": "Friendly Call",
+        "desc": "Increases the Level of the Elemental Skill **Thunderbolt Strike** by 3.\nMaximum upgrade level is 15.",
+        "img": "Alyosha/const_2"
+      },
+      {
+        "name": "Harvest the Spoils",
+        "desc": "When **Tugarin** attacks, he will also restore 60% of Alyosha's ATK as HP to the nearby party member with the lowest HP by percentage.\n[Details title=\"Tugarin\"]Alyosha's trusted hunting hound and companion, which can be summoned to the field using the Elemental Burst **Hunter's Advance**.\nPeriodically moves close to an opponent to maul them, and activate any existing **Hunter's Marks**.[/Details]",
+        "img": "Alyosha/const_3"
+      },
+      {
+        "name": "When the Nightbird Falls Silent",
+        "desc": "Increases the Level of the Elemental Burst **Hunter's Advance** by 3.\nMaximum upgrade level is 15.",
+        "img": "Alyosha/const_4"
+      },
+      {
+        "name": "Standard Reclaimed",
+        "desc": "The **Hunter's Precision** effect obtained from activating a **Hunter's Mark** can now stack, max 2 stacks. When the stack count reaches 2, characters affected by **Hunter's Precision** will also have their Elemental Mastery increased by 100 if they are on the field.\n[Details title=\"Hunter's Mark\"]A special effect Alyosha can apply on the opponent.\nWhen this effect is applied to an opponent who is already under the **Hunter's Mark** effect, it will activate **Hunter's Mark** instead, which removes said mark and grants all nearby party members the **Hunter's Precision** effect, which increases their ATK when they are on the field.[/Details]",
+        "img": "Alyosha/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 749.27
+        },
+        {
+          "stat": "Base DEF",
+          "value": 44.0325
+        },
+        {
+          "stat": "Base ATK",
+          "value": 16.62975
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1281.6461
+        },
+        {
+          "stat": "Base DEF",
+          "value": 75.31875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 28.445625
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.0667
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1991.4808
+        },
+        {
+          "stat": "Base DEF",
+          "value": 117.03375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.200127
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.1333
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2523.857
+        },
+        {
+          "stat": "Base DEF",
+          "value": 148.32
+        },
+        {
+          "stat": "Base ATK",
+          "value": 56.016
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.1333
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3056.233
+        },
+        {
+          "stat": "Base DEF",
+          "value": 179.60625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 67.83188
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 100,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3588.6091
+        },
+        {
+          "stat": "Base DEF",
+          "value": 210.8925
+        },
+        {
+          "stat": "Base ATK",
+          "value": 79.64775
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.2667
+        }
+      ]
+    }
+  ]
+}

@@ -169,6 +169,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 </Artifact>
 
+### Heart of the Furnace
+
+<Artifact artifact="Heart of the Furnace" />
+
 ### Husk of Opulent Dreams
 
 <Artifact artifact="Husk of Opulent Dreams">
@@ -281,6 +285,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 - The 2-Piece shield strength effect only applies to the character equipping the artifact set, not the character creating the shield.
 
 </Artifact>
+
+### Scarlet Proof
+
+<Artifact artifact="Scarlet Proof" />
 
 ### Scroll of the Hero of Cinder City
 
