@@ -295,10 +295,6 @@
     "url": "/characters/electro/varesa",
     "elt": "electro"
   },
-  "vodyanitsa": {
-    "url": "/characters/electro/vodyanitsa",
-    "elt": "electro"
-  },
   "yae-miko": {
     "url": "/characters/electro/yae-miko",
     "elt": "electro"
@@ -421,6 +417,10 @@
   },
   "traveler-hydro": {
     "url": "/characters/hydro/traveler-hydro",
+    "elt": "hydro"
+  },
+  "vodyanitsa": {
+    "url": "/characters/hydro/vodyanitsa",
     "elt": "hydro"
   },
   "xingqiu": {
