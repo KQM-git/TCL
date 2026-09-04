@@ -59,6 +59,10 @@
     "url": "/characters/anemo/venti",
     "elt": "anemo"
   },
+  "vesna": {
+    "url": "/characters/anemo/vesna",
+    "elt": "anemo"
+  },
   "wanderer": {
     "url": "/characters/anemo/wanderer",
     "elt": "anemo"
@@ -289,6 +293,10 @@
   },
   "varesa": {
     "url": "/characters/electro/varesa",
+    "elt": "electro"
+  },
+  "vodyanitsa": {
+    "url": "/characters/electro/vodyanitsa",
     "elt": "electro"
   },
   "yae-miko": {
