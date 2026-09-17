@@ -1471,6 +1471,26 @@ This set can be viable for characters who can snapshot even without Burning, if 
 
 ---
 
+## Scroll of the Hero of Cinder City
+[Basic Mechanics](https://tickets.deeznuts.moe/transcripts/5-0-equipment-basic-mechanics)
+
+- Shatter does not count as a reaction for triggering 4p Scroll. - [YouTube](https://youtu.be/FB8N4OUxseg) - @laynnea
+- When a Scroll holder trigger multiple reactions, they can grant DMG% to all involved elements, but each element can only receive one instance of DMG% increase. - [YouTube](https://youtu.be/KC2vsqB9whY) - @acerbus114
+  - When multiple Scroll holders trigger multiple reactions, they can grant DMG% to all involved elements, but each element can only receive one instance of DMG% increase. - [YouTube](https://youtu.be/Cpx-tATYsb8) - @acerbus114
+- Triggering the set again refreshes duration. - [YouTube](https://youtu.be/2hjpStBkqb0) - @acerbus114
+- The two different buffs have separate durations. - [YouTube](https://youtu.be/YhqhS7GWIIQ) - @acerbus114
+- Buffs provided on various dendro reactions - @acerbus114
+  - Quicken: Electro and Dendro - [YouTube](https://youtu.be/Hwtl2zKTZn4)
+  - Aggravate: Electro and Dendro - [YouTube](https://youtu.be/_whtH5BjV00)
+  - Spread: Only Dendro - [YouTube](https://youtu.be/_whtH5BjV00)
+  - Hyperbloom: Electro and Dendro - [YouTube](https://youtu.be/msEhD15ffGk)
+  - Burgeon: Pyro and Dendro - [YouTube](https://youtu.be/msEhD15ffGk)
+- Scroll does require the reaction to include the character's element. Using external infusions does not make more buffs possible - [YouTube](https://youtu.be/DtOl5zCaF2I) [2](https://youtu.be/Cvsi8FV_PlQ) [3](https://youtu.be/x9njM3tG9b4)
+- Scroll does not trigger with reactions on most non-enemy entities - [Overworld water](https://youtu.be/M4Bpe-LYX0Y) [Flaming flower](https://youtu.be/4zGi-M_65Yc) [Self Vape](https://youtu.be/w6kYQzXy1ZI) [Weapon Swirl](https://youtu.be/GcLO4ZQNRt4)
+
+
+---
+
 ## Shimenawa's Reminiscence
 
 ### The buff gained and Energy drain can not reoccur if effect has been activated.

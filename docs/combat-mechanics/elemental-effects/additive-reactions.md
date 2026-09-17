@@ -45,9 +45,13 @@ Spread is a second-stage Additive Reaction triggered by applying Dendro to a Qui
 
 A Dendro attack can trigger both Quicken and Spread at the same time if the enemy already has a Quicken and Electro aura.
 
+Spread counts as a reaction with Dendro alone for the purposes of triggering set effects such as [4pc Scroll](../../evidence/equipment/artifacts.md#scroll-of-the-hero-of-cinder-city)
+
 ## Aggravate
 
 Aggravate is a second-stage Additive Reaction triggered by applying Electro to a Quicken aura, dealing Electro DMG. It is calculated in the same way as Spread, but with 1.15 as the Reaction Multiplier as opposed to 1.25 like Spread. The reaction itself does not have an ICD, so how often it can be triggered depends on the ICD of the Electro attack that triggers it.
+
+Aggravate counts as an Electro/Dendro reaction for the purposes of triggering set effects such as [4pc Scroll](../../evidence/equipment/artifacts.md#scroll-of-the-hero-of-cinder-city)
 
 ## Evidence Vault
 

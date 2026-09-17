@@ -292,7 +292,16 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Scroll of the Hero of Cinder City
 
-<Artifact artifact="Scroll of the Hero of Cinder City" />
+<Artifact artifact="Scroll of the Hero of Cinder City">
+
+- Both buff timers are counted independently.
+- Triggering the set refreshes the buffs.
+- Multiple characters can hold Scroll, and one character can buff multiple elements, but any single element can only receive a buff once.
+- Scroll only triggers with reactions on enemies and not on characters, weapons, the environment, etc.
+- Only reactions that include the character's element can be buffed, it's not possible to access other buffs via external infusions.
+- Shatter does not count as a reaction.
+
+</Artifact>
 
 ### Shimenawa's Reminiscence
 
