@@ -31,6 +31,10 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 </Weapon>
 
+### Beyond the Chrysalis
+
+<Weapon weapon="Beyond the Chrysalis" weapons={swords} />
+
 ### Exaiphanes Blade
 
 <Weapon weapon="Exaiphanes Blade" weapons={swords} />
@@ -215,6 +219,10 @@ import BaneSeries from './\_common/bane_series.md';
 
 <Weapon weapon="Moonweaver's Dawn" weapons={swords} />
 
+### New Bough
+
+<Weapon weapon="New Bough" weapons={swords} />
+
 ### Prototype Rancour
 
 <Weapon weapon="Prototype Rancour" weapons={swords} />
@@ -246,6 +254,10 @@ import SacSeries from './\_common/sac_series.md';
 ### Serenity's Call
 
 <Weapon weapon="Serenity's Call" weapons={swords} />
+
+### Silver Light
+
+<Weapon weapon="Silver Light" weapons={swords} />
 
 ### Sturdy bone
 

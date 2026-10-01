@@ -733,6 +733,94 @@
       "desc": "After defeating an enemy, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
     }
   },
+  "Breezeborne Refrain": {
+    "name": "Breezeborne Refrain",
+    "weaponType": "Bow",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Viper's Ballad",
+      "desc": "Increases Energy Recharge by **20%**/**25%**/**30%**/**35%**/**40%**. When the equipping character hits the opponent with their Elemental Skill or Elemental Burst, they gain a stack of \"Hymn of the Pure.\" This effect can trigger once every 0.03s, max 3 stacks, and at 3 stacks, all instances of \"Hymn of the Pure\" are cleared to give the equipping character \"Thus Lied the Viper\" instead. This grants nearby party members a **24%**/**30%**/**36%**/**42%**/**48%** Stellar Glimmer reaction DMG boost for 12s, during which no stacks of \"Hymn of the Pure\" can be obtained. The aforementioned effects can still trigger even when the equipping character is not on the field."
+    }
+  },
   "Chain Breaker": {
     "name": "Chain Breaker",
     "weaponType": "Bow",

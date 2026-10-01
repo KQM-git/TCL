@@ -29,6 +29,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Everlasting Moonglow" weapons={catalysts} />
 
+### Hymn of the Maelstrom
+
+<Weapon weapon="Hymn of the Maelstrom" weapons={catalysts} />
+
 ### Jadefall's Splendor
 
 <Weapon weapon="Jadefall's Splendor" weapons={catalysts} />
@@ -278,6 +282,10 @@ import SacSeries from './\_common/sac_series.md';
 ### Wine and Song
 
 <Weapon weapon="Wine and Song" weapons={catalysts} />
+
+### Winter's Heavy Heart
+
+<Weapon weapon="Winter's Heavy Heart" weapons={catalysts} />
 
 ## 3 Stars
 

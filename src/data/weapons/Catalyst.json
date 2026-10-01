@@ -2933,6 +2933,94 @@
       "desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by **14%**/**16%**/**18%**/**20%**/**22%** for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **20%**/**25%**/**30%**/**35%**/**40%** for 5s."
     }
   },
+  "Winter's Heavy Heart": {
+    "name": "Winter's Heavy Heart",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Secrets of Frost",
+      "desc": "The equipping character gains \"Silver-Tinged Blood Pact\": The equipping character's Elemental Mastery is increased by **24**/**30**/**36**/**42**/**48** for every Cryo character present in the party. For every Electro character present in the party, the equipping character's ATK is increased by **4.8%**/**6%**/**7.2%**/**8.4%**/**9.6%**. Up to 4 Cryo or Electro characters can provide the above buffs.\nRadiance: Stellar Glimmer: The effect of Silver-Tinged Blood Pact is changed to: For every Cryo or Electro character present in the party, the equipping character gains a **20**/**25**/**30**/**35**/**40**-point Elemental Mastery boost and deals **6%**/**7.5%**/**9%**/**10.5%**/**12%** increased Stellar Glimmer reaction DMG."
+    }
+  },
   "A Thousand Floating Dreams": {
     "name": "A Thousand Floating Dreams",
     "weaponType": "Catalyst",
@@ -3371,6 +3459,94 @@
     "refinements": {
       "name": "Byakuya Kougetsu",
       "desc": "Healing Bonus increased by **10%**/**12.5%**/**15%**/**17.5%**/**20%**, Normal Attack DMG is increased by **1%**/**1.5%**/**2%**/**2.5%**/**3%** of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s."
+    }
+  },
+  "Hymn of the Maelstrom": {
+    "name": "Hymn of the Maelstrom",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.144,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Rondo of Slumber",
+      "desc": "Increases Healing Bonus by **4%**/**5%**/**6%**/**7%**/**8%**.\nWhen performing healing, the equipping character gains the \"Vatsamonga's Vatic Vintage\" effect, which increases Max HP by **4%**/**5%**/**6%**/**7%**/**8%** as well as increases the currently active party member's ATK by **0.4%**/**0.5%**/**0.6%**/**0.7%**/**0.8%** for every 1,000 Max HP the equipping character has over 40,000. A maximum of **8%**/**10%**/**12%**/**14%**/**16%** ATK can be gained in this way. This effect lasts 10s, max 3 stacks.\nWhen a nearby party member triggers a Frozen or Stellar Swirl reaction, the aforementioned Max HP and ATK boosts will be further increased by 75% for the next 5s.\nThe aforementioned effects can still trigger even when the equipping character is not on the field."
     }
   },
   "Jadefall's Splendor": {

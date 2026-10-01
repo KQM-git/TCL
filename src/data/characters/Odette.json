@@ -409,7 +409,7 @@
       },
       {
         "name": "Echo of Winter Daydreams",
-        "desc": "Shows the locations of **Snezhnaya's Local Specialties** on the mini-map.\nPracticing dance in one's spare time might even trigger other effects...",
+        "desc": "Shows the locations of **Snezhnaya's Local Specialties** on the mini-map, and this effect also applies in the Shadow Realm.\nPracticing dance in one's spare time might even trigger other effects...",
         "img": "Odette/passive_3",
         "minAscension": 0
       }

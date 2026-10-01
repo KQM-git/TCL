@@ -1,0 +1,646 @@
+{
+  "name": "Vesna",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1032.4456,
+    "attackBase": 27.5576,
+    "defenseBase": 56.8385,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Vila Blade Dance",
+        "desc": "**Normal Attack**\nPerforms up to 6 consecutive strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to trample opponents in front of her.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along her path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "40.4%",
+              "43.7%",
+              "47.0%",
+              "51.7%",
+              "55.0%",
+              "58.8%",
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "79.9%",
+              "85.5%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "48.7%",
+              "52.6%",
+              "56.6%",
+              "62.3%",
+              "66.2%",
+              "70.8%",
+              "77.0%",
+              "83.2%",
+              "89.4%",
+              "96.2%",
+              "103.0%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "28.1%×2",
+              "30.4%×2",
+              "32.7%×2",
+              "35.9%×2",
+              "38.2%×2",
+              "40.8%×2",
+              "44.4%×2",
+              "48.0%×2",
+              "51.6%×2",
+              "55.5%×2",
+              "59.4%×2"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "59.2%",
+              "64.0%",
+              "68.8%",
+              "75.7%",
+              "80.5%",
+              "86.0%",
+              "93.6%",
+              "101.1%",
+              "108.7%",
+              "117.0%",
+              "125.2%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "62.4%",
+              "67.5%",
+              "72.6%",
+              "79.9%",
+              "84.9%",
+              "90.8%",
+              "98.7%",
+              "106.7%",
+              "114.7%",
+              "123.4%",
+              "132.1%"
+            ]
+          },
+          {
+            "name": "6-Hit DMG",
+            "values": [
+              "72.2%",
+              "78.1%",
+              "84.0%",
+              "92.4%",
+              "98.3%",
+              "105.0%",
+              "114.2%",
+              "123.5%",
+              "132.7%",
+              "142.8%",
+              "152.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "133.0%",
+              "143.9%",
+              "154.7%",
+              "170.2%",
+              "181.0%",
+              "193.4%",
+              "210.4%",
+              "227.4%",
+              "244.4%",
+              "263.0%",
+              "281.6%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Art of Victory",
+        "desc": "Calls forth Spirit Blades passed down through generations of the Vila to deal **AoE Anemo DMG**, then switches to the **Armed for Action** mode and gains 2 stacks of **Sword Essence**.\n\n**Armed for Action**\nDMG dealt by Vesna with her Normal Attacks, Charged Attacks, and Plunging Attacks become **Anemo DMG** that cannot be overridden by another elemental infusion instead. She will also summon a wind pinion that attacks the opponent at the same time, dealing additional **Anemo DMG**. Each time the wind pinion is summoned, Vesna will regenerate a certain amount of **Sword Essence**.\nVesna can consume **Sword Essence** to unleash the special Elemental Skill **Windborne Sword**, which deals to the opponent **Anemo DMG**.\nEach use of the special Elemental Skill **Windborne Sword** in the same instance of **Armed for Action** will increase the level of **Windborne Sword**, beginning from Lv. 1 to Lv. 3 max, for more **Anemo DMG**. Using **Windborne Sword** at Lv. 2 and Lv. 3 will also summon **Spirit Blades** which deal **Anemo DMG**.\nVesna will exit the mode when its duration ends or when she has used **Windborne Sword** at the highest level 3 times. Exiting will clear all remaining **Sword Essence** she has accrued.\nAdditionally, when in this mode, Vesna's resistance to interruption is increased.\n**Radiance: Stellar Swirl**: DMG dealt with the **Spirit Blades** becomes **Anemo DMG** that is also considered Stellar Swirl reaction DMG.\n[Details title=\"Armed for Action\"]Vesna switches to this mode after using the Elemental Skill **The Art of Victory**. In this mode, which lasts up to 15s:\n· Vesna's resistance to interruption is increased.\n· DMG dealt by Vesna with her Normal Attacks, Charged Attacks, and Plunging Attacks becomes **Anemo DMG** that cannot be overridden by another elemental infusion instead. She will also summon a wind pinion that attacks the opponent at the same time, dealing additional **Anemo DMG**. Each time the wind pinion is summoned, Vesna will regenerate a certain amount of **Sword Essence**.\n· Vesna can consume **Sword Essence** to unleash the special Elemental Skill **Windborne Sword**, which deals **Anemo DMG** to her opponents.\n· Vesna will exit the mode when its duration ends or after she has used **Windborne Sword** at the highest level 3 times. Exiting will clear all remaining **Sword Essence** she has accrued.[/Details]\n[Details title=\"Sword Essence\"]The energy required to use the special Elemental Skill **Windborne Sword**while in the **Armed for Action** mode.\nVesna can accumulate Sword Essence in the following ways:\n· By performing a Normal Attack, Charged Attack, or Plunging attack while in the **Armed for Action** mode, or by unleashing **Windborne Sword: Transpose** from the Constellation **Unwavering Ardor**; \n· By using the Elemental Skill **The Art of Victory**; or\n· By using the Elemental Burst **For the Tsaritsa!**[/Details]\n[Details title=\"Windborne Sword\"]When in the **Armed for Action** mode, Vesna can consume **Sword Essence** to use her special Elemental Skill to deal **Anemo DMG**.\nEach use of the special Elemental Skill **Windborne Sword** in the same instance of **Armed for Action** will increase the level of **Windborne Sword**, beginning from Lv. 1, up to Lv. 3 max.\nUsing **Windborne Sword** at Lv. 2 and Lv. 3 will also summon a **Spirit Blade** which deals **Anemo DMG**.[/Details]\n[Details title=\"Spirit Blade\"]A weapon with special power that Vesna can summon. Attacks the opponent alongside Vesna to deal **Anemo DMG**.\nVesna can summon Spirit Blades through the following ways:\n· By unleashing the special Elemental Skill **Windborne Sword** at Lv. 2 and Lv. 3;\n· By using the Elemental Burst **For the Tsaritsa!**; or\n· By using **Windborne Sword·: Transpose** in the Constellation **Unwavering Ardor**.\n\n**Radiance: Stellar Swirl**: DMG dealt by the **Spirit Blades** become **Anemo DMG** that is considered Stellar Swirl reaction DMG instead.[/Details]",
+        "img": "Vesna/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "40.0%",
+              "43.0%",
+              "46.0%",
+              "50.0%",
+              "53.0%",
+              "56.0%",
+              "60.0%",
+              "64.0%",
+              "68.0%",
+              "72.0%",
+              "76.0%",
+              "80.0%",
+              "85.0%"
+            ]
+          },
+          {
+            "name": "Windborne Sword Lv. 1 DMG",
+            "values": [
+              "40.0%",
+              "43.0%",
+              "46.0%",
+              "50.0%",
+              "53.0%",
+              "56.0%",
+              "60.0%",
+              "64.0%",
+              "68.0%",
+              "72.0%",
+              "76.0%",
+              "80.0%",
+              "85.0%"
+            ]
+          },
+          {
+            "name": "Windborne Sword Lv. 2 DMG",
+            "values": [
+              "60.0%",
+              "64.5%",
+              "69.0%",
+              "75.0%",
+              "79.5%",
+              "84.0%",
+              "90.0%",
+              "96.0%",
+              "102.0%",
+              "108.0%",
+              "114.0%",
+              "120.0%",
+              "127.5%"
+            ]
+          },
+          {
+            "name": "Windborne Sword Lv. 2 Spirit Blade DMG",
+            "values": [
+              "112.0%",
+              "120.4%",
+              "128.8%",
+              "140.0%",
+              "148.4%",
+              "156.8%",
+              "168.0%",
+              "179.2%",
+              "190.4%",
+              "201.6%",
+              "212.8%",
+              "224.0%",
+              "238.0%"
+            ]
+          },
+          {
+            "name": "Windborne Sword Lv. 3 Spirit Blade DMG",
+            "values": [
+              "44.8% ×4",
+              "48.2% ×4",
+              "51.5% ×4",
+              "56.0% ×4",
+              "59.4% ×4",
+              "62.7% ×4",
+              "67.2% ×4",
+              "71.7% ×4",
+              "76.2% ×4",
+              "80.6% ×4",
+              "85.1% ×4",
+              "89.6% ×4",
+              "95.2% ×4"
+            ]
+          },
+          {
+            "name": "Windborne Sword Lv. 3 Spirit Blade Final Hit DMG",
+            "values": [
+              "156.8%",
+              "168.6%",
+              "180.3%",
+              "196.0%",
+              "207.8%",
+              "219.5%",
+              "235.2%",
+              "250.9%",
+              "266.6%",
+              "282.2%",
+              "297.9%",
+              "313.6%",
+              "333.2%"
+            ]
+          },
+          {
+            "name": "Windborne Sword Lv. 2 Spirit Blade Stellar Swirl DMG",
+            "values": [
+              "112.0%",
+              "120.4%",
+              "128.8%",
+              "140.0%",
+              "148.4%",
+              "156.8%",
+              "168.0%",
+              "179.2%",
+              "190.4%",
+              "201.6%",
+              "212.8%",
+              "224.0%",
+              "238.0%"
+            ]
+          },
+          {
+            "name": "Windborne Sword Lv. 3 Spirit Blade Stellar Swirl DMG",
+            "values": [
+              "44.8% ×4",
+              "48.2% ×4",
+              "51.5% ×4",
+              "56.0% ×4",
+              "59.4% ×4",
+              "62.7% ×4",
+              "67.2% ×4",
+              "71.7% ×4",
+              "76.2% ×4",
+              "80.6% ×4",
+              "85.1% ×4",
+              "89.6% ×4",
+              "95.2% ×4"
+            ]
+          },
+          {
+            "name": "Windborne Sword Lv. 3 Spirit Blade Final Hit Stellar Swirl DMG",
+            "values": [
+              "156.8%",
+              "168.6%",
+              "180.3%",
+              "196.0%",
+              "207.8%",
+              "219.5%",
+              "235.2%",
+              "250.9%",
+              "266.6%",
+              "282.2%",
+              "297.9%",
+              "313.6%",
+              "333.2%"
+            ]
+          },
+          {
+            "name": "Wind Pinion DMG",
+            "values": [
+              "10.4%",
+              "11.2%",
+              "12.0%",
+              "13.0%",
+              "13.8%",
+              "14.6%",
+              "15.6%",
+              "16.6%",
+              "17.7%",
+              "18.7%",
+              "19.8%",
+              "20.8%",
+              "22.1%"
+            ]
+          },
+          {
+            "name": "Armed for Action Duration",
+            "value": "15.0s"
+          },
+          {
+            "name": "CD",
+            "value": "18.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "For the Tsaritsa!",
+      "desc": "Summons multiple **Spirit Blades**, dealing **AoE Anemo DMG**. Also gains a stack of **Sword Essence**.\n[Details title=\"Spirit Blade\"]A weapon with special power that Vesna can summon. Attacks the opponent alongside Vesna to deal **Anemo DMG**.\nVesna can summon Spirit Blades through the following ways:\n· By unleashing the special Elemental Skill **Windborne Sword** at Lv. 2 and Lv. 3;\n· By using the Elemental Burst **For the Tsaritsa!**; or\n· By using **Windborne Sword·: Transpose** in the Constellation **Unwavering Ardor**.\n\n**Radiance: Stellar Swirl**: DMG dealt by the **Spirit Blades** become **Anemo DMG** that is considered Stellar Swirl reaction DMG instead.[/Details]\n[Details title=\"Sword Essence\"]The energy required to use the special Elemental Skill **Windborne Sword**while in the **Armed for Action** mode.\nVesna can accumulate Sword Essence in the following ways:\n· By performing a Normal Attack, Charged Attack, or Plunging attack while in the **Armed for Action** mode, or by unleashing **Windborne Sword: Transpose** from the Constellation **Unwavering Ardor**; \n· By using the Elemental Skill **The Art of Victory**; or\n· By using the Elemental Burst **For the Tsaritsa!**[/Details]",
+      "img": "Vesna/ult",
+      "talentTable": [
+        {
+          "name": "Spirit Blade DMG",
+          "values": [
+            "263.2%",
+            "282.9%",
+            "302.7%",
+            "329.0%",
+            "348.7%",
+            "368.5%",
+            "394.8%",
+            "421.1%",
+            "447.4%",
+            "473.8%",
+            "500.1%",
+            "526.4%",
+            "559.3%"
+          ]
+        },
+        {
+          "name": "Spirit Blade Stellar Swirl DMG",
+          "values": [
+            "263.2%",
+            "282.9%",
+            "302.7%",
+            "329.0%",
+            "348.7%",
+            "368.5%",
+            "394.8%",
+            "421.1%",
+            "447.4%",
+            "473.8%",
+            "500.1%",
+            "526.4%",
+            "559.3%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Anemo"
+    },
+    "passive": [
+      {
+        "name": "Rite of Spring's Procession",
+        "desc": "After Vesna uses the special Elemental Skill **Windborne Sword** or the Elemental Burst **For the Tsaritsa!**, she also gains 1 stack of **Disciplinary Action** which lasts 20s. Max 6 stacks, and the duration of each stack is independent of the others'.\nWhen she has **Disciplinary Action** stacks active, the **Spirit Blades** summoned by Vesna will deal DMG equal to (100% + 10% × Disciplinary Action stack count) of the original DMG instead. All active stacks of **Disciplinary Action** are cleared when Vesna uses the Elemental Skill **The Art of Victory** or when she leaves the field.\n[Details title=\"Windborne Sword\"]When in the **Armed for Action** mode, Vesna can consume **Sword Essence** to use her special Elemental Skill to deal **Anemo DMG**.\nEach use of the special Elemental Skill **Windborne Sword** in the same instance of **Armed for Action** will increase the level of **Windborne Sword**, beginning from Lv. 1, up to Lv. 3 max.\nUsing **Windborne Sword** at Lv. 2 and Lv. 3 will also summon a **Spirit Blade** which deals **Anemo DMG**.[/Details]\n[Details title=\"For the Tsaritsa!\"]Summons multiple **Spirit Blades**, dealing **AoE Anemo DMG**. Also gains a stack of **Sword Essence**.[/Details]\n[Details title=\"Spirit Blade\"]A weapon with special power that Vesna can summon. Attacks the opponent alongside Vesna to deal **Anemo DMG**.\nVesna can summon Spirit Blades through the following ways:\n· By unleashing the special Elemental Skill **Windborne Sword** at Lv. 2 and Lv. 3;\n· By using the Elemental Burst **For the Tsaritsa!**; or\n· By using **Windborne Sword·: Transpose** in the Constellation **Unwavering Ardor**.\n\n**Radiance: Stellar Swirl**: DMG dealt by the **Spirit Blades** become **Anemo DMG** that is considered Stellar Swirl reaction DMG instead.[/Details]",
+        "img": "Vesna/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Truth Prevails",
+        "desc": "**Radiance: Stellar Swirl**: Vesna will gain the corresponding effect based on the Elemental Type of her party members: \n· For every **Cryo** or **Anemo** character in her current party, Vesna's ATK increases by 6%; and\n· For every character of all other Elemental Types in her current party, Vesna's Elemental Mastery increases by 25 instead.",
+        "img": "Vesna/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Stellar Jubilee: Splendid Prelude",
+        "desc": "When party members trigger Cryo Swirl, it will be changed to a Stellar Swirl reaction, and party members' Base DMG for the Stellar Swirl will be increased based on Vesna's ATK. Every 100 ATK she has increases the Base Stellar Swirl DMG by 0.7%. The maximum DMG increase that can be gained this way is 14%.\nAfter a party member triggers a Stellar Swirl reaction nearby, Vesna enters the **Radiance: Stellar Swirl** state for 8s.",
+        "img": "Vesna/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "The Grand Circuit",
+        "desc": "Holding on Sprint or Jump when Vesna is not in combat will cause her to enter the **Coursing** state.\n\n**Coursing**\nContinuously consumes Stamina to hover in mid-air. Sprinting or tapping Jump to go higher expends additional Stamina. Including the hold on Jump that triggers **Coursing**, Vesna can go higher up to 3 times in each instance of the **Coursing** state.\n\nAdditionally, in Snezhnaya (excluding Nod-Krai), when Vesna is switched onto the field while the currently active party member is in mid-air and not in combat, she will immediately enter the **Coursing** state and regenerate 50 Stamina. This effect can trigger once every 10s, and does not take effect in Domains, Trounce Domains, or the Spiral Abyss.",
+        "img": "Vesna/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Winter's Farewell Feast",
+        "desc": "When in the **Armed for Action** mode, Vesna can unleash **Windborne Sword** at the highest level 4 times instead of 3. Also, each time she enters the **Armed for Action** mode, she will not consume **Sword Essence** the first time she uses **Windborne Sword** at the highest level.\nAdditionally, Vesna deals 20% increased Stellar Swirl reaction DMG when in the **Armed for Action** mode.\n[Details title=\"Armed for Action\"]Vesna switches to this mode after using the Elemental Skill **The Art of Victory**. In this mode, which lasts up to 15s:\n· Vesna's resistance to interruption is increased.\n· DMG dealt by Vesna with her Normal Attacks, Charged Attacks, and Plunging Attacks becomes **Anemo DMG** that cannot be overridden by another elemental infusion instead. She will also summon a wind pinion that attacks the opponent at the same time, dealing additional **Anemo DMG**. Each time the wind pinion is summoned, Vesna will regenerate a certain amount of **Sword Essence**.\n· Vesna can consume **Sword Essence** to unleash the special Elemental Skill **Windborne Sword**, which deals **Anemo DMG** to her opponents.\n· Vesna will exit the mode when its duration ends or after she has used **Windborne Sword** at the highest level 3 times. Exiting will clear all remaining **Sword Essence** she has accrued.[/Details]\n[Details title=\"Windborne Sword\"]When in the **Armed for Action** mode, Vesna can consume **Sword Essence** to use her special Elemental Skill to deal **Anemo DMG**.\nEach use of the special Elemental Skill **Windborne Sword** in the same instance of **Armed for Action** will increase the level of **Windborne Sword**, beginning from Lv. 1, up to Lv. 3 max.\nUsing **Windborne Sword** at Lv. 2 and Lv. 3 will also summon a **Spirit Blade** which deals **Anemo DMG**.[/Details]\n[Details title=\"Sword Essence\"]The energy required to use the special Elemental Skill **Windborne Sword**while in the **Armed for Action** mode.\nVesna can accumulate Sword Essence in the following ways:\n· By performing a Normal Attack, Charged Attack, or Plunging attack while in the **Armed for Action** mode, or by unleashing **Windborne Sword: Transpose** from the Constellation **Unwavering Ardor**; \n· By using the Elemental Skill **The Art of Victory**; or\n· By using the Elemental Burst **For the Tsaritsa!**[/Details]",
+        "img": "Vesna/const_0"
+      },
+      {
+        "name": "Kolo of Spring's Arrival",
+        "desc": "The Ascension Talent **Rite of Spring's Procession** is enhanced: Vesna gains the maximum number of **Disciplinary Action** stacks when she enters **Armed for Action** mode. Vesna's ATK is increased by 40% when she has maximum **Disciplinary Action** stacks.\nYou must unlock the Ascension Talent \"Rite of Spring's Procession\" to gain access to the above effects.\n[Details title=\"Rite of Spring's Procession\"]After Vesna uses the special Elemental Skill **Windborne Sword** or the Elemental Burst **For the Tsaritsa!**, she also gains 1 stack of **Disciplinary Action** which lasts 20s. Max 6 stacks, and the duration of each stack is independent of the others'.\nWhen she has **Disciplinary Action** stacks active, the **Spirit Blades** summoned by Vesna will deal DMG equal to (100% + 10% × Disciplinary Action stack count) of the original DMG instead. All active stacks of **Disciplinary Action** are cleared when Vesna uses the Elemental Skill **The Art of Victory** or when she leaves the field.[/Details]\n[Details title=\"Armed for Action\"]Vesna switches to this mode after using the Elemental Skill **The Art of Victory**. In this mode, which lasts up to 15s:\n· Vesna's resistance to interruption is increased.\n· DMG dealt by Vesna with her Normal Attacks, Charged Attacks, and Plunging Attacks becomes **Anemo DMG** that cannot be overridden by another elemental infusion instead. She will also summon a wind pinion that attacks the opponent at the same time, dealing additional **Anemo DMG**. Each time the wind pinion is summoned, Vesna will regenerate a certain amount of **Sword Essence**.\n· Vesna can consume **Sword Essence** to unleash the special Elemental Skill **Windborne Sword**, which deals **Anemo DMG** to her opponents.\n· Vesna will exit the mode when its duration ends or after she has used **Windborne Sword** at the highest level 3 times. Exiting will clear all remaining **Sword Essence** she has accrued.[/Details]",
+        "img": "Vesna/const_1"
+      },
+      {
+        "name": "Winter's Last Offering",
+        "desc": "Increases the Level of the Elemental Skill **The Art of Victory** by 3.\nMaximum upgrade level is 15.\n[Details title=\"The Art of Victory\"]Calls forth Spirit Blades passed down through generations of the Vila to deal **AoE Anemo DMG**, then switches to the **Armed for Action** mode and gains 2 stacks of **Sword Essence**.\n\n**Armed for Action**\nDMG dealt by Vesna with her Normal Attacks, Charged Attacks, and Plunging Attacks become **Anemo DMG** that cannot be overridden by another elemental infusion instead. She will also summon a wind pinion that attacks the opponent at the same time, dealing additional **Anemo DMG**. Each time the wind pinion is summoned, Vesna will regenerate a certain amount of **Sword Essence**.\nVesna can consume **Sword Essence** to unleash the special Elemental Skill **Windborne Sword**, which deals to the opponent **Anemo DMG**.\nEach use of the special Elemental Skill **Windborne Sword** in the same instance of **Armed for Action** will increase the level of **Windborne Sword**, beginning from Lv. 1 to Lv. 3 max, for more **Anemo DMG**. Using **Windborne Sword** at Lv. 2 and Lv. 3 will also summon **Spirit Blades** which deal **Anemo DMG**.\nVesna will exit the mode when its duration ends or when she has used **Windborne Sword** at the highest level 3 times. Exiting will clear all remaining **Sword Essence** she has accrued.\nAdditionally, when in this mode, Vesna's resistance to interruption is increased.\n**Radiance: Stellar Swirl**: DMG dealt with the **Spirit Blades** becomes **Anemo DMG** that is also considered Stellar Swirl reaction DMG.[/Details]",
+        "img": "Vesna/const_2"
+      },
+      {
+        "name": "Glory to Our Forebears",
+        "desc": "The Ascension Talent **Truth Prevails** is enhanced: Its ATK and Elemental Mastery bonuses increase to 3 times their original values.\n[Details title=\"Truth Prevails\"]**Radiance: Stellar Swirl**: Vesna will gain the corresponding effect based on the Elemental Type of her party members: \n· For every **Cryo** or **Anemo** character in her current party, Vesna's ATK increases by 6%; and\n· For every character of all other Elemental Types in her current party, Vesna's Elemental Mastery increases by 25 instead.[/Details]",
+        "img": "Vesna/const_3"
+      },
+      {
+        "name": "The Nobleborn's Charge",
+        "desc": "Increases the Level of the Elemental Burst **For the Tsaritsa!** by 3.\nMaximum upgrade level is 15.\n[Details title=\"For the Tsaritsa!\"]Summons multiple **Spirit Blades**, dealing **AoE Anemo DMG**. Also gains a stack of **Sword Essence**.[/Details]",
+        "img": "Vesna/const_4"
+      },
+      {
+        "name": "Unwavering Ardor",
+        "desc": "Tapping on Normal Attack or Elemental Skill in the 5s after Vesna uses **Windborne Sword** at its highest level will unleash the secret Vila ability **Windborne Sword: Transpose**, dealing **Anemo DMG** at 150% of Vesna's ATK as well as summoning **Spirit Blades** which deal an additional instance of **Anemo DMG** at 200% of Vesna's ATK. If Vesna is in the **Armed for Action** mode, she will also summon a wind pinion to perform Coordinated Attacks against opponents.\nAdditionally, Vesna's Stellar Swirl reaction DMG dealt is **elevated** by 20%.\n[Details title=\"Windborne Sword\"]When in the **Armed for Action** mode, Vesna can consume **Sword Essence** to use her special Elemental Skill to deal **Anemo DMG**.\nEach use of the special Elemental Skill **Windborne Sword** in the same instance of **Armed for Action** will increase the level of **Windborne Sword**, beginning from Lv. 1, up to Lv. 3 max.\nUsing **Windborne Sword** at Lv. 2 and Lv. 3 will also summon a **Spirit Blade** which deals **Anemo DMG**.[/Details]\n[Details title=\"Spirit Blade\"]A weapon with special power that Vesna can summon. Attacks the opponent alongside Vesna to deal **Anemo DMG**.\nVesna can summon Spirit Blades through the following ways:\n· By unleashing the special Elemental Skill **Windborne Sword** at Lv. 2 and Lv. 3;\n· By using the Elemental Burst **For the Tsaritsa!**; or\n· By using **Windborne Sword·: Transpose** in the Constellation **Unwavering Ardor**.\n\n**Radiance: Stellar Swirl**: DMG dealt by the **Spirit Blades** become **Anemo DMG** that is considered Stellar Swirl reaction DMG instead.[/Details]\n[Details title=\"Armed for Action\"]Vesna switches to this mode after using the Elemental Skill **The Art of Victory**. In this mode, which lasts up to 15s:\n· Vesna's resistance to interruption is increased.\n· DMG dealt by Vesna with her Normal Attacks, Charged Attacks, and Plunging Attacks becomes **Anemo DMG** that cannot be overridden by another elemental infusion instead. She will also summon a wind pinion that attacks the opponent at the same time, dealing additional **Anemo DMG**. Each time the wind pinion is summoned, Vesna will regenerate a certain amount of **Sword Essence**.\n· Vesna can consume **Sword Essence** to unleash the special Elemental Skill **Windborne Sword**, which deals **Anemo DMG** to her opponents.\n· Vesna will exit the mode when its duration ends or after she has used **Windborne Sword** at the highest level 3 times. Exiting will clear all remaining **Sword Essence** she has accrued.[/Details]\n[Details title=\"Elevation\"]Special DMG Boost effect. It is calculated independently of other DMG Boost effects.[/Details]",
+        "img": "Vesna/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 885.2287
+        },
+        {
+          "stat": "Base DEF",
+          "value": 48.735
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.626425
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1514.207
+        },
+        {
+          "stat": "Base DEF",
+          "value": 83.3625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.41362
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.048
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2352.8447
+        },
+        {
+          "stat": "Base DEF",
+          "value": 129.5325
+        },
+        {
+          "stat": "Base ATK",
+          "value": 62.796547
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2981.823
+        },
+        {
+          "stat": "Base DEF",
+          "value": 164.16
+        },
+        {
+          "stat": "Base ATK",
+          "value": 79.58374
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3610.8013
+        },
+        {
+          "stat": "Base DEF",
+          "value": 198.7875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 96.37094
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 100,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4239.78
+        },
+        {
+          "stat": "Base DEF",
+          "value": 233.415
+        },
+        {
+          "stat": "Base ATK",
+          "value": 113.158134
+        },
+        {
+          "stat": "CRIT Rate",
+          "value": 0.192
+        }
+      ]
+    }
+  ]
+}

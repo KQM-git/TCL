@@ -101,6 +101,10 @@ import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 </Weapon>
 
+### Breezeborne Refrain
+
+<Weapon weapon="Breezeborne Refrain" weapons={bows} />
+
 ### Compound Bow
 
 <Weapon weapon="Compound Bow" weapons={bows} />

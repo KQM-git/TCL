@@ -299,7 +299,7 @@
       },
       {
         "name": "Treetop Watch",
-        "desc": "Displays the location of nearby **resources unique to Snezhnaya** on the mini-map.",
+        "desc": "Displays the location of nearby **resources unique to Snezhnaya** on the mini-map, and this effect also applies in the Shadow Realm.",
         "img": "Alyosha/passive_3",
         "minAscension": 0
       }

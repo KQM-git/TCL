@@ -1965,6 +1965,94 @@
       "desc": "Increases Elemental Burst DMG by **20%**/**25%**/**30%**/**35%**/**40%**. When the equipping character's Energy Capacity does not exceed 60/40, their Elemental Burst DMG is increased by an additional **16%/28%** / **20%/35%** / **24%/42%** / **28%/49%** / **32%/56%**."
     }
   },
+  "New Bough": {
+    "name": "New Bough",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Wildgrowth",
+      "desc": "When the equipping character hits the opponent with an attack within 12s after using the Elemental Skill, they gain the \"Verdant\" effect, which increases their ATK by **4%**/**5%**/**6%**/**7%**/**8%** and their Elemental Mastery by **20**/**25**/**30**/**35**/**40**. This effect lasts 6s and can trigger once every second. Max 3 stacks. The aforementioned effects can still trigger even when the equipping character is not on the field.\nRadiance: Stellar Glimmer: The effect of \"Verdant\" is changed to: Increases ATK by **6%**/**7.5%**/**9%**/**10.5%**/**12%** as well as Stellar Glimmer reaction DMG dealt by the equipping character by **8%**/**10%**/**12%**/**14%**/**16%**."
+    }
+  },
   "Prototype Rancour": {
     "name": "Prototype Rancour",
     "weaponType": "Sword",
@@ -2403,6 +2491,94 @@
     "refinements": {
       "name": "Solemn Silence",
       "desc": "Upon causing an Elemental Reaction, increases Max HP by **16%**/**20%**/**24%**/**28%**/**32%** for 12s. Moonsign: Ascendant Gleam: Max HP from this effect is further increased by **16%**/**20%**/**24%**/**28%**/**32%**. This effect can be triggered even if the equipping character is off-field."
+    }
+  },
+  "Silver Light": {
+    "name": "Silver Light",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Radiance on the Water",
+      "desc": "Increases Elemental Mastery by **52**/**65**/**78**/**91**/**104** for 12s after Elemental Skill use. Max 2 stacks, and each stack's duration is independent of the others."
     }
   },
   "Sturdy Bone": {
@@ -3635,6 +3811,94 @@
     "refinements": {
       "name": "Whitehill's Bestowal",
       "desc": "Within 12s after an Elemental Skill is used, ATK is increased by **24%**/**30%**/**36%**/**42%**/**48%**. During this time, when the equipping character has 0 Energy, ATK will be further increased by **24%**/**30%**/**36%**/**42%**/**48%**, and CRIT DMG will be increased by **40%**/**50%**/**60%**/**70%**/**80%**."
+    }
+  },
+  "Beyond the Chrysalis": {
+    "name": "Beyond the Chrysalis",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 47.537,
+        "curve": "ATK 3.2"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.096,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Dance of Wings Unbound",
+      "desc": "Each time the equipping character uses their Elemental Skill or Elemental Burst, they gain one of the following three effects in sequence:\nWinds of Devotion: Increases the equipping character's CRIT DMG by **56%**/**72%**/**88%**/**104%**/**120%** for 10s;\nWinds of Defiance: Increases Stellar Swirl reaction DMG dealt by the equipping character by **36%**/**45%**/**54%**/**63%**/**72%** for 10s; and\nWinds of Plenty: Regenerates **5**/**5.5**/**6**/**6.5**/**7** Elemental Energy for the equipping character. Up to **5**/**5.5**/**6**/**6.5**/**7** Elemental Energy can be regenerated in this way every 4s.\nThe aforementioned effects are removed and the sequence is reset when the equipping character leaves the field."
     }
   },
   "Exaiphanes Blade": {

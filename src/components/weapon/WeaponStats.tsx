@@ -33,7 +33,7 @@ export default function WeaponStats({ weapon, weapons }: { weapon: string, weapo
       <tbody>
         {w.refinements && <tr>
           <td style={({ minWidth: "120px" })}>{w.refinements.name}</td>
-          <td><ReactMarkdown className="react-md">{cleanup(w.refinements.desc)}</ReactMarkdown></td>
+          <td className="react-md"><ReactMarkdown>{cleanup(w.refinements.desc)}</ReactMarkdown></td>
         </tr>}
         {Object.entries(max).map(([name, {explain, value}]) => <tr key={name}>
           <td style={({ minWidth: "120px" })}>{name}</td>

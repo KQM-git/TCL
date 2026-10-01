@@ -1,0 +1,518 @@
+{
+  "name": "Vodyanitsa",
+  "star": 5,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 1153.5172,
+    "attackBase": 8.379,
+    "defenseBase": 37.6929,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Psyshkhwe Arietta",
+        "desc": "**Normal Attack**\nSings an ancient song of the Water Imps, unleashing up to 4 strikes. This deals **Hydro DMG** to the opponent.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to hurl a water ball forward, dealing **Hydro DMG**.\n\n**Plunging Attack**\nPlunges towards the ground from mid-air, damaging all opponents along the path. Deals **AoE Hydro DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "43.4%",
+              "46.6%",
+              "49.9%",
+              "54.2%",
+              "57.5%",
+              "60.7%",
+              "65.1%",
+              "69.4%",
+              "73.8%",
+              "78.1%",
+              "82.4%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "40.2%",
+              "43.2%",
+              "46.3%",
+              "50.3%",
+              "53.3%",
+              "56.3%",
+              "60.3%",
+              "64.4%",
+              "68.4%",
+              "72.4%",
+              "76.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "49.3%",
+              "53.0%",
+              "56.7%",
+              "61.6%",
+              "65.3%",
+              "69.0%",
+              "74.0%",
+              "78.9%",
+              "83.8%",
+              "88.7%",
+              "93.7%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "65.6%",
+              "70.5%",
+              "75.4%",
+              "82.0%",
+              "86.9%",
+              "91.8%",
+              "98.3%",
+              "104.9%",
+              "111.5%",
+              "118.0%",
+              "124.6%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "123.8%",
+              "133.0%",
+              "142.3%",
+              "154.7%",
+              "164.0%",
+              "173.3%",
+              "185.6%",
+              "198.0%",
+              "210.4%",
+              "222.8%",
+              "235.1%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Rechitativ: Sonorous Dawn",
+        "desc": "Reveals her true Water Imp form, dealing **AoE Hydro DMG** and gaining the **Song of Ages Past** effect: While this effect is active, Vodyanitsa summons the ancient **Horn of Spring's Call**, periodically moving closer to an opponent in a swift movement to attack them, dealing **Hydro DMG**.\nThe above two types of attacks will also decrease the **Hydro RES** and **Cryo RES** of opponents hit. Additionally, while the **Song of Ages Past** effect is active, the party's active character gains increased resistance to interruption and periodically regenerates HP based on Vodyanitsa's Max HP.",
+        "img": "Vodyanitsa/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "3.27% Max HP",
+              "3.52% Max HP",
+              "3.76% Max HP",
+              "4.09% Max HP",
+              "4.34% Max HP",
+              "4.58% Max HP",
+              "4.91% Max HP",
+              "5.24% Max HP",
+              "5.56% Max HP",
+              "5.89% Max HP",
+              "6.22% Max HP",
+              "6.54% Max HP",
+              "6.95% Max HP"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "16.0s"
+          },
+          {
+            "name": "Horn of Spring's Call Attack Interval",
+            "value": "3.0s"
+          },
+          {
+            "name": "Horn of Spring's Call DMG",
+            "values": [
+              "3.27% Max HP",
+              "3.52% Max HP",
+              "3.76% Max HP",
+              "4.09% Max HP",
+              "4.34% Max HP",
+              "4.58% Max HP",
+              "4.91% Max HP",
+              "5.24% Max HP",
+              "5.56% Max HP",
+              "5.89% Max HP",
+              "6.22% Max HP",
+              "6.54% Max HP",
+              "6.95% Max HP"
+            ]
+          },
+          {
+            "name": "Song of Ages Past Healing",
+            "values": [
+              "270 + 2.80% Max HP",
+              "297 + 3.01% Max HP",
+              "326 + 3.22% Max HP",
+              "357 + 3.50% Max HP",
+              "391 + 3.71% Max HP",
+              "427 + 3.92% Max HP",
+              "465 + 4.20% Max HP",
+              "506 + 4.48% Max HP",
+              "548 + 4.76% Max HP",
+              "593 + 5.04% Max HP",
+              "640 + 5.32% Max HP",
+              "690 + 5.60% Max HP",
+              "742 + 5.95% Max HP"
+            ]
+          },
+          {
+            "name": "Song of Ages Past Healing Interval",
+            "value": "1.5s"
+          },
+          {
+            "name": "Hydro/Cryo RES Reduction",
+            "values": [
+              "16.5%",
+              "18.0%",
+              "19.5%",
+              "21.0%",
+              "22.5%",
+              "24.0%",
+              "25.5%",
+              "27.0%",
+              "28.5%",
+              "30.0%",
+              "31.8%",
+              "33.6%",
+              "35.4%"
+            ]
+          },
+          {
+            "name": "RES Reduction Duration",
+            "value": "6.0s"
+          },
+          {
+            "name": "Skill CD",
+            "value": "16.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Koda: Sink With Thee",
+      "desc": "Leads a song of the Water Imps which lures its listeners to their doom. This deals **AoE Hydro DMG** to the opponent.\nWhen in the **Song of Ages Past** state, DMG dealt is further increased.\n[Details title=\"Rechitativ: Sonorous Dawn\"]Reveals her true Water Imp form, dealing **AoE Hydro DMG** and gaining the **Song of Ages Past** effect: While this effect is active, Vodyanitsa summons the ancient **Horn of Spring's Call**, periodically moving closer to an opponent in a swift movement to attack them, dealing **Hydro DMG**.\nThe above two types of attacks will also decrease the **Hydro RES** and **Cryo RES** of opponents hit. Additionally, while the **Song of Ages Past** effect is active, the party's active character gains increased resistance to interruption and periodically regenerates HP based on Vodyanitsa's Max HP.[/Details]",
+      "img": "Vodyanitsa/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "45.7% Max HP",
+            "49.1% Max HP",
+            "52.5% Max HP",
+            "57.1% Max HP",
+            "60.5% Max HP",
+            "63.9% Max HP",
+            "68.5% Max HP",
+            "73.1% Max HP",
+            "77.7% Max HP",
+            "82.2% Max HP",
+            "86.8% Max HP",
+            "91.4% Max HP",
+            "97.1% Max HP"
+          ]
+        },
+        {
+          "name": "Song of Ages Past DMG Bonus",
+          "values": [
+            "48.0%",
+            "51.6%",
+            "55.2%",
+            "60.0%",
+            "63.6%",
+            "67.2%",
+            "72.0%",
+            "76.8%",
+            "81.6%",
+            "86.4%",
+            "91.2%",
+            "96.0%",
+            "102.0%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "The Last Djeguako Songstress",
+        "desc": "When the Elemental Skill **Rechitativ: Sonorous Dawn** is used, any Stellar Vortex on the field will turn into a Wandering Vortex instead. While the **Song of Ages Past** effect is active, nearby party members' Stellar Swirl reactions will generate Wandering Vortex instead.\nGenerating or detonating a Wandering Vortex will also reduce nearby opponents' **Anemo RES** by 35% for 6s. \nAdditionally, nearby party members who enter the **Radiance: Stellar Swirl** state while **Song of Ages Past** is in effect will have the **Radiance: Stellar Swirl** state extended by 4s.\n[Details title=\"Rechitativ: Sonorous Dawn\"]Reveals her true Water Imp form, dealing **AoE Hydro DMG** and gaining the **Song of Ages Past** effect: While this effect is active, Vodyanitsa summons the ancient **Horn of Spring's Call**, periodically moving closer to an opponent in a swift movement to attack them, dealing **Hydro DMG**.\nThe above two types of attacks will also decrease the **Hydro RES** and **Cryo RES** of opponents hit. Additionally, while the **Song of Ages Past** effect is active, the party's active character gains increased resistance to interruption and periodically regenerates HP based on Vodyanitsa's Max HP.[/Details]",
+        "img": "Vodyanitsa/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Dirge of the Fandyr",
+        "desc": "When the Elemental Skill **Rechitativ: Sonorous Dawn** is used, Vodyanitsa will also gain 25 stacks of **Lead Vocal** as well as 10 stacks of **Chorus**.\nThe two effects above last 30s each, and the stack count is refreshed when the Elemental Skill is used.\n[Details title=\"Lead Vocal\"]When the party's currently active character deals **Hydro DMG** or **Cryo DMG** with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, 1 stack of \"Lead Vocal\" is consumed. This in turn increases the DMG dealt. However, if a Wandering Vortex is present on the field or during the 5s following a Wandering Vortex explosion, this effect will only trigger when the character deals Stellar Swirl reaction DMG.\nEvery 1000 Max HP Vodyanitsa has in excess of 40000 will increase the Stellar Swirl reaction DMG from the above effect by 260, as well as **Hydro DMG** and **Cryo DMG** dealt by 140. Stellar Swirl reaction DMG dealt can be increased by a maximum of 6500 while **Hydro DMG** and **Cryo DMG** can be increased by a maximum of 3500 in this way.[/Details]\n[Details title=\"Chorus\"]Triggered by off-field party members or other nearby party members (and not your currently active party member). Effects are the same as those of \"Lead Vocal.\"[/Details]",
+        "img": "Vodyanitsa/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Echoes Over the Frozen Lake",
+        "desc": "Holding the Elemental Skill outside of combat will cause Vodyanitsa to embody her true Water Imp form and swim for up to 10s at the cost of Stamina. Naturally, as a Water Imp, she can also move across the water's surface. Vodyanitsa will exit her Water Imp form when the Elemental Skill is used again, when the duration ends, or when all Stamina is depleted.\nAdditionally, while Vodyanitsa can swim faster, her Stamina consumption rate is also increased.",
+        "img": "Vodyanitsa/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Heartless Siren Song",
+        "desc": "As the Prima Donna of the Korolevskiy Troupe, Vodyanitsa sings in person in place of playing an instrument.",
+        "img": "Vodyanitsa/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Waters in Full Splendor",
+        "desc": "Each time Vodyanitsa triggers the healing effect of **Song of Ages Past**, it also increases the ATK of all nearby party members by 0.8% of her Max HP for 5s.\n[Details title=\"Rechitativ: Sonorous Dawn\"]Reveals her true Water Imp form, dealing **AoE Hydro DMG** and gaining the **Song of Ages Past** effect: While this effect is active, Vodyanitsa summons the ancient **Horn of Spring's Call**, periodically moving closer to an opponent in a swift movement to attack them, dealing **Hydro DMG**.\nThe above two types of attacks will also decrease the **Hydro RES** and **Cryo RES** of opponents hit. Additionally, while the **Song of Ages Past** effect is active, the party's active character gains increased resistance to interruption and periodically regenerates HP based on Vodyanitsa's Max HP.[/Details]",
+        "img": "Vodyanitsa/const_0"
+      },
+      {
+        "name": "Echoes That Pierce the Snow",
+        "desc": "When the **Horn of Spring's Call** from the Elemental Skill **Rechitativ: Sonorous Dawn** attacks the opponent, Vodyanitsa gains the \"Two Voices in Black and White\" effect which increases the CRIT DMG from **Hydro DMG** and **Cryo DMG** dealt by the currently active party member by 50% for 5s.\nIf there is a Wandering Vortex present on the field or in the 5s after a Wandering Vortex explodes, the effect changes to: increases the CRIT DMG from Stellar Swirl reaction DMG caused by the currently active party member by 60% for 5s.\nAdditionally, the Elemental Skill **Rechitativ: Sonorous Dawn** is enhanced as follows: the duration of the **Song of Ages Past** effect is extended by 9s.\n[Details title=\"Rechitativ: Sonorous Dawn\"]Reveals her true Water Imp form, dealing **AoE Hydro DMG** and gaining the **Song of Ages Past** effect: While this effect is active, Vodyanitsa summons the ancient **Horn of Spring's Call**, periodically moving closer to an opponent in a swift movement to attack them, dealing **Hydro DMG**.\nThe above two types of attacks will also decrease the **Hydro RES** and **Cryo RES** of opponents hit. Additionally, while the **Song of Ages Past** effect is active, the party's active character gains increased resistance to interruption and periodically regenerates HP based on Vodyanitsa's Max HP.[/Details]",
+        "img": "Vodyanitsa/const_1"
+      },
+      {
+        "name": "Song Lingering on a Spring Morning",
+        "desc": "Increases the Level of the Elemental Skill **Rechitativ: Sonorous Dawn** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Rechitativ: Sonorous Dawn\"]Reveals her true Water Imp form, dealing **AoE Hydro DMG** and gaining the **Song of Ages Past** effect: While this effect is active, Vodyanitsa summons the ancient **Horn of Spring's Call**, periodically moving closer to an opponent in a swift movement to attack them, dealing **Hydro DMG**.\nThe above two types of attacks will also decrease the **Hydro RES** and **Cryo RES** of opponents hit. Additionally, while the **Song of Ages Past** effect is active, the party's active character gains increased resistance to interruption and periodically regenerates HP based on Vodyanitsa's Max HP.[/Details]",
+        "img": "Vodyanitsa/const_2"
+      },
+      {
+        "name": "Melancholic Voice Upon the Gentle Waters",
+        "desc": "When Vodyanitsa triggers the healing effect of **Song of Ages Past**, an additional effect will be triggered based on the healed character's HP.\n· If the character's HP is below 40%: The healing is increased by 50%; and\n· If the character's HP is 40% or above: Vodyanitsa's Max HP is increased by 20% for 6s. Max 3 stacks, and each stack's duration is counted independently.\n[Details title=\"Rechitativ: Sonorous Dawn\"]Reveals her true Water Imp form, dealing **AoE Hydro DMG** and gaining the **Song of Ages Past** effect: While this effect is active, Vodyanitsa summons the ancient **Horn of Spring's Call**, periodically moving closer to an opponent in a swift movement to attack them, dealing **Hydro DMG**.\nThe above two types of attacks will also decrease the **Hydro RES** and **Cryo RES** of opponents hit. Additionally, while the **Song of Ages Past** effect is active, the party's active character gains increased resistance to interruption and periodically regenerates HP based on Vodyanitsa's Max HP.[/Details]",
+        "img": "Vodyanitsa/const_3"
+      },
+      {
+        "name": "Together, Down Into the Deep",
+        "desc": "Increases the Level of the Elemental Burst **Koda: Sink With Thee** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Koda: Sink With Thee\"]Leads a song of the Water Imps which lures its listeners to their doom. This deals **AoE Hydro DMG** to the opponent.\nWhen in the **Song of Ages Past** state, DMG dealt is further increased.[/Details]",
+        "img": "Vodyanitsa/const_4"
+      },
+      {
+        "name": "Neverending Song of Revelry",
+        "desc": "The Constellation **Echoes That Pierce the Snow** is enhanced: \"Two Voices in Black and White\" now applies to all nearby party members.\nAdditionally, while the **Song of Ages Past** effect is active, Stellar Swirl reaction DMG dealt by nearby party members is **elevated** by 25% while **Hydro DMG** and **Cryo DMG** dealt are increased by 60%.\n[Details title=\"Rechitativ: Sonorous Dawn\"]Reveals her true Water Imp form, dealing **AoE Hydro DMG** and gaining the **Song of Ages Past** effect: While this effect is active, Vodyanitsa summons the ancient **Horn of Spring's Call**, periodically moving closer to an opponent in a swift movement to attack them, dealing **Hydro DMG**.\nThe above two types of attacks will also decrease the **Hydro RES** and **Cryo RES** of opponents hit. Additionally, while the **Song of Ages Past** effect is active, the party's active character gains increased resistance to interruption and periodically regenerates HP based on Vodyanitsa's Max HP.[/Details]\n[Details title=\"Elevation\"]Special DMG Boost effect. It is calculated independently of other DMG Boost effects.[/Details]",
+        "img": "Vodyanitsa/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 989.0367
+        },
+        {
+          "stat": "Base DEF",
+          "value": 32.319
+        },
+        {
+          "stat": "Base ATK",
+          "value": 7.18371
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1691.7733
+        },
+        {
+          "stat": "Base DEF",
+          "value": 55.2825
+        },
+        {
+          "stat": "Base ATK",
+          "value": 12.287925
+        },
+        {
+          "stat": "HP%",
+          "value": 0.072
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2628.7554
+        },
+        {
+          "stat": "Base DEF",
+          "value": 85.9005
+        },
+        {
+          "stat": "Base ATK",
+          "value": 19.093546
+        },
+        {
+          "stat": "HP%",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3331.492
+        },
+        {
+          "stat": "Base DEF",
+          "value": 108.864
+        },
+        {
+          "stat": "Base ATK",
+          "value": 24.19776
+        },
+        {
+          "stat": "HP%",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4034.2285
+        },
+        {
+          "stat": "Base DEF",
+          "value": 131.8275
+        },
+        {
+          "stat": "Base ATK",
+          "value": 29.301975
+        },
+        {
+          "stat": "HP%",
+          "value": 0.216
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 100,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4736.9653
+        },
+        {
+          "stat": "Base DEF",
+          "value": 154.791
+        },
+        {
+          "stat": "Base ATK",
+          "value": 34.40619
+        },
+        {
+          "stat": "HP%",
+          "value": 0.288
+        }
+      ]
+    }
+  ]
+}
