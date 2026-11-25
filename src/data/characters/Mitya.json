@@ -1,0 +1,526 @@
+{
+  "name": "Mitya",
+  "star": 5,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 905.654,
+    "attackBase": 20.482,
+    "defenseBase": 61.6249,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Chain Reaction",
+        "desc": "**Normal Attack**\nPerforms a maximum of 3 attacks that deal **Electro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Electro DMG** to the area in front after a short casting time.\nMitya will instead perform the special Charged Attack **Gradient Detonation**, which consumes no Stamina, if a **Detection Core: Overload** created by Mitya himself is currently on the field and he has at least 1 **Gradient Beacon**: Deals 1 instance of **AoE Electro DMG** to the area in front and continuously consumes **Gradient Beacons** while held. Each **Gradient Beacon** consumed deals 1 instance of **AoE Electro DMG** to the area in front that is considered Stellar-Conduct reaction DMG.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing **AoE Electro DMG** upon impact.\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]\n[Details title=\"Gradient Beacons\"]When Mitya is in the party and a Stellar-Conduct reaction is triggered, a **Gradient Beacon** that lasts for 6s will be created instead of a **Starlight Prism**. Mitya can consume **Gradient Beacons** to trigger various effects.\n**Gradient Beacons** follow the active character and transform a larger nearby area into a **Polestar Field** when a **Gradient Beacon** is created. Mitya can have multiple **Gradient Beacons**, with an initial maximum of 4. Creating a **Gradient Beacon** will reset the duration of all **Gradient Beacons**.[/Details]",
+        "img": "Common/Catalyst",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "58.8%",
+              "63.2%",
+              "67.6%",
+              "73.5%",
+              "77.9%",
+              "82.3%",
+              "88.2%",
+              "94.1%",
+              "100.0%",
+              "105.8%",
+              "111.7%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "48.3%",
+              "51.9%",
+              "55.5%",
+              "60.4%",
+              "64.0%",
+              "67.6%",
+              "72.5%",
+              "77.3%",
+              "82.1%",
+              "86.9%",
+              "91.8%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "69.0%",
+              "74.2%",
+              "79.4%",
+              "86.3%",
+              "91.5%",
+              "96.6%",
+              "103.5%",
+              "110.4%",
+              "117.3%",
+              "124.2%",
+              "131.1%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "136.9%",
+              "147.1%",
+              "157.4%",
+              "171.1%",
+              "181.4%",
+              "191.6%",
+              "205.3%",
+              "219.0%",
+              "232.7%",
+              "246.4%",
+              "260.1%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "113.6%/141.9%",
+              "122.9%/153.5%",
+              "132.1%/165.0%",
+              "145.3%/181.5%",
+              "154.6%/193.1%",
+              "165.2%/206.3%",
+              "179.7%/224.5%",
+              "194.2%/242.6%",
+              "208.8%/260.8%",
+              "224.6%/280.6%",
+              "240.5%/300.4%"
+            ]
+          },
+          {
+            "name": "Gradient Detonation DMG",
+            "values": [
+              "168.0%",
+              "180.6%",
+              "193.2%",
+              "210.0%",
+              "222.6%",
+              "235.2%",
+              "252.0%",
+              "268.8%",
+              "285.6%",
+              "302.4%",
+              "319.2%"
+            ]
+          },
+          {
+            "name": "Gradient Detonation Stellar-Conduct DMG",
+            "values": [
+              "224.0% Elemental Mastery",
+              "240.8% Elemental Mastery",
+              "257.6% Elemental Mastery",
+              "280.0% Elemental Mastery",
+              "296.8% Elemental Mastery",
+              "313.6% Elemental Mastery",
+              "336.0% Elemental Mastery",
+              "358.4% Elemental Mastery",
+              "380.8% Elemental Mastery",
+              "403.2% Elemental Mastery",
+              "425.6% Elemental Mastery"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Principle: Variable Detection",
+        "desc": "Conducts a theoretically relatively safe experiment at a theoretically relatively safe yield, dealing **AoE Electro DMG** and creating a **Detection Core** in different ways depending on whether the Skill is tapped or held.\n\nTapping the Elemental Skill **Principle: Variable Detection** again within 6s after using it changes the **Detection Core**'s state. The Detection Core's state can be changed in this way every 1.5s.\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]",
+        "img": "Mitya/skill_1",
+        "talentTable": [
+          {
+            "name": "Tap Skill DMG",
+            "values": [
+              "90.7%",
+              "97.5%",
+              "104.3%",
+              "113.4%",
+              "120.2%",
+              "127.0%",
+              "136.1%",
+              "145.2%",
+              "154.2%",
+              "163.3%",
+              "172.4%",
+              "181.4%",
+              "192.8%"
+            ]
+          },
+          {
+            "name": "Hold Skill DMG",
+            "values": [
+              "129.6%",
+              "139.3%",
+              "149.0%",
+              "162.0%",
+              "171.7%",
+              "181.4%",
+              "194.4%",
+              "207.4%",
+              "220.3%",
+              "233.3%",
+              "246.2%",
+              "259.2%",
+              "275.4%"
+            ]
+          },
+          {
+            "name": "Steady State Core DMG",
+            "values": [
+              "72.0%",
+              "77.4%",
+              "82.8%",
+              "90.0%",
+              "95.4%",
+              "100.8%",
+              "108.0%",
+              "115.2%",
+              "122.4%",
+              "129.6%",
+              "136.8%",
+              "144.0%",
+              "153.0%"
+            ]
+          },
+          {
+            "name": "Steady State Core Gradient Beacon Consumption DMG",
+            "values": [
+              "80.0% Elemental Mastery",
+              "86.0% Elemental Mastery",
+              "92.0% Elemental Mastery",
+              "100.0% Elemental Mastery",
+              "106.0% Elemental Mastery",
+              "112.0% Elemental Mastery",
+              "120.0% Elemental Mastery",
+              "128.0% Elemental Mastery",
+              "136.0% Elemental Mastery",
+              "144.0% Elemental Mastery",
+              "152.0% Elemental Mastery",
+              "160.0% Elemental Mastery",
+              "170.0% Elemental Mastery"
+            ]
+          },
+          {
+            "name": "Steady State Core Detonation DMG",
+            "values": [
+              "92.0% Elemental Mastery/Beacon",
+              "98.9% Elemental Mastery/Beacon",
+              "105.8% Elemental Mastery/Beacon",
+              "115.0% Elemental Mastery/Beacon",
+              "121.9% Elemental Mastery/Beacon",
+              "128.8% Elemental Mastery/Beacon",
+              "138.0% Elemental Mastery/Beacon",
+              "147.2% Elemental Mastery/Beacon",
+              "156.4% Elemental Mastery/Beacon",
+              "165.6% Elemental Mastery/Beacon",
+              "174.8% Elemental Mastery/Beacon",
+              "184.0% Elemental Mastery/Beacon",
+              "195.5% Elemental Mastery/Beacon"
+            ]
+          },
+          {
+            "name": "Detection Core Duration",
+            "value": "25.0s"
+          },
+          {
+            "name": "CD",
+            "value": "18.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Analysis: Gradient Theory",
+      "desc": "Let the elements burst forth like inspiration itself! Deals **AoE Electro DMG** and creates 3 **Gradient Beacons**.\n[Details title=\"Gradient Beacons\"]When Mitya is in the party and a Stellar-Conduct reaction is triggered, a **Gradient Beacon** that lasts for 6s will be created instead of a **Starlight Prism**. Mitya can consume **Gradient Beacons** to trigger various effects.\n**Gradient Beacons** follow the active character and transform a larger nearby area into a **Polestar Field** when a **Gradient Beacon** is created. Mitya can have multiple **Gradient Beacons**, with an initial maximum of 4. Creating a **Gradient Beacon** will reset the duration of all **Gradient Beacons**.[/Details]",
+      "img": "Mitya/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "333.6% ATK+667.2% Elemental Mastery",
+            "358.6% ATK+717.2% Elemental Mastery",
+            "383.6% ATK+767.3% Elemental Mastery",
+            "417.0% ATK+834.0% Elemental Mastery",
+            "442.0% ATK+884.0% Elemental Mastery",
+            "467.0% ATK+934.1% Elemental Mastery",
+            "500.4% ATK+1000.8% Elemental Mastery",
+            "533.8% ATK+1067.5% Elemental Mastery",
+            "567.1% ATK+1134.2% Elemental Mastery",
+            "600.5% ATK+1201.0% Elemental Mastery",
+            "633.8% ATK+1267.7% Elemental Mastery",
+            "667.2% ATK+1334.4% Elemental Mastery",
+            "708.9% ATK+1417.8% Elemental Mastery"
+          ]
+        },
+        {
+          "name": "Gradient Beacons Generated",
+          "value": "3.0"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Baseline Stress Test",
+        "desc": "The **Detection Core** created by the Elemental Skill **Principle: Variable Detection** is enhanced. Depending on the state of the **Detection Core** created:\n·Steady State: All nearby party members gain 30 Elemental Mastery for each **Gradient Beacon** Mitya has;\n·Overloaded: After nearby party members trigger Stellar-Conduct reactions, instead obtain 1 **Gradient Beacon** every 1.5s for 6s.\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]\n[Details title=\"Gradient Beacons\"]When Mitya is in the party and a Stellar-Conduct reaction is triggered, a **Gradient Beacon** that lasts for 6s will be created instead of a **Starlight Prism**. Mitya can consume **Gradient Beacons** to trigger various effects.\n**Gradient Beacons** follow the active character and transform a larger nearby area into a **Polestar Field** when a **Gradient Beacon** is created. Mitya can have multiple **Gradient Beacons**, with an initial maximum of 4. Creating a **Gradient Beacon** will reset the duration of all **Gradient Beacons**.[/Details]",
+        "img": "Mitya/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Explosive Reagent: Safe Limits Exceeded",
+        "desc": "The duration of **Gradient Beacons** is increased to 10s. Additionally, Mitya's CRIT Rate increases by 5% for 15s after creating a **Gradient Beacon**. This effect can stack up to 4 times.\n[Details title=\"Gradient Beacons\"]When Mitya is in the party and a Stellar-Conduct reaction is triggered, a **Gradient Beacon** that lasts for 6s will be created instead of a **Starlight Prism**. Mitya can consume **Gradient Beacons** to trigger various effects.\n**Gradient Beacons** follow the active character and transform a larger nearby area into a **Polestar Field** when a **Gradient Beacon** is created. Mitya can have multiple **Gradient Beacons**, with an initial maximum of 4. Creating a **Gradient Beacon** will reset the duration of all **Gradient Beacons**.[/Details]",
+        "img": "Mitya/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "Stellar Jubilee: Top-Secret Protocol",
+        "desc": "When party members trigger Superconduct, it will be changed to Stellar-Conduct. Stellar-Conduct reactions will no longer create **Starlight Prisms**, and will instead create 1 **Gradient Beacon** nearby every 1.5s for 3s. These Beacons can be carried by Mitya and transform the area around them into an even larger **Polestar Field**. Triggering another Stellar-Conduct reaction will refresh the duration of the aforementioned effects.\nAdditionally, the Base Stellar-Conduct DMG dealt by all nearby party members will be increased based on Mitya's Elemental Mastery: Every point of Elemental Mastery he has increases Base Stellar-Conduct DMG by 0.028%. The maximum Base DMG increase that can be gained this way is 14%. While within a **Polestar Field**, Mitya will also enter the **Radiance: Stellar-Conduct** state.\n[Details title=\"Gradient Beacons\"]When Mitya is in the party and a Stellar-Conduct reaction is triggered, a **Gradient Beacon** that lasts for 6s will be created instead of a **Starlight Prism**. Mitya can consume **Gradient Beacons** to trigger various effects.\n**Gradient Beacons** follow the active character and transform a larger nearby area into a **Polestar Field** when a **Gradient Beacon** is created. Mitya can have multiple **Gradient Beacons**, with an initial maximum of 4. Creating a **Gradient Beacon** will reset the duration of all **Gradient Beacons**.[/Details]",
+        "img": "Mitya/passive_2",
+        "minAscension": 0
+      },
+      {
+        "name": "Energy Catalysis",
+        "desc": "When destructible rocks are nearby, **Detection Core: Steady State** can quickly clear them.\nAdditionally, when Mitya is in the party, creating **Prime Ice Construct: Basic Heat Source** does not consume Kresnik Energy.\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]",
+        "img": "Mitya/passive_3",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "The Observer Seeking What Is Missing",
+        "desc": "The maximum number of **Gradient Beacons** Mitya can carry is increased to 5. Using the Elemental Skill **Principle: Variable Detection** additionally creates 1 **Gradient Beacon**.\nWhile the **Detection Core** is present, your own active character's CRIT DMG is increased by 40%.\nAdditionally, Mitya regenerates 10 Elemental Energy when a **Gradient Beacon** is created. This effect can be triggered once every 8s.\n[Details title=\"Gradient Beacons\"]When Mitya is in the party and a Stellar-Conduct reaction is triggered, a **Gradient Beacon** that lasts for 6s will be created instead of a **Starlight Prism**. Mitya can consume **Gradient Beacons** to trigger various effects.\n**Gradient Beacons** follow the active character and transform a larger nearby area into a **Polestar Field** when a **Gradient Beacon** is created. Mitya can have multiple **Gradient Beacons**, with an initial maximum of 4. Creating a **Gradient Beacon** will reset the duration of all **Gradient Beacons**.[/Details]\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]",
+        "img": "Mitya/const_0"
+      },
+      {
+        "name": "The Matter That Slumbers Beyond Inertness",
+        "desc": "While the **Detection Core** is present, all opponents within the **Polestar Field** have their **Cryo RES** and **Electro RES** decreased by 20%.\nAdditionally, if the **Detection Core** created is:\n·Steady State: All nearby party members gain 123 Elemental Mastery;\n·Overloaded: Your own active character gains 234 Elemental Mastery.\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]",
+        "img": "Mitya/const_1"
+      },
+      {
+        "name": "The Knotted String of Invariant Topology",
+        "desc": "Increases the Level of the Elemental Skill **Principle: Variable Detection** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Principle: Variable Detection\"]Conducts a theoretically relatively safe experiment at a theoretically relatively safe yield, dealing **AoE Electro DMG** and creating a **Detection Core** in different ways depending on whether the Skill is tapped or held.\n\nTapping the Elemental Skill **Principle: Variable Detection** again within 6s after using it changes the **Detection Core**'s state. The Detection Core's state can be changed in this way every 1.5s.[/Details]",
+        "img": "Mitya/const_2"
+      },
+      {
+        "name": "The Isotopes Born of Decay",
+        "desc": "**Detection Cores** created by Mitya himself deals 1 instance of **AoE Electro DMG** equal to 300% of Mitya's Elemental Mastery to nearby opponents for every 5 **Gradient Beacons** consumed while it is on the field. This DMG is considered Stellar-Conduct reaction DMG.\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]\n[Details title=\"Gradient Beacons\"]When Mitya is in the party and a Stellar-Conduct reaction is triggered, a **Gradient Beacon** that lasts for 6s will be created instead of a **Starlight Prism**. Mitya can consume **Gradient Beacons** to trigger various effects.\n**Gradient Beacons** follow the active character and transform a larger nearby area into a **Polestar Field** when a **Gradient Beacon** is created. Mitya can have multiple **Gradient Beacons**, with an initial maximum of 4. Creating a **Gradient Beacon** will reset the duration of all **Gradient Beacons**.[/Details]",
+        "img": "Mitya/const_3"
+      },
+      {
+        "name": "The Periodic Law That Orders All",
+        "desc": "Increases the Level of Normal Attack: **Chain Reaction** by 3.\nMaximum upgrade level is 15.\n[Details title=\"Chain Reaction\"]**Normal Attack**\nPerforms a maximum of 3 attacks that deal **Electro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Electro DMG** to the area in front after a short casting time.\nMitya will instead perform the special Charged Attack **Gradient Detonation**, which consumes no Stamina, if a **Detection Core: Overload** created by Mitya himself is currently on the field and he has at least 1 **Gradient Beacon**: Deals 1 instance of **AoE Electro DMG** to the area in front and continuously consumes **Gradient Beacons** while held. Each **Gradient Beacon** consumed deals 1 instance of **AoE Electro DMG** to the area in front that is considered Stellar-Conduct reaction DMG.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing **AoE Electro DMG** upon impact.[/Details]",
+        "img": "Mitya/const_4"
+      },
+      {
+        "name": "Elemental Transition at the Gate of Reason",
+        "desc": "**Detection Core** is enhanced. If the **Detection Core**:\n · Is in the Steady State: **Detection Core** deals 115% of its original DMG.\n· Is Overloaded: There is a 34% chance to create 1 new **Gradient Beacon** whenever Mitya consumes a **Gradient Beacon** with the **Detection Core**.\nAdditionally, Stellar-Conduct reaction DMG dealt by all nearby party members is **Elevated** by 20%.\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]\n[Details title=\"Gradient Beacons\"]When Mitya is in the party and a Stellar-Conduct reaction is triggered, a **Gradient Beacon** that lasts for 6s will be created instead of a **Starlight Prism**. Mitya can consume **Gradient Beacons** to trigger various effects.\n**Gradient Beacons** follow the active character and transform a larger nearby area into a **Polestar Field** when a **Gradient Beacon** is created. Mitya can have multiple **Gradient Beacons**, with an initial maximum of 4. Creating a **Gradient Beacon** will reset the duration of all **Gradient Beacons**.[/Details]\n[Details title=\"Detection Core\"]An energy device Mitya creates after using his Elemental Skill. Tapping it creates a Core in **Steady State**, while holding it creates an **Overloaded** core.\n\n**Detection Core: Steady State**\n·Continuously follows nearby opponents and intermittently deals **AoE Electro DMG**;\n·When Mitya has reached the maximum number of **Gradient Beacons** he can have, the device will consume any newly generated **Gradient Beacon** and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG;\n·When its duration ends or another **Detection Core** is created, the device will consume all **Gradient Beacons** Mitya has and deal **AoE Electro DMG** that is considered Stellar-Conduct reaction DMG based on the number consumed.\n\n**Detection Core: Overloaded**\n·While this device is present and Mitya has at least 1 **Gradient Beacon**, he can perform the special Charged Attack **Gradient Detonation** without consuming Stamina.[/Details]\n[Details title=\"Elevation\"]Special DMG Boost effect. It is calculated independently of other DMG Boost effects.[/Details]",
+        "img": "Mitya/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 776.5164
+        },
+        {
+          "stat": "Base DEF",
+          "value": 52.839
+        },
+        {
+          "stat": "Base ATK",
+          "value": 17.56018
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1328.2517
+        },
+        {
+          "stat": "Base DEF",
+          "value": 90.3825
+        },
+        {
+          "stat": "Base ATK",
+          "value": 30.03715
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2063.899
+        },
+        {
+          "stat": "Base DEF",
+          "value": 140.4405
+        },
+        {
+          "stat": "Base ATK",
+          "value": 46.67311
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2615.6343
+        },
+        {
+          "stat": "Base DEF",
+          "value": 177.984
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.15008
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3167.3696
+        },
+        {
+          "stat": "Base DEF",
+          "value": 215.5275
+        },
+        {
+          "stat": "Base ATK",
+          "value": 71.62705
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 100,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3719.105
+        },
+        {
+          "stat": "Base DEF",
+          "value": 253.071
+        },
+        {
+          "stat": "Base ATK",
+          "value": 84.10402
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}

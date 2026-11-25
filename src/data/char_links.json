@@ -83,6 +83,10 @@
     "url": "/characters/cryo/aloy",
     "elt": "cryo"
   },
+  "anastasya": {
+    "url": "/characters/cryo/anastasya",
+    "elt": "cryo"
+  },
   "charlotte": {
     "url": "/characters/cryo/charlotte",
     "elt": "cryo"
@@ -235,6 +239,10 @@
     "url": "/characters/electro/cyno",
     "elt": "electro"
   },
+  "danica": {
+    "url": "/characters/electro/danica",
+    "elt": "electro"
+  },
   "dori": {
     "url": "/characters/electro/dori",
     "elt": "electro"
@@ -271,6 +279,10 @@
     "url": "/characters/electro/lisa",
     "elt": "electro"
   },
+  "mitya": {
+    "url": "/characters/electro/mitya",
+    "elt": "electro"
+  },
   "ororon": {
     "url": "/characters/electro/ororon",
     "elt": "electro"
@@ -289,6 +301,10 @@
   },
   "traveler-electro": {
     "url": "/characters/electro/traveler-electro",
+    "elt": "electro"
+  },
+  "valeriy": {
+    "url": "/characters/electro/valeriy",
     "elt": "electro"
   },
   "varesa": {

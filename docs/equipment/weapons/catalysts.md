@@ -96,6 +96,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 </Weapon>
 
+### Starsealed Edict
+
+<Weapon weapon="Starsealed Edict" weapons={catalysts} />
+
 ### Sunny Morning Sleep-In
 
 <Weapon weapon="Sunny Morning Sleep-In" weapons={catalysts} />
